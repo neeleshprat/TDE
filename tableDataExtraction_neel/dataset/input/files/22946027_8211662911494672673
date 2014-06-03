@@ -1,0 +1,359 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Time zone - Betting company PMBet.net</title>
+<link href="cssn/pmbet.css" rel="stylesheet" type="text/css" media="handheld,all" />
+<link href="css/gio26" rel="stylesheet" type="text/css">
+<!--[if IE]>
+<link rel="stylesheet" href="./css/ie.css" type="text/css" />
+<![endif]-->
+<!--[if IE 5]>
+<link rel="stylesheet" href="./css/ie5.css" type="text/css" />
+<![endif]-->
+<style>
+table.TT
+{
+	width: 99%;
+	border: none;
+	/*border       : 3px double black;*/
+	border: solid 1px #CAD3CE;
+	font-size    : 14px;
+  	text-align   : left;
+  	color        : black;
+  	line-height  : 120%;
+  	border-collapse:collapse;
+  	padding-left : 4;
+
+	background: Silver;
+}
+table.TT td
+{
+	background: #FFFFFF;
+}
+table.TT th
+{
+	background: #ebf2f8;
+	color: #000000;
+}
+table.TT a
+{
+	font-weight: bolder;
+	color: Navy;
+	text-decoration: none;
+}
+table.TT a:hover
+{
+	text-decoration: underline;
+}
+h5 {
+	font-size: 24px;
+	background: none;
+	font-weight: lighter;
+	color: #FF6000;
+	margin: 0px;
+}
+</style>
+<script language='JavaScript' type='text/javascript' src="./jss/behaviour.js"></script>
+<script language='JavaScript' type='text/javascript' src="./jss/common.js"></script>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/javascript">
+</SCRIPT>
+</head>
+
+<body class="main" id="p_sport">
+<div id="z_body">
+<div id="z_container">
+
+<!-- header -->
+<div class="top-menu-out">
+  <div class="top-menu-in">
+    <ul class="top-menu-left">
+														<li><span><form action="/en/gmt.html?login=1" method="post" name="navAuth" id="auth"><a href="/en/gmt.html?login=1" onclick="document.navAuth.submit()">Login</a><input type=hidden name="lang" value="en"></form></span></li>
+                               <li>|<span><a href="./reg.html">Registration</a></span></li>    
+      <li>|<span><a href="./about.html">About</a></span></li>
+     <li>|<span> 2012-02-09 04:27 <a style="color:black;text-decoration: underline;" href="./gmt.html">(GMT+2)</a></span></li>
+      
+    </ul>
+    <ul class="top-menu-right">
+      <li><span><a href="./history.html">Account history</a></span></li>
+      <li>|<span><a href="./setup.html">Setup</a></span></li>
+      <li>|<span><a href="./fillup.html">Deposit</a></span></li>
+      <li>|<span><a href="./withdrawal.html">Withdrawal</a></span></li>
+    </ul>
+  </div>
+</div>
+<!--header-->
+<div class="header">
+  <div class="logo"><a href="/en/"><img src="./images/logo.png" /></a></div>
+<!--  <div class="banner-top"><img src="./images/banner-top.png" /></div>-->
+    
+</div>
+<!--end header--> 
+<!--menu-h-->
+<div class="menu-h-out">
+  <div class="menu-h-in">
+    <div class="menu-h-bg">
+      <ul class="menu-h">
+        <li class="select"><span><a href="/">Sport</a></span></li>
+        <li><span><a target="_blank" href="http://ww.pmsport.tv/">PMSport.TV</a></span></li>
+        <li><span><a href="./mobile.html">PMBet.mobi <font color="#e0360b">New</font></span></li>
+      </ul>
+						      <div class="lang-switcher">
+<select name="lang"  class="lngswtch" onfocus="selectlang=this.selectedIndex;" onchange="if(this.options[this.selectedIndex].disabled){this.selectedIndex=selectlang;} else {document.location.replace(this.value);}">
+	<option value="http://www.pmbet.net/en/gmt.html"  class="lngswitch-opt" style='padding-right:22px; background-image: url("./images/flags/en.gif");background-repeat: no-repeat;background-position:center right;' selected="selected"  >English</option>
+	<option value="http://www.pmbet.net/gmt.html" class="lngswitch-opt"  style='padding-right:22px; background-image: url("./images/flags/ru.gif");background-repeat: no-repeat;background-position:center right;'  >Russian</option>    
+</select>
+
+
+      <!--<div id="x_top">
+			<div id="z_LangSwitcher" onload="" style='display:none;'>
+				<dl>
+					<script>
+						document.write(GenerateLangSwitcher());
+					</script>
+				</dl>
+			</div>
+			<form name="paramholder" style="display:none">
+				<input type=hidden name="lang" value="en">			</form>
+
+			<div class="tabs">
+				<table align="right" cellpadding="0" cellspacing="0">
+					<tr>
+						
+					</tr>
+				</table>
+                						<a href="http://www.pmbet.net/gmt.html" ><img src="./img/ru.jpg" alt="Russian" border="0"></a>
+						<a href="http://www.pmbet.net/en/gmt.html"><img src="./img/en.jpg" alt="English" border="0"></a>
+			</div>
+  			<a href="./"><img src="./img/logo.jpg"  border="0" id="x_logo"></a>
+
+
+		</div>
+-->
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--end menu-h--> 
+<!--info line-->
+<div class="info-line"><marquee width="100%" scrollamount="5" scrolldelay="115"><a class="info-message" href="/">22:00 Barcelona - Real Madrid NTV soccer</a></marquee></div>
+<!--end info line--><!-- /header -->
+<table class="frame3">
+      <tr>
+        <td class="left-col">
+<!-- right -->
+<!-- /right -->
+
+<!-- left -->
+<div class="bt-left-block">
+<form name="sports" id="sports" action="./line.html">
+<div class="bt-live"><a href=live.html>LIVE betting</a></div>
+      <div class="bt-all-line"><a href=line.html?id=0>All sports</a></div>
+      <div class="bt-today"><a href=line.html?id=0&filter=today>Today</a></div></div>
+      <div class="filter-left-block">
+      <h4>Sports</h4>
+      <ul class="filter-left">
+   <li><span><a href=line.html?id=25>Bandy</a><input type="checkbox" class="checkbox_filter" value="25"></span></li><li><span><a href=line.html?id=2>Basketball</a><input type="checkbox" class="checkbox_filter" value="2"></span></li><li><span><a href=line.html?id=5>Boxing</a><input type="checkbox" class="checkbox_filter" value="5"></span></li><li><span><a href=line.html?id=21>Football</a><input type="checkbox" class="checkbox_filter" value="21"></span></li><li><span><a href=line.html?id=23>Hockey</a><input type="checkbox" class="checkbox_filter" value="23"></span></li><li><span><a href=line.html?id=11>Lottery</a><input type="checkbox" class="checkbox_filter" value="11"></span></li><li><span><a href=line.html?id=18>Tennis</a><input type="checkbox" class="checkbox_filter" value="18"></span></li><input type=hidden name=id>
+        <li><span onclick="submit_sports();" id="filter-left-filter">Show selected</span></li>
+        <li><span id="filter-left-cencel" onclick="clear_sports();">Clear selected</span></li>
+      </ul>
+      </div>
+</form>
+
+<div class="menu-left-block">
+<h4>Information</h4>
+      <ul class="menu-left">
+        <li id="item-live"><a href="./liveres.html"><em>LIVE</em> results</a></li>
+      <li><a href="/">Tease</a></li>
+      <li class="select"><a href="./res.html">Results</a></li>
+      <li><a href="./stats.html">Statistics</a></li></ul></div>
+<div class="reglament-left-block">      
+      <h4>Regulation</h4>
+      <ul class="reglament-left">
+      <li><a href="./rules.html">Rules</a></li>
+      <li class="select"><a href="./privacy.html">Privacy policy</a></li>
+      <li><a href="./security.html">Security policy</a></li>
+      <li><a href="./bonus.html">Bonus</a></li></ul></div><!-- /left -->
+</td>
+        <td class="center-col"><div class="center-col-in">
+<!-- body  -->
+<div id="z_contentw" class="padder_10L">
+<h5>Current time zone: (GMT +2)</h5><p align=left>&nbsp;&nbsp;Select the needed time zone.</p>
+<table Class="TT" Border="3" BorderColor="#CAD3CE" CellSpacing="0" Width="760" cellpadding="2">
+  <colgroup span="1" width="100" align=left>
+  <colgroup span="1" align=left>
+  <tr>
+    <th>Zone</th>
+    <th>Regions</th>
+  </tr>
+  <tr class="row2">
+    <td><a href="?TZ=-12">GMT -12</a></td>
+    <td>Eniwetok, Kwajalein</td>
+  </tr>
+  <tr class="row1">
+    <td><a href="?TZ=-11">GMT -11</a></td>
+    <td>Midway Island, Samoa</td>
+  </tr>
+  <tr class="row2">
+    <td><a href="?TZ=-10">GMT -10</a></td>
+    <td>Hawaii</td>
+  </tr>
+  <tr class="row1">
+    <td><a href="?TZ=-9">GMT -09</a></td>
+    <td>Alaska</td>
+  </tr>
+  <tr class="row2">
+    <td><a href="?TZ=-8">GMT -08</a></td>
+    <td>Pacific Time (US &amp; Canada), Tijuana</td>
+  </tr>
+  <tr class="row1">
+    <td><a href="?TZ=-7">GMT -07</a></td>
+    <td>Mountain Time (US &amp; Canada), Arizona</td>
+  </tr>
+  <tr class="row2">
+    <td><a href="?TZ=-6">GMT -06</a></td>
+    <td>Central Time (US &amp; Canada), Mexico City, Tegucigalpa, Saskatchewan</td>
+  </tr>
+  <tr class="row1">
+    <td><a href="?TZ=-5">GMT -05</a></td>
+    <td>Eastern Time (US &amp; Canada), Indiana (East), Bogota, Limo, Quito</td>
+  </tr>
+  <tr class="row2">
+    <td><a href="?TZ=-4">GMT -04</a></td>
+    <td>Atlantic Time (Canada), Caracas, La Paz, Santiago</td>
+  </tr>
+  <tr class="row1">
+    <td><a href="?TZ=-3.5">GMT -03:30 </a></td>
+    <td>Newfoundland</td>
+  </tr>
+  <tr class="row2">
+    <td><a href="?TZ=-3">GMT -03</a></td>
+    <td>Brasilia, Buenos Aires, Georgetown</td>
+  </tr>
+  <tr class="row1">
+    <td><a href="?TZ=-2">GMT -02</a></td>
+    <td>Mid-Atlantic</td>
+  </tr>
+  <tr class="row2">
+    <td><a href="?TZ=-1">GMT -01</a></td>
+    <td>Azores, Cape Verde Is.</td>
+  </tr>
+  <tr class="row1">
+    <td><a href="?TZ=0">GMT </a></td>
+    <td>Greenwich Mean Time: Casablanca, Dublin, Edinburgh, Lisbon, London, Monrovia</td>
+  </tr>
+  <tr class="row2">
+    <td><a href="?TZ=1">GMT +01</a></td>
+    <td>Amsterdam, Belgrade, Berlin, Bern, Copenhagen, Madrid, Paris, Rome, Stockholm, 
+    Sarajevo, Skopje, Sofija, Vilnius, Zagreb</td>
+  </tr>
+  <tr class="row1">
+    <td><a href="?TZ=2">GMT +02</a></td>
+    <td>Athens, Bucharest, Cairo, Harare, Helsinki, Istanbul, Kyiv, Minsk, Pretoria, 
+    Riga, Tallinn, Israel</td>
+  </tr>
+  <tr class="row2">
+    <td><a href="?TZ=3">GMT +03</a></td>
+    <td>Baghdad, Moscow, Nairobi, Riyadh, St. Petersburg, Volgograd, Kuwait</td>
+  </tr>
+  <tr class="row1">
+    <td><a href="?TZ=3.5">GMT +03:30</a></td>
+    <td>Tehran</td>
+  </tr>
+  <tr class="row2">
+    <td><a href="?TZ=4">GMT +04</a></td>
+    <td>Abu Dhabi, Baku, Muscat, Tbilisi, Yerevan</td>
+  </tr>
+  <tr class="row1">
+    <td><a href="?TZ=4.5">GMT +04:30</a></td>
+    <td>Kabul</td>
+  </tr>
+  <tr class="row2">
+    <td><a href="?TZ=5">GMT +05</a></td>
+    <td>Islamabad, Karachi, Tashkent, Yekaterinburg</td>
+  </tr>
+  <tr class="row1">
+    <td><a href="?TZ=5.5">GMT +05:30</a></td>
+    <td>Bombay, Calcutta, Colombo, Madras, New Delhi</td>
+  </tr>
+  <tr class="row2">
+    <td><a href="?TZ=5.75">GMT +05:45</a></td>
+    <td>Kathmandu</td>
+  </tr>
+  <tr class="row1">
+    <td><a href="?TZ=6">GMT +06</a></td>
+    <td>Almaty, Astana, Dhaka, Novosibirsk</td>
+  </tr>
+  <tr class="row2">
+    <td><a href="?TZ=6.5">GMT +06:30</a></td>
+    <td>Rangoon </td>
+  </tr>
+  <tr class="row1">
+    <td><a href="?TZ=7">GMT +07</a></td>
+    <td>Bangkok, Hanoi, Jakarta, Krasnoyarsk </td>
+  </tr>
+  <tr class="row2">
+    <td><a href="?TZ=8">GMT +08</a></td>
+    <td>Beijing, Chongqing, Hong Kong, Irku Manila, Irkutsk, Perth, Singapore, Taipei, 
+    Ulaan Bataar </td>
+  </tr>
+  <tr class="row1">
+    <td><a href="?TZ=9">GMT +09</a></td>
+    <td>Osaka, Sapporo, Seoul, Tokyo, Yakutsk </td>
+  </tr>
+  <tr class="row2">
+    <td><a href="?TZ=9.5">GMT +09:30</a></td>
+    <td>Adelaide, Darwin</td>
+  </tr>
+  <tr class="row1">
+    <td><a href="?TZ=10">GMT +10</a></td>
+    <td>Brisbane, Canberra, Guam, Hobart, Melbourne, Port Moresby, Sydney, Vladivostok</td>
+  </tr>
+  <tr class="row2">
+    <td><a href="?TZ=11">GMT +11</a></td>
+    <td>Magadan, New Caledonia, Noumea, Solomon Is.</td>
+  </tr>
+  <tr class="row1">
+    <td><a href="?TZ=12">GMT +12</a></td>
+    <td>Auckland, Fiji, Kamchatka, Marshall Is., Suva, Wellington</td>
+  </tr>
+  <tr class="row2">
+    <td><a href="?TZ=13">GMT +13</a></td>
+    <td>Nukualofa</td>
+  </tr>
+</table></div>
+<div style="clear: both"></div>
+<!-- /body  -->
+</div>
+</td>
+      </tr>
+    </table>
+<!-- footer -->
+<div class="footer">
+  <div class="copyright-block">
+    <p class="copyright">2011 &copy; pmbet.net. Support: <img src="images/ico-mail.png"/> <img src="images/email.png"></img> (RUS, UKR, ENG), <img src="images/ico-phone.png" /> +356 3 550-08-84 (Malta) (RUS, UKR)</p>
+    <p class="atent"> <span class="eighteen">18+</span> Persons under the age of 18 are prohibited from making use of the pmbet.net betting.</p>
+    <p class="atent"> All betting are void where prohibited by the law. Minors are strictly forbidden to betting. Please keep your access details safe at all times (user ID, password and your question and answer combination).</p>
+	<p class="atent">Furthermore, we would recommend that you install filter software. This software will allow you to restrict internet access for children and young people.</p>
+  </div>
+  <div class="paysystems"><img src="images/icons-paysystems.png" alt="payment logos" /></div>
+</div>
+
+<!-- google -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-15726362-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- /google -->
+<!-- /footer -->
+
+</div>
+</body>
+</html>
+

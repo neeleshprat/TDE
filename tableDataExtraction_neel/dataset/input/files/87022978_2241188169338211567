@@ -1,0 +1,527 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	Speakers
+</title><link href="../css/ajax.css" rel="stylesheet" type="text/css" /><link href="../css/css.css" rel="stylesheet" type="text/css" />
+     <script language = "JavaScript">
+        function preloader() 
+        {
+        heavyImage = new Image(); 
+        heavyImage.src = "../images/link_bg_hover.gif";
+        }
+     </script>
+</head>
+<body id="ctl00_MasterBody" onload="javascript:preloader();">
+    <form name="aspnetForm" method="post" action="Speakers.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTI3NDA1NTk2NA9kFgJmD2QWAgIDDxYCHgZvbmxvYWQFF2phdmFzY3JpcHQ6cHJlbG9hZGVyKCk7FgICAQ9kFgQCAw88KwANAgAPFgIeC18hRGF0YUJvdW5kZ2QMFCsAAgUDMDowFCsAAhYOHgRUZXh0BQRIb21lHgVWYWx1ZQUESG9tZR4LTmF2aWdhdGVVcmwFGS9uYW1lczIwMDgvSG9tZS9Ib21lLmFzcHgeB0VuYWJsZWRnHgpTZWxlY3RhYmxlZx4IRGF0YVBhdGgFGS9uYW1lczIwMDgvaG9tZS9ob21lLmFzcHgeCURhdGFCb3VuZGcUKwAOBTYwOjAsMDoxLDA6MiwwOjMsMDo0LDA6NSwwOjYsMDo3LDA6OCwwOjksMDoxMCwwOjExLDA6MTIUKwACFg4fAgUIT3ZlcnZpZXcfAwUIT3ZlcnZpZXcfBAUmL25hbWVzMjAwOC9Ib21lL1N0YXRpY1BhZ2UuYXNweD9wYWdlPTQfBWcfBmcfBwUmL25hbWVzMjAwOC9ob21lL3N0YXRpY3BhZ2UuYXNweD9wYWdlPTQfCGdkFCsAAhYQHwIFCFNwZWFrZXJzHwMFCFNwZWFrZXJzHwQFIS9uYW1lczIwMDgvU3BlYWtlcnMvU3BlYWtlcnMuYXNweB8FZx8GZx8HBSEvbmFtZXMyMDA4L3NwZWFrZXJzL3NwZWFrZXJzLmFzcHgfCGceCFNlbGVjdGVkZ2QUKwACFg4fAgUHUHJvZ3JhbR8DBQdQcm9ncmFtHwQFHi9uYW1lczIwMDgvQWdlbmRhL1Byb2dyYW0uYXNweB8FZx8GZx8HBR4vbmFtZXMyMDA4L2FnZW5kYS9wcm9ncmFtLmFzcHgfCGdkFCsAAhYOHwIFDVJlZ2lzdHJhdGlvbiAfAwUNUmVnaXN0cmF0aW9uIB8EBSUvbmFtZXMyMDA4L1JlZ2lzdHJhdGlvbi9SZWdMb2dpbi5hc3B4HwVnHwZnHwcFJS9uYW1lczIwMDgvcmVnaXN0cmF0aW9uL3JlZ2xvZ2luLmFzcHgfCGdkFCsAAhYOHwIFCExvY2F0aW9uHwMFCExvY2F0aW9uHwQFJi9uYW1lczIwMDgvSG9tZS9TdGF0aWNQYWdlLmFzcHg/cGFnZT04HwVnHwZnHwcFJi9uYW1lczIwMDgvaG9tZS9zdGF0aWNwYWdlLmFzcHg/cGFnZT04HwhnZBQrAAIWDh8CBQROZXdzHwMFBE5ld3MfBAUZL25hbWVzMjAwOC9OZXdzL0xpc3QuYXNweB8FZx8GZx8HBRkvbmFtZXMyMDA4L25ld3MvbGlzdC5hc3B4HwhnZBQrAAIWDh8CBQ1QcmVzZW50YXRpb25zHwMFDVByZXNlbnRhdGlvbnMfBAUlL25hbWVzMjAwOC9TcGVha2Vycy9QcmVzZW50YWlvbnMuYXNweB8FZx8GZx8HBSUvbmFtZXMyMDA4L3NwZWFrZXJzL3ByZXNlbnRhaW9ucy5hc3B4HwhnZBQrAAIWDh8CBQ9JbXBvcnRhbnQgRGF0ZXMfAwUPSW1wb3J0YW50IERhdGVzHwQFJy9uYW1lczIwMDgvSW1wb3J0YW50RGF0ZXMvSW1wRGF0ZXMuYXNweB8FZx8GZx8HBScvbmFtZXMyMDA4L2ltcG9ydGFudGRhdGVzL2ltcGRhdGVzLmFzcHgfCGdkFCsAAhYOHwIFD0ltcG9ydGFudCBMaW5rcx8DBQ9JbXBvcnRhbnQgTGlua3MfBAUnL25hbWVzMjAwOC9JbXBvcnRhbnRMaW5rcy9JbXBMaW5rcy5hc3B4HwVnHwZnHwcFJy9uYW1lczIwMDgvaW1wb3J0YW50bGlua3MvaW1wbGlua3MuYXNweB8IZ2QUKwACFg4fAgUNUGhvdG8gR2FsbGVyeR8DBQ1QaG90byBHYWxsZXJ5HwQFHy9uYW1lczIwMDgvR2FsbGVyeS9HYWxsZXJ5LmFzcHgfBWcfBmcfBwUfL25hbWVzMjAwOC9nYWxsZXJ5L2dhbGxlcnkuYXNweB8IZ2QUKwACFg4fAgUOTWVkaWEgQ292ZXJhZ2UfAwUOTWVkaWEgQ292ZXJhZ2UfBAUnL25hbWVzMjAwOC9Ib21lL1N0YXRpY1BhZ2UuYXNweD9wYWdlPTEzHwVnHwZnHwcFJy9uYW1lczIwMDgvaG9tZS9zdGF0aWNwYWdlLmFzcHg/cGFnZT0xMx8IZ2QUKwACFg4fAgUFVG91cnMfAwUFVG91cnMfBAUmL25hbWVzMjAwOC9Ib21lL1N0YXRpY1BhZ2UuYXNweD9wYWdlPTkfBWcfBmcfBwUmL25hbWVzMjAwOC9ob21lL3N0YXRpY3BhZ2UuYXNweD9wYWdlPTkfCGdkFCsAAhYOHwIFBEZhaXIfAwUERmFpch8EBRkvbmFtZXMyMDA4L0ZhaXIvRmFpci5hc3B4HwVnHwZnHwcFGS9uYW1lczIwMDgvZmFpci9mYWlyLmFzcHgfCGdkZAIFD2QWAgIDDzwrAA0BAA8WBB8BZx4LXyFJdGVtQ291bnQCH2QWAmYPZBZAAgEPZBYIZg9kFgJmDxUCL1NwZWFrZXJEZXRhaWxzLmFzcHg/SUQ9WUZWNmJXSWJEUm5EdWhXdVJHMGRJQT09EUFsbXV0YXdhLCBNaWpiaWwgZAIBD2QWAmYPFQFAQ2hhaXJtYW4gYW5kIG1hbmFnaW5nIGRpcmVjdG9yLCBUaGUgU2NpZW50aWZpYyBDZW50ZXIgb2YgS3V3YWl0IGQCAg9kFgJmDxUBBkt1d2FpdGQCAw9kFgJmDxUBAGQCAg9kFghmD2QWAmYPFQIvU3BlYWtlckRldGFpbHMuYXNweD9JRD1IaGVzVW00dndyZkwyMHMvUmdlaGh3PT0QQXdueSwgTW9oYW1lZCBNLmQCAQ9kFgJmDxUBK0RpcmVjdG9yIG9mIFRlY2hub2xvZ3kgTWFuYWdlbWVudCBQcm9ncmFtbWVkAgIPZBYCZg8VAQdCYWhyYWluZAIDD2QWAmYPFQEAZAIDD2QWCGYPZBYCZg8VAi9TcGVha2VyRGV0YWlscy5hc3B4P0lEPXhjb2RHRFZXVEIvNVhhSXkyYlNacEE9PRNCZW4gSXNtYWlsLCBNb2hhbWVkZAIBD2QWAmYPFQEkRGlyZWN0b3IgZ2VuZXJhbCxUdW5pcyBTY2llbmNlIENpdHkgZAICD2QWAmYPFQEHVHVuaXNpYWQCAw9kFgJmDxUBAGQCBA9kFghmD2QWAmYPFQIvU3BlYWtlckRldGFpbHMuYXNweD9JRD1lZUxaSEJKc2N5QllnNlRKVkFRQnRRPT0LQm9vdGgsIEJpbGxkAgEPZBYCZg8VAThBY3RpbmcgRGlyZWN0b3Igb2YgRXhoaWJpdHMgU2VydmljZXMsIEV4cGxvcmF0b3JpdW0sIFVTQWQCAg9kFgJmDxUBGFVuaXRlZCBTdGF0ZXMgb2YgQW1lcmljYWQCAw9kFgJmDxUBAGQCBQ9kFghmD2QWAmYPFQIvU3BlYWtlckRldGFpbHMuYXNweD9JRD1UeTNCUmc1bi8xbGZZRlIyL3FOMXFRPT0MQnJ1dG9uLCBNaWtlZAIBD2QWAmYPFQFYUGFzdC1QcmVzaWRlbnQsIFNBQVNURUMgKFNvdXRoZXJuIEFmcmljYW4gQXNzb2NpYXRpb24gb2YgU2NpZW5jZSBhbmQgVGVjaG5vbG9neSBDZW50ZXJzKWQCAg9kFgJmDxUBDFNvdXRoIEFmcmljYWQCAw9kFgJmDxUBAGQCBg9kFghmD2QWAmYPFQIvU3BlYWtlckRldGFpbHMuYXNweD9JRD0vWmRqQi9oZTg3aXhlbHIwOHFyNTl3PT0OQnVydG9uLCBNaWtlICBkAgEPZBYCZg8VAVlQYXN0LVByZXNpZGVudCwgU0FBU1RFQyAoU291dGhlcm4gQWZyaWNhbiBBc3NvY2lhdGlvbiBvZiBTY2llbmNlIGFuZCBUZWNobm9sb2d5IENlbnRlcnMpIGQCAg9kFgJmDxUBDFNvdXRoIEFmcmljYWQCAw9kFgJmDxUBAGQCBw9kFghmD2QWAmYPFQIvU3BlYWtlckRldGFpbHMuYXNweD9JRD15a0U5Si84cmdoS2RsVHZSdmg1YlF3PT0RQ2hhYWJvdW5pLCBIYWJpYmFkAgEPZBYCZg8VASxIZWFkLCBHZW5ldGljIExhYm9yYXRvciwgVW5pdmVyc2l0eSBvZiBUdW5pc2QCAg9kFgJmDxUBB1R1bmlzaWFkAgMPZBYCZg8VAQBkAggPZBYIZg9kFgJmDxUCL1NwZWFrZXJEZXRhaWxzLmFzcHg/SUQ9eFFid2IvdENvYlpiT2pSYW8ydUNLQT09DURyYWVnZXIsIEFsYW5kAgEPZBYCZg8VAVFBc3NvY2lhdGUgRGlyZWN0b3IsIFRyYXZlbGluZyBQcm9ncmFtcywgQW1lcmljYW4gTXVzZXVtIG9mIE5hdHVyYWwgSGlzdG9yeSAoQU1OSClkAgIPZBYCZg8VARhVbml0ZWQgU3RhdGVzIG9mIEFtZXJpY2FkAgMPZBYCZg8VAQBkAgkPZBYIZg9kFgJmDxUCL1NwZWFrZXJEZXRhaWxzLmFzcHg/SUQ9c3NZR3V3SWJoT3pvT0ZWcUxRQk9CZz09DUR3ZWlrLCBIYXNzYW5kAgEPZBYCZg8VAVZFeGVjdXRpdmUgVmljZSBQcmVzaWRlbnQgYW5kIERpcmVjdG9yIG9mIFNjaWVuY2UgYW5kIE1hdGggTXVzZXVtcywgIEFsLVF1ZHMgVW5pdmVyc2l0eWQCAg9kFgJmDxUBCVBhbGVzdGluZWQCAw9kFgJmDxUBAGQCCg9kFghmD2QWAmYPFQIvU3BlYWtlckRldGFpbHMuYXNweD9JRD1kSEJRNytyMjhYSi9xNDl3Rk1rWlJBPT0NRWxiYXosIEZhcm91a2QCAQ9kFgJmDxUBlAFEaXJlY3RvciwgQ2VudGVyIGZvciBSZW1vdGUgU2Vuc2luZywgQm9zdG9uIFVuaXZlcnNpdHksIEJvc3RvbiwgTUEsIFUuUy5BLCBhZGp1bmN0IFByb2Zlc3NvciwgRmFjdWx0eSBvZiBTY2llbmNlLCBBaW4gU2hhbXMgVW5pdmVyc2l0eSwgQ2Fpcm8sIEVneXB0ZAICD2QWAmYPFQEFRWd5cHRkAgMPZBYCZg8VAQBkAgsPZBYIZg9kFgJmDxUCL1NwZWFrZXJEZXRhaWxzLmFzcHg/SUQ9ZloweXJLNnk2OERaK1pwTFp0MHFDZz09EEVsa2FmZmFzcyAsIEltYW5kAgEPZBYCZg8VAVNDaGFpcnBlcnNvbiwg4oCcU1RFUCBVUOKAnSBDb25zdWx0YXRpb25zLCBUcmFpbmluZ3MgYW5kIEVkdWNhdGlvbmFsIFNlcnZpY2VzLCBFR1lQVGQCAg9kFgJmDxUBBUVneXB0ZAIDD2QWAmYPFQEAZAIMD2QWCGYPZBYCZg8VAi9TcGVha2VyRGV0YWlscy5hc3B4P0lEPVpEdHRCNmxXN1pXU29CaVVONnEyaUE9PRBFbGthbGlvdWJ5LCBSYW5hZAIBD2QWAmYPFQFQUmVzZWFyY2ggU2NpZW50aXN0LCBNZWRpYSBMYWJvcmF0b3J5LCBNYXNzYWNodXNldHRzIEluc3RpdHV0ZSBvZiBUZWNobm9sb2d5LCBVU0FkAgIPZBYCZg8VAQVFZ3lwdGQCAw9kFgJmDxUBAGQCDQ9kFghmD2QWAmYPFQIvU3BlYWtlckRldGFpbHMuYXNweD9JRD1TWEpJZUcyQTdKOHo2aVFDYmR0dzRnPT0KRXZhbnMsIFN1ZWQCAQ9kFgJmDxUBI1ByZXNpZGVudCwgU3RhcnRSRUFMIEZvdW5kYXRpb24gVVNBZAICD2QWAmYPFQEYVW5pdGVkIFN0YXRlcyBvZiBBbWVyaWNhZAIDD2QWAmYPFQEAZAIOD2QWCGYPZBYCZg8VAi9TcGVha2VyRGV0YWlscy5hc3B4P0lEPVU0eU5TT1A0UUQrOVlkenc3YkdkeVE9PRNGZXJyaW5pLU11bmR5LCBKb2FuZAIBD2QWAmYPFQFHRGlyZWN0b3IsIERpdmlzaW9uIG9mIFJlc2VhcmNoIG9uIExlYXJuaW5nLCBOYXRpb25hbCBTY2llbmNlIEZvdW5kYXRpb25kAgIPZBYCZg8VARhVbml0ZWQgU3RhdGVzIG9mIEFtZXJpY2FkAgMPZBYCZg8VAQBkAg8PZBYIZg9kFgJmDxUCL1NwZWFrZXJEZXRhaWxzLmFzcHg/SUQ9ZHpOcEZXWU94aHdwWjRhYXNzMjAxQT09EkZyYW5jaGUsIENhdGhlcmluZWQCAQ9kFgJmDxUBTEV4ZWN1dGl2ZSBEaXJlY3RvciwgRXVyb3BlYW4gTmV0d29yayBvZiBTY2llbmNlIENlbnRlcnMgYW5kIE11c2V1bXMgKEVDU0lURSlkAgIPZBYCZg8VAQdCZWxnaXVtZAIDD2QWAmYPFQEAZAIQD2QWCGYPZBYCZg8VAi9TcGVha2VyRGV0YWlscy5hc3B4P0lEPTVYbmRWMkxjazk5eERTWmhwc1Z5aHc9PQ5IYXNzYW4gLCBGZWtyeWQCAQ9kFgJmDxUBHFNjaWVuY2UgQ2l0eSBwcm9qZWN0cywgRWd5cHRkAgIPZBYCZg8VAQVFZ3lwdGQCAw9kFgJmDxUBAGQCEQ9kFghmD2QWAmYPFQIvU3BlYWtlckRldGFpbHMuYXNweD9JRD1TYlA1a01DeTB2VFpWMmpBRlZ4MmZRPT0LSG9lZywgQXNnZXJkAgEPZBYCZg8VAWRQYXN0LVByZXNpZGVudCwgRXVyb3BlYW4gTmV0d29yayBvZiBTY2llbmNlIENlbnRlcnMgYW5kIE11c2V1bXMgKEVDU0lURSkgLSBEaXJlY3RvciwgRXhwZXJpbWVudGFyaXVtZAICD2QWAmYPFQEHRGVubWFya2QCAw9kFgJmDxUBAGQCEg9kFghmD2QWAmYPFQIvU3BlYWtlckRldGFpbHMuYXNweD9JRD1CeERRM3I1WUtWSVBDcmpNanVqUzJBPT0LSG9lZywgQXNnZXJkAgEPZBYCZg8VAWVQYXN0LVByZXNpZGVudCwgRXVyb3BlYW4gTmV0d29yayBvZiBTY2llbmNlIENlbnRlcnMgYW5kIE11c2V1bXMgKEVDU0lURSkgLSBEaXJlY3RvciwgRXhwZXJpbWVudGFyaXVtIGQCAg9kFgJmDxUBB0Rlbm1hcmtkAgMPZBYCZg8VAQBkAhMPZBYIZg9kFgJmDxUCL1NwZWFrZXJEZXRhaWxzLmFzcHg/SUQ9Ynh1WjJkUjFFMVN3UnYzcG5Qc1JvQT09C0thd2FyLCBSYW5hZAIBD2QWAmYPFQEmRnVuZCBNYW5hZ2VyLCBNaWRkbGUgRWFzdCBTY2llbmNlIEZ1bmRkAgIPZBYCZg8VAQZKb3JkYW5kAgMPZBYCZg8VAQBkAhQPZBYIZg9kFgJmDxUCL1NwZWFrZXJEZXRhaWxzLmFzcHg/SUQ9aWZVOU9ybGJBVWxVa293K2ZWa0Y0QT09DktheW5hciwgU2VyaWYgZAIBD2QWAmYPFQEtUHJlc2lkZW50LCBUdXJrZXkgU2NpZW5jZSBDZW50ZXJzIEZvdW5kYXRpb24gZAICD2QWAmYPFQEGVHVya2V5ZAIDD2QWAmYPFQEAZAIVD2QWCGYPZBYCZg8VAi9TcGVha2VyRGV0YWlscy5hc3B4P0lEPThZM3FlZTBiV0pQL2l1SGJPaS9hcHc9PRFMaXBhcmRpLCBWaW5jZW56b2QCAQ9kFgJmDxUBalByZXNpZGVudCwgRXVyb3BlYW4gTmV0d29yayBvZiBTY2llbmNlIENlbnRlcnMgYW5kIE11c2V1bXMgKEVDU0lURSkgLSBGb25kYXppb25lIElESVMtQ2l0dMOgIGRlbGxhIFNjaWVuemFkAgIPZBYCZg8VAQVJdGFseWQCAw9kFgJmDxUBAGQCFg9kFghmD2QWAmYPFQIvU3BlYWtlckRldGFpbHMuYXNweD9JRD02M3hCaFpWNXk0Z2g5QXlOVXZHNGtBPT0QTWFsY29sbSwgU2hpcmxleWQCAQ9kFgJmDxUBaEhlYWQsIEVkdWNhdGlvbiBhbmQgSHVtYW4gUmVzb3VyY2VzIFByb2dyYW1zLCBBbWVyaWNhbiBBc3NvY2lhdGlvbiBmb3IgdGhlIEFkdmFuY2VtZW50IG9mIFNjaWVuY2UgKEFBQVMpZAICD2QWAmYPFQEYVW5pdGVkIFN0YXRlcyBvZiBBbWVyaWNhZAIDD2QWAmYPFQEAZAIXD2QWCGYPZBYCZg8VAi9TcGVha2VyRGV0YWlscy5hc3B4P0lEPUlUZGR2ckR3ME5zOHVkUFcwWE5TY0E9PQpNYXNvbiwgVG9tZAIBD2QWAmYPFQFQUHJlc2lkZW50IEVsZWN0LCBJbnRlcm5hdGlvbmFsIFBsYW5ldGFyaXVtIFNvY2lldHksIERpcmVjdG9yLCBBcm1hZ2ggUGxhbmV0YXJpdW1kAgIPZBYCZg8VAQ5Vbml0ZWQgS2luZ2RvbWQCAw9kFgJmDxUBAGQCGA9kFghmD2QWAmYPFQIvU3BlYWtlckRldGFpbHMuYXNweD9JRD1RTE9TaDBEdExEVFpJN2dYMFJNZmlRPT0PTWV0aG5hbmksIFJpZGhhZAIBD2QWAmYPFQFiUHJvZmVzc29yIG9mIFNjaWVuY2UgQ29tbXVuaWNhdGlvbiwgVHVuaXNpYW4gTWluaXN0cnkgb2YgSGlnaGVyIEVkdWNhdGlvbiwgUmVzZWFyY2ggYW5kIFRlY2hub2xvZ3lkAgIPZBYCZg8VAQdUdW5pc2lhZAIDD2QWAmYPFQEAZAIZD2QWCGYPZBYCZg8VAi9TcGVha2VyRGV0YWlscy5hc3B4P0lEPTc5K3lZL2tZTSsrR0JqZnBBMFFoYkE9PRNNdWtob3BhZGh5YXksIEluZ2l0ZAIBD2QWAmYPFQFpTWVtYmVyLCB0aGUgSW50ZXJuYXRpb25hbCBQcm9ncmFtIENvbW1pdHRlZSwgU0NXQyAtIERpcmVjdG9yIEdlbmVyYWwsIE5hdGlvbmFsIENvdW5jaWwgb2YgU2NpZW5jZSBNdXNldW1zZAICD2QWAmYPFQEFSW5kaWFkAgMPZBYCZg8VAQBkAhoPZBYIZg9kFgJmDxUCL1NwZWFrZXJEZXRhaWxzLmFzcHg/SUQ9UlR1Vmsrd2Z0WnQ2dVdIUGwxMjR3dz09GE5hc2FyaWFoIElicmFoaW0sIFRlbmdrdWQCAQ9kFgJmDxUBVU1lbWJlciwgdGhlIEludGVybmF0aW9uYWwgUHJvZ3JhbSBDb21taXR0ZWUsIFNDV0MgLSBQZXRyb3NhaW5zIChUaGUgRGlzY292ZXJ5IENlbnRlcilkAgIPZBYCZg8VAQhNYWxheXNpYWQCAw9kFgJmDxUBAGQCGw9kFghmD2QWAmYPFQIvU3BlYWtlckRldGFpbHMuYXNweD9JRD12MzBBSFpnR2lKMjFVdlhYUmZwcDlnPT0LTnltYW4sIEhhbnNkAgEPZBYCZg8VAS9WaWNlIHByZXNpZGVudCwgZnJpZW5kcyBvZiBBbGV4YW5kcmlhIGluIFN3ZWRlbmQCAg9kFgJmDxUBBlN3ZWRlbmQCAw9kFgJmDxUBAGQCHA9kFghmD2QWAmYPFQIvU3BlYWtlckRldGFpbHMuYXNweD9JRD1NTnFKaHZ0WVI5RkVTVzFvS3IyVXl3PT0TUGVyc3NvbiwgUGVyLUVkdmluIGQCAQ9kFgJmDxUBLkRpcmVjdG9yLCBIZXVyZWthICh0aGUgRmlubmlzaCBTY2llbmNlIENlbnRlcilkAgIPZBYCZg8VAQdGaW5sYW5kZAIDD2QWAmYPFQEAZAIdD2QWCGYPZBYCZg8VAi9TcGVha2VyRGV0YWlscy5hc3B4P0lEPWVNbjNLb1JGditUb2ZZeU54Z1FFdUE9PRJTZXJhZ2VsZGluLCBJc21haWxkAgEPZBYCZg8VASJEaXJlY3RvciwgQmlibGlvdGhlY2EgQWxleGFuZHJpYW5hZAICD2QWAmYPFQEFRWd5cHRkAgMPZBYCZg8VAQBkAh4PZBYIZg9kFgJmDxUCL1NwZWFrZXJEZXRhaWxzLmFzcHg/SUQ9SEU4VTNwMWxuMXJCaTdTWjhnSmEwQT09EFN0YXZlbG96LCBXYWx0ZXJkAgEPZBYCZg8VAVVEaXJlY3RvciBvZiBJbnRlcm5hdGlvbmFsIFJlbGF0aW9ucywgQXNzb2NpYXRpb24gb2YgU2NpZW5jZS1UZWNobm9sb2d5IENlbnRlcnMgKEFTVEMpZAICD2QWAmYPFQEYVW5pdGVkIFN0YXRlcyBvZiBBbWVyaWNhZAIDD2QWAmYPFQEAZAIfD2QWCGYPZBYCZg8VAi9TcGVha2VyRGV0YWlscy5hc3B4P0lEPURCTXNlelUwaXJiQ1R3ak1NeDBGMGc9PRZUYWfDvGXDsWEgUGFyZ2EsIEp1bGlhZAIBD2QWAmYPFQFPTWVtYmVyLCB0aGUgSW50ZXJuYXRpb25hbCBQcm9ncmFtIENvbW1pdHRlZSwgU0NXQyAtIEV4ZWN1dGl2ZSBEaXJlY3RvciwgUmVkLVBPUGQCAg9kFgJmDxUBBk1leGljb2QCAw9kFgJmDxUBAGQCIA8PFgIeB1Zpc2libGVoZGQYAgUlY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRER19TcGVha2Vycw88KwAKAQgCAWQFC2N0bDAwJE1lbnUxDw9kBQ1Ib21lXFNwZWFrZXJzZH1UHJXMdYVbdylb6nW2VdAmEpS4" />
+
+
+<script src="/names2008/WebResource.axd?d=cfeMw0KpAViaTCaQxadK8t6DBuI4qcdUeAGkdSJmqLgpQraqb7cQt0j1-faStQUxo_f7vobHBaqfd9KPQoOqyi4rLzM1&amp;t=634611205043906250" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQKK1NWODgLKjN+5BgL+r4nwCQLa+cutCwLmvq63BW4w0pPqYmg15t9T3MgI8d4MR6pI" />    
+    
+    <div id="page" align="center">
+  <div id="banner">
+    
+    <div align="center">
+    <div id="topmenu">
+      <div>
+         <a href="../Home/Committee.aspx"> Organizing Committee</a> | <a href="../Home/StaticPage.aspx?page=5">Contact us </a>&nbsp; &nbsp;</div>
+    </div>
+     <div></div>
+    </div>
+  <div id="content">
+    <div id="path" align="right"> 
+            <span id="ctl00_SiteMapPath1"><a href="#ctl00_SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/names2008/WebResource.axd?d=vsfJyiWqm-P9vR5sissu5pbPy0bUe6fLydEtw1tGcfqRqR7QHyVGIPQZ2-62LH1hb7-P5S0pkhQB1vE9gLxkuqkyHP41&amp;t=634611205043906250" border="0" /></a><span><a href="/names2008/Home/Home.aspx">Home</a></span><span> :: </span><span>Speakers</span><a id="ctl00_SiteMapPath1_SkipLink"></a></span>
+    </div> 
+    <div id="left_menu">
+    <div class="red_title">Conference</div>
+        <a href="#ctl00_Menu1_SkipLink"><img alt="Skip Navigation Links" src="/names2008/WebResource.axd?d=vsfJyiWqm-P9vR5sissu5pbPy0bUe6fLydEtw1tGcfqRqR7QHyVGIPQZ2-62LH1hb7-P5S0pkhQB1vE9gLxkuqkyHP41&amp;t=634611205043906250" width="0" height="0" border="0" /></a><table id="ctl00_Menu1" cellpadding="0" cellspacing="0" border="0">
+	<tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n0">
+		<td><table class="side" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td nowrap="nowrap" width="100%"><a class="side" href="/names2008/Home/Home.aspx">Home</a></td>
+			</tr>
+		</table></td>
+	</tr><tr>
+		<td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n1">
+				<td><table class="side" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td nowrap="nowrap" width="100%"><a class="side" href="/names2008/Home/StaticPage.aspx?page=4">Overview</a></td>
+					</tr>
+				</table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n2">
+				<td><table class="side" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td nowrap="nowrap" width="100%"><a class="side" href="/names2008/Speakers/Speakers.aspx">Speakers</a></td>
+					</tr>
+				</table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n3">
+				<td><table class="side" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td nowrap="nowrap" width="100%"><a class="side" href="/names2008/Agenda/Program.aspx">Program</a></td>
+					</tr>
+				</table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n4">
+				<td><table class="side" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td nowrap="nowrap" width="100%"><a class="side" href="/names2008/Registration/RegLogin.aspx">Registration </a></td>
+					</tr>
+				</table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n5">
+				<td><table class="side" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td nowrap="nowrap" width="100%"><a class="side" href="/names2008/Home/StaticPage.aspx?page=8">Location</a></td>
+					</tr>
+				</table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n6">
+				<td><table class="side" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td nowrap="nowrap" width="100%"><a class="side" href="/names2008/News/List.aspx">News</a></td>
+					</tr>
+				</table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n7">
+				<td><table class="side" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td nowrap="nowrap" width="100%"><a class="side" href="/names2008/Speakers/Presentaions.aspx">Presentations</a></td>
+					</tr>
+				</table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n8">
+				<td><table class="side" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td nowrap="nowrap" width="100%"><a class="side" href="/names2008/ImportantDates/ImpDates.aspx">Important Dates</a></td>
+					</tr>
+				</table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n9">
+				<td><table class="side" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td nowrap="nowrap" width="100%"><a class="side" href="/names2008/ImportantLinks/ImpLinks.aspx">Important Links</a></td>
+					</tr>
+				</table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n10">
+				<td><table class="side" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td nowrap="nowrap" width="100%"><a class="side" href="/names2008/Gallery/Gallery.aspx">Photo Gallery</a></td>
+					</tr>
+				</table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n11">
+				<td><table class="side" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td nowrap="nowrap" width="100%"><a class="side" href="/names2008/Home/StaticPage.aspx?page=13">Media Coverage</a></td>
+					</tr>
+				</table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n12">
+				<td><table class="side" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td nowrap="nowrap" width="100%"><a class="side" href="/names2008/Home/StaticPage.aspx?page=9">Tours</a></td>
+					</tr>
+				</table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_Menu1n13">
+				<td><table class="side" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td nowrap="nowrap" width="100%"><a class="side" href="/names2008/Fair/Fair.aspx">Fair</a></td>
+					</tr>
+				</table></td>
+			</tr>
+		</table></td>
+	</tr>
+</table><a id="ctl00_Menu1_SkipLink"></a>
+        <br /></div>
+    <div id="editable">
+		<div style="width:510px">	
+	        <table border=0 >
+	            <tr>
+	                <td height=350px valign=top>
+	                    
+<script type="text/javascript">
+    function CheckFile(file)
+    {
+        if(file.length > 0)
+            window.open("../Attachments/Speakers/"+file);
+    }
+</script>
+    <link  rel="stylesheet" type="text/css" href="../StyleSheets/Speakers.css" />
+    <h3>
+     <span id="ctl00_ContentPlaceHolder1_LBL_Title"> Speakers </span>
+    </h3>
+    <div style="width:552px" align="center">
+     <div>
+	<table cellspacing="0" rules="cols" border="1" id="ctl00_ContentPlaceHolder1_DG_Speakers">
+		<tr bgcolor="#CC6600">
+			<th scope="col"><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$DG_Speakers','Sort$SPK_FirstName')">Name</a></th><th scope="col"><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$DG_Speakers','Sort$SPK_Position')">Position/Institute</a></th><th scope="col"><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$DG_Speakers','Sort$Country')">Country</a></th><th scope="col"><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$DG_Speakers','Sort$SPK_File')">Paper</a></th>
+		</tr><tr>
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=YFV6bWIbDRnDuhWuRG0dIA=='>
+                Almutawa, Mijbil  </a>
+                </td><td width="300">
+                &nbsp;Chairman and managing director, The Scientific Center of Kuwait 
+                </td><td width="200">
+                &nbsp;Kuwait
+                </td><td align="center">
+                
+                </td>
+		</tr><tr bgcolor="#E6E6E6">
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=HhesUm4vwrfL20s/Rgehhw=='>
+                Awny, Mohamed M. </a>
+                </td><td width="300">
+                &nbsp;Director of Technology Management Programme
+                </td><td width="200">
+                &nbsp;Bahrain
+                </td><td align="center">
+                
+                </td>
+		</tr><tr>
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=xcodGDVWTB/5XaIy2bSZpA=='>
+                Ben Ismail, Mohamed </a>
+                </td><td width="300">
+                &nbsp;Director general,Tunis Science City 
+                </td><td width="200">
+                &nbsp;Tunisia
+                </td><td align="center">
+                
+                </td>
+		</tr><tr bgcolor="#E6E6E6">
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=eeLZHBJscyBYg6TJVAQBtQ=='>
+                Booth, Bill </a>
+                </td><td width="300">
+                &nbsp;Acting Director of Exhibits Services, Exploratorium, USA
+                </td><td width="200">
+                &nbsp;United States of America
+                </td><td align="center">
+                
+                </td>
+		</tr><tr>
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=Ty3BRg5n/1lfYFR2/qN1qQ=='>
+                Bruton, Mike </a>
+                </td><td width="300">
+                &nbsp;Past-President, SAASTEC (Southern African Association of Science and Technology Centers)
+                </td><td width="200">
+                &nbsp;South Africa
+                </td><td align="center">
+                
+                </td>
+		</tr><tr bgcolor="#E6E6E6">
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=/ZdjB/he87ixelr08qr59w=='>
+                Burton, Mike   </a>
+                </td><td width="300">
+                &nbsp;Past-President, SAASTEC (Southern African Association of Science and Technology Centers) 
+                </td><td width="200">
+                &nbsp;South Africa
+                </td><td align="center">
+                
+                </td>
+		</tr><tr>
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=ykE9J/8rghKdlTvRvh5bQw=='>
+                Chaabouni, Habiba </a>
+                </td><td width="300">
+                &nbsp;Head, Genetic Laborator, University of Tunis
+                </td><td width="200">
+                &nbsp;Tunisia
+                </td><td align="center">
+                
+                </td>
+		</tr><tr bgcolor="#E6E6E6">
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=xQbwb/tCobZbOjRao2uCKA=='>
+                Draeger, Alan </a>
+                </td><td width="300">
+                &nbsp;Associate Director, Traveling Programs, American Museum of Natural History (AMNH)
+                </td><td width="200">
+                &nbsp;United States of America
+                </td><td align="center">
+                
+                </td>
+		</tr><tr>
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=ssYGuwIbhOzoOFVqLQBOBg=='>
+                Dweik, Hassan </a>
+                </td><td width="300">
+                &nbsp;Executive Vice President and Director of Science and Math Museums,  Al-Quds University
+                </td><td width="200">
+                &nbsp;Palestine
+                </td><td align="center">
+                
+                </td>
+		</tr><tr bgcolor="#E6E6E6">
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=dHBQ7+r28XJ/q49wFMkZRA=='>
+                Elbaz, Farouk </a>
+                </td><td width="300">
+                &nbsp;Director, Center for Remote Sensing, Boston University, Boston, MA, U.S.A, adjunct Professor, Faculty of Science, Ain Shams University, Cairo, Egypt
+                </td><td width="200">
+                &nbsp;Egypt
+                </td><td align="center">
+                
+                </td>
+		</tr><tr>
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=fZ0yrK6y68DZ+ZpLZt0qCg=='>
+                Elkaffass , Iman </a>
+                </td><td width="300">
+                &nbsp;Chairperson, ?STEP UP? Consultations, Trainings and Educational Services, EGYPT
+                </td><td width="200">
+                &nbsp;Egypt
+                </td><td align="center">
+                
+                </td>
+		</tr><tr bgcolor="#E6E6E6">
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=ZDttB6lW7ZWSoBiUN6q2iA=='>
+                Elkaliouby, Rana </a>
+                </td><td width="300">
+                &nbsp;Research Scientist, Media Laboratory, Massachusetts Institute of Technology, USA
+                </td><td width="200">
+                &nbsp;Egypt
+                </td><td align="center">
+                
+                </td>
+		</tr><tr>
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=SXJIeG2A7J8z6iQCbdtw4g=='>
+                Evans, Sue </a>
+                </td><td width="300">
+                &nbsp;President, StartREAL Foundation USA
+                </td><td width="200">
+                &nbsp;United States of America
+                </td><td align="center">
+                
+                </td>
+		</tr><tr bgcolor="#E6E6E6">
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=U4yNSOP4QD+9Ydzw7bGdyQ=='>
+                Ferrini-Mundy, Joan </a>
+                </td><td width="300">
+                &nbsp;Director, Division of Research on Learning, National Science Foundation
+                </td><td width="200">
+                &nbsp;United States of America
+                </td><td align="center">
+                
+                </td>
+		</tr><tr>
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=dzNpFWYOxhwpZ4aass201A=='>
+                Franche, Catherine </a>
+                </td><td width="300">
+                &nbsp;Executive Director, European Network of Science Centers and Museums (ECSITE)
+                </td><td width="200">
+                &nbsp;Belgium
+                </td><td align="center">
+                
+                </td>
+		</tr><tr bgcolor="#E6E6E6">
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=5XndV2Lck99xDSZhpsVyhw=='>
+                Hassan , Fekry </a>
+                </td><td width="300">
+                &nbsp;Science City projects, Egypt
+                </td><td width="200">
+                &nbsp;Egypt
+                </td><td align="center">
+                
+                </td>
+		</tr><tr>
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=SbP5kMCy0vTZV2jAFVx2fQ=='>
+                Hoeg, Asger </a>
+                </td><td width="300">
+                &nbsp;Past-President, European Network of Science Centers and Museums (ECSITE) - Director, Experimentarium
+                </td><td width="200">
+                &nbsp;Denmark
+                </td><td align="center">
+                
+                </td>
+		</tr><tr bgcolor="#E6E6E6">
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=BxDQ3r5YKVIPCrjMjujS2A=='>
+                Hoeg, Asger </a>
+                </td><td width="300">
+                &nbsp;Past-President, European Network of Science Centers and Museums (ECSITE) - Director, Experimentarium 
+                </td><td width="200">
+                &nbsp;Denmark
+                </td><td align="center">
+                
+                </td>
+		</tr><tr>
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=bxuZ2dR1E1SwRv3pnPsRoA=='>
+                Kawar, Rana </a>
+                </td><td width="300">
+                &nbsp;Fund Manager, Middle East Science Fund
+                </td><td width="200">
+                &nbsp;Jordan
+                </td><td align="center">
+                
+                </td>
+		</tr><tr bgcolor="#E6E6E6">
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=ifU9OrlbAUlUkow+fVkF4A=='>
+                Kaynar, Serif  </a>
+                </td><td width="300">
+                &nbsp;President, Turkey Science Centers Foundation 
+                </td><td width="200">
+                &nbsp;Turkey
+                </td><td align="center">
+                
+                </td>
+		</tr><tr>
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=8Y3qee0bWJP/iuHbOi/apw=='>
+                Lipardi, Vincenzo </a>
+                </td><td width="300">
+                &nbsp;President, European Network of Science Centers and Museums (ECSITE) - Fondazione IDIS-Citt? della Scienza
+                </td><td width="200">
+                &nbsp;Italy
+                </td><td align="center">
+                
+                </td>
+		</tr><tr bgcolor="#E6E6E6">
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=63xBhZV5y4gh9AyNUvG4kA=='>
+                Malcolm, Shirley </a>
+                </td><td width="300">
+                &nbsp;Head, Education and Human Resources Programs, American Association for the Advancement of Science (AAAS)
+                </td><td width="200">
+                &nbsp;United States of America
+                </td><td align="center">
+                
+                </td>
+		</tr><tr>
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=ITddvrDw0Ns8udPW0XNScA=='>
+                Mason, Tom </a>
+                </td><td width="300">
+                &nbsp;President Elect, International Planetarium Society, Director, Armagh Planetarium
+                </td><td width="200">
+                &nbsp;United Kingdom
+                </td><td align="center">
+                
+                </td>
+		</tr><tr bgcolor="#E6E6E6">
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=QLOSh0DtLDTZI7gX0RMfiQ=='>
+                Methnani, Ridha </a>
+                </td><td width="300">
+                &nbsp;Professor of Science Communication, Tunisian Ministry of Higher Education, Research and Technology
+                </td><td width="200">
+                &nbsp;Tunisia
+                </td><td align="center">
+                
+                </td>
+		</tr><tr>
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=79+yY/kYM++GBjfpA0QhbA=='>
+                Mukhopadhyay, Ingit </a>
+                </td><td width="300">
+                &nbsp;Member, the International Program Committee, SCWC - Director General, National Council of Science Museums
+                </td><td width="200">
+                &nbsp;India
+                </td><td align="center">
+                
+                </td>
+		</tr><tr bgcolor="#E6E6E6">
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=RTuVk+wftZt6uWHPl124ww=='>
+                Nasariah Ibrahim, Tengku </a>
+                </td><td width="300">
+                &nbsp;Member, the International Program Committee, SCWC - Petrosains (The Discovery Center)
+                </td><td width="200">
+                &nbsp;Malaysia
+                </td><td align="center">
+                
+                </td>
+		</tr><tr>
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=v30AHZgGiJ21UvXXRfpp9g=='>
+                Nyman, Hans </a>
+                </td><td width="300">
+                &nbsp;Vice president, friends of Alexandria in Sweden
+                </td><td width="200">
+                &nbsp;Sweden
+                </td><td align="center">
+                
+                </td>
+		</tr><tr bgcolor="#E6E6E6">
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=MNqJhvtYR9FESW1oKr2Uyw=='>
+                Persson, Per-Edvin  </a>
+                </td><td width="300">
+                &nbsp;Director, Heureka (the Finnish Science Center)
+                </td><td width="200">
+                &nbsp;Finland
+                </td><td align="center">
+                
+                </td>
+		</tr><tr>
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=eMn3KoRFv+TofYyNxgQEuA=='>
+                Serageldin, Ismail </a>
+                </td><td width="300">
+                &nbsp;Director, Bibliotheca Alexandriana
+                </td><td width="200">
+                &nbsp;Egypt
+                </td><td align="center">
+                
+                </td>
+		</tr><tr bgcolor="#E6E6E6">
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=HE8U3p1ln1rBi7SZ8gJa0A=='>
+                Staveloz, Walter </a>
+                </td><td width="300">
+                &nbsp;Director of International Relations, Association of Science-Technology Centers (ASTC)
+                </td><td width="200">
+                &nbsp;United States of America
+                </td><td align="center">
+                
+                </td>
+		</tr><tr>
+			<td width="200">
+                <a href='SpeakerDetails.aspx?ID=DBMsezU0irbCTwjMMx0F0g=='>
+                Tag?e?a Parga, Julia </a>
+                </td><td width="300">
+                &nbsp;Member, the International Program Committee, SCWC - Executive Director, Red-POP
+                </td><td width="200">
+                &nbsp;Mexico
+                </td><td align="center">
+                
+                </td>
+		</tr>
+	</table>
+</div>  
+            </div>         
+  
+	                 </td>
+	             </tr>
+	          </table>
+	         </div>     
+	      <div id="man"><a href="http://www.mesfund.org/ " target="_blank"><img src="../images/MSEFlogo.jpg" alt="MESF" width="162" height="40" border="0" /></a><br/><img src="../images/logos.jpg" alt="logos" border="0" /></div>
+	    
+    </div>
+      <div id="footer"> Planetarium Science Center ? Bibliotheca Alexandrina ? P.O. Box 138 Chatby, Alexandria 21526, EGYPT</br> 
+Phone: +(203) 4839999; ext.: 1769/1739 ? Fax: +(203) 4820464 ? E-mail:<a href="mailto:namesnetwork@bibalex.org">namesnetwork@bibalex.org</a></div>      
+  </div>
+  </div>
+ </div>
+ 
+ 
+
+<script type="text/javascript">
+//<![CDATA[
+var ctl00_Menu1_Data = new Object();
+ctl00_Menu1_Data.disappearAfter = 500;
+ctl00_Menu1_Data.horizontalOffset = 0;
+ctl00_Menu1_Data.verticalOffset = 0;
+//]]>
+</script>
+</form>
+</body>
+</html>
+

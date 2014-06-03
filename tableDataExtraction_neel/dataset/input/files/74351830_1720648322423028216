@@ -1,0 +1,580 @@
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>USC Aiken :2010-11 USC Aiken Men's Tennis Roster </title>
+
+<link rel="stylesheet" type="text/css" href="/info/anylink.css" />
+
+<script type="text/javascript" src="/info/anylink.js">
+
+/***********************************************
+* AnyLink CSS Menu script- ? Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+</script>
+
+<script type="text/javascript">
+      
+/***********************************************
+* Ultimate Fade-In Slideshow (v1.51): ?? Dynamic Drive (http://www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+ 
+var fadeimages=new Array()
+//SET IMAGE PATHS. Extend or contract array as needed
+fadeimages[0]=["photo1.jpg", "", ""] //plain image syntax
+fadeimages[1]=["photo2.jpg", "http://www.cssdrive.com", ""] //image with link syntax
+fadeimages[2]=["photo3.jpg", "http://www.javascriptkit.com", "_new"] //image with link and target syntax
+ 
+var fadeimages2=new Array() //2nd array set example. Remove or add more sets as needed.
+//SET IMAGE PATHS. Extend or contract array as needed
+fadeimages2[0]=["photo1.jpg", "", ""] //plain image syntax
+fadeimages2[1]=["photo2.jpg", "http://www.cssdrive.com", ""] //image with link syntax
+fadeimages2[2]=["photo3.jpg", "http://www.javascriptkit.com", "_new"] //image with link and target syntax
+ 
+var fadebgcolor="black"
+
+////NO need to edit beyond here/////////////
+ 
+var fadearray=new Array() //array to cache fadeshow instances
+var fadeclear=new Array() //array to cache corresponding clearinterval pointers
+ 
+var dom=(document.getElementById) //modern dom browsers
+var iebrowser=document.all
+ 
+function fadeshow(theimages, fadewidth, fadeheight, borderwidth, delay, pause, displayorder){
+this.pausecheck=pause
+this.mouseovercheck=0
+this.delay=delay
+this.degree=10 //initial opacity degree (10%)
+this.curimageindex=0
+this.nextimageindex=1
+fadearray[fadearray.length]=this
+this.slideshowid=fadearray.length-1
+this.canvasbase="canvas"+this.slideshowid
+this.curcanvas=this.canvasbase+"_0"
+if (typeof displayorder!="undefined")
+theimages.sort(function() {return 0.5 - Math.random();}) //thanks to Mike (aka Mwinter) :)
+this.theimages=theimages
+this.imageborder=parseInt(borderwidth)
+this.postimages=new Array() //preload images
+for (p=0;p<theimages.length;p++){
+this.postimages[p]=new Image()
+this.postimages[p].src=theimages[p][0]
+}
+ 
+var fadewidth=fadewidth+this.imageborder*2
+var fadeheight=fadeheight+this.imageborder*2
+ 
+if (iebrowser&&dom||dom) //if IE5+ or modern browsers (ie: Firefox)
+document.write('<div id="master'+this.slideshowid+'" style="position:relative;width:'+fadewidth+'px;height:'+fadeheight+'px;overflow:hidden;"><div id="'+this.canvasbase+'_0" style="position:absolute;width:'+fadewidth+'px;height:'+fadeheight+'px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);opacity:0.1;-moz-opacity:0.1;-khtml-opacity:0.1;background-color:'+fadebgcolor+'"></div><div id="'+this.canvasbase+'_1" style="position:absolute;width:'+fadewidth+'px;height:'+fadeheight+'px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);opacity:0.1;-moz-opacity:0.1;-khtml-opacity:0.1;background-color:'+fadebgcolor+'"></div></div>')
+else
+document.write('<div><img name="defaultslide'+this.slideshowid+'" src="'+this.postimages[0].src+'"></div>')
+ 
+if (iebrowser&&dom||dom) //if IE5+ or modern browsers such as Firefox
+this.startit()
+else{
+this.curimageindex++
+setInterval("fadearray["+this.slideshowid+"].rotateimage()", this.delay)
+}
+}
+
+function fadepic(obj){
+if (obj.degree<100){
+obj.degree+=10
+if (obj.tempobj.filters&&obj.tempobj.filters[0]){
+if (typeof obj.tempobj.filters[0].opacity=="number") //if IE6+
+obj.tempobj.filters[0].opacity=obj.degree
+else //else if IE5.5-
+obj.tempobj.style.filter="alpha(opacity="+obj.degree+")"
+}
+else if (obj.tempobj.style.MozOpacity)
+obj.tempobj.style.MozOpacity=obj.degree/101
+else if (obj.tempobj.style.KhtmlOpacity)
+obj.tempobj.style.KhtmlOpacity=obj.degree/100
+else if (obj.tempobj.style.opacity&&!obj.tempobj.filters)
+obj.tempobj.style.opacity=obj.degree/101
+}
+else{
+clearInterval(fadeclear[obj.slideshowid])
+obj.nextcanvas=(obj.curcanvas==obj.canvasbase+"_0")? obj.canvasbase+"_0" : obj.canvasbase+"_1"
+obj.tempobj=iebrowser? iebrowser[obj.nextcanvas] : document.getElementById(obj.nextcanvas)
+obj.populateslide(obj.tempobj, obj.nextimageindex)
+obj.nextimageindex=(obj.nextimageindex<obj.postimages.length-1)? obj.nextimageindex+1 : 0
+setTimeout("fadearray["+obj.slideshowid+"].rotateimage()", obj.delay)
+}
+}
+ 
+fadeshow.prototype.populateslide=function(picobj, picindex){
+var slideHTML=""
+if (this.theimages[picindex][1]!="") //if associated link exists for image
+slideHTML='<a href="'+this.theimages[picindex][1]+'" target="'+this.theimages[picindex][2]+'">'
+slideHTML+='<img src="'+this.postimages[picindex].src+'" border="'+this.imageborder+'px">'
+if (this.theimages[picindex][1]!="") //if associated link exists for image
+slideHTML+='</a>'
+picobj.innerHTML=slideHTML
+}
+ 
+ 
+fadeshow.prototype.rotateimage=function(){
+if (this.pausecheck==1) //if pause onMouseover enabled, cache object
+var cacheobj=this
+if (this.mouseovercheck==1)
+setTimeout(function(){cacheobj.rotateimage()}, 100)
+else if (iebrowser&&dom||dom){
+this.resetit()
+var crossobj=this.tempobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+crossobj.style.zIndex++
+fadeclear[this.slideshowid]=setInterval("fadepic(fadearray["+this.slideshowid+"])",50)
+this.curcanvas=(this.curcanvas==this.canvasbase+"_0")? this.canvasbase+"_1" : this.canvasbase+"_0"
+}
+else{
+var ns4imgobj=document.images['defaultslide'+this.slideshowid]
+ns4imgobj.src=this.postimages[this.curimageindex].src
+}
+this.curimageindex=(this.curimageindex<this.postimages.length-1)? this.curimageindex+1 : 0
+}
+ 
+fadeshow.prototype.resetit=function(){
+this.degree=10
+var crossobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+if (crossobj.filters&&crossobj.filters[0]){
+if (typeof crossobj.filters[0].opacity=="number") //if IE6+
+crossobj.filters(0).opacity=this.degree
+else //else if IE5.5-
+crossobj.style.filter="alpha(opacity="+this.degree+")"
+}
+else if (crossobj.style.MozOpacity)
+crossobj.style.MozOpacity=this.degree/101
+else if (crossobj.style.KhtmlOpacity)
+crossobj.style.KhtmlOpacity=this.degree/100
+else if (crossobj.style.opacity&&!crossobj.filters)
+crossobj.style.opacity=this.degree/101
+}
+ 
+ 
+fadeshow.prototype.startit=function(){
+var crossobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+this.populateslide(crossobj, this.curimageindex)
+if (this.pausecheck==1){ //IF SLIDESHOW SHOULD PAUSE ONMOUSEOVER
+var cacheobj=this
+var crossobjcontainer=iebrowser? iebrowser["master"+this.slideshowid] : document.getElementById("master"+this.slideshowid)
+crossobjcontainer.onmouseover=function(){cacheobj.mouseovercheck=1}
+crossobjcontainer.onmouseout=function(){cacheobj.mouseovercheck=0}
+}
+this.rotateimage()
+}
+
+</script>
+<link REL="stylesheet" HREF="/info/tooltips.css" type="text/css">
+<link REL="stylesheet" HREF="/info/base.css" type="text/css">
+<link REL="stylesheet" HREF="/main.css" type="text/css">
+<link REL="shortcut icon" href="/favicon.ico">
+
+<script type="text/javascript" src="/info/jquery.js"></script>
+
+
+<!--[if IE 6]>
+<script src="/DD_belatedPNG.js"></script>
+<script>
+  /* EXAMPLE */
+  DD_belatedPNG.fix('.iefix');
+</script>
+<![endif]-->
+
+
+
+<style type="text/css">
+.rich {
+  clear: both;
+}
+
+.related {
+  width: 100%;
+  padding-top: 8px;
+  margin: 2px 0 5px;
+  background: #e3e3e3;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f5f5f5', endColorstr='#e3e3e3'); /* for IE *
+  background: -webkit-gradient(linear, left top, left bottom, from(#f5f5f5), to(#e3e3e3)); /* for webkit safari, chrome */
+  background: -moz-linear-gradient(top,  #f5f5f5,  #e3e3e3); /* for firefox 3.6 */
+}
+
+.related-links {
+  width: 49%;
+  float: left;
+  padding-top: 2px;
+  padding-bottom: 5px;
+  padding-left: 1%;
+}
+
+.related-links a {
+  text-decoration: none;
+}
+
+.facebook-like {
+  width: 300px;
+  height: 30px;
+  float: right;
+}
+
+.sidebar {
+  width: 530px;
+  float: right;
+  clear: right;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.sidebar td {
+  vertical-align: top;
+}
+
+.sidebar .thumb {
+  margin-bottom: 10px;
+}
+
+.sidebar .thumb .image {
+  width: 530px;
+  position: relative;
+}
+
+.sidebar .thumb .image .buynow-button {
+  display: block;
+  width: 80px;
+  height: 50px;
+  background: url(/info/marketplace/buy-now-80-X-50.png) no-repeat left top;
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+}
+
+
+.mini-boxscore,
+.mini-gallery {
+  width: 518px;
+  padding: 5px;
+  border: solid 1px #c2c2c2;
+  margin-bottom: 30px;
+  position: relative;
+}
+
+.mini-boxscore .more,
+.mini-gallery .more {
+  font-size: 9px;
+  color: #fff;
+  text-decoration: none;
+  padding: 2px 5px;
+  background: #2f2f2f;
+  -moz-border-radius-bottomright: 3px;
+  border-bottom-right-radius: 3px;
+  position: absolute;
+  right: -1px;
+  bottom: -19px;
+}
+
+.mini-boxscore .more:hover,
+.mini-gallery .more:hover {
+  background: #000;
+}
+</style>
+
+<style>
+.headerLogo {
+  position: absolute;
+  top: -70px;
+  left: 0px;
+  background-repeat: no-repeat;
+  background-position: top left;
+  background-image: none;
+  width: 302px;
+  height: 222px;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/sports/mten/header.png', sizingMethod='scale');
+}
+
+.headerLogo[class] {
+  background-image: url('/sports/mten/header.png');
+}
+</style>
+
+</head>
+<body class="pagebody">
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="10" bgcolor="#5a0914" align="center">
+  <tr>
+    <td id="header">
+   <div id="hdrContainer">
+    <div class="headerLogo"><a href="/landing/index"><img src="/info/images/spacer.gif" width="302" height="222"></a></div>
+    <div class="headerPhoto-L" style="background-image: url(/images/header-L/MTActionWeb.jpg?max_width=332&max_height=119&crop=true)"><div class="headerOverlay iefix"><img src="/info/images/spacer.gif" width="332px" height="119px"></div></div>
+    <div class="headerPhoto-R" style="background-image: url(/images/header-R/TennisFacilityWeb.jpg?max_width=332&max_height=119&crop=true)"><div class="headerOverlay iefix"><img src="/info/images/spacer.gif" width="332px" height="119px"></div></div>
+   </div>
+    </td>
+  </tr>
+
+  <tr><td class="navbar-global"><a href="/landing/index">Home</a><a href="http://web.usca.edu/">USC Aiken</a><a href="#" onMouseover="dropdownmenu(this, event, 'anylinkmenu3', '150px')" onMouseout="delayhidemenu()">Inside Athletics</a><div id="anylinkmenu3" class="dropdownmenu"><a href="/information/directory/index">Staff Directory</a><a href="/information/directory/bios/Warrick_Randy">Athletic Director</a><a href="/information/athletic_training">Athletic Training</a><a href="/information/Directions_Campus_Map">Campus Map</a><a href="http://uscaiken.prestosports.com/composite">Composite Schedule</a><a href="/information/summercamp2010">Summer Camps</a><a href="/information/logos">Logos</a><a href="/information/compliance">NCAA Compliance</a><a href="/information/quick_facts">Quick Facts</a><a href="/information/prospective_athlete_main">Prospective Student-Athlete Questionnaires</a><a href="/information/ticket_information">Ticket Information</a><a href="/information/sid">Sports Information</a><a href="/information/Files/2009_Visiting_Team_Guide_Brochure.pdf">Visiting Team Guide</a><a href="/information/Files/2011_USCA_Student-Athlete_Handbook.pdf">2011 Student-Athlete Handbook</a><a href="http://www.usca.edu/policy/petpolicy.html">USC Aiken Pet Policy</a></div>
+
+
+
+
+
+<a href="#" onMouseover="dropdownmenu(this, event, 'anylinkmenu4', '150px')" onMouseout="delayhidemenu()">Facilities</a><div id="anylinkmenu4" class="dropdownmenu"><a href="/information/facilities_main">Facilities Main Page</a><a href="/information/facility_convocation_center">Convocation Center</a><a href="/information/facility_jhsatcher">J.H. Satcher Field</a><a href="/information/facility_pacer_pit">Pacer Pit</a><a href="/information/facility_palmetto_gc">Palmetto Golf Course</a><a href="/information/facility_bert_stadium">Roberto Hernandez Stadium</a><a href="/information/facility_tennis_complex">Tennis Complex</a><a href="/information/facility_pacer_path">Pacer Path</a></div>
+
+
+
+
+
+<a href="#" onMouseover="dropdownmenu(this, event, 'anylinkmenu5', '150px')" onMouseout="delayhidemenu()">Multimedia</a><div id="anylinkmenu5" class="dropdownmenu"><a href="/information/live_stats">Live Stats</a><a href="http://www.ustream.tv/channel/usc-aiken-athletics">Free Live Webcasts</a><a href="/information/media_guides">Media Guides</a><a href="/information/archive_mediaguide">Archived Media Guides</a><a href="https://twitter.com/">@PacerAthletics on Twitter</a><a href="http://www.facebook.com/pages/USC-Aiken-Athletics/104911865817">USC Aiken Athletics on Facebook</a><a href="http://www.facebook.com/pacerathletics">Follow Ace Pacer on Facebook</a><a href="http://www.youtube.com/user/PacerAthletics?v=3P_EDSLen6M&lr=1">USC Aiken Athletics on YouTube</a><a href="http://uscapacersmobile.com/">USC Aiken Mobile App</a></div>
+
+
+
+
+
+<a href="#" onMouseover="dropdownmenu(this, event, 'anylinkmenu6', '150px')" onMouseout="delayhidemenu()">Tradition/Spirit</a><div id="anylinkmenu6" class="dropdownmenu"><a href="/information/cheer/index">Cheerleading</a><a href="/information/dance/index">Dance Team</a><a href="/information/what_is_a_pacer">What is a Pacer?</a><a href="/information/awardwinnersalltime">All-Time Award Winners</a><a href="/information/summercamp2011">2011 Summer Camps</a><a href="/information/cokefirsthit">Coke First Hit</a><a href="/information/Files/pacer_fanatic">Pacer Fanatics</a><a href="/information/alumni_questionaire">Alumni Form</a><a href="/information/hall_of_fame">Hall of Fame</a><a href="/information/Files/2010-11_USC_Aiken_Annual_Report_(Web).pdf">2010-11 Athletic Department Annual Report</a><a href="/information/pacer_club">Pacer Club</a><a href="/information/sportsauction2010">2010 Sports Auction Plus</a><a href="/information/palmetto_memorial">2011 Palmetto Memorial Golf Tournament</a><a href="/information/polo_2011">Polo 2011</a><a href="/information/Files/2011_USCA_Student-Athlete_Handbook.pdf">2011 Student-Athlete Handbook</a><a href="http://web.usca.edu/marketing/magazine/">USCA Magazine</a><a href="/information/Files/SportsmanshipLetterPBC.pdf">Sportsmanship Letter</a><a href="/information/wc">Winner's Circle</a><a href="http://www.uscatix.com/">Convocation Center Events</a><a href="http://www.diicommunity.org/">I Chose Division II</a><a href="http://www.diicommunity.org/studentathlete/">Division II Student-Athlete Resource</a><a href="http://ncaa.org/wps/wcm/connect/public/NCAA/Academics/Division+II/">NCAA Division II</a><a href="http://www.ncaa.com/">NCAA.com</a><a href="http://www.ncaa.org/">NCAA.org</a><a href="http://www.diicommunity.org/gameenvironment/">Positive Game Environment</a></div>
+
+
+
+
+
+<a href="#" onMouseover="dropdownmenu(this, event, 'anylinkmenu7', '150px')" onMouseout="delayhidemenu()">Links</a><div id="anylinkmenu7" class="dropdownmenu"><a href="http://www.mapquest.com">Mapquest.com</a><a href="http://www.ncaa.org">NCAA.org</a><a href="http://www.ncaasports.com">NCAA.com</a><a href="http://www.peachbeltconference.org/landing/index">PeachBeltConference.org</a><a href="http://www.usca.edu">USCA.edu</a><a href="http://www.weather.com/weather/local/USSC0003?lswe=Aiken,%20SC&lwsa=WeatherLocalUndeclared&from=searchbox_typeahead">Weather.com</a></div>
+
+
+
+
+
+<a href="/information/summercamp2012">Summer Camps</a></td></tr>
+</table>
+
+<table class="design" border="0" cellpadding="0" cellspacing="10" bgcolor="#FFFFFF" align="center">
+  <tr>
+
+    <td valign="top" id="leftcol">
+     <div class="leftnav"><img src="/images/setup/mens_sports.jpg">
+  <a href="/sports/bsb/index">Baseball</a>
+  <a href="/sports/mbkb/index">Basketball</a>
+  <a href="/sports/mgolf/index">Golf</a>
+  <a href="/sports/msoc/index">Soccer</a>
+  <div id="leftnav-match"><a href="/sports/mten/index">Tennis</a></div>
+  <div class="navbar-secondary">
+   <a href="/sports/mten/index">Home</a>
+    <a href="/sports/mten/2011-12/Roster">Roster</a>
+    <a href="/sports/mten/2011-12/schedule">2012 Schedule</a>
+    <a href="/sports/mten/2011-12/files/teamstat.htm">Statistics</a>
+    <a href="/sports/wten/2011-12/Releases/mediaguide">Media Guide</a>
+    <a href="/sports/mten/2011-12/Files/Men-s_Tennis_CoSIDA_Form2012.pdf">Quick Facts</a>
+    <a href="/sports/mten/2009-10/releases/weeklyrelease">Weekly Release</a>
+    <a href="/sports/mten/2011-12/Photos/MT_Team12.jpg">2012 Team Picture</a>
+    <a href="/sports/mten/2010-11/actiongallery">Photo Gallery</a>
+    <a href="/sports/mten/coaches/index">Coaches</a>
+    <a href="/information/archive_mediaguide">Past Media Guides</a>
+    <a href="/sports/mten/2010-11/files/Record_Book_(MT)_2011.pdf">Record Book</a>
+    <a href="/sports/mten/2010-11/files/YearbyYearMT2011.pdf">All-Time Opponents</a>
+    <a href="/sports/mten/news_archive">News Archive</a>
+    <a href="/sports/mten/statistics_Archive">Statistics Archive</a>
+    <a href="http://www.peachbeltconference.org/sports/mten/index">PBC Men's Tennis</a>
+ </div>
+
+
+<img src="/images/setup/leftnav_footer.jpg"><br>
+</div><br>
+     <div class="leftnav"><img src="/images/setup/womens_sports.jpg">
+  <a href="/sports/wbkb/index">Basketball</a>
+  <a href="/sports/wxc/index">Cross Country</a>
+  <a href="/sports/wsoc/index">Soccer</a>
+  <a href="/sports/sball/index">Softball</a>
+  <a href="/sports/wten/index">Tennis</a>
+  <a href="/sports/wvball/index">Volleyball</a>
+
+<img src="/images/setup/leftnav_footer.jpg"><br>
+</div><br>
+     <div class="leftnav"><img src="/marketplace/marketplace.jpg">
+  <a href="/information/PhotoMarketMain">Photos</a>
+
+<img src="/images/setup/leftnav_footer.jpg"><br>
+</div><br>
+
+          
+
+     <div id="navbar-buttons">
+<a href="http://www.daysinn.com/DaysInn/control/Booking/check_avail?areaCode=4ADY&brandCode=DI,HJ,TL,RA,KG,SE,BU,MT&searchWithinMiles=50&areaType=1&destination=Aiken&state=SC&country=US&checkInDate=09/28&numberAdults=1&numberRooms=1&checkOutDate=09/29&numberChildren=0&numberBigChildren=0&rate=000&useWRPoints=false&corporateCode=&variant=&id=05035&propBrandId=DI&force_nostay=false&tab=tab1" style="display: block; margin-bottom: 6px;"><img src="/information/Files/DaysInn.jpg" border="0"></a>
+<a href="http://www.ncaa.com/" style="float: left;"><img src="/images/setup/ncaa.jpg" border="0"></a>
+<a href="http://www.peachbeltconference.org/landing/index" style="float: left;"><img src="/images/setup/pbc_logo.jpg" border="0"></a>
+<a href="http://www.careerathletes.com/" style="float: left;"><img src="/information/Files/Career_Athletes_logo_stacked_Color-1.jpg" border="0"></a>
+</div>
+
+    </td>
+
+     <td valign="top">
+      <div id="mainbody">
+     <center><br>
+<h1>2010-11 USC Aiken Men's Tennis Roster</h1><br>
+</center>
+<table class="roster">
+  <tr class="roster-header">
+     <td>Name</td>
+     <td>Class</td>
+     <td>Ht.</td>
+     <td>Hometown/Previous School</td>
+  </tr>
+  <tr class="roster-row1">
+     <td><a href="/sports/mten/2010-11/bios/Gregory_Andrade">Gregory Andrade</a></td>     
+     <td>Jr.</td>
+     <td>6-4</td>
+     <td>Sao Paulo, Brazil/Unigrade Valinhos  </td>
+  </tr>
+  <tr class="roster-row0">
+     <td><a href="/sports/mten/2010-11/bios/Gobbi_Lucas">Lucas Gobbi</a></td>     
+     <td>Fr.</td>
+     <td>6-1</td>
+     <td>Santa B&aacute;rbara d'Oeste, Brazil /Colegio Politec</td>
+  </tr>
+  <tr class="roster-row1">
+     <td><a href="/sports/mten/2010-11/bios/Guglielmeti_Manu">Juan Manuel Guglielmeti</a></td>     
+     <td>Sr.</td>
+     <td>5-8</td>
+     <td>Mar del Plata, Argentina /Instituto Albert Einstein</td>
+  </tr>
+  <tr class="roster-row0">
+     <td><a href="/sports/mten/2010-11/bios/Klass_Ben">Ben Klaas</a></td>     
+     <td>So.</td>
+     <td>6-3</td>
+     <td>Kuala Lumpur, Malaysia/Deutsche Schule  </td>
+  </tr>
+  <tr class="roster-row1">
+     <td><a href="/sports/mten/2010-11/bios/Orlandini_Bruno">Bruno Orlandini</a></td>     
+     <td>So.</td>
+     <td>5-11</td>
+     <td>Araraquara, SP/Brazil /Longwood</td>
+  </tr>
+  <tr class="roster-row0">
+     <td><a href="/sports/mten/2010-11/bios/Rees_Josh">Josh Rees</a></td>     
+     <td>Fr.</td>
+     <td>6-2</td>
+     <td>Torquay, England/Torquay Boy&rsquo;s Grammar School  </td>
+  </tr>
+  <tr class="roster-row1">
+     <td><a href="/sports/mten/2010-11/bios/Sprow_Kyle">Kyle Sprow</a></td>     
+     <td>Fr.</td>
+     <td>6-0</td>
+     <td>Augusta, Ga. /Valdosta State</td>
+  </tr>
+</table>
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+<div class="rich clearfix">
+
+
+
+
+
+
+
+
+
+
+
+
+  <p><strong>Head Coach</strong>: Steve Dahm (11th Season)<br>
+
+ <span style="font-weight: bold;"><br>
+
+</span></p>
+
+
+
+</div>
+     
+
+     <table align="right" cellspacing="10"><tr><td><!-- SHARE BUTTON BEGIN --><script type="text/javascript">addthis_pub = 'prestosports';addthis_options = 'email,favorites,myspace,facebook,digg,delicious,google,twitter';</script><a href="http://www.addthis.com/bookmark.php" onMouseOver="return addthis_open(this, '', '[URL]', '[TITLE]')" onMouseOut="addthis_close()" onClick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-share.gif" width="125" height="16" border="0" alt="" /></a><script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script><!-- SHARE BUTTON END --></td><td><a href="/sports/mten/2010-11/roster?dec=/printer-decorator&" target="_printer_friendly"><img src="/info/images/printer-friendly.gif"></a></td></tr></table><br style="clear:both;">
+ 
+     </div>
+    </td>
+
+      </tr>
+</table>
+
+<div id="footer">
+ <table cellpadding="0" cellspacing="0" border="0" align="center">
+  <tr>
+  <td valign="middle" align="left" width="30%" class="footer-text">
+    <div class="title"></div>
+<div class="date"></div>
+<p>
+<p>471 University Parkway<br /> Aiken, SC 29801<br /> Phone: 803-641-3486 Fax: 803-641-3441</p>
+</p>
+
+
+
+<!-- from: generic theme -->
+
+    <p>View: <a href="/action/browser-mode?u=%2Fsports%2Fmten%2F2010-11%2Froster&m=1">Mobile</a> | Desktop</p>
+  </td>
+<td align="center" valign="top" width="25%" style="padding-top: 1px;">
+        </td>
+
+  <td align="center" valign="top" width="25%" style="padding-top: 1px;">
+      <a href="#"><img src="/images/setup/usca.jpg" /></a>
+  </td>
+  <td align="right" valign="middle" width="20%" style="padding-right: 10px">
+    <a href="http://www.prestosports.com"><img src="/images/setup/prestosports.jpg" /></a>
+  </td>
+  </tr>
+ </table>
+</div>
+
+
+
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script><script type="text/javascript">_qacct="p-c1MZx5LfVe-Xw";quantserve();</script><noscript><a href="http://www.quantcast.com/p-c1MZx5LfVe-Xw" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-c1MZx5LfVe-Xw.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a></noscript><script src="http://b.scorecardresearch.com/beacon.js"></script>
+<script>COMSCORE.beacon({c1:2,c2:"6035210",c3:"",c4:"www.prestosports.com",c5:"",c6:"",c15:""});</script><noscript><img src="http://b.scorecardresearch.com/b?c1=2&c2=6035210&c3=&c4=www.prestosports.com&c5=&c6=&c15=&cv=1.3&cj=1" style="display:none" width="0" height="0" alt="" /></noscript>
+<!-- dropoff-scripts -->
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://cdn.psbin.com/info/cookie-handler.js"></script>
+
+<script type="text/javascript">
+$(function() {
+	if (readCookie('adminuser')) {
+		$('body').append('<span id="edit-page-btn" style="display: block; padding: 10px; z-index: 9999; background: #000; color: #fff; font-size: 12px; position: fixed; right: 0; top: 0; cursor: default">Edit Page</span>');
+		$('#edit-page-btn').click(function() {
+			url = document.location.protocol + '//' + document.location.hostname
+			if (document.location.port) url += ':' + document.location.port;
+			url += '/admin/content/wiki/g2g';
+			url += document.location.pathname;
+			window.location = url;
+		});
+	}
+});
+</script>
+</body>
+</html>
+
+

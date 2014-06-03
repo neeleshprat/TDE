@@ -1,0 +1,686 @@
+<!doctype html public "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="LTR" lang="en">
+<head>
+<meta name="robots" content="index, follow">
+<meta name="GOOGLEBOT" content="INDEX, FOLLOW">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Hello Asia Calling Cards, Hello Asia Phone Cards, Hello Asia Prepaid Calling Cards, STSprepaid</title>
+<meta name="description" content="Hello Asia Calling Cards, Hello Asia Phone Cards from STSprepaid">
+<meta name="keywords" content="Hello Asia Calling Cards, Hello Asia Phone Cards, Hello Asia Prepaid Calling Cards, Hello Asia Prepaid Phone Cards, STS Phone Cards, Asia Calling Cards, Asia Phone Cards, Asia Prepaid Calling Cards, Asia Prepaid Phone Cards, Asia Long Distance, International Calling Cards, STSprepaid">
+<base href="http://www.stsprepaid.com/">
+<link rel="stylesheet" type="text/css" href="stylesheet.css">
+<script language="javascript"><!--
+function popupWindow(url) {
+  window.open(url,'popupWindow','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes,copyhistory=no,width=100,height=100,screenX=150,screenY=150,top=150,left=150')
+}
+var minimum_quants = new Object();
+function quantChanged(form) {
+  var quantity = parseInt(form.cart_quantity.value);
+  if (isNaN(quantity)) quantity = 1;
+  var denom_id = form.cards_denominations_id.options[form.cards_denominations_id.selectedIndex].value;
+  if (minimum_quants[denom_id] > quantity) {
+    quantity = minimum_quants[denom_id];
+  }
+  form.cart_quantity.value = quantity;
+}
+function denomChanged(form) {
+  form.cart_quantity.value = minimum_quants[form.cards_denominations_id.options[form.cards_denominations_id.selectedIndex].value];
+}
+//--></script>
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+var cot_loc0=(window.location.protocol == "https:")? "https://secure.comodo.com/trustlogo/javascript/cot.js" : "http://www.trustlogo.com/trustlogo/javascript/cot.js";
+document.writeln('<scr' + 'ipt language="JavaScript" src="'+cot_loc0+'" type="text\/javascript">' + '<\/scr' + 'ipt>');
+//]]>
+</script>
+</head>
+<body marginwidth="0" marginheight="0" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
+<!-- header //-->
+
+<table width="880" border="0" align="center" cellpadding="0" cellspacing="0"><tr><td>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr class="header">
+    <td valign="middle"><img src="images/banner1.jpg" alt="Phone Card & Calling Card - Phone Cards from STSprepaid"><img src="images/banner2.jpg" alt="Phone Card & Calling Card - Phone Cards from STSprepaid"><img src="images/banner3.jpg" alt="international phone cards"><img src="images/banner4.jpg" alt="prepaid phone card"></td>
+    <!--<td valign="middle"><a href="http://www.stsprepaid.com/index.html"><img src="images/logo.gif" border="0" alt="STSprepaid.com" title=" STSprepaid.com " width="992" height="80"></a></td>
+    <td align="right" valign="bottom"><a href="https://www.stsprepaid.com/account.html"><img src="images/header_account.gif" border="0" alt="Account" title=" Account " width="30" height="20"></a>&nbsp;&nbsp;<a href="http://www.stsprepaid.com/shopping_cart.html"><img src="images/header_cart.gif" border="0" alt="Cart Contents" title=" Cart Contents " width="30" height="20"></a>&nbsp;&nbsp;<a href="https://www.stsprepaid.com/checkout_payment.html"><img src="images/header_checkout.gif" border="0" alt="Checkout" title=" Checkout " width="30" height="20"></a>&nbsp;&nbsp;</td>-->
+  </tr>
+</table>
+<table border="0" width="100%" cellspacing="0" cellpadding="1">
+  <tr class="headerNavigation">
+    <td class="headerNavigation">&nbsp;&nbsp;<a href="http://www.stsprepaid.com" class="headerNavigation">Home</a> &raquo; <a href="http://www.stsprepaid.com/index.html" class="headerNavigation">Catalog</a> &raquo; <a href="http://www.stsprepaid.com/index-CallingCards.html" class="headerNavigation">Calling Cards</a> &raquo; <a href="http://www.stsprepaid.com/index-CallingCards-AsiaCallingCards.html" class="headerNavigation">Asia Calling Cards</a> &raquo; <a href="http://www.stsprepaid.com/card_info-CallingCards-AsiaCallingCards-HelloAsiaCallingCard.html" class="headerNavigation">Calling Card</a></td>
+    <td align="right" class="headerNavigation"> <a href="https://www.stsprepaid.com/recharge.html" class="headerNavigation" title="Recharge Phone Card">Recharge My Pin</a> &nbsp;|&nbsp; <a href="http://www.stsprepaid.com/promotional.html" class="headerNavigation" title="Calling Card Promotions">Promotions</a> &nbsp;|&nbsp; <a href="http://www.stsprepaid.com/shopping_cart.html" class="headerNavigation"  title="Cart Contents - Phone Cards">Cart Contents</a> &nbsp;|&nbsp; <a href="https://www.stsprepaid.com/checkout_payment.html" class="headerNavigation" title="Phone Cards Checkout" >Checkout</a> &nbsp; | &nbsp;<a href="https://www.stsprepaid.com/logoff.html" class="headerNavigation" title="Calling Card Account Log Off">Log Off</a> &nbsp;<script src="includes/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-134714-1";urchinTracker();</script></td>
+  </tr>
+</table>
+<!-- header_eof //-->
+
+<!-- body //-->
+<table border="0" width="100%" cellspacing="3" cellpadding="3">
+  <tr>
+    <td width="125" style="padding:0;"></td>
+<!-- body_text //-->
+    <td rowspan="2" width="100%" valign="top"><form name="cart_quantity" action="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-action-add_card.html" method="post"><table border="0" width="100%" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><table border="0" width="100%" cellspacing="0" cellpadding="0">
+          <tr>
+            <td class="pageHeading" valign="top">Hello Asia Calling Card<br><span class="smallText">[Calling Card]</span></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="10"></td>
+      </tr>
+      <tr>
+        <td class="main">
+          <table border="0" cellspacing="0" cellpadding="2" align="right">
+            <tr>
+              <td align="center" class="smallText">
+<script language="javascript"><!--
+document.write('<a href="javascript:popupWindow(\'http://www.stsprepaid.com/popup_image-pID-191.html\')"><img src="images/HelloAsiaCallingCard.jpg" border="0" alt="Hello Asia Calling Card" title=" Hello Asia Calling Card " width="100" height="80" hspace="5" vspace="5"><br>Click to enlarge</a>');
+//--></script>
+<noscript>
+<a href="http://www.stsprepaid.com/images/HelloAsiaCallingCard.jpg" target="_blank"><img src="images/HelloAsiaCallingCard.jpg" border="0" alt="Hello Asia Calling Card" title=" Hello Asia Calling Card " width="100" height="80" hspace="5" vspace="5"><br>Click to enlarge</a></noscript>
+<br><br>
+              </td>
+            </tr>
+            <tr>
+              <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="10"></td>
+            </tr>
+            <tr>
+              <td align="center" class="smallText"><input type="hidden" name="cards_id" value="191"><input type="text" name="cart_quantity" value="1" size=3 onchange="quantChanged(this.form);">&nbsp;<select name="cards_denominations_id" onchange="denomChanged(this.form);"></select></td>
+            </tr>
+            <tr>
+              <td align="center" class="smallText"><input type="image" src="includes/languages/english/images/buttons/button_in_cart.gif" border="0" alt="Add To Cart" title=" Add To Cart "></td>
+            </tr>
+          </table>
+          <p><p><i><span style="color: red"><font size="1">Hello Asia Calling Card</font></span></i><font size="1"><span style="color: black">, 
+like other Oblio Calling Cards, offers quality connection and great rates to all 
+Asian countries. 
+</span></font>
+
+
+</p>
+</span></font>
+<font color="#0000FF">THIS CARD IS DISCONTINOUED BY THE MANUFACTURER, PLEASE CHOOSE A DIFFERENT CARD.
+
+</p></span></font></span>May we suggest the all new 
+
+</font><span style="COLOR: #0000ff">
+<a href="http://www.stsprepaid.com/card_info-LegacyPhoneCard.html">
+<font color="#ff0000">Legacy PHONE CARD</font></a></span></font> or one of our 10 new 
+</span><font color="#0000ff">Pinless</font><span style="COLOR: #0000ff">
+<a href="http://www.stsprepaid.com/index-RechargeablePhoneCards.html">
+<font color="#ff0000">RECHARGEABLE PHONE CARDS</font></a></span><font color="#0000ff">
+</font><span style="COLOR: black">?</span></p>
+          <table border="0" cellspacing="0" cellpadding="2">
+            <tr>
+              <td nowrap align="left" class="smallText"><b>Connection Fee:</b></td>
+              <td nowrap align="left" class="smallText">$0.00</td>
+              <td nowrap align="left" class="smallText"><b>Expiration Date:</b></td>
+              <td nowrap align="left" class="smallText">3&nbsp;month(s)</td>
+            </tr>
+            <tr>
+              <td nowrap align="left" class="smallText"><b>Maintenance Fee:</b></td>
+              <td nowrap align="left" class="smallText">$0.59/weekly</td>
+              <td nowrap align="left" class="smallText"><b>Billing Increment:</b></td>
+              <td nowrap align="left" class="smallText">3&nbsp;minute(s)</td>
+            </tr>
+            <tr>
+              <td nowrap align="left" class="smallText"><b>Payphone Charges:</b></td>
+              <td nowrap align="left" class="smallText">$0.69</td>
+              <td nowrap align="left" class="smallText"><b>Customer Care Number:</b></td>
+              <td nowrap align="left" class="smallText">888-287-5811</td>
+            </tr>
+            <tr>
+              <td nowrap align="left" class="smallText"><b>Rating:</b></td>
+              <td nowrap align="left" class="smallText">
+<img src="images/star.gif" border="0" alt="7&nbsp;stars" title=" 7&nbsp;stars " width="12" height="11"><img src="images/star.gif" border="0" alt="7&nbsp;stars" title=" 7&nbsp;stars " width="12" height="11"><img src="images/star.gif" border="0" alt="7&nbsp;stars" title=" 7&nbsp;stars " width="12" height="11"><img src="images/star.gif" border="0" alt="7&nbsp;stars" title=" 7&nbsp;stars " width="12" height="11"><img src="images/star.gif" border="0" alt="7&nbsp;stars" title=" 7&nbsp;stars " width="12" height="11"><img src="images/star.gif" border="0" alt="7&nbsp;stars" title=" 7&nbsp;stars " width="12" height="11"><img src="images/star.gif" border="0" alt="7&nbsp;stars" title=" 7&nbsp;stars " width="12" height="11">&nbsp;(7&nbsp;stars)              </td>
+              <td nowrap align="left" class="smallText"><b>Access Number:</b></td>
+              <td nowrap align="left" class="smallText">800-927-8129</td>
+            </tr>
+            <tr>
+              <td colspan="4"><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="10"></td>
+            </tr>
+            <tr>
+              <td colspan="4" align="left" class="smallText">
+            </tr>
+
+            <tr>
+              <td colspan="4"><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="10"></td>
+            </tr>
+            <tr>
+              <td colspan="4" align="left" class="smallText">
+Rate Finder: (<a style="text-decoration:underline;" href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-All.html">Show All Rates</a>) <br><font color="red"> Select a Country name starting with: <font size=3><a style="text-decoration:underline;" href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-A.html"><font color=red>A</font></a></font>&nbsp;<font size=3><a style="text-decoration:underline;" href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-B.html">B</a></font>&nbsp;<font size=3><a style="text-decoration:underline;" href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-C.html">C</a></font>&nbsp;<font size=3><a style="text-decoration:underline;" href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-D.html">D</a></font>&nbsp;<font size=3><a style="text-decoration:underline;" href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-E.html">E</a></font>&nbsp;<font size=3><a style="text-decoration:underline;" href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-F.html">F</a></font>&nbsp;<font size=3><a style="text-decoration:underline;" href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-G.html">G</a></font>&nbsp;<font size=3><a style="text-decoration:underline;" href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-H.html">H</a></font>&nbsp;<font size=3><a style="text-decoration:underline;" href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-I.html">I</a></font>&nbsp;<font size=3><a style="text-decoration:underline;" href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-J.html">J</a></font>&nbsp;<font size=3><a style="text-decoration:underline;" href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-K.html">K</a></font>&nbsp;<font size=3><a style="text-decoration:underline;" href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-L.html">L</a></font>&nbsp;<font size=3><a style="text-decoration:underline;" href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-M.html">M</a></font>&nbsp;<font size=3><a style="text-decoration:underline;" href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-N.html">N</a></font>&nbsp;<font size=3><a style="text-decoration:underline;" href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-O.html">O</a></font>&nbsp;<font size=3><a style="text-decoration:underline;" href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-P.html">P</a></font>&nbsp;<font size=3><a style="text-decoration:underline;" href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-Q.html">Q</a></font>&nbsp;<font size=3><a style="text-decoration:underline;" href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-R.html">R</a></font>&nbsp;<font size=3><a style="text-decoration:underline;" href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-S.html">S</a></font>&nbsp;<font size=3><a style="text-decoration:underline;" href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-T.html">T</a></font>&nbsp;<font size=3><a style="text-decoration:underline;" href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-U.html">U</a></font>&nbsp;<font size=3><a style="text-decoration:underline;" href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-V.html">V</a></font>&nbsp;<font size=3><a style="text-decoration:underline;" href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-W.html">W</a></font>&nbsp;X&nbsp;<font size=3><a style="text-decoration:underline;" href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-Y.html">Y</a></font>&nbsp;<font size=3><a style="text-decoration:underline;" href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-Z.html">Z</a></font>&nbsp;<br><table border="0" cellspacing="0" cellpadding="0" align="center"><tr><td class="main"><b>Calling From</b> &nbsp; </td><td class="main"><b>Calling To</b> &nbsp; </td><td class="main" align="center"><b>Rate Per Minute</b> &nbsp; </td><td class="main" align="center"><b>Min/$20</tr><tr><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAlbania-origin-index.php.html" title="Search for other Albania calling cards from United States">United States</a> &nbsp; &nbsp; &nbsp; </td><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAlbania-origin-index.php.html" title="Search for other Albania calling cards from United States">Albania</a> &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">133.3&cent; &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">15</td></tr><tr><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAlbaniaCellular-origin-index.php.html" title="Search for other Albania - Cellular calling cards from United States">United States</a> &nbsp; &nbsp; &nbsp; </td><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAlbaniaCellular-origin-index.php.html" title="Search for other Albania - Cellular calling cards from United States">Albania - Cellular</a> &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">162.5&cent; &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">12</td></tr><tr><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAlgeria-origin-index.php.html" title="Search for other Algeria calling cards from United States">United States</a> &nbsp; &nbsp; &nbsp; </td><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAlgeria-origin-index.php.html" title="Search for other Algeria calling cards from United States">Algeria</a> &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">125&cent; &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">16</td></tr><tr><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAlgeriaCellular-origin-index.php.html" title="Search for other Algeria - Cellular calling cards from United States">United States</a> &nbsp; &nbsp; &nbsp; </td><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAlgeriaCellular-origin-index.php.html" title="Search for other Algeria - Cellular calling cards from United States">Algeria - Cellular</a> &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">150&cent; &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">13</td></tr><tr><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAmericanSamoa-origin-index.php.html" title="Search for other American Samoa calling cards from United States">United States</a> &nbsp; &nbsp; &nbsp; </td><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAmericanSamoa-origin-index.php.html" title="Search for other American Samoa calling cards from United States">American Samoa</a> &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">112.5&cent; &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">18</td></tr><tr><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAmericanSamoaCellular-origin-index.php.html" title="Search for other American Samoa - Cellular calling cards from United States">United States</a> &nbsp; &nbsp; &nbsp; </td><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAmericanSamoaCellular-origin-index.php.html" title="Search for other American Samoa - Cellular calling cards from United States">American Samoa - Cellular</a> &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">112.5&cent; &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">18</td></tr><tr><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAndorra-origin-index.php.html" title="Search for other Andorra calling cards from United States">United States</a> &nbsp; &nbsp; &nbsp; </td><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAndorra-origin-index.php.html" title="Search for other Andorra calling cards from United States">Andorra</a> &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">112.5&cent; &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">18</td></tr><tr><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAndorraCellular-origin-index.php.html" title="Search for other Andorra - Cellular calling cards from United States">United States</a> &nbsp; &nbsp; &nbsp; </td><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAndorraCellular-origin-index.php.html" title="Search for other Andorra - Cellular calling cards from United States">Andorra - Cellular</a> &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">200&cent; &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">10</td></tr><tr><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toArgentina-origin-index.php.html" title="Search for other Argentina calling cards from United States">United States</a> &nbsp; &nbsp; &nbsp; </td><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toArgentina-origin-index.php.html" title="Search for other Argentina calling cards from United States">Argentina</a> &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">106.7&cent; &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">19</td></tr><tr><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toArgentinaBuenosAires-origin-index.php.html" title="Search for other Argentina - Buenos Aires calling cards from United States">United States</a> &nbsp; &nbsp; &nbsp; </td><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toArgentinaBuenosAires-origin-index.php.html" title="Search for other Argentina - Buenos Aires calling cards from United States">Argentina - Buenos Aires</a> &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">106.7&cent; &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">19</td></tr><tr><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toArgentinaCellular-origin-index.php.html" title="Search for other Argentina - Cellular calling cards from United States">United States</a> &nbsp; &nbsp; &nbsp; </td><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toArgentinaCellular-origin-index.php.html" title="Search for other Argentina - Cellular calling cards from United States">Argentina - Cellular</a> &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">133.3&cent; &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">15</td></tr><tr><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toArmenia-origin-index.php.html" title="Search for other Armenia calling cards from United States">United States</a> &nbsp; &nbsp; &nbsp; </td><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toArmenia-origin-index.php.html" title="Search for other Armenia calling cards from United States">Armenia</a> &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">112.5&cent; &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">18</td></tr><tr><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toArmeniaCellular-origin-index.php.html" title="Search for other Armenia - Cellular calling cards from United States">United States</a> &nbsp; &nbsp; &nbsp; </td><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toArmeniaCellular-origin-index.php.html" title="Search for other Armenia - Cellular calling cards from United States">Armenia - Cellular</a> &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">150&cent; &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">13</td></tr><tr><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAruba-origin-index.php.html" title="Search for other Aruba calling cards from United States">United States</a> &nbsp; &nbsp; &nbsp; </td><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAruba-origin-index.php.html" title="Search for other Aruba calling cards from United States">Aruba</a> &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">125&cent; &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">16</td></tr><tr><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toArubaCellular-origin-index.php.html" title="Search for other Aruba - Cellular calling cards from United States">United States</a> &nbsp; &nbsp; &nbsp; </td><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toArubaCellular-origin-index.php.html" title="Search for other Aruba - Cellular calling cards from United States">Aruba - Cellular</a> &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">183.3&cent; &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">11</td></tr><tr><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAscensionIsland-origin-index.php.html" title="Search for other Ascension Island calling cards from United States">United States</a> &nbsp; &nbsp; &nbsp; </td><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAscensionIsland-origin-index.php.html" title="Search for other Ascension Island calling cards from United States">Ascension Island</a> &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">350&cent; &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">6</td></tr><tr><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAustralia-origin-index.php.html" title="Search for other Australia calling cards from United States">United States</a> &nbsp; &nbsp; &nbsp; </td><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAustralia-origin-index.php.html" title="Search for other Australia calling cards from United States">Australia</a> &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">102.5&cent; &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">20</td></tr><tr><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAustraliaCellular-origin-index.php.html" title="Search for other Australia - Cellular calling cards from United States">United States</a> &nbsp; &nbsp; &nbsp; </td><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAustraliaCellular-origin-index.php.html" title="Search for other Australia - Cellular calling cards from United States">Australia - Cellular</a> &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">133.3&cent; &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">15</td></tr><tr><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAustria-origin-index.php.html" title="Search for other Austria calling cards from United States">United States</a> &nbsp; &nbsp; &nbsp; </td><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAustria-origin-index.php.html" title="Search for other Austria calling cards from United States">Austria</a> &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">104&cent; &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">19</td></tr><tr><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAustriaCellular-origin-index.php.html" title="Search for other Austria - Cellular calling cards from United States">United States</a> &nbsp; &nbsp; &nbsp; </td><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAustriaCellular-origin-index.php.html" title="Search for other Austria - Cellular calling cards from United States">Austria - Cellular</a> &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">200&cent; &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">10</td></tr><tr><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAustriaVienna-origin-index.php.html" title="Search for other Austria - Vienna calling cards from United States">United States</a> &nbsp; &nbsp; &nbsp; </td><td class="main"><a href="http://www.stsprepaid.com/advanced_search_result-fromUnitedStates-toAustriaVienna-origin-index.php.html" title="Search for other Austria - Vienna calling cards from United States">Austria - Vienna</a> &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">104.2&cent; &nbsp; &nbsp; &nbsp; </td><td class="main" align="right">19</td></tr></table>              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="10"></td>
+      </tr>
+      <tr>
+        <td class="main">Current Reviews: 1</td>
+      </tr>
+      <tr>
+        <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="10"></td>
+      </tr>
+      <tr>
+        <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="10"></td>
+      </tr>
+      <tr>
+        <td><table border="0" width="100%" cellspacing="1" cellpadding="2" class="infoBox">
+          <tr class="infoBoxContents">
+            <td><table border="0" width="100%" cellspacing="0" cellpadding="2">
+              <tr>
+                <td width="10"><img src="images/pixel_trans.gif" border="0" alt="" width="10" height="1"></td>
+                <td class="main"><a href="http://www.stsprepaid.com/card_reviews-HelloAsiaCallingCard-location-A.html"><img src="includes/languages/english/images/buttons/button_reviews.gif" border="0" alt="Reviews" title=" Reviews " width="100" height="22"></a></td>
+                <td class="main" align="right"><a href="http://www.stsprepaid.com/index.html"><img src="includes/languages/english/images/buttons/button_continue.gif" border="0" alt="Continue" title=" Continue " width="100" height="22"></a></td>
+                <td width="10"><img src="images/pixel_trans.gif" border="0" alt="" width="10" height="1"></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="10"></td>
+      </tr>
+      <tr>
+        <td>
+<!-- also_purchased_cards //-->
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="14" class="infoBoxHeading"><img src="images/infobox/corner_left.gif" border="0" alt="" width="11" height="7"></td>
+    <td height="14" class="infoBoxHeading" width="100%">Customers who bought this card also purchased</td>
+    <td height="14" class="infoBoxHeading"><img src="images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="7"></td>
+  </tr>
+</table>
+<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
+  <tr>
+    <td><table border="0" width="100%" cellspacing="0" cellpadding="4" class="infoBoxContents">
+  <tr>
+    <td align="center" class="smallText" width="33%" valign="top"><a href="http://www.stsprepaid.com/card_info-GoldenDreamCallingCard.html"><img src="images/Golden-Dream-Calling-Card.jpg" border="0" alt="Golden Dream Calling Card" title=" Golden Dream Calling Card " width="67" height="45"></a><br><a href="http://www.stsprepaid.com/card_info-GoldenDreamCallingCard.html">Golden Dream Calling Card</a></td>
+    <td align="center" class="smallText" width="33%" valign="top"><a href="http://www.stsprepaid.com/card_info-STSIndiaCallingCard.html"><img src="images/STS-India-Calling-Card.jpg" border="0" alt="STS India Calling Card" title=" STS India Calling Card " width="67" height="45"></a><br><a href="http://www.stsprepaid.com/card_info-STSIndiaCallingCard.html">STS India Calling Card</a></td>
+    <td align="center" class="smallText" width="33%" valign="top"><a href="http://www.stsprepaid.com/card_info-ATTWorldCallingCard.html"><img src="images/AT&T-World-Calling-Card.jpg" border="0" alt="AT&T World Calling Card" title=" AT&T World Calling Card " width="67" height="45"></a><br><a href="http://www.stsprepaid.com/card_info-ATTWorldCallingCard.html">AT&T World Calling Card</a></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+<!-- also_purchased_cards_eof //-->
+        </td>
+      </tr>
+    </table></form></td>
+<!-- body_text_eof //-->
+    <td width="125" style="padding:0;"></td>
+  </tr>
+  <tr>
+    <td width="125" valign="top"><table border="0" width="125" cellspacing="0" cellpadding="2">
+<!-- left_navigation //-->
+<!-- loginbox //-->
+          <tr>
+            <td>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="14" class="infoBoxHeading"><img src="images/infobox/corner_left.gif" border="0" alt="" width="11" height="7"></td>
+    <td width="100%" height="14" class="infoBoxHeading">Log In</td>
+    <td height="14" class="infoBoxHeading" nowrap><img src="images/pixel_trans.gif" border="0" alt="" width="11" height="14"></td>
+  </tr>
+</table>
+<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
+  <tr>
+    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+  <tr>
+    <td class="boxText"><form name="login" action="https://www.stsprepaid.com/login-action-process.html" method="post">E-Mail Address:<br><input type="text" name="email_address" size="15" maxlength="96"><br>Password:<br><input type="password" name="password" size="15" maxlength="40"><br><br><center><input type="image" src="includes/languages/english/images/buttons/button_login.gif" border="0" alt="Sign In" title=" Sign In " SSL><br><br><a href="https://www.stsprepaid.com/password_forgotten.html">- Password Forgotten?</a><br><a href="https://www.stsprepaid.com/create_account.html">- New Account?</a></center></form></td>
+  </tr>
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+            </td>
+          </tr>
+<!-- loginbox_eof //-->
+<!-- categories //-->
+          <tr>
+            <td>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="14" class="infoBoxHeading"><img src="images/infobox/corner_left.gif" border="0" alt="" width="11" height="7"></td>
+    <td width="100%" height="14" class="infoBoxHeading">Phone Cards Categories</td>
+    <td height="14" class="infoBoxHeading" nowrap><img src="images/pixel_trans.gif" border="0" alt="" width="11" height="14"></td>
+  </tr>
+</table>
+<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
+  <tr>
+    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+  <tr>
+    <td class="boxText"><img src="images/cat_arrow_other.gif" align="absmiddle">&nbsp;<a href="http://www.stsprepaid.com/index-RechargeablePhoneCards.html">Rechargeable Phone Cards</a><br><img src="images/cat_arrow_down.gif" align="absmiddle">&nbsp;<a href="http://www.stsprepaid.com/index-CallingCards.html"><b>Calling Cards</b>-&gt;</a><br>&nbsp;&nbsp;<img src="images/cat_arrow_other.gif" align="absmiddle">&nbsp;<a href="http://www.stsprepaid.com/index-CallingCards-AfricaCallingCards.html">Africa Calling Cards</a><br>&nbsp;&nbsp;<img src="images/cat_arrow_right.gif" align="absmiddle">&nbsp;<a href="http://www.stsprepaid.com/index-CallingCards-AsiaCallingCards.html"><b>Asia Calling Cards</b></a><br>&nbsp;&nbsp;<img src="images/cat_arrow_other.gif" align="absmiddle">&nbsp;<a href="http://www.stsprepaid.com/index-CallingCards-AustraliaCallingCards.html">Australia Calling Cards</a><br>&nbsp;&nbsp;<img src="images/cat_arrow_other.gif" align="absmiddle">&nbsp;<a href="http://www.stsprepaid.com/index-CallingCards-CaribbeanCallingCards.html">Caribbean Calling Cards</a><br>&nbsp;&nbsp;<img src="images/cat_arrow_other.gif" align="absmiddle">&nbsp;<a href="http://www.stsprepaid.com/index-CallingCards-EuropeCallingCards.html">Europe Calling Cards</a><br>&nbsp;&nbsp;<img src="images/cat_arrow_other.gif" align="absmiddle">&nbsp;<a href="http://www.stsprepaid.com/index-CallingCards-IndiaPakistanCallingCards.html">India & Pakistan Calling Cards</a><br>&nbsp;&nbsp;<img src="images/cat_arrow_other.gif" align="absmiddle">&nbsp;<a href="http://www.stsprepaid.com/index-CallingCards-LatinoCallingCards.html">Latino Calling Cards</a><br>&nbsp;&nbsp;<img src="images/cat_arrow_other.gif" align="absmiddle">&nbsp;<a href="http://www.stsprepaid.com/index-CallingCards-MiddleEastCallingCards.html">Middle East Calling Cards</a><br>&nbsp;&nbsp;<img src="images/cat_arrow_other.gif" align="absmiddle">&nbsp;<a href="http://www.stsprepaid.com/index-CallingCards-USACanadaCallingCards.html">USA & Canada Calling Cards</a><br>&nbsp;&nbsp;<img src="images/cat_arrow_other.gif" align="absmiddle">&nbsp;<a href="http://www.stsprepaid.com/index-CallingCards-InternationalPhoneCards.html">International Phone Cards</a><br><img src="images/cat_arrow_other.gif" align="absmiddle">&nbsp;<a href="http://www.stsprepaid.com/index-WorldwideCallBackCards.html">Worldwide Call Back Cards</a><br><img src="images/cat_arrow_other.gif" align="absmiddle">&nbsp;<a href="http://www.stsprepaid.com/index-CellCards.html">Cell Cards</a><br><img src="images/cat_arrow_other.gif" align="absmiddle">&nbsp;<a href="http://www.stsprepaid.com/index-PromotionalPhoneCards.html">Promotional Phone Cards</a><br><img src="images/cat_arrow_other.gif" align="absmiddle">&nbsp;<a href="http://www.stsprepaid.com/index-UnlimitedOfficeCalling.html">Unlimited Office Calling</a><br><img src="images/cat_arrow_other.gif" align="absmiddle">&nbsp;<a href="http://www.stsprepaid.com/index-CellPhoneGuard.html">Cell PhoneGuard</a><br></td>
+  </tr>
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+            </td>
+          </tr>
+<!-- categories_eof //-->
+<!-- callingcards //-->
+          <tr>
+            <td>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="14" class="infoBoxHeading"><img src="images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="7"></td>
+    <td width="100%" height="14" class="infoBoxHeading">Select a Calling Card by Name</td>
+    <td height="14" class="infoBoxHeading" nowrap><img src="images/pixel_trans.gif" border="0" alt="" width="11" height="14"></td>
+  </tr>
+</table>
+<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
+  <tr>
+    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+  <tr>
+    <td class="boxText"><form name="callingcards" action="http://www.stsprepaid.com/card_info.html" method="get"><select name="cards_id" onChange="this.form.submit();" size="1" style="width: 100%"><option value="">Please Select</option><option value="203">African Dream Callin...</option><option value="106">African Dream Phone ...</option><option value="227">Africano Special Pho...</option><option value="156">AlJazeera Calling Ca...</option><option value="163">America Gold Calling...</option><option value="218">Amistad Phone Card</option><option value="164">Anytime Anywhere Mid...</option><option value="162">AT&T Phone Card</option><option value="181">AT&T Prepaid Calling...</option><option value="161">AT&T World Calling C...</option><option value="135">Australia Supreme Ca...</option><option value="201">Bang Bang Phone Card</option><option value="110">Call Africa Calling ...</option><option value="127">Call Asia Calling Ca...</option><option value="134">Call Australia Calli...</option><option value="146">Call Desi Calling Ca...</option><option value="142">Call Europe Calling ...</option><option value="152">Call Middle East Cal...</option><option value="138">Call Paradise Callin...</option><option value="157">Call USA Calling Car...</option><option value="139">Caribbean Choice Cal...</option><option value="170">Costa Azul Calling C...</option><option value="105">Crazy Crazy Phone Ca...</option><option value="107">CTA Africa Calling C...</option><option value="223">CTA Africa Phone Car...</option><option value="209">El Caballo Phone Car...</option><option value="111">Entrix Africa Callin...</option><option value="232">Europe Express Calli...</option><option value="184">Fast Dial Phone Card</option><option value="171">Feliz Latino</option><option value="217">Fino Calling Card</option><option value="198">First Middle East Ca...</option><option value="108">Global Call Phone Ca...</option><option value="222">Golden Dream $5 Phon...</option><option value="109">Golden Dream Calling...</option><option value="169">Habibi Calling Card</option><option value="178">Hala Calling Card</option><option value="191" SELECTED>Hello Asia Calling C...</option><option value="165">Hello Iraq Calling C...</option><option value="207">Hello Jordan Phone C...</option><option value="166">Hello Lebanon Callin...</option><option value="132">Hello Philippines Ca...</option><option value="216">Hello Pinoy Phone Ca...</option><option value="226">Hello World Calling ...</option><option value="167">Hello Yemen Calling ...</option><option value="174">I LOVE YOU- World Ph...</option><option value="175">I LOVE YOU-ME Callin...</option><option value="149">India Now Calling Ca...</option><option value="182">India Phone Card</option><option value="225">India Phone Card $5</option><option value="229">Latina Guatemala Pho...</option><option value="215">Legacy Phone Card</option><option value="212">Max Phone Card</option><option value="205">MCI Prepaid Phone Ca...</option><option value="231">Megatel Africa Phone...</option><option value="172">Mi Senorita Calling ...</option><option value="228">Mr Africa Phone Card</option><option value="202">My World Calling Car...</option><option value="179">Nueva Calling Card</option><option value="204">One Call Phone Card</option><option value="123">One World Calling Ca...</option><option value="124">Online Minutes Calli...</option><option value="176">Original Gold Callin...</option><option value="112">Play Hard Africa Cal...</option><option value="199">PTCL Phone Card</option><option value="113">Red Africa Phone Car...</option><option value="128">Smart Asia Calling C...</option><option value="168">Smart Card Calling C...</option><option value="140">Smart Caribbean Call...</option><option value="147">Smart Desi Calling C...</option><option value="143">Smart Europe Calling...</option><option value="153">Smart Middle East Ca...</option><option value="158">Smart USA Calling Ca...</option><option value="195">Sprint International...</option><option value="211">STS 60 Calling Card</option><option value="118">STS Clear Connection...</option><option value="148">STS India Calling Ca...</option><option value="125">STS Unlimited Callin...</option><option value="193">Suhni Dahrtee Phone ...</option><option value="115">Super Africa Calling...</option><option value="130">Super Asia Calling C...</option><option value="144">Super Europe Calling...</option><option value="154">Super Middle East Ca...</option><option value="159">Super USA Calling Ca...</option><option value="116">Sweet Nigeria Callin...</option><option value="136">Sydney Talk Calling ...</option><option value="196">Syria Link Phone Car...</option><option value="151">Taj Mahal Calling Ca...</option><option value="177">TCC 24/7 Africa Call...</option><option value="126">TCC 24/7 Calling Car...</option><option value="197">TCC Picante Phone Ca...</option><option value="206">TCC Select Phone Car...</option><option value="173">Tesoro Latino Callin...</option><option value="230">The Cell Phone Guard</option><option value="208">True Call Phone Card</option><option value="117">Ultimate Africa Call...</option><option value="129">Ultimate Asia Callin...</option><option value="137">Ultimate Australia C...</option><option value="141">Ultimate Caribbean C...</option><option value="150">Ultimate Desi Callin...</option><option value="145">Ultimate Europe Call...</option><option value="155">Ultimate Middle East...</option><option value="160">Ultimate USA Calling...</option><option value="210">Verizon MCI Prepaid ...</option><option value="133">VietNam Direct Calli...</option></select></form></td>
+  </tr>
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+            </td>
+          </tr>
+<!-- callingcards_eof //-->
+<!-- cellcards //-->
+          <tr>
+            <td>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="14" class="infoBoxHeading"><img src="images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="7"></td>
+    <td width="100%" height="14" class="infoBoxHeading">Select a Refill Cell Phone Card</td>
+    <td height="14" class="infoBoxHeading" nowrap><img src="images/pixel_trans.gif" border="0" alt="" width="11" height="14"></td>
+  </tr>
+</table>
+<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
+  <tr>
+    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+  <tr>
+    <td class="boxText"><form name="cellcards" action="http://www.stsprepaid.com/card_info.html" method="get"><select name="cards_id" onChange="this.form.submit();" size="1" style="width: 100%"><option value="">Please Select</option><option value="101">CallPlus Wireless Ce...</option><option value="102">Cingular KIC Cell Ca...</option><option value="103">T-Mobile EasySpeak C...</option><option value="104">Verizon FreeUp Cell ...</option></select></form></td>
+  </tr>
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+            </td>
+          </tr>
+<!-- cellcards_eof //-->
+<!-- ad //-->
+          <tr>
+            <td>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="14" class="infoBoxHeading"><img src="images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="7"></td>
+    <td width="100%" height="14" class="infoBoxHeading">Prepaid Cell Cards</td>
+    <td height="14" class="infoBoxHeading" nowrap><img src="images/pixel_trans.gif" border="0" alt="" width="11" height="14"></td>
+  </tr>
+</table>
+<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
+  <tr>
+    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+  <tr>
+    <td align="center" class="boxText"><a href="http://www.stsprepaid.com/redirect-action-banner-goto-25.html" target="_blank"><img src="images/CellCards.jpg" border="0" alt="Prepaid Cell Cards" title=" Prepaid Cell Cards " width="130" height="130"></a></td>
+  </tr>
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+            </td>
+          </tr>
+<!-- ad_eof //-->
+<!-- whats_new //-->
+          <tr>
+            <td>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="14" class="infoBoxHeading"><img src="images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="7"></td>
+    <td width="100%" height="14" class="infoBoxHeading">What's New?</td>
+    <td height="14" class="infoBoxHeading" nowrap><a href="http://www.stsprepaid.com/cards_new.html"><img src="images/infobox/arrow_right.gif" border="0" alt="more" title=" more " width="12" height="10"></a><img src="images/pixel_trans.gif" border="0" alt="" width="11" height="14"></td>
+  </tr>
+</table>
+<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
+  <tr>
+    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+  <tr>
+    <td align="center" class="boxText"><a href="http://www.stsprepaid.com/card_info-GoldenDream5PhoneCard.html"><img src="images/Golden-Dream-Calling-Card.jpg" border="0" alt="Golden Dream $5 Phone Card" title=" Golden Dream $5 Phone Card " width="67" height="45"><br>Golden Dream $5 Phone Card</a></td>
+  </tr>
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+            </td>
+          </tr>
+<!-- whats_new_eof //-->
+          <tr>
+            <td>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="14" class="infoBoxHeading"><img src="images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="7"></td>
+    <td width="100%" height="14" class="infoBoxHeading">Affiliate Program</td>
+    <td height="14" class="infoBoxHeading" nowrap><img src="images/pixel_trans.gif" border="0" alt="" width="11" height="14"></td>
+  </tr>
+</table>
+<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
+  <tr>
+    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+  <tr>
+    <td align="left" class="boxText"><a href="http://www.stsprepaid.com/affiliate_info.html">Affiliate Information</a><br><a href="http://www.stsprepaid.com/affiliate_faq.html">Affiliate Program FAQ</a><br><a href="https://www.stsprepaid.com/affiliate_affiliate.html">Affiliate Log In</a></td>
+  </tr>
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+            </td>
+          </tr>
+<!-- trust_logo //-->
+          <tr>
+            <td>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="14" class="infoBoxHeading"><img src="images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="7"></td>
+    <td width="100%" height="14" class="infoBoxHeading">Trust Logo</td>
+    <td height="14" class="infoBoxHeading" nowrap><img src="images/pixel_trans.gif" border="0" alt="" width="11" height="14"></td>
+  </tr>
+</table>
+<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
+  <tr>
+    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+  <tr>
+    <td align="center" class="boxText"><img src="images/instantssl_site_seal.gif" border="0" alt="" width="100" height="60"></td>
+  </tr>
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+            </td>
+          </tr>
+<tr><td>
+<!-- START CONTROLSCAN CODE -->
+<!--<a href='https://www.controlscan.com/seal/verify2.php?subid=2607&amp;id=92' target='verify'><img border='0' src='https://www.controlscan.com/seal/sealx2.php?subid=2607&amp;id=92' oncontextmenu="alert('Copying Prohibited by Law - Trademark of ControlScan.com'); return false;" alt='Internet Security By ControlScan' /></a>
+<a href='https://www.controlscan.com/seal/verify2.php?subid=2607&amp;id=18' target='verify'><img border='0' src='https://www.controlscan.com/seal/sealx2.php?subid=2607&amp;id=18' oncontextmenu="alert('Copying Prohibited by Law - Trademark of ControlScan.com'); return false;" alt='Internet Security By ControlScan' /></a>
+<a href='https://www.controlscan.com/seal/verify2.php?subid=2607&amp;id=16' target='verify'><img border='0' src='https://www.controlscan.com/seal/sealx2.php?subid=2607&amp;id=16' oncontextmenu="alert('Copying Prohibited by Law - Trademark of ControlScan.com'); return false;" alt='Internet Security By ControlScan' /></a>
+--><!-- STOP CONTROLSCAN CODE -->
+
+
+
+
+</td></tr>
+<!-- trust_logo_eof //-->
+<!-- left_navigation_eof //-->
+    </table></td>
+    <td width="125" valign="top"><table border="0" width="125" cellspacing="0" cellpadding="2">
+<!-- right_navigation //-->
+<!-- shopping_cart //-->
+<script language="javascript"><!--
+  function couponpopupWindow(url) {
+    window.open(url,'popupWindow','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=450,height=280,screenX=150,screenY=150,top=150,left=150');
+  }
+//--></script>
+          <tr>
+            <td>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="14" class="infoBoxHeading"><img src="images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="7"></td>
+    <td width="100%" height="14" class="infoBoxHeading">Cart</td>
+    <td height="14" class="infoBoxHeading" nowrap><a href="http://www.stsprepaid.com/shopping_cart.html"><img src="images/infobox/arrow_right.gif" border="0" alt="more" title=" more " width="12" height="10"></a><img src="images/infobox/corner_right.gif" border="0" alt="" width="11" height="14"></td>
+  </tr>
+</table>
+<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
+  <tr>
+    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+  <tr>
+    <td class="boxText">0 items</td>
+  </tr>
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+            </td>
+          </tr>
+<tr><td>
+<!-- START CONTROLSCAN CODE -->
+<!--
+<a href='https://www.controlscan.com/seal/verify2.php?subid=2607&amp;id=31' target='verify'><img border='0' src='https://www.controlscan.com/seal/sealx2.php?subid=2607&amp;id=31' oncontextmenu="alert('Copying Prohibited by Law - Trademark of ControlScan.com'); return false;" alt='Internet Security By ControlScan' /></a>
+<a href='https://www.controlscan.com/seal/verify2.php?subid=2607&amp;id=33' target='verify'><img border='0' src='https://www.controlscan.com/seal/sealx2.php?subid=2607&amp;id=33' oncontextmenu="alert('Copying Prohibited by Law - Trademark of ControlScan.com'); return false;" alt='Internet Security By ControlScan' /></a>-->
+<!-- STOP CONTROLSCAN CODE -->
+
+
+
+
+</td></tr>
+
+<!-- shopping_cart_eof //-->
+<!-- notifications //-->
+          <tr>
+            <td>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="14" class="infoBoxHeading"><img src="images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="7"></td>
+    <td width="100%" height="14" class="infoBoxHeading">Notifications</td>
+    <td height="14" class="infoBoxHeading" nowrap><a href="https://www.stsprepaid.com/account_notifications.html"><img src="images/infobox/arrow_right.gif" border="0" alt="more" title=" more " width="12" height="10"></a><img src="images/pixel_trans.gif" border="0" alt="" width="11" height="14"></td>
+  </tr>
+</table>
+<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
+  <tr>
+    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+  <tr>
+    <td class="boxText"><table border="0" cellspacing="0" cellpadding="2"><tr><td class="infoBoxContents"><a href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-A-action-notify.html"><img src="images/box_cards_notifications.gif" border="0" alt="Notifications" title=" Notifications " width="50" height="50"></a></td><td class="infoBoxContents"><a href="http://www.stsprepaid.com/card_info-HelloAsiaCallingCard-location-A-action-notify.html">Notify me of updates to <b>Hello Asia Calling Card</b></a></td></tr></table></td>
+  </tr>
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+            </td>
+          </tr>
+<!-- notifications_eof //-->
+<!-- tell_a_friend //-->
+          <tr>
+            <td>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="14" class="infoBoxHeading"><img src="images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="7"></td>
+    <td width="100%" height="14" class="infoBoxHeading">Tell A Friend</td>
+    <td height="14" class="infoBoxHeading" nowrap><img src="images/pixel_trans.gif" border="0" alt="" width="11" height="14"></td>
+  </tr>
+</table>
+<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
+  <tr>
+    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+  <tr>
+    <td align="center" class="boxText"><form name="tell_a_friend" action="http://www.stsprepaid.com/tell_a_friend.html" method="get"><input type="text" name="to_email_address1" size="10">&nbsp;<input type="image" src="includes/languages/english/images/buttons/button_tell_a_friend.gif" border="0" alt="Tell A Friend" title=" Tell A Friend "><br><input type="hidden" name="cards_id" value="191"><br>Tell someone you know about this card.</form></td>
+  </tr>
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+            </td>
+          </tr>
+<!-- tell_a_friend_eof //-->
+<!-- specials //-->
+          <tr>
+            <td>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="14" class="infoBoxHeading"><img src="images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="7"></td>
+    <td width="100%" height="14" class="infoBoxHeading">Specials</td>
+    <td height="14" class="infoBoxHeading" nowrap><a href="http://www.stsprepaid.com/specials.html"><img src="images/infobox/arrow_right.gif" border="0" alt="more" title=" more " width="12" height="10"></a><img src="images/pixel_trans.gif" border="0" alt="" width="11" height="14"></td>
+  </tr>
+</table>
+<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
+  <tr>
+    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+  <tr>
+    <td align="center" class="boxText"><a href="http://www.stsprepaid.com/card_info-STS60CallingCard.html"><img src="images/STS 60 RECHARGEABLE PHONE CARD-LOCAL-1020X580 copy.jpg" border="0" alt="STS 60 Calling Card" title=" STS 60 Calling Card " width="67" height="45"><br>STS 60 Calling Card</a><br><s>$3.99</s><br><span class="cardSpecialPrice">$2.99</span></td>
+  </tr>
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+            </td>
+          </tr>
+<!-- specials_eof //-->
+<!-- reviews //-->
+          <tr>
+            <td>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="14" class="infoBoxHeading"><img src="images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="7"></td>
+    <td width="100%" height="14" class="infoBoxHeading">Reviews</td>
+    <td height="14" class="infoBoxHeading" nowrap><a href="http://www.stsprepaid.com/reviews.html"><img src="images/infobox/arrow_right.gif" border="0" alt="more" title=" more " width="12" height="10"></a><img src="images/pixel_trans.gif" border="0" alt="" width="11" height="14"></td>
+  </tr>
+</table>
+<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
+  <tr>
+    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+  <tr>
+    <td class="boxText"><table border="0" cellspacing="0" cellpadding="2"><tr><td class="infoBoxContents"><a href="http://www.stsprepaid.com/card_reviews_write-HelloAsiaCallingCard.html"><img src="images/box_write_review.gif" border="0" alt="Write Review" title=" Write Review " width="50" height="50"></a></td><td class="infoBoxContents"><a href="http://www.stsprepaid.com/card_reviews_write-HelloAsiaCallingCard.html">Write a review on this card!</a></td></tr></table></td>
+  </tr>
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+            </td>
+          </tr>
+<!-- reviews_eof //-->
+<!-- bookmark //-->
+          <tr>
+            <td>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="14" class="infoBoxHeading"><img src="images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="7"></td>
+    <td width="100%" height="14" class="infoBoxHeading">Bookmark Us</td>
+    <td height="14" class="infoBoxHeading" nowrap><img src="images/pixel_trans.gif" border="0" alt="" width="11" height="14"></td>
+  </tr>
+</table>
+<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
+  <tr>
+    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+  <tr>
+    <td align="left" class="boxText"><a href="javascript:void(0)" onclick="try { window.external.AddFavorite(window.location,document.title); } catch(e) { alert('If you are using Internet Explorer.\nRight click on the page and choose Add to Favorites From the menu.\nIf you are using Netscape just press Ctrl+D'); }">Bookmark Us</a><br><a href="http://www.stsprepaid.com/link_to_us.html">Link To Us</a></td>
+  </tr>
+  <tr>
+    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+            </td>
+          </tr>
+<!-- bookmark_eof //-->
+<!-- right_navigation_eof //-->
+    </table></td>
+  </tr>
+</table>
+<!-- body_eof //-->
+
+<!-- footer //-->
+<table border="0" width="100%" cellspacing="0" cellpadding="1">
+  <tr class="footer">
+    <td class="footer" width="33%">&nbsp;&nbsp;Thursday 09 February, 2012&nbsp;&nbsp;</td>
+    <td align="right" class="footer" width="33%">&nbsp;&nbsp;You are connecting from 38.107.179.229&nbsp;&nbsp;</td>
+  </tr>
+  <tr><td class="smallText" colspan="3" align="center">
+<a href="http://www.stsprepaid.com/privacy.html">Privacy Notice</a> | <a href="http://www.stsprepaid.com/conditions.html">Conditions of Use</a> | <a href="http://www.stsprepaid.com/about_us.html">About Us</a> | <a href="http://www.stsprepaid.com/contact_us.html">Contact Us</a> | <a href="http://www.stsprepaid.com/general_faq.html">General FAQ</a> | <a href="http://www.stsprepaid.com/wholesale.html">Wholesale</a> | <a href="http://www.stsprepaid.com/sitemap2.htm">SiteMap</a>  </td></tr>
+</table>
+<br>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" class="smallText"></td>
+  </tr>
+</table>
+</table>
+<a href="http://www.instantssl.com" id="comodoTL">SSL</a>
+<script language="JavaScript" type="text/javascript">
+<!-- COT("http://www.stsprepaid.com/images/cot_evssl.gif", "SC3", "none"); -->
+COT("/images/cot_evssl.gif", "SC3", "none");
+</script>
+<!-- footer_eof //-->
+<br>
+</body>
+</html>
+

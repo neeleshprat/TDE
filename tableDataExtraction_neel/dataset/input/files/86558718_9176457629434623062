@@ -1,0 +1,422 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Events | IPIECA</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/default/files/favicon_0.jpg" type="image/x-icon" />
+  <link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?h" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?h" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?h" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?h" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?h" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?h" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/ctools/css/ctools.css?h" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date.css?h" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/fckeditor/fckeditor.css?h" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/filefield/filefield.css?h" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/simplenews/simplenews.css?h" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/calendar/calendar.css?h" />
+<link type="text/css" rel="stylesheet" media="all" href="/misc/farbtastic/farbtastic.css?h" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?h" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views/css/views.css?h" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/ipieca_better_taxonomy_links/css/ipieca_better_taxonomy_links.css?h" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/hierarchical_select/hierarchical_select.css?h" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/taxonomy_super_select/taxonomy_super_select.css?h" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ipieca/style.css?h" />
+  <script type="text/javascript" src="/misc/jquery.js?h"></script>
+<script type="text/javascript" src="/misc/drupal.js?h"></script>
+<script type="text/javascript" src="/sites/all/modules/ipieca_custom_event_date_autoselector/js/ipieca_custom_event_date_autoselector.js?h"></script>
+<script type="text/javascript" src="/sites/all/modules/hierarchical_select/hierarchical_select.js?h"></script>
+<script type="text/javascript" src="/sites/all/modules/hierarchical_select/hierarchical_select_formtoarray.js?h"></script>
+<script type="text/javascript" src="/sites/all/modules/hierarchical_select/js/jquery.ui/effects.core.js?h"></script>
+<script type="text/javascript" src="/sites/all/modules/hierarchical_select/js/jquery.ui/effects.drop.js?h"></script>
+<script type="text/javascript" src="/sites/all/modules/hierarchical_select/includes/views.js?h"></script>
+<script type="text/javascript" src="/sites/all/modules/views/js/base.js?h"></script>
+<script type="text/javascript" src="/sites/all/modules/views/js/dependent.js?h"></script>
+<script type="text/javascript" src="/sites/all/modules/views_hacks/views_filters_reset/views_filters_reset.js?h"></script>
+<script type="text/javascript" src="/misc/jquery.form.js?h"></script>
+<script type="text/javascript" src="/sites/all/modules/signup/js/node_form.js?h"></script>
+<script type="text/javascript" src="/misc/collapse.js?h"></script>
+<script type="text/javascript" src="/misc/ahah.js?h"></script>
+<script type="text/javascript" src="/misc/autocomplete.js?h"></script>
+<script type="text/javascript" src="/misc/textarea.js?h"></script>
+<script type="text/javascript" src="/sites/all/themes/ipieca/js/ipieca.js?h"></script>
+<script type="text/javascript" src="/misc/tableheader.js?h"></script>
+<script type="text/javascript" src="/sites/all/themes/ipieca/js/swfobject.js?h"></script>
+<script type="text/javascript" src="/sites/all/themes/ipieca/js/ipieca.js?h"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackDownload": 1, "trackDownloadExtensions": "doc|pdf|ppt|xls|zip" }, "vfr": { "form_id": "views-exposed-form-events-page-3", "url": "/events/downloads/stakeholder/IPIECA_Stakeholder-dialogue_BSR_report.pdf" } });
+//--><!]]>
+</script>
+</head>
+<body class="not-front not-logged-in page-events one-sidebar sidebar-left">
+    <!--wrapper starts-->
+    <div id="wrapper">
+                <!--header starts -->
+        <div id="header">
+                        <!--logo-->
+            <h1 class="logo"><a href="/" title="Return to home page" rel="home"><img src="/sites/all/themes/ipieca/images/bg-logo.gif" alt="Home" id="logo-image" /></a></h1>            
+                                
+            <div class="frame">
+                <div class="global-nav">
+                      <ul class="menu"><li class="leaf first"><a href="/user/login" title="">Sign in</a></li>
+<li class="leaf last"><a href="/user/register" title="">Register</a></li>
+</ul>                    <strong>Welcome</strong>
+                </div>
+                <div class="block">
+                    <!--slogan-->
+                    <strong class="slogan">The global oil and gas industry association for environmental and social issues</strong>
+                    <div class="search-box">
+                        <form action="/events/downloads/stakeholder/IPIECA_Stakeholder-dialogue_BSR_report.pdf"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+    
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+      <label for="edit-search-theme-form-1">Search:</label>
+      <div>
+          <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" value="                                                          " title="Enter the terms you wish to search for." class="form-text" onfocus="if (this.value == '                                                          ') this.value = '';"/>         
+          <img src="/sites/all/themes/ipieca/images/bg-txt-input.gif" alt="Enter search terms." />
+      </div>
+  </div>
+  <input type="image" name="op" value="Search" src="/sites/all/themes/ipieca/images/btn-go.gif" class="btn-go" alt="Submit search" />
+  <input type="hidden" name="form_build_id" id="form-c2eaf0cf610ef8e48dbbeb7d0263f28a" value="form-c2eaf0cf610ef8e48dbbeb7d0263f28a"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+      
+</div>
+
+</div></form>
+                        <img src="/sites/all/themes/ipieca/images/bg-search.gif" alt="" class="bg-search" />
+                    </div>
+                </div>
+            </div>
+            <img src="/sites/all/themes/ipieca/images/bg-header-strip.gif" class="bg-header" alt="header background" />
+        </div> <!-- /header -->
+        <!--navigation-->
+        <ul class="nav"><li class="menu-2867 first"><a href="/" title="Return to the site&#039;s home page.">Home</a></li>
+<li class="menu-324"><a href="/about-us" title="Find out more about IPIECA and their members.">About us</a></li>
+<li class="menu-4093"><a href="/news" title="View a list of all recent and past announcements by IPIECA.">News</a></li>
+<li class="menu-20991"><a href="/our-work" title="">Our work</a></li>
+<li class="menu-8225 active-trail"><a href="/events" title="View and sign-up to upcoming events organised by IPIECA and their industry partners." class="active">Events</a></li>
+<li class="menu-2516"><a href="/library" title="">Library</a></li>
+<li class="menu-8257 last"><a href="/user/login?destination=member/home" title="Access additional member-only information and services. (IPIECA members only.)">Members&#039; area</a></li>
+</ul>        <!--main starts-->
+        <div id="main">
+            <div class="main-frame">
+                                  <!--left sidebar -->
+                  <div id="sidebar">
+  <div class="side-nav">
+      <div id="block-menu_block-2" class="block block-menu_block block-left block-left-1 block-left-first">
+      <h2>Events</h2>
+      <div class="content">
+    <div class="menu-block-2 menu-name-primary-links parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="leaf first menu-mlid-10740"><a href="/events/upcoming" title="View and sign-up to upcoming events organised by IPIECA and their industry partners.">Upcoming events</a></li>
+<li class="leaf menu-mlid-10765"><a href="/events/archive" title="View a list of all past events.">Events archive</a></li>
+<li class="leaf last menu-mlid-8222"><a href="/events/calendar" title="">Calendar view</a></li>
+</ul></div>
+  </div>
+</div>
+        
+  </div>
+</div>
+                                <div id="content">
+                                        
+                    <div class="content-holder">
+                                            <!-- main content -->
+                        <div id="page-column-content" class="column-1">                        
+                                                        <img class="column-img"  alt="page title image" src="/sites/all/themes/ipieca/images/event-title.jpg"/>
+                                                        
+                                                          <div class="breadcrumb"><a href="/">Home</a> &raquo; <a href="/events">Events</a></div>                                                                                                                                        
+                                                        <div class="view view-events view-id-events view-display-id-page_3 view-dom-id-1 view-events-display-id-page_3">
+        <div class="view-header">
+      <h1>Upcoming events</h1>
+<p>This page lists all upcoming events organized by IPIECA and our industry partners. Use the controls below to filter the events. Click on the name of an event to view more details. Registered users may sign up online. Use the menu on the left to view past events and the events calendar.</p>
+<p>Members please 
+<a href="/user/login?destination=events/upcoming">login</a> or 
+<a href="/user/register">register</a> to view all available events.</p>
+
+
+    </div>
+  
+      <div class="view-filters">
+      <form action="/events/downloads/stakeholder/IPIECA_Stakeholder-dialogue_BSR_report.pdf"  accept-charset="UTF-8" method="get" id="views-exposed-form-events-page-3">
+<div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clear-block">
+              <div class="views-exposed-widget">
+                  <label>
+            Event type:          </label>
+                        <div class="views-widget">
+          <div class="form-item" id="edit-event-type-wrapper">
+ <select name="event-type" class="form-select" id="edit-event-type" ><option value="All" selected="selected">&lt;Any&gt;</option><option value="21">Workshop</option><option value="22">Meeting</option><option value="27">External event</option></select>
+</div>
+        </div>
+      </div>
+          <div class="views-exposed-widget">
+                  <label>
+            Focus area:          </label>
+                        <div class="views-widget">
+          <div class="form-item" id="edit-focus-area-wrapper">
+ <select name="focus-area" class="form-select" id="edit-focus-area" ><option value="All" selected="selected">&lt;Any&gt;</option><option value="6">Biodiversity</option><option value="5">Climate change</option><option value="9">Health</option><option value="8">Oil spill preparedness</option><option value="10">Operations and fuels</option><option value="52">Planning Committee</option><option value="11">Reporting</option><option value="81">Rio+20</option><option value="7">Social responsibility</option><option value="101">Supply chain</option><option value="91">Water</option></select>
+</div>
+        </div>
+      </div>
+        <div class="views-exposed-widget">
+      <input type="image" name="" value="Apply" id="edit-submit-events"  class="form-submit" src="/sites/all/themes/ipieca/images/btn-apply.gif" />
+    </div>
+      </div>
+</div>
+
+</div></form>
+    </div>
+  
+  
+      <div class="view-content">
+      <table class="views-table sticky-enabled cols-10">
+    <thead>
+    <tr>
+              <th class="views-field views-field-field-event-start-datetime-value">
+          <a href="/events/downloads/stakeholder/IPIECA_Stakeholder-dialogue_BSR_report.pdf?order=field_event_start_datetime_value&amp;sort=asc" title="sort by Date" class="active">Date</a>        </th>
+              <th class="views-field views-field-title">
+          Name        </th>
+              <th class="views-field views-field-field-event-venue-city-value">
+          Location        </th>
+              <th class="views-field views-field-phpcode-1">
+          Type        </th>
+              <th class="views-field views-field-phpcode">
+          Focus areas        </th>
+          </tr>
+  </thead>
+  <tbody>
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-field-event-start-datetime-value">
+            <span class="date-display-start">20-Feb-12</span><span class="date-display-separator"> - </span><span class="date-display-end">22-Feb-12</span>          </td>
+                  <td class="views-field views-field-title">
+            <a href="/event/20120104/spe-social-responsibility-workshop">SPE Social Responsibility Workshop</a>          </td>
+                  <td class="views-field views-field-field-event-venue-city-value">
+            Paris, France          </td>
+                  <td class="views-field views-field-phpcode-1">
+            <ul class="taxonomy_labels">
+      
+        <li class="taxonomy_label taxonomy_label_vocabulary_4 taxonomy_label_term_27 first last"><span class="a">External event</span></li>
+      </ul>          </td>
+                  <td class="views-field views-field-phpcode">
+            <ul class="taxonomy_labels">
+      
+        <li class="taxonomy_label taxonomy_label_vocabulary_2 taxonomy_label_term_7 first last"><span class="a">Social responsibility</span></li>
+      </ul>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-event-start-datetime-value">
+            <span class="date-display-start">06-Mar-12</span><span class="date-display-separator"> - </span><span class="date-display-end">07-Mar-12</span>          </td>
+                  <td class="views-field views-field-title">
+            <a href="/event/20111202/expanding-role-natural-gas-comparing-life-cycle-greenhouse-gas-emissions">The Expanding Role of Natural Gas: Comparing Life-Cycle Greenhouse Gas Emissions</a>          </td>
+                  <td class="views-field views-field-field-event-venue-city-value">
+            Texas, United States          </td>
+                  <td class="views-field views-field-phpcode-1">
+            <ul class="taxonomy_labels">
+      
+        <li class="taxonomy_label taxonomy_label_vocabulary_4 taxonomy_label_term_21 first last"><span class="a">Workshop</span></li>
+      </ul>          </td>
+                  <td class="views-field views-field-phpcode">
+            <ul class="taxonomy_labels">
+      
+        <li class="taxonomy_label taxonomy_label_vocabulary_2 taxonomy_label_term_5 first last"><span class="a">Climate change</span></li>
+      </ul>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-event-start-datetime-value">
+            <span class="date-display-start">12-Mar-12</span><span class="date-display-separator"> - </span><span class="date-display-end">17-Mar-12</span>          </td>
+                  <td class="views-field views-field-title">
+            <a href="/event/20120104/6th-world-water-forum">6th World Water Forum</a>          </td>
+                  <td class="views-field views-field-field-event-venue-city-value">
+            Marseille, France          </td>
+                  <td class="views-field views-field-phpcode-1">
+            <ul class="taxonomy_labels">
+      
+        <li class="taxonomy_label taxonomy_label_vocabulary_4 taxonomy_label_term_27 first last"><span class="a">External event</span></li>
+      </ul>          </td>
+                  <td class="views-field views-field-phpcode">
+            <ul class="taxonomy_labels">
+      
+        <li class="taxonomy_label taxonomy_label_vocabulary_2 taxonomy_label_term_91 first last"><span class="a">Water</span></li>
+      </ul>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-event-start-datetime-value">
+            <span class="date-display-start">13-Mar-12</span><span class="date-display-separator"> - </span><span class="date-display-end">15-Mar-12</span>          </td>
+                  <td class="views-field views-field-title">
+            <a href="/event/20111026/interspill-london-2012">Interspill - London 2012</a>          </td>
+                  <td class="views-field views-field-field-event-venue-city-value">
+            London, United Kingdom          </td>
+                  <td class="views-field views-field-phpcode-1">
+            <ul class="taxonomy_labels">
+      
+        <li class="taxonomy_label taxonomy_label_vocabulary_4 taxonomy_label_term_27 first last"><span class="a">External event</span></li>
+      </ul>          </td>
+                  <td class="views-field views-field-phpcode">
+            <ul class="taxonomy_labels">
+      
+        <li class="taxonomy_label taxonomy_label_vocabulary_2 taxonomy_label_term_8 first last"><span class="a">Oil spill preparedness</span></li>
+      </ul>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-event-start-datetime-value">
+            <span class="date-display-start">19-Mar-12</span><span class="date-display-separator"> - </span><span class="date-display-end">23-Mar-12</span>          </td>
+                  <td class="views-field views-field-title">
+            <a href="/event/20120104/informal-informal-negotiations-zero-draft-rio20-outcome-document">&#039;Informal-informal&#039; negotiations on the zero draft of the Rio+20 outcome document</a>          </td>
+                  <td class="views-field views-field-field-event-venue-city-value">
+            New York, NY, United States          </td>
+                  <td class="views-field views-field-phpcode-1">
+            <ul class="taxonomy_labels">
+      
+        <li class="taxonomy_label taxonomy_label_vocabulary_4 taxonomy_label_term_27 first last"><span class="a">External event</span></li>
+      </ul>          </td>
+                  <td class="views-field views-field-phpcode">
+            <ul class="taxonomy_labels">
+      
+        <li class="taxonomy_label taxonomy_label_vocabulary_2 taxonomy_label_term_81 first last"><span class="a">Rio+20</span></li>
+      </ul>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-event-start-datetime-value">
+            <span class="date-display-start">21-Mar-12</span><span class="date-display-separator"> - </span><span class="date-display-end">22-Mar-12</span>          </td>
+                  <td class="views-field views-field-title">
+            <a href="/event/20120202/ethical-corporation-how-manage-social-and-environmental-risk-oil-gas-and-mining">Ethical Corporation: How To Manage Social And Environmental Risk For Oil, Gas And Mining</a>          </td>
+                  <td class="views-field views-field-field-event-venue-city-value">
+            London, United Kingdom          </td>
+                  <td class="views-field views-field-phpcode-1">
+            <ul class="taxonomy_labels">
+      
+        <li class="taxonomy_label taxonomy_label_vocabulary_4 taxonomy_label_term_27 first last"><span class="a">External event</span></li>
+      </ul>          </td>
+                  <td class="views-field views-field-phpcode">
+            <ul class="taxonomy_labels">
+      
+        <li class="taxonomy_label taxonomy_label_vocabulary_2 taxonomy_label_term_6 first"><span class="a">Biodiversity</span></li>
+        <li class="taxonomy_label taxonomy_label_vocabulary_2 taxonomy_label_term_7 last"><span class="a">Social responsibility</span></li>
+      </ul>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-event-start-datetime-value">
+            <span class="date-display-start">25-Mar-12</span><span class="date-display-separator"> - </span><span class="date-display-end">27-Mar-12</span>          </td>
+                  <td class="views-field views-field-title">
+            <a href="/event/20120104/3rd-intersessional-meeting-uncsd-2012rio20">3rd Intersessional Meeting of UNCSD 2012/Rio+20</a>          </td>
+                  <td class="views-field views-field-field-event-venue-city-value">
+            New York, NY, United States          </td>
+                  <td class="views-field views-field-phpcode-1">
+            <ul class="taxonomy_labels">
+      
+        <li class="taxonomy_label taxonomy_label_vocabulary_4 taxonomy_label_term_27 first last"><span class="a">External event</span></li>
+      </ul>          </td>
+                  <td class="views-field views-field-phpcode">
+            <ul class="taxonomy_labels">
+      
+        <li class="taxonomy_label taxonomy_label_vocabulary_2 taxonomy_label_term_81 first last"><span class="a">Rio+20</span></li>
+      </ul>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-event-start-datetime-value">
+            <span class="date-display-start">02-Apr-12</span><span class="date-display-separator"> - </span><span class="date-display-end">03-Apr-12</span>          </td>
+                  <td class="views-field views-field-title">
+            <a href="/event/20120130/second-cross-sector-workshop-biodiversity-extractives-and-finance-sectors">Second cross sector workshop on biodiversity for the extractives and finance sectors</a>          </td>
+                  <td class="views-field views-field-field-event-venue-city-value">
+            London, United Kingdom          </td>
+                  <td class="views-field views-field-phpcode-1">
+            <ul class="taxonomy_labels">
+      
+        <li class="taxonomy_label taxonomy_label_vocabulary_4 taxonomy_label_term_21 first last"><span class="a">Workshop</span></li>
+      </ul>          </td>
+                  <td class="views-field views-field-phpcode">
+            <ul class="taxonomy_labels">
+      
+        <li class="taxonomy_label taxonomy_label_vocabulary_2 taxonomy_label_term_6 first last"><span class="a">Biodiversity</span></li>
+      </ul>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-event-start-datetime-value">
+            <span class="date-display-start">02-Apr-12</span><span class="date-display-separator"> - </span><span class="date-display-end">04-Apr-12</span>          </td>
+                  <td class="views-field views-field-title">
+            <a href="/event/20110603/2012-spe-middle-east-health-safety-security-and-environment">2012 SPE Middle East Health, Safety, Security and Environment</a>          </td>
+                  <td class="views-field views-field-field-event-venue-city-value">
+            Abu Dhabi, United Arab Emirates          </td>
+                  <td class="views-field views-field-phpcode-1">
+            <ul class="taxonomy_labels">
+      
+        <li class="taxonomy_label taxonomy_label_vocabulary_4 taxonomy_label_term_27 first last"><span class="a">External event</span></li>
+      </ul>          </td>
+                  <td class="views-field views-field-phpcode">
+            <ul class="taxonomy_labels">
+      
+        <li class="taxonomy_label taxonomy_label_vocabulary_2 taxonomy_label_term_62 first last"><span class="a">General</span></li>
+      </ul>          </td>
+              </tr>
+          <tr class="even views-row-last">
+                  <td class="views-field views-field-field-event-start-datetime-value">
+            <span class="date-display-single">19-Apr-12</span>          </td>
+                  <td class="views-field views-field-title">
+            <a href="/event/20120206/water-tools-workshop">Water tools workshop</a>          </td>
+                  <td class="views-field views-field-field-event-venue-city-value">
+            Milan, Italy          </td>
+                  <td class="views-field views-field-phpcode-1">
+            <ul class="taxonomy_labels">
+      
+        <li class="taxonomy_label taxonomy_label_vocabulary_4 taxonomy_label_term_21 first last"><span class="a">Workshop</span></li>
+      </ul>          </td>
+                  <td class="views-field views-field-phpcode">
+            <ul class="taxonomy_labels">
+      
+        <li class="taxonomy_label taxonomy_label_vocabulary_2 taxonomy_label_term_91 first last"><span class="a">Water</span></li>
+      </ul>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+      <div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a href="/events/downloads/stakeholder/IPIECA_Stakeholder-dialogue_BSR_report.pdf?page=1" title="Go to page 2" class="active">2</a></li>
+<li class="pager-next"><a href="/events/downloads/stakeholder/IPIECA_Stakeholder-dialogue_BSR_report.pdf?page=1" title="Go to next page" class="active">next ?</a></li>
+<li class="pager-last last"><a href="/events/downloads/stakeholder/IPIECA_Stakeholder-dialogue_BSR_report.pdf?page=1" title="Go to last page" class="active">last ?</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div>                                                         
+                        </div> <!-- /column-1 -->
+                    </div>  <!-- /content-holder -->
+                </div> <!-- /content -->
+            </div> <!-- main-frame-->
+            <img class="bg-main-frame" alt="" src="/sites/all/themes/ipieca/images/bg-main.jpg" />
+        </div> <!-- /main -->
+
+                <!--footer starts-->
+        <div id="footer">            
+                      <p>&copy; Copyright 2012 IPIECA</p>                      <div id="block-menu-menu-footer-menu" class="block block-menu block-footer block-footer-1 block-footer-first">
+      <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/sitemap" title="Obtain an overview of the major sections of the site and the information they provide and access the sections directly.">Site map</a></li>
+<li class="leaf"><a href="/terms-and-conditions" title="Legal terms &amp; conditions that apply to the use of this website.">Terms and conditions</a></li>
+<li class="leaf"><a href="/privacy-policy" title="View an explanation of how we collect and handle any personal data you supply to us via this website.">Privacy policy</a></li>
+<li class="leaf last"><a href="/contact" title="Contact the IPIECA office directly or submit an enquiry">Contact us</a></li>
+</ul>  </div>
+</div>
+          
+        </div> <!-- /footer -->
+
+    </div> <!-- /wrapper -->
+
+    <script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js?h"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{var pageTracker = _gat._getTracker("UA-2505542-1");pageTracker._trackPageview();} catch(err) {}
+//--><!]]>
+</script>
+
+</body>
+</html>
+

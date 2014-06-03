@@ -1,0 +1,1275 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>World Chess Links - Chess Tournaments - Historic Tournaments - Nuremberg 1896</title>
+<!-- World Chess Links - Chess Tournaments - Historic Tournaments - Nuremberg 1896 -->
+      <meta name="description" content="world chess links - World Chess Links - Chess Tournaments - Historic Tournaments - Nuremberg 1896">
+      <meta name="keywords" content="world chess links, chess tournaments, Chess Tournaments - Historic Tournaments - Nuremberg 1896">
+      <meta name="language" content="eng">
+      <meta name="copyright" content="www.worldchesslinks.net">
+      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+      <link rel="shortcut icon" href="http://www.worldchesslinks.net/favicon.ico">
+      <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.worldchesslinks.net/rss2.xml">
+      <link href="base_1250b.css" rel="stylesheet" title="World Chess Links">
+<!-- Inizio Jquery -->
+      <script type="text/javascript" src="menu/jquery-1.5.2.min.js"></script>
+      <script type="text/javascript">    //no conflict jquery    jQuery.noConflict();    //jquery stuff    (function($) {      $('p').css('color','#ff0000');    })(jQuery);  </script>
+      <script type="text/javascript">
+      jQuery(document).ready(function(){
+
+      jQuery("ul.subnav").parent().append("<span></span>"); //Only shows drop down trigger when js is enabled (Adds empty span tag after ul.subnav*)
+
+      jQuery("ul.topnav li span").click(function() { //When trigger is clicked...
+
+       //Following events are applied to the subnav itself (moving subnav up and down)
+        jQuery(this).parent().find("ul.subnav").slideDown('fast').show(); //Drop down the subnav on click
+
+       jQuery(this).parent().hover(function() {
+       }, function(){
+            jQuery(this).parent().find("ul.subnav").slideUp('slow'); //When the mouse hovers out of the subnav, move it back up
+        });
+
+        //Following events are applied to the trigger (Hover events for the trigger)
+        }).hover(function() {
+           jQuery(this).addClass("subhover"); //On hover over, add class "subhover"
+       }, function(){  //On Hover Out
+            jQuery(this).removeClass("subhover"); //On hover out, remove class "subhover"
+    });
+
+    });
+
+      </script>
+      <style type="text/css">
+      body {
+      	margin: 0; padding: 0;
+      	font: 10px normal Arial, Helvetica, sans-serif;
+      }
+      #header .disclaimer {
+      	color: #999;
+      	padding: 100px 0 7px 0;
+      	text-align: right;
+      	display: block;
+      	position: absolute;
+      	top: 0; right: 0;
+      }
+      #header .disclaimer a {	color: #ccc;}
+      ul.topnav {
+      	list-style: none;
+      	padding: 0 20px;
+      	margin: 0;
+      	float: left;
+      	width: 1210px;
+      	background: #222;
+      	font-size: 1.2em;
+      	background: url(menu/topnav_bg.png) repeat-x;
+      }
+      ul.topnav li {
+      	float: left;
+      	margin: 0;	
+      	padding: 0 15px 0 0;
+      	position: relative; /*--Declare X and Y axis base--*/
+      }
+      ul.topnav li a{
+      	padding: 10px 5px;
+      	color: #fff;
+      	text-decoration: none;
+      	float: left;
+      }
+      ul.topnav li a:hover{
+      	background: url(menu/topnav_hover.gif) no-repeat center top;
+      }
+      ul.topnav li span { /*--Drop down trigger styles--*/
+      	width: 10px;
+      	height: 35px;
+      	float: left;
+      	background: url(menu/subnav_btn.gif) no-repeat center top;
+      }
+      ul.topnav li span.subhover {background-position: center bottom; cursor: pointer;} /*--Hover effect for trigger--*/
+      ul.topnav li ul.subnav {
+      	list-style: none;
+      	position: absolute; /*--Important - Keeps subnav from affecting main navigation flow--*/
+      	left: 0; top: 35px;
+      	background: #333;
+      	margin: 0; padding: 0;
+      	display: none;
+      	float: left;
+      	width: 180px;
+      	-moz-border-radius-bottomleft: 5px;
+      	-moz-border-radius-bottomright: 5px;
+      	-webkit-border-bottom-left-radius: 5px;
+      	-webkit-border-bottom-right-radius: 5px;
+      	border: 1px solid #111;
+      }
+      ul.topnav li ul.subnav li{
+      	margin: 0; padding: 0;
+      	border-top: 1px solid #252525; /*--Create bevel effect--*/
+      	border-bottom: 1px solid #444; /*--Create bevel effect--*/
+      	clear: both;
+      	width: 180px;
+      }
+      html ul.topnav li ul.subnav li a {
+      	float: left;
+      	width: 155px;
+      	background: #333 url(menu/dropdown_linkbg.gif) no-repeat 10px center;
+      	padding-left: 20px;
+      }
+      html ul.topnav li ul.subnav li a:hover { /*--Hover effect for subnav links--*/
+      	background: #222 url(menu/dropdown_linkbg.gif) no-repeat 10px center;
+      }
+      #header img {
+      	margin: 0px 0 10px;
+      }
+      </style>
+<!-- Fine Jquery -->
+<!-- Inizio Google News -->
+
+      <style type="text/css">
+      body {
+        font-family: verdana, sans-serif;
+      }
+      </style>
+
+
+    <script src="../../?key=internal-sample" type="text/javascript"></script>
+<!-- Fine Google News -->
+<!-- Inizio mootools -->
+     <script type="text/javascript" src="js/mootools.js" charset="utf-8"></script>
+     <script type="text/javascript" src="js/moo-smooth.js" charset="utf-8"></script>
+
+    <script type="text/javascript" src="mootools.svn.js"></script>
+    <script type="text/javascript">
+    window.addEvent('domready', function(){
+    	var mySlide = new Fx.Slide('top-panel');
+    	mySlide.hide(); 
+    
+    	$('toggle').addEvent('click', function(e){
+    		e = new Event(e);
+    		mySlide.toggle();
+    		e.stop();
+    	});
+    });
+    
+    </script>
+    
+    <style type="text/css">
+    
+    #top-panel{
+    	background:#ffffff;
+    }
+
+    #sub-panel a{
+        text-align: center;
+    	width:1250px;
+    	color:#FFFFFF;
+    	text-decoration:none;
+    	margin-right:px;
+    	font-weight:bold;
+    }
+
+    </style>
+<!-- Fine mootools -->
+
+</head>
+<body>
+<div id="top"></div>
+
+<!-- Inizio Container -->
+<div id="container">
+
+<!-- Inizio Header -->
+        <div id="header_a">
+             <img src="testata_1250_c.jpg" usemap="#testata_1250_c.jpg" border="0" alt="">
+             <map name="testata_1250_c.jpg">
+             <area shape=rect coords="14,0,268,23" href="http://www.worldchesslinks.net/rss2.xml" alt=""><area shape=rect coords="5,73,80,107" href="index.html" alt="">
+             <area shape=rect coords="988,24,1228,49" href="mailto:infotiscali@worldchesslinks.net?subject=Contact%20Us" alt="">
+             </map>
+    	 <ul class="topnav">
+            <li><a href="index.html">Home</a></li>
+            <li>
+                <a href="e0000.html">Online Chess</a>
+                <ul class="subnav">
+                    <li><a href="e0000.html">Chess Servers</a></li>
+                    <li><a href="e0006.html">Clients Windows</a></li>
+                    <li><a href="e0001.html">Clients Linux</a></li>
+                    <li><a href="e0005.html">Clients Unix</a></li>
+                    <li><a href="e0002.html">Clients Mac OS Classic</a></li>
+                    <li><a href="e0003.html">Clients Mac OS X</a></li>
+                    <li><a href="e0004.html">Clients Pocket PC</a></li>
+                    <li><a href="e0007.html">Palm</a></li>
+                    <li><a href="e0008.html">iPad</a></li>
+                    <li><a href="e0009.html">iPhone</a></li>
+                    <li><a href="e0010.html">Mobile Phone</a></li>
+                    <li><a href="e0011.html">Android</a></li>
+                </ul>
+            <li>
+                <a href="e00a11.html">Software</a>
+                <ul class="subnav">
+                    <li><a href="e00a11.html">Graphical User Interfaces</a></li>
+                    <li><a href="e00a10.html">Chess Engines</a></li>
+                    <li><a href="e00a0.html">Freeware Programs</a></li>
+                    <li><a href="e00a1.html">Commercial Programs</a></li>
+                    <li><a href="e00a2.html">Database</a></li>
+                    <li><a href="e00a12.html">Training Programs</a></li>
+                    <li><a href="e00a8.html">Portable Game Notation</a></li>
+                    <li><a href="e00a3.html">Correspondence & Email</a></li>
+                    <li><a href="e00a7.html">Chess Clocks</a></li>
+                    <li><a href="e00a4.html">Chess Problems</a></li>
+                    <li><a href="e00a5.html">Tournam. Management</a></li>
+                    <li><a href="e00a6.html">Webmaster Resources</a></li>
+                    <li><a href="e00a9.html">Mobile Device</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="e00b0.html">Theory</a>
+                <ul class="subnav">
+                    <li><a href="e00b0.html">General Sites</a></li>
+                    <li><a href="e00b1.html">Openings [A00 - A99]</a></li>
+                    <li><a href="e00b2.html">Openings [B00 - B99]</a></li>
+                    <li><a href="e00b3.html">Openings [C00 - C99]</a></li>
+                    <li><a href="e00b4.html">Openings [D00 - D99]</a></li>
+                    <li><a href="e00b5.html">Openings [E00 - E99]</a></li>
+                    <li><a href="e00b6.html">Middlegame</a></li>
+                    <li><a href="e00b7.html">Endgame</a></li>
+                    <li><a href="e00b7.html">Puzzle Archive</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="eza00.html">Database</a>
+                <ul class="subnav">
+                    <li><a href="eza00.html">World Championship</a></li>
+                    <li><a href="ezg00.html">Women's World Champ.</a></li>
+                    <li><a href="ezz00.html">World Blitz Championship</a></li>
+                    <li><a href="ezf00.html">FIDE Grand Prix</a></li>
+                    <li><a href="ezr00.html">Chess Tournaments</a></li>
+                    <li><a href="ezs00.html">Chess Curiosities</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="eza00.html">Online Database</a>
+                <ul class="subnav">
+                    <li><a href="ezma0.html">Best Sites</a></li>
+                    <li><a href="ezmb0.html">National Sites</a></li>
+                    <li><a href="ezmc0.html">Chess Players</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="ezia0.html">Archeology</a>
+                <ul class="subnav">
+                    <li><a href="ezia0.html">Chess Players & Authors</a></li>
+                    <li><a href="ezib0.html">Antique Books Online</a></li>
+                    <li><a href="ezif0.html">The Saturday Magazine</a></li>
+                    <li><a href="ezie0.html">Database - Books</a></li>
+                    <li><a href="ezic0.html">Database - Players</a></li>
+                    <li><a href="ezid0.html">Database - Tournaments</a></li>
+                    <li><a href="eziea00.html">Chess Gems</a></li>
+                    <li><a href="ezig0.html">Historic Events</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="ezna0.html">Links</a>
+                <ul class="subnav">
+                    <li><a href="ezna0.html">Official Sites</a></li>
+                    <li><a href="eznb0.html">Essential Links</a></li>
+                    <li><a href="eznr0.html">Play Online</a></li>
+                    <li><a href="eznu0.html">Online Database</a></li>
+                    <li><a href="eznc0.html">Chess Players</a></li>
+                    <li><a href="eznp0.html">Chess News</a></li>
+                    <li><a href="eznl0.html">Chess Blogs</a></li>
+                    <li><a href="ezno0.html">Chess Forums</a></li>
+                    <li><a href="eznh0.html">Chess Clubs</a></li>
+                    <li><a href="eznt0.html">Chess Tournaments</a></li>
+                    <li><a href="eznw0.html">Chess Problems</a></li>
+                    <li><a href="eznq0.html">Chess Training</a></li>
+                    <li><a href="eznx0.html">Chess History</a></li>
+                    <li><a href="ezns0.html">Magazines</a></li>
+                    <li><a href="ezni0.html">Commercial Sites</a></li>
+                    <li><a href="ezne0.html">Personal Sites</a></li>
+                    <li><a href="eznd0.html">Links to Links</a></li>
+                    <li><a href="ezny0.html">Photo</a></li>
+                    <li><a href="eznz0.html">Chess Variants</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="ezox0.html">Books</a>
+                <ul class="subnav">
+                    <li><a href="ezox0.html">Recently Published Books</a></li>
+                    <li><a href="ezox0b.html">Coming Soon!</a></li>
+                    <li><a href="ezoa0.html">Batsford</a></li>
+                    <li><a href="ezot0.html">Cardoza</a></li>
+                    <li><a href="ezoi0.html">Chesscafe</a></li>
+                    <li><a href="ezor0.html">Chess Information</a></li>
+                    <li><a href="ezog0.html">Chess Stars Publishing</a></li>
+                    <li><a href="ezop0.html">Dover Publications</a></li>
+                    <li><a href="ezoo0.html">Edition Olms</a></li>
+                    <li><a href="ezoh0.html">Editorial Chessy</a></li>
+                    <li><a href="ezob0.html">Everyman Chess</a></li>
+                    <li><a href="ezoc0.html">Gambit Chess Books</a></li>
+                    <li><a href="ezod0.html">Hardinge Simpole</a></li>
+                    <li><a href="ezoe0.html">McFarland Publishing</a></li>
+                    <li><a href="ezoq0.html">New in Chess</a></li>
+                    <li><a href="ezof0.html">Quality Chess Books</a></li>
+                    <li><a href="ezol0.html">Running Press</a></li>
+                    <li><a href="ezom0.html">Russell Enterprises</a></li>
+                    <li><a href="ezon0.html">Kasparov's Books</a></li>
+                    <li><a href="ezoy0.html">Various Books</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="e_news_0001.html">News</a>
+            </li>
+            <li>
+                <a href="ezpa0.html">Events</a>
+            </li>
+            <li>
+                <a href="ezpa0b.html">Play</a>
+                <ul class="subnav">
+                    <li><a href="ezpa0p.html">Computer</a></li>
+                    <li><a href="ezpa0d2.html">Daily Chess Puzzles</a></li>
+                    <li><a href="ezpa0f.html">Games Viewer</a></li>
+                    <li><a href="ezpa0b.html">Play Online</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="e_index_y.html">Ratings</a>
+                <ul class="subnav">
+                    <li><a href="e_index_y.html">Top 100 Players</a></li>
+                    <li><a href="e_fide_w.html">Top 100 Women</a></li>
+                    <li><a href="e_fide_j.html">Top 20 Juniors</a></li>
+                    <li><a href="e_fide_g.html">Top 20 Girls</a></li>
+                    <li><a href="e_fide_z.html">Ratings Archive</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="e_downloads_00.html">Downloads</a>
+                <ul class="subnav">
+                    <li><a href="e_downloads_00.html">Last Entries</a></li>
+                    <li><a href="e_downloads_01.html">World Championship</a></li>
+                    <li><a href="e_downloads_02.html">Women's World Champ.</a></li>
+                    <li><a href="e_downloads_03.html">World Blitz Championship</a></li>
+                    <li><a href="e_downloads_04.html">Fide Grand Prix</a></li>
+                    <li><a href="e_downloads_05.html">Tournaments</a></li>
+                </ul>
+            </li>
+            </ul>
+        <img src="testata_1250b.jpg" border="0" alt="">
+    </div>
+
+<!-- Fine Header -->
+<!-- Inizio Content -->
+        <div id="contend">
+        <div id="contend_l">
+        <div id="contend_r">
+        <table align="center" cellPadding="0" width="1250" border="0">
+             <tr>
+             <td width="915" height="20">
+	         <br>
+                 <span class="menu1"><a href="index.html"><span style="color: #0000ff">Home</span></a>&nbsp;&nbsp;<img src="a0004.png" border="0" alt="">&nbsp;&nbsp;<a href="ezia0.html"><span style="color: #0000ff">Chess Archeology</span></a>&nbsp;&nbsp;<img src="a0004.png" border="0" alt="">&nbsp;&nbsp;<a href="ezig0.html"><span style="color: #0000ff">Historic Events</span></a>&nbsp;&nbsp;<img src="a0004.png" border="0" alt="">&nbsp;&nbsp;<a href="ezig0.html"><span style="color: #0000ff">Historic Tournaments</span></a>&nbsp;&nbsp;<img src="a0004.png" border="0" alt="">&nbsp;&nbsp;Nuremberg 1896<br><br>
+                 </span>
+             </td>
+             <td  width="20"><img src="f0002b.png" border="0" alt="">
+             </td>
+             <td width="5">&nbsp;
+             </td>
+             <td  width="20"><a href="szig47.html"><img src="f0003b.png" border="0" alt=""></a>
+             </td>
+             <td width="5">&nbsp;
+             </td>
+             <td width="20"><a href="izig47.html"><img src="f0001b.png" border="0" alt=""></a>
+             </td>
+             <td width="10">&nbsp;
+             </td>
+             </tr>
+        </table>
+        <table align="center" cellPadding="0" width="1250" border="0">
+             <tr>
+             <td>
+                 &nbsp;
+             </td>
+             </tr>
+        </table>
+        <table align="center" cellPadding="0" width="1250" border="0">
+             <tr>
+             <td width="10">&nbsp;
+             </td>
+             <td width="230" valign="top">
+                   <table cellSpacing="0" cellPadding="0" border="0" width="230">
+                          <tr><td class="menu" background="xzx.png" height="30"><span style="color: #ffffff"><span style="font-size: 12px; font-family: Verdana"><b>&nbsp;&nbsp;Main Menu</b></span></span></td></tr>
+                          <tr><td class="menu5"><a href="index.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Home</span></a></td></tr>
+                          <tr><td class="menu5"><a href="e0000.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Online Chess</span></a></td></tr>
+                          <tr><td class="menu5"><a href="e00a11.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Chess Software</span></a></td></tr>
+                          <tr><td class="menu5"><a href="e00b0.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Theory</span></a></td></tr>
+                          <tr><td class="menu5"><a href="eza00.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Chess Games Database</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezma0.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Online Database</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezia0.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Chess Archeology</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezia0.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Chess Players &amp; Authors</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezib0.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Antique Books Online</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezif0.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">The Saturday Magazine</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezie0.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Database - Books</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezic0.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Database - Players</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezid0.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Database - Tournaments</span></a></td></tr>
+                          <tr><td class="menu5"><a href="eziea00.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Chess Gems</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig0.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Historic Events</span></a></td></tr>
+                          <tr><td class="menu5" style="background-color: #00003E"><a href="ezig0.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="a0004_b.png" alt="">&nbsp;&nbsp;<span style="color: #fffff0">Historic Tournaments</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezna0.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">World Chess Links</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezox0.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Chess Books</span></a></td></tr>
+                          <tr><td class="menu5"><a href="e_news_0001.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">World Chess News</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezpa0.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">World Chess Events</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezpa0b.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Play Chess</span></a></td></tr>
+                          <tr><td class="menu5"><a href="e_index_y.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Fide Ratings</span></a></td></tr>
+                          <tr><td class="menu5"><a href="e_downloads_00.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Downloads</span></a></td></tr>
+                          <tr><td class="menu5"><a href="eh001.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Banners</span></a></td></tr>
+                          <tr><td class="menu5"><a href="e_ebay_us_0001.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Chess On eBay</span></a></td></tr>
+                          <tr><td class="menu5"><a href="e_google_search.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Google Site Search</span></a></td></tr>
+                          <tr><td class="menu5"><a href="e_google_friend_a.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Community</span></a></td></tr>
+                          <tr><td class="menu" background="xzx_b.png" height="20"></td></tr>
+                 </table>
+                 <table cellSpacing="0" cellPadding="0" border="0" width="100%">
+                        <tr>
+                        <td class="titolomenu">
+                           <br>Emanuel Lasker
+                        </td>
+                        </tr>
+                        <tr>
+                        <td class="menu3" align="center">
+                            <br><a href="http://en.wikipedia.org/wiki/Emanuel_Lasker"><img src="lasker.jpg" border="0" alt=""></a>
+                        </td>
+                        </tr>
+                        <tr>
+                        <td class="titolomenu">
+                           <br>G?za Mar?czy
+                        </td>
+                        </tr>
+                        <tr>
+                        <td class="menu3" align="center">
+                            <br><a href="http://en.wikipedia.org/wiki/G%C3%A9za_Mar%C3%B3czy"><img src="maroczy.jpg" border="0" alt=""></a>
+                        </td>
+                        </tr>
+                 </table>
+                 <table cellSpacing="0" cellPadding="0" border="0" width="100%">
+                        <tr>
+                        <td class="titolomenu">
+                           <br>Porges - Lasker
+                        </td>
+                        </tr>
+                        <tr>
+                        <td class="menu3" align="center">
+                            <br><img src="tournament_052.jpg" alt=""><br><br><span style="color: #001100">Black to move and ...</span><br><br>
+                            <div class=weekpuzzleSOLUTION align="center"><A
+                            onclick="toggleBox('soluzione',1);"><span style="color: #009900"><b><u>SOLUTION</u></b></span></a><br><br></div>
+                            <div class="board" id="soluzione">
+                            <div class=weekpuzzleSOLUTION align="left"><span style="color: #009900">27... Nxg2 ... 0-1</span>
+                            </div></div>
+                        </td>
+                        </tr>
+                 </table>
+             </td>
+             <td width="25">
+             </td>
+             <td width="720" valign="top">
+                  <table cellSpacing="0" cellPadding="0" border="0" width="100%">
+                        <tr>
+                        <td valign="top">
+                            <img src="a0005eb.png" alt="" align="middle">
+                        </td>
+                        <td class="font5">
+                            &nbsp;&nbsp;&nbsp;<font class="titolo_news">Historic Tournaments</font>
+                            <br>
+                            &nbsp;&nbsp;&nbsp;<font class="scheda9">Nuremberg 1896</font>
+                        </td>
+                        <td valign="top">
+                            <br><br><br><br><a href="1896_nuremberg.zip"><img src="a0007.png" alt="" border="0"></a>
+                        </td>
+                        </tr>
+                  </table>
+                  <table cellSpacing="0" cellPadding="0" border="0" width="100%">
+                        <tr>
+                        <td class="main4">
+                            <br><img src="b0006x.png" alt="">
+                        </td>
+                        </tr>
+                  </table>
+                  <table>
+                        <tr>
+                        <td class="main4">
+                            <br>
+                            <table align="center" cellSpacing="0" cellPadding="0" border="0">
+                                   <tr>
+                                   <td>
+                                       <img src="1896_nuremberg.jpg" usemap="#1896_nuremberg.jpg" border="0" alt="" align="middle">
+                                       <map name="1896_nuremberg.jpg">
+                                       <area shape=rect coords="9,10,80,109"    href="http://en.wikipedia.org/wiki/Emanuel_Lasker" alt="EmanuelLasker">
+                                       <area shape=rect coords="115,10,186,109" href="http://en.wikipedia.org/wiki/Geza_Maroczy" alt="Geza Maroczy">
+                                       <area shape=rect coords="221,10,292,109" href="http://en.wikipedia.org/wiki/Siegbert_Tarrasch" alt="Siegbert Tarrasch">
+                                       <area shape=rect coords="327,10,398,109" href="http://en.wikipedia.org/wiki/Harry_Nelson_Pillsbury" alt="Harry Nelson Pillsbury">
+                                       <area shape=rect coords="433,10,504,109" href="http://en.wikipedia.org/wiki/David_Janowski" alt="David Janowski">
+                                       <area shape=rect coords="539,10,610,109" href="http://en.wikipedia.org/wiki/Wilhelm_Steinitz" alt="Wilhelm Steinitz">
+                                   </map>
+                                   </td>
+                                   </tr>
+                            </table>
+                            <br>
+                            &nbsp;<img src="zzz_10.gif" alt="">&nbsp;&nbsp;&nbsp;<a href="tournaments/1896_nuremberg/dgt_chesstheatre.htm"><span style="color: #009900"><b>View all games in full screen</b></span></a><br><br>
+                        </td>
+                        </tr>
+                  </table>
+                  <table>
+                        <tr>
+                        <td class="back1">
+                            <table cellSpacing="0" cellPadding="0" border="1" class="table4">
+                                   <tr>
+                                   <td width="40" class="table3"><b>N?</b></td>
+                                   <td width="70" class="table3"><b>FLAG</b></td>
+                                   <td align="left" class="table3"><b>NAME</b></td>
+                                   <td width="20" class="table3"><b>01</b></td>
+                                   <td width="20" class="table3"><b>02</b></td>
+                                   <td width="20" class="table3"><b>03</b></td>
+                                   <td width="20" class="table3"><b>04</b></td>
+                                   <td width="20" class="table3"><b>05</b></td>
+                                   <td width="20" class="table3"><b>06</b></td>
+                                   <td width="20" class="table3"><b>07</b></td>
+                                   <td width="20" class="table3"><b>08</b></td>
+                                   <td width="20" class="table3"><b>09</b></td>
+                                   <td width="20" class="table3"><b>10</b></td>
+                                   <td width="20" class="table3"><b>11</b></td>
+                                   <td width="20" class="table3"><b>12</b></td>
+                                   <td width="20" class="table3"><b>13</b></td>
+                                   <td width="20" class="table3"><b>14</b></td>
+                                   <td width="20" class="table3"><b>15</b></td>
+                                   <td width="20" class="table3"><b>16</b></td>
+                                   <td width="20" class="table3"><b>17</b></td>
+                                   <td width="20" class="table3"><b>18</b></td>
+                                   <td width="20" class="table3"><b>19</b></td>
+                                   <td width="55" align="right" class="table3"><b>TOTAL</b>&nbsp;</td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3"><b>01</b></td>
+                                   <td width="70" class="table4"><a href="http://en.wikipedia.org/wiki/German_Empire"><img src="f0500.gif" align="top" alt="German Empire"></a>&nbsp;&nbsp;<a href="http://en.wikipedia.org/wiki/German_Empire"><img src="f0500.gif" align="top" alt="German Empire"></a></td>
+                                   <td width="130" class="table5"><a href="http://en.wikipedia.org/wiki/Emanuel_Lasker"><span style="color: #0000FF"><b>Emanuel Lasker</b></span></a></td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table3" align="right"><b>13.5/18</b>&nbsp;</td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3"><b>02</b></td>
+                                   <td width="70" class="table4"><a href="http://en.wikipedia.org/wiki/Austria-Hungary"><img src="f0502.gif" align="top" alt="Austria-Hungary"></a>&nbsp;&nbsp;<a href="http://en.wikipedia.org/wiki/Hungary"><img src="f0031.gif" align="top" alt="Hungary"></a></td>
+                                   <td width="130" class="table5"><a href="http://en.wikipedia.org/wiki/G%C3%A9za_Mar%C3%B3czy"><span style="color: #0000FF"><b>G?za Mar?czy</b></span></a></td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table3" align="right"><b>12.5/18</b>&nbsp;</td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3"><b>03</b></td>
+                                   <td width="70" class="table4"><a href="http://en.wikipedia.org/wiki/German_Empire"><img src="f0500.gif" align="top" alt="German Empire"></a>&nbsp;&nbsp;<a href="http://en.wikipedia.org/wiki/German_Empire"><img src="f0500.gif" align="top" alt="German Empire"></a></td>
+                                   <td width="130" class="table5"><a href="http://en.wikipedia.org/wiki/Tarrasch"><span style="color: #0000FF"><b>Siegbert Tarrasch</b></span></a></td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table3" align="right"><b>12.0/18</b>&nbsp;</td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3"><b>04</b></td>
+                                   <td width="70" class="table4"><a href="http://en.wikipedia.org/wiki/United_States"><img src="f0046.png" align="top" alt="United States"></a>&nbsp;&nbsp;<a href="http://en.wikipedia.org/wiki/United_States"><img src="f0046.png" align="top" alt="United States"></a></td>
+                                   <td width="130" class="table5"><a href="http://en.wikipedia.org/wiki/Harry_Pillsbury"><span style="color: #0000FF"><b>H.N. Pillsbury</b></span></a></td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table3" align="right"><b>12.0/18</b>&nbsp;</td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3"><b>05</b></td>
+                                   <td width="70" class="table4"><a href="http://en.wikipedia.org/wiki/France"><img src="f0011.png" align="top" alt="France"></a>&nbsp;&nbsp;<a href="http://en.wikipedia.org/wiki/Poland"><img src="f0015.png" align="top" alt="Poland"></a></td>
+                                   <td width="130" class="table5"><a href="http://en.wikipedia.org/wiki/Dawid_Janowski"><span style="color: #0000FF"><b>Dawid Janowski</b></span></a></td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table3" align="right"><b>11.5/18</b>&nbsp;</td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3"><b>06</b></td>
+                                   <td width="70" class="table4"><a href="http://en.wikipedia.org/wiki/United_States"><img src="f0046.png" align="top" alt="United States"></a>&nbsp;&nbsp;<a href="http://en.wikipedia.org/wiki/Bohemia"><img src="f0015.png" align="top" alt="Bohemia"></a></td>
+                                   <td width="130" class="table5"><a href="http://en.wikipedia.org/wiki/William_Steinitz"><span style="color: #0000FF"><b>Wilhelm Steinitz</b></span></a></td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table3" align="right"><b>11.0/18</b>&nbsp;</td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3"><b>07</b></td>
+                                   <td width="70" class="table4"><a href="http://en.wikipedia.org/wiki/German_Empire"><img src="f0500.gif" align="top" alt="German Empire"></a>&nbsp;&nbsp;<a href="http://en.wikipedia.org/wiki/Netherlands"><img src="f0078.gif" align="top" alt="The Netherlands"></a></td>
+                                   <td width="130" class="table5"><a href="http://en.wikipedia.org/wiki/Carl_August_Walbrodt"><span style="color: #0000FF"><b>C.A. Walbrodt</b></span></a></td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table3" align="right"><b>10.5/18</b>&nbsp;</td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3"><b>08</b></td>
+                                   <td width="70" class="table4"><a href="http://en.wikipedia.org/wiki/Austria-Hungary"><img src="f0502.gif" align="top" alt="Austria-Hungary"></a>&nbsp;&nbsp;<a href="http://it.wikipedia.org/wiki/Austria"><img src="f0027.gif" align="top" alt="Austria"></a></td>
+                                   <td width="130" class="table5"><a href="http://it.wikipedia.org/wiki/Carl_Schlechter"><span style="color: #0000FF"><b>Carl Schlechter</b></span></a></td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table3" align="right"><b>10.5/18</b>&nbsp;</td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3"><b>09</b></td>
+                                   <td width="70" class="table4"><a href="http://en.wikipedia.org/wiki/Russian_Empire"><img src="f0034.png" align="top" alt="Russian Empire"></a>&nbsp;&nbsp;<a href="http://en.wikipedia.org/wiki/Russian_Empire"><img src="f0034.png" align="top" alt="Russian Empire"></a></td>
+                                   <td width="130" class="table5"><a href="http://en.wikipedia.org/wiki/Emanuel_Schiffers"><span style="color: #0000FF"><b>Emanuel Schiffers</b></span></a></td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table3" align="right"><b>9.5/18</b>&nbsp;</td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3"><b>10</b></td>
+                                   <td width="70" class="table4"><a href="http://en.wikipedia.org/wiki/Russian_Empire"><img src="f0034.png" align="top" alt="Russian Empire"></a>&nbsp;&nbsp;<a href="http://en.wikipedia.org/wiki/Russian_Empire"><img src="f0034.png" align="top" alt="Russian Empire"></a></td>
+                                   <td width="130" class="table5"><a href="http://en.wikipedia.org/wiki/Mikhail_Chigorin"><span style="color: #0000FF"><b>Mikhail Chigorin</b></span></a></td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table3" align="right"><b>9.5/18</b>&nbsp;</td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3"><b>11</b></td>
+                                   <td width="70" class="table4"><a href="http://en.wikipedia.org/wiki/United_Kingdom"><img src="f0002.png" align="top" alt="United Kingdom"></a>&nbsp;&nbsp;<a href="http://en.wikipedia.org/wiki/England"><img src="f0501.gif" align="top" alt="England"></a></td>
+                                   <td width="130" class="table5"><a href="http://en.wikipedia.org/wiki/Joseph_Blackburne"><span style="color: #0000FF"><b>Joseph Blackburne</b></span></a></td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table3" align="right"><b>9.0/18</b>&nbsp;</td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3"><b>12</b></td>
+                                   <td width="70" class="table4"><a href="http://en.wikipedia.org/wiki/Austria-Hungary"><img src="f0502.gif" align="top" alt="Austria-Hungary"></a>&nbsp;&nbsp;<a href="http://en.wikipedia.org/wiki/Hungary"><img src="f0031.gif" align="top" alt="Hungary"></a></td>
+                                   <td width="130" class="table5"><a href="http://en.wikipedia.org/wiki/Rudolf_Charousek"><span style="color: #0000FF"><b>Rudolf Charousek</b></span></a></td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table3" align="right"><b>8.5/18</b>&nbsp;</td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3"><b>13</b></td>
+                                   <td width="70" class="table4"><a href="http://en.wikipedia.org/wiki/Austria-Hungary"><img src="f0502.gif" align="top" alt="Austria-Hungary"></a>&nbsp;&nbsp;<a href="http://en.wikipedia.org/wiki/Romania"><img src="f0040.gif" align="top" alt="Romania"></a></td>
+                                   <td width="130" class="table5"><a href="http://en.wikipedia.org/wiki/Georg_Marco"><span style="color: #0000FF"><b>Georg Marco</b></span></a></td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table3" align="right"><b>8.0/18</b>&nbsp;</td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3"><b>14</b></td>
+                                   <td width="70" class="table4"><a href="http://en.wikipedia.org/wiki/Austria-Hungary"><img src="f0502.gif" align="top" alt="Austria-Hungary"></a>&nbsp;&nbsp;<a href="http://en.wikipedia.org/wiki/Romania"><img src="f0040.gif" align="top" alt="Romania"></a></td>
+                                   <td width="130" class="table5"><a href="http://en.wikipedia.org/wiki/Romania"><span style="color: #0000FF"><b>Adolf Albin</b></span></a></td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table3" align="right"><b>7.0/18</b>&nbsp;</td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3"><b>15</b></td>
+                                   <td width="70" class="table4"><a href="http://en.wikipedia.org/wiki/Russian_Empire"><img src="f0034.png" align="top" alt="Russian Empire"></a>&nbsp;&nbsp;<a href="http://en.wikipedia.org/wiki/Poland"><img src="f0015.png" align="top" alt="Poland"></a></td>
+                                   <td width="130" class="table5"><a href="http://en.wikipedia.org/wiki/Szymon_Winawer"><span style="color: #0000FF"><b>Szymon Winawer</b></span></a></td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table3" align="right"><b>6.5/18</b>&nbsp;</td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3"><b>16</b></td>
+                                   <td width="70" class="table4"><a href="http://en.wikipedia.org/wiki/United_States"><img src="f0046.png" align="top" alt="United States"></a>&nbsp;&nbsp;<a href="http://en.wikipedia.org/wiki/United_States"><img src="f0046.png" align="top" alt="United States"></a></td>
+                                   <td class="table5" width="130"><a href="http://en.wikipedia.org/wiki/Jackson_Showalter"><span style="color: #0000ff"><b>Jackson Showalter</b></span></a></td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table3" align="right"><b>5.5/18</b>&nbsp;</td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3"><b>17</b></td>
+                                   <td width="70" class="table4"><a href="http://en.wikipedia.org/wiki/Austria-Hungary"><img src="f0502.gif" align="top" alt="Austria-Hungary"></a>&nbsp;&nbsp;<a href="http://en.wikipedia.org/wiki/Bohemia"><img src="f0015.gif" align="top" alt="Bohemia"></a></td>
+                                   <td width="130" class="table5"><a href="http://en.wikipedia.org/wiki/Moritz_Porges"><span style="color: #0000FF"><b>Moritz Porges</b></span></a></td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table3" align="right"><b>5.5/18</b>&nbsp;</td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3"><b>18</b></td>
+                                   <td width="70" class="table4"><a href="http://en.wikipedia.org/wiki/German_Empire"><img src="f0500.gif" align="top" alt="German Empire"></a>&nbsp;&nbsp;<a href="http://en.wikipedia.org/wiki/German_Empire"><img src="f0500.gif" align="top" alt="German Empire"></a></td>
+                                   <td width="130" class="table5"><a href="http://en.wikipedia.org/wiki/Emil_Schallopp"><span style="color: #0000FF"><b>Emil Schallopp</b></span></a></td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">1</td>
+                                   <td class="table3" align="right"><b>4.5/18</b>&nbsp;</td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3"><b>19</b></td>
+                                   <td width="70" class="table4"><a href="http://en.wikipedia.org/wiki/German_Empire"><img src="f0500.gif" align="top" alt="German Empire"></a>&nbsp;&nbsp;<a href="http://en.wikipedia.org/wiki/German_Empire"><img src="f0500.gif" align="top" alt="German Empire"></a></td>
+                                   <td width="130" class="table5"><a href="http://en.wikipedia.org/wiki/Richard_Teichmann"><span style="color: #0000FF"><b>Richard Teichmann</b></span></a></td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table3" align="right"><b>4.0/18</b>&nbsp;</td>
+                                   </tr>
+                            </table>
+                        </td>
+                        </tr>
+                  </table>
+                  <table cellSpacing="0" cellPadding="0" border="0" width="100%">
+                           <tr>
+                           <td>
+                               <table cellSpacing="0" cellPadding="0" border="0" width="100%">
+                                      <tr>
+                                      <td align="left"><br>
+                                          <applet code="ChessBoard.class" align="bottom" width="630" height="560">
+                                          <param name="pgngamefile" value="1896_nuremberg.zip">
+                                          <param name=lightsquares value="BAD3F3">
+                                          <param name=darksquares value="1761F9">
+                                          <param name=background value="064FE3">
+                                          </applet>
+                                      </td>
+                                      </tr>
+                               </table>
+                           </td>
+                           </tr>
+                    </table>
+             </div>
+             </td>
+             <td width="25">
+             </td>
+             <td width="230" valign="top">
+                   <table cellSpacing="0" cellPadding="0" border="0" width="230">
+                          <tr><td class="menu" background="xzx.png" height="30"><span style="color: #ffffff"><span style="font-size: 12px; font-family: Verdana"><b>&nbsp;&nbsp;Historic Tournaments</b></span></span></td></tr>
+                          <tr><td class="menu5"><a href="ezig1.html">&nbsp;<img src="fr0002.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1851 - London</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig51.html">&nbsp;<img src="fr0046.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1857 - New York</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig15.html">&nbsp;<img src="fr0002.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1862 - London</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig52.html">&nbsp;<img src="fr0011.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1867 - Paris</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig53.html">&nbsp;<img src="fr0019.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1870 - Baden-Baden</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig54.html">&nbsp;<img src="fr0027.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1873 - Vienna</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig55.html">&nbsp;<img src="fr0011.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1878 - Paris</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig48.html">&nbsp;<img src="fr0027.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1882 - Vienna</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig50.html">&nbsp;<img src="fr0002.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1883 - London</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig9.html">&nbsp;<img src="fr0002.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1895 - Hastings</span></a></td></tr>
+                          <tr><td class="menu5" style="background-color: #00003E"><a href="ezig47.html">&nbsp;<img src="fr0019.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #fffff0">1896 - Nuremberg</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig46.html">&nbsp;<img src="fr0027.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1898 - Vienna</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig45.html">&nbsp;<img src="fr0002.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1899 - London</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig11.html">&nbsp;<img src="fr0011.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1900 - Paris</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig44.html">&nbsp;<img src="fr0046.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1904 - Cambridge Springs</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig5.html">&nbsp;<img src="fr0017.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1907 - Carlsbad</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig43.html">&nbsp;<img src="fr0034.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1909 - Saint Petersburg</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig4.html">&nbsp;<img src="fr0017.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1911 - Carlsbad</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig6.html">&nbsp;<img src="fr0003.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1911 - San Sebasti?n</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig7.html">&nbsp;<img src="fr0003.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1912 - San Sebasti?n</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig42.html">&nbsp;<img src="fr0017.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1923 - M?hrisch Ostrau</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig49.html">&nbsp;<img src="fr0017.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1923 - Carlsbad</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig41.html">&nbsp;<img src="fr0046.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1824 - New York</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig10.html">&nbsp;<img src="fr0019.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1825 - Baden-Baden</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig13.html">&nbsp;<img src="fr0034.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1825 - Moscow</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig21.html">&nbsp;<img src="fr0019.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1828 - Bad Kissingen</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig3.html">&nbsp;<img src="fr0017.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1929 - Carlsbad</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig12.html">&nbsp;<img src="fr0001.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1930 - San Remo</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig40.html">&nbsp;<img src="fr0035.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1931 - Bled</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig39.html">&nbsp;<img src="fr0034.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1935 - Moscow</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig38.html">&nbsp;<img src="fr0034.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1936 - Moscow</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig37.html">&nbsp;<img src="fr0002.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1936 - Nottingham</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig36.html">&nbsp;<img src="fr0088.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1937 - Kemeri</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig14.html">&nbsp;<img src="fr0078.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1938 - AVRO</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig35.html">&nbsp;<img src="fr0027.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1942 - Salzburg</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig34.html">&nbsp;<img src="fr0041.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1943 - Sverdlovsk</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig8.html">&nbsp;<img src="fr0078.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1946 - Groningen</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig33.html">&nbsp;<img src="fr0034.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1956 - Moscow</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig32.html">&nbsp;<img src="fr0046.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1957 - Dallas</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig31.html">&nbsp;<img src="fr0035.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1961 - Bled</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig30.html">&nbsp;<img src="fr0060.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1963 - Havana</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig18.html">&nbsp;<img src="fr0046.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1963 - Los Angeles</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig17.html">&nbsp;<img src="fr0046.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1966 - Santa Monica</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig29.html">&nbsp;<img src="fr0034.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1967 - Moscow</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig28.html">&nbsp;<img src="fr0034.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1971 - Moscow</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig20.html">&nbsp;<img src="fr0046.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1972 - San Antonio</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig2.html">&nbsp;<img src="fr0001.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1975 - Milan</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig26.html">&nbsp;<img src="fr0034.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1975 - Moscow</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig27.html">&nbsp;<img src="fr0034.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1977 - Leningrad</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig16.html">&nbsp;<img src="fr0037.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1978 - Bugojno</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig19.html">&nbsp;<img src="fr0078.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1978 - Tilburg</span></a></td></tr>
+                          <tr><td class="menu5"><a href="ezig25.html">&nbsp;<img src="fr0045.gif" align="middle" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1979 - Montreal</span></a></td></tr>
+                          <tr><td class="menu" background="xzx_b.png" height="20"></td></tr>
+                 </table>
+             </td>
+             <td width="10">
+             </td>
+             </tr>
+      </table>
+    <table align="center" cellPadding="0" width="1250" border="0">
+             <tr>
+             <td width="20">
+                 &nbsp;
+             </td>
+             <td width="1210">
+                   <table align="center" cellSpacing="0" cellPadding="0" width="1210" border="0">
+                          <tr>
+                          <td class="font6" align="justify">
+                              <br><br>
+                              <h3><span style="font-size: 35px"><span style="color: #001100"><b>Nuremberg 1896 Chess Tournament</b></span></span></h3>
+                              <br><a href="http://en.wikipedia.org/wiki/File:Hastings1895.jpg"><img src="foto/nuremberg_1896.jpg" alt="Nuremberg 1896 chess tournament - Standing: Standing: Lasker, Charousek, Schlechter, two organisers, Janowsky, Mar?czy, Marco, Showalter, three organisers. Seated: Albin, Porges, Chigorin, Tarrasch, Winawer, Steinitz, Blackburne, Schallopp, Schiffers, Pillsbury, Walbrodt, Teichmann" border="0"></a>
+                          </td>
+                          </tr>
+                   </table>
+                   <table align="center" cellSpacing="0" cellPadding="0" width="1210" border="0">
+                          <tr>
+                          <td class="font5b" align="justify">
+                              <br><br>The tournament at N?rnberg 1896 should have become 10. Deutschen Schachbund Kongre? (German Chess Congress), but the local chess club took over the organisation and included no minor groups. Finally, the 10th DSB Congress was held in Eisenach in 1896 (Robert Henry Barnes won Meisterturnier, and Wilhelm Cohn won Hauptturnier).
+                              <br><br>Thirty-nine players wanted to participate in the master competition, nineteen were allowed in Nuremberg. When Amos Burn withdrew, Rudolf Charousek took his place. The international tournament was played in the premises of the Museum Society in Nuremberg from 20 July until 9 August. The time limit was thirty moves in two hours. The main prizes went to Emanuel Lasker (3000 marks), G?za Mar?czy (2000 marks), Siegbert Tarrasch and Harry Nelson Pillsbury (each 1250 marks), Dawid Janowski (600 marks), Wilhelm Steinitz (300 marks), Carl August Walbrodt and Carl Schlechter (each 100 marks).
+                              <h3><span style="color: #0000ff"><b>&nbsp;</b></span></h3>
+                          </td>
+                          </tr>
+                   </table>
+                   <table align="center" cellSpacing="0" cellPadding="0" width="1210" border="0">
+                          <tr>
+                          <td>
+                              &nbsp;<img src="wiki_5.jpg" alt="">
+                          </td>
+                          <td class="font3">
+                              &nbsp;&nbsp;&nbsp;<i>Nuremberg 1896 Chess Tournament. (20 December 2010 at 17:02). In Wikipedia, The Free Encyclopedia. Retrieved 18 March 2011, at 11:50, from </i>
+                              <br>
+                              &nbsp;&nbsp;&nbsp;<a href="http://en.wikipedia.org/wiki/Nuremberg_1896_chess_tournament"><span style="color: #393E5B"><i><u>http://en.wikipedia.org/wiki/Nuremberg_1896_chess_tournament</u></i></span></a>
+                          </td>
+                          </tr>
+                   </table>
+                   <table align="center" cellSpacing="0" cellPadding="0" width="1210" border="0">
+                          <tr>
+                          <td class="font6" align="justify">
+                              <br><br>
+                              <h3><span style="font-size: 35px"><span style="color: #001100"><b>Nuremberg 1896 Chess Tournament - External Links</b></span></span></h3>
+                          </td>
+                          </tr>
+                          <tr>
+                          <td class="scheda3">
+                              <img src="zzz_10.gif" alt="">&nbsp;&nbsp;&nbsp;<a href="http://www.endgame.nl/neur1896.htm"><span style="color: #0040FF"><b>Endgame.nl - N?rnberg 1896</b></span></a><br>
+                              <img src="zzz_10.gif" alt="">&nbsp;&nbsp;&nbsp;<a href="http://xoomer.virgilio.it/cserica/scacchi/storiascacchi/tornei/1851-99/1896norimberga.htm"><span style="color: #0040FF"><b>La Grande Storia degli Scacchi - Norimberga 1896</b></span></a><br>
+                              <img src="zzz_10.gif" alt="">&nbsp;&nbsp;&nbsp;<a href="http://www.rookhouse.com/events/nurem1896.html"><span style="color: #0040FF"><b>Rook House - Nuremberg, Germany - 1896</b></span></a><br>
+                              <br>
+                              <img src="f0002.gif" alt="United Kingdom">&nbsp;&nbsp;&nbsp;<a href="http://en.wikipedia.org/wiki/Nuremberg_1896_chess_tournament"><span style="color: #0040FF"><b>Wikipedia - Nuremberg 1896 chess tournament</b></span></a><br>
+                              <img src="f0023.gif" alt="Portugal">&nbsp;&nbsp;&nbsp;<a href="http://pt.wikipedia.org/wiki/Torneio_de_xadrez_de_Nuremberga_de_1896"><span style="color: #0040FF"><b>Wikipedia - Torneio de xadrez de Nuremberga de 1896</b></span></a><br>
+                              <img src="f0034.gif" alt="Russia">&nbsp;&nbsp;&nbsp;<a href="http://ru.wikipedia.org/wiki/%D0%9D%D1%8E%D1%80%D0%BD%D0%B1%D0%B5%D1%80%D0%B3_1896"><span style="color: #0040FF"><b>Wikipedia - Nuremberg 1896 chess tournament</b></span></a><br>
+                          </td>
+                          </tr>
+                   </table>
+                  <table align="center" cellSpacing="0" cellPadding="0" width="1210" border="0">
+                        <tr>
+                        <td class="font6" align="justify">
+                            <br><br><h3><span style="font-size: 35px"><span style="color: #001100"><b>Strong Chess Tournaments - External Links</b></span></span></h3>
+                        </td>
+                        </tr>
+                        <tr>
+                        <td class="scheda3">
+                            <img src="zzz_10.gif" alt="">&nbsp;&nbsp;&nbsp;<a href="http://www.chessbase.com/newsdetail.asp?newsid=5956"><span style="color: #0040FF"><b>Chessbase - What was the strongest tournament of all time?</b></span></a><br>
+                            <img src="zzz_10.gif" alt="">&nbsp;&nbsp;&nbsp;<a href="http://www.endgame.nl/super.htm"><span style="color: #0040FF"><b>Endgame.nl - Super Tournaments</b></span></a><br>
+                            <img src="zzz_10.gif" alt="">&nbsp;&nbsp;&nbsp;<a href="http://www3.sympatico.ca/g.giffen/tournaments.htm"><span style="color: #0040FF"><b>The Strongest Tournaments in Chess History</b></span></a><br>
+                            <img src="zzz_10.gif" alt="">&nbsp;&nbsp;&nbsp;<a href="http://storiascacchi.altervista.org/storiascacchi/index.htm"><span style="color: #0040FF"><b>La Grande Storia degli Scacchi</b></span></a><br>
+                        </td>
+                        </tr>
+                        <tr>
+                        <td class="scheda3">
+                            <br>
+                            <img src="fr0002.gif" alt="United Kingdom">&nbsp;&nbsp;&nbsp;<a href="http://en.wikipedia.org/wiki/List_of_strong_chess_tournaments"><span style="color: #0040FF"><b>Wikipedia - List of strong chess tournaments</b></span></a><br>
+                            <img src="fr0019.gif" alt="Germany">&nbsp;&nbsp;&nbsp;<a href="http://de.wikipedia.org/wiki/Liste_der_bedeutendsten_Schachturniere"><span style="color: #0040FF"><b>Wikipedia - Liste der bedeutendsten Schachturniere</b></span></a><br>
+                            <img src="fr0038.gif" alt="Serbia">&nbsp;&nbsp;&nbsp;<a href="http://sr.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%B0%D0%BA_%D0%BD%D0%B0%D1%98%D0%B7%D0%BD%D0%B0%D1%87%D0%B0%D1%98%D0%BD%D0%B8%D1%98%D0%B8%D1%85_%D1%82%D1%83%D1%80%D0%BD%D0%B8%D1%80%D0%B0_%D1%83_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%98%D0%B8_%D1%88%D0%B0%D1%85%D0%B0"><span style="color: #0040FF"><b>Wikipedia - List of strong chess tournaments</b></span></a><br>
+                        </td>
+                        </tr>
+                   </table>
+                   </td>
+             <td width="20">
+                 &nbsp;
+             </td>
+      </table>
+      <table align="center" cellSpacing="0" cellPadding="0" width="1250" border="0">
+             <tr>
+             <td align="left">
+                 <br><br><br>
+                 &nbsp;&nbsp;&nbsp;&nbsp;<span class='st_sharethis_large' ></span><span class='st_facebook_large' ></span><span class='st_twitter_large' ></span><span class='st_yahoo_large' ></span><span class='st_stumbleupon_large' ></span><span class='st_delicious_large' ></span><span class='st_blogger_large' ></span><span class='st_wordpress_large' ></span><span class='st_gbuzz_large' ></span><span class='st_email_large' ></span>
+                 <script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'ed54abe9-c475-4edf-a188-fc8e45ba816f'});</script>
+             </td>
+             </tr>
+        </table>
+        <table align="center" cellSpacing="0" cellPadding="0" width="1250" border="0">
+             <tr>
+             <td align="right">
+                 <a href="http://validator.w3.org/check?uri=referer"><img src="validazione_html40.gif" alt="Valid HTML 4.0 Transitional" height="31" width="88" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+             </td>
+             <td align="left">
+                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://jigsaw.w3.org/css-validator/validator?uri=http://www.worldchesslinks.net/worldchesslinks.css"><img src="validazione_html40_b.gif" alt="Valid CSS!" border="0" height="31" width="88" ></a>
+             </td>
+             </tr>
+       </table>
+       <table align="center" cellSpacing="0" cellPadding="0" width="1250" border="0">
+             <tr>
+             <td class="coda3">
+                 <br><br><br>&nbsp;&nbsp;&nbsp;<a href="#top"><img src="up.png" border="0" align="right" alt=""></a>
+             </td>
+             </tr>
+       </table>
+        </div>
+        </div>
+        </div>
+<!-- Fine Content -->
+
+</div>
+<!-- Fine Container -->
+<!-- Inizio Footer -->
+        <div id="footer">
+        <div id="footer_l">
+        <div id="footer_r">
+        <div id="footer_a">
+        <table align="center" cellSpacing="0" cellPadding="0" width="1250" border="0">
+               <tr>
+               <td align="left" class="coda4">
+                   &nbsp;<br>&nbsp;
+               </td>
+               <td align="right" class="coda4">
+                   &nbsp;<br>&nbsp;
+                                  </td>
+               </tr>
+               <tr>
+               <td align="left"class="coda2">
+                   &nbsp;&nbsp;&nbsp;? www.worldchesslinks.net all rights reserved
+               </td>
+               <td align="right" class="coda2">
+                   <a href="http://www.agenziavalbelluna.it"><span style="color: #13468E">Official Sponsor</span></a>&nbsp;&nbsp;&nbsp;
+               </td>
+               </tr>
+        </table>
+        </div>
+        </div>
+        </div>
+        </div>
+
+      <script language="JavaScript1.2" type="text/JavaScript">
+      <!--
+      var bookmarkurl="http://www.worldchesslinks.net"
+      var bookmarktitle="World Chess Links"
+      function addbookmark(){
+      if (document.all)
+      window.external.AddFavorite(bookmarkurl,bookmarktitle)
+      }
+      //-->
+      </script>
+
+<!-- start of Google Analytics Code -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-241540-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+<!-- End of Google Analytics Code -->
+
+</body>
+</html>

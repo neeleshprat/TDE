@@ -1,0 +1,1900 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<!-- Begin /include/default_header.php -->
+
+<!--<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />!-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Exploring, explaining and protecting the natural world. Since 1853." />
+<meta name="keywords" lang="en-us" content="San Francisco aquarium, San Francisco museum, Bay Area family activities, Bay Area kids attractions, San Francisco Museum, San Francisco Natural History Museum, Bay Area Natural History Museum, San Francisco Planetarium, Bay Area Planetarium, San Francisco Tourists Attractions, Bay Area things to do, San Francisco family events, Bay Area family events." />
+
+<meta name="Author" content="Dawkins CMS" />
+
+<title>Experts Database: California Academy of Sciences</title>
+
+<link rel="stylesheet" type="text/css" media="all" href="/include/default.css?nocache=4" />
+
+<link rel="stylesheet" type="text/css" media="all" href="/include/pr.css" />
+
+<link rel="stylesheet" type="text/css" media="all" href="/include/section.css" />
+
+<link rel="stylesheet" href="/enews/css/overlay.css" type="text/css" media="screen" title="no title" charset="utf-8" />
+<link rel="stylesheet" href="/enews/css/academy-enews.css?nocache=2" type="text/css" media="screen" title="no title" charset="utf-8" />
+
+<!--[if IE]>
+	<link rel="stylesheet" href="/enews/css/academy-enews-ie.css?nocache=2" type="text/css" media="screen" title="no title" charset="utf-8" />
+<![endif]-->
+
+<!--[if gt IE 7]>
+	<link rel="stylesheet" href="/enews/css/academy-enews-ie8.css" type="text/css" media="screen" title="no title" charset="utf-8" />
+<![endif]-->
+
+<script type='text/javascript' src='/include/swfobject.js'></script>
+<script type='text/javascript' src='/enews/js/jquery-1.3.2.min.js'></script>
+<script type='text/javascript' src='/enews/js/jquery.jsonp-2.1.4.min.js'></script>
+<script type='text/javascript' src='/enews/js/jquery.tools.overlay.min.js'></script>
+<script type='text/javascript' src='/enews/js/jquery.tools.tooltip.min.js'></script>
+<script type='text/javascript' src='/enews/js/jquery.uniform.min.js'></script>
+<script type='text/javascript' src='/enews/js/validationutil.js'></script>
+<script type='text/javascript' src='/enews/js/academy-enews.js?nocache=2'></script>
+
+</head>
+
+
+<body id="casbody" class="section_newsroom" onload="MM_preloadImages(''); centerMenu();showHot=true" onresize="centerMenu();" onunload="">
+
+<div style="display:none;">
+
+<script type="text/javascript" src="/include/default.js?nocache=1"></script>
+
+
+<script src="/include/detectFlash.js" language="javascript"></script>
+
+<script type="text/javascript">
+<!--
+
+//
+// Check if cookies be enabled
+//
+		
+var cookies_on		= 'y';
+
+document.cookie	= 'HasCookie=y;path=/';
+
+if	(document.cookie.indexOf('HasCookie')==(-1)) {
+
+	cookies_on		= 'n';
+		
+}
+
+
+//
+// Detect flash version
+//
+
+var has_flash						= '';
+var requiredMajorVersion	= 8;
+var requiredMinorVersion	= 0;
+var requiredRevision			= 0;
+
+// DetectFlashVer() returns true or false
+
+//
+// Get screen dimensions
+//
+
+var screen_width		= screen.width;
+var screen_height		= screen.height;
+
+has_flash = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
+
+//
+// Calculate PC Speed
+//
+
+var pc_speed	= '';
+var start		= new Date();
+		
+for (var i=0, j=1; i<100000; i++) j++; 
+		
+var finish		= new Date(); 
+pc_speed		= finish - start;
+
+//
+// Connection Speed and Connection Type
+//
+
+// Finding the connection speed happens in two parts. First we record a start time.	Then we load an image with an onLoad trigger to	record a finish time. That gives us the speed. From that we guess the connection type.
+
+function test_speed() {
+
+	var end = (new Date()).getTime();
+
+	var kbbs = (Math.floor((((fileSize * 8) / ((end - start) / 1000)) / 1024) * 10) / 10);
+	
+	if (kbbs) {
+	
+		connectSpeed = kbbs;
+		
+		if 		(connectSpeed < 15)			{	connectType = 'Slow_Modem';									}
+		else if (connectSpeed < 57)		{	connectType = 'Fast_Modem';									}
+		else if (connectSpeed < 120)		{	connectType = 'ISDN_Modem';									}
+		else											{	connectType = 'partial_T1_or_greater_connection';	}
+		
+	} else {
+	
+		connectSpeed	=	'unknown';
+		connectType		=	'unknown';
+
+	}
+
+	expire.setTime(today.getTime() + 3600000*24);
+	
+	document.cookie = 'connectSpeed=' + connectSpeed + ';path=/;expires=' + expire.toGMTString();
+
+	document.cookie = 'connectType=' + connectType + ';path=/;expires=' + expire.toGMTString();
+	
+}
+
+var connectSpeed		= '';
+var connectType		= '';
+var fileSize				= 50265;
+var start					= (new Date()).getTime();
+
+var image	= '<img src="/images/speedTest.png?t=' + start + '" border="0" height="0" onload="test_speed()">'
+
+document.write(image);
+
+// End of javascript data gathering. Note the onload="test_speed()" in the image var above. The test_speed() function will run only after the test image has been loaded and the script ends there.
+
+// Set php-derived variables
+
+var gv_version		=	'4';
+var browser			=	'';
+var sub_browser	=	'ccbot';
+var browser_ver	=	'1.0';
+var os					=	'';
+var os_ver				=	'';
+
+// Create cookie variables
+	
+var newcookie	 	= '';
+var today				= new Date();
+var expire				= new Date();
+
+expire.setTime(today.getTime() + 3600000*24);
+
+document.cookie = 'gv_version=' +gv_version + ';path=/;expires=' + expire.toGMTString();
+document.cookie = 'screen_width=' + screen_width + ';path=/;expires=' + expire.toGMTString();
+document.cookie = 'screen_height=' + screen_height + ';path=/;expires=' + expire.toGMTString();
+document.cookie = 'pc_speed=' + pc_speed + ';path=/;expires=' + expire.toGMTString();
+document.cookie = 'cookies_on=y;path=/;expires=' +expire.toGMTString();
+document.cookie = 'has_flash=' + has_flash + ';path=/;expires=' + expire.toGMTString();
+document.cookie = 'browser=' + browser + ';path=/;expires=' + expire.toGMTString();
+document.cookie = 'sub_browser=' + sub_browser + ';path=/;expires=' + expire.toGMTString();
+document.cookie = 'browser_ver=' + browser_ver + ';path=/;expires=' + expire.toGMTString();
+document.cookie = 'os=' +os + ';path=/;expires=' + expire.toGMTString();
+document.cookie = 'os_ver=' + os_ver + ';path=/;expires=' + expire.toGMTString();
+
+// This last cookie lets us know the next time get_variables.php runs that the cookies have been set.
+
+document.cookie = 'cas_set=true;path=/;expires=' + expire.toGMTString();
+
+//-->
+</script>
+
+<!--
+
+cas_set: n
+
+PHP variables:
+
+gv_version: 4
+browser: 
+sub_browser: ccbot
+browser_ver: 1.0
+os: 
+os_ver: 
+screen_width: 
+screen_height: 
+pc_speed: 50
+connectSpeed: 9000
+connectType: partial_T1_or_greater_connection
+cookies_on: 
+has_flash: 
+
+SESSION VARIABLES:
+
+gv_version: 4
+browser: 
+sub_browser: ccbot
+browser_ver: 1.0
+os: 
+os_ver: 
+screen_width: 
+screen_height: 
+pc_speed: 50
+connectSpeed: 9000
+connectType: partial_T1_or_greater_connection
+cookies_on: 
+has_flash: 
+
+-->
+
+</div>
+
+<!-- End /include/default_header.php -->
+<div id="container">
+
+	<div id="left_col">
+	
+		<div class="logo"><a href="/"><img src="/images/blank.gif" width="97" height="165" border="0"></a></div>
+
+	</div>
+	
+	<div id="navcontent">	
+
+
+<ul id="global_search_nav">
+	<li id="buy_tickets">
+		<a href="/tickets/">Buy Tickets</a></li>
+	<li id="store">
+		<a href="http://www.calacademy.org/join/membership/">Membership</a></li>  
+	<li id="academy_home">
+		<a href="/">Academy Home</a></li>
+	<li id="teachers">
+		<a href="http://calacademy.org/teachers/">Teachers</a></li>
+	<li id="research">
+		<a href="http://research.calacademy.org">Research</a></li>  
+	<li>
+		<form action="/search.php" id="global_nav_search_form" method="GET">
+			<input type="text" name="q" value="Enter Search Term" class="cleardefault" size="22" id="search_text">
+			<button type="submit" id="go">Go</button>
+		</form>
+	</li>
+</ul>
+
+
+			<div id="breadcrumbs">
+			
+			<table width="840" border="0" padding="0" margin="0">
+
+			<tr>
+			<td align="left" nowrap>
+			<a href="/">Home</a> &gt; <a href="/newsroom/">Academy Newsroom
+</a> &gt;  Experts Database</td>
+			
+			<td nowrap align="right"><div align="right"></div></td></tr></table>
+		
+			</div>
+						
+	</div>
+	
+	<div id="content">
+
+		<div style="float:right; margin-top: 12px;">
+			<span class="top_nav">
+			&nbsp;
+			</span>
+		</div>
+		
+		<span class="content_title">Experts Database</span>
+
+		<div id="content_842_panel3">
+		
+		<div align="center">   <p>&nbsp;<br />   Arrange by <a href="http://www.calacademy.org/newsroom/experts">Specialty</a> | Arrange by <a href="http://www.calacademy.org/newsroom/experts/brief_name.php">Name</a><br />   &nbsp;<br />   <i>Click <a href="http://www.calacademy.org/newsroom/experts/comprehensive.php">here</a> to see a more detailed Experts Database.<br /> To get in touch with an expert, email or call one of the Academy's <a href="http://www.calacademy.org/newsroom">press contacts</a>.</i><br />&nbsp;</p> </div> <table border="0" cellspacing="15" cellpadding="15" width="100%">   <tbody><tr>     <td valign="top"><b>Contact</b></td>     <td valign="top"><b>Title</b></td>     <td valign="top"><b>Department</b></td>     <td valign="top"><b>Specialty</b></td>     <td valign="top"><b>Expeditions / Highlights </b></td>   </tr>   <tr>     <td valign="top">Zeray Alemseged</td>     <td valign="top">Curator and Irvine Chair</td>     <td valign="top">Anthropology</td>     <td valign="top">Early human evolution</td>     <td valign="top">Dikika Research Project in Ethiopia. Discovery of the &quot;world's oldest baby&quot; (<i>Australopithecus afarensis</i>) in 2006.</td>   </tr>   <tr>     <td valign="top">Frank Almeda</td>     <td valign="top">Senior Curator</td>     <td valign="top">Botany</td>     <td valign="top">Living roof design. Tropical flowering plants. Princess flowers (Melastomataceae).</td>     <td valign="top">Complete revision of <i>Marin Flora</i>. Recent expeditions to Brazil, Panama, and Madagascar.</td>   </tr>   <tr>     <td valign="top">Elizabeth Babcock</td>     <td valign="top">Chief Officer and Dean</td>     <td valign="top">Education and Digital Strategy</td>     <td valign="top">Formal and informal education, education through digital media, cultural anthropology</td>     <td valign="top">&quot;WhyReef&quot; and &quot;Animal Adventures&quot; virtual world projects for teens and tweens; international migration; Belizean voluntary associations</td>   </tr>     <tr>     <td valign="top">Bruce Bartholomew</td>     <td valign="top">Senior Research Scientist</td>     <td valign="top">Botany</td>     <td valign="top">Plants of China and Modoc County, California</td>     <td valign="top">China Natural History Project, Flora of China.</td>   </tr>    <tr>     <td valign="top">Shannon Bennett<br /></td>     <td valign="top">Associate Curator</td>     <td valign="top">Microbiology</td>     <td valign="top">Viruses and bacteria, especially infectious diseases that can be transmitted from animals to humans.</td>     <td valign="top">Studies on dengue, hantavirus, influenza, leptospirosis, mosquito vectors, parasitic roundworms.</td>   </tr> <tr>     <td valign="top">David Blackburn</td>     <td valign="top">Assistant Curator</td>     <td valign="top">Herpetology</td>     <td valign="top">Evolution and diversity of frogs on continental Africa.</td>     <td valign="top">Nigeria, Cameroon, Malawi, Niger.<br /></td>   </tr> <tr>     <td valign="top">Roberta Brett</td>     <td valign="top">Senior Science Content Specialist</td>     <td valign="top">Education</td>     <td valign="top"><i>Omophron</i>, a genus of carabid beetles.</td>     <td valign="top">Madagascar and Yunnan, China.</td>   </tr>   <tr>     <td valign="top">Meg Burke</td>     <td valign="top">Director</td>     <td valign="top">Education</td>     <td valign="top">Informal science education. Philippine coral reef diversity, conservation, and education. Feral animals, especially goats. Polar bears.</td>     <td valign="top">Costa Rica, Philippines, Seychelles, Belize. Multiple Academy travel programs to the Galapagos and Churchill, Manitoba.</td>   </tr>   <tr>     <td valign="top">David Catania</td>     <td valign="top">Senior Collections Manager</td>     <td valign="top">Ichthyology</td>     <td valign="top">Academy's fish collections</td>     <td valign="top">China Natural History Project, Sao Tome and Principe (2009), X-Ray Ichthyology exhibit.</td>   </tr>   <tr>     <td valign="top">Nicole Chaney</td>     <td valign="top">Aquatic Biologist</td>     <td valign="top">Aquarium</td>     <td valign="top">Reptiles, amphibians, insects</td>     <td valign="top">&nbsp;</td>   </tr>   <tr>     <td valign="top">Tom Daniel</td>     <td valign="top">Curator</td>     <td valign="top">Botany</td>     <td valign="top">New World Acanthaceae (shrimp plants and their relatives). Native and invasive plants in San Francisco. Pollination. Desert plants.</td>     <td valign="top">A new flora of San Francisco, and floristic catalogs of mountain ranges in Arizona and the Mexican state of Sinaloa. Sao Tome and Principe.</td>   </tr>   <tr>     <td valign="top">Charles Delbeek</td>     <td valign="top">Senior Aquatic Biologist</td>     <td valign="top">Aquarium</td>     <td valign="top">Tropical fish and coral reefs, cephalopods, seadragons. Underwater photography. Live coral husbandry, aquarium life support systems.</td>     <td valign="top">Dives in South Korea, Japan, Palau, Thailand, Marshall Islands, Fiji, Indonesia, Solomon Islands, Hawaii, Philippines, Florida, and Bonaire</td>   </tr>   <tr>     <td valign="top">Jean DeMouthe</td>     <td valign="top">Senior Collections Manager </td>     <td valign="top">Geology</td>     <td valign="top">Paleontology and mineralogy.</td>     <td valign="top">&nbsp;</td>   </tr><tr>     <td valign="top">Robert Drewes</td>     <td valign="top">Curator</td>     <td valign="top">Herpetology</td>     <td valign="top">African amphibians and reptiles.</td>     <td valign="top">36+ expeditions to 19 African countries since 1969, including multiple expeditions to Sao Tome and Principe (2001-2010). Three books including <i>Ecological and Environmental Physiology of Amphibians</i> (2009).<br /></td>   </tr>   <tr>     <td valign="top">Jack Dumbacher</td>     <td valign="top">Associate Curator and Chair</td>     <td valign="top">Ornithology &amp; Mammalogy</td>     <td valign="top">Birds - including chemical defenses and conservation. Elephant-shrews.</td>     <td valign="top">Biogeographic study of birds in New Guinea. Investigation of toxicity source for poisonous birds. Elephant-shrews in Namibia. Spotted owls in North America.</td>   </tr>   <tr>     <td valign="top">Freeland Dunker</td>     <td valign="top">Veterinarian</td>     <td valign="top">Aquarium</td>     <td valign="top">Animal medicine and surgery</td>     <td valign="top">Diagnosis and treatment of elephants with tuberculosis</td>   </tr>   <tr>     <td valign="top">William Eschmeyer</td>     <td valign="top">Curator Emeritus</td>     <td valign="top">Ichthyology</td>     <td valign="top">Taxonomic literature of fishes</td>     <td valign="top"><i>Genera of Fishes</i> (1990), <i>Catalog of Fishes</i> (1998), <i>Catalog of Fishes</i> online database (current).</td>   </tr>   <tr>     <td valign="top">Jim Evans</td>     <td valign="top">Aquatic Biologist</td>     <td valign="top">Aquarium</td>     <td valign="top">Freshwater fishes, reptiles and amphibians, insects</td>     <td valign="top">Army ant collection trip (Costa Rica); harvester ant collection (Arizona); giant water bug collection (California)</td>   </tr>   <tr>     <td valign="top">Brian Fisher</td>     <td valign="top">Curator</td>     <td valign="top">Entomology</td>     <td valign="top">Ants - especially in Africa and Madagascar</td>     <td valign="top">AntWeb: building the global online infrastructure for the biodiversity and identification of the world's ants. First in-depth inventory of Madagascar's ants. Influencing conservation priorities in Madagascar and the islands of the southwest Indian Ocean.</td>   </tr>   <tr>     <td valign="top">Moe Flannery</td>     <td valign="top">Collections Manager </td>     <td valign="top">Ornithology &amp; Mammalogy</td>     <td valign="top">Marine Mammal Stranding Network. Birds, especially of Southeast Asia.</td>     <td valign="top">Myanmar 2001; China 2002-2005.</td>   </tr>   <tr>     <td valign="top">Elisabeth Fourtanier</td>     <td valign="top">Research Scientist</td>     <td valign="top">Invertebrate Zoology &amp; Geology</td>     <td valign="top">Fossil diatoms</td>     <td valign="top">Computerized database of diatom names</td>   </tr>  <tr>     <td valign="top">Brian Freiermuth</td>     <td valign="top">Aquatic Biologist</td>     <td valign="top">Aquarium</td>     <td valign="top">Reptiles and amphibians</td>     <td valign="top">Breeding Asian horned frogs</td>   </tr>   <tr>     <td valign="top">Peter Fritsch</td>     <td valign="top">Curator</td>     <td valign="top">Botany</td>     <td valign="top">Flowering plants, especially snowdrops, silverbells, persimmons, and wintergreens</td>     <td valign="top">China Natural History Project. Plant distribution changes in Asia and the Americas as a result of Tertiary climate change.<br /></td>   </tr>      <tr>     <td valign="top">Michael Ghiselin</td>     <td valign="top">Senior Research Fellow</td>     <td valign="top">Invertebrate Zoology &amp; Geology</td>     <td valign="top">History and philosophy of biology. Principles of systematics. Darwin. Evolutionary aspects of reproduction. Sea slugs.</td>     <td valign="top">Molecular phylogeny of the animal kingdom.</td>   </tr>   <tr>     <td valign="top">Terry Gosliner</td>     <td valign="top">Senior Curator</td>     <td valign="top">Invertebrate Zoology &amp; Geology</td>     <td valign="top">Marine invertebrates, especially sea slugs. California and tropical marine habitats.</td>     <td valign="top">Philippine coral reefs, Papua New Guinea, Madagascar, Palmyra Atoll, Malaysia, Galapagos. First comprehensive inventory of nudibranchs (sea slugs) along Costa Rica's Pacific coast. Comprehensive guide to 1,400 species of Indo-Pacific nudibranchs.</td>   </tr>   <tr>     <td valign="top">Charles Griswold</td>     <td valign="top">Curator</td>     <td valign="top">Arachnology</td>     <td valign="top">Spiders</td>     <td valign="top">Terrestrial Arthropod Inventory of Madagascar. &quot;Tree of Life&quot; for spiders. Planetary Biodiversity Inventory (worldwide survey) of Goblin spiders. China Natural History Project. Expeditions to Chilean, New Zealand, and Australian temperate rainforests.</td>   </tr>   <tr>     <td valign="top">Ari Harding</td>     <td valign="top">Building Management Systems Specialist</td>     <td valign="top">Operations</td>     <td valign="top">Building management software for the Academy. Green building technology and engineering. Solar cells. Mechanical and control systems designer.</td>     <td valign="top">&nbsp;</td>   </tr>   <tr>     <td valign="top">Russell Hartman</td>     <td valign="top">Senior Collection Manager </td>     <td valign="top">Anthropology</td>     <td valign="top">Native American and Oceanic cultures, esp. California and Southwest</td>     <td valign="top">Southwestern Native American art, especially of Navajo and Pueblo Indians</td>   </tr>   <tr>     <td valign="top">Sylvia Hope</td>     <td valign="top">Research Associate</td>     <td valign="top">Ornithology</td>     <td valign="top">Fossil birds. Crows, jays, and magpies.</td>     <td valign="top">Behavior observation and song recordings of jays; paleontology digs for fossil mammals and birds in Wyoming.</td>   </tr>   <tr>     <td valign="top">Dave Kavanaugh</td>     <td valign="top">Senior Curator</td>     <td valign="top">Entomology</td>     <td valign="top">Beetles, especially carabid beetles</td>     <td valign="top">China Natural History Project; Madagascar; Madang Province, Papua New Guinea; expeditions to Hawaii, New Zealand, Siberia, Amazonian Peru, Costa Rica, and all mountainous regions of North America. Evidence for climate change based on changes in the distributions of montane beetle species.</td>   </tr>   <tr>     <td valign="top">Laurie Kormos</td>     <td valign="top">Animal Health Manager</td>     <td valign="top">Aquarium</td>     <td valign="top">Fish and reptiles</td>     <td valign="top">&nbsp;</td>   </tr>   <tr>     <td valign="top">Vincent Lee</td>     <td valign="top">Curatorial Assistant</td>     <td valign="top">Arachnology</td>     <td valign="top">Scorpions and pseudoscorpions</td>     <td valign="top">Madagascar and Kenyan arachnids and insects.</td>   </tr>   <tr>     <td valign="top">Douglas Long</td>     <td valign="top">Research Associate</td>     <td valign="top">Ichthyology, Ornithology &amp; Mammalogy</td>     <td valign="top">Sharks, deep-sea fishes. Marine mammals, especially sea lions. Birds, especially New World vultures.</td>     <td valign="top">Bioinventories of birds and mammals in Myanmar, China, South Africa, and Sao Tome; revised biogeography of central California mammals; avian conservation in New Zealand. </td>   </tr>   <tr>     <td valign="top">John McCosker</td>     <td valign="top">Senior Scientist and Department Chair</td>     <td valign="top">Aquatic Biology</td>     <td valign="top">Shark behavior, eels, Galapagos Islands fish, flashlight fish, salmon, and coelacanths. Sustainable seafood choices.</td>     <td valign="top">Galapagos Island expeditions using submersibles, 1975 Academy coelacanth expedition.</td>   </tr>   <tr>     <td valign="top">Brenda Melton</td>     <td valign="top">Curator</td>     <td valign="top">Aquarium</td>     <td valign="top">Oversees the Academy's Rainforest and Swamp, living exhibits within the Kimball Natural History Museum, and programming animals. </td>     <td valign="top">&nbsp;</td>   </tr>      <tr>     <td valign="top">Rich Mooi</td>     <td valign="top">Curator</td>     <td valign="top">Invertebrate Zoology &amp; Geology</td>     <td valign="top">Echinoderms: sea urchins, sea stars, sand dollars, brittlestars, sea cucumbers, and sea lilies</td>     <td valign="top">Marine invertebrates in Antarctica, including brooding sea urchins. San Francisco Bay benthic survey. Sea urchin and crinoid interaction in the Bahamas. Sao Tome and Principe.</td>   </tr>   <tr>     <td valign="top">Kristen Natoli</td>     <td valign="top">Horticulturist</td>     <td valign="top">Aquarium</td>     <td valign="top">Plants and butterflies (the Academy's Rainforest exhibit)</td>     <td valign="top">&nbsp;</td>   </tr>   <tr>     <td valign="top">Wallace J. Nichols</td>     <td valign="top">Research Associate</td>     <td valign="top">Herpetology</td>     <td valign="top">Sea turtles. Ocean conservation, ocean plastic and pollution.</td>     <td valign="top">Tracking loggerhead turtles on their migration from Mexico to Japan; assessing turtle bycatch in Baja California; Latin America; Indonesia</td>   </tr>   <tr>     <td valign="top">Norm Penny</td>     <td valign="top">Senior Collections Manager</td>     <td valign="top">Entomology</td>     <td valign="top">Academy's entomology collection. Lacewings, scorpionflies, and relatives.</td>     <td valign="top">New species of Chrysopinae (Neuroptera: Chrysopidae) from Costa Rica</td>   </tr>   <tr>     <td valign="top">Aaron Pope</td>     <td valign="top">Manager of Sustainability Programs</td>     <td valign="top">Public Programs</td>     <td valign="top">Sustainability education and practices. Green building features.</td>     <td valign="top">&quot;Arena for Engagement&quot; in the <i>Altered State: Climate Change in California</i> exhibit. San Francisco Sustainable Seafood Watch Alliance.</td>   </tr>   <tr>     <td valign="top">Bing Quock</td>     <td valign="top">Assistant Director</td>     <td valign="top">Planetarium</td>     <td valign="top">General astronomy, solar system</td>     <td valign="top">Travel program to view the century's longest total solar eclipse (China 2009)</td>   </tr>    <tr>     <td valign="top">Luiz Rocha<br /></td>     <td valign="top">Assistant Curator</td>     <td valign="top">Ichthyology</td>     <td valign="top">Coral reef fishes.</td>     <td valign="top">Philippines, Indonesia, Australia, Polynesia, Micronesia, Caribbean, South America, Africa.<br /></td>   </tr> <tr>     <td valign="top">Peter Roopnarine</td>     <td valign="top">Curator</td>     <td valign="top">Invertebrate Zoology &amp; Geology</td>     <td valign="top">Models of ecosystem evolution and extinction. Relationship of climate change to extinction. Clams, mussels, and relatives.</td>     <td valign="top">Effects of the 2010 Gulf of Mexico oil spill on shellfish and the food web; thermal spring ecology in Mexico; conodonts of Nevada; mollusks of the southeastern U.S. and Caribbean; bivalves in the Gulf of Thailand; lead curator of <i>Altered State: Climate Change in California</i> exhibit.</td>   </tr> <tr>     <td valign="top">Richard Ross</td>     <td valign="top">Aquatic Biologist</td>     <td valign="top">Aquarium</td>     <td valign="top">Cephalopods: nautilus, cuttlefish, squid, octopus</td>     <td valign="top">Breeding program for dwarf cuttlefish</td>   </tr> <tr>     <td valign="top">Pamela Schaller</td>     <td valign="top">Senior Aquatic Biologist</td>     <td valign="top">Aquarium</td>     <td valign="top">Penguins, bats, freshwater fishes, shark reproduction</td>     <td valign="top">Work with African mammals, tropical sharks, and penguin exhibit design and husbandry</td>   </tr>   <tr>     <td valign="top">Jere Schweikert</td>     <td valign="top">Curatorial Assistant</td>     <td valign="top">Entomology</td>     <td valign="top">General entomology</td>     <td valign="top">Madagascar, Kenya, Kuril Islands.</td>   </tr>   <tr>     <td valign="top">Bart Shepherd</td>     <td valign="top">Director</td>     <td valign="top">Aquarium</td>     <td valign="top">Coral reefs. Fish biomechanics. New Academy exhibit design. Coral propagation, lighting methods for corals in captivity.</td>     <td valign="top">Philippines</td>   </tr>   <tr>     <td valign="top">W. Brian Simison</td>     <td valign="top">Curator</td>     <td valign="top">Comparative Genomics</td>     <td valign="top">Phylogenetics, genomics, DNA sequencing, biogeography</td>     <td valign="top">Semi-annual collecting trips to Venezuela, Panama, Costa Rica, Virgin Islands, Jamaica, Mexico (Baja, La Paz, Cabo Pulmo, Cabo San Lucas, Mazatlan, Puerto Vallarta).</td>   </tr><tr>     <td valign="top">Debra Trock</td>     <td valign="top">Senior Collections Manager </td>     <td valign="top">Botany</td>     <td valign="top">Asteraceae family, a large group that includes sunflowers, dandelions, daisies, and more</td>     <td valign="top">Wyoming, Colorado; <i>Flora of North America</i> series</td>   </tr>   <tr>     <td valign="top">Darrell Ubick</td>     <td valign="top">Curatorial Assistant</td>     <td valign="top">Arachnology</td>     <td valign="top">Arachnids and troglobites (cave organisms). Endemic and invasive California arachnids.</td>     <td valign="top">Cave-dwelling arachnids in Santa Cruz and Texas; Planetary Biodiversity Inventory of spider family Oonopidae; serpentine endemic arachnids in California.</td>   </tr>   <tr>     <td valign="top">Bob Van Syoc</td>     <td valign="top">Senior Collections Manager</td>     <td valign="top">Invertebrate Zoology &amp; Geology</td>     <td valign="top">Barnacles. Benthic invertebrates of the Pacific coast.</td>     <td valign="top">Intertidal and shallow subtidal from San Diego to Mendocino; multi-year surveys of the Channel Islands and Southeast Farallon Island. Other expeditions to Alaska, British Columbia, Baja California, Panama, South Pacific, Philippines, Borneo, Red Sea, Madagascar, Australia, Galapagos Islands, Clipperton Island, and cruises off the California coast to sample shelf and slope fauna.</td>   </tr>   <tr>     <td valign="top">Jens Vindum </td>     <td valign="top">Senior Collections Manager</td>     <td valign="top">Herpetology</td>     <td valign="top">Snakes, frogs, toads, lizards, and salamanders - especially in California.</td>     <td valign="top">China Natural History Project, Myanmar Biodiversity Project, creating Myanmar museum.</td>   </tr>   <tr>     <td valign="top">Brooke Weinstein</td>     <td valign="top">Aquatic Biologist</td>     <td valign="top">Aquarium</td>     <td valign="top">Penguins, freshwater fish, and freshwater plants</td>     <td valign="top">&nbsp;</td>   </tr>   <tr>     <td valign="top">Gary Williams</td>     <td valign="top">Curator and Chair</td>     <td valign="top">Invertebrate Zoology &amp; Geology</td>     <td valign="top">Octocorals: soft corals, sea fans, and sea pens. Coral reefs of the tropical western Pacific.</td>     <td valign="top">Philippines, Melanesia, Micronesia, Galapagos, Patagonia, sub-Antarctic, Madagascar, Palmyra, southern Africa, Gulf of Guinea.</td>   </tr>   <tr>     <td valign="top">Seth Wolters</td>     <td valign="top">Senior Aquatic Biologist</td>     <td valign="top">Aquarium</td>     <td valign="top">Tropical marine fishes and invertebrates, sharks and rays</td>     <td valign="top">Philippines, Hawaii</td>   </tr>   <tr>     <td valign="top">Ryan Wyatt</td>     <td valign="top">Director</td>     <td valign="top">Planetarium</td>     <td valign="top">Science visualization, astrophysics, history of astronomy, beyond solar system</td>     <td valign="top">Planetarium shows <i>Fragile Planet</i> and <i>Life: A Cosmic Story</i></td>   </tr>   <tr>     <td valign="top">Robert Zuparko</td>     <td valign="top">Curatorial Assistant</td>     <td valign="top">Entomology</td>     <td valign="top">Parasitic Hymenoptera (wasps, bees, ants)</td>     <td valign="top">&nbsp;</td>   </tr> </tbody></table> <div align="center">   <p>&nbsp;<br />   Arrange by <a href="http://www.calacademy.org/newsroom/experts">Specialty</a> | Arrange by <a href="http://www.calacademy.org/newsroom/experts/brief_name.php">Name</a><br />   &nbsp;<br /><i>Click <a href="http://www.calacademy.org/newsroom/experts/comprehensive.php">here</a> to see a more detailed Experts Database.<br /> To get in touch with an expert, email or call one of the Academy's <a href="http://www.calacademy.org/newsroom">press contacts</a>.</i><br />&nbsp;</p> </div>
+		
+		</div>		
+
+		<div id="content_842_panel3_footer">
+		<img src="/images/btm_module_radius.png" width="842" height="20" alt="" />
+		</div>
+		
+		<div id="footer">
+
+		<!-- Begin /include/default_footer.php -->
+
+	<!-- Begin /include/global-footer.php //-->
+    
+        
+	<div id="global-footers">
+		<ul class="global-footer first-line">
+			<li class="first"><a href="/enews/" class="enews-overlay-trigger" rel="#modal-enews">Newsletters</a></li>
+			<li><a href="http://www.calacademy.org/store/" id="store_link">Museum Store</a></li>
+			<li><a href="http://www.calacademy.org/about/">About Us</a></li>
+			<li><a href="http://www.calacademy.org/contact_us.php">Contact Us</a></li>
+			<li><a href="http://calacademy.snaphire.com">Careers</a></li>
+			<li><a href="http://www.calacademy.org/geninfo/newsroom/">Newsroom</a></li>
+			<li><a href="http://www.calacademy.org/site_map.php">Site Map</a></li>
+		</ul>
+	
+		<ul class="global-footer second-line">
+			<li class="first"><a href="http://www.calacademy.org/privacy_policy.php">Privacy Policy</a></li>
+			<li><a href="http://www.calacademy.org/privacy_policy.php#cal_pri">Your California Privacy Rights</a></li>
+			<li><a href="http://www.calacademy.org/terms-of-use/">Terms of Use</a></li>
+		</ul>
+		
+		<ul class="global-footer social-network-icons">
+			<li class="first"><a href="http://www.facebook.com/calacademy" id="icon-facebook" target="_blank" title="Become a fan">Become a fan</a></li>
+			<li><a href="http://twitter.com/calacademy" id="icon-twitter" target="_blank" title="Follow us">Follow us</a></li>
+			<li><a href="http://www.youtube.com/calacademy" id="icon-youtube" target="_blank" title="Subscribe to our videos">Subscribe to our videos</a></li>
+			<li><a href="http://www.flickr.com/groups/calacademy" id="icon-flickr" target="_blank" title="Share your photos">Share your photos</a></li>
+		</ul>
+	</div>
+	
+	<div id="modal-enews" class="simple_overlay" style="display: none;">
+		<div class="close">Close</div>
+				
+				
+		<h2>
+			Stay Connected		</h2>
+		
+		
+<form action='/enews/' method='post'>
+	<p class='key hide'>
+		Required fields are marked with an asterisk (*).
+	</p>
+
+	<div class='column' id='categories'>
+		<fieldset>
+			<legend>Categories</legend>
+            
+			<div class="category-section">
+				<p class="instructions">Sign up now to receive our monthly e-newsletter and periodic offers, and be among the first to know about exciting new exhibits, programs, events, and more.</p>
+				<ul>
+	<li><input checked='checked' type='checkbox' name='category-id_0' id='category-id_0' class='checkbox-category default-selection' value='0bba03ec0000000000000000000000024bf7' /> <label for='category-id_0'>eNews &amp; Offers</label><div class='list-description' title='Exhibits, events, news, and promotions'>Details</div></li>
+</ul>
+
+			</div>
+			
+			<div class="category-section">
+				<p class="instructions">Other email updates to stay connected with:</p>
+				<ul>
+	<li><input  type='checkbox' name='category-id_1' id='category-id_1' class='checkbox-category ' value='0bba03ec000000000000000000000002637a' /> <label for='category-id_1'>NightLife</label><div class='list-description' title='Music, programs, and themes of the Thursday night events for adults (weekly)'>Details</div></li>
+	<li><input  type='checkbox' name='category-id_2' id='category-id_2' class='checkbox-category ' value='0bba03ec000000000000000000000002494a' /> <label for='category-id_2'>Teachers</label><div class='list-description' title='Teacher programs and resources (monthly)'>Details</div></li>
+	<li><input  type='checkbox' name='category-id_3' id='category-id_3' class='checkbox-category ' value='0bba03ec000000000000000000000002a0bc' /> <label for='category-id_3'>Lectures</label><div class='list-description' title='Upcoming speakers in all of the Academy lecture series (monthly)'>Details</div></li>
+</ul>
+ 
+			</div>
+		</fieldset> 
+	</div>
+
+	<div class='column' id='contact-information'>
+		<fieldset>
+			<legend>Contact Information</legend>
+
+			<ul>
+				<li><label for='firstname' class='hide'>First Name</label> <input type='text' name='firstname' id='firstname' class='default-text textfield-standard' value='' /></li>
+				<li><label for='lastname' class='hide'>Last Name</label> <input type='text' name='lastname' id='lastname' class='default-text textfield-standard' value='' /></li>
+				<li><label for='email' class='hide'>Email Address</label> <input type='text' name='email' id='email' class='default-text textfield-standard required email' value='' /> <span class='key-required'>*</span></li>
+				<li><label for='phone_mobile' class='hide'>Mobile Number</label> <input type='text' name='phone_mobile' id='phone_mobile' class='default-text textfield-standard phone-number' value='' /></li>
+				<li><label for='zipcode' class='hide'>Zip Code</label> <input type='text' name='zipcode' id='zipcode' class='default-text textfield-standard' value='' /></li>
+			</ul>
+		</fieldset>
+
+		<p>
+			<input type='hidden' value='1' id='enews' name='enews' />
+			<input type='hidden' value='' id='contains_extra_lists' name='contains_extra_lists' />
+			<input type='hidden' value='0' id='delete' name='delete' />
+			<input type='hidden' value='' id='id' name='id' />
+			<input type='hidden' value='' id='delete-trigger-id' name='delete-trigger-id' />
+			<input type='hidden' value='1' id='contact_update' name='contact_update' />
+			
+			<input type='submit' value='Submit' id='submit' />
+		</p>
+	</div>
+</form>
+		
+	</div>
+	
+	<!-- End /include/global-footer.php //-->
+<!-- Begin /include/google-analytics.php //-->
+
+<script type="text/javascript"> 
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script> 
+ 
+<script type="text/javascript"> 
+	try {
+		
+		var pageTracker = _gat._getTracker("UA-6206955-1");
+		pageTracker._setDomainName("calacademy.org");
+		pageTracker._initData();
+		
+		pageTracker._trackPageview();
+		
+	} catch(err) {
+	} 
+</script>
+
+<!-- End /include/google-analytics.php //-->
+
+<script type="text/javascript">
+// 
+</script>   	
+
+
+<!-- Start Google Analytics Tracking Code Added by E-Nor -->
+
+<script type="text/javascript" language="javascript" src="http://www.calacademy.org/include/AddTracker.js"></script>
+
+<script type="text/javascript">
+addLinkerEvents();
+</script>
+
+<!-- End Google Analytics Tracking Code Added by E-Nor -->
+
+<!-- Place page-specific tracking items in /tracking_iframe.php -->
+
+
+<!--
+Marketing Campaign Cookie Handler
+-->
+<script type='text/javascript' src='http://www.calacademy.org/include/js/marketing-campaign-cookie.js'></script>
+<script type="text/javascript">
+	// to set standard 30 day cookie, 2nd param not necessary
+	cmobj = new CampaignMarketingURLCookie([]);
+	cmobj.setCookie();
+</script>
+
+<iframe src="http://www.calacademy.org/tracking_iframe.php?track=%2Fnewsroom%2Fexperts%2Fbrief_name.php" style="width: 0; height: 0; border: 0;"></iframe>
+
+
+<!-- End /include/default_footer.php -->
+
+		</div>
+
+	</div>
+
+</div>
+
+
+
+<script language="JavaScript">
+<!--
+
+var highlight = '';
+
+var page_path = '/newsroom/experts/brief_name.php';
+
+// highlight, if set, overrides page_path
+
+if (highlight) {
+
+	path = highlight;
+
+}
+else {
+
+	var parts = new Array();
+	parts	 = page_path.split('/');
+	
+	var i = 0;
+	var j = parts.length - 1;
+	
+	path = '';
+	
+	while (i < j) {
+	
+		path = path + parts[i] + '/';
+		i++;
+	
+	}
+
+}
+
+// -->
+</script>
+ 
+<script language="JavaScript">
+<!--
+
+var hi_div  = 'none';
+
+var level0_paths = new Array();
+
+level0_paths['m1'] = '/visit/';
+level0_paths['m2'] = '/academy/';
+level0_paths['m3'] = '/events/';
+level0_paths['m4'] = '/join/';
+level0_paths['m5'] = '/science/';
+
+// No need to declare parts and i since they were already declared above
+
+parts	 = path.split('/');
+var p = parts.length - 1;
+var subs = 0;
+var test_path = '';
+
+var suppress_div = '';
+
+
+var alerttxt = '';
+
+// Starting with the longest path, see if it matches a level 0 path. Keep making the path smaller and keep comparing. The match with the longest page path wins.
+
+while (p > 1) {
+
+	test_path = '/';
+	
+	i = 1;
+	
+	while (i < p) {
+	
+		test_path = test_path + parts[i] + '/';
+	
+		i++;
+		
+	}
+
+	for (var div_key in level0_paths) {
+
+		if (level0_paths[div_key] == test_path) {
+		
+			hi_div = div_key;
+			
+			p = 0;
+			
+		}
+		
+	}
+
+	p = p - 1;
+
+}
+
+
+var imageHome		= '/include/menu/images/';
+var newimg			= '';
+var menu_offset	= 0;
+var img_name		= '';
+var img_on			= '';
+var img_off			= '';
+
+var menuImages	= new Array();
+
+menuImages[0]	 = 'visit_hover.gif';
+menuImages[1]	 = 'visit.gif';
+menuImages[2]	 = 'explore_hover.gif';
+menuImages[3]	 = 'explore.gif';
+menuImages[4]	 = 'events_hover.gif';
+menuImages[5]	 = 'events.gif';
+menuImages[6]	 = 'involved_hover.gif';
+menuImages[7]	 = 'involved.gif';
+menuImages[8]	 = 'discover_hover.gif';
+menuImages[9]	 = 'discover.gif';
+
+function showImage(div, ii) {
+
+	if  ( (ii == 0) || (ii != img_off) ) {
+	
+		newimg = imageHome + menuImages[ii];
+
+		document.getElementById(div).src=newimg;
+	}
+
+}
+
+function onMenu(the_div) {
+	var the_style = getStyleObject(the_div);
+
+	the_style.backgroundColor = '#ccc';
+	
+}
+
+function offMenu(the_div) {
+	var the_style = getStyleObject(the_div);
+
+	the_style.backgroundColor = '#ddd';
+	
+}
+
+function suppressDiv(the_div) {
+
+	var the_style = getStyleObject(the_div);
+	the_style.top = "100px";
+
+}
+
+function restoreDiv(the_div) {
+
+	show(the_div);
+
+}
+
+function centerMenu() {
+
+	var current_screen =  document.body.clientWidth || innerWidth;
+
+	var center				= (current_screen / 2);
+
+	var menu_width	= 840;
+
+	var menu_left		= (center - (menu_width / 2)) + 42;
+
+	// This 144 is the width of the left side column that we never want our menu to be to the left of
+	
+	if (menu_left < 144) {
+	
+		menu_left = 144;
+		
+	}
+
+	if (menu_offset) {
+		
+	menu_left = menu_offset;
+	
+	}
+
+	hide('m');
+	
+	var set_left		= 0;
+	var left				= menu_left + set_left;
+
+	var newleft		= left + 'px';
+	
+	var the_style		= getStyleObject('m');
+	
+	the_style.left		= newleft;
+
+	if (browser == 'ie') {
+	
+	
+	}
+	
+	show('m');
+	
+	if (hi_div != 'none') {
+
+		// Derive the image name from the div name
+		
+		img_name = 'b_' + hi_div;
+		
+		// Derive the image number from the div name
+		
+		parts = hi_div.split('m');
+		
+		img_on = (parts[1] * 2 ) - 2;
+		
+		img_off = img_on + 1;
+
+		showImage(img_name, img_on);	
+
+	}
+}
+
+// -->
+</script>
+
+
+<style>
+
+#m a {
+	color: #000;
+	text-decoration: none;
+}
+
+#m a:hover {
+	text-decoration: none;
+	color: #000;
+}
+
+#m {
+	position: absolute;
+	top: 50px;
+	left: 0px;
+	width: 840px;
+	display: none;
+	z-index: 800;
+}
+#m1 {
+	float: left;
+	display: block;
+}
+#m1s {
+	position: absolute;
+	top: 22px;
+	left: 0px;
+	display: none;
+}
+#m1_1 {
+	width: 125px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+	border-top: 3px solid #3e8eb2;
+}
+#m1_2 {
+	width: 125px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m1_3 {
+	width: 125px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m1_4 {
+	width: 125px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m1_5 {
+	width: 125px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m1_6 {
+	width: 125px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m1_7 {
+	width: 125px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m1_8 {
+	width: 125px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m1_9 {
+	width: 125px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m1_10 {
+	width: 125px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 3px solid #3e8eb2;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m2 {
+	float: left;
+	display: block;
+}
+#m2s {
+	position: absolute;
+	top: 22px;
+	left: 140px;
+	display: none;
+}
+#m2_1 {
+	width: 198px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+	border-top: 3px solid #3e8eb2;
+}
+#m2_2 {
+	width: 198px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m2_3 {
+	width: 198px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m2_3s {
+	position: absolute;
+	top: 62px;
+	left: 353px;
+	display: none;
+}
+#m2_3_1 {
+	position: relative;
+	width: 198px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+	border-top: 3px solid #3e8eb2;
+}
+#m2_3_2 {
+	position: relative;
+	width: 198px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 3px solid #3e8eb2;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m2_4 {
+	width: 198px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m2_4s {
+	position: absolute;
+	top: 82px;
+	left: 353px;
+	display: none;
+}
+#m2_4_2 {
+	position: relative;
+	width: 190px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+	border-top: 3px solid #3e8eb2;
+}
+#m2_4_3 {
+	position: relative;
+	width: 190px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m2_4_4 {
+	position: relative;
+	width: 190px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m2_4_5 {
+	position: relative;
+	width: 190px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m2_4_6 {
+	position: relative;
+	width: 190px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m2_4_7 {
+	position: relative;
+	width: 190px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m2_4_8 {
+	position: relative;
+	width: 190px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 3px solid #3e8eb2;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m2_5 {
+	width: 198px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m2_6 {
+	width: 198px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m2_7 {
+	width: 198px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 3px solid #3e8eb2;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m3 {
+	float: left;
+	display: block;
+}
+#m3s {
+	position: absolute;
+	top: 22px;
+	left: 353px;
+	display: none;
+}
+#m3_1 {
+	width: 140px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+	border-top: 3px solid #3e8eb2;
+}
+#m3_2 {
+	width: 140px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m3_3 {
+	width: 140px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m3_3s {
+	position: absolute;
+	top: 62px;
+	left: 508px;
+	display: none;
+}
+#m3_3_1 {
+	position: relative;
+	width: 160px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+	border-top: 3px solid #3e8eb2;
+}
+#m3_3_2 {
+	position: relative;
+	width: 160px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m3_3_3 {
+	position: relative;
+	width: 160px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m3_3_4 {
+	position: relative;
+	width: 160px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m3_3_5 {
+	position: relative;
+	width: 160px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m3_3_6 {
+	position: relative;
+	width: 160px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 3px solid #3e8eb2;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m3_4 {
+	width: 140px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m3_5 {
+	width: 140px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 3px solid #3e8eb2;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m4 {
+	float: left;
+	display: block;
+}
+#m4s {
+	position: absolute;
+	top: 22px;
+	left: 508px;
+	display: none;
+}
+#m4_1 {
+	width: 135px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+	border-top: 3px solid #3e8eb2;
+}
+#m4_2 {
+	width: 135px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m4_3 {
+	width: 135px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m4_3s {
+	position: absolute;
+	top: 62px;
+	left: 658px;
+	display: none;
+}
+#m4_3_1 {
+	position: relative;
+	width: 135px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+	border-top: 3px solid #3e8eb2;
+}
+#m4_3_2 {
+	position: relative;
+	width: 135px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m4_3_3 {
+	position: relative;
+	width: 135px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m4_3_4 {
+	position: relative;
+	width: 135px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m4_3_5 {
+	position: relative;
+	width: 135px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 3px solid #3e8eb2;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m4_4 {
+	width: 135px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m4_5 {
+	width: 135px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m4_6 {
+	width: 135px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m4_7 {
+	width: 135px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 3px solid #3e8eb2;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m5 {
+	float: left;
+	display: block;
+}
+#m5s {
+	position: absolute;
+	top: 22px;
+	left: 659px;
+	display: none;
+}
+#m5_1 {
+	width: 166px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+	border-top: 3px solid #3e8eb2;
+}
+#m5_2 {
+	width: 166px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m5_2s {
+	position: absolute;
+	top: 42px;
+	left: 840px;
+	display: none;
+}
+#m5_2_1 {
+	position: relative;
+	width: 166px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px -362px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+	border-top: 3px solid #3e8eb2;
+}
+#m5_2_2 {
+	position: relative;
+	width: 166px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px -362px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m5_2_3 {
+	position: relative;
+	width: 166px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 3px solid #3e8eb2;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px -362px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m5_3 {
+	width: 166px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m5_4 {
+	width: 166px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m5_5 {
+	width: 166px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m5_6 {
+	width: 166px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m5_7 {
+	width: 166px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m5_8 {
+	width: 166px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m5_9 {
+	width: 166px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m5_10 {
+	width: 166px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+#m5_11 {
+	width: 166px;
+	height: 16px;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 3px solid #3e8eb2;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-color: #ddd;
+	margin: 0px 0px 0px 0px;
+	padding: 3px 7px 0px 7px;
+	text-align: left;
+}
+</style>
+
+<div id='dropdown_nav'><div id=m onMouseOver="suppressDiv(suppress_div)" onMouseOut="restoreDiv(suppress_div);hide('m1s');hide('m2s');hide('m3s');hide('m4s');hide('m5s');">
+
+	<div id=m1 onMouseOver="hide('m2s');show('m1s');" >
+	<a  href="http://www.calacademy.org/visit/"><img id="b_m1" name="b_m1" src="/include/menu/images/visit.gif" width="140" height="22" border="0" onMouseOver="showImage('b_m1',0);show('m1');" onMouseOut="showImage('b_m1', 1);" alt="Plan a Visit"></a>
+	</div>
+
+	<div id=m2 onMouseOver="hide('m1s');hide('m3s');show('m2s');" >
+	<a  href="http://www.calacademy.org/academy/"><img id="b_m2" name="b_m2" src="/include/menu/images/explore.gif" width="213" height="22" border="0" onMouseOver="showImage('b_m2',2);show('m2');" onMouseOut="showImage('b_m2', 3);" alt="Explore the Academy"></a>
+	</div>
+
+	<div id=m3 onMouseOver="hide('m2s');hide('m4s');show('m3s');" >
+	<a  href="http://www.calacademy.org/events/index.php"><img id="b_m3" name="b_m3" src="/include/menu/images/events.gif" width="155" height="22" border="0" onMouseOver="showImage('b_m3',4);show('m3');" onMouseOut="showImage('b_m3', 5);" alt="Find an Event"></a>
+	</div>
+
+	<div id=m4 onMouseOver="hide('m3s');hide('m5s');show('m4s');" >
+	<a  href="http://www.calacademy.org/join/"><img id="b_m4" name="b_m4" src="/include/menu/images/involved.gif" width="151" height="22" border="0" onMouseOver="showImage('b_m4',6);show('m4');" onMouseOut="showImage('b_m4', 7);" alt="Get Involved"></a>
+	</div>
+
+	<div id=m5 onMouseOver="hide('m4s');show('m5s');" >
+	<a  href="http://www.calacademy.org/science/"><img id="b_m5" name="b_m5" src="/include/menu/images/discover.gif" width="181" height="22" border="0" onMouseOver="showImage('b_m5',8);show('m5');" onMouseOut="showImage('b_m5', 9);" alt="Discover Science"></a>
+	</div>
+
+	<div id=m1s onMouseOver="show('m1s');showImage('b_m1', 0);" onMouseOut="hide('m1s');showImage('b_m1', 1);">
+
+		<a  href="http://www.calacademy.org/visit/"><div id=m1_1 onMouseOver=onMenu('m1_1'); onMouseOut=offMenu('m1_1');>Plan a Visit Overview</div></a>
+
+		<a  href="https://www.calacademy.org/tickets/"><div id=m1_2 onMouseOver=onMenu('m1_2'); onMouseOut=offMenu('m1_2');>Buy Tickets</div></a>
+
+		<a  href="https://www.calacademy.org/visit/gifts/"><div id=m1_3 onMouseOver=onMenu('m1_3'); onMouseOut=offMenu('m1_3');>Academy Gifts</div></a>
+
+		<a  href="http://www.calacademy.org/visit/daily_programs/"><div id=m1_4 onMouseOver=onMenu('m1_4'); onMouseOut=offMenu('m1_4');>Daily Programs</div></a>
+
+		<a  href="http://www.calacademy.org/visit/tours/"><div id=m1_5 onMouseOver=onMenu('m1_5'); onMouseOut=offMenu('m1_5');>Academy Tours</div></a>
+
+		<a  href="http://www.calacademy.org/visit/shopping_and_dining/"><div id=m1_6 onMouseOver=onMenu('m1_6'); onMouseOut=offMenu('m1_6');>Dining & Shopping</div></a>
+
+		<a  href="http://www.calacademy.org/visit/getting_here"><div id=m1_7 onMouseOver=onMenu('m1_7'); onMouseOut=offMenu('m1_7');>Maps & Directions</div></a>
+
+		<a  href="http://www.calacademy.org/visit/plan_an_event/"><div id=m1_8 onMouseOver=onMenu('m1_8'); onMouseOut=offMenu('m1_8');>Plan an Event</div></a>
+
+		<a  href="http://www.calacademy.org/visit/tour_groups/"><div id=m1_9 onMouseOver=onMenu('m1_9'); onMouseOut=offMenu('m1_9');>Group Tickets</div></a>
+
+		<a  href="http://www.calacademy.org/visit/youth_groups/"><div id=m1_10 onMouseOver=onMenu('m1_10'); onMouseOut=offMenu('m1_10');>CA Youth Groups</div></a>
+
+	</div>
+
+	<div id=m2s onMouseOver="show('m2s');showImage('b_m2', 2);" onMouseOut="hide('m2s');showImage('b_m2', 3);">
+
+		<a  href="http://www.calacademy.org/academy/"><div id=m2_1 onMouseOver=onMenu('m2_1'); onMouseOut=offMenu('m2_1');>Academy Overview</div></a>
+
+		<a  href="http://www.calacademy.org/academy/about/"><div id=m2_2 onMouseOver=onMenu('m2_2'); onMouseOut=offMenu('m2_2');>About the Academy</div></a>
+
+		<a  href="http://www.calacademy.org/academy/building/"><div id=m2_3 onMouseOver=onMenu('m2_3');show('m2_3s'); onMouseOut=offMenu('m2_3');hide('m2_3s');><span style="float:left;">The Building</span><span style="float:right;">&raquo;</span></div></a>
+
+		<a  href="http://www.calacademy.org/academy/exhibits/"><div id=m2_4 onMouseOver=onMenu('m2_4');show('m2_4s'); onMouseOut=offMenu('m2_4');hide('m2_4s');><span style="float:left;">Exhibits</span><span style="float:right;">&raquo;</span></div></a>
+
+		<a  href="http://www.calacademy.org/academy/exhibits/floor_plan/"><div id=m2_5 onMouseOver=onMenu('m2_5'); onMouseOut=offMenu('m2_5');>Academy Floor Plan</div></a>
+
+		<a  href="http://www.calacademy.org/academy/whats_new/"><div id=m2_6 onMouseOver=onMenu('m2_6'); onMouseOut=offMenu('m2_6');>What's New</div></a>
+
+		<a  href="http://www.calacademy.org/exhibits/archived_exhibits.php"><div id=m2_7 onMouseOver=onMenu('m2_7'); onMouseOut=offMenu('m2_7');>Archived Exhibits</div></a>
+
+	</div>
+
+	<div id=m3s onMouseOver="show('m3s');showImage('b_m3', 4);" onMouseOut="hide('m3s');showImage('b_m3', 5);">
+
+		<a  href="http://www.calacademy.org/events/"><div id=m3_1 onMouseOver=onMenu('m3_1'); onMouseOut=offMenu('m3_1');>Master Events Calendar</div></a>
+
+		<a  href="https://www.calacademy.org/sleepovers/"><div id=m3_2 onMouseOver=onMenu('m3_2'); onMouseOut=offMenu('m3_2');>Academy Sleepovers</div></a>
+
+		<a  href="http://www.calacademy.org/events/lectures/"><div id=m3_3 onMouseOver=onMenu('m3_3');show('m3_3s'); onMouseOut=offMenu('m3_3');hide('m3_3s');><span style="float:left;">Lectures &amp; Workshops</span><span style="float:right;">&raquo;</span></div></a>
+
+		<a  href="http://www.calacademy.org/events/nightlife/"><div id=m3_4 onMouseOver=onMenu('m3_4'); onMouseOut=offMenu('m3_4');>NightLife</div></a>
+
+		<a  href="http://www.calacademy.org/lovelife/"><div id=m3_5 onMouseOver=onMenu('m3_5'); onMouseOut=offMenu('m3_5');>Photo Competition</div></a>
+
+	</div>
+
+	<div id=m4s onMouseOver="show('m4s');showImage('b_m4', 6);" onMouseOut="hide('m4s');showImage('b_m4', 7);">
+
+		<a  href="http://www.calacademy.org/join/"><div id=m4_1 onMouseOver=onMenu('m4_1'); onMouseOut=offMenu('m4_1');>Get Involved Overview</div></a>
+
+		<a  href="http://www.calacademy.org/join/membership/"><div id=m4_2 onMouseOver=onMenu('m4_2'); onMouseOut=offMenu('m4_2');>Membership</div></a>
+
+		<a  href="http://www.calacademy.org/give/"><div id=m4_3 onMouseOver=onMenu('m4_3');show('m4_3s'); onMouseOut=offMenu('m4_3');hide('m4_3s');><span style="float:left;">Ways to Give</span><span style="float:right;">&raquo;</span></div></a>
+
+		<a  href="http://www.calacademy.org/join/volunteer.php"><div id=m4_4 onMouseOver=onMenu('m4_4'); onMouseOut=offMenu('m4_4');>Volunteering</div></a>
+
+		<a  href="http://www.calacademy.org/join/internships/"><div id=m4_5 onMouseOver=onMenu('m4_5'); onMouseOut=offMenu('m4_5');>Internships</div></a>
+
+		<a  href="http://www.calacademy.org/join/community/"><div id=m4_6 onMouseOver=onMenu('m4_6'); onMouseOut=offMenu('m4_6');>Online Community</div></a>
+
+		<a  href="http://www.calacademy.org/share/"><div id=m4_7 onMouseOver=onMenu('m4_7'); onMouseOut=offMenu('m4_7');>Share Your Ideas</div></a>
+
+	</div>
+
+	<div id=m5s onMouseOver="show('m5s');showImage('b_m5', 8);" onMouseOut="hide('m5s');showImage('b_m5', 9);">
+
+		<a  href="http://www.calacademy.org/science/"><div id=m5_1 onMouseOver=onMenu('m5_1'); onMouseOut=offMenu('m5_1');>Discover Science Overview</div></a>
+
+		<a  href="#"><div id=m5_2 onMouseOver=onMenu('m5_2');show('m5_2s'); onMouseOut=offMenu('m5_2');hide('m5_2s');><span style="float:left;">Live Webcams</span><span style="float:right;">&raquo;</span></div></a>
+
+		<a  href="http://www.calacademy.org/apps/"><div id=m5_3 onMouseOver=onMenu('m5_3'); onMouseOut=offMenu('m5_3');>Mobile Apps</div></a>
+
+		<a  href="http://www.calacademy.org/sciencetoday/"><div id=m5_4 onMouseOver=onMenu('m5_4'); onMouseOut=offMenu('m5_4');>Science Today</div></a>
+
+		<a  href="http://www.calacademy.org/academy/blogs/"><div id=m5_5 onMouseOver=onMenu('m5_5'); onMouseOut=offMenu('m5_5');>Academy Blogs</div></a>
+
+		<a  href="http://video.calacademy.org/"><div id=m5_6 onMouseOver=onMenu('m5_6'); onMouseOut=offMenu('m5_6');>Video Collections</div></a>
+
+		<a  href="http://www.calacademy.org/science/heroes/"><div id=m5_7 onMouseOver=onMenu('m5_7'); onMouseOut=offMenu('m5_7');>Science Heroes</div></a>
+
+		<a  href="http://www.calacademy.org/science/naturalist_center"><div id=m5_8 onMouseOver=onMenu('m5_8'); onMouseOut=offMenu('m5_8');>Naturalist Center</div></a>
+
+		<a  href="http://www.calacademy.org/science/citizen_science/"><div id=m5_9 onMouseOver=onMenu('m5_9'); onMouseOut=offMenu('m5_9');>Citizen Science</div></a>
+
+		<a  href="http://www.calacademy.org/science/hearst/"><div id=m5_10 onMouseOver=onMenu('m5_10'); onMouseOut=offMenu('m5_10');>Expedition 2011</div></a>
+
+		<a  href="http://www.calacademy.org/science/early_explorers_cove/"><div id=m5_11 onMouseOver=onMenu('m5_11'); onMouseOut=offMenu('m5_11');>Early Explorers Cove</div></a>
+
+	</div>
+
+	<div id=m2_3s onMouseOver="show('m2_3s');show('m2s');showImage('b_m2', 2);" onMouseOut="hide('m2_3s');showImage('b_m2', 3);">
+
+		<a  href="http://www.calacademy.org/academy/building/sustainable_design/"><div id=m2_3_1 onMouseOver=onMenu('m2_3_1'); onMouseOut=offMenu('m2_3_1');>Sustainable Design</div></a>
+
+		<a  href="http://www.calacademy.org/academy/building/the_living_roof/"><div id=m2_3_2 onMouseOver=onMenu('m2_3_2'); onMouseOut=offMenu('m2_3_2');>The Living Roof</div></a>
+
+	</div>
+
+	<div id=m2_4s onMouseOver="show('m2_4s');show('m2s');showImage('b_m2', 2);" onMouseOut="hide('m2_4s');showImage('b_m2', 3);">
+
+		<a  href="http://www.calacademy.org/academy/exhibits/aquarium"><div id=m2_4_2 onMouseOver=onMenu('m2_4_2'); onMouseOut=offMenu('m2_4_2');>Steinhart Aquarium</div></a>
+
+		<a  href="http://www.calacademy.org/academy/exhibits/planetarium"><div id=m2_4_3 onMouseOver=onMenu('m2_4_3'); onMouseOut=offMenu('m2_4_3');>Morrison Planetarium</div></a>
+
+		<a  href="http://www.calacademy.org/academy/exhibits/nat_history"><div id=m2_4_4 onMouseOver=onMenu('m2_4_4'); onMouseOut=offMenu('m2_4_4');>Kimball Natural History Museum</div></a>
+
+		<a  href="http://www.calacademy.org/academy/exhibits/rainforest"><div id=m2_4_5 onMouseOver=onMenu('m2_4_5'); onMouseOut=offMenu('m2_4_5');>Rainforests of the World</div></a>
+
+		<a  href="http://www.calacademy.org/academy/exhibits/evolvingtraditions"><div id=m2_4_6 onMouseOver=onMenu('m2_4_6'); onMouseOut=offMenu('m2_4_6');>Evolving Traditions</div></a>
+
+		<a  href="http://www.calacademy.org/academy/exhibits/projectlab"><div id=m2_4_7 onMouseOver=onMenu('m2_4_7'); onMouseOut=offMenu('m2_4_7');>Project Lab</div></a>
+
+		<a  href="http://www.calacademy.org/academy/exhibits/aquarium/aa/"><div id=m2_4_8 onMouseOver=onMenu('m2_4_8'); onMouseOut=offMenu('m2_4_8');>Animal Attraction</div></a>
+
+	</div>
+
+	<div id=m3_3s onMouseOver="show('m3_3s');show('m3s');showImage('b_m3', 4);" onMouseOut="hide('m3_3s');showImage('b_m3', 5);">
+
+		<a  href="http://www.calacademy.org/events/lectures/"><div id=m3_3_1 onMouseOver=onMenu('m3_3_1'); onMouseOut=offMenu('m3_3_1');>All Lectures &amp; Workshops</div></a>
+
+		<a  href="http://www.calacademy.org/events/lectures/?t=4"><div id=m3_3_2 onMouseOver=onMenu('m3_3_2'); onMouseOut=offMenu('m3_3_2');>Dean Astronomy Series</div></a>
+
+		<a  href="http://www.calacademy.org/events/lectures/herbst"><div id=m3_3_3 onMouseOver=onMenu('m3_3_3'); onMouseOut=offMenu('m3_3_3');>Herbst Theatre Series</div></a>
+
+		<a  href="http://www.calacademy.org/events/photography/watershed/"><div id=m3_3_4 onMouseOver=onMenu('m3_3_4'); onMouseOut=offMenu('m3_3_4');>Photography Excursion</div></a>
+
+		<a  href="http://www.calacademy.org/photography/"><div id=m3_3_5 onMouseOver=onMenu('m3_3_5'); onMouseOut=offMenu('m3_3_5');>Photography Programs</div></a>
+
+		<a  href="http://www.calacademy.org/events/lectures/?t=3"><div id=m3_3_6 onMouseOver=onMenu('m3_3_6'); onMouseOut=offMenu('m3_3_6');>Pritzker Member Lectures</div></a>
+
+	</div>
+
+	<div id=m4_3s onMouseOver="show('m4_3s');show('m4s');showImage('b_m4', 6);" onMouseOut="hide('m4_3s');showImage('b_m4', 7);">
+
+		<a  href="http://www.calacademy.org/join/friends"><div id=m4_3_1 onMouseOver=onMenu('m4_3_1'); onMouseOut=offMenu('m4_3_1');>Friends of the Academy</div></a>
+
+		<a  href="http://www.calacademy.org/membership/donate.php"><div id=m4_3_2 onMouseOver=onMenu('m4_3_2'); onMouseOut=offMenu('m4_3_2');>Donate Now</div></a>
+
+		<a  href="http://www.calacademy.org/give/planned_giving.php"><div id=m4_3_3 onMouseOver=onMenu('m4_3_3'); onMouseOut=offMenu('m4_3_3');>Legacy Giving</div></a>
+
+		<a  href="http://www.calacademy.org/give/corporate_giving.php"><div id=m4_3_4 onMouseOver=onMenu('m4_3_4'); onMouseOut=offMenu('m4_3_4');>Corporate Giving</div></a>
+
+		<a  href="https://www.calacademy.org/join/adopt_animal/"><div id=m4_3_5 onMouseOver=onMenu('m4_3_5'); onMouseOut=offMenu('m4_3_5');>Adopt an Animal</div></a>
+
+	</div>
+
+	<div id=m5_2s onMouseOver="show('m5_2s');show('m5s');showImage('b_m5', 8);" onMouseOut="hide('m5_2s');showImage('b_m5', 9);">
+
+		<a  href="http://www.calacademy.org/webcams/farallones"><div id=m5_2_1 onMouseOver=onMenu('m5_2_1'); onMouseOut=offMenu('m5_2_1');>Farallones Cam</div></a>
+
+		<a  href="http://www.calacademy.org/webcams/penguins"><div id=m5_2_2 onMouseOver=onMenu('m5_2_2'); onMouseOut=offMenu('m5_2_2');>Penguin Cams</div></a>
+
+		<a  href="http://www.calacademy.org/webcams/sharks"><div id=m5_2_3 onMouseOver=onMenu('m5_2_3'); onMouseOut=offMenu('m5_2_3');>Shark Lagoon Cam</div></a>
+
+	</div>
+
+<script language="JavaScript">
+<!--
+
+if ((browser == 'ie') && (browser_ver > 5) && (browser_ver < 8)) {
+
+	var m5_2_1	= getStyleObject('m5_2_1');
+	m5_2_1.left = '-87px';
+
+	var m5_2_2	= getStyleObject('m5_2_2');
+	m5_2_2.left = '-87px';
+
+	var m5_2_3	= getStyleObject('m5_2_3');
+	m5_2_3.left = '-87px';
+	
+}
+
+// -->
+</script>
+
+</div></div>
+		
+</body>
+</html>
+

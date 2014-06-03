@@ -1,0 +1,1279 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" >
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+	
+    <head>
+  		<title>Agora (2009) - Movie
+  		</title>
+		<meta name="title" content="Agora - Overview" />
+		<meta name="description" content="Agora. Directed By Alejandro Amen&aacute;bar. With Rachel Weisz, Max Minghella. Stylized, Master and Servant, Drama. Visit Jinni for movie overview, trailers, reviews ratings." />
+	    <link rel="image_src" href="http://media.jinni.com/images/share/fb-collage.gif" />
+		<link rel="image_src" href="http://media.jinni.com/movie/agora/agora-1.jpeg" />
+		
+		<link rel="canonical" href="http://www.jinni.com/movies/agora/" />
+		
+		<meta property="og:title" content="Agora" />
+	    <meta property="og:type" content="movie" />
+    	<meta property="og:url" content="http://www.jinni.com/movies/agora/" />
+	    <meta property="og:image" content="http://media.jinni.com/movie/agora/agora-1.jpeg" />
+	    <meta property="fb:app_id" content="110415305674241" />
+		<meta property="og:site_name" content="Jinni" />
+		
+	  		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+			<link rel="stylesheet" type="text/css" href="/css/main.css" />
+			<link rel="stylesheet" type="text/css" href="/css/community.css" />
+			<link rel="stylesheet" type="text/css" href="/css/feeds.css" />
+			<link rel="stylesheet" type="text/css" href="/css/share.css" />
+			<link rel="stylesheet" type="text/css" href="/css/discoverSearchResultfor.css" />
+			<link rel="shortcut icon" href="http://media.jinni.com/favicon.ico" />
+			<script type="text/javascript" src="/js/invite.js"></script>
+			<script type="text/javascript" src="/js/Tween.js"></script>
+			<script type="text/javascript" src="/js/OpacityTween.js"></script>
+			<script type="text/javascript" src="/js/dwrstatic/engine.js"></script>
+			<script type="text/javascript" src="/js/miniCollage.js"></script>
+	  		<script type="text/javascript" src="/js/utils.js"></script>
+			<script type="text/javascript" src="/js/flexcroll.js"></script>
+			<script type="text/javascript" src="/js/general.js"> </script>
+			<script type="text/javascript" src="/js/clientServer.js"></script>
+	  		<script type="text/javascript" src="/dwr/util.js"></script>
+			<script type="text/javascript" src="/js/dwrstatic/AjaxController.js"></script>
+	  		<script type="text/javascript" src="/js/dwrstatic/userStatusAjaxUtil.js"></script>
+	  		<script type="text/javascript" src="/js/dwrstatic/AjaxUserRatingBean.js"></script>
+			<script type="text/javascript" src="/js/dwrstatic/AjaxUserFavorites.js"></script>
+			<script type="text/javascript" src="/js/dwrstatic/UserInvitationBean.js"></script>
+			<script type="text/javascript" src="/js/dwrstatic/communityAjax.js"></script>
+			<script type="text/javascript" src="/js/dwrstatic/ajaxRefresher.js"></script>
+			<script type="text/javascript" src="/js/homeslider.js"></script>
+			<script type="text/javascript" src="/js/searchBox.js"></script>
+			<script type="text/javascript" src="/js/feeds.js"></script>
+			<script type="text/javascript" src="/player/swfobject.js"></script>
+			<script type="text/javascript" src="/js/community.js"></script>
+			<script type="text/javascript" src="/js/share.js"></script>
+			<script type="text/javascript" src="http://www.jinni.com/dwr/interface/ajaxErrorReporter.js"></script>
+		<script type="text/javascript" src="/js/dwrstatic/AjaxUserFavorites.js"></script>
+  		<script type="text/javascript" src="/js/dwrstatic/AjaxContentCategoryVote.js"></script>
+  		<script type="text/javascript" src="/js/dwrstatic/AjaxUserRatingBean.js"></script>
+		<script type="text/javascript" src="/js/searchBox.js"></script>
+		<script type="text/javascript" src="/js/Tween.js"></script>
+		<script type="text/javascript" src="/js/OpacityTween.js"></script>
+		<script type="text/javascript" src="/js/collage.js"></script>
+		<script type="text/javascript" src="/js/miniCollage.js"></script>
+		<script type="text/javascript" src="/js/slider2.js"></script>
+		<link rel="Stylesheet" type="text/css" href="/css/slider2.css" />
+		<script>
+			globalVariables.isUserSignIn = false;
+		</script>
+     
+     	<script>
+			var discoveryImagePath = "http://www.jinni.com/movie/";
+			var imagePath = "http://media.jinni.com/images/";
+			var collageImagePath = "http://media.jinni.com/";
+			var noImagePath = "http://media.jinni.com/no-image/content-no-image/no-image-1.jpeg";
+			var urlPath =  "http://www.jinni.com";
+			var securedPagesBaseURL = "https://www.jinni.com/";
+			var userPages = "http://www.jinni.com/user//";
+			var movieImagePath = "http://media.jinni.com/movie/";
+			var categoryImages = "http://media.jinni.com/categories/";
+			var mediaServer = "http://media.jinni.com";
+			
+		</script>
+		
+		
+	</head>
+	<body onunload="doMainUnload();" onload="topHightlight();statusSpace();">
+	
+		<div id="fb-root"></div>
+		<script>
+		  window.fbAsyncInit = function() {
+		    FB.init({
+		      appId  : '110415305674241',
+		      status : true, // check login status
+		      cookie : true, // enable cookies to allow the server to access the session
+		      xfbml  : true  // parse XFBML
+		    });
+		  };
+		  (function() {
+		    var e = document.createElement('script');
+		    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+		    e.async = true;
+		    document.getElementById('fb-root').appendChild(e);
+		  }());
+		</script>		 
+	 
+	 
+	
+	<div id="demoTransDiv" class="thanksDemoBg"></div>
+	<div id="demoVideoContainer" class="thanksDemo">
+		
+	</div>	
+		
+		<div id="main">
+		
+			
+			<div id="header">
+    
+	    <a href="/" onclick="goHome();" class="headerLogo">	
+			<img src="http://media.jinni.com/images/logo_publicbeta.gif" style="margin: 7px 3px 0px;" alt="Jinni- Find Movies and TV Shows" title="Jinni- Find Movies and TV Shows" />
+		</a><div id="j_id33" class="loginBox anonymousUser">
+			<div class="loginLinks">
+				<span>New to Jinni?</span>
+				<a href="/join.html" class="loginBoxLink">Sign Up</a>
+				<span class="separator">|</span>
+				<a href="#" onclick="generalFunctions.showLoginBox( true );" class="loginBoxLink">Log in</a>
+			</div>
+			
+			<div class="invitationBox">
+				<img src="http://media.jinni.com/images/icons/invite1.png" onclick="invite.openInvitation();" alt="invite friends to jinni" />
+			</div></div><div id="topmenu" class="h_menu">
+			<ul>
+				<li class=""><a href="/" id="topfirstLnk">Search</a></li>
+				<li>|</li>
+				<li class=""><a href="/user//recommendations/" id="toprecLnk" onclick="return generalFunctions.goToPrivatePage(this.href); ">Recommendations</a></li>
+				<li>|</li>
+				<li class=""><a href="/community/pulse.html" id="topfirstLnk">Community</a></li>
+					<li>|</li>
+					<li class=""><a href="/movie-personality.html">Movie Personality</a></li>
+			</ul></div><div id="headerInvitaionLinkContainer"><div id="usersInvitation">
+				<div id="userIvitaionText">
+	       	<a href="/user//netflix-integration/" class="linkHeader" onclick="return generalFunctions.goToPrivatePage(this.href); ">Connect Jinni to your Netflix account</a>
+				</div>
+				<img onclick="generalFunctions.hideNetflixFromHomePage();" class="closingX" src="http://media.jinni.com/images/x.jpg" alt="jinni" /></div></div>
+		<div id="theInvitaion">
+Hi,
+I've been using Jinni - it's a great site for finding new movies and shows. Check it out, I think you'll like it too.
+
+		</div>
+		<div id="invitaionPreview">
+		</div>
+		<div id="invitationResults">
+			<div class="details"></div>
+			<button id="invResultsBtn" onclick="this.parentNode.style.display='none';">Close</button>
+		</div>
+			</div>
+			
+			
+			<div id="content">
+			<div class="staticIcons" id="staticIcons">
+				
+				<a href="#" onclick="window.open('http://www.twitter.com/jinnidotcom','newWindow1','toolbar=yes, location=yes,directories=yes,status=yes,menubar=yes,scrollbars=yes,copyhistory=yes,resizable=yes,width=800,height=600')">
+				</a>
+				<a href="#" onclick="window.open('http://www.facebook.com/jinnidotcom','newWindow2','toolbar=yes, location=yes,directories=yes,status=yes,menubar=yes,scrollbars=yes,copyhistory=yes,resizable=yes,width=800,height=600')">
+				</a>
+					<img src="http://media.jinni.com/images/feedback.jpg" class="feedbackImage" onclick="window.open('http://www.getsatisfaction.com/jinni','newWindow3','toolbar=yes, location=yes,directories=yes,status=yes,menubar=yes,scrollbars=yes,copyhistory=yes,resizable=yes,width=800,height=600')" alt="jinni" />
+			</div>
+
+<div id="right">
+				<img class="banner" src="http://media.jinni.com/images/banners/tasttest.gif" onclick="banners.tastetest()" alt="jinni" />
+	
+	<div id="addiv"></div>
+	<div id="specgenome">
+	<h2 class="contentRight_specgenome">Vote on this title</h2>
+	<div class="remark">Do these genes fit this title? <br />Click on a gene to vote or discover related titles.</div>
+		
+	<div id="genome_sideLinks" class="v_menu">
+		<ul>
+				<li>
+					<img src="http://media.jinni.com/images/16_atmosphere_red.png" alt="jinni" class="categoryIcon" />
+					Mood:
+					
+				</li>
+				<li class="geneListSpace"><a href="http://www.jinni.com/discovery.html?gene=Stylized" onclick="setSelectedCategory(&quot;458&quot;,&quot;Stylized&quot;,&quot;Mood&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Stylized</a><a href="http://www.jinni.com/discovery.html?gene=Touching" onclick="setSelectedCategory(&quot;460&quot;,&quot;Touching&quot;,&quot;Mood&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Touching</a><a href="http://www.jinni.com/discovery.html?gene=Emotional" onclick="setSelectedCategory(&quot;448&quot;,&quot;Emotional&quot;,&quot;Mood&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Emotional</a><a href="http://www.jinni.com/discovery.html?gene=Sincere" onclick="setSelectedCategory(&quot;457&quot;,&quot;Sincere&quot;,&quot;Mood&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Sincere</a>
+					
+					<span id="moreCategories13" style="display: none;"> 
+					</span>
+				</li>
+				<li>
+					<img src="http://media.jinni.com/images/16_plots_red.png" alt="jinni" class="categoryIcon" />
+					Plot:
+					
+				</li>
+				<li class="geneListSpace"><a href="http://www.jinni.com/discovery.html?gene=master_and_servant" onclick="setSelectedCategory(&quot;129&quot;,&quot;Master and Servant&quot;,&quot;Plot&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Master and Servant</a><a href="http://www.jinni.com/discovery.html?gene=fall_in_love" onclick="setSelectedCategory(&quot;285&quot;,&quot;Fall in Love&quot;,&quot;Plot&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Fall in Love</a><a href="http://www.jinni.com/discovery.html?gene=impossible_love" onclick="setSelectedCategory(&quot;288&quot;,&quot;Impossible Love&quot;,&quot;Plot&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Impossible Love</a><a href="http://www.jinni.com/discovery.html?gene=political_unrest" onclick="setSelectedCategory(&quot;399&quot;,&quot;Political Unrest&quot;,&quot;Plot&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Political Unrest</a><a href="http://www.jinni.com/discovery.html?gene=Religions_or_Cults" onclick="setSelectedCategory(&quot;2379&quot;,&quot;Religions or Cults&quot;,&quot;Plot&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Religions or Cults</a><a href="http://www.jinni.com/discovery.html?gene=Love_and_romance" onclick="setSelectedCategory(&quot;65&quot;,&quot;Love and Romance&quot;,&quot;Plot&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Love and Romance</a><a href="http://www.jinni.com/discovery.html?gene=Unfulfillment" onclick="setSelectedCategory(&quot;79&quot;,&quot;Unfulfillment&quot;,&quot;Plot&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Unfulfillment</a><a href="http://www.jinni.com/discovery.html?gene=Power_relations" onclick="setSelectedCategory(&quot;2237&quot;,&quot;Power Relations&quot;,&quot;Plot&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Power Relations</a>
+							<span id="spanMore8" class="spanMore">
+				       		<a class="smallinks" href="#" onclick="showMoreCategories('spanMore8','moreCategories8'); return false;">
+										more...</a>
+				       	</span>
+					
+					<span id="moreCategories8" style="display: none;"> <a href="#" onclick="setSelectedCategory(&quot;309&quot;,&quot;Unfulfilled Love&quot;,&quot;Plot&quot;); showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);                background-position:right center;                background-repeat: no-repeat;                padding-right: 16px;                ">Unfulfilled Love</a> <a href="#" onclick="setSelectedCategory(&quot;344&quot;,&quot;Destiny&quot;,&quot;Plot&quot;); showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);                background-position:right center;                background-repeat: no-repeat;                padding-right: 16px;                ">Destiny</a> 
+									<a class="smallinks" href="#" onclick="showLessCategories('spanMore8'); return false;">
+										less...</a>
+					</span>
+				</li>
+				<li>
+					<img src="http://media.jinni.com/images/16_genres_red.png" alt="jinni" class="categoryIcon" />
+					Genres:
+					
+				</li>
+				<li class="geneListSpace"><a href="http://www.jinni.com/discovery.html?gene=DRAMA" onclick="setSelectedCategory(&quot;27&quot;,&quot;Drama&quot;,&quot;Genres&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Drama</a><a href="http://www.jinni.com/discovery.html?gene=HISTORICAL" onclick="setSelectedCategory(&quot;31&quot;,&quot;Historical&quot;,&quot;Genres&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Historical</a><a href="http://www.jinni.com/discovery.html?gene=PERIOD" onclick="setSelectedCategory(&quot;37&quot;,&quot;Period&quot;,&quot;Genres&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Period</a><a href="http://www.jinni.com/discovery.html?gene=Melodrama" onclick="setSelectedCategory(&quot;2415&quot;,&quot;Melodrama&quot;,&quot;Genres&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Melodrama</a><a href="http://www.jinni.com/discovery.html?gene=ROMANCE" onclick="setSelectedCategory(&quot;38&quot;,&quot;Romance&quot;,&quot;Genres&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Romance</a>
+					
+					<span id="moreCategories6" style="display: none;"> 
+					</span>
+				</li>
+				<li>
+					<img src="http://media.jinni.com/images/16_time_period_red.png" alt="jinni" class="categoryIcon" />
+					Time/Period:
+					
+				</li>
+				<li class="geneListSpace"><a href="http://www.jinni.com/discovery.html?gene=Ancient_history" onclick="setSelectedCategory(&quot;482&quot;,&quot;Ancient History&quot;,&quot;Time/Period&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Ancient History</a>
+					
+					<span id="moreCategories14" style="display: none;"> 
+					</span>
+				</li>
+				<li>
+					<img src="http://media.jinni.com/images/16_place_red.png" alt="jinni" class="categoryIcon" />
+					Place:
+					
+				</li>
+				<li class="geneListSpace"><a href="http://www.jinni.com/discovery.html?gene=Egypt" onclick="setSelectedCategory(&quot;524&quot;,&quot;Egypt&quot;,&quot;Place&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Egypt</a><a href="http://www.jinni.com/discovery.html?gene=Roman_empire" onclick="setSelectedCategory(&quot;606&quot;,&quot;Roman Empire&quot;,&quot;Place&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Roman Empire</a>
+					
+					<span id="moreCategories15" style="display: none;"> 
+					</span>
+				</li>
+				<li>
+					<img src="http://media.jinni.com/images/16_praise_red.png" alt="jinni" class="categoryIcon" />
+					Praise:
+					
+				</li>
+				<li class="geneListSpace"><a href="http://www.jinni.com/discovery.html?gene=award_winner" onclick="setSelectedCategory(&quot;708&quot;,&quot;Award Winner&quot;,&quot;Praise&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Award Winner</a>
+					
+					<span id="moreCategories19" style="display: none;"> 
+					</span>
+				</li>
+				<li>
+					<img src="http://media.jinni.com/images/16_style_tie.png" alt="jinni" class="categoryIcon" />
+					Style:
+					
+				</li>
+				<li class="geneListSpace"><a href="http://www.jinni.com/discovery.html?gene=Epic" onclick="setSelectedCategory(&quot;748&quot;,&quot;Epic&quot;,&quot;Style&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Epic</a><a href="http://www.jinni.com/discovery.html?gene=Strong_Female_Presence" onclick="setSelectedCategory(&quot;2417&quot;,&quot;Strong Female Presence&quot;,&quot;Style&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Strong Female Presence</a>
+					
+					<span id="moreCategories21" style="display: none;"> 
+					</span>
+				</li>
+				<li>
+					<img src="http://media.jinni.com/images/16_pace_red_original.png" alt="jinni" class="categoryIcon" />
+					Based on:
+					
+				</li>
+				<li class="geneListSpace"><a href="http://www.jinni.com/discovery.html?gene=biography" onclick="setSelectedCategory(&quot;703&quot;,&quot;Biography&quot;,&quot;Based on&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Biography</a><a href="http://www.jinni.com/discovery.html?gene=based_on_true_story" onclick="setSelectedCategory(&quot;705&quot;,&quot;Based on True Story&quot;,&quot;Based on&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Based on True Story</a>
+					
+					<span id="moreCategories17" style="display: none;"> 
+					</span>
+				</li>
+				<li>
+					<img src="http://media.jinni.com/images/16_attitude_red.png" alt="jinni" class="categoryIcon" />
+					Attitudes:
+					
+				</li>
+				<li class="geneListSpace"><a href="http://www.jinni.com/discovery.html?gene=Serious" onclick="setSelectedCategory(&quot;15&quot;,&quot;Serious&quot;,&quot;Attitudes&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Serious</a><a href="http://www.jinni.com/discovery.html?gene=Realistic" onclick="setSelectedCategory(&quot;17&quot;,&quot;Realistic&quot;,&quot;Attitudes&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Realistic</a>
+					
+					<span id="moreCategories3" style="display: none;"> 
+					</span>
+				</li>
+				<li>
+					<img src="http://media.jinni.com/images/16_flag_red.png" alt="jinni" class="categoryIcon" />
+					Flag:
+					
+				</li>
+				<li class="geneListSpace"><a href="http://www.jinni.com/discovery.html?gene=Violent_Content" onclick="setSelectedCategory(&quot;785&quot;,&quot;Violent Content&quot;,&quot;Flag&quot;);showVoteMenu(getElementById(&quot;VoteGeneMenu&quot;), this);hideVoteDiv(); return false;" style="background-image:url(http://media.jinni.com/images/arrToBotMenuGreenb.png);               background-position:right center;               background-repeat: no-repeat;               padding-right: 16px;               ">Violent Content</a>
+					
+					<span id="moreCategories23" style="display: none;"> 
+					</span>
+				</li>
+		</ul>
+	</div>
+	</div>
+	
+	
+				
+		<div id="VoteGeneMenu" class="popupMenus">
+			<div class="menu_arrow">
+				<img src="http://media.jinni.com/images/arrToTop.gif" alt="jinni" />
+			</div> 
+			<div id="VoteOptions" class="v_menu">
+				<img src="http://media.jinni.com/images/close_trans.gif" onclick="hide(document.getElementById('VoteGeneMenu'))" alt="jinni" />
+				<ul>
+					<li><a class="jinniLink" onclick="return generalFunctions.goToPrivatePage();" href="javascript: clearLastVoteResult(); showUserVote(document.getElementById('suggestedVote'),document.getElementById('VoteGeneMenu'))">Vote</a></li>
+					<li><a class="jinniLink" id="genesRelatedLink" href="#" onclick="byGeneLoadingAnimation();">Search titles</a></li>
+				</ul>
+				
+				<div id="loadingResults_pageGenome" style="display: none;">
+					<span id="bg_animation_pageGenome"></span>
+					
+					<span id="animation_img_pageGenome" style="display: none;">
+						<img src="/images/loadingResults_white_areas/ajax-loader-snake.gif" alt="jinni" />
+					</span>
+				</div>
+				
+			</div>
+		</div>
+	
+	
+	
+		<div id="suggestedVote" class="popupMenus">
+			<div class="menu_arrow">
+				<img src="http://media.jinni.com/images/arrToTop.gif" alt="jinni" />
+			</div> 
+			<div id="SuggVoteDIv" class="v_menu">
+				<img src="http://media.jinni.com/images/close_trans.gif" onclick="hideCategoryVotePanels();" alt="jinni" />
+				<span>Does this gene fit Agora?</span>
+				<div id="voteButtons" style="margin-bottom: 5px; margin-top:2px;">
+					<button id="voteYesButton" onclick="contentCategoryVote(1, 21060);">Yes</button>
+					<button id="voteNoButton" onclick="contentCategoryVote(0, 21060);">No</button>
+				</div>
+				<div id="voteResult"> </div>
+				<div id="numOfVotes" style="display: none;">
+					<p>
+						<span id="voteSoFar" class="voteSoFar">Votes so far:</span><br />
+						<span id="numOfYesVotes" class="numOfYesVotes">0 Votes Yes</span>
+						<span id="numOfNoVotes" class="numOfNoVotes">0 Votes No</span>
+					</p>
+				</div>
+
+			  </div>
+		  </div><div id="side_recommands">
+
+				<h2 class="rightBarSectionTitle1">See more like Agora</h2>
+				<div id="contentCollageHolder">
+				
+					<div class="loading_results" id="loadingResults_seeEvenMore" style="display: none;">
+						<img id="white_area_bg_seeEvenMore" src="http://media.jinni.com/images/loadingResults_white_areas/discovery_page.png" alt="jinni" /> 
+						
+						<span id="bg_animation_seeEvenMore"></span>
+						
+						<span id="animation_img_seeEvenMore" style="display: none;">
+							<img src="/images/loadingResults_white_areas/ajax-loader-big_snake.gif" alt="jinni" />
+						</span>
+						
+						<span class="loading_text">
+							Loading matching titles
+						</span>
+					</div>
+					
+					<div id="ccBigPic" onmouseover="showMiniRollover(this);" onmouseout="clearTimeout(t);clearTimeout(o);" style="background-image: url('http://media.jinni.com/movie/vatel/vatel-2.jpeg');">
+						<img src="http://media.jinni.com/images/spacer.gif" id="miniCollageBigAlt" alt="Vatel@2000@Set in 1671 France under the decadent reign of Louis XIV, VATEL charts the events of a three-day feast...@@vatel" />
+					</div>
+					
+																																																																																																	
+					<div id="ccMediumSize" onmouseover="showMiniRollover(this);" onmouseout="clearTimeout(t);clearTimeout(o);" style="background-image: url('http://media.jinni.com/tv/north-and-south-2004/north-and-south-2004-4.jpeg');"><img src="http://media.jinni.com/images/spacer.gif" id="miniCollageMediumAlt" alt="North &amp; South@2004@North &amp; South (BBC)
+
+As the daughter of a middle-class parson, Margaret Hale has enjoyed a privileged...@@north-and-south-2004" /></div>
+					<div id="ccSmalla" class="cc_smallDiv" onmouseover="showMiniRollover(this);" onmouseout="clearTimeout(t);clearTimeout(o);" style="background-image: url('http://media.jinni.com/movie/the-duchess/the-duchess-5.jpeg');"><img src="http://media.jinni.com/images/spacer.gif" id="miniCollageSmallAlt1" alt="The Duchess@2008@A glamorous noblewoman (Keira Knightley) becomes a powerful force for change in late-1700s England.@@the-duchess" /></div>
+					<div id="ccSmallb" class="cc_smallDiv" onmouseover="showMiniRollover(this);" onmouseout="clearTimeout(t);clearTimeout(o);" style="background-image: url('http://media.jinni.com/movie/princess-kaiulani/princess-kaiulani-5.jpeg');"><img src="http://media.jinni.com/images/spacer.gif" id="miniCollageSmallAlt2" alt="Princess Ka'iulani@2009@The true story of a Hawaiian princess' attempts to maintain the independence of the island against the...@@princess-kaiulani" /></div>			
+						<div id="ccSmallc" class="cc_smallDiv" onmouseover="showMiniRollover(this);" onmouseout="clearTimeout(t);clearTimeout(o);" style="background-image: url('http://media.jinni.com/movie/the-countess/the-countess-5.jpeg');"><img src="http://media.jinni.com/images/spacer.gif" id="miniCollageSmallAlt3" alt="The Countess@2009@The Hungarian Countess Elizabeth Bathory, wife of General Ferencz Nasady. They lived in the Carpathian...@@the-countess" /></div>		
+						<div id="ccSmalld" class="cc_smallDiv" onmouseover="showMiniRollover(this);" onmouseout="clearTimeout(t);clearTimeout(o);" style="background-image: url('http://media.jinni.com/movie/persuasion-2007/persuasion-2007-5.jpeg');"><img src="http://media.jinni.com/images/spacer.gif" id="miniCollageSmallAlt4" alt="Persuasion@2007@Though she refuses Captain Wentworth (Rupert Penry-Jones) in her youth, Anne Elliot's (Sally Hawkins,...@@persuasion-2007" /></div><div id="ccBottomLink" class="contentCollageLink">
+										<a href="http://www.jinni.com/discovery.html?similarto=agora" onclick="seeMoreLoadingAnimation(); return true;">See even more</a></div>
+				</div>
+				<div id="SimilarMovieRODiv" class="contentColageContainer" onmouseover="this.style.display = 'block';" onmouseout="this.style.display = 'none';">
+				<div id="smTxtDiv">
+					<h2 id="sm_divTitle" class="sm_divTitle"></h2><span id="sm_divYear" class="sm_divYear"></span>
+					<p id="miniRolloverSynopsis">
+						
+						<label><a id="linkToContentPage" href="#" class="smallinks">Overview</a></label>
+					</p>
+					
+					<div id="sm_available" onmouseover="this.style.backgroundColor='#6d763d'" onmouseout="this.style.backgroundColor='#cd3301'">
+						<a id="linkToOnline"> 
+							<label class="similarAvalable">Watch it:</label>
+							<span id="sm_availableIcon0" class="sm_availableIcons" style="background-image: url(http://media.jinni.com/images/16_cinema_white.png);"></span>
+							<span id="sm_availableIcon1" class="sm_availableIcons" style="background-image: url(http://media.jinni.com/images/16_dvd_white.png);"></span>
+							<span id="sm_availableIcon2" class="sm_availableIcons" style="background-image: url(http://media.jinni.com/images/16_tv_white.png);"></span>
+							<span id="sm_availableIcon3" class="sm_availableIcons" style="background-image: url(http://media.jinni.com/images/16_online_white.png);"></span>
+							<span id="sm_availableIcon4" class="sm_availableIcons" style="background-image: url(http://media.jinni.com/images/16_mobile_white.png);"></span>
+							<span id="sm_availableIcon5" class="sm_availableIcons" style="background-image: url(http://media.jinni.com/images/16_download_white.png);"></span>
+						</a>
+					</div>
+				</div>
+				<img src="http://media.jinni.com/images/close_trans.gif" id="close" onclick="hide(document.getElementById('SimilarMovieRODiv'));" alt="jinni" />
+				<div id="smImgDiv">
+					<a id="photoLinkToContent">
+						<img id="mcRollOverImage" alt="jinni" />
+					</a>
+				</div>
+				<div class="clear"></div>
+				</div></div><div id="onTheWeb">
+			<h2>Find it on:</h2>
+<table id="j_id180" class="relatedLinks">
+<tbody id="j_id180:tbody_element">
+<tr><td><span id="j_id180:0:j_id183" class="share twitter3"></span></td><td>
+					<a href="http://twitter.com/search?q=agora" target="_blank">Twitter</a></td></tr>
+<tr><td><span id="j_id180:1:j_id182" class="share imdb"></span></td><td>
+					<a href="http://www.imdb.com/title/tt1186830" target="_blank">IMDb</a></td></tr>
+<tr><td><span id="j_id180:2:j_id184" class="share tomatto"></span></td><td>
+					<a href="http://www.rottentomatoes.com/m/agora" target="_blank">Rotten Tomatoes</a></td></tr></tbody></table>
+</div>
+</div> 
+		 
+		<div id="left">
+	
+	<form action="http://www.jinni.com/discovery.html" id="searchForm" name="searchForm" method="post" class="narrow">
+				
+		<div id="type" class="search_type_menu ">
+			<input type="hidden" id="contentTypeField" name="content" value="All" />
+			<ul class="contentSearchBox">
+				<li onclick="filterSearchResults(this);" id="All_Filter" class="typeHighlight menuLink">All</li>
+				<li>|</li>
+				<li onclick="filterSearchResults(this);" id="Movies_Filter" class="menuLink">Movies</li>
+				<li>|</li>
+				<li onclick="filterSearchResults(this);" id="TV_Filter" class="menuLink">TV</li>
+				<li>|</li>
+				<li onclick="filterSearchResults(this);" id="Shorts_Filter" class="menuLink">Shorts</li>
+				<li>|</li>
+				<li onclick="filterSearchResults(this);" id="FreeOnline_Filter" class="menuLink">Free Online</li>
+			</ul>
+	
+	<script type="text/javascript">
+		currentFilterType = "All_Filter";
+		suggestFilter.contentTypeFilter = "";
+		suggestFilter.onlineContentFilter = false;
+	</script>				
+		</div>
+		
+		<div id="searchBoxPrefix" class="Prefix"><label>Find</label></div>
+		<div id="searchboxContainer" class="SearchBoxContainer">
+			<input type="hidden" id="search" name="search" />
+			<input type="hidden" id="auditTextSearch" name="auditTextSearch" />
+			<input type="hidden" id="auditSuggestions" name="auditSuggestions" />
+			<input type="hidden" id="auditSelected" name="auditSelected" />
+			<input type="hidden" id="filterWatched" name="filterWatched" />			
+			<input type="text" id="searchInput" autocomplete="off" value="Enter plots, moods, titles, people and more" onfocus="searchFuncs.onfocus( event )" onblur="searchFuncs.onblur(event)" onkeyup="searchFuncs.onkeyup(event)" onkeydown="searchFuncs.onkeypress(event)" style="color: #666666;" class="" />
+				
+				<div id="loadingResults_searchBox" style="display: none;">
+					<span id="bg_animation_search"></span>
+				</div>
+			
+			<div id="go" onclick="doSearch(searchLoadingAnimation);" onmouseover="this.style.color='#6d763d'" onmouseout="this.style.color='#ffffff'">Go</div>
+			
+		</div>
+		<div id="suggestionsPanel" onkeydown="mainSearchBox.keyNavigate(event);" style="position:absolute; display: none;"></div>
+		
+			
+		<div id="resultsSummaryBar" style="visibility: hidden">
+		</div>
+		
+	</form>
+
+	
+	<div id="contentTitle"><img src="http://media.jinni.com/images/32_movie_green.png" />
+		
+		<h1 id="contentTitle_heading"><span id="j_id257">Agora</span><span id="j_id261">, 2009</span>
+		</h1>
+		
+	</div>
+
+	<div id="contentMenu" class="h_menu">
+	<ul>
+		<li class="current"><a href="/movies/agora/" onclick="" rel="" target="" title="Agora - Overview" class="">Agora Overview</a></li>
+		<li>|</li>
+		
+		<li class=""><a href="/movies/agora/reviews/" onclick="" rel="" target="" title="" class="">Reviews</a></li>
+		<li>|</li>
+			<li class=""><a href="/movies/agora/cast-crew/" onclick="" rel="" target="" title="" class="">Cast and Crew</a></li>
+			<li>|</li>
+		
+				<li class=""><a href="/movies/agora/photos/" onclick="" rel="" target="" title="" class="">Photos</a></li>
+				<li>|</li>
+			<li class=""><a href="/movies/agora/videos?type=c&idx=0" onclick="" rel="" target="" title="" class="">Videos</a></li>
+			<li>|</li>
+		<li class=""><a href="/movies/agora/pulse/" onclick="return generalFunctions.goToPrivatePage(this.href); " rel="nofollow" target="" title="" class="">Pulse</a></li>
+		<li>|</li>
+		<li class=""><a href="/movies/agora/watch-it/" onclick="" rel="" target="" title="" class="special">Watch it</a></li>
+				
+	</ul>
+	</div>
+
+		<div id="contentdetails">
+			<div class="movie_image_holder"><img src="http://media.jinni.com/movie/agora/agora-1.jpeg" alt="Agora" style="width: 280px;" class="" />
+			</div>
+			
+			<div id="movie_details" style="overflow: hidden;">
+				<p>
+					<label class="contentDetailsTitles">Starring:  </label> 
+					<label class="movieDetails"><a href="/person/rachel-weisz/" style="text-decoration: underline; text-transform: capitalize;">Rachel Weisz</a>, <a href="/person/max-minghella/" style="text-decoration: underline; text-transform: capitalize;">Max Minghella</a>
+					</label>
+				</p>
+					
+				<p>
+					<label class="contentDetailsTitles">Directed by:  </label> 
+					<label class="movieDetails"><a href="/person/alejandro-amenabar/" style="text-decoration: underline;">Alejandro Amen&aacute;bar</a>
+					</label>
+				</p>
+				<p>
+					<label class="contentDetailsTitles">Written by:  </label> 
+					<label class="movieDetails"><a href="/person/alejandro-amenabar/" style="text-decoration: underline;">Alejandro Amen&aacute;bar</a>
+					</label>
+				</p>
+				
+				
+				<p>
+					<label class="contentDetailsTitles">Language:  </label> 
+					English	
+				</p>
+				
+				
+				
+				<p>
+					<label class="contentDetailsTitles">Country:  </label> 
+					Spain, Malta	
+				</p>
+					<p>
+						<label class="contentDetailsTitles">Runtime:  </label> 
+						<label class="movieDetails">127 min</label>
+					</p>
+					<p>
+						<label class="contentDetailsTitles">MPAA Rating:   </label>
+						<label class="movieDetails">R</label>
+					</p>
+						
+						
+			</div>
+				
+			<div id="raiting">
+				<div id="movie_rank" class="movieRank">
+					<span class="share imdb"></span>
+					<span>Rating:</span><span style="margin-left: 5px;">7.2</span><span id="j_id432"></span>
+				</div>
+				
+				<div id="user_match" class="userMatch">
+					
+					<map id="anonymousSlider" name="anonymousSlider">
+						<area shape="circle" coords="79,27,7" href="#" onmouseout="generalFunctions.toggleSliderLoginToolTip(false); " onmouseover="generalFunctions.toggleSliderLoginToolTip(true); " onclick="return false;" />
+						<area shape="rect" coords="68,6,160,20" href="#" onclick="generalFunctions.showLoginBox(); return false;" />
+					</map>
+						<img id="anonymousSliderImg" src="http://media.jinni.com/images/community/anonymous_rollover2.png" usemap="#anonymousSlider" alt="jinni" />
+				</div>
+			</div>
+				
+		</div>
+		
+			<script>
+				if ( !discoveryCurrentContentId )
+				{
+					var discoveryCurrentContentId = 21060;
+				}
+			</script><div id="content_bottom_links">
+
+			<div id="watchit" onmouseover="this.style.backgroundColor='#6d763d'" onmouseout="this.style.backgroundColor='#cd3301'">
+					<div id="wachitDivLink" style="height: 100%;" onclick="window.location='/movies/agora/watch-it/'" onmouseover="this.style.cursor='pointer'">
+						<span class="watchitLink">Watch it</span>
+						<div class="actionIcons">
+							<ul>
+								<li></li>
+								<li><img src="http://media.jinni.com/images/16_dvd_white.png" alt="Watch on DVD" title="Watch on DVD" /></li>
+								<li></li>
+								<li></li>
+								<li></li>
+								<li><img src="http://media.jinni.com/images/16_download_white.png" alt="Download to watch" title="Download to watch" /></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			<div id="showsimilar" class="cont_bot_links">
+					
+				<div class="loading_results" id="loadingResults_moreLikeIt" style="display: none;">	
+					<img id="white_area_bg_moreLikeIt" src="http://media.jinni.com/images/loadingResults_white_areas/more_like_it.png" alt="jinni" /> 
+					
+					<span id="bg_animation_moreLikeIt"></span>
+					
+					<span id="animation_img_moreLikeIt" style="display: none;">
+						<img src="/images/loadingResults_white_areas/ajax-loader-snake.gif" alt="jinni" />
+					</span>
+				</div>
+				
+					<a href="http://www.jinni.com/discovery.html?similarto=agora" onclick="moreLikeitLoadingAnimation(); return true;">
+
+					<span style="line-height: 24px;">
+						<img src="http://media.jinni.com/images/related.png" class="watchIcon_align" alt="jinni" />
+					</span>
+						More like it</a>
+					<script>
+						discoveryCode = "21060";
+					</script>
+				</div>
+				<div id="wishlist" class="cont_bot_links dim">
+						<div id="addToWishlistToolTip" class="tooltipContainer" style="position: absolute; display: none;">
+							<div class="tooltipTxt"><span id="addToWishlistReply"></span></div>
+	    					<div class="tooltipShpitz"><img src="http://media.jinni.com/images/tooltip_18.gif" alt="jinni" /></div>
+						</div>
+						
+						<a href="javascript:addCurrentToWishList(21060);" onclick=" return generalFunctions.goToPrivatePage(); ">
+						<span style="line-height: 24px;">
+							<img src="http://media.jinni.com/images/plus_white.png" class="watchIcon_align" alt="jinni" />
+						</span>
+							Wish List</a>
+					</div>
+			
+			
+				<div class="cont_bot_links dim" id="favorite">
+					<div id="addToWishlistToolTip" class="tooltipContainer" style="position: absolute; display: none;">
+						<div class="tooltipTxt"><span id="addToWishlistReply"></span></div>
+    					<div class="tooltipShpitz"><img src="http://media.jinni.com/images/tooltip_18.gif" alt="jinni" /></div>
+					</div>
+					
+					<a href="javascript:addContentToFavorites(21060);" onclick="return generalFunctions.goToPrivatePage();">
+					<span style="line-height: 24px; vertical-align: middle;">
+						<img src="http://media.jinni.com/images/white_heart.png" class="watchIcon_align" style="position: relative; top: 2px;" alt="jinni" />
+					</span>
+						Favorites</a>
+				</div>
+				
+				
+			
+				
+				<div id="addreview" class="cont_bot_links dim">
+<form id="j_id461" name="j_id461" method="post" action="http://www.jinni.com/movies/agora/" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="j_id461" value="j_id461" />
+
+<script type="text/javascript" language="Javascript">function dpf(f) {var adp = f.adp;if (adp != null) {for (var i = 0;i < adp.length;i++) {f.removeChild(adp[i]);}}};function apf(f, pvp) {var adp = new Array();f.adp = adp;var ps = pvp.split(',');for (var i = 0,ii = 0;i < ps.length;i++,ii++) {var p = document.createElement("input");p.type = "hidden";p.name = ps[i];p.value = ps[i + 1];f.appendChild(p);adp[ii] = p;i += 1;}};function jsfcljs(f, pvp, t) {apf(f, pvp);var ft = f.target;if (t) {f.target = t;}f.submit();f.target = ft;dpf(f);};</script>
+<a href="#" onclick="var a=function(){return generalFunctions.goToPrivatePage();};var b=function(){if(typeof jsfcljs == 'function'){jsfcljs(document.forms['j_id461'],'j_id461:j_id462,j_id461:j_id462','');}return false};return (a()==false) ? false : b();">
+						<span style="line-height: 24px;">
+							<img src="http://media.jinni.com/images/add_review.png" class="watchIcon_align" style="position: relative; top: 1px;" alt="jinni" />
+						</span>
+								Add Review</a><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id31929:j_id31930" />
+</form>
+				</div></div>
+			<div id="icons_share_height">
+	<div id="addToFavoritesToolTip" class="tooltipContainer" style="position: absolute; display: none;">
+		<div class="tooltipTxt"><span id="addToFavoriteReply"></span></div>
+   		<div class="tooltipShpitz"><img src="http://media.jinni.com/images/tooltip_18.gif" alt="jinni" /></div>
+	</div>
+			<div class="shareIcons"><span id="j_id469" onclick="shareModule.twitter('');" class="twitter"></span><span id="j_id470" onclick="shareModule.facebook('');" class="facebook"></span><span id="j_id471" onclick="shareModule.email('');" class="share envelop"></span>
+			</div>
+			
+		<div class="facebook_like" id="facebook_like">
+			<fb:like layout="button_count" show_faces="false" width="53" height="40"></fb:like>
+		</div> 	
+		
+		<div class="clear"></div>
+			</div><div class="plot">
+				<a name="contentProfile"></a>
+				<h2 class="contentOverview" style="width: 100%; ">Profile of Agora</h2>
+				<p class="contentSynopsis"> The mood of Agora is stylized, touching, and emotional. The plot centers around impossible love, masters and servants, and religions or cults. It is a drama, period, and historical movie. Stylistically, Agora is epic, is a melodrama, and stars a strong female character. In approach, it is serious and realistic. The setting is the Roman Empire and Egypt. Agora happens in ancient times. It is drawn from a biography and originally a true story. The movie is known for being an award winner. Note that Agora includes violent content. 
+				</p></div><div class="plot">
+				<a name="plot"></a>
+				<h2 class="contentOverview" style="width: 100%; ">Summary of Agora</h2>
+				<p class="contentSynopsis">THE SEA INSIDE?s Alejandro Amenabar directs Oscar-winner Rachel Weisz in this historical drama. Set in fourth-century Alexandria, Egypt, AGORA chronicles both a historical uprising and the love of a slave for his mistress.</p></div><div id="details">
+				<h2 class="contentOverview" style="width: 100%; ">Details</h2>
+				<table cellpadding="0" cellspacing="0">
+					<tbody>
+									<tr class="light_bg">
+										<td class="small_title">Language:</td>
+										<td>English</td>
+									</tr>
+									<tr class="">
+										<td class="small_title">Country:</td>
+										<td>Spain, Malta</td>
+									</tr>
+									<tr class="light_bg">
+										<td class="small_title">Release date:</td>
+										<td>28 May 2010</td>
+									</tr>
+									<tr class="">
+										<td class="small_title">Runtime:</td>
+										<td>127 min</td>
+									</tr>
+					</tbody>
+				</table></div><div id="content_cnc">
+
+				<h2 class="contentOverview" style="width: 100%;">Cast and Crew 
+					<label class="smallinks"><a href="/movies/agora/cast-crew/" onclick="" rel="" target="" title="" class="">See all</a> 
+					</label>
+				</h2>
+	
+		<div class="Image_container_left" onmouseover="imgButtonOn(this);" onmouseout="imgButtonOff(this);" onclick="document.location.href='/person/rachel-weisz/'">
+				
+			<div class="userMovieImg"><img src="http://media.jinni.com/person/rachel-weisz/rachel-weisz-2.jpeg" alt="Rachel Weisz as Hypatia in Agora" style="" />
+			</div>
+			<div class="content_crew_button_details">Rachel Weisz
+			</div>
+			<p class="remark">as Hypatia
+			</p>
+			
+		</div>
+	
+		<div class="Image_container_right" onmouseover="imgButtonOn(this);" onmouseout="imgButtonOff(this);" onclick="document.location.href='/person/max-minghella/'">
+				
+			<div class="userMovieImg"><img src="http://media.jinni.com/person/max-minghella/max-minghella-2.jpeg" alt="Max Minghella as Davus in Agora" style="" />
+			</div>
+			<div class="content_crew_button_details">Max Minghella
+			</div>
+			<p class="remark">as Davus
+			</p>
+			
+		</div></div><div id="photos">
+
+				<h2 class="sectionTitle_content contentOverview">Photos 
+					<label class="smallinks"><a href="/movies/agora/photos/" onclick="" rel="" target="" title="" class="">See all</a> 
+					</label>
+				</h2>
+		
+		
+		<div class="userMovieAttribsA " onmouseover="imgButtonOn(this);" onmouseout="imgButtonOff(this);" onclick="document.location.href='/movies/agora/photos/';">
+				
+			<div class="userMovieImg"><img src="http://media.jinni.com/movie/agora/gallery/agora-1-2.jpeg" alt="Agora (2009)" style="" class="" />
+				
+			</div>
+			<div class="content_crew_button_details">
+				Agora (2009)
+			</div>
+			<div class="remark"></div>
+		</div></div><div class="movieClipsArea">
+
+				<h2 class="sectionTitle_content contentOverview">Clips
+					<label class="smallinks"><a href="/movies/agora/videos?type=c&idx=0" onclick="" rel="" target="" title="" class="">See all</a>
+					</label>
+				</h2>
+			
+		<div onclick="document.location.href='/movies/agora/videos?type=c&amp;idx=0'" class="alternateBGColor movieClip"><img src="http://media.jinni.com/movie/agora/video-gallery/agora-video1.jpeg" alt="Agora" /><div class="description">
+						
+							<span class="descriptionTitle">Agora: Trailer</span></div>
+			
+		</div></div><div class="poprev" style="width: 100%; float: left;">
+				
+				<h2 class="contentOverview">Users Reviews<label class="smallinks"> <a href="/movies/agora/reviews?reviewType=users">See all</a></label></h2>
+
+	<div id="preview0-ur" class="text_review_yellow left" style="display: block;">
+		<div class="reviewTitle">
+			<span class="small_title"></span>
+		
+		</div>
+		<div class="user_review"><span class="user_review_span">AGORA: I have always loved watching movies starring RACHEL WEISZ, This is one of my favorite movies and I highly recommend it. RACHEL always give 100%, and her acting is always very convincing and spot on. I give this movie 5*****STARS.
+</span>	
+			
+			<label>
+					<a href="#" onclick="expandReviewBox('0-ur');return false;" class="smallinks">Read and rate it</a>
+			</label>
+		</div>
+		<div class="reviews_links">
+			<ul>
+				<li>16.January.2011
+				</li>
+			<li>|</li>
+				<li>by: Netflowers</li>
+				<li class="reviewerRank"><span class="userRatingText">Netflowers rated this movie</span><img src="http://media.jinni.com/images/20_rubish_red.gif" class="rateImage" /><span class="lowMovieRank">0</span><span class="lowMovieRank">/10</span><span class="textualRating"></span>
+				</li>
+			</ul>
+		</div>
+	</div>
+
+	<div id="expended0-ur" class="text_review_yellow left" style="display: none;">
+		<span class="small_title"></span>
+		<div class="user_review">
+			<p><span class="user_review_span">AGORA: I have always loved watching movies starring RACHEL WEISZ, This is one of my favorite movies and I highly recommend it. RACHEL always give 100%, and her acting is always very convincing and spot on. I give this movie 5*****STARS.
+</span></p>			
+			<div class="reviews_links">
+				<ul>
+					<li>16.January.2011
+					</li>
+					<li>|</li>
+					<li>by: Netflowers</li>
+				</ul>
+			</div>
+			<div id="review_respond">
+				<span class="respon_review">What did you think about this review?</span>
+				
+				<div id="contentReviewVoteToolTip89912" class="statusTooltip" style="position: absolute; display: none;">
+					<span id="contentReviewVoteReply89912">Thank you for voting.</span>
+				</div>
+				
+				<div id="contentReviewVote89912" class="contentReviewVote" style="float: left;">
+					<label>Like </label> <img src="http://media.jinni.com/images/20_Oscar_red.gif" onclick="contentReviewVote( 89912, 1, this); return false ;" alt="jinni" />
+					<label>Dislike </label> <img style="margin-left: 7px;" src="http://media.jinni.com/images/20_rubish_red.gif" onclick="contentReviewVote( 89912, 0, this); return false ;" alt="jinni" />	
+				</div>			
+
+				<div id="reviewReportAbuseToolTip89912" class="statusTooltip" style="position: absolute; display: none; z-index: 10;">
+					<span id="reviewReportAbuseReply89912">Abuse report sent</span>
+				</div>
+				<span id="spanReportAbuse89912" class="smallinks" onclick="reviewReportAbuse(89912); return false ;">Report abuse</span>
+			</div>
+			<a href="#" onclick="hideReviewBox('0-ur'); return false;" class="smallinks">
+				Close
+			</a>
+		</div>
+	</div>
+
+	<div id="preview1-ur" class="text_review_white left" style="display: block;">
+		<div class="reviewTitle">
+			<span class="small_title">Amen&aacute;bar's worst</span>
+		
+		</div>
+		<div class="user_review"><span class="user_review_span">Tiring and melodramatic look at proto-dark-ages, when stoning was everyones favorite pastime. Amen&aacute;bar tried to make more ambitious 'sword and sandals' film, but the drama doesn't work and the film doesn't do justice for the story of Hypatia. Budget...</span>	
+			
+			<label>
+					<a href="#" onclick="expandReviewBox('1-ur');return false;" class="smallinks">Read and rate it</a>
+			</label>
+		</div>
+		<div class="reviews_links">
+			<ul>
+				<li>17.September.2010
+				</li>
+			<li>|</li>
+				<li>by: wickdclown</li>
+				<li class="reviewerRank"><span class="userRatingText">wickdclown rated this movie</span><img src="http://media.jinni.com/images/20_rubish_red.gif" class="rateImage" /><span class="lowMovieRank">4</span><span class="lowMovieRank">/10</span><span class="textualRating">Disappointing</span>
+				</li>
+			</ul>
+		</div>
+	</div>
+
+	<div id="expended1-ur" class="text_review_white left" style="display: none;">
+		<span class="small_title">Amen&aacute;bar's worst</span>
+		<div class="user_review">
+			<p><span class="user_review_span">Tiring and melodramatic look at proto-dark-ages, when stoning was everyones favorite pastime. Amen&aacute;bar tried to make more ambitious 'sword and sandals' film, but the drama doesn't work and the film doesn't do justice for the story of Hypatia. Budget restrains shows is those mediocre CGI aerial shots. I never thought religion bashing can be so boring and depressing.</span></p>			
+			<div class="reviews_links">
+				<ul>
+					<li>17.September.2010
+					</li>
+					<li>|</li>
+					<li>by: wickdclown</li>
+				</ul>
+			</div>
+			<div id="review_respond">
+				<span class="respon_review">What did you think about this review?</span>
+				
+				<div id="contentReviewVoteToolTip85322" class="statusTooltip" style="position: absolute; display: none;">
+					<span id="contentReviewVoteReply85322">Thank you for voting.</span>
+				</div>
+				
+				<div id="contentReviewVote85322" class="contentReviewVote" style="float: left;">
+					<label>Like </label> <img src="http://media.jinni.com/images/20_Oscar_red.gif" onclick="contentReviewVote( 85322, 1, this); return false ;" alt="jinni" />
+					<label>Dislike </label> <img style="margin-left: 7px;" src="http://media.jinni.com/images/20_rubish_red.gif" onclick="contentReviewVote( 85322, 0, this); return false ;" alt="jinni" />	
+				</div>			
+
+				<div id="reviewReportAbuseToolTip85322" class="statusTooltip" style="position: absolute; display: none; z-index: 10;">
+					<span id="reviewReportAbuseReply85322">Abuse report sent</span>
+				</div>
+				<span id="spanReportAbuse85322" class="smallinks" onclick="reviewReportAbuse(85322); return false ;">Report abuse</span>
+			</div>
+			<a href="#" onclick="hideReviewBox('1-ur'); return false;" class="smallinks">
+				Close
+			</a>
+		</div>
+	</div></div>
+		</div>
+		
+		<script type="text/javascript">
+			//<![CDATA[
+			if(window.addEventListener){window.addEventListener('load',handleOnload,0);}
+			else if(window.attachEvent){window.attachEvent('onload',handleOnload);}
+			else{window.onload=handleOnload;} 
+			function handleOnload()
+			{
+				initSearchBox();
+				globalVariables.content.displayTitle = "Agora";
+			}
+			//]]>
+	 	</script>
+	 	
+	 	<div class="invisible inlineInvitation" id="inlineInvitationDiv"><div id="anonymousInviteStep" class="inviteFrame anonymous invisible">
+		<img src="http://media.jinni.com/images/x.jpg" class="closingX" onclick="invite.closeInvitation('anonymousInviteStep')" alt="jinni" />
+		<div class="header"><span class="headerTitle">Tell Friends about Jinni</span></div>
+		<div class="inviteContent">
+			<div class="contentTitle">
+				<div>
+					<span class="title1">Jinni is more fun with friends!</span><br />
+					<span class="errorMessage" id="anonymous_loginErrorMessage"></span>
+				</div>
+			</div>
+			
+	 			<form id="anonymous" name="anonymous" class="inputArea">
+	 			
+				<div class="userInput">
+					<label>To:</label> <input type="text" name="anonymousTo" class="text" id="anonymousTo" onfocus="invite.anonymousFocus()" />
+				</div><br />
+				
+				<div class="userInput">
+					<label>Your email:</label> <input type="text" name="anonymousEmail" class="text" id="anonymousEmail" />
+				</div><br />
+				
+				<div class="userInput">
+					<label>Your name:</label>  <input type="text" name="anonymousName" class="text" id="anonymousName" />
+				</div><br />
+				
+				<div class="userInput">
+					<label>Message:</label> <textarea class="message" id="anonymousMessage">Hi,
+I've been using Jinni - it's a great site for finding new movies and shows. Check it out, I think you'll like it too.</textarea><br />
+				</div>
+			</form>
+			
+
+		
+		</div>
+		<div class="footer">
+			<input id="anonymousInvitationButton" class="commandButton" type="submit" value="Invite them in!" onclick="invite.sendAnonymous();" />
+			<div class="invitationLoading" id="anonymousInvitationLoading"></div>
+			<a class="share facebook-large" href="#" onclick="shareModule.facebook('invite'); return false;"></a>
+			<a class="share twitter1" style="margin-right: 6px;" href="#" onclick="shareModule.twitter('invite'); return false;"></a>
+			<label>share:</label>
+		</div></div><div id="socialNetsStep" class="inviteFrame octazenBox invisible">
+		<img src="http://media.jinni.com/images/x.jpg" class="closingX" onclick="invite.closeInvitation('socialNetsStep')" alt="jinni" />
+		<div class="header"><span class="headerTitle">Share Jinni with your friends !</span></div>
+		<div class="inviteContent">
+			<div class="contentTitle">
+				<div>
+					Jinni is more fun with friends!<br />
+					<span class="errorMessage" id="loggedIn_loginErrorMessage"></span>
+				</div>
+			
+			</div>
+			<div class="inputArea">
+				<div class="userInput">
+					<label>To:</label>
+					<input class="emails" id="loggedInTo" value="Enter emails separated by commas" onfocus="invite.loggedInFocus();" />
+				</div>
+
+				<div class="userInput">
+					<label><i>OR </i>add contacts from a webmail or network:</label><select id="emailOptions" name="emailOptions" size="1" class="emails" onchange="document.getElementById('networkOptions').selectedIndex=0;">	<option value="Choose a webmail">Choose a webmail</option>	<option value="GMail">GMail</option>	<option value="Yahoo">Yahoo</option>	<option value="AOL">AOL</option>	<option value="Hotmail">Hotmail</option>	<option value="FastMail">FastMail</option>	<option value="GMX">GMX</option>	<option value="IcqMail">IcqMail</option>	<option value="Indiatimes">Indiatimes</option>	<option value="LinkedIn">LinkedIn</option>	<option value="Lycos">Lycos</option>	<option value="MacDotcom">MacDotcom</option>	<option value="MailDotcom">MailDotcom</option>	<option value="MyNetDotcom">MyNetDotcom</option>	<option value="Rediffmail">Rediffmail</option>	<option value="WebDotDe">WebDotDe</option></select><select id="networkOptions" name="networkOptions" size="1" class="socialNetworks" onchange="document.getElementById('emailOptions').selectedIndex=0;">	<option value="Choose a network">Choose a network</option>	<option value="Friendster">Friendster</option>	<option value="MySpace">MySpace</option>	<option value="Orkut">Orkut</option>	<option value="Hi5">Hi5</option>	<option value="Twitter">Twitter</option></select> 
+
+				</div>
+				<div class="userInput">
+					<label>Email:</label>
+					<input class="text" id="username" />
+				</div>
+				<div class="userInput">
+					<label>Password:</label>
+					<input class="text" id="password" type="password" />
+				</div>
+				<div class="userInput">
+					<span class="sicons_sprite lock"></span>
+					<label class="pwdNote">Never saved or shared</label>
+					<label class="errorMessage" style="float: right;" id="loginErrorMessage"></label>
+				</div>
+			</div>
+		
+		</div>
+		<div class="footer">
+			<input type="button" class="commandButton" id="logginButton" value="Continue" onclick="invite.loginToService();" />
+			<div class="invitationLoading invisible" id="socialDataLoading"></div>
+			
+			<a class="share facebook-large" href="#" onclick="shareModule.facebook('invite'); return false;"></a>
+			<a class="share twitter1" style="margin-right: 6px;" href="#" onclick="shareModule.twitter('invite'); return false;"></a> 
+			<label>share:</label>
+		</div></div><div id="contactsStep" class="inviteFrame contacts">
+  
+  	<img src="http://media.jinni.com/images/x.jpg" class="closingX" onclick="invite.closeInvitation('contactsStep')" alt="jinni" />
+		<div class="header">Tell Friends about Jinni</div>
+		<div class="inviteContent">
+			<div class="contentTitle">
+				<div>
+					These people could join your Movie Circle on Jinni!
+				</div>
+			
+			</div>
+			<div class="inputArea">
+				<div class="emailsHeader">
+					<input type="checkbox" id="se" />
+					<label for="se">Select all</label>
+				</div><div id="mySimpleScroll" class="normalScroll" style="padding-top: 0px;"></div>
+				
+			</div>
+		
+		</div>
+		<div class="footer">
+			<input type="button" class="commandButton" value="Add Contacts" onclick="invite.goToStep(invite.SEND_INVITATION_STEP); document.getElementById('contactsStep').style.display = 'none'" />
+			<a class="share facebook-large" href="#" onclick="shareModule.facebook('invite'); return false;"></a>
+			<a class="share twitter1" style="margin-right: 6px;" href="#" onclick="shareModule.twitter('invite'); return false;"></a> 
+			<label>share:</label>
+		</div></div><div id="invitationMessageStep" class="inviteFrame inviteBox invisible">
+  	<img src="http://media.jinni.com/images/x.jpg" class="closingX" onclick="invite.closeInvitation('invitationMessageStep')" alt="jinni" />
+		<div class="header">Share Jinni with your friends !</div>
+		<div class="inviteContent">
+			<div class="contentTitle">
+				<div>
+					Add a personal message or stick with ours:
+				</div>
+			
+			</div>
+			<div class="inputArea">
+				<div class="userInput">
+					<textarea class="message" id="message">Hi,
+
+I've been using Jinni - it's a great site for finding new movies and shows. Check it out, I think you'll like it too.</textarea>
+				</div>
+			</div>
+		
+		</div>
+		<div class="footer">
+			<input type="button" id="sendInvitationButton" class="commandButton" value="Invite them in!" onclick="invite.sendLoggedInInvitation();" />
+			<div class="invitationLoading invisible" id="invitationLoading"></div>
+				<a class="share facebook-large" href="#" onclick="shareModule.facebook('invite'); return false;"></a>
+				<a class="share twitter1" style="margin-right: 6px;" href="#" onclick="shareModule.twitter('invite'); return false;"></a> 
+			<label>share:</label>
+		</div></div><div id="thanksBox" class="thanksFrame invisible">
+  		Success! Invites sent.</div>
+		</div>
+			   
+			    <div id="notSeenItPopup">
+				<div class="container">
+					<div id="rolloverLikelyToSeeBtn" class="rolloverLikelyToSee" onclick="setLikelyToSee();">Likely to see</div>
+					<div id="rolloverNotForMeBtn" class="rolloverNotForMe" onclick="setNotForMe();">Not for me</div>		
+				</div>
+				<div class="tip"></div>
+				</div>
+			</div><div id="mainFooter">
+			<div id="footerLeft" class="headerColumns">
+			<h3 class="footerHeader">You</h3>
+			<div>
+			<div id="firstLeft" class="footerColumns">
+			<ul>
+				<li><a href="#">
+	       	<a href="/user//profile" class="" onclick="return generalFunctions.goToPrivatePage(this.href); ">Account</a></a></li>
+				<li class="">
+	       	<a href="/user//recommendations" class="" onclick="return generalFunctions.goToPrivatePage(this.href); ">Recommendations</a></li>
+				<li><a href="#">
+	       	<a href="/user//pulse" class="" onclick="return generalFunctions.goToPrivatePage(this.href); ">Pulse</a></a></li>
+				<li><a href="/community/pulse.html">Community</a></li>
+			</ul>
+			</div>
+			<div class="footerColumns">
+			<ul>
+				<li><a href="#" onclick="x=window.open('http://www.getsatisfaction.com/jinni','newWindow1','toolbar=yes, location=yes,directories=yes,status=yes,menubar=yes,scrollbars=yes,copyhistory=yes,resizable=yes')">Your Feedback</a></li>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+			</ul>
+			</div>
+			<div class="footerColumns">
+			<ul>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+			</ul>
+			</div>
+			</div>
+			</div>
+			<div id="footerMiddle" class="headerColumns">
+			<h3 class="footerHeader">Us</h3>
+			<div>
+			<div id="firstLeft" class="footerColumns">
+			<ul style="list-style-type: none;">
+				<li><a href="/about.html">About Us</a></li>
+				<li><a href="http://blog.jinni.com" target="_blank">Our Blog</a></li>
+				<li><a href="/press.html">Buzz</a></li>
+				<li><a href="/movie-genome.html">The Movie Genome</a></li>
+				<li><a href="/careers.html">Careers</a></li>
+			</ul>
+			</div>
+			<div class="footerColumns">
+			<ul>
+				<li><a href="/terms.html">Terms of Use</a></li>
+				<li><a href="/privacy.html">Privacy Policy</a></li>
+				<li><a href="/solutions.html">Solutions</a></li>
+				<li><a href="/partnerships.html">Partners</a></li>
+			</ul>
+			</div>
+			<div class="footerColumns">
+			<ul>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+			</ul>
+			</div>
+			</div>
+			</div>
+			<div id="footerRight" class="headerColumns">
+			<h3 class="footerHeader">Help</h3>
+			<div>
+			<div id="firstLeft" class="footerColumns">
+			<ul>
+				<li><a href="/faqs.html">FAQs</a></li>
+				<li><a href="#"></a></li>
+				<li><a href="/contact.html">Contact Us</a></li>
+				<li><a href="#"></a></li>
+				<li><a href="/sitemap.html">Site Map</a></li>
+			</ul>
+			</div>
+			<div class="footerColumns">
+			<ul>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+			</ul>
+			</div>
+			<div class="footerColumns">
+			<ul>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+				<li><a href="#"></a></li>
+			</ul>
+			</div>
+			</div>
+			</div>
+			<div class="footerText">
+				<p class="footerText">Jinni is best for now in Firefox, Internet Explorer 7 and 8, and Chrome</p>
+					<p class="footerText">Part of the page Copyright &copy; Muze | New Releases by Tribune Media Services.</p>
+			</div>
+			<div id="homeCopyright">Copyright 2010 Jinni Inc.</div></div>
+		
+		</div>
+
+
+	
+			<script type="text/javascript">
+			//<![CDATA[
+			if(window.addEventListener){window.addEventListener('load',handleOnload,0);}
+			else if(window.attachEvent){window.attachEvent('onload',handleOnload);}
+			else{window.onload=handleOnload;} 
+			function handleOnload(){
+				
+				if( "" != "false")
+					initSearchBox(); 
+				globalVariables.user.userName = "";
+				ajaxSessionRefresher.start();
+			}
+			//]]>
+			
+	 	</script>
+     
+      	
+	     <div id="feedbackNotice" class="feedbackOverlay" style="display: none"></div>
+		 
+		 <div id="jinniAlert" class="jinniAlert">
+		 	<span id="alertTitle" class="alertTitle"></span>
+		 	<a id="alertActionButton" class="commandButton " href="#">
+		 		<span id="actionLable"></span>
+		 	</a>
+		 </div>
+		
+		<div id="serverFeedback" class="serverFeedback">
+			<img src="http://media.jinni.com/images/tooltip_18.gif" alt="jinni" />
+			<span id="serverFeedbackMessage" class="message">message message message</span>
+		</div>
+		 
+		 <div class="userNavigationMenu" id="userNavigationMenu"> 
+		 <span class="sicons_sprite gua1"></span>
+		 <ul class="userNavigationMenu">
+	 
+			 <li><a href="http://www.jinni.com/user//recommendations/" onclick="return generalFunctions.goToPrivatePage(this.href);">Recommendations</a></li>
+			 <li><a href="http://www.jinni.com/user//taste-test/" onclick="return generalFunctions.goToPrivatePage(this.href);">Start Rating Movies</a></li>
+			 <li><a href="http://www.jinni.com/user//profile/" onclick="return generalFunctions.goToPrivatePage(this.href); ">Profile</a></li>
+			 <li><a href="http://www.jinni.com/user//wish-list/" onclick="return generalFunctions.goToPrivatePage(this.href); ">Wish List</a></li>
+			 <li><a href="http://www.jinni.com/user//favorites/" onclick="return generalFunctions.goToPrivatePage(this.href); ">Favorites</a></li>
+			 <li><a href="http://www.jinni.com/user//ratings/" onclick="return generalFunctions.goToPrivatePage(this.href); ">My Ratings</a></li>
+			 <li><a href="http://www.jinni.com/user//movie-circle/" onclick="return generalFunctions.goToPrivatePage(this.href); ">People</a></li>
+			 <li><a href="http://www.jinni.com/user//pulse/" onclick="return generalFunctions.goToPrivatePage(this.href); ">Pulse</a></li>
+		 </ul>
+		 </div>
+      	
+      		<div id="loginOverlay" class="loginOverlay" style="display: none">
+     
+      		<form class="loginForm" action="https://www.jinni.com/jinniLogin" id="loginForm" name="loginForm" method="post">
+	      		<img onclick="generalFunctions.hideLoginBox();" class="closingX" src="http://media.jinni.com/images/x.jpg" alt="jinni" />
+	      		
+			 	<div class="frame">
+			 		<h2 class="loginTitle" id="loginTitle">Log in to Jinni</h2>
+				 	
+				 	<div class="userInfo">
+					 	<label for="user">Username</label>
+					 	<input id="user" name="user" />
+					    <div class="clear"></div>
+					</div>
+					
+					<div class="userInfo">
+					 	<label for="pass">Password</label>
+					 	<input type="password" id="pass" name="pass" />
+					    <div class="clear"></div>
+				 	</div>
+				 	
+					 <div class="rememberme"><input type="checkbox" name="rememberme" id="rememberme" value="true" />
+					 	<label for="rememberme">Remember me<br /><span class="note"> If checked you will stay logged in for 4 weeks</span></label>
+					 </div>
+					 <div><input type="submit" name="j_id741" value="Log In" onclick="generalFunctions.logIn(); return false;" class="commandButton" />
+					 	<p class="forgot"><a href="/forgot_password.html">  Forgot password? </a></p>
+					 </div>
+					 <div id="whySignIn" style="display: none;">
+					 	<h3><a href="/join.html">New user? Sign up for free!</a></h3>					 	
+					 	<p>
+					 		Get recommendations from the Movie Genome<br />
+					 		Connect with people who share your tastes<br />
+					 		Discover your Movie Personality
+					 	</p>
+					 </div>
+				</div>
+				<input type="hidden" name="loginOverlayURL" id="privatePage" />
+				<input type="hidden" name="loginSource" value="loginOverlay" />
+			</form>
+      		</div><div id="shareByEmail" class="shareFrame">
+		
+			<img src="http://media.jinni.com/images/x.jpg" class="closingX" onclick="shareModule.closeShareFrame();" alt="jinni" />
+			
+			<div class="header">
+				<img src="http://media.jinni.com/images/share/shere_collage_header.jpg" alt="jinni" />
+				<p id="shareSearchTerm">smart offbeat funny</p>
+				<p id="shareFilters">In: movies</p>
+				<div class="clear"></div>
+			</div>
+			<div class="header2">
+				<p>Copy and paste this link into an email or instant message:</p>
+				<input class="sharedURL" id="shareURL" value="http://www.jinni.com" />
+			</div>
+			
+			<div class="shareContent">
+				<span class="errorMessage" id="errorMessage"></span>
+				
+				<div class="contentTitle">
+					<span class="title1">Send this page by email</span>
+				</div>
+				
+				<div class="inputArea">
+					<div class="userInput">
+						<label>To:</label>
+						<input type="text" name="shareTo" onfocus="shareModule.handleClick();" id="shareTo" value="Enter emails separated by commas" />
+						<div class="clear"></div>
+					</div>
+					<div class="userInput" id="shareEmailDiv">
+						<label>Your email:</label>
+						<input type="text" name="shareEmail" id="shareEmail" value="" />
+						<div class="clear"></div>
+					</div>
+					<div class="userInput" id="shareNameDiv">
+						<label>Your name:</label>
+						<input type="text" name="shareName" id="shareName" value="" />
+						<div class="clear"></div>
+					</div>
+					<div class="userInput">
+						<label>Message:</label>
+						<textarea class="message" id="shareMessage"></textarea>
+						<div class="clear"></div>
+					</div>
+				</div>			
+			</div>
+			
+			<div class="footer">
+				<div id="envelop_share_icons" style="width:256px; float: right;">
+			<div class="shareIcons"><span id="j_id749" onclick="shareModule.twitter('emailFrame');" class="twitter"></span><span id="j_id750" onclick="shareModule.facebook('emailFrame');" class="facebook"></span>
+			</div>
+			
+		<div class="facebook_like" id="facebook_like">
+			<fb:like layout="button_count" show_faces="false" width="53" height="40"></fb:like>
+		</div> 	
+		
+		<div class="clear"></div>
+				</div>
+				
+				<div class="invitationLoading" id="shareByEmailLoading" style="float: right;"></div>
+				
+				<div id="envelop_shareButton" style="width:57px; float: left;">
+					<input id="shareButton" type="button" class="commandButton" value="Send" onclick="shareModule.shareByEmail()" />
+				</div>
+				
+				<div class="clear"></div>
+				
+			</div></div>
+	
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-5434717-1");
+	pageTracker._trackPageview();
+	</script>
+	
+
+	<!-- MYFACES JAVASCRIPT -->
+
+</body>
+
+</html>

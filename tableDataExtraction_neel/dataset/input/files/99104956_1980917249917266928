@@ -1,0 +1,1670 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="title" content="Explorator" />
+    <title>Explorator</title>
+
+    <!--[if lte IE 6]>
+      <script type="text/javascript" src="/js/pngfix.js"></script>
+    <![endif]-->
+  <link rel="shortcut icon" href="/favicon.ico" />
+        
+    <script type="text/javascript">
+      var display_search = true;
+      var page = '/index.php/home/list';
+      var page_localityId = '/index.php/search/localityId';
+      var virtualRoot = '';
+      var site_path = '';
+      var url = 'http://www.explorator.lu/index.php/home/list/sort/comment_number/sort_type/desc/page/';
+    </script>
+	
+
+<script type="text/javascript" src="/js/gmap.js"></script>
+<script type="text/javascript" src="/js/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="/js/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="/js/jquery-ui-sortable.js"></script>
+<script type="text/javascript" src="/js/jScrollPane-1.2.3.js"></script>
+<script type="text/javascript" src="/js/jquery.form.js"></script>
+<script type="text/javascript" src="/js/header_box.js"></script>
+<script type="text/javascript" src="/js/colorbox.js"></script>
+<script type="text/javascript" src="/js/select_explorator.js"></script>
+<script type="text/javascript" src="/js/search_engine.js"></script>
+<script type="text/javascript" src="/js/region_map.js"></script>
+<script type="text/javascript" src="/js/jquery-cycle.js"></script>
+<script type="text/javascript" src="/js/swfobject.js"></script>
+<script type="text/javascript" src="/js/main.js"></script>
+<link rel="stylesheet" type="text/css" media="print" href="/css/print.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/color.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/typo.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/layout.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/select_explorator.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/search_engine.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/gallery.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/login_form.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/color_box.css" />
+</head>
+
+<body>
+  <a name="top"></a>
+ <div id="bigwrapper">
+	 <div id="hardheadzone" style="background-color: white;">
+		<div id="header">
+			<div id="leaderboard_top_new">
+				<script type='text/javascript'><!--//<![CDATA[
+				   var m3_u = (location.protocol=='https:'?'https://ads.mikekoedinger.com/www/delivery/ajs.php':'http://ads.mikekoedinger.com/www/delivery/ajs.php');
+				   var m3_r = Math.floor(Math.random()*99999999999);
+				   if (!document.MAX_used) document.MAX_used = ',';
+				   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+				   document.write ("?zoneid=125");
+				   document.write ('&amp;cb=' + m3_r);
+				   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+				   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+				   document.write ("&amp;loc=" + escape(window.location));
+				   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+				   if (document.context) document.write ("&context=" + escape(document.context));
+				   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+				   document.write ("'><\/scr"+"ipt>");
+				//]]>--></script><noscript><a href='http://ads.mikekoedinger.com/www/delivery/ck.php?n=a99f96e0&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.mikekoedinger.com/www/delivery/avw.php?zoneid=125&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a99f96e0' border='0' alt='' /></a></noscript>
+			</div>
+		</div>
+	 </div>
+   
+  <div id="header_line" style="background:url('http://www.explorator.lu/images/background_line.gif') repeat-x ; ">
+	  <div id="headzone" style="width: 970px; margin: 0 auto; padding-top: 4px; border-bottom: 1px solid #918F90;">	
+			<div id="header_top" style="width:100%; margin:0 auto">
+			  <div id="logo">
+				<a href="/index.php/"><img src="/images/logo_explorator.png" alt="Logo_explorator" /></a>							  </div>
+			</div>
+			<div id="txt_header">
+				Luxembourg - Guide Restaurant ind?pendant depuis 1994			</div>
+			<div id="txt_image">
+				<a class="go_login" title="Connexion" href="/index.php/"><img src="/images/logo_connexion.png" alt="Logo_connexion" /></a>				<a id="click_newsletters" title="Newsletter" href="/index.php/"><img src="/images/logo_newsletters.png" alt="Logo_newsletters" /></a>    	
+				<a target="_blank" title="Facebook Explorator" href="http://www.facebook.com/ExploratorLuxembourg"><img src="/images/logo_facebook.png" alt="Logo_facebook" /></a>				<a target="_blank" title="Twitter Explorator" href="http://twitter.com/ExploratorLU"><img src="/images/logo_twitter.jpg" alt="Logo_twitter" /></a>			</div>
+	  </div>
+  </div>
+  <!-- header -->
+
+    <div id="top_area">
+      <div id="newsletter">
+  <form action="http://mke.createsend.com/t/y/s/hjhyyk/" method="post">
+    <div class="inscription">
+     <p>Inscrivez-vous ? notre Newsletter</p>
+     <p id="newslettermail" style="padding:0">
+     <input type="text" name="cm-hjhyyk-hjhyyk" id="select2" value="Mon adresse email"/>
+     </p>
+     	<div id="submit_newsletters">
+     		<input type="submit" name="commit" value="Je m'abonne" class="generique_submit" onclick="if(!checkEmail(document.getElementById('select2').value)) { alert('Votre adresse mail est invalide'); return false; }" />     	</div>
+     	
+     	<div class="back_to_search_button generique_submit" style="float: right">Retour ? la recherche</div>
+    </div>
+    
+      </form>
+  <hr class="clr" />
+</div>
+
+    
+            
+<div id="search_form_box" style="display:block;" >
+
+  <form action="/index.php/restaurant/filter" method="post">
+    <div class="boxes" id="search_boxes">
+  		<div id="search_title"><img src="/images/recherche_title.gif" /></div>
+  		<div class="search_btn">
+          	<input type="submit" name="commit" value="Rechercher" />          	<br/>
+          	<a href="#top" class="link bottom_arrow" id="more_options">Recherche avanc?e</a>
+          	<a href="#top" class="link top_arrow" id="less_options" style="display:none;">Recherche simple</a>
+          	<div id="init_box">
+  				<a href="/index.php/restaurant/filter?_reset=" id="reinit">R?initialiser</a>
+  			</div>
+     	</div>
+    
+        <div class="box box3 last" id="search_type">  
+  <select name="restaurant_filters[restaurant_cuisine_id]" id="restaurant_filters_restaurant_cuisine_id"><option value="" selected="selected">Toutes les cuisines</option>
+<option value="42">africaine</option>
+<option value="41">allemande</option>
+<option value="2">am?ricaine</option>
+<option value="3">asiatique</option>
+<option value="37">belge</option>
+<option value="5">biologique</option>
+<option value="6">br?silienne</option>
+<option value="7">chinoise</option>
+<option value="8">espagnole</option>
+<option value="9">fran?aise</option>
+<option value="10">gastronomique</option>
+<option value="11">grecque</option>
+<option value="12">indienne</option>
+<option value="13">internationale</option>
+<option value="15">italienne</option>
+<option value="16">japonaise</option>
+<option value="17">latino-am?ricaine</option>
+<option value="18">libanaise</option>
+<option value="19">luxembourgeoise</option>
+<option value="43">maghr?bine</option>
+<option value="21">m?diterran?enne</option>
+<option value="22">n?palaise</option>
+<option value="33">petite restauration</option>
+<option value="24">portugaise</option>
+<option value="26">suisse</option>
+<option value="27">tha?landaise</option>
+<option value="28">tib?taine</option>
+<option value="35">turque</option>
+<option value="30">v?g?tarienne</option>
+<option value="31">world cuisine</option>
+</select>    
+                                                                  
+   
+</div>  <div class="box box2" id="search_city">
+  <div id="locality_search_area">  
+   	<select name="restaurant_filters[locality_id]" id="restaurant_filters_locality_id"><option value="" selected="selected">Toutes les localit?s </option>
+<option value="75">Luxembourg</option>
+<option value="42">Esch-sur-Alzette</option>
+<option value="1">Ahn</option>
+<option value="237">Allerborn</option>
+<option value="2">Altwies</option>
+<option value="3">Alzingen</option>
+<option value="4">Apach (F)</option>
+<option value="287">Arlon (B)</option>
+<option value="219">Arsdorf</option>
+<option value="5">Aspelt</option>
+<option value="6">Asselborn</option>
+<option value="291">Aubange (B)</option>
+<option value="7">Ay-sur-Moselle (F)</option>
+<option value="8">Baerenthal (F)</option>
+<option value="325">Barvaux-sur-Ourthe (B)</option>
+<option value="9">Bascharage</option>
+<option value="295">Bastogne (B)</option>
+<option value="10">Bavigne</option>
+<option value="11">Beaufort</option>
+<option value="12">Bech</option>
+<option value="13">Bech-Kleinmacher</option>
+<option value="346">Beckerich</option>
+<option value="14">Belvaux</option>
+<option value="307">Benestroff (F)</option>
+<option value="333">Berchem</option>
+<option value="15">Berdorf</option>
+<option value="16">Bereldange</option>
+<option value="217">Bergem</option>
+<option value="173">Beringen</option>
+<option value="255">Berschbach</option>
+<option value="17">Bertrange</option>
+<option value="323">Bertrix (B)</option>
+<option value="169">Bettborn</option>
+<option value="18">Bettembourg</option>
+<option value="221">Bettendorf</option>
+<option value="19">Betzdorf</option>
+<option value="259">Bigonville</option>
+<option value="20">Bissen</option>
+<option value="189">Bivange</option>
+<option value="185">Born</option>
+<option value="319">Bouillon (B)</option>
+<option value="21">Bour</option>
+<option value="22">Bourglinster</option>
+<option value="23">Bourscheid</option>
+<option value="24">Bridel</option>
+<option value="25">Brouch</option>
+<option value="26">Canach</option>
+<option value="27">Capellen</option>
+<option value="348">Cl?mency</option>
+<option value="249">Clemency</option>
+<option value="28">Clervaux</option>
+<option value="29">Clervaux-Reuler</option>
+<option value="233">Colmar-Berg</option>
+<option value="30">Consdorf</option>
+<option value="31">Contern</option>
+<option value="339">Cruchten</option>
+<option value="193">Dahl</option>
+<option value="32">Derenbach</option>
+<option value="283">Dickweiler</option>
+<option value="33">Diekirch</option>
+<option value="34">Differdange</option>
+<option value="231">Dippach</option>
+<option value="223">Doncols</option>
+<option value="35">Dudelange</option>
+<option value="301">Durbuy (B)</option>
+<option value="36">Echternach</option>
+<option value="37">Ehnen</option>
+<option value="38">Eischen</option>
+<option value="39">Ellange</option>
+<option value="40">Erpeldange</option>
+<option value="41">Ersange</option>
+<option value="43">Esch-sur-S?re</option>
+<option value="44">Eschdorf</option>
+<option value="241">Eselborn</option>
+<option value="45">Ettelbruck</option>
+<option value="183">Findel</option>
+<option value="245">Fischbach</option>
+<option value="225">Flaxweiler</option>
+<option value="47">Foetz</option>
+<option value="175">Fouhren</option>
+<option value="48">Frisange</option>
+<option value="49">Gaichel/Eischen</option>
+<option value="181">Garnich</option>
+<option value="197">Gilsdorf</option>
+<option value="199">Godbrange</option>
+<option value="50">Gonderange</option>
+<option value="165">Grevenmacher</option>
+<option value="51">Grosbous</option>
+<option value="52">Grundhof</option>
+<option value="293">Habay-La-Neuve (B)</option>
+<option value="305">Hagondange (F)</option>
+<option value="53">Haller</option>
+<option value="235">Hautcharage</option>
+<option value="171">Heiderscheid</option>
+<option value="277">Heinerscheid</option>
+<option value="344">Heisdorf</option>
+<option value="203">Helmsange</option>
+<option value="55">Hesperange</option>
+<option value="56">Hobscheid</option>
+<option value="285">Hombourg Budange (F)</option>
+<option value="161">Hoscheid</option>
+<option value="247">Hoscheid-Dickt</option>
+<option value="335">Hosingen</option>
+<option value="57">Hostert</option>
+<option value="58">Howald</option>
+<option value="59">Huldange</option>
+<option value="60">Huncherange</option>
+<option value="61">Ingeldorf</option>
+<option value="62">Jouy-aux-Arches (F)</option>
+<option value="63">Junglinster</option>
+<option value="271">Kautenbach</option>
+<option value="191">Kayl</option>
+<option value="195">Kehlen</option>
+<option value="64">Kleinbettingen</option>
+<option value="65">Kockelscheuer</option>
+<option value="66">Kopstal</option>
+<option value="213">Lamadelaine</option>
+<option value="317">Languimberg (F)</option>
+<option value="67">Larochette</option>
+<option value="68">Leesbach</option>
+<option value="215">Lentzweiler</option>
+<option value="69">Leudelange</option>
+<option value="72">Limpertsberg</option>
+<option value="205">Lintgen</option>
+<option value="73">Lipperscheid</option>
+<option value="253">Livange</option>
+<option value="74">Longuyon (F)</option>
+<option value="78">Machtum</option>
+<option value="79">Malling (F)</option>
+<option value="80">Malroy (F)</option>
+<option value="81">Mamer</option>
+<option value="82">Manderen (F)</option>
+<option value="83">Manom (F)</option>
+<option value="299">Marche-en-Famenne (B)</option>
+<option value="84">Marly (F)</option>
+<option value="167">Marnach</option>
+<option value="85">Mersch</option>
+<option value="86">Mertert</option>
+<option value="229">Mertzig</option>
+<option value="87">Metz (F)</option>
+<option value="88">Moesdorf</option>
+<option value="89">Mondercange</option>
+<option value="90">Mondorf-les-Bains</option>
+<option value="91">Montenach (F)</option>
+<option value="92">Moutfort</option>
+<option value="93">M?llendorf</option>
+<option value="94">Mullerthal</option>
+<option value="95">Munsbach</option>
+<option value="96">Nancy (F)</option>
+<option value="303">Nassogne (B)</option>
+<option value="97">Niederanven</option>
+<option value="98">Niedercorn</option>
+<option value="99">Niederfeulen</option>
+<option value="100">Nospelt</option>
+<option value="279">Obereisenbach</option>
+<option value="265">Oberpallen</option>
+<option value="263">Oetrange</option>
+<option value="101">Olm</option>
+<option value="345">Osweiler</option>
+<option value="102">Peppange</option>
+<option value="251">Perl?</option>
+<option value="103">P?tange</option>
+<option value="104">Plappeville (F)</option>
+<option value="243">Pommerloch</option>
+<option value="106">Pont-?-Mousson (F)</option>
+<option value="107">Pontpierre</option>
+<option value="108">Redange-sur-Attert</option>
+<option value="109">Remerschen</option>
+<option value="110">Remich</option>
+<option value="111">Rodange</option>
+<option value="112">Roder</option>
+<option value="114">Roeser</option>
+<option value="327">Rollingen</option>
+<option value="116">Rombach-Martelange</option>
+<option value="117">Roodt-sur-Syre</option>
+<option value="118">Rosport</option>
+<option value="120">Rugy Argancy (F)</option>
+<option value="121">Rumelange</option>
+<option value="313">Saarbr?cken (D)</option>
+<option value="122">Saeul</option>
+<option value="124">Sainte Barbe (F)</option>
+<option value="125">Sandweiler</option>
+<option value="329">Sanem</option>
+<option value="315">Sarrebourg (F)</option>
+<option value="126">Scheidgen</option>
+<option value="347">Schengen</option>
+<option value="209">Schieren</option>
+<option value="127">Schifflange</option>
+<option value="257">Schleif</option>
+<option value="128">Schouweiler</option>
+<option value="239">Schuttrange</option>
+<option value="129">Schwebsange</option>
+<option value="130">Senningen</option>
+<option value="131">Senningerberg</option>
+<option value="134">Sierck-l?s-Bains (F)</option>
+<option value="135">Soleuvre</option>
+<option value="136">Stadtbredimus</option>
+<option value="137">Stegen</option>
+<option value="138">Steinfort</option>
+<option value="139">Steinheim / Echternach</option>
+<option value="201">Steinsel</option>
+<option value="140">Strassen</option>
+<option value="211">Tetange</option>
+<option value="141">Thionville (F)</option>
+<option value="289">Toernich (B)</option>
+<option value="297">Torgny (B)</option>
+<option value="311">Trier (D)</option>
+<option value="142">Troisvierges</option>
+<option value="163">Tuntange</option>
+<option value="331">Urspelt</option>
+<option value="341">Vandoeuvre-les-Nancy (F)</option>
+<option value="143">Vianden</option>
+<option value="144">Wahlhausen</option>
+<option value="145">Waldhaff</option>
+<option value="146">Walferdange</option>
+<option value="273">Wallendorf-Pont</option>
+<option value="281">Warken</option>
+<option value="147">Wasserbillig</option>
+<option value="148">Wecker</option>
+<option value="177">Weicherdange</option>
+<option value="149">Weiler-la-tour</option>
+<option value="275">Weilerbach</option>
+<option value="150">Weiswampach</option>
+<option value="151">Welfrange</option>
+<option value="152">Wemperhardt</option>
+<option value="153">Wiltz</option>
+<option value="154">Wilwerdange</option>
+<option value="155">Windhof</option>
+<option value="156">Winseler</option>
+<option value="309">Woelfling  (F)</option>
+<option value="179">Wormeldange</option>
+<option value="158">Wormeldange-Haut</option>
+<option value="159">Yutz (F)</option>
+<option value="160">Zoufftgen (F)</option>
+</select>                           
+  </div> 
+ 
+</div>    <div id="search_options_area" class="advanced_search_box">
+
+	<select name="more_options_select" id="more_options_select"><option value="reset_all">En plus</option>
+<option value="restaurant_filters_option_photos">Photos</option>
+<option value="restaurant_filters_option_carte">Menu</option>
+<option value="restaurant_filters_option_terrasse">Terrasse</option>
+<option value="restaurant_filters_option_pets">Chiens admis</option>
+<option value="restaurant_filters_option_parking">Parking priv?</option>
+<option value="restaurant_filters_misc_delivery">Livraison</option>
+<option value="restaurant_filters_payment_sodexho">Sodexo</option>
+<option value="restaurant_filters_option_eurotoque">Euro-Toques</option>
+</select>					<script language="javascript">
+			var myArray = ["reset_all","restaurant_filters_option_photos","restaurant_filters_option_carte","restaurant_filters_option_terrasse","restaurant_filters_option_pets","restaurant_filters_option_parking","restaurant_filters_misc_delivery","restaurant_filters_payment_sodexho","restaurant_filters_option_eurotoque"];
+
+			jQuery("#more_options_select").change(function(e) { 
+    			jQuery.each( myArray, function(index, value) { 
+					var reset = '#' + value;
+   			 	 	jQuery(reset).val(0);
+    			});
+
+    			var newSelected = "#" + jQuery('#more_options_select').val();
+
+    			jQuery(newSelected).val(1);
+    			
+ 			});
+		</script>
+     
+
+	<input type="hidden" name="restaurant_filters[option_photos]" id="restaurant_filters_option_photos" /><input type="hidden" name="restaurant_filters[option_carte]" id="restaurant_filters_option_carte" /><input type="hidden" name="restaurant_filters[payment_sodexho]" id="restaurant_filters_payment_sodexho" /><input type="hidden" name="restaurant_filters[option_terrasse]" id="restaurant_filters_option_terrasse" /><input type="hidden" name="restaurant_filters[option_pets]" id="restaurant_filters_option_pets" /><input type="hidden" name="restaurant_filters[option_parking]" id="restaurant_filters_option_parking" /><input type="hidden" name="restaurant_filters[misc_delivery]" id="restaurant_filters_misc_delivery" /><input type="hidden" name="restaurant_filters[option_eurotoque]" id="restaurant_filters_option_eurotoque" />     
+	<script language="javascript">
+	jQuery(document).ready(function() {
+		console.log('change');
+		jQuery("#search_options_area option").eq(0).attr("selected", "selected");
+	});
+	</script>
+</div>  <div class="box box1" id="search_name">
+	<input type="text" id="restaurant_filters_title" name="restaurant_filters[title][text]" value="" /><br /> </div>   <div id="more_options_area" style="display:none;">   
+  
+<div id="members_criteria_area" class="advanced_search_box">
+  <div class="members_criteria_area_content">
+  
+  	<select name="restaurant_filters[member_criteria]" id="restaurant_filters_member_criteria"><option value="null">Crit?re des membres</option>
+<option value="best">Les restaurants les plus comment?s</option>
+<option value="must">Les restaurants les mieux c?t?s</option>
+<option value="top">Les restaurants s?lectionn?s par les experts</option>
+</select>
+  </div>
+</div>  <div class="advanced_search_box">
+    <div id="search_region_area">
+	
+
+  <select name="restaurant_filters[region_id]" id="restaurant_filters_region_id"><option value="" selected="selected">Toutes les r?gions</option>
+<option value="15">R?gion Allemagne</option>
+<option value="13">Prov. du Lux.</option>
+<option value="3">Lorraine</option>
+<option value="1">Capitale</option>
+<option value="2">Centre</option>
+<option value="4">Moselle</option>
+<option value="5">Nord</option>
+<option value="6">Petite Suisse</option>
+<option value="7">Sud</option>
+</select><script type="text/javascript">
+//<![CDATA[
+
+    jQuery("#restaurant_filters_region_id").change(function(){
+     changeMapRegion(jQuery('#restaurant_filters_region_id').val());
+           jQuery('#locality_search_area').empty();
+           jQuery.get('/index.php/search/localityId',
+             { region_id: jQuery('#restaurant_filters_region_id').val() },
+             function(data){
+               jQuery('#locality_search_area').append(data);
+               
+      jQuery('#search_district_area').empty();
+      jQuery.get('/index.php/search/districtId',
+        { locality_id: jQuery('#restaurant_filters_locality_id').val() },
+        function(data){
+          jQuery('#search_district_area').append(data);
+        }
+      );
+    ;
+             }
+           );
+        
+              return false;
+          });
+
+      
+//]]>
+</script></div>     
+    <div id="search_region_map_area">  
+  <img style="border:0;" usemap="#Map" id="map_img" src="/images/carte.png" alt="Carte" />
+  <map name="Map" id="Map">
+                  <area class="area_region nord" id="nord#5" shape="poly" coords="51,8,62,8,64,28,75,41,62,47,36,46,42,26" href="#" />
+                        <area class="area_region moselle" id="moselle#4" shape="poly" coords="76,61,71,78,71,83,81,88,83,71,91,60" href="#" />
+                        <area class="area_region petite_suisse" id="petite_suisse#6" shape="poly" coords="76,42,64,48,67,54,77,60,92,60,93,48" href="#" />
+                        <area class="area_region centre" id="centre#2" shape="poly" coords="37,48,46,64,45,71,70,78,76,60,67,56,63,50,63,48" href="#" />
+                        <area class="area_region sud" id="sud#7" shape="poly" coords="44,72,41,80,53,90,71,83,71,79" href="#" />
+              
+                  <area class="area_region lorraine" id="lorraine#3" shape="circle" coords="58,112,14" href="#" />
+                        <area class="area_region de" id="de#15" shape="circle" coords="92,15,14" href="#" />
+                        <area class="area_region be" id="be#13" shape="circle" coords="14,33,14" href="#" />
+            </map>
+</div>
+
+<script type="text/javascript">
+
+  var regions = Array();
+
+      regions[1] = 'capitale' ;
+      regions[2] = 'centre' ;
+      regions[3] = 'lorraine' ;
+      regions[4] = 'moselle' ;
+      regions[5] = 'nord' ;
+      regions[6] = 'petite_suisse' ;
+      regions[13] = 'be' ;
+      regions[15] = 'de' ;
+      regions[7] = 'sud' ;
+  
+  var selected_map = 'carte.png';
+
+</script>      
+    <div id="search_district_area">
+  </div>  </div>
+        
+</div>
+	 
+      <hr class="clr" />
+    </div>
+  <div class="button_boxes" style='display:none;'>
+    <div class="button_boxes_container">
+
+      <div class="box box1 first">
+                                <!--  a href="#" class="button bottom_arrow go_login "></a-->
+              <!--  a href="#" class="link bottom_arrow go_profile"></a-->
+                        </div>
+
+      <div class="box box2">
+      </div>
+      <hr class="clr" />   
+    </div>
+  </div>
+  </form>
+</div>      
+
+        
+ 
+<div id="login_form_box" style="display:none;">
+  <form action="/index.php/login" method="post">
+    <div class="boxes" id="login_box">
+    
+      <div id="login_form_area" class="header_box">
+        <div id="login_form_area_middle" class="red">                                  
+          
+          <ul id="login_form_fields">      
+            <!-- email -->
+            <li>
+              <label for="signin_username">E-mail</label>              <input type="text" name="signin[username]" id="signin_username" />            </li>               
+            <!-- mot de passe -->
+            <li>                                                                                      
+              <label for="signin_password">Mot de passe</label>              <input type="password" name="signin[password]" id="signin_password" />            </li> 
+            <li id="remember_me">   
+              <input type="checkbox" name="signin[remember]" id="signin_remember" />              <label for="signin_remember">Remember me</label>            </li>         
+            <!-- forgot password -->
+            <li id="forgot_password_link">
+              <a class="go_forgot_password" href="#">Mot de passe oubli? ?</a>
+            </li>        
+          </ul>
+                         
+        </div>  
+      </div>
+      <div class="clear:both;"></div>
+
+    </div>
+    
+    
+    <div class="button_boxes">
+      <div class="button_boxes_container">
+        
+        <div class="box box1 first">      
+            <input type="submit" name="commit" value="S'identifier" class="generique_submit" /> 
+            <a class="link bottom_arrow go_profile generique_submit" href="#">Pas encore membre ?</a>
+        </div>
+        
+                  <div class="box box2">
+          </div> 
+                
+        <div class="box box3 last">
+          <a class="button back_to_search_button generique_submit" href="#">Retour ? la recherche</a> 
+        </div>  
+        <hr class="clr" />          
+      </div>
+    </div>
+    
+    
+  </form>
+
+</div>
+<div id="forgot_password_form_box" style="display:none;">
+
+  <form id="forgot_password_form" action="/index.php/sfGuardAuth/msg_forgot_password">
+
+    <div class="header_box">
+      <div id="login_form_area">
+        <div id="login_form_area_middle">     
+          <ul id="login_form_fields">      
+            <!-- email -->
+            <li>
+              <label for="username">E-mail</label>              <input type="text" name="username" id="username" />            </li>          
+          </ul>            
+        </div>  
+      </div>
+      <div class="clear:both;"></div>  
+    </div>
+                     
+    <div class="button_boxes">
+      <div class="button_boxes_container">   
+        <div class="box box1 first">    
+            <input type="submit" name="commit" value="Nouveau mot de passe" class="generique_submit" />   
+        </div>     
+        <div class="box box2"></div> 
+        <div class="box box3 last">
+          <a class="button back_to_search_button generique_submit" href="#">Retour ? la recherche</a>     
+        </div>  
+        <hr class="clr" />          
+      </div>
+    </div>    
+  
+  </form>
+
+  <script type="text/javascript">
+           
+    function responseForgotPassword(responseText, statusText)  { 
+      jQuery('#top_area_messages').animate({height: "show"}, 800);
+      jQuery('#forgot_password_form_box').animate({height: "hide"}, 800);
+      hideLoginForm();
+      hideProfileForm();
+      hideSearchForm();
+    } 
+    
+    jQuery(document).ready(function() {   
+        
+        $('#forgot_password_form').submit(function() { 
+             var options = { 
+                target:        '#top_area_messages',   
+                success:       responseForgotPassword  
+             };     
+            $(this).ajaxSubmit(options); 
+            return false; 
+        }); 
+        
+    });    
+  </script>  
+
+</div>
+
+    <div class="validation_response_box" style="display:none;">
+
+      <div class="header_box">
+                    <p class="message">
+          Un probl?me est survenu lors de la validation de votre inscription.
+            </p>
+              </div>
+
+      <div class="button_boxes">
+        <div class="button_boxes_container">
+          
+          <div class="box box1 first">  
+                            <a href="#" class="button bottom_arrow go_login2 generique_submit">S'identifier</a><a href="#" class="bottom_arrow go_profile generique_submit">Pas encore membre ?</a>
+                      </div>
+          
+          <div class="box box2">
+          </div> 
+          <div class="box box3 last"><a class="back_to_search_button generique_submit" href="#">Retour ? la recherche</a>                                       
+          </div>  
+          <hr class="clr" />          
+        </div>
+      </div>
+      
+
+    <script type="text/javascript">   
+        
+       jQuery('.go_login2').click(function(){
+            jQuery('.validation_response_box').animate({height: "hide"}, {duration: 800, callback: jQuery('messages').remove('.validation_response_box')});
+            displayLoginForm();
+            return false;
+        });
+        
+       jQuery('.go_profile').click(function(){
+            jQuery('.validation_response_box').animate({height: "hide"}, {duration: 800, callback: jQuery('messages').remove('.validation_response_box')});
+            displayProfileForm();
+            return false;
+        });
+        
+        jQuery('.back_to_search_button').click(function(){
+            jQuery('.validation_response_box').animate({height: "hide"}, {duration: 800, callback: jQuery('messages').remove('.validation_response_box')});
+            displaySearchForm();
+        });
+
+    </script>
+    
+    </div>  
+                      
+<div id="static_area_for_profile_form">           
+            
+
+    
+<div id="profile_form_box" style="display:none;">
+<form action="/index.php/sfGuardAuth/create" method="post" id="profile_ajax_form">
+    
+  <input type="hidden" name="user[id]" id="user_id" />  <input type="hidden" name="user[sf_guard_user_profile][id]" id="user_sf_guard_user_profile_id" />  <input type="hidden" name="user[sf_guard_user_profile][user_id]" id="user_sf_guard_user_profile_user_id" />  <input type="hidden" name="user[is_active]" value="0" id="user_is_active" />  <div id="profile_form_area">  
+                   
+    <div id="profile_form_left_area" class="profile_box red">
+      <div class="profile_box_title">
+  <h2>Profil de base</h2>
+  <p>Tous les champs sont obligatoires</p>
+</div>
+<ul>
+  <li>                                                                             
+    <div class="label">
+      <label for="user_sf_guard_user_profile_first_name">Pr?nom</label>    
+            <div class="clr"></div>
+    </div>
+    <input type="text" name="user[sf_guard_user_profile][first_name]" id="user_sf_guard_user_profile_first_name" />  </li>
+  <li>    
+    <div class="label">
+      <label for="user_sf_guard_user_profile_last_name">Nom</label>    
+            <div class="clr"></div>
+    </div>
+    <input type="text" name="user[sf_guard_user_profile][last_name]" id="user_sf_guard_user_profile_last_name" />  </li>
+  <li id="profile_login_form_area">
+    <div class="label">
+      <label for="user_username">E-mail (ne sera pas affich? sur le site)</label>  
+            <div class="clr"></div>
+    </div>
+    <input type="text" name="user[username]" id="user_username" />    
+    <div class="label">
+      <label for="user_password">Mot de passe</label>    
+            <div class="clr"></div>
+    </div>
+    <input type="password" name="user[password]" value="" id="user_password" />  </li>
+  <li class="checkbox_area">
+              <input type="checkbox" name="user[sf_guard_user_profile][terms]" id="user_sf_guard_user_profile_terms" />      <p class="black">J'accepte les <br /><a href="/index.php/terms">conditions d'utilisation g?n?rales</a> du site</p>
+      
+    <div class="label">
+            <div class="clr"></div>
+    </div>
+      
+      </li>
+</ul>    </div>    
+    <div id="profile_form_middle_area" class="profile_box green">              
+      <div class="profile_box_title">
+            <h2>Personnalisez votre profil</h2>
+            <p>Champs optionnels</p>
+          </div>
+          <ul>
+            <li>
+              <div class="profile_box_col1">
+                <label for="user_sf_guard_user_profile_gender">Genre</label>                                                <select name="user[sf_guard_user_profile][gender]" id="user_sf_guard_user_profile_gender"><option value="0"></option>
+<option value="F">Femme</option>
+<option value="M">Homme</option>
+</select>   
+              </div>
+              <div class="profile_box_col2">
+                <label for="user_sf_guard_user_profile_birth_year">Ann?e de naissance</label>  
+                 
+                                <select name="user[sf_guard_user_profile][birth_year]" id="user_sf_guard_user_profile_birth_year"><option value="0"></option>
+<option value="1912">1912</option>
+<option value="1913">1913</option>
+<option value="1914">1914</option>
+<option value="1915">1915</option>
+<option value="1916">1916</option>
+<option value="1917">1917</option>
+<option value="1918">1918</option>
+<option value="1919">1919</option>
+<option value="1920">1920</option>
+<option value="1921">1921</option>
+<option value="1922">1922</option>
+<option value="1923">1923</option>
+<option value="1924">1924</option>
+<option value="1925">1925</option>
+<option value="1926">1926</option>
+<option value="1927">1927</option>
+<option value="1928">1928</option>
+<option value="1929">1929</option>
+<option value="1930">1930</option>
+<option value="1931">1931</option>
+<option value="1932">1932</option>
+<option value="1933">1933</option>
+<option value="1934">1934</option>
+<option value="1935">1935</option>
+<option value="1936">1936</option>
+<option value="1937">1937</option>
+<option value="1938">1938</option>
+<option value="1939">1939</option>
+<option value="1940">1940</option>
+<option value="1941">1941</option>
+<option value="1942">1942</option>
+<option value="1943">1943</option>
+<option value="1944">1944</option>
+<option value="1945">1945</option>
+<option value="1946">1946</option>
+<option value="1947">1947</option>
+<option value="1948">1948</option>
+<option value="1949">1949</option>
+<option value="1950">1950</option>
+<option value="1951">1951</option>
+<option value="1952">1952</option>
+<option value="1953">1953</option>
+<option value="1954">1954</option>
+<option value="1955">1955</option>
+<option value="1956">1956</option>
+<option value="1957">1957</option>
+<option value="1958">1958</option>
+<option value="1959">1959</option>
+<option value="1960">1960</option>
+<option value="1961">1961</option>
+<option value="1962">1962</option>
+<option value="1963">1963</option>
+<option value="1964">1964</option>
+<option value="1965">1965</option>
+<option value="1966">1966</option>
+<option value="1967">1967</option>
+<option value="1968">1968</option>
+<option value="1969">1969</option>
+<option value="1970">1970</option>
+<option value="1971">1971</option>
+<option value="1972">1972</option>
+<option value="1973">1973</option>
+<option value="1974">1974</option>
+<option value="1975">1975</option>
+<option value="1976">1976</option>
+<option value="1977">1977</option>
+<option value="1978">1978</option>
+<option value="1979">1979</option>
+<option value="1980">1980</option>
+<option value="1981">1981</option>
+<option value="1982">1982</option>
+<option value="1983">1983</option>
+<option value="1984">1984</option>
+<option value="1985">1985</option>
+<option value="1986">1986</option>
+<option value="1987">1987</option>
+<option value="1988">1988</option>
+<option value="1989">1989</option>
+<option value="1990">1990</option>
+<option value="1991">1991</option>
+<option value="1992">1992</option>
+<option value="1993">1993</option>
+<option value="1994">1994</option>
+<option value="1995">1995</option>
+<option value="1996">1996</option>
+<option value="1997">1997</option>
+<option value="1998">1998</option>
+<option value="1999">1999</option>
+<option value="2000">2000</option>
+<option value="2001">2001</option>
+<option value="2002">2002</option>
+<option value="2003">2003</option>
+<option value="2004">2004</option>
+<option value="2005">2005</option>
+<option value="2006">2006</option>
+<option value="2007">2007</option>
+<option value="2008">2008</option>
+<option value="2009">2009</option>
+<option value="2010">2010</option>
+<option value="2011">2011</option>
+<option value="2012">2012</option>
+</select>  
+              </div> 
+              <div class="clr"></div>
+            </li>
+            <li>
+              <label for="user_sf_guard_user_profile_country">Pays de r?sidence</label>  
+                
+              <input type="text" name="user[sf_guard_user_profile][country]" id="user_sf_guard_user_profile_country" />            </li>
+            <li>
+              <label for="user_sf_guard_user_profile_work_place">Lieu de travail</label>  
+                                                                                                                                        
+              <input type="text" name="user[sf_guard_user_profile][work_place]" id="user_sf_guard_user_profile_work_place" />            </li>
+            <li>
+              <label for="user_sf_guard_user_profile_i_like_it">J'adore (50 caract?res max)</label>                            <textarea rows="4" cols="30" name="user[sf_guard_user_profile][i_like_it]" id="user_sf_guard_user_profile_i_like_it"></textarea>            </li>
+            <li class="checkbox_area">
+                                          <input type="checkbox" name="user[sf_guard_user_profile][is_public_profile]" id="user_sf_guard_user_profile_is_public_profile" />              <p class="black">Je suis d'accord d'afficher<br /> ces informations sur mon profil</p>
+            </li>
+          </ul>    </div>            
+    <div id="profile_form_right_area" class="profile_box">
+        <div id="your_profile" class="profile_box_title">
+  <h2>Votre profil</h2>
+  <p>... tel qu'il sera vu sur le site</p>
+</div>
+<div class="profile_white_box">
+  <div class="profile_white_box_top"></div>
+  <div class="profile_white_box_content">
+    <p class="comments">Vous n'?tes pas connect?</p>
+    </div>
+  <div class="profile_white_box_bottom"></div>
+</div>    </div>           
+    <div class="clr"></div>      
+  </div>
+                
+  <div class="button_boxes">
+    <div class="button_boxes_container">
+      
+      <div class="box box1 first">      
+          <input type="submit" name="commit" value="Valider le profil" class="generique_submit" /> 
+           
+            <a class="link left_arrow go_login2" href="#">d?j? membre ?</a>
+                </div>
+      
+      <div class="box box2">
+        <div></div>
+      </div> 
+      <div class="box box3 last">
+          <a class="back_to_search_button generique_submit" href="#">Retour ? la recherche</a>
+          
+      </div>  
+      <hr class="clr" />          
+    </div>
+  </div>
+             
+</form>
+                        
+<script type="text/javascript">
+               
+  function responseProfileFormValidation(responseText, statusText)  {  
+    jQuery('.profile_response_box').animate({height: "show"}, 800);          
+    hideLoginForm();
+    hideSearchForm();
+    hideMessages();
+    return false;
+  } 
+
+  function refreshProfile() {
+    jQuery('#profile_form_right_area').empty(); 
+    jQuery.get(url+'user/refresh',
+       { },
+       function(data){                   
+         jQuery('#profile_form_right_area').append(data);
+       }
+     ); 
+     return false;
+  }
+
+  jQuery(document).ready(function() {                                  
+                                         
+            
+     jQuery('.go_login2').click(function(){    
+          displayLoginForm();      
+          return false;
+      });           
+      
+      jQuery('.back_to_search_button').click(function(){
+          displaySearchForm();
+      });                
+      
+      $('#profile_ajax_form').submit(function() {   
+           var options = { 
+              target:        '#static_area_for_profile_form',   
+              success:       responseProfileFormValidation  
+          }; 
+          $(this).ajaxSubmit(options); 
+          return false; 
+      }); 
+      
+      jQuery('#profile_form_area .checkbox').click(function(){
+        if(!jQuery(this).hasClass('active')) {
+          jQuery(this).addClass('active');
+          jQuery(this).parent().children('input').val(1);
+        }
+        else {
+          jQuery(this).removeClass('active');
+          jQuery(this).parent().children('input').val(0);
+        }
+        return false;
+      });
+      
+      jQuery('img.error').each(function(){
+        jQuery(this).mouseover(function(){
+          jQuery('.box2 div').empty();
+          jQuery('.box2').removeClass('error_box');
+          var error = jQuery(this).parent().children("span.message").text();
+          jQuery('.box2').addClass('error_box');
+          jQuery('.box2 div').text(error);
+        }); 
+        jQuery(this).mouseout(function(){
+          jQuery('.box2 div').empty();
+          jQuery('.box2').removeClass('error_box');
+        }); 
+      });
+         
+  });    
+
+</script>
+
+
+</div>
+  
+
+
+
+</div>	  
+
+      <div id="top_area_messages">
+              </div>
+    </div>
+
+  </div> <!-- headzone -->
+
+  <div id="middlezone">
+
+	  <div id="skyscrapper" style="position: absolute; left:-5000px; " >
+	  <script type='text/javascript'><!--//<![CDATA[
+	   var m3_u = (location.protocol=='https:'?'https://ads.mikekoedinger.com/www/delivery/ajs.php':'http://ads.mikekoedinger.com/www/delivery/ajs.php');
+	   var m3_r = Math.floor(Math.random()*99999999999);
+	   if (!document.MAX_used) document.MAX_used = ',';
+	   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+	   document.write ("?zoneid=126");
+	   document.write ('&amp;cb=' + m3_r);
+	   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+	   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+	   document.write ("&amp;loc=" + escape(window.location));
+	   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+	   if (document.context) document.write ("&context=" + escape(document.context));
+	   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+	   document.write ("'><\/scr"+"ipt>");
+	//]]>--></script><noscript><a href='http://ads.mikekoedinger.com/www/delivery/ck.php?n=a10f8e66&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.mikekoedinger.com/www/delivery/avw.php?zoneid=126&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a10f8e66' border='0' alt='' /></a></noscript>
+	</div>
+
+	<script language=javascript type="text/javascript">
+		$(document).ready(function(){
+		 
+			var sky = document.getElementById("skyscrapper");
+			sky.style.left=980 + (window.innerWidth - 980)/2 + 'px' ;
+			
+			$(window).scroll(function(){
+			
+				var sky = document.getElementById("skyscrapper");
+				sky.style.left=980 + (window.innerWidth - 980)/2 + 'px' ;
+				}); 
+				
+			$(window).resize(function(){
+			
+				var sky = document.getElementById("skyscrapper");
+				sky.style.left=980 + (window.innerWidth - 980)/2 + 'px' ;
+				}); 
+		});
+	</script>	
+	
+    <div class="content" id="content_top">
+
+      
+            <div class="colleft">
+        <div class="yellow-line"></div>
+<div class="news news_hp">
+
+<div class="first_line_title">
+	News	<div id="all_news_link"><a href="/index.php/news/list"><img src="/images/voir_tout.gif" alt="Voir_tout" /></a></div>
+	<a id="news_feed_link" target="_blank" href="http://blog.explorator.lu/feed/" id="rss"><img src="/images/rss.gif" alt="Rss" /></a>
+</div>
+
+<div  style="background-color:#ebe3d5;" id="news_slideshow">
+  
+        <div style="background-color:#ebe3d5; position:absolute; " class="news_slide">
+				<div class="newspic">
+			<a title="Soir?e sp?ciale accord mets et vins" href="/index.php/news/soir-e-sp-cia-accord-mets-et-vins/1900%26"><img src="/uploads/restaurants/thumbnails/home_355*232/blog_1900.jpg" alt="Blog_1900" /></a>		</div>
+		
+		<div class="newscontent">
+          <p class="title"><a href="/index.php/news/soir-e-sp-cia-accord-mets-et-vins/1900%26">Soir?e sp?ciale accord mets et ...</a></p>
+          <p><a href="/index.php/news/soir-e-sp-cia-accord-mets-et-vins/1900%26"> Le restaurant Le Patin d'or organise, le 2 mars, une soir?e sp?ciale autour de ...</a></p>
+        </div>
+    </div>
+	
+        <div style="background-color:#ebe3d5; position:absolute; display:none;" class="news_slide">
+				<div class="newspic">
+			<a title="20 ans de commerce ?quitable" href="/index.php/news/20-ans-commerce-quitab/1896%26"><img src="/uploads/restaurants/thumbnails/home_355*232/blog_1896.jpg" alt="Blog_1896" /></a>		</div>
+		
+		<div class="newscontent">
+          <p class="title"><a href="/index.php/news/20-ans-commerce-quitab/1896%26">20 ans de commerce ?quitable</a></p>
+          <p><a href="/index.php/news/20-ans-commerce-quitab/1896%26"> L'asbl Transfair-Minka, fond?e en 1992, c?l?bre cette ann?e son vingti?me ...</a></p>
+        </div>
+    </div>
+	
+        <div style="background-color:#ebe3d5; position:absolute; display:none;" class="news_slide">
+				<div class="newspic">
+			<a title="Ouverture du Lion d'or ? Strassen" href="/index.php/news/ouverture-lion-or-strassen/1887%26"><img src="/uploads/restaurants/thumbnails/home_355*232/blog_1887.jpg" alt="Blog_1887" /></a>		</div>
+		
+		<div class="newscontent">
+          <p class="title"><a href="/index.php/news/ouverture-lion-or-strassen/1887%26">Ouverture du Lion d'or ? Strassen</a></p>
+          <p><a href="/index.php/news/ouverture-lion-or-strassen/1887%26"> Anciennement l'Epinart, l'?tablissement de la route d'Arlon reprend des couleurs avec ...</a></p>
+        </div>
+    </div>
+		<div class="clr"></div>
+	<div class="img_top_3">
+							    	<div class="top_3_mini ">
+		    		<div class="show_selected"><img src="/images/arrow_selected.png" alt="Arrow_selected" /></div>
+		    		<a title="Soir?e sp?ciale accord mets et vins" href="/index.php/news/soir-e-sp-cia-accord-mets-et-vins/1900"><img src="/uploads/restaurants/thumbnails/home_116*81/blog_1900.jpg" alt="Blog_1900" /></a>		    		<div class="mini_title_top_3">
+		    			Soir?e sp?ciale accord mets et vins		    		</div>
+		    	</div>
+	    								    	<div class="top_3_mini ">
+		    		<div class="show_selected"><img src="/images/arrow_selected.png" alt="Arrow_selected" /></div>
+		    		<a title="20 ans de commerce ?quitable" href="/index.php/news/20-ans-commerce-quitab/1896"><img src="/uploads/restaurants/thumbnails/home_116*81/blog_1896.jpg" alt="Blog_1896" /></a>		    		<div class="mini_title_top_3">
+		    			20 ans de commerce ?quitable		    		</div>
+		    	</div>
+	    								    	<div class="top_3_mini last_mini">
+		    		<div class="show_selected"><img src="/images/arrow_selected.png" alt="Arrow_selected" /></div>
+		    		<a title="Ouverture du Lion d'or ? Strassen" href="/index.php/news/ouverture-lion-or-strassen/1887"><img src="/uploads/restaurants/thumbnails/home_116*81/blog_1887.jpg" alt="Blog_1887" /></a>		    		<div class="mini_title_top_3">
+		    			Ouverture du Lion d'or ? Strassen		    		</div>
+		    	</div>
+	    					<div class="clr"></div>
+	</div>
+</div>
+
+
+<script language="javascript">
+var carrousel = {
+
+		nbSlide : 0,
+		nbCurrent : 0,
+		timeSlide: 3500,
+		elemCurrent : null,
+		elem : null,	
+		timer : null, 
+		
+		init : function(elem){
+			carrousel.elem = elem;
+			
+			carrousel.nbSlide=jQuery(elem).find(".news_slide").length -1;
+
+			carrousel.elemCurrent = jQuery(elem).find('.news_slide:first');
+			
+			/**
+			*	On cr?e le timer, Temps en milisecondes
+			*/
+			$(".show_selected").eq(0).show();
+			carrousel.play();	
+				
+			/**
+			*	Stop qd on passe dessus
+			*/
+			$(elem).hover(carrousel.stop,carrousel.play);
+
+			$(elem).find(".top_3_mini").hover(function(){
+				carrousel.gotoSlideManu($(this).index());
+			});	 
+			
+		},
+		
+		gotoSlideManu : function(int){			
+			carrousel.elemCurrent.fadeOut(0);
+			$(carrousel.elem).find(".news_slide:eq("+int+")").fadeIn(0);
+			carrousel.elemCurrent = jQuery(carrousel.elem).find(".news_slide:eq("+int+")");
+
+			$(carrousel.elem).find(".show_selected").hide();
+			$(carrousel.elem).find(".show_selected").eq(int).show();
+
+			carrousel.nbCurrent = int;
+		},
+	
+		next : function(){
+					
+			carrousel.nbCurrent++;
+			
+			if (carrousel.nbCurrent>carrousel.nbSlide){ 
+				carrousel.nbCurrent = 0; 
+			}
+			carrousel.gotoSlideManu(carrousel.nbCurrent);
+		},
+		
+		play : function(){
+			window.clearInterval(carrousel.timer);
+			carrousel.timer = window.setInterval("carrousel.next()",carrousel.timeSlide);
+		},
+		
+		stop : function(){
+			window.clearInterval(carrousel.timer);
+		}
+	}
+
+	jQuery(function(){
+		carrousel.init("#news_slideshow");	
+	});
+
+</script></div>
+
+<div id="resto">
+</div>
+              </div>
+      
+      <!--  div class="colright">
+                                                                      </div -->
+
+      <hr class="clr" />
+
+              <div class="fullwidth">
+  <div id="view">
+    
+   
+
+<a id="list" class="active" href="/index.php/home/list#view"><span>Affichage par listing</span></a><a id="map" href="/index.php/home/map#view"><span>Affichage par cartographie</span></a>  </div>
+      <h2>Les restaurants comment?s le plus r?cemment</h2>
+    <div class="restcriterias">
+      <div class="criterias">
+          </div>
+      <div class="pagination "> 
+  <a class="previous" href="/index.php/home/list/sort/comment_number/sort_type/desc/page/14#view">Pr?c?dente</a><a href="/index.php/home/list/sort/comment_number/sort_type/desc/page/10#view">10</a> - <a href="/index.php/home/list/sort/comment_number/sort_type/desc/page/11#view">11</a> - <a href="/index.php/home/list/sort/comment_number/sort_type/desc/page/12#view">12</a> - <a href="/index.php/home/list/sort/comment_number/sort_type/desc/page/13#view">13</a> - <a href="/index.php/home/list/sort/comment_number/sort_type/desc/page/14#view">14</a> - 15 - <a href="/index.php/home/list/sort/comment_number/sort_type/desc/page/16#view">16</a> - <a href="/index.php/home/list/sort/comment_number/sort_type/desc/page/17#view">17</a> - <a href="/index.php/home/list/sort/comment_number/sort_type/desc/page/18#view">18</a> - <a href="/index.php/home/list/sort/comment_number/sort_type/desc/page/19#view">19</a><a class="next" href="/index.php/home/list/sort/comment_number/sort_type/desc/page/16#view">Suivante</a>  </div>
+  <div class="clr"></div>
+
+  </div>
+
+      
+  <table class="restlist">
+    <caption><a name="list"></a></caption>      
+    <thead class="">
+      <tr>
+        <th class="resto">
+          <a href="/index.php/home/list/sort/title/page/1/sort_type/asc">Restaurant</a>
+                    </th>
+        <th class="list-thumbnail"></th> 
+        <th class="city">Adresse</th>
+        <th class="kitchen">Cuisine</th>
+        <th class="contact">Contact</th>
+        <th class="comments"><a href="/index.php/home/list/sort/comment_number/page/1/sort_type/asc">Commentaires</a>
+                                  <img src="/images/desc.png" alt="Desc" />                            </th>
+        <th class="votes"><a href="/index.php/home/list/sort/rating_number/page/1/sort_type/desc">Votes</a>
+                </th>   
+        <th class="rate"><a href="/index.php/home/list/sort/avg/page/1/sort_type/desc"><img src="/images/thb_star.png" alt="Thb_star" /></a>
+                </th>
+      </tr>
+    </thead>
+    <tfoot></tfoot>
+    <tbody>         
+        
+            
+      <tr class="odd">             
+  <td class="resto">
+    <a href="/index.php/restaurant/an-der-broutgaas/805">An Der Broutgaass</a>  </td>
+  <td class="list-thumbnail">
+      </td>   
+  <td class="city">
+    Strassen<br />
+      </td>
+  <td class="kitchen">
+    italienne          </td>
+  <td class="contact">                
+    26 31 03 16<br />
+    <br />
+  </td>  
+  <td class="comments">
+    2  </td>
+  <td class="votes">
+    5  </td>
+  <td class="rate">
+      4.1  </td>  
+</tr>                
+        
+            
+      <tr class="even">             
+  <td class="resto">
+    <a href="/index.php/restaurant/casino-de-bonnevoie/913">Casino de Bonnevoie</a>  </td>
+  <td class="list-thumbnail">
+      </td>   
+  <td class="city">
+    Luxembourg<br />
+      </td>
+  <td class="kitchen">
+    petite restauration          </td>
+  <td class="contact">                
+    48 69 83<br />
+    <br />
+  </td>  
+  <td class="comments">
+    2  </td>
+  <td class="votes">
+    2  </td>
+  <td class="rate">
+      2.3  </td>  
+</tr>                
+        
+            
+      <tr class="odd">             
+  <td class="resto">
+    <a href="/index.php/restaurant/chez-anna-et-jean/921">Chez Anna et Jean</a>  </td>
+  <td class="list-thumbnail">
+      </td>   
+  <td class="city">
+    Howald<br />
+      </td>
+  <td class="kitchen">
+    fran?aise          </td>
+  <td class="contact">                
+    48 21 69<br />
+    <br />
+  </td>  
+  <td class="comments">
+    2  </td>
+  <td class="votes">
+    3  </td>
+  <td class="rate">
+      1.8  </td>  
+</tr>                
+        
+            
+      <tr class="even">             
+  <td class="resto">
+    <a href="/index.php/restaurant/deposito-o-sole/981">Deposito (O Sole)</a>  </td>
+  <td class="list-thumbnail">
+      </td>   
+  <td class="city">
+    Kehlen<br />
+      </td>
+  <td class="kitchen">
+              </td>
+  <td class="contact">                
+    26 30 24 90<br />
+    <br />
+  </td>  
+  <td class="comments">
+    2  </td>
+  <td class="votes">
+    3  </td>
+  <td class="rate">
+      3.2  </td>  
+</tr>                
+        
+                </tbody>
+        </table>
+        <div class="tableadvertising">
+    <div class="left red">
+    
+      <p class="title">Explorator 16e ?dition</p>
+      <p><a href="http://www.maisonmoderne.lu/publishing/eshop/explorator" target="_blank">Commandez votre guide Explorator 2011 16e &eacute;dition</a></p>    
+  </div>
+    <div id="leaderboard_inner"><script type='text/javascript'><!--//<![CDATA[
+var m3_u = (location.protocol=='https:'?'https://ads.mikekoedinger.com/www/delivery/ajs.php':'http://ads.mikekoedinger.com/www/delivery/ajs.php');
+var m3_r = Math.floor(Math.random()*99999999999);
+if (!document.MAX_used) document.MAX_used = ',';
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?zoneid=41");
+document.write ('&amp;cb=' + m3_r);
+if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+document.write ("&amp;loc=" + escape(window.location));
+if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+if (document.context) document.write ("&context=" + escape(document.context));
+if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ads.mikekoedinger.com/www/delivery/ck.php?n=aa1394a8&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.mikekoedinger.com/www/delivery/avw.php?zoneid=41&amp;n=aa1394a8' border='0' alt='' /></a></noscript>
+</div>
+</div>        
+  <table class="restlist">
+    <caption><a name="list"></a></caption>      
+    <thead class="hidden_zone">
+      <tr>
+        <th class="resto">
+          <a href="/index.php/home/list/sort/title/page/1/sort_type/asc">Restaurant</a>
+                    </th>
+        <th class="list-thumbnail"></th> 
+        <th class="city">Adresse</th>
+        <th class="kitchen">Cuisine</th>
+        <th class="contact">Contact</th>
+        <th class="comments"><a href="/index.php/home/list/sort/comment_number/page/1/sort_type/asc">Commentaires</a>
+                                  <img src="/images/desc.png" alt="Desc" />                            </th>
+        <th class="votes"><a href="/index.php/home/list/sort/rating_number/page/1/sort_type/desc">Votes</a>
+                </th>   
+        <th class="rate"><a href="/index.php/home/list/sort/avg/page/1/sort_type/desc"><img src="/images/thb_star.png" alt="Thb_star" /></a>
+                </th>
+      </tr>
+    </thead>
+    <tfoot></tfoot>
+    <tbody>           
+            
+      <tr class="odd">             
+  <td class="resto">
+    <a href="/index.php/restaurant/menhir-restaurant-le/1159">Menhir (Restaurant Le)</a>  </td>
+  <td class="list-thumbnail">
+      </td>   
+  <td class="city">
+    Flaxweiler<br />
+      </td>
+  <td class="kitchen">
+    fran?aise          </td>
+  <td class="contact">                
+    26 78 70 70<br />
+    <br />
+  </td>  
+  <td class="comments">
+    2  </td>
+  <td class="votes">
+    7  </td>
+  <td class="rate">
+      4.4  </td>  
+</tr>                
+        
+            
+      <tr class="even">             
+  <td class="resto">
+    <a href="/index.php/restaurant/new-delhi-indian-restaurant/1219">New Delhi Indian Restaurant</a>  </td>
+  <td class="list-thumbnail">
+      </td>   
+  <td class="city">
+    Luxembourg<br />
+      </td>
+  <td class="kitchen">
+    indienne          </td>
+  <td class="contact">                
+    26 89 75 11<br />
+    <br />
+  </td>  
+  <td class="comments">
+    2  </td>
+  <td class="votes">
+    2  </td>
+  <td class="rate">
+      4.8  </td>  
+</tr>                
+        
+            
+      <tr class="odd">             
+  <td class="resto">
+    <a href="/index.php/restaurant/pastificio-la-modenese/1251">Pastificio La Modenese</a>  </td>
+  <td class="list-thumbnail">
+      </td>   
+  <td class="city">
+    Luxembourg<br />
+      </td>
+  <td class="kitchen">
+    italienne          </td>
+  <td class="contact">                
+    29 58 68<br />
+    <br />
+  </td>  
+  <td class="comments">
+    2  </td>
+  <td class="votes">
+    3  </td>
+  <td class="rate">
+      3.2  </td>  
+</tr>                
+        
+            
+      <tr class="even">             
+  <td class="resto">
+    <a href="/index.php/restaurant/restaurant-darjeeling/1289">Restaurant Darjeeling</a>  </td>
+  <td class="list-thumbnail">
+      </td>   
+  <td class="city">
+    Capellen<br />
+      </td>
+  <td class="kitchen">
+    indienne          </td>
+  <td class="contact">                
+    30 71 76<br />
+    <br />
+  </td>  
+  <td class="comments">
+    2  </td>
+  <td class="votes">
+    2  </td>
+  <td class="rate">
+      3.5  </td>  
+</tr>                
+        
+            
+      <tr class="odd">             
+  <td class="resto">
+    <a href="/index.php/restaurant/arena-restaurant-pizzeria/1303">Arena Restaurant Pizzeria</a>  </td>
+  <td class="list-thumbnail">
+      </td>   
+  <td class="city">
+    Frisange<br />
+      </td>
+  <td class="kitchen">
+    italienne          </td>
+  <td class="contact">                
+    26 67 28 32<br />
+    <br />
+  </td>  
+  <td class="comments">
+    2  </td>
+  <td class="votes">
+    4  </td>
+  <td class="rate">
+      3.3  </td>  
+</tr>                
+        
+            
+      <tr class="even">             
+  <td class="resto">
+    <a href="/index.php/restaurant/la-croccante-restaurant-pizzeria/1305">La Croccante Restaurant Pizzeria</a>  </td>
+  <td class="list-thumbnail">
+      </td>   
+  <td class="city">
+    Mamer<br />
+      </td>
+  <td class="kitchen">
+    italienne          </td>
+  <td class="contact">                
+    26 11 93 20<br />
+    <br />
+  </td>  
+  <td class="comments">
+    2  </td>
+  <td class="votes">
+    6  </td>
+  <td class="rate">
+      3.5  </td>  
+</tr>                
+        
+            
+      <tr class="odd">             
+  <td class="resto">
+    <a href="/index.php/restaurant/san-marino-pizzeria-restaurant/1343">San Marino Pizzeria Restaurant</a>  </td>
+  <td class="list-thumbnail">
+      </td>   
+  <td class="city">
+    Differdange<br />
+      </td>
+  <td class="kitchen">
+    italienne          </td>
+  <td class="contact">                
+    58 70 11<br />
+    <br />
+  </td>  
+  <td class="comments">
+    2  </td>
+  <td class="votes">
+    3  </td>
+  <td class="rate">
+      3.0  </td>  
+</tr>                
+        
+            
+      <tr class="even">             
+  <td class="resto">
+    <a href="/index.php/restaurant/restaurant-meckenheck/1455">Restaurant Meckenheck</a>  </td>
+  <td class="list-thumbnail">
+      </td>   
+  <td class="city">
+    Berchem<br />
+      </td>
+  <td class="kitchen">
+    luxembourgeoise          </td>
+  <td class="contact">                
+    36 51 31<br />
+    <br />
+  </td>  
+  <td class="comments">
+    2  </td>
+  <td class="votes">
+    3  </td>
+  <td class="rate">
+      4.7  </td>  
+</tr>                
+        </tbody>
+  </table>    
+    
+  
+    
+  <div class="restcriterias bottom">
+      <div class="criterias">
+          </div>
+      <div class="pagination "> 
+  <a class="previous" href="/index.php/home/list/sort/comment_number/sort_type/desc/page/14#view">Pr?c?dente</a><a href="/index.php/home/list/sort/comment_number/sort_type/desc/page/10#view">10</a> - <a href="/index.php/home/list/sort/comment_number/sort_type/desc/page/11#view">11</a> - <a href="/index.php/home/list/sort/comment_number/sort_type/desc/page/12#view">12</a> - <a href="/index.php/home/list/sort/comment_number/sort_type/desc/page/13#view">13</a> - <a href="/index.php/home/list/sort/comment_number/sort_type/desc/page/14#view">14</a> - 15 - <a href="/index.php/home/list/sort/comment_number/sort_type/desc/page/16#view">16</a> - <a href="/index.php/home/list/sort/comment_number/sort_type/desc/page/17#view">17</a> - <a href="/index.php/home/list/sort/comment_number/sort_type/desc/page/18#view">18</a> - <a href="/index.php/home/list/sort/comment_number/sort_type/desc/page/19#view">19</a><a class="next" href="/index.php/home/list/sort/comment_number/sort_type/desc/page/16#view">Suivante</a>  </div>
+  <div class="clr"></div>
+
+  </div>
+</div>      
+
+
+    </div> <!-- content -->
+  </div> <!-- middlezone -->
+  
+  
+  <div id="footerzone">
+    <div id="footerzone_container">
+        <div class="column first">
+        	copyright<br />
+        	<a target="_blank" href="http://www.maisonmoderne.lu">&copy; Maison Moderne &trade;</a><br />
+        	<br />
+        	Publicit?<br />
+        	<a target="_blank" href="http://www.maisonmoderne.lu/media-sales">Maison moderne media sales</a><br />
+        	<br />
+        	Design &amp; webdev<br />
+        	<a target="_blank" href="http://www.maisonmoderne.lu/design">Maison moderne design</a><br />
+        	<br />
+        	H?berg? par <br />
+        	<a target="_blank" href="http://www.datacenter.eu/">Datacenter luxembourg</a><br />
+        	<br />
+        </div>
+        
+        <div class="column">
+        	<a href="http://www.explorator.lu/index.php/about">Contact / <br />
+        	Suggestions</a><br />
+        	<br />
+        	<a href="http://www.maisonmoderne.lu/publishing/eshop/explorator">Abonnement print</a><br />
+        	<br />
+        	<!-- Subscription <br />
+        	e-newsletter<br /-->
+        	<br />
+        	<a href="http://blog.explorator.lu/feed/">Subscription<br />
+                rss feed</a><br />
+                
+            </div>
+        
+        <div class="column">
+        	Paperjam:<br />
+        	<br />
+        	<a href="http://www.paperjam.lu">Paperjam.lu</a><br />
+        	<br />
+        	<a href="http://www.paperjam.lu/content/type/paperjam_tv">paperjam.tv</a><br />
+        	<br />
+        	<a target="_blank" href="http://paperjam.jobs">paperjam.jobs</a><br />
+        	<br />
+        	<a target="_blank" href="http://www.index.lu">index.lu</a><br />
+        	<br />
+        	<a target="_blank" href="http://grandprix.paperjam.lu">grandprix.paperjam.lu</a><br />
+        	<br />
+        	<a target="_blank" href="http://club.paperjam.lu">club.paperjam.lu</a><br />
+        	<br /><br />
+        	Applications for<br />
+        	Iphone, ipad:<br />
+        	<br />
+        	<a target="_blank" href="http://itunes.apple.com/us/app/index/id437815059?ls=1&amp;mt=8">index</a><br /><br />
+        </div>
+        
+        <div class="column last">
+        	Site de l'?diteur: <br />
+        	<br />
+        	<a target="_blank" href="http://www.maisonmoderne.lu">Maisonmoderne.lu</a><br />
+        	<br />
+        	<a target="_blank" href="http://www.archiduc.lu">archiduc.lu</a><br />
+        	<br />
+             <a target="_blank" href="http://www.citymag.lu">citymag.lu</a><br />
+        	<br />
+        	<a target="_blank" href="http://www.delano.lu">delano.lu</a><br />
+        	<br />
+        	<a target="_blank" href="http://www.index.lu">index.lu</a><br />
+        	<br />
+        	<a target="_blank" href="http://www.nico-magazine.com">nico-magazine.com</a><br />
+        	<br />
+        	<a target="_blank" href="http://www.paperjam.lu">paperJam.lu</a><br />
+        	<br />
+        	<a target="_blank" href="http://www.paperjam.jobs">paperJam.Jobs</a><br />
+        	<br />
+        	<a target="_blank" href="http://www.paperjam.tv">paperJam.TV</a><br />
+        	<div class="clear"></div>
+        </div>
+        <div class="clear"></div>    
+    </div>
+  </div>
+</div> <!-- big wrapper -->
+
+<script type="text/javascript" src="/js/mwTag.js"></script>
+<script type="text/javascript">
+ var keyword="explorator/explo/";var extra="fr";
+
+ metriwebTag ("rtlu-explorator", keyword, extra);
+ // more unique varname for later use
+ var metriwebKeyword = "explo/";
+ </script>
+    
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {                              
+var pageTracker = _gat._getTracker("UA-1316751-13");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

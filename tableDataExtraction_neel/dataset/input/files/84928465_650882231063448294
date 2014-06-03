@@ -1,0 +1,707 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+<head><title>
+	Procura della Repubblica di Perugia
+</title><link href="stileprocure.css" type="text/css" rel="stylesheet" /><link href="stilequest.css" type="text/css" rel="stylesheet" /><link href="menu.css" type="text/css" rel="stylesheet" /></head>
+
+<body> 
+		<form name="aspnetForm" method="post" action="richiestacertprivati.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTA0MzUxNDYyD2QWAmYPZBYCAgMPZBYEAgEPZBYCAgEPFgIeBFRleHQFqgk8c3BhbiBjbGFzcz0ndGl0b2xvbWVudTEnPjxhIGhyZWY9J2phdmFzY3JpcHQ6dm9pZCgwKSc+SG9tZSBQYWdlPC9hPjwvc3Bhbj48dWwgY2xhc3M9J21lbnUxJz48bGkgY2xhc3M9J2RlZic+PGEgaHJlZj0nbmV3X2hvbWUuYXNweCc+UGFnaW5hIFByaW5jaXBhbGU8L2E+PC9saT48L3VsPjxzcGFuIGNsYXNzPSd0aXRvbG9tZW51MSc+PGEgaHJlZj0namF2YXNjcmlwdDp2b2lkKDApJz5TZXJ2aXppIGFsIGNpdHRhZGlubzwvYT48L3NwYW4+PHVsIGNsYXNzPSdtZW51MSc+PGxpIGNsYXNzPSdkZWYnPjxhIGhyZWY9J21hcHBhLmFzcHgnPkRvdmUgc2lhbW88L2E+PC9saT48bGkgY2xhc3M9J2RlZic+PGEgaHJlZj0nY29udGF0dGkuYXNweCc+Q29udGF0dGk8L2E+PC9saT48bGkgY2xhc3M9J2RlZic+PGEgaHJlZj0nZG9jdW1lbnRpLmFzcHgnPk1vZHVsaXN0aWNhPC9hPjwvbGk+PC91bD48c3BhbiBjbGFzcz0ndGl0b2xvbWVudTEnPjxhIGhyZWY9J2phdmFzY3JpcHQ6dm9pZCgwKSc+T3JnYW5penphemlvbmU8L2E+PC9zcGFuPjx1bCBjbGFzcz0nbWVudTEnPjxsaSBjbGFzcz0nZGVmJz48YSBocmVmPSdob21lbWFnaXN0cmF0aS5hc3B4Jz5NYWdpc3RyYXRpPC9hPjwvbGk+PGxpIGNsYXNzPSdkZWYnPjxhIGhyZWY9J2hvbWV1ZmZpY2kuYXNweCc+VWZmaWNpPC9hPjwvbGk+PC91bD48c3BhbiBjbGFzcz0ndGl0b2xvbWVudTEnPjxhIGhyZWY9J2phdmFzY3JpcHQ6dm9pZCgwKSc+Q2VydGlmaWNhdGk8L2E+PC9zcGFuPjx1bCBjbGFzcz0nbWVudTEnPjxsaSBjbGFzcz0nZGVmJz48YSBocmVmPSdjYXNnaXVkLmFzcHgnPkNhc2VsbGFyaW8gR2l1ZGl6aWFsZTwvYT48L2xpPjxsaSBjbGFzcz0nZGVmJz48YSBocmVmPSdjYXJwZW5kZW50aS5hc3B4Jz5DYXJpY2hpIHBlbmRlbnRpPC9hPjwvbGk+PGxpIGNsYXNzPSdkZWYnPjxhIGhyZWY9J2NlcnRpc2NyLmFzcHgnPkNlcnRpZmljYXppb25lIGlzY3Jpemlvbmk8L2E+PC9saT48bGkgY2xhc3M9J2RlZic+PGEgaHJlZj0nY2hpdXNpbmNoLmFzcHgnPkNoaXVzdXJhIGluY2hpZXN0YTwvYT48L2xpPjxsaSBjbGFzcz0nZGVmJz48YSBocmVmPSdudWxsYW9zdGEuYXNweCc+TnVsbGEgb3N0YSByaWxhc2NpbyBjb3BpZTwvYT48L2xpPjxsaSBjbGFzcz0nZGVmJz48YSBocmVmPSd2aXN1cmUuYXNweCc+VmlzdXJlIGRlbCBDYXNlbGxhcmlvPC9hPjwvbGk+PC91bD5kAgUPZBYCAgEPFgIfAAWWCDxzcGFuIGNsYXNzPSd0aXRvbG9tZW51MSc+PGEgaHJlZj0namF2YXNjcmlwdDp2b2lkKDApJz5MaW5rPC9hPjwvc3Bhbj48dWwgY2xhc3M9J21lbnUxJz48bGkgY2xhc3M9J2RlZic+PGEgaHJlZj0naHR0cDovL3d3dy5naXVzdGl6aWEuaXQvbmV3c29ubGluZS8nPk1pbmlzdGVybyBkZWxsYSBHaXVzdGl6aWE8L2E+PC9saT48bGkgY2xhc3M9J2RlZic+PGEgaHJlZj0naHR0cDovL3d3dy5naXVzdGl6aWEuaXQvbGluay9pbmRpY2UuaHRtJz5TaXRpIGRlbGxlIFAuQS48L2E+PC9saT48bGkgY2xhc3M9J2RlZic+PGEgaHJlZj0ndWZmZ2l1ZHVtYnJpLmFzcHgnPlVmZmljaSBHaXVkaXppYXJpIFVtYnJpPC9hPjwvbGk+PGxpIGNsYXNzPSdkZWYnPjxhIGhyZWY9J2h0dHA6Ly93d3cub3JkaW5lYXZ2b2NhdGkucGVydWdpYS5pdC8nPk9yZGluZSBBdnZvY2F0aSBQZXJ1Z2lhPC9hPjwvbGk+PGxpIGNsYXNzPSdkZWYnPjxhIGhyZWY9J2h0dHA6Ly93d3cuZ2F6emV0dGF1ZmZpY2lhbGUuaXQvaW5kZXguanNwJz5HYXp6ZXR0YSBVZmZpY2lhbGU8L2E+PC9saT48bGkgY2xhc3M9J2RlZic+PGEgaHJlZj0naHR0cDovL3d3dy5ub3JtZWlucmV0ZS5pdC8nPk5vcm1lIGluIHJldGU8L2E+PC9saT48bGkgY2xhc3M9J2RlZic+PGEgaHJlZj0naHR0cDovL3d3dy5yZWdpb25lLnVtYnJpYS5pdC9jYW5hbGUuYXNwJz5SZWdpb25lIFVtYnJpYTwvYT48L2xpPjxsaSBjbGFzcz0nZGVmJz48YSBocmVmPSdodHRwOi8vd3d3LnByb3ZpbmNpYS5wZXJ1Z2lhLml0Lyc+UHJvdmluY2lhIFBlcnVnaWE8L2E+PC9saT48bGkgY2xhc3M9J2RlZic+PGEgaHJlZj0naHR0cDovL3d3dy5jb211bmUucGVydWdpYS5pdC8nPkNvbXVuZSBkaSBQZXJ1Z2lhPC9hPjwvbGk+PC91bD48c3BhbiBjbGFzcz0ndGl0b2xvbWVudTEnPjxhIGhyZWY9J2phdmFzY3JpcHQ6dm9pZCgwKSc+UXVlc3Rpb25hcmlvPC9hPjwvc3Bhbj48dWwgY2xhc3M9J21lbnUxJz48bGkgY2xhc3M9J2RlZic+PGEgaHJlZj0ncXVlc3Rpb25hcmlvLmFzcHgnPkxhIHR1YSBvcGluaW9uZTwvYT48L2xpPjwvdWw+ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUdY3RsMDAkTG9naW4xJExvZ2luSW1hZ2VCdXR0b24+N4RqCtfu+QqhSO8z4AfCQXuL+w==" />
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="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" />
+				    <div id="intestazione">
+                    
+                    
+                    <img alt="Intestazione pagina" src="images/intestazione.gif"  />
+                </div>
+                <div class="contienicorpo">
+					<div id="contsinistro">
+                        
+<div class="box-center-sx">
+<span class='titolomenu1'><a href='javascript:void(0)'>Home Page</a></span><ul class='menu1'><li class='def'><a href='new_home.aspx'>Pagina Principale</a></li></ul><span class='titolomenu1'><a href='javascript:void(0)'>Servizi al cittadino</a></span><ul class='menu1'><li class='def'><a href='mappa.aspx'>Dove siamo</a></li><li class='def'><a href='contatti.aspx'>Contatti</a></li><li class='def'><a href='documenti.aspx'>Modulistica</a></li></ul><span class='titolomenu1'><a href='javascript:void(0)'>Organizzazione</a></span><ul class='menu1'><li class='def'><a href='homemagistrati.aspx'>Magistrati</a></li><li class='def'><a href='homeuffici.aspx'>Uffici</a></li></ul><span class='titolomenu1'><a href='javascript:void(0)'>Certificati</a></span><ul class='menu1'><li class='def'><a href='casgiud.aspx'>Casellario Giudiziale</a></li><li class='def'><a href='carpendenti.aspx'>Carichi pendenti</a></li><li class='def'><a href='certiscr.aspx'>Certificazione iscrizioni</a></li><li class='def'><a href='chiusinch.aspx'>Chiusura inchiesta</a></li><li class='def'><a href='nullaosta.aspx'>Nulla osta rilascio copie</a></li><li class='def'><a href='visure.aspx'>Visure del Casellario</a></li></ul>
+</div>
+
+                     </div>
+					<div id="contcentrale">
+		               
+    <span style="font-size: 10pt; color: #000099; font-family: Verdana"><strong>
+
+
+
+							
+							
+								Richiesta certificato - Dati del RICHIEDENTE</strong><br />
+        <span style="font-size: 8pt"><strong>Attenersi scrupolosamente alle <a href="#ind">indicazioni per il ritiro</a></strong></span></span><table border="0" width="100%" id="table3" cellpadding="3" cellspacing="0">
+									<tr>
+										<td>&nbsp;</td>
+										<td colspan="2">
+											<font face="Verdana" size="2">
+												<span id="ctl00_ContentPlaceHolder2_Label2">Il/la sottoscritto/a</span></font>
+										</td>
+										<td>&nbsp;</td>
+										<td>&nbsp;</td>
+										<td>&nbsp;</td>
+									</tr>
+									<tr>
+										<td align="right">
+											<font face="Verdana" size="2">
+												<span id="ctl00_ContentPlaceHolder2_Label1">Cognome</span>
+											</font>
+										</td>
+										<td>
+											<font face="Verdana" size="2">
+												<input name="ctl00$ContentPlaceHolder2$CognomeIn" type="text" maxlength="50" id="ctl00_ContentPlaceHolder2_CognomeIn" />
+											</font>
+										</td>
+										<td style="width: 28px">
+											<font face="Verdana" size="2">
+												&nbsp;
+											</font>
+										</td>
+										<td>&nbsp;</td>
+										<td>&nbsp;</td>
+										<td>&nbsp;</td>
+									</tr>
+									<tr>
+										<td align="right">
+											<font face="Verdana" size="2">
+												<span id="ctl00_ContentPlaceHolder2_Label3">Nome</span>
+											</font>
+										</td>
+										<td>
+											<font face="Verdana" size="2">
+												<input name="ctl00$ContentPlaceHolder2$NomeIn" type="text" maxlength="50" id="ctl00_ContentPlaceHolder2_NomeIn" />
+											</font>
+										</td>
+										<td style="width: 28px">
+											<font face="Verdana" size="2">
+												&nbsp;
+											</font>
+										</td>
+										<td>&nbsp;</td>
+										<td>&nbsp;</td>
+										<td>&nbsp;</td>
+									</tr>
+									<tr>
+										<td align="right">
+											<font face="Verdana" size="2">
+												<span id="ctl00_ContentPlaceHolder2_Label4">Nato/a a</span>
+											</font>
+										</td>
+										<td>
+											<font face="Verdana" size="2">
+												<input name="ctl00$ContentPlaceHolder2$LuogoNascitaIn" type="text" maxlength="50" id="ctl00_ContentPlaceHolder2_LuogoNascitaIn" />
+											</font>
+										</td>
+										<td style="width: 28px">
+											<font face="Verdana" size="2">
+												&nbsp;
+											</font>
+										</td>
+										<td>
+											<font face="Verdana" size="2">
+												<p align="right">
+													<span id="ctl00_ContentPlaceHolder2_Label5">Prov.</span>
+											</font></td>
+										<td><input name="ctl00$ContentPlaceHolder2$ProvinciaIn" type="text" maxlength="2" id="ctl00_ContentPlaceHolder2_ProvinciaIn" />
+										
+										
+										</td>
+										
+										
+										<td>
+											<font face="Verdana" size="2">
+												&nbsp;
+											</font>
+										</td>
+									</tr>
+									<tr>
+										<td align="right"><FONT face="Verdana" size="2">
+												<span id="ctl00_ContentPlaceHolder2_Label12">Stato</span></FONT>
+										</td>
+										<td colspan="3">
+											<select name="ctl00$ContentPlaceHolder2$StatoNascitaIn" id="ctl00_ContentPlaceHolder2_StatoNascitaIn">
+	<option value="-">[Selezionare]</option>
+	<option value="Afghanistan">Afghanistan</option>
+	<option value="Albania">Albania</option>
+	<option value="Algeria">Algeria</option>
+	<option value="American Samoa">American Samoa</option>
+	<option value="Andorra">Andorra</option>
+	<option value="Angola">Angola</option>
+	<option value="Anguilla">Anguilla</option>
+	<option value="Antarctica">Antarctica</option>
+	<option value="Antigua and Barbuda">Antigua and Barbuda</option>
+	<option value="Argentina">Argentina</option>
+	<option value="Armenia">Armenia</option>
+	<option value="Aruba">Aruba</option>
+	<option value="Australia">Australia</option>
+	<option value="Austria">Austria</option>
+	<option value="Azerbaijan">Azerbaijan</option>
+	<option value="Bahamas">Bahamas</option>
+	<option value="Bahrain">Bahrain</option>
+	<option value="Bangladesh">Bangladesh</option>
+	<option value="Barbados">Barbados</option>
+	<option value="Belarus">Belarus</option>
+	<option value="Belgium">Belgium</option>
+	<option value="Belize">Belize</option>
+	<option value="Benin">Benin</option>
+	<option value="Bermuda">Bermuda</option>
+	<option value="Bhutan">Bhutan</option>
+	<option value="Bolivia">Bolivia</option>
+	<option value="Bosnia and Herzegovina">Bosnia and Herzegovina</option>
+	<option value="Botswana">Botswana</option>
+	<option value="Bouvet Island">Bouvet Island</option>
+	<option value="Brazil">Brazil</option>
+	<option value="British Indian Ocean Territory">British Indian Ocean Territory</option>
+	<option value="Brunei Darussalam">Brunei Darussalam</option>
+	<option value="Bulgaria">Bulgaria</option>
+	<option value="Burkina Faso">Burkina Faso</option>
+	<option value="Burundi">Burundi</option>
+	<option value="Cambodia">Cambodia</option>
+	<option value="Cameroon">Cameroon</option>
+	<option value="Canada">Canada</option>
+	<option value="Cape Verde">Cape Verde</option>
+	<option value="Cayman Islands">Cayman Islands</option>
+	<option value="Central African Republic">Central African Republic</option>
+	<option value="Chad">Chad</option>
+	<option value="Chile">Chile</option>
+	<option value="China">China</option>
+	<option value="Christmas Island">Christmas Island</option>
+	<option value="Cocos (Keeling) Islands">Cocos (Keeling) Islands</option>
+	<option value="Colombia">Colombia</option>
+	<option value="Comoros">Comoros</option>
+	<option value="Congo">Congo</option>
+	<option value="Cook Islands">Cook Islands</option>
+	<option value="Costa Rica">Costa Rica</option>
+	<option value="Cote D Ivoire (Ivory Coast)">Cote D Ivoire (Ivory Coast)</option>
+	<option value="Croatia (Hrvatska)">Croatia (Hrvatska)</option>
+	<option value="Cuba">Cuba</option>
+	<option value="Cyprus">Cyprus</option>
+	<option value="Czechoslovakia (former)">Czechoslovakia (former)</option>
+	<option value="Czech Republic">Czech Republic</option>
+	<option value="Denmark">Denmark</option>
+	<option value="Djibouti">Djibouti</option>
+	<option value="Dominica">Dominica</option>
+	<option value="Dominican Republic">Dominican Republic</option>
+	<option value="East Timor">East Timor</option>
+	<option value="Ecuador">Ecuador</option>
+	<option value="Egypt">Egypt</option>
+	<option value="El Salvador">El Salvador</option>
+	<option value="Equatorial Guinea">Equatorial Guinea</option>
+	<option value="Eritrea">Eritrea</option>
+	<option value="Estonia">Estonia</option>
+	<option value="Ethiopia">Ethiopia</option>
+	<option value="Falkland Islands (Malvinas)">Falkland Islands (Malvinas)</option>
+	<option value="Faroe Islands">Faroe Islands</option>
+	<option value="Fiji">Fiji</option>
+	<option value="Finland">Finland</option>
+	<option value="France">France</option>
+	<option value="French Guiana">French Guiana</option>
+	<option value="French Polynesia">French Polynesia</option>
+	<option value="French Southern Territories">French Southern Territories</option>
+	<option value="Gabon">Gabon</option>
+	<option value="Gambia">Gambia</option>
+	<option value="Georgia">Georgia</option>
+	<option value="Germany">Germany</option>
+	<option value="Ghana">Ghana</option>
+	<option value="Gibraltar">Gibraltar</option>
+	<option value="Great Britain (UK)">Great Britain (UK)</option>
+	<option value="Greece">Greece</option>
+	<option value="Greenland">Greenland</option>
+	<option value="Grenada">Grenada</option>
+	<option value="Guadeloupe">Guadeloupe</option>
+	<option value="Guam">Guam</option>
+	<option value="Guatemala">Guatemala</option>
+	<option value="Guinea">Guinea</option>
+	<option value="Guinea-Bissau">Guinea-Bissau</option>
+	<option value="Guyana">Guyana</option>
+	<option value="Haiti">Haiti</option>
+	<option value="Heard and McDonald Islands">Heard and McDonald Islands</option>
+	<option value="Honduras">Honduras</option>
+	<option value="Hong Kong">Hong Kong</option>
+	<option value="Hungary">Hungary</option>
+	<option value="Iceland">Iceland</option>
+	<option value="India">India</option>
+	<option value="Indonesia">Indonesia</option>
+	<option value="Iran">Iran</option>
+	<option value="Iraq">Iraq</option>
+	<option value="Ireland">Ireland</option>
+	<option value="Israel">Israel</option>
+	<option selected="selected" value="Italia">Italia</option>
+	<option value="Jamaica">Jamaica</option>
+	<option value="Japan">Japan</option>
+	<option value="Jordan">Jordan</option>
+	<option value="Kazakhstan">Kazakhstan</option>
+	<option value="Kenya">Kenya</option>
+	<option value="Kiribati">Kiribati</option>
+	<option value="Korea (North)">Korea (North)</option>
+	<option value="Korea (South)">Korea (South)</option>
+	<option value="Kuwait">Kuwait</option>
+	<option value="Kyrgyzstan">Kyrgyzstan</option>
+	<option value="Laos">Laos</option>
+	<option value="Latvia">Latvia</option>
+	<option value="Lebanon">Lebanon</option>
+	<option value="Lesotho">Lesotho</option>
+	<option value="Liberia">Liberia</option>
+	<option value="Libya">Libya</option>
+	<option value="Liechtenstein">Liechtenstein</option>
+	<option value="Lithuania">Lithuania</option>
+	<option value="Luxembourg">Luxembourg</option>
+	<option value="Macau">Macau</option>
+	<option value="Macedonia">Macedonia</option>
+	<option value="Madagascar">Madagascar</option>
+	<option value="Malawi">Malawi</option>
+	<option value="Malaysia">Malaysia</option>
+	<option value="Maldives">Maldives</option>
+	<option value="Mali">Mali</option>
+	<option value="Malta">Malta</option>
+	<option value="Marshall Islands">Marshall Islands</option>
+	<option value="Martinique">Martinique</option>
+	<option value="Mauritania">Mauritania</option>
+	<option value="Mauritius">Mauritius</option>
+	<option value="Mayotte">Mayotte</option>
+	<option value="Mexico">Mexico</option>
+	<option value="Micronesia">Micronesia</option>
+	<option value="Moldova">Moldova</option>
+	<option value="Monaco">Monaco</option>
+	<option value="Mongolia">Mongolia</option>
+	<option value="Montserrat">Montserrat</option>
+	<option value="Morocco">Morocco</option>
+	<option value="Mozambique">Mozambique</option>
+	<option value="Myanmar">Myanmar</option>
+	<option value="Namibia">Namibia</option>
+	<option value="Nauru">Nauru</option>
+	<option value="Nepal">Nepal</option>
+	<option value="Netherlands">Netherlands</option>
+	<option value="Netherlands Antilles">Netherlands Antilles</option>
+	<option value="Neutral Zone">Neutral Zone</option>
+	<option value="New Caledonia">New Caledonia</option>
+	<option value="New Zealand (Aotearoa)">New Zealand (Aotearoa)</option>
+	<option value="Nicaragua">Nicaragua</option>
+	<option value="Niger">Niger</option>
+	<option value="Nigeria">Nigeria</option>
+	<option value="Niue">Niue</option>
+	<option value="Norfolk Island">Norfolk Island</option>
+	<option value="Northern Mariana Islands">Northern Mariana Islands</option>
+	<option value="Norway">Norway</option>
+	<option value="Oman">Oman</option>
+	<option value="Pakistan">Pakistan</option>
+	<option value="Palau">Palau</option>
+	<option value="Panama">Panama</option>
+	<option value="Papua New Guinea">Papua New Guinea</option>
+	<option value="Paraguay">Paraguay</option>
+	<option value="Peru">Peru</option>
+	<option value="Philippines">Philippines</option>
+	<option value="Pitcairn">Pitcairn</option>
+	<option value="Poland">Poland</option>
+	<option value="Portugal">Portugal</option>
+	<option value="Puerto Rico">Puerto Rico</option>
+	<option value="Qatar">Qatar</option>
+	<option value="Reunion">Reunion</option>
+	<option value="Romania">Romania</option>
+	<option value="Russian Federation">Russian Federation</option>
+	<option value="Rwanda">Rwanda</option>
+	<option value="Saint Kitts and Nevis">Saint Kitts and Nevis</option>
+	<option value="Saint Lucia">Saint Lucia</option>
+	<option value="Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</option>
+	<option value="Samoa">Samoa</option>
+	<option value="San Marino">San Marino</option>
+	<option value="Sao Tome and Principe">Sao Tome and Principe</option>
+	<option value="Saudi Arabia">Saudi Arabia</option>
+	<option value="Senegal">Senegal</option>
+	<option value="Seychelles">Seychelles</option>
+	<option value="S. Georgia and S. Sandwich Isls.">S. Georgia and S. Sandwich Isls.</option>
+	<option value="Sierra Leone">Sierra Leone</option>
+	<option value="Singapore">Singapore</option>
+	<option value="Slovak Republic">Slovak Republic</option>
+	<option value="Slovenia">Slovenia</option>
+	<option value="Solomon Islands">Solomon Islands</option>
+	<option value="Somalia">Somalia</option>
+	<option value="South Africa">South Africa</option>
+	<option value="Spain">Spain</option>
+	<option value="Sri Lanka">Sri Lanka</option>
+	<option value="St. Helena">St. Helena</option>
+	<option value="St. Pierre and Miquelon">St. Pierre and Miquelon</option>
+	<option value="Sudan">Sudan</option>
+	<option value="Suriname">Suriname</option>
+	<option value="Svalbard and Jan Mayen Islands">Svalbard and Jan Mayen Islands</option>
+	<option value="Swaziland">Swaziland</option>
+	<option value="Sweden">Sweden</option>
+	<option value="Switzerland">Switzerland</option>
+	<option value="Syria">Syria</option>
+	<option value="Taiwan">Taiwan</option>
+	<option value="Tajikistan">Tajikistan</option>
+	<option value="Tanzania">Tanzania</option>
+	<option value="Thailand">Thailand</option>
+	<option value="Togo">Togo</option>
+	<option value="Tokelau">Tokelau</option>
+	<option value="Tonga">Tonga</option>
+	<option value="Trinidad and Tobago">Trinidad and Tobago</option>
+	<option value="Tunisia">Tunisia</option>
+	<option value="Turkey">Turkey</option>
+	<option value="Turkmenistan">Turkmenistan</option>
+	<option value="Turks and Caicos Islands">Turks and Caicos Islands</option>
+	<option value="Tuvalu">Tuvalu</option>
+	<option value="Uganda">Uganda</option>
+	<option value="Ukraine">Ukraine</option>
+	<option value="United Arab Emirates">United Arab Emirates</option>
+	<option value="United Kingdom">United Kingdom</option>
+	<option value="United States">United States</option>
+	<option value="Uruguay">Uruguay</option>
+	<option value="US Minor Outlying Islands">US Minor Outlying Islands</option>
+	<option value="USSR (former)">USSR (former)</option>
+	<option value="Uzbekistan">Uzbekistan</option>
+	<option value="Vanuatu">Vanuatu</option>
+	<option value="Vatican City State (Holy See)">Vatican City State (Holy See)</option>
+	<option value="Venezuela">Venezuela</option>
+	<option value="Viet Nam">Viet Nam</option>
+	<option value="Virgin Islands (British)">Virgin Islands (British)</option>
+	<option value="Virgin Islands (U.S.)">Virgin Islands (U.S.)</option>
+	<option value="Wallis and Futuna Islands">Wallis and Futuna Islands</option>
+	<option value="Western Sahara">Western Sahara</option>
+	<option value="Yemen">Yemen</option>
+	<option value="Yugoslavia">Yugoslavia</option>
+	<option value="Zaire">Zaire</option>
+	<option value="Zambia">Zambia</option>
+	<option value="Zimbabwe">Zimbabwe</option>
+
+</select>
+											
+											
+											</td>
+										<td colspan="2"><FONT face="Verdana" size="2">
+										<span id="ctl00_ContentPlaceHolder2_Label13"><font color="Red" size="2">obbligatorio per nati estero</font></span></FONT>		
+										</td>
+									</tr>
+									<tr>
+										<td align="right">
+											<font face="Verdana" size="2">
+												<span id="ctl00_ContentPlaceHolder2_Label6"> il</span>
+											</font>
+										</td>
+										<td>
+											<font face="Verdana" size="2">
+												<input name="ctl00$ContentPlaceHolder2$DataNAscitaIn" type="text" maxlength="10" id="ctl00_ContentPlaceHolder2_DataNAscitaIn" />
+											</font>
+										</td>
+										<td colspan="2">
+											<font face="Verdana" size="2">
+												&nbsp;</font>
+										</td>
+										<td>
+											<font face="Verdana" size="2">
+												&nbsp;
+											</font>
+										</td>
+										<td>&nbsp;</td>
+									</tr>
+									<tr>
+										<td align="right">
+											<font face="Verdana" size="2">
+												<span id="ctl00_ContentPlaceHolder2_Label7">Residenza</span>
+											</font>
+										</td>
+										<td colspan="3">
+											<font face="Verdana" size="2">
+												<input name="ctl00$ContentPlaceHolder2$ResidenzaIn" type="text" maxlength="50" id="ctl00_ContentPlaceHolder2_ResidenzaIn" />
+											</font>
+										</td>
+										<td><font face="Verdana" size="2">
+												&nbsp;
+											</font>
+										</td>
+										<td>&nbsp;</td>
+									</tr>
+									<tr>
+										<td align="right"><font face="Verdana" size="2">
+												<span id="ctl00_ContentPlaceHolder2_Label8">Indirizzo</span>
+											</font>
+										</td>
+										<td><input name="ctl00$ContentPlaceHolder2$IndirizzoIn" type="text" maxlength="50" id="ctl00_ContentPlaceHolder2_IndirizzoIn" /></td>
+										<td style="width: 28px"><font face="Verdana" size="2">&nbsp;</font></td>
+										<td>
+											<p align="right">
+												<span id="ctl00_ContentPlaceHolder2_Label10">
+													<font face="Verdana" size="2">Prov.</font></span>&nbsp;</p>
+											
+											
+										</td>
+										<td>
+												<input name="ctl00$ContentPlaceHolder2$ProvinciaResidenzaIn" type="text" maxlength="2" id="ctl00_ContentPlaceHolder2_ProvinciaResidenzaIn" /></td>
+										<td>
+										<font face="Verdana" size="2">
+												&nbsp;</font>
+											
+										</td>
+									</tr>
+                                    <tr>
+                                        <td align="right">
+                                            <span id="ctl00_ContentPlaceHolder2_Label110"><font face="Verdana" size="2">C. F.</font></span></td>
+                                        <td>
+                                            <input name="ctl00$ContentPlaceHolder2$CodFiscaleIn" type="text" maxlength="16" id="ctl00_ContentPlaceHolder2_CodFiscaleIn" /></td>
+                                        <td style="width: 28px">
+                                            &nbsp;</td>
+                                        <td style="text-align: right">
+                                            <span id="ctl00_ContentPlaceHolder2_Label119">
+													<font face="Verdana" size="2">Sesso</font></span>&nbsp;</td>
+                                        <td><select name="ctl00$ContentPlaceHolder2$Sesso" id="ctl00_ContentPlaceHolder2_Sesso">
+	<option value=""></option>
+	<option value="M">M</option>
+	<option value="F">F</option>
+
+</select></td>
+                                        <td>
+                                            &nbsp;</td>
+                                    </tr>
+									
+									
+									
+									<tr>
+										<td align="right">
+											<font face="Verdana" size="2"></font>
+										</td>
+										<td>
+											<font face="Verdana" size="2">
+												<span id="ctl00_ContentPlaceHolder2_Label9">Documento di riconoscimento</span>
+											</font>
+										</td>
+										<td style="width: 28px"><font face="Verdana" size="2"> </font>
+										</td>
+										<td>
+											<font face="Verdana" size="2"></font>
+										</td>
+										<td>
+											&nbsp;</td>
+										<td>
+											&nbsp;</td>
+									</tr>
+									<tr>
+										<td align="right">&nbsp;</td>
+										<td>
+											<select name="ctl00$ContentPlaceHolder2$DocumentoRiconoscimento" id="ctl00_ContentPlaceHolder2_DocumentoRiconoscimento">
+	<option value=""></option>
+	<option value="Carta d'identit?">Carta d'identit&#224;</option>
+	<option value="Passaporto">Passaporto</option>
+	<option value="Patente di guida">Patente di guida</option>
+	<option value="Patente nautica">Patente nautica</option>
+	<option value="Libretto di pensione">Libretto di pensione</option>
+	<option value="Porto d'armi">Porto d'armi</option>
+	<option value="Tessera di riconoscimento">Tessera di riconoscimento</option>
+
+</select>
+										</td>
+										<td style="width: 28px"><font face="Verdana" size="2">
+												&nbsp;</font>
+										</td>
+										<td>
+											<font face="Verdana" size="2">
+												<span id="ctl00_ContentPlaceHolder2_Label15">numero</span>
+											</font>
+										</td>
+										<td>
+											<input name="ctl00$ContentPlaceHolder2$NumeroDocumento" type="text" id="ctl00_ContentPlaceHolder2_NumeroDocumento" />
+										
+										</td>
+										<td>
+										<font face="Verdana" size="2">
+												&nbsp;</font>
+											
+										</td>
+									</tr>
+									<tr>
+										<td align="right">
+											<font face="Times New Roman" size="2">
+												<span id="ctl00_ContentPlaceHolder2_Label16" style="display:inline-block;"><font size="2">rilasciato da</font></span></font>
+										</td>
+										<td>
+											<input name="ctl00$ContentPlaceHolder2$RilasciatoDa" type="text" id="ctl00_ContentPlaceHolder2_RilasciatoDa" />
+										</td>
+										<td style="width: 28px">
+											<font face="Verdana" size="2">
+												&nbsp;</font>
+										</td>
+										<td>
+											<FONT face="Verdana" size="2">
+												<span id="ctl00_ContentPlaceHolder2_Label18">in data</span></FONT>
+										</td>
+										<td>
+											<input name="ctl00$ContentPlaceHolder2$DataRilascio" type="text" id="ctl00_ContentPlaceHolder2_DataRilascio" />
+										
+										</td>
+										<td>
+										<font face="Verdana" size="2">
+												&nbsp;</font>
+											
+										</td>
+									</tr>
+									<tr>
+										<td align="right">
+											<font face="Verdana" size="2">
+												<span id="ctl00_ContentPlaceHolder2_Label20">Telefono</span></font>
+										</td>
+										<td>
+											<input name="ctl00$ContentPlaceHolder2$RecapitoTelefonico" type="text" id="ctl00_ContentPlaceHolder2_RecapitoTelefonico" />
+										</td>
+										<td style="width: 28px">&nbsp;</td>
+										<td>
+											<FONT face="Verdana" size="2">
+												<span id="ctl00_ContentPlaceHolder2_Label22" style="display:inline-block;">E-mail</span>
+											</FONT>
+										</td>
+										<td>
+											<input name="ctl00$ContentPlaceHolder2$PostaElettronica" type="text" id="ctl00_ContentPlaceHolder2_PostaElettronica" />
+										</td>
+										<td>
+											&nbsp;</td>
+									</tr>
+									<tr>
+										<td align="right">
+											<font face="Verdana" size="2">
+												<span id="ctl00_ContentPlaceHolder2_Label14"> richiede il</span>
+											</font>
+										</td>
+										<td colspan="3">
+											<font face="Verdana" size="2">
+												<select name="ctl00$ContentPlaceHolder2$CertificatoIn" id="ctl00_ContentPlaceHolder2_CertificatoIn">
+	<option value=""></option>
+	<option value="certificato generale del casellario">certificato generale del casellario</option>
+	<option value="certificato penale">certificato penale</option>
+	<option value="certificato carichi pendenti">certificato carichi pendenti</option>
+	<option value="certificato civile">certificato civile</option>
+	<option value="certificazione delle iscrizioni nel registro delle notizie di reato">certificazione delle iscrizioni nel registro delle notizie di reato</option>
+	<option value="certificato di chiusura inchiesta">certificato di chiusura inchiesta</option>
+	<option value="nulla osta al rilascio di copie e verbali">nulla osta al rilascio di copie e verbali</option>
+
+</select>
+											</font>
+										</td>
+										<td>&nbsp;<FONT face="Verdana" size="2">
+												&nbsp;</FONT></td>
+										<td>
+											<font face="Verdana" size="2"></font>
+										</td>
+									</tr>
+                                    <tr>
+                                        <td align="right">
+                                            <font face="Verdana" size="2">
+                                                <span id="ctl00_ContentPlaceHolder2_Labelcopie"><font color="Black">n. copie</font></span>
+                                            </font>
+                                        </td>
+                                        <td colspan="3">
+                                            <font face="Verdana" size="2">&nbsp;<input name="ctl00$ContentPlaceHolder2$NumeroCopie" type="text" id="ctl00_ContentPlaceHolder2_NumeroCopie" />
+                                                &nbsp;
+                                                &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;<span id="ctl00_ContentPlaceHolder2_LabelAdo"><font color="Black">uso adozione</font></span><span id="ctl00_ContentPlaceHolder2_SceltaSeUsoAdozione"><input id="ctl00_ContentPlaceHolder2_SceltaSeUsoAdozione_0" type="radio" name="ctl00$ContentPlaceHolder2$SceltaSeUsoAdozione" value="Si" /><label for="ctl00_ContentPlaceHolder2_SceltaSeUsoAdozione_0">Si</label><input id="ctl00_ContentPlaceHolder2_SceltaSeUsoAdozione_1" type="radio" name="ctl00$ContentPlaceHolder2$SceltaSeUsoAdozione" value="No" /><label for="ctl00_ContentPlaceHolder2_SceltaSeUsoAdozione_1">No</label></span>
+                                                &nbsp;</font></td>
+                                        <td>
+                                            &nbsp;<FONT face="Verdana" size="2"> </font>
+                                        </td>
+                                        <td>
+                                            <font face="Verdana" size="2"></font>
+                                        </td>
+                                    </tr>
+							
+							<thead>
+							</thead>
+							<tfoot>
+							</tfoot>
+							<tbody>
+							</tbody>
+						</table>
+						<table>
+							<thead>
+							</thead>
+							<tfoot>
+							</tfoot>
+							<tbody>
+								<tr>
+									<td>&nbsp;</td>
+									<td align="left">&nbsp;&nbsp;<font face="Verdana" size="2">
+											<span id="ctl00_ContentPlaceHolder2_Label24">Delega per il ritiro ?</span></font>
+									</td>
+									<td>&nbsp;<font face="Verdana" size="2">
+											<span id="ctl00_ContentPlaceHolder2_SceltaSeDelegare"><input id="ctl00_ContentPlaceHolder2_SceltaSeDelegare_0" type="radio" name="ctl00$ContentPlaceHolder2$SceltaSeDelegare" value="Si" /><label for="ctl00_ContentPlaceHolder2_SceltaSeDelegare_0">Si</label><input id="ctl00_ContentPlaceHolder2_SceltaSeDelegare_1" type="radio" name="ctl00$ContentPlaceHolder2$SceltaSeDelegare" value="No" /><label for="ctl00_ContentPlaceHolder2_SceltaSeDelegare_1">No</label></span>
+											&nbsp;
+										</font></td>
+									<td>
+										<font face="Verdana" size="2">&nbsp;
+											<input type="submit" name="ctl00$ContentPlaceHolder2$Button1" value="Richiesta prenotazione Certificato" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder2$Button1&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_ContentPlaceHolder2_Button1" /></font></td>
+								</tr>
+								<tr>
+									<TD colspan="4">
+										</td>
+								</tr>
+							</tbody>
+						</table>
+						<div style="width:90%">
+						<font face="Verdana" size="1"><a name="ind"><span style="color: #0000cc"><strong>N</strong></span></a><span
+                            style="color: #0000cc"><strong>. B. - indicazioni per il ritiro</strong></span><br/>
+							Per il ritiro del certificato occorrer? recarsi comunque presso gli uffici 
+							della Procura. Il certificato pu? essere consegnato solo all'intestatario del 
+							certificato (colui che chiede il certificato), che dovr? presentare, oltre al modulo <span style="text-decoration: underline">
+                                da stampare</span> e generato dal sistema <strong><span style="text-decoration: underline">
+                                    firmato dall'intestatario del certificato</span></strong>:<br/>
+							* il documento di identit? indicato nella richiesta di prenotazione certificato<br/>
+							* le marche da bollo e/o per diritti necessarie<br/>
+                            <strong>In caso di delega</strong>:<br />
+							L'interessato pu? delegare un'altra persona per il ritiro del certificato, 
+							compilando il modulo per la delega dopo la richiesta di certificato. Il 
+							delegato dovr? presentare:<br/>
+							* il proprio documento di identit? indicato nella delega<br/>
+							* il modulo di delega <span style="text-decoration: underline">da stampare</span>
+                            generato dal sistema <strong><span style="text-decoration: underline">firmato dall'intestatario
+                                del certificato</span></strong><br/>
+							* la fotocopia del documento di identit? dell'intestatario indicato nella 
+							richiesta<br/>
+							* le marche da bollo e/o per diritti necessarie<br/>
+						</font><FONT face="Verdana" size="1">_________________________________________________________________________________________<br/>
+							<STRONG>Informativa ai sensi del d. lgs. 196/2003</STRONG><br/>
+							Il conferimento dei dati personali richiesti nel presente modulo ? obbligatorio 
+							per la trattazione della formalit? di rilascio dei certificati. I dati saranno 
+							raccolti e trattati dalla Procura della Repubblica di Perugia esclusivamente 
+							per le finalit? inerenti al rilascio delle certificazioni. I diritti di accesso 
+							ai dati medesimi e di rettifica, aggiornamento, cancellazione dei dati erronei, 
+							incompleti o raccolti con modalit? non conformi alla legge, nonch? il diritto 
+							di opporsi al loro trattamento per motivi illegittimi pu? essere esercitato 
+							mediante comunicazione scritta alla Procura della Repubblica di Perugia</FONT>
+						</div>
+					
+                    </div>
+					<div id="contdestro">
+                        
+<div class="box-center-dx">
+<span class='titolomenu1'><a href='javascript:void(0)'>Link</a></span><ul class='menu1'><li class='def'><a href='http://www.giustizia.it/newsonline/'>Ministero della Giustizia</a></li><li class='def'><a href='http://www.giustizia.it/link/indice.htm'>Siti delle P.A.</a></li><li class='def'><a href='uffgiudumbri.aspx'>Uffici Giudiziari Umbri</a></li><li class='def'><a href='http://www.ordineavvocati.perugia.it/'>Ordine Avvocati Perugia</a></li><li class='def'><a href='http://www.gazzettaufficiale.it/index.jsp'>Gazzetta Ufficiale</a></li><li class='def'><a href='http://www.normeinrete.it/'>Norme in rete</a></li><li class='def'><a href='http://www.regione.umbria.it/canale.asp'>Regione Umbria</a></li><li class='def'><a href='http://www.provincia.perugia.it/'>Provincia Perugia</a></li><li class='def'><a href='http://www.comune.perugia.it/'>Comune di Perugia</a></li></ul><span class='titolomenu1'><a href='javascript:void(0)'>Questionario</a></span><ul class='menu1'><li class='def'><a href='questionario.aspx'>La tua opinione</a></li></ul>
+</div>
+
+                        <div class ="login">
+                            <table cellspacing="0" cellpadding="1" border="0" id="ctl00_Login1">
+	<tr>
+		<td><table cellpadding="0" border="0">
+			<tr>
+				<td class="titolologin" align="center">Log In</td>
+			</tr><tr>
+				<td class="textlogin"><label for="ctl00_Login1_UserName">User Name:</label></td>
+			</tr><tr>
+				<td><input name="ctl00$Login1$UserName" type="text" id="ctl00_Login1_UserName" />&nbsp;</td>
+			</tr><tr>
+				<td class="textlogin"><label for="ctl00_Login1_Password">Password:</label></td>
+			</tr><tr>
+				<td><input name="ctl00$Login1$Password" type="password" id="ctl00_Login1_Password" />&nbsp;</td>
+			</tr><tr>
+				<td align="right"><input type="submit" name="ctl00$Login1$LoginButton" value="Log In" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$Login1$LoginButton&quot;, &quot;&quot;, true, &quot;ctl00$Login1&quot;, &quot;&quot;, false, false))" id="ctl00_Login1_LoginButton" class="pulsantelogin" /></td>
+			</tr>
+		</table></td>
+	</tr>
+</table> 
+                        </div>
+                 
+                    </div>
+			</div>
+
+        </form>
+</body>
+</html>
+

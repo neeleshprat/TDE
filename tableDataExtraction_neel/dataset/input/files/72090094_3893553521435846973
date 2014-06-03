@@ -1,0 +1,497 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/layout01.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="all">
+<meta name="description" content="Official website. Updaing the infomation about East Asian Football Chanpionship and so on." />
+<meta name="keywords" content="EAFF,eaff.com,EAST ASIAN FOOTBALL FEDERATION,EAFC,Creating New Football,CHINESE FA,CHINESE TAIPEI FA,GUAM FA,HONG KONG FA ,JAPAN FA,DPR KOREA FA,KOREA FA,MACAU FA,MONGOLIAN FA,NORTHERN MARIANA ISLANDS FA,EAST ASIAN FOOTBALL CHAMPIONSHIP,EAFF WOMEN'S CHAMPIONSHIP" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>CONPETITIONSEAFC2008 & EAFF WOMEN'S FOOTBALL CHAMPIONSHIP 2008 | CONPETITIONS | EAFF : EAST ASIAN FOOTBALL FEDERATION</title>
+<!-- InstanceEndEditable -->
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/swfobject.js"></script>
+<script type="text/javascript" src="/js/pagetop.js"></script>
+<script type="text/javascript" src="/js/easing.js"></script>
+<script type="text/javascript" src="/js/Spritemenu.js"></script>
+<script type='text/javascript'>
+<!--
+$(document).ready(function(){
+	$('#navigation').spritemenu({
+		grid:"/images/navi.jpg",
+		buttonwidth: 154,
+		buttonheight: 36,
+		speed: 'fast',
+		easing: 'easeInQuad',  //You need the easing plugin for anything other than 'swing' or 'linear'
+		animate: 'height'
+	});
+});
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<link href="/css/style.css" rel="stylesheet" type="text/css" />
+<script src="/js/eaff.js" type="text/JavaScript"></script>
+<!-- InstanceBeginEditable name="head" --><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20356968-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<link href="../../css/eafc2008.css" rel="stylesheet" type="text/css" />
+<!-- InstanceEndEditable -->
+</head>
+
+<!-- InstanceBeginEditable name="body" --><body class="pCom"><!-- InstanceEndEditable -->
+<a name="top" id="top"></a>
+<div id="container">
+<div id="contents" class="en">
+    <div id="header">
+        <h1><a href="/index.html"><img src="/images/logo.jpg" width="345" height="56" alt="EAFF EAST ASIAN FOOTBALL FEDERATION" /></a></h1>
+        <div id="headerWrap">
+            <ul>
+                <li id="langEn"><a href="/index.html">ENGLISH</a></li>
+                <li id="langJa"><a href="/j/index.html">???</a></li>
+                <li id="langCn"><a href="/c/index.html">??</a></li>
+                <li id="langKr"><a href="/k/index.html">??</a></li>
+            </ul>
+            <div id="search">
+            <form method="GET" action="http://www.google.co.jp/search">
+            
+                <input type="text" name="q" value="" class="serchText">
+                <input type="submit" name="btnG" value="Google ??" class="serchSubmit">
+                <input type="hidden" name="hl" value="ja">
+                <input type=hidden name="sitesearch" value="eaff.com">
+                <input type="hidden" name="ie" value="utf-8">
+                <input type="hidden" name="oe" value="utf-8">
+                <input type="hidden" name="domains" value="eaff.com"> 
+                
+            </form>
+            </div>
+    	</div>        
+    </div><!-- end #header -->
+
+    <div id="secNavi">
+        <ul id="navigation">
+            <li id="naviOrg"><a href="/organisation/index.html">ORGANISATION</a></li>
+            <li id="naviCom"><a href="/competitions/index.html">COMPETITIONS</a></li>
+            <li id="naviNew"><a href="/eanews/index.html">EA NEWS</a></li>
+            <li id="navi10f"><a href="/10fa/index.html">10FA</a></li>
+            <li id="naviFan"><a href="/fanzone/index.html">FAN ZONE</a></li>   
+        </ul><!-- end #navigation -->
+    </div>
+    <div id="contentsWrap">
+    
+<!-- InstanceBeginEditable name="EditRegion2" -->
+<div id="secTitle">
+<h2 id="secH2"><img src="/images/h2_competitions.gif" alt="COMPETITIONS" /></h2>
+<h3 id="secH3"><img src="/images/h3_competition_eafc2008.gif" alt="EAFC2008 & EAFF WOMEN'S FOOTBALL CHAMPIONSHIP 2008 Final Competition"></h3>
+</div>
+<div id="boxContents02">
+<div id="eafcNaviArea">
+<div id="eafcNavi">
+<ul class="mainMenu">
+<li class="eafc01"><a href="index.html"><span>TOP</span></a></li>
+<li class="eafc02"><a href="message.html"><span>MESSAGE</span></a></li>
+<li class="eafc03" onMouseOver="this.className='eafc03on'" onMouseOut="this.className='eafc03'"><a href="#" class="arrow00"><span>COMPETITON</span></a>
+<ul class="subMenu">
+<li class="men"><a href="competiton_m.html"><span>MEN</span></a></li>
+<li class="women"><a href="competiton_w.html"><span>WOMEN</span></a></li>
+</ul></li>
+<li class="eafc04" onMouseOver="this.className='eafc04on'" onMouseOut="this.className='eafc04'"><a href="#" class="arrow00"><span>TEAM</span></a>
+<ul class="subMenu">
+<li class="men"><a href="team_m.html"><span>MEN</span></a></li>
+<li class="women"><a href="team_w.html"><span>WOMEN</span></a></li>
+</ul></li>
+<li class="eafc05" onMouseOver="this.className='eafc05on'" onMouseOut="this.className='eafc05'"><a href="#" class="arrow00"><span>MATCH &amp; RESULT</span></a>
+<ul class="subMenu">
+<li class="men"><a href="match_result_m.html"><span>MEN</span></a></li>
+<li class="women"><a href="match_result_w.html"><span>WOMEN</span></a></li>
+</ul></li>
+<li class="eafc06"><a href="venue.html"><span>VENUE</span></a></li>
+<li class="eafc07"><a href="ticket.html"><span>TICKET</span></a></li>
+<li class="eafc08"><a href="media/index.html"><span>MEDIA CHANNEL</span></a></li>
+</ul>
+</div></div>
+<div class="cb"><img src="../../img/competition/eafc2008/subtit_02.jpg" /></div>
+<div style="width:716px;background:#F5F5F5;border:2px solid #CCCCCC;margin:30px auto 50px auto;">
+<p><span style="font-size:14px;color:#006600">?Event Outline?</span>
+
+<div class="box680">
+    <div class="mar15">
+      <table cellspacing="10" cellpadding="0" width="662" border="0">
+        <tbody>
+          <tr>
+            <td valign="top" width="30">&nbsp;</td>
+            <td width="80">Designation</td>
+            <td width="552">EAST ASIAN FOOTBALL CHAMPIONSHIP 2008 Final Competition</td>
+          </tr>
+          <tr>
+            <td valign="top" width="30">&nbsp;</td>
+            <td width="80">Host</td>
+            <td width="552">East Asian Football Federation (EAFF)</td>
+          </tr>
+          <tr>
+            <td valign="top" width="30">&nbsp;</td>
+            <td width="80">Organising<br />Association</td>
+            <td width="552" valign="top">Chinese Football Association</td>
+          </tr>
+          <tr>
+            <td valign="top" width="30">&nbsp;</td>
+            <td width="80">Venue</td>
+            <td width="552">Chongqing, China PR (Olympic Sports Center)</td>
+          </tr>
+          <tr>
+            <td valign="top" width="30">&nbsp;</td>
+            <td width="80">Participants</td>
+            <td width="552">China PR, Japan, DPR Korea (Winner of Preliminary Competition), Korea Rep.</td>
+          </tr>
+          <tr>
+            <td valign="top" width="30">&nbsp;</td>
+            <td width="80">Format</td>
+            <td width="552">Round-robin league system including 4 teams (each team will play 3 matches)</td>
+          </tr>
+        </tbody>
+      </table>
+      <table cellspacing="10" cellpadding="0" width="662" border="0">
+        <tbody>
+          <tr>
+            <td valign="top" width="30">&nbsp;</td>
+            <td width="80">Dates and</td>
+            <td width="150" valign="top">Sunday, 17 Feb 2008</td>
+            <td width="40" valign="top">15:30</td>
+            <td width="362" valign="top">China PR vs. Korea Rep.</td>
+          </tr>
+          <tr>
+            <td valign="top" width="30">&nbsp;</td>
+            <td width="80">Match Cards</td>
+            <td width="150">&nbsp;</td>
+            <td width="40">18:15</td>
+            <td width="362">Japan vs. DPR Korea</td>
+          </tr>
+          <tr>
+            <td valign="top" width="30">&nbsp;</td>
+            <td width="80">&nbsp;</td>
+            <td width="150">Wednesday, 20 Feb 2008</td>
+            <td width="40">18:15</td>
+            <td width="362">China PR vs. Japan</td>
+          </tr>
+          <tr>
+            <td valign="top" width="30">&nbsp;</td>
+            <td width="80">&nbsp;</td>
+            <td width="150">&nbsp;</td>
+            <td width="40">20:45</td>
+            <td width="362">DPR Korea vs. Korea Rep.</td>
+          </tr>
+          <tr>
+            <td valign="top" width="30">&nbsp;</td>
+            <td width="80">&nbsp;</td>
+            <td width="150">Saturday, 23 Feb 2008</td>
+            <td width="40">18:15</td>
+            <td width="362">Japan vs. Korea Rep.</td>
+          </tr>
+          <tr>
+            <td valign="top" width="30">&nbsp;</td>
+            <td width="80">&nbsp;</td>
+            <td width="150">&nbsp;</td>
+            <td width="40">20:45</td>
+            <td width="362">China PR vs. DPR Korea</td>
+          </tr>
+          <tr>
+            <td valign="top" width="30">&nbsp;</td>
+            <td width="80">&nbsp;</td>
+            <td colspan="3"><span style="color:#FF0000">The kick off times above are all listed as local times.</span></td>
+          </tr>
+        </tbody>
+      </table>
+      <table cellspacing="10" cellpadding="0" width="662" border="0">
+        <tbody>
+          <tr>
+            <td valign="top" width="30">&nbsp;</td>
+            <td width="80">Prize Money</td>
+            <td width="552">1st: USD 500,000   2nd: USD 300,000   3rd: USD 200,000   4th: USD 150,000</td>
+          </tr>
+          <tr>
+            <td valign="top" width="30">&nbsp;</td>
+            <td width="80">TV Broadcast</td>
+            <td width="552" align="top">Japan: TBS-Network</td>
+          </tr>
+          <tr>
+            <td valign="top" width="30">&nbsp;</td>
+            <td valign="top" width="30">(Tentative)</td>
+            <td width="552">Hong Kong: i-cable</td>
+          </tr>
+          <tr>
+            <td valign="top" width="30">&nbsp;</td>
+            <td width="80">&nbsp;</td>
+            <td width="552">Chinese-Taipei: TV-BS</td>
+          </tr>
+          <tr>
+            <td valign="top" width="30">&nbsp;</td>
+            <td width="80">&nbsp;</td>
+            <td width="552">Indonesia: RCT1</td>
+          </tr>
+          <tr>
+            <td valign="top" width="30">&nbsp;</td>
+            <td width="80">&nbsp;</td>
+            <td width="552">To be broadcast also in China PR, Korea Rep., Vietnam, Thailand, and the United States</td>
+          </tr>
+          <tr>
+            <td valign="top" width="30">&nbsp;</td>
+            <td width="80">&nbsp;</td>
+            <td width="552"></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <br />
+    <div class="mar10">
+      <table cellspacing="0" cellpadding="0" width="611" border="0">
+        <tbody>
+          <tr>
+            <td bgcolor="#000000">
+              <table cellspacing="1" cellpadding="2">
+                <tbody>
+                  <tr>
+                    <td class="pad3" width="105" bgcolor="#ffffff"><div style="text-align:center;border:1px solid #000000;padding:1px"><b>Date</b></div></td>
+                    <td class="pad3" width="50" bgcolor="#ffffff"><div style="text-align:center;border:1px solid #000000;padding:1px"><b>M/W</b></div></td>
+                    <td class="pad3" width="100" bgcolor="#ffffff"><div style="text-align:center;border:1px solid #000000;padding:1px"><b>Kick-off Time</b></div></td>
+                    <td class="pad3" width="190" bgcolor="#ffffff"><div style="text-align:center;border:1px solid #000000;padding:1px"><b>Match Fixture</b></div></td>
+                    <td class="pad3" width="150" bgcolor="#ffffff"><div style="text-align:center;border:1px solid #000000;padding:1px"><b>Venue</b></div></td>
+                  </tr>
+                  <tr>
+                    <td class="pad3" bgcolor="#f6fdf7"  rowspan="2">
+                      <div align="left">17 February (Sun)</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">Men</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">15:30</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">China PR vs Korea Rep.</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff" rowspan="2">
+                      <div align="center">Olympic Sports Center</div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">Men</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">18:15</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">Japan vs DPR Korea</div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="pad3" bgcolor="#f6fdf7"  rowspan="2">
+                      <div align="left">18 February (Mon)</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">Women</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">17:00</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">DPR Korea vs Japan</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff" rowspan="2">
+                      <div align="center">Yongchuan Stadium</div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">Women</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">19:30</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">China PR vs Korea Rep.</div>
+                    </td>
+                  </tr>
+                  <tr bgcolor="#cccccc">
+                    <td class="pad3">
+                      <div align="left">19 February (Tue)</div>
+                    </td>
+                    <td class="pad3" colspan="4">
+                      <div align="center">Rest Day</div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="pad3" bgcolor="#f6fdf7"  rowspan="2">
+                      <div align="left">20 February (Wed)</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">Men</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">18:15</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">China PR vs Japan</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff" rowspan="2">
+                      <div align="center">Olympic Sports Center</div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">Men</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">20:45</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">DPR Korea vs Korea Rep.</div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="pad3" bgcolor="#f6fdf7"  rowspan="2">
+                      <div align="left">21 February (Thu)</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">Women</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">17:00</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">Japan vs Korea Rep.</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff" rowspan="2">
+                      <div align="center">Yongchuan Stadium</div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">Women</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">19:30</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">China PR vs DPR Korea</div>
+                    </td>
+                  </tr>
+                  <tr bgcolor="#cccccc">
+                    <td class="pad3">
+                      <div align="left">22 February (Fri)</div>
+                    </td>
+                    <td class="pad3" colspan="4">
+                      <div align="center">Rest Day</div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="pad3" bgcolor="#f6fdf7"  rowspan="2">
+                      <div align="left">23 February (Sat)</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">Men</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">18:15</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">Japan vs Korea Rep.</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff" rowspan="2">
+                      <div align="center">Olympic Sports Center</div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">Men</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">20:45</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">China PR vs DPR Korea</div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="pad3" bgcolor="#f6fdf7"  rowspan="2">
+                      <div align="left">24 February (Sun)</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">Women</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">14:00</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">Korea Rep. vs DPR Korea</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff" rowspan="2">
+                      <div align="center">Yongchuan Stadium</div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">Women</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">16:30</div>
+                    </td>
+                    <td class="pad3" bgcolor="#ffffff">
+                      <div align="center">China PR vs Japan</div>
+                    </td>
+                  </tr>
+                </tbody>
+            </table></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+<br />
+</div>
+
+</p>
+</div>
+<!-- InstanceEndEditable -->
+</div><!-- end #contentsWrap -->
+</div>
+<div id="footerArea">
+    <div id="footerWrap">
+    	<p id="pagetop"><a href="#" onclick="backToTop(); return false"><img src="/images/pagetop.gif" width="75" height="20" alt="PAGE TOP" /></a></p>
+        <p id="copyright"><img src="/images/copyright.gif" width="316" height="40" alt="Copyright 2003-2010 East Asian Football Federation. All Rights Reserved.Powered by Kodansha,  WINAS,  Ocea" /></p>
+        <ul>
+            <li><a href="/10fafar/index.html">10FA FIXTURES AND RESULTS</a></li><li><a href="/link/index.html">LINK</a></li>
+        </ul>
+    </div>    
+</div>
+</div>
+</body>
+<!-- InstanceEnd --></html>

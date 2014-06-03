@@ -1,0 +1,972 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+
+<script type="text/javascript" src="http://www.michaelgeist.ca/files/mainjuitter/jquery.js"></script>
+<script type="text/javascript" src="http://www.michaelgeist.ca/files/mainjuitter/system.js"></script>
+<script type="text/javascript" src="http://www.michaelgeist.ca/files/mainjuitter/jquery.juitter.js"></script>
+<script type="text/javascript" src="http://www.michaelgeist.ca/files/mainjuitter/gladwell.js"></script>
+
+
+<title>Michael Geist - The ACTA Transparency Scorecard</title>
+<meta name="title" content="The ACTA Transparency Scorecard" />
+<meta name="author" content="Michael Geist" />
+<meta name="description" content="Dr. Michael Geist is the Canada Research Chair of Internet and E-commerce Law at the University of Ottawa., acta transparency scorecard" />
+<meta name="keywords" content="Internet E-commerce Law, acta, anti-counterfeiting trade agreement, copyright, Counterfeiting, Counterfeit," />
+<meta name="Generator" content="Joomla! - Copyright (C) 2005 - 2006 Open Source Matters. All rights reserved." />
+<meta name="robots" content="index, follow" />
+<script type='text/javascript'>
+/*<![CDATA[*/
+	var jax_live_site = 'http://www.michaelgeist.ca/index.php';
+	var jax_site_type = '1.0';
+/*]]>*/
+</script><script type="text/javascript" src="http://www.michaelgeist.ca/mambots/system/pc_includes/ajax_1.2.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.michaelgeist.ca/components/com_jomcomment/style.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.michaelgeist.ca/components/com_jomcomment/templates/chatter/comment_style.css"/>
+
+<script type='text/javascript'>
+/*<![CDATA[*/
+var jc_option           = "com_content";
+var jc_autoUpdate       = "0";
+var jc_update_period    = 0*1000;
+var jc_orderBy          = "1";
+var jc_livesite_busyImg = "http://www.michaelgeist.ca/components/com_jomcomment/busy.gif";
+var jc_username         = "";
+var jc_email            = "";
+var jc_commentForm;
+/*]]>*/
+</script>
+<base href="http://www.michaelgeist.ca/" />
+	<link rel="shortcut icon" href="http://www.michaelgeist.ca/images/favicon.ico" />
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.michaelgeist.ca/rssf_gist.php" />
+<style type="text/css" media="screen">@import "http://www.michaelgeist.ca/templates/michaelgeist_original/css/template_css.css";</style>
+
+
+
+<!--[if gte IE 8]>
+<link rel="stylesheet" type="text/css" href="http://www.michaelgeist.ca/templates/michaelgeist_original/css/ie_8.css" />
+<![endif]-->
+ 
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://www.michaelgeist.ca/templates/michaelgeist_original/css/ie_8.css" />
+<![endif]-->
+
+
+<!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.michaelgeist.ca/templates/michaelgeist_original/css/ie7style.css" />
+<![endif]-->
+
+<!--[if lt IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.michaelgeist.ca/templates/michaelgeist_original/css/ie_55.css" />
+<![endif]-->
+<!--[if gte IE 5]><style type="text/css">body {width:expression( documentElement.clientWidth < 725 ? (documentElement.clientWidth == 0 ? (body.clientWidth < 725 ? "725" : "auto") : "725px") : "auto" );}</style><![endif]-->
+<link href="http://www.michaelgeist.ca/templates/michaelgeist_original/css/wnSm.css" media="screen,print" rel="alternate stylesheet" title="Small Text" type="text/css"/>
+<link href="http://www.michaelgeist.ca/templates/michaelgeist_original/css/wnLg.css" media="screen,print" rel="alternate stylesheet" title="Large Text" type="text/css"/>
+<link href="http://www.michaelgeist.ca/templates/michaelgeist_original/css/wnLg2.css" media="screen,print" rel="alternate stylesheet" title="Larger Text" type="text/css"/>
+</head>
+
+<body>
+
+
+<div id="header">
+	<div id="innerheader">
+		<div id="sitelogogeist"><a href="http://www.michaelgeist.ca/index.php"><img src="http://www.michaelgeist.ca/templates/michaelgeist_original/images/img_geist.gif" alt="Michael Geist" /></a></div>		
+		<div id="sitelogo"><a href="http://www.michaelgeist.ca/index.php"><img src="http://www.michaelgeist.ca/templates/michaelgeist_original/images/img_geisttext2.gif" alt="Michael Geist" /></a></div>		
+				<div class="moduletable_search">
+			
+<form action="index.php?option=com_search" method="get">
+	<div class="search_search">
+		<input name="searchword" id="mod_search_searchword" maxlength="200" alt="search" class="inputbox_search" type="text" size="20" value="Quick Search ..."  onblur="if(this.value=='') this.value='Quick Search ...';" onfocus="if(this.value=='Quick Search ...') this.value='';" /><input type='image' src='templates/michaelgeist_original/images/img_search.gif' class='button_search' /><span class='advanced_search'><a href="http://www.michaelgeist.ca/component/option,com_search/" title="Peform search with more options">Advanced Search</a></span>		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="" />	
+	</div>
+</form>
+		</div>
+				<div class="moduletable_nav">
+			<ul  id="menulist_root_nav" class="mainlevel_nav"><li class="mainlevel_current_nav" id="menuitem_1_nav"><a href="http://www.michaelgeist.ca/content/blogsection/0/125/" class="mainlevel_nav" id="menulink_1_nav">Blog</a><ul  id="menulist_1_nav"><li class="sublevel_nav" id="menuitem_1_1_nav"><a href="http://www.michaelgeist.ca/content/blogsection/0/126/" class="sublevel_nav" id="menulink_1_1_nav">Main</a></li><li class="sublevel_nav" id="menuitem_1_2_nav"><a href="http://www.michaelgeist.ca/component/option,com_topics/task,view/id,0/Itemid,169/" class="sublevel_nav" id="menulink_1_2_nav">Blog Archive</a></li><li class="sublevel_nav" id="menuitem_1_3_nav"><a href="http://www.michaelgeist.ca/content/blogcategory/89/196/" class="sublevel_nav" id="menulink_1_3_nav">Must Reads Archive</a></li><li class="sublevel_nav" id="menuitem_1_4_nav"><a href="http://www.michaelgeist.ca/component/option,com_mustview/Itemid,282/" class="sublevel_nav" id="menulink_1_4_nav">Must Watch Archive</a></li><li class="sublevel_nav" id="menuitem_1_5_nav"><a href="http://www.michaelgeist.ca/tags/acta/99999" class="sublevel_nav" id="menulink_1_5_nav">ACTA</a></li><li class="sublevel_nav" id="menuitem_1_6_nav"><a href="http://www.michaelgeist.ca/index.php?option=com_tags&amp;task=view&amp;tag=c-32&amp;Itemid=411" class="sublevel_nav" id="menulink_1_6_nav">C-32</a></li><li class="sublevel_nav" id="menuitem_1_7_nav"><a href="http://www.michaelgeist.ca/index.php?option=com_tags&amp;task=view&amp;tag=ubb&amp;Itemid=423" class="sublevel_nav" id="menulink_1_7_nav">UBB</a></li><li class="sublevel_nav" id="menuitem_1_8_nav"><a href="http://www.michaelgeist.ca/index.php?option=com_tags&amp;task=view&amp;tag=wlcan&amp;Itemid=424" class="sublevel_nav" id="menulink_1_8_nav">Wikileaks Canada Cables</a></li></ul></li><li class="mainlevel_nav" id="menuitem_2_nav"><a href="http://www.michaelgeist.ca/content/view/62/128/" class="mainlevel_nav" id="menulink_2_nav">About</a><ul  id="menulist_2_nav"><li class="sublevel_nav" id="menuitem_2_1_nav"><a href="http://www.michaelgeist.ca/content/view/62/129/" class="sublevel_nav" id="menulink_2_1_nav">Brief Bio</a></li><li class="sublevel_nav" id="menuitem_2_2_nav"><a href="http://www.michaelgeist.ca/content/view/1/130/" class="sublevel_nav" id="menulink_2_2_nav">Full Bio</a></li><li class="sublevel_nav" id="menuitem_2_3_nav"><a href="http://www.michaelgeist.ca/content/view/1324/162/" class="sublevel_nav" id="menulink_2_3_nav">Photos</a></li><li class="sublevel_nav" id="menuitem_2_4_nav"><a href="http://www.michaelgeist.ca/content/blogcategory/77/147/" class="sublevel_nav" id="menulink_2_4_nav">Print</a></li><li class="sublevel_nav" id="menuitem_2_5_nav"><a href="http://www.michaelgeist.ca/content/blogcategory/67/131/" class="sublevel_nav" id="menulink_2_5_nav">Affiliations</a></li><li class="sublevel_nav" id="menuitem_2_6_nav"><a href="http://www.michaelgeist.ca/content/blogcategory/68/132/" class="sublevel_nav" id="menulink_2_6_nav">Boards & Committees</a></li><li class="sublevel_nav" id="menuitem_2_7_nav"><a href="http://www.michaelgeist.ca/content/blogsection/6/143/" class="sublevel_nav" id="menulink_2_7_nav">Conferences</a></li></ul></li><li class="mainlevel_nav" id="menuitem_3_nav"><a href="http://www.michaelgeist.ca/content/blogcategory/71/135/" class="mainlevel_nav" id="menulink_3_nav">Columns</a><ul  id="menulist_3_nav"><li class="sublevel_nav" id="menuitem_3_1_nav"><a href="http://www.michaelgeist.ca/content/blogcategory/71/161/" class="sublevel_nav" id="menulink_3_1_nav">Recent</a></li><li class="sublevel_nav" id="menuitem_3_2_nav"><a href="http://www.michaelgeist.ca/content/blogsection/13/160/" class="sublevel_nav" id="menulink_3_2_nav">Online</a></li><li class="sublevel_nav" id="menuitem_3_3_nav"><a href="http://www.michaelgeist.ca/content/blogsection/12/159/" class="sublevel_nav" id="menulink_3_3_nav">Archive</a></li></ul></li><li class="mainlevel_nav" id="menuitem_4_nav"><a href="http://www.michaelgeist.ca/content/blogcategory/70/192/" class="mainlevel_nav" id="menulink_4_nav">Publications</a><ul  id="menulist_4_nav"><li class="sublevel_nav" id="menuitem_4_1_nav"><a href="http://www.michaelgeist.ca/content/blogcategory/69/137/" class="sublevel_nav" id="menulink_4_1_nav">Books</a></li><li class="sublevel_nav" id="menuitem_4_2_nav"><a href="http://www.michaelgeist.ca/content/blogcategory/75/138/" class="sublevel_nav" id="menulink_4_2_nav">Book Chapters</a></li><li class="sublevel_nav" id="menuitem_4_3_nav"><a href="http://www.michaelgeist.ca/content/blogcategory/70/139/" class="sublevel_nav" id="menulink_4_3_nav">Scholarship</a></li><li class="sublevel_nav" id="menuitem_4_4_nav"><a href="http://www.michaelgeist.ca/content/blogcategory/72/163/" class="sublevel_nav" id="menulink_4_4_nav">Reports</a></li><li class="sublevel_nav" id="menuitem_4_5_nav"><a href="http://www.michaelgeist.ca/content/blogcategory/73/136/" class="sublevel_nav" id="menulink_4_5_nav">Newsletters</a></li></ul></li><li class="mainlevel_nav" id="menuitem_5_nav"><a href="http://www.michaelgeist.ca/content/blogsection/5/170/" class="mainlevel_nav" id="menulink_5_nav">Teaching</a><ul  id="menulist_5_nav"><li class="sublevel_nav" id="menuitem_5_1_nav"><a href="http://www.michaelgeist.ca/content/view/2504/281/" class="sublevel_nav" id="menulink_5_1_nav">Regulation of Internet Commerce</a></li><li class="sublevel_nav" id="menuitem_5_2_nav"><a href="http://www.michaelgeist.ca/content/blogcategory/103/280/" class="sublevel_nav" id="menulink_5_2_nav">ROIC Blog</a></li></ul></li><li class="mainlevel_nav" id="menuitem_6_nav"><a href="http://www.michaelgeist.ca/content/blogsection/7/146/" class="mainlevel_nav" id="menulink_6_nav">Multimedia</a><ul  id="menulist_6_nav"><li class="sublevel_nav" id="menuitem_6_1_nav"><a href="http://www.michaelgeist.ca/content/blogcategory/92/164/" class="sublevel_nav" id="menulink_6_1_nav">Podcasts</a></li><li class="sublevel_nav" id="menuitem_6_2_nav"><a href="http://www.michaelgeist.ca/content/blogcategory/80/148/" class="sublevel_nav" id="menulink_6_2_nav">Audio Clips</a></li><li class="sublevel_nav" id="menuitem_6_3_nav"><a href="http://www.michaelgeist.ca/content/blogcategory/81/149/" class="sublevel_nav" id="menulink_6_3_nav">Video Clips</a></li></ul></li><li class="mainlevel_nav" id="menuitem_7_nav"><a href="http://www.michaelgeist.ca/content/view/1320/150/" class="mainlevel_nav" id="menulink_7_nav">Websites</a><ul  id="menulist_7_nav"><li class="sublevel_nav" id="menuitem_7_1_nav"><a href="http://www.michaelgeist.ca/content/view/1320/151/" class="sublevel_nav" id="menulink_7_1_nav">MichaelGeist.ca</a></li><li class="sublevel_nav" id="menuitem_7_2_nav"><a href="http://www.michaelgeist.ca/content/view/1325/165/" class="sublevel_nav" id="menulink_7_2_nav">PrivacyInfo.ca</a></li><li class="sublevel_nav" id="menuitem_7_3_nav"><a href="http://www.michaelgeist.ca/content/view/1326/166/" class="sublevel_nav" id="menulink_7_3_nav">Techlawed.org</a></li><li class="sublevel_nav" id="menuitem_7_4_nav"><a href="http://www.michaelgeist.ca/content/view/766/152/" class="sublevel_nav" id="menulink_7_4_nav">ccTLDinfo.com</a></li><li class="sublevel_nav" id="menuitem_7_5_nav"><a href="http://www.michaelgeist.ca/content/view/1327/167/" class="sublevel_nav" id="menulink_7_5_nav">UDRPinfo.com</a></li></ul></li><li class="mainlevel_nav" id="menuitem_8_nav"><a href="http://www.michaelgeist.ca/content/view/767/157/" class="mainlevel_nav" id="menulink_8_nav">Contact</a></li></ul>		</div>
+				
+	</div>
+</div>
+
+<div id="wrapper"  >
+
+	<div id="top">
+				<div class="moduletable_syndicate">
+			<ul id="mainlevel"><li><img src="http://www.michaelgeist.ca/images/stories/img_rss.gif" border="0" alt="RSS"/> <a href="http://feeds.feedburner.com/MichaelGeistsBlog" class="mainlevel" >RSS</a></li><li><img src="http://www.michaelgeist.ca/images/stories/img_rss.gif" border="0" alt="Postings via Email"/> <a href="http://www.feedburner.com/fb/a/emailverifySubmit?feedId=719125" target="_blank" class="mainlevel" >Postings via Email</a></li><li><img src="http://www.michaelgeist.ca/images/stories/img_rss.gif" border="0" alt="Comments"/> <a href="http://www.michaelgeist.ca/rsscomments" class="mainlevel" >Comments</a></li></ul>		</div>
+				<div class="moduletable_switcher">
+			<script type="text/javascript" src="http://www.michaelgeist.ca/modules/mod_styleswitcher/styleswitcher.js"></script>
+
+<span class="styleswitcher_switcher">
+<span class="styleswitcher_title_switcher">Text:</span> 
+<a href='#' onclick='setActiveStyleSheet("Small Text", 1);return false;'><img alt='Small Text ' height='18' src='http://www.michaelgeist.ca/images/icon_text_sm.gif' title='Small Text' width='18' /></a><a href='#' onclick='setActiveStyleSheet("Normal Text", 1);return false;'><img alt=' Normal Text ' height='18' src='http://www.michaelgeist.ca/images/icon_text_med.gif' title=' Normal Text' width='18' /></a><a href='#' onclick='setActiveStyleSheet("Large Text", 1);return false;'><img alt=' Large Text ' height='18' src='http://www.michaelgeist.ca/images/icon_text_lg.gif' title=' Large Text' width='18' /></a><a href='#' onclick='setActiveStyleSheet("Larger Text", 1);return false;'><img alt=' Larger Text ' height='18' src='http://www.michaelgeist.ca/images/icon_text_lg2.gif' title=' Larger Text' width='18' /></a></span>
+			</div>
+				<div class="moduletable_pathway">
+			<ul class="pathway"><li><a href="http://www.michaelgeist.ca/content/blogsection/0/125/" class="pathway">Blog</a></li><li>The ACTA Transparency Scorecard</li></ul>		</div>
+				
+	</div>
+			
+	<div id="left">		<div class="moduletable_speakoutoncopyright">
+			
+
+
+		<a href="http://www.speakoutoncopyright.ca">
+	 
+
+	<img class="_speakoutoncopyright" src="images/speakoutoncopyright.png">
+
+		</a>
+	
+
+
+
+
+
+
+
+		</div>
+				<div class="moduletable_c-32">
+							<h3>
+					Bill C-32 (Copyright Reform)				</h3>
+				<ul class='latestnews_c-32'>
+<li class='latestnews_c-32'><h4><a href='http://www.michaelgeist.ca/content/view/6033/125/' class='latestnews_c-32' rel="bookmark">Copyright Is Back: Why Canada is Keeping the Flawed Digital Lock Rules</a></h4><span class='latestnews_date_c-32'>Sep.29/11</span></li>
+<li class='latestnews_c-32'><h4><a href='http://www.michaelgeist.ca/content/view/6032/125/' class='latestnews_c-32' rel="bookmark">Behind the Scenes of Bill C-32: Music Copyright Collectives Say Digital Locks Won't Increase Revenue</a></h4><span class='latestnews_date_c-32'>Sep.28/11</span></li>
+<li class='latestnews_c-32'><h4><a href='http://www.michaelgeist.ca/content/view/6031/125/' class='latestnews_c-32' rel="bookmark">Behind the Scenes of Bill C-32: The Committee Submissions</a></h4><span class='latestnews_date_c-32'>Sep.28/11</span></li>
+<li class='latestnews_c-32'><h4><a href='http://www.michaelgeist.ca/content/view/6028/125/' class='latestnews_c-32' rel="bookmark">Copyright is Back as Bill To Be Tabled on Thursday</a></h4><span class='latestnews_date_c-32'>Sep.27/11</span></li>
+<li class='latestnews_c-32'><h4><a href='http://www.michaelgeist.ca/content/view/6026/125/' class='latestnews_c-32' rel="bookmark">Behind the Scenes of Bill C-32: Govt's Clause-By-Clause Analysis Raises Constitutional Questions </a></h4><span class='latestnews_date_c-32'>Sep.27/11</span></li></ul>		</div>
+				<div class="moduletable_recent">
+							<h3>
+					ACTA - Latest News				</h3>
+				<a class='latestnews_readmore_recent' href='http://www.michaelgeist.ca/tags/acta/99999' title='Read more'>ACTA - Latest News</a><ul class='latestnews_recent'>
+<li class='latestnews_recent'><h4><a href='http://www.michaelgeist.ca/content/view/6305/125/' class='latestnews_recent' rel="bookmark">Will Canada - China Changes Include a Shift on Intellectual Property?</a></h4><span class='latestnews_date_recent'>Feb.07/12</span></li>
+<li class='latestnews_recent'><h4><a href='http://www.michaelgeist.ca/content/view/6304/196/' class='latestnews_recent' rel="bookmark">Why ACTA Could Be As Bad As SOPA</a></h4><span class='latestnews_date_recent'>Feb.07/12</span></li>
+<li class='latestnews_recent'><h4><a href='http://www.michaelgeist.ca/content/view/6296/196/' class='latestnews_recent' rel="bookmark">ACTA Protests Escalate Throughout Europe</a></h4><span class='latestnews_date_recent'>Feb.06/12</span></li>
+<li class='latestnews_recent'><h4><a href='http://www.michaelgeist.ca/content/view/6292/196/' class='latestnews_recent' rel="bookmark">Poland Suspends ACTA Ratification</a></h4><span class='latestnews_date_recent'>Feb.03/12</span></li>
+<li class='latestnews_recent'><h4><a href='http://www.michaelgeist.ca/content/view/6291/125/' class='latestnews_recent' rel="bookmark">Beyond SOPA: ACTA, WIPO, and the Global Copyfight</a></h4><span class='latestnews_date_recent'>Feb.03/12</span></li>
+<li class='latestnews_recent'><h4><a href='http://www.michaelgeist.ca/content/view/6290/196/' class='latestnews_recent' rel="bookmark">"Why I Signed ACTA"</a></h4><span class='latestnews_date_recent'>Feb.03/12</span></li>
+<li class='latestnews_recent'><h4><a href='http://www.michaelgeist.ca/content/view/6283/196/' class='latestnews_recent' rel="bookmark">MEP Says ACTA Goes Too Far</a></h4><span class='latestnews_date_recent'>Feb.02/12</span></li>
+<li class='latestnews_recent'><h4><a href='http://www.michaelgeist.ca/content/view/6277/196/' class='latestnews_recent' rel="bookmark">European Opposition to ACTA Continues to Mount</a></h4><span class='latestnews_date_recent'>Feb.01/12</span></li>
+<li class='latestnews_recent'><h4><a href='http://www.michaelgeist.ca/content/view/6275/125/' class='latestnews_recent' rel="bookmark">Ten Key Questions and Answers About Bill C-11, SOPA, ACTA, and the TPP</a></h4><span class='latestnews_date_recent'>Jan.31/12</span></li>
+<li class='latestnews_recent'><h4><a href='http://www.michaelgeist.ca/content/view/6270/125/' class='latestnews_recent' rel="bookmark">Thousands Take to the Streets to Protest ACTA</a></h4><span class='latestnews_date_recent'>Jan.29/12</span></li></ul>		</div>
+				<div class="moduletable_cal">
+							<h3>
+					Blog Archive				</h3>
+				<div class="calheader"><a href='index.php?option=com_content&task=view&id=&Itemid=125&isbydate=1&svt_date=2011-02-01'><img src='images/calarrow_dblleft.gif' alt='Prev' /></a><a href='index.php?option=com_content&task=view&id=&Itemid=125&isbydate=1&svt_date=2012-01-01'><img src='images/calarrow_left.gif' alt='Prev' /></a><a href='index.php?option=com_topics&Itemid=169&&startmonth=2&startyear=2012&endmonth=2&endyear=2012&svt_date=2012-02-01' title='View all blog entries for this month'>February</a> 2012<a href='index.php?option=com_content&task=view&id=&Itemid=125&isbydate=1&svt_date=2012-03-01'><img src='images/calarrow_right.gif' alt='Next' /></a><a href='index.php?option=com_content&task=view&id=&Itemid=125&isbydate=1&svt_date=2013-02-01'><img src='images/calarrow_dblright.gif' alt='Next' /></a></div><table width='100%' align='center'><tr class="headerrow"><td>S</td><td>M</td><td>T</td><td>W</td><td>T</td><td>F</td><td>S</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td><a href='http://www.michaelgeist.ca/component/option,com_blogsidebar/task,blogsection/id,/Itemid,125/isbydate,1/svt_date,2012-02-01/'>1</a></td><td><a href='http://www.michaelgeist.ca/component/option,com_blogsidebar/task,blogsection/id,/Itemid,125/isbydate,1/svt_date,2012-02-02/'>2</a></td><td><a href='http://www.michaelgeist.ca/component/option,com_blogsidebar/task,blogsection/id,/Itemid,125/isbydate,1/svt_date,2012-02-03/'>3</a></td><td>4</td></tr><tr><td>5</td><td><a href='http://www.michaelgeist.ca/component/option,com_blogsidebar/task,blogsection/id,/Itemid,125/isbydate,1/svt_date,2012-02-06/'>6</a></td><td><a href='http://www.michaelgeist.ca/component/option,com_blogsidebar/task,blogsection/id,/Itemid,125/isbydate,1/svt_date,2012-02-07/'>7</a></td><td><a href='http://www.michaelgeist.ca/component/option,com_blogsidebar/task,blogsection/id,/Itemid,125/isbydate,1/svt_date,2012-02-08/'>8</a></td><td>9</td><td>10</td><td>11</td></tr><tr><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td></tr><tr><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td></tr><tr><td>26</td><td>27</td><td>28</td><td>29</td></tr></table>		</div>
+		</div>
+		
+	
+	
+	<div id="centrecontent">
+		<div id="innercenter">
+                    
+
+
+
+
+
+			<script src="http://www.michaelgeist.ca/components/com_jomcomment/script.js?1.8.9" type="text/javascript"></script>
+<script src="http://www.michaelgeist.ca/index2.php?option=com_jomcomment&amp;task=userinfo&amp;no_html=1" type="text/javascript"></script>
+
+
+ 			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					<h3>The ACTA Transparency Scorecard</h3>
+									</td>
+							<td align="right" width="100%" class="buttonheading">
+				<a href="http://www.michaelgeist.ca/index2.php?option=com_content&amp;do_pdf=1&amp;id=4822" target="_blank" onclick="window.open('http://www.michaelgeist.ca/index2.php?option=com_content&amp;do_pdf=1&amp;id=4822','win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" title="PDF">
+					PDF&nbsp;</a>
+			</td>
+							<td align="right" width="100%" class="buttonheading">
+					<a href="http://www.michaelgeist.ca/index2.php?option=com_content&amp;task=view&amp;id=4822&amp;pop=1&amp;print=1&amp;hide_js=0&amp;page=0&amp;Itemid=125" target="_blank" onclick="window.open('http://www.michaelgeist.ca/index2.php?option=com_content&amp;task=view&amp;id=4822&amp;pop=1&amp;print=1&amp;hide_js=0&amp;page=0&amp;Itemid=125','win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" title="Print">
+						|&nbsp;Print&nbsp;|</a>
+				</td>
+							<td align="right" width="100%" class="buttonheading">
+				<a href="http://www.michaelgeist.ca/index2.php?option=com_content&amp;task=emailform&amp;id=4822&amp;itemid=125" target="_blank" onclick="window.open('http://www.michaelgeist.ca/index2.php?option=com_content&amp;task=emailform&amp;id=4822&amp;itemid=125','win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=400,height=250,directories=no,location=no'); return false;" title="E-mail">
+					&nbsp;E-mail</a>
+			</td>
+						</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+					<tr>
+				<td valign="top" colspan="2" class="createdate" id=''>
+					<div class="createdate">Friday February 26, 2010</div>
+				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				         With <a href="content/view/4819/125/">yesterday&#39;s leak</a> of a Dutch government document revealing the positions on ACTA transparency of many of the negotiating partners, it is worth taking stock of the current positions on the issue:<br /> <br /><br /> <table border="1" cellspacing="2" cellpadding="2" style="text-align: left; width: 100%">   <tbody>     <tr>       <td style="vertical-align: top"><span style="font-weight: bold">Country</span><br />       </td>       <td style="vertical-align: top"><span style="font-weight: bold">Position on ACTA Transparency</span><br />       </td>     </tr>     <tr>       <td style="vertical-align: top">Australia<br />       </td>       <td style="vertical-align: top">Support<br />       </td>     </tr>     <tr>       <td style="vertical-align: top">Canada<br />       </td>       <td style="vertical-align: top">Support<br />       </td>     </tr>     <tr>       <td style="vertical-align: top">Japan<br />       </td>       <td style="vertical-align: top">Support<br />       </td>     </tr>     <tr>       <td style="vertical-align: top">New Zealand<br />       </td>       <td style="vertical-align: top">Support<br />       </td>     </tr>     <tr>       <td style="vertical-align: top">Singapore<br />       </td>       <td style="vertical-align: top">Oppose<br />       </td>     </tr>     <tr>       <td style="vertical-align: top">South Korea</td>       <td style="vertical-align: top">Oppose<br />       </td>     </tr>     <tr>       <td style="vertical-align: top">United States<br />       </td>       <td style="vertical-align: top">Neutral (but indication that oppose)<br />       </td>     </tr>     <tr>       <td style="vertical-align: top">European Commission<br />       </td>       <td style="vertical-align: top">Oppose (fear it would set precedent for other trade talks)<br />       </td>     </tr>     <tr>       <td style="vertical-align: top">Austria<br />       </td>       <td style="vertical-align: top">Support<br />       </td>     </tr>     <tr>       <td style="vertical-align: top">Belgium<br />       </td>       <td style="vertical-align: top">Oppose<br />       </td>     </tr>     <tr>       <td style="vertical-align: top">Denmark<br />       </td>       <td style="vertical-align: top">Oppose<br />       </td>     </tr>     <tr>       <td style="vertical-align: top">Estonia<br />       </td>       <td style="vertical-align: top">Support<br />       </td>     </tr>     <tr>       <td style="vertical-align: top">Finland<br />       </td>       <td style="vertical-align: top">Support<br />       </td>     </tr>     <tr>       <td style="vertical-align: top">France<br />       </td>       <td style="vertical-align: top">Support (but fear U.S. retaliation)<br />       </td>     </tr>     <tr>       <td style="vertical-align: top">Germany<br />       </td>       <td style="vertical-align: top">Oppose<br />       </td>     </tr>     <tr>       <td style="vertical-align: top">Hungary<br />       </td>       <td style="vertical-align: top">Support<br />       </td>     </tr>     <tr>       <td style="vertical-align: top">Ireland<br />       </td>       <td style="vertical-align: top">Support<br />       </td>     </tr>     <tr>       <td style="vertical-align: top">Italy<br />       </td>       <td style="vertical-align: top">Support (but fear U.S. retaliation)<br />       </td>     </tr>     <tr>       <td style="vertical-align: top">Netherlands<br />       </td>       <td style="vertical-align: top">Support<br />       </td>     </tr>     <tr>       <td style="vertical-align: top">Poland<br />       </td>       <td style="vertical-align: top">Support<br />       </td>     </tr>     <tr>       <td style="vertical-align: top">Portugal<br />       </td>       <td style="vertical-align: top">Oppose<br />       </td>     </tr>     <tr>       <td style="vertical-align: top">Sweden<br />       </td>       <td style="vertical-align: top">Support<br />       </td>     </tr>     <tr>       <td style="vertical-align: top">United Kingdom<br />       </td>       <td style="vertical-align: top">Support<br />       </td>     </tr>   </tbody> </table> <br /> Remaining European Union countries with positions unknown: Bulgaria, Cyprus, Czech Republic, Greece, Latvia, Lithuania, Luxembourg, Malta, Romania, Slovakia, Slovenia, Spain.<br /> <br /> Remaining ACTA countries with positions unknown: Mexico, Morocco, Switzerland.<br /> <br /> If anyone has further updated information, feel free to email or post in the comments. <!-- JOM COMMENT START --><div style="clear:both;height:1px;padding:0px"></div>
+<!-- Sharing toolbar -->
+<div>
+				 <div class="commentBlogView commentTools" id="commentTools"></div></div>
+<!-- Trackback Title-->
+
+<!-- 'Comments Title -->
+<div class="contentheading" id="written_comments_title">Comments <span id="jc_numComment">(18)</span><img src="http://www.michaelgeist.ca/components/com_jomcomment/templates/chatter/images/comment_add.gif" alt="add comment" /></div>
+<!-- RSS Feed link below the title -->
+	<div class="feed_link" ><a href="http://www.michaelgeist.ca/component/option,com_jomcomment/task,rss/contentid,4822/opt,com_content/" rel="bookmark"><img src="http://www.michaelgeist.ca/components/com_jomcomment/templates/chatter/images/rss.png" alt="feed" width="16" height="16" border="0" />Subscribe to this comment's feed</a></div>
+
+	<!-- Hide/Show input form notice -->
+	
+	<!-- Placeholder for all comments. REQUIRED.  -->
+		<div id="jc_commentsDiv" style="display:block;visibility:visible">
+		<div class="jomentry2" id="pc_18990" >
+	<a name="comment-18990" id="comment-18990"></a>
+		<h4 class="CommentTitle">
+		<a id="author-18990" title="crade">crade</a>
+		said:
+		<img src="http://www.michaelgeist.ca/components/com_jomcomment/templates/chatter/images/spacer.gif" alt="" class="CommentArrow"  style="vertical-align:bottom;" />
+	</h4>
+	<div class="CommentText">
+		<div class="CommentText2">
+			<div class="CommentText3">
+				<table width="98%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td valign="top"></td>
+						<td width="100%" valign="top"  id="comment-text-container-18990">
+							<strong>...</strong><br />
+							As far as I can tell, the leak only mentions some countries that oppose, and mentions a few in Europe that are in support, but does not go so far as to claim the ones not mentioned are all in support.  I don't see Canada mentioned at all.  Am I missing something?						</td>
+					</tr>
+									</table>
+			</div>
+		</div>
+	</div>
+	<div class="CommentFooter">
+	February 26, 2010<br />
+		</div>
+</div>
+<div class="jomentry1" id="pc_18991" >
+	<a name="comment-18991" id="comment-18991"></a>
+		<h4 class="CommentTitle">
+		<a id="author-18991" title="crade">crade</a>
+		said:
+		<img src="http://www.michaelgeist.ca/components/com_jomcomment/templates/chatter/images/spacer.gif" alt="" class="CommentArrow"  style="vertical-align:bottom;" />
+	</h4>
+	<div class="CommentText">
+		<div class="CommentText2">
+			<div class="CommentText3">
+				<table width="98%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td valign="top"></td>
+						<td width="100%" valign="top"  id="comment-text-container-18991">
+							<strong>...</strong><br />
+							Ah nevermind, I missed that the summary is not based solely on this report :)						</td>
+					</tr>
+									</table>
+			</div>
+		</div>
+	</div>
+	<div class="CommentFooter">
+	February 26, 2010<br />
+		</div>
+</div>
+<div class="jomentry2" id="pc_18992" >
+	<a name="comment-18992" id="comment-18992"></a>
+		<h4 class="CommentTitle">
+		<a id="author-18992" title="Dan Goodchild">Dan Goodchild</a>
+		said:
+		<img src="http://www.michaelgeist.ca/components/com_jomcomment/templates/chatter/images/spacer.gif" alt="" class="CommentArrow"  style="vertical-align:bottom;" />
+	</h4>
+	<div class="CommentText">
+		<div class="CommentText2">
+			<div class="CommentText3">
+				<table width="98%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td valign="top"></td>
+						<td width="100%" valign="top"  id="comment-text-container-18992">
+							<strong>Mexico's position</strong><br />
+							Though unofficial, you might consider listing Mexico as "unknown (but indication that oppose)".  I suggest this based on the NDRs at so-called public consultations.  <a rel="nofollow" href='http://www.techdirt.com/articles/20100122/1026457875.shtml' rel='nofollow'>http://www.techdirt.com/articl...7875.shtml</a>						</td>
+					</tr>
+									</table>
+			</div>
+		</div>
+	</div>
+	<div class="CommentFooter">
+	February 26, 2010<br />
+		</div>
+</div>
+<div class="jomentry1" id="pc_18994" >
+	<a name="comment-18994" id="comment-18994"></a>
+		<h4 class="CommentTitle">
+		<a id="author-18994" title="StuartShawna23">StuartShawna23</a>
+		said:
+		<img src="http://www.michaelgeist.ca/components/com_jomcomment/templates/chatter/images/spacer.gif" alt="" class="CommentArrow"  style="vertical-align:bottom;" />
+	</h4>
+	<div class="CommentText">
+		<div class="CommentText2">
+			<div class="CommentText3">
+				<table width="98%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td valign="top"></td>
+						<td width="100%" valign="top"  id="comment-text-container-18994">
+							<strong>respond</strong><br />
+							According to my own investigation, millions of persons in the world get the mortgage loans at various banks. Thence, there is a good chance to receive a sba loan in every country. 						</td>
+					</tr>
+									</table>
+			</div>
+		</div>
+	</div>
+	<div class="CommentFooter">
+	February 26, 2010<br />
+		</div>
+</div>
+<div class="jomentry2" id="pc_18998" >
+	<a name="comment-18998" id="comment-18998"></a>
+		<h4 class="CommentTitle">
+		<a id="author-18998" title="Jason K">Jason K</a>
+		said:
+		<img src="http://www.michaelgeist.ca/components/com_jomcomment/templates/chatter/images/spacer.gif" alt="" class="CommentArrow"  style="vertical-align:bottom;" />
+	</h4>
+	<div class="CommentText">
+		<div class="CommentText2">
+			<div class="CommentText3">
+				<table width="98%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td valign="top"></td>
+						<td width="100%" valign="top"  id="comment-text-container-18998">
+							<strong>...</strong><br />
+							These countries need not fear the US.  A reminder goes out to the globe that the US is currently in crisis with respect to lobby influence on it's legislators.  The global economy tanked due to "loop" holes in US law overlooked in main part due to the biggest lobby on Capital Hill "The bank lobby". If anything the global community needs to seriously look at any trade agreement with scrutiny so that we don't end up in another situation where the global economy is put at risk, because US law makers alone have way too much influance on the global economy. <br /> <br />A lot of the lobby issues Washington was supposed to fix when Obama came into power.  Not the case, and Lawrence Lessig over the past year, has moved from the issue of copyright to the issue of corruption in US politics, and identifying the power US corps have over the direction of that country rather than the Americans themselves. <br /> <br />If anything the US should fear retaliation from other countries should they not support transparency.  Currently the majority that support ACTA transparency have the upper hand economically, not the US.						</td>
+					</tr>
+									</table>
+			</div>
+		</div>
+	</div>
+	<div class="CommentFooter">
+	February 26, 2010<br />
+		</div>
+</div>
+<div class="jomentry1" id="pc_19000" >
+	<a name="comment-19000" id="comment-19000"></a>
+		<h4 class="CommentTitle">
+		<a id="author-19000" title="Jaosn K">Jaosn K</a>
+		said:
+		<img src="http://www.michaelgeist.ca/components/com_jomcomment/templates/chatter/images/spacer.gif" alt="" class="CommentArrow"  style="vertical-align:bottom;" />
+	</h4>
+	<div class="CommentText">
+		<div class="CommentText2">
+			<div class="CommentText3">
+				<table width="98%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td valign="top"></td>
+						<td width="100%" valign="top"  id="comment-text-container-19000">
+							<strong>...</strong><br />
+							Recommended viewing for those involved with ACTA is a great investigative piece done by PBS Frontline entitled "The Warning", and investigates how the global economic meltdown started.  For Canada and the US it's viewable on the pbs.org website under the Frontline section.  To the rest of the world, it's probably blocked due to "rights restrictions". lol						</td>
+					</tr>
+									</table>
+			</div>
+		</div>
+	</div>
+	<div class="CommentFooter">
+	February 26, 2010<br />
+		</div>
+</div>
+<div class="jomentry2" id="pc_19001" >
+	<a name="comment-19001" id="comment-19001"></a>
+		<h4 class="CommentTitle">
+		<a id="author-19001" title="A. Rebentisch">A. Rebentisch</a>
+		said:
+		<img src="http://www.michaelgeist.ca/components/com_jomcomment/templates/chatter/images/spacer.gif" alt="" class="CommentArrow"  style="vertical-align:bottom;" />
+	</h4>
+	<div class="CommentText">
+		<div class="CommentText2">
+			<div class="CommentText3">
+				<table width="98%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td valign="top"></td>
+						<td width="100%" valign="top"  id="comment-text-container-19001">
+							<strong>No legal base to oppose it</strong><br />
+							The EU-Commission is legally bound by the EU TFUE Article 15 (Lisbon regime), which grants citizens a right. This is why the Commission blames it on the other delegations (current 1040/2001/EC Art 4 "international relations" exceptions). They formally lack competence to oppose transparency as this contravenes the treaty provisions, see below. If it is an EU process, it applies probably also to member states involved in the process which signed Lisbon. It seems legally impossible to hold that position in international fora because the treaty mandates the opposite: <br /> <br /> <br />TFUE Article 15 (ex Article 255 TEC) <br />1. In order to promote good governance and ensure the participation of civil society, the Union institutions, bodies, offices and agencies shall conduct their work as openly as possible. <br />2. The European Parliament shall meet in public, as shall the Council when considering and voting on a draft legislative act. <br />3. Any citizen of the Union, and any natural or legal person residing or having its registered office in a Member State, shall have a right of access to documents of the Union institutions, bodies, offices and agencies, whatever their medium, subject to the principles and the conditions to be defined in accordance with this paragraph. General principles and limits on grounds of public or private interest governing this right of access to documents shall be determined by the European Parliament and the Council, by means of regulations, acting in accordance with the ordinary legislative procedure. <br />Each institution, body, office or agency shall ensure that its proceedings are transparent and shall elaborate in its own Rules of Procedure specific provisions regarding access to its documents, in accordance with the regulations referred to in the second subparagraph. <br />The Court of Justice of the European Union, the European Central Bank and the European Investment Bank shall be subject to this paragraph only when exercising their administrative tasks. <br />The European Parliament and the Council shall ensure publication of the documents relating to the legislative procedures under the terms laid down by the regulations referred to in the second subparagraph. <br /> <br /> <br />Furthermore the Article 218 (10) TFUE: <br /> <br />10.The European Parliament shall be immediately and fully informed at <br />all stages of the procedure. <br /> <br />That is an aspect the Parliament INTA raised this week in a hearing on ACTA. Here the Commission defended its ACTA transparency practice with the notion that they do not have a right to disclose the positions of other delegations. <br /> <br />The open question is if the Commission is entitled to enter into such international talks at all when the transparency regime is incompatible with Article 15 TFUE. I am sure we will see some further technical debate on the matter.						</td>
+					</tr>
+									</table>
+			</div>
+		</div>
+	</div>
+	<div class="CommentFooter">
+	February 26, 2010<br />
+		</div>
+</div>
+<div class="jomentry1" id="pc_19003" >
+	<a name="comment-19003" id="comment-19003"></a>
+		<h4 class="CommentTitle">
+		<a id="author-19003" title="MissPirata">MissPirata</a>
+		said:
+		<img src="http://www.michaelgeist.ca/components/com_jomcomment/templates/chatter/images/spacer.gif" alt="" class="CommentArrow"  style="vertical-align:bottom;" />
+	</h4>
+	<div class="CommentText">
+		<div class="CommentText2">
+			<div class="CommentText3">
+				<table width="98%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td valign="top"></td>
+						<td width="100%" valign="top"  id="comment-text-container-19003">
+							<strong>Position Mexico IMPI</strong><br />
+							IMPI (negotiator) published yesterday this minute about the public hearing more than a month ago. It might help to have a picture about their position. <a rel="nofollow" href='http://j.mp/chWZI9' rel='nofollow'>http://j.mp/chWZI9</a>  (PDF) No report on Guadalajara meetings yet. 						</td>
+					</tr>
+									</table>
+			</div>
+		</div>
+	</div>
+	<div class="CommentFooter">
+	February 26, 2010<br />
+		</div>
+</div>
+<div class="jomentry2" id="pc_19008" >
+	<a name="comment-19008" id="comment-19008"></a>
+		<h4 class="CommentTitle">
+		<a id="author-19008" title="evision">evision</a>
+		said:
+		<img src="http://www.michaelgeist.ca/components/com_jomcomment/templates/chatter/images/spacer.gif" alt="" class="CommentArrow"  style="vertical-align:bottom;" />
+	</h4>
+	<div class="CommentText">
+		<div class="CommentText2">
+			<div class="CommentText3">
+				<table width="98%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td valign="top"></td>
+						<td width="100%" valign="top"  id="comment-text-container-19008">
+							<strong>...</strong><br />
+							<a rel="nofollow" href='http://www.sangambayard-c-m.com' rel='nofollow'>http://www.sangambayard-c-m.com</a> <br />						</td>
+					</tr>
+									</table>
+			</div>
+		</div>
+	</div>
+	<div class="CommentFooter">
+	February 27, 2010<br />
+		</div>
+</div>
+<div class="jomentry1" id="pc_19020" >
+	<a name="comment-19020" id="comment-19020"></a>
+		<h4 class="CommentTitle">
+		<a id="author-19020" title="Anon-K">Anon-K</a>
+		said:
+		<img src="http://www.michaelgeist.ca/components/com_jomcomment/templates/chatter/images/spacer.gif" alt="" class="CommentArrow"  style="vertical-align:bottom;" />
+	</h4>
+	<div class="CommentText">
+		<div class="CommentText2">
+			<div class="CommentText3">
+				<table width="98%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td valign="top"></td>
+						<td width="100%" valign="top"  id="comment-text-container-19020">
+							<strong>...</strong><br />
+							A. Rebentisch, the out is at the end of para 1 to the article you quote.  The article does not say it must always be conducted in an open manner, simply that "shall conduct their work as openly as possible".  As such, they appear to be correct in a concern about creating a precedent; there is one other negotiation currently going on that is being conducted in an open manner, and is often cited as an example of how it should be done (it was mentioned on this blog but I can't remember which one off the top of my head).  13 years of negotiations and counting, and they appear to be no further along than ACTA appears to be.  Based on that experience, I can understand a reluctance to force all economic treaty negotiations to be conducted in an open manner; the option for "closed" negotiations would appear to be a desirable option to have available, even if it is never used.						</td>
+					</tr>
+									</table>
+			</div>
+		</div>
+	</div>
+	<div class="CommentFooter">
+	February 28, 2010<br />
+		</div>
+</div>
+<div class="jomentry2" id="pc_19022" >
+	<a name="comment-19022" id="comment-19022"></a>
+		<h4 class="CommentTitle">
+		<a id="author-19022" title="jv">jv</a>
+		said:
+		<img src="http://www.michaelgeist.ca/components/com_jomcomment/templates/chatter/images/spacer.gif" alt="" class="CommentArrow"  style="vertical-align:bottom;" />
+	</h4>
+	<div class="CommentText">
+		<div class="CommentText2">
+			<div class="CommentText3">
+				<table width="98%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td valign="top"></td>
+						<td width="100%" valign="top"  id="comment-text-container-19022">
+							<strong>...</strong><br />
+							If 3 strikes isn't going to be part of ACTA we know why. It looks like the US wants to start regulating the internet and wants to "work" with other countries on it. <br /> <br />"Copyright protection:  How do we protect against illegal piracy of copyrighted works and intellectual property on the Internet while preserving the rights of users to access lawful content? NTIA and our sister agency at the Department of Commerce, the US Patent and Trademark Office, are beginning a comprehensive consultation process that will help the Administration develop a forward-looking set of policies to address online copyright infringement in a balanced, Internet-savvy manner." <br /> <br />"All of these efforts must involve collaboration &#8211; among government agencies, foreign governments when appropriate, and key Internet constituencies&#8212;commercial, academia, civil society." <br /> <br />http://www.ntia.doc.gov/presentations/2010/MediaInstitute_02242010.html <br /> <br />I wish I understood how the media companies wield the unbelievable power they do.						</td>
+					</tr>
+									</table>
+			</div>
+		</div>
+	</div>
+	<div class="CommentFooter">
+	February 28, 2010<br />
+		</div>
+</div>
+<div class="jomentry1" id="pc_19023" >
+	<a name="comment-19023" id="comment-19023"></a>
+		<h4 class="CommentTitle">
+		<a id="author-19023" title="Jason K">Jason K</a>
+		said:
+		<img src="http://www.michaelgeist.ca/components/com_jomcomment/templates/chatter/images/spacer.gif" alt="" class="CommentArrow"  style="vertical-align:bottom;" />
+	</h4>
+	<div class="CommentText">
+		<div class="CommentText2">
+			<div class="CommentText3">
+				<table width="98%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td valign="top"></td>
+						<td width="100%" valign="top"  id="comment-text-container-19023">
+							<strong>@jv</strong><br />
+							"I wish I understood how the media companies wield the unbelievable power they do." <br /> <br />Through political lobbying, and political contributions.  In the US they don't have publicly funded elections.  The people don't own their government in the US, it's the corporations that do.  That's why we are in a global recession.  Civil society should be dictating public policy.  At least here in Canada we had a public copyright consultation.  Whether that means anything in this day in age will be determined soon when the Cons throw up the next copyright bill.						</td>
+					</tr>
+									</table>
+			</div>
+		</div>
+	</div>
+	<div class="CommentFooter">
+	February 28, 2010<br />
+		</div>
+</div>
+<div class="jomentry2" id="pc_19024" >
+	<a name="comment-19024" id="comment-19024"></a>
+		<h4 class="CommentTitle">
+		<a id="author-19024" title="A. Rebentisch">A. Rebentisch</a>
+		said:
+		<img src="http://www.michaelgeist.ca/components/com_jomcomment/templates/chatter/images/spacer.gif" alt="" class="CommentArrow"  style="vertical-align:bottom;" />
+	</h4>
+	<div class="CommentText">
+		<div class="CommentText2">
+			<div class="CommentText3">
+				<table width="98%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td valign="top"></td>
+						<td width="100%" valign="top"  id="comment-text-container-19024">
+							<strong>@Anon-K</strong><br />
+							The 15(1) "shall conduct their work as openly as possible" is fresh and it is worded strongly. "shall" means mandatory as opposed to "should". As the competences of the Commission are defined by the Treaties the Commission lacks competence to *demand* less transparency from other parties. In the EU they claim that the other parties are holding them back. Notably, it is all not tested at the European Court of Justice, anyway. The treaties are different from a Contitution in the sense that they also represent a kind of political programmatics. The Commission is no government but it is the guardian of the Treaties. If their actions contradict the treaties that is a strong infringement of their duties. <br /> <br />However, the classic meat is Art 15(2) TFUE, before Lisbon codified as Article 255. I grants all citizen a right of access to documents. It is implemented by EC/1049/2001. <br /> <br />Unfortunately the implementation in 2001 did not imagine regulatory aspects of trade discussions. It is well understood that e.g. Trade negotiations about tarriffs should be confidential. Of course ACTA is no FTA but international legislation put into an FTA procedure. The current legal base to deny ACTA document access is EC/1049/2001 Art 4 "International Relations" exemptions.  <br /> <br />Basically it is enought to fix that Article 4 of EC/1049/2001. Watch the procedure COD(2008)0090 M.Cashman! Am109 in the recast opinion even created a lex specialis for ACTA transparency, but I expect we will get a generic solution.						</td>
+					</tr>
+									</table>
+			</div>
+		</div>
+	</div>
+	<div class="CommentFooter">
+	February 28, 2010<br />
+		</div>
+</div>
+<div class="jomentry1" id="pc_19033" >
+	<a name="comment-19033" id="comment-19033"></a>
+		<h4 class="CommentTitle">
+		<a id="author-19033" title="Daniel">Daniel</a>
+		said:
+		<img src="http://www.michaelgeist.ca/components/com_jomcomment/templates/chatter/images/spacer.gif" alt="" class="CommentArrow"  style="vertical-align:bottom;" />
+	</h4>
+	<div class="CommentText">
+		<div class="CommentText2">
+			<div class="CommentText3">
+				<table width="98%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td valign="top"></td>
+						<td width="100%" valign="top"  id="comment-text-container-19033">
+							<strong>Switzerland supports transparency</strong><br />
+							According to the information we got from our representatives, Switzerland actually supports transparency (see protocoll of a civil society participant from a meeting with the Swiss Delegation (in German)). 						</td>
+					</tr>
+									</table>
+			</div>
+		</div>
+	</div>
+	<div class="CommentFooter">
+	March 01, 2010<br />
+		</div>
+</div>
+<div class="jomentry2" id="pc_19034" >
+	<a name="comment-19034" id="comment-19034"></a>
+		<h4 class="CommentTitle">
+		<a id="author-19034" title="Daniel">Daniel</a>
+		said:
+		<img src="http://www.michaelgeist.ca/components/com_jomcomment/templates/chatter/images/spacer.gif" alt="" class="CommentArrow"  style="vertical-align:bottom;" />
+	</h4>
+	<div class="CommentText">
+		<div class="CommentText2">
+			<div class="CommentText3">
+				<table width="98%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td valign="top"></td>
+						<td width="100%" valign="top"  id="comment-text-container-19034">
+							<strong>URL in German</strong><br />
+							<a rel="nofollow" href='http://blog.allmend.ch/2010/02/09/acta-notizen-vom-ige-treffen-vom-14-1-2010/' rel='nofollow'>http://blog.allmend.ch/2010/02...14-1-2010/</a>						</td>
+					</tr>
+									</table>
+			</div>
+		</div>
+	</div>
+	<div class="CommentFooter">
+	March 01, 2010<br />
+		</div>
+</div>
+<div class="jomentry1" id="pc_20276" >
+	<a name="comment-20276" id="comment-20276"></a>
+		<h4 class="CommentTitle">
+		<a id="author-20276" title="Nur affinah Mohd affaidi">Nur affinah Mohd affaidi</a>
+		said:
+		<img src="http://www.michaelgeist.ca/components/com_jomcomment/templates/chatter/images/spacer.gif" alt="" class="CommentArrow"  style="vertical-align:bottom;" />
+	</h4>
+	<div class="CommentText">
+		<div class="CommentText2">
+			<div class="CommentText3">
+				<table width="98%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td valign="top"></td>
+						<td width="100%" valign="top"  id="comment-text-container-20276">
+							<strong>online course in Germany</strong><br />
+							I have visited this site and start online course from my home and i got online degree. I am doing my course online from my home. <br /> <br /> <br />online course  <br />						</td>
+					</tr>
+									</table>
+			</div>
+		</div>
+	</div>
+	<div class="CommentFooter">
+	April 07, 2010<br />
+		</div>
+</div>
+<div class="jomentry2" id="pc_22205" >
+	<a name="comment-22205" id="comment-22205"></a>
+		<h4 class="CommentTitle">
+		<a id="author-22205" title="JennyRandall21">JennyRandall21</a>
+		said:
+		<img src="http://www.michaelgeist.ca/components/com_jomcomment/templates/chatter/images/spacer.gif" alt="" class="CommentArrow"  style="vertical-align:bottom;" />
+	</h4>
+	<div class="CommentText">
+		<div class="CommentText2">
+			<div class="CommentText3">
+				<table width="98%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td valign="top"></td>
+						<td width="100%" valign="top"  id="comment-text-container-22205">
+							<strong>respond</strong><br />
+							All people deserve wealthy life time and loans or collateral loan can make it much better. Because people's freedom is based on money state. 						</td>
+					</tr>
+									</table>
+			</div>
+		</div>
+	</div>
+	<div class="CommentFooter">
+	May 26, 2010<br />
+		</div>
+</div>
+<div class="jomentry1" id="pc_37820" >
+	<a name="comment-37820" id="comment-37820"></a>
+		<h4 class="CommentTitle">
+		<a id="author-37820" title="Jackie35Joyce">Jackie35Joyce</a>
+		said:
+		<img src="http://www.michaelgeist.ca/components/com_jomcomment/templates/chatter/images/spacer.gif" alt="" class="CommentArrow"  style="vertical-align:bottom;" />
+	</h4>
+	<div class="CommentText">
+		<div class="CommentText2">
+			<div class="CommentText3">
+				<table width="98%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td valign="top"></td>
+						<td width="100%" valign="top"  id="comment-text-container-37820">
+							<strong>reply</strong><br />
+							The mortgage loans suppose to be important for guys, which are willing to start their own organization. As a fact, it's very easy to get a sba loan. 						</td>
+					</tr>
+									</table>
+			</div>
+		</div>
+	</div>
+	<div class="CommentFooter">
+	July 04, 2011<br />
+		</div>
+</div>	</div>
+	<!-- 'Write Comment' Title -->
+<br />
+<a name="comments" id="comments"></a><div class="contentheading" id="write_comment_title">Write comment</div>
+
+<!-- Hide/Show input form notice -->
+
+<!-- Comment locked notice -->
+
+<!-- Login required -->
+
+<!-- Show link to the last page -->
+
+<!-- Placeholder for ajax notification -->
+<div id="jc_busyDiv"></div>
+
+
+<!-- Input form begin -->
+			<div id="jc_commentFormDiv"  style="display:block;visibility:visible">
+			<div class="CommentArea">
+				<div class="CommentText">
+					<div class="CommentText2">
+						<div class="CommentText3">
+				<form method="post" onsubmit="return false;" action="" id="jc_commentForm" name="jc_commentForm">
+					
+					 
+					<div> 
+						<label for="jc_name" >Name</label> 
+						<input name="jc_name" type="text" id="jc_name" value=""  class="inputbox" /> 
+					</div> 
+										
+										
+										
+					 
+					<div> 
+						<label for="jc_title">Title</label> 
+						<input name="jc_title" type="text" id="jc_title"  class="inputbox"/> 
+					</div> 
+										
+					
+					<div> 
+						<label for="jc_comment">Comment</label> 
+												<textarea name="jc_comment" cols="40" rows="6"  class="inputbox" id="jc_comment"></textarea>
+						<span class="smalltext" style="cursor:pointer" onclick="jcResizeComment(-65);">smaller</span> | <span class="smalltext" style="cursor:pointer" onclick="jcResizeComment(65);">bigger</span>
+					</div> 
+					
+				  	<!-- Subscribe via email -->
+										<!-- End subscribe via email -->
+
+
+					<!-- Submit Policy -->
+										<!-- End submit policy -->
+					
+					
+					
+										<div>
+						<script type="text/javascript" src="http://api.recaptcha.net/challenge?k=6LellwMAAAAAAP0SLwKyTgpdM0Ii1NLf12u7HQuG"></script>
+
+	<noscript>
+  		<iframe src="http://api.recaptcha.net/noscript?k=6LellwMAAAAAAP0SLwKyTgpdM0Ii1NLf12u7HQuG" height="300" width="500" frameborder="0"></iframe><br/>
+  		<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+  		<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
+	</noscript>					</div>
+										
+					<div> 
+						<button id="jc_submit" onclick="addComments(); return false;" class="button" >Add Comment</button> 
+											</div> 
+					<noscript><div>Please enable JavaScript to post a new comment</div></noscript>
+					<input name="jc_contentid" type="hidden" id="jc_contentid" value="4822"/>
+					<input name="jc_sid" type="hidden" id="jc_sid" value="fccceae1caa3" />
+					<input name="jc_task" type="hidden" id="jc_task" value="add" />
+					<input name="jc_isajax" type="hidden" id="jc_isajax" value="0" />
+					<input name="jc_option" type="hidden" id="jc_option" value="com_content"/>
+									</form> 
+				</div></div></div>	
+			</div>
+		</div> 
+<!-- Input form end -->
+<br/><script type='text/javascript'> jc_loadUserInfo(); </script><img src="http://www.michaelgeist.ca/components/com_jomcomment/busy.gif" alt="busy" style="visibility:hidden;display:none;"/><!-- JOM COMMENT END --><span id='tags4822' class='tags'><span class='tagger_header'><br />Tags:</span><a href='http://www.michaelgeist.ca/tags/acta' rel="tag">acta</a>, <a href='http://www.michaelgeist.ca/tags/anti-counterfeiting+trade+agreement' rel="tag">anti-counterfeiting trade agreement</a>, <a href='http://www.michaelgeist.ca/tags/copyright' rel="tag">copyright</a>, <a href='http://www.michaelgeist.ca/tags/Counterfeit' rel="tag">Counterfeit</a>, <a href='http://www.michaelgeist.ca/tags/Counterfeiting' rel="tag">Counterfeiting</a></span><span id='shares4822' class='shares'><span class='shareme_header'>Share: </span> <a href='' rel="share"><a href='http://slashdot.org/bookmark.pl?url=http%3A%2F%2Fwww.michaelgeist.ca%2Fcontent%2Fview%2F4822%2F&amp;title=The+ACTA+Transparency+Scorecard'>Slashdot</a></a>, <a href='' rel="share"><a href='http://digg.com/submit?phase=2&amp;partner=fb&amp;url=http%3A%2F%2Fwww.michaelgeist.ca%2Fcontent%2Fview%2F4822%2F'>Digg</a></a>, <a href='' rel="share"><a href='http://del.icio.us/post?v=4&amp;partner=fb&amp;url=http%3A%2F%2Fwww.michaelgeist.ca%2Fcontent%2Fview%2F4822%2F'>Del.icio.us</a></a>, <a href='' rel="share"><a href='http://newsfeeder.ca/submit.php?url=http%3A%2F%2Fwww.michaelgeist.ca%2Fcontent%2Fview%2F4822%2F'>Newsfeeder</a></a>, <a href='' rel="share"><a href="http://reddit.com/submit?url=http%3A%2F%2Fwww.michaelgeist.ca%2Fcontent%2Fview%2F4822%2F&amp;title=The+ACTA+Transparency+Scorecard">Reddit</a></a>, <a href='' rel="share"><a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.michaelgeist.ca%2Fcontent%2Fview%2F4822%2F&amp;title=The+ACTA+Transparency+Scorecard">StumbleUpon</a></a>, <a href='' rel="share"><a href="http://twitter.com/home?status=Currently reading http%3A%2F%2Fwww.michaelgeist.ca%2Fcontent%2Fview%2F4822%2F&amp;title=The+ACTA+Transparency+Scorecard">Twitter</a></a></span><span class='buttonheading'><a id='email_buttonheading' href='#' onclick="window.open('http://www.michaelgeist.ca/index2.php?option=com_content&amp;task=emailform&amp;id=4822','win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=400,height=250,directories=no,location=no');return false;" title='Email'>Email</a><a id="print_buttonheading" href="http://www.michaelgeist.ca/content/view/4822/125/" onclick="window.open('http://www.michaelgeist.ca/index2.php?option=com_content&amp;task=view&amp;id=4822&amp;Itemid=125&amp;pop=1&amp;page=0', 'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no');return false;" title="Print">Print</a><a id='pdf_buttonheading' href='#' onclick='window.open("http://www.michaelgeist.ca/index2.php?option=com_content&amp;do_pdf=1&amp;id=4822&amp;task=view","win2","status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no");return false;' title='PDF'>PDF</a></span><span class='contentdate' id='full'>Friday February 26, 2010</span>
+<span class="relitems">
+<h5>Related Items:</h5> 
+<ul ><li ><a  href="http://www.michaelgeist.ca/content/view/6305/125/">Will Canada - China Changes Include a Shift on Intellectual Property?</a></li>
+<li ><a  href="http://www.michaelgeist.ca/content/view/6304/196/">Why ACTA Could Be As Bad As SOPA</a></li>
+<li ><a  href="http://www.michaelgeist.ca/content/view/6303/196/">Czech Republic, Slovakia Suspend ACTA Ratification</a></li>
+<li ><a  href="http://www.michaelgeist.ca/content/view/6296/196/">ACTA Protests Escalate Throughout Europe</a></li>
+<li ><a  href="http://www.michaelgeist.ca/content/view/6292/196/">Poland Suspends ACTA Ratification</a></li>
+<li ><a  href="http://www.michaelgeist.ca/content/view/6291/125/">Beyond SOPA: ACTA, WIPO, and the Global Copyfight</a></li>
+<li ><a  href="http://www.michaelgeist.ca/content/view/6290/196/">"Why I Signed ACTA"</a></li>
+<li ><a  href="http://www.michaelgeist.ca/content/view/6283/196/">MEP Says ACTA Goes Too Far</a></li>
+<li ><a  href="http://www.michaelgeist.ca/content/view/6277/196/">European Opposition to ACTA Continues to Mount</a></li>
+<li ><a  href="http://www.michaelgeist.ca/content/view/6275/125/">Ten Key Questions and Answers About Bill C-11, SOPA, ACTA, and the TPP</a></li>
+<li ><a  href="http://www.michaelgeist.ca/content/view/6270/125/">Thousands Take to the Streets to Protest ACTA</a></li>
+<li ><a  href="http://www.michaelgeist.ca/content/view/6269/125/">The ACTA Fight Returns: What Is at Stake and What You Can Do</a></li>
+<li ><a  href="http://www.michaelgeist.ca/content/view/6258/196/">Polish Government Reconsiders ACTA </a></li>
+<li ><a  href="http://www.michaelgeist.ca/content/view/6221/125/">Challenging Counterfeit Counterfeiting Data</a></li>
+<li ><a  href="http://www.michaelgeist.ca/content/view/6216/196/">2011 in Review: Developments in ACTA</a></li>
+</ul>
+</span>
+			</td>
+		</tr>
+				</table>
+		
+		<span class="article_seperator">&nbsp;</span>
+		
+							</div>
+	</div>
+	
+	<div id="right">		<div class="moduletable_balancedcopyright">
+			<a href="http://www.irwinlaw.com/store/product/666/from--radical-extremism--to--balanced-copyright-" target="_blank"><img src="templates/michaelgeist_original/images/balancedcopyrights.gif" align="center"></a>		</div>
+				<div class="moduletable_iphone_app">
+			<a href="http://itunes.apple.com/us/app/geist-built-by-appmakr-com/id349347758?mt=8" target="_blank"><img src="templates/michaelgeist_original/images/icon-iphone.png" align="right"></a> Download my new <a href="http://itunes.apple.com/us/app/geist-built-by-appmakr-com/id349347758?mt=8" target="_blank">iPhone App</a> featuring blog posts, tweets, videos, and more (built through <a href="http://appmakr.com/">AppMakr</a>) 		</div>
+				<div class="moduletable_c61_maps">
+			<br /> <div><a href="http://twitter.com/mgeist"><img src="images/promo_twitter_s.png" alt="" /></a><a href="http://feeds.feedburner.com/MichaelGeistsBlog"><img src="images/promo_feedburner_s.png" alt="" /></a>&nbsp; <!-- <a href="http://feeds.feedburner.com/MichaelGeistsBlog"><img style="border: 0pt none " src="http://feeds.feedburner.com/~fc/MichaelGeistsBlog?bg=e2ead6&amp;fg=990000&amp;anim=0" alt="" width="88" height="26" /></a>--> <a href="http://friendfeed.com/mgeist"><img src="images/promo_friendfeed_s.gif" alt="" /></a></div>		</div>
+				<div class="moduletable_tweets">
+							<h3>
+					Tweets				</h3>
+				<script src="files/mainjuitter/jquery.js" type="text/javascript"></script>
+<script src="files/mainjuitter/system.js" type="text/javascript"></script>
+<script src="files/mainjuitter/jquery.juitter.js" type="text/javascript"></script>
+<script src="files/mainjuitter/gladwell.js" type="text/javascript"></script>
+
+<div id="tweets">
+<div class="quick_views">
+<div id="content">
+	<div id="juitter">
+		<div id="containerTweets"></div>
+	</div>
+</div>          
+</div>
+
+ <div id="twitter_div">  
+<a href="http://twitter.com/mgeist" mce_href="http://twitter.com/mgeist">follow me on Twitter</a> 
+ </div></div>		</div>
+				<div class="moduletable_shorts">
+							<h3>
+					Must Reads				</h3>
+				<a class='latestnews_readmore_shorts' href='http://www.michaelgeist.ca/tags/acta/99999' title='Read more'>Must Reads</a><ul class='latestnews_shorts'>
+<li class='latestnews_shorts'><h4><a href='http://www.michaelgeist.ca/content/view/6308/196/' class='latestnews_shorts' rel="bookmark">Government Imposes Time Allocation on Bill C-11</a></h4><span class='latestnews_intro_shorts'>Government House Leader Peter Van Loan announced yesterday that the government is imposing time allocation on the second reading debate on Bill C-11. That means debate on the bill should conclude on Friday and the bill will be sent to committee for further hearings and review. While the government's overuse of time allocation is a concern, sending C-11 to committee places the core issues on the table - will it amend the digital lock rules as so many are asking and/or will it cave to copyright lobby pressure and add SOPA-style amendments to the bill?  Now is the time to speak out.</span><span class='latestnews_date_shorts'>Feb.08/12</span><span class='latestnews_comment_shorts'><a href='http://www.michaelgeist.ca/content/view/6308/196/#commentTools'>Comments (5)</a></span></li>
+<li class='latestnews_shorts'><h4><a href='http://www.michaelgeist.ca/content/view/6304/196/' class='latestnews_shorts' rel="bookmark">Why ACTA Could Be As Bad As SOPA</a></h4><span class='latestnews_intro_shorts'>
+
+  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+  <title></title>
+
+
+Alexander Furnas <a href="http://www.theatlantic.com/technology/archive/2012/02/why-an-international-trade-agreement-could-be-as-bad-as-sopa/252552/#.TzA4K12gfMU.twitter" mce_href="http://www.theatlantic.com/technology/archive/2012/02/why-an-international-trade-agreement-could-be-as-bad-as-sopa/252552/#.TzA4K12gfMU.twitter">explains</a>
+in the Atlantic why the broader implications of ACTA may make it as bad
+as SOPA. Furnas notes "while many of the alarmists specific claims are
+inaccurate, ACTA exposes the systemic danger in how international
+intellectual property regulation has evolved over the last 20 years."<br />
+
+
+</span><span class='latestnews_date_shorts'>Feb.07/12</span><span class='latestnews_comment_shorts'><a href='http://www.michaelgeist.ca/content/view/6304/196/#commentTools'>Comments (0)</a></span></li>
+<li class='latestnews_shorts'><h4><a href='http://www.michaelgeist.ca/content/view/6303/196/' class='latestnews_shorts' rel="bookmark">Czech Republic, Slovakia Suspend ACTA Ratification</a></h4><span class='latestnews_intro_shorts'>
+
+  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+  <title></title>
+
+
+The <a href="http://www.google.com/hostednews/afp/article/ALeqM5gguBSrXtQKnr0famyhxMlNK2plDQ?docId=CNG.956cc047c755305c8ad4580183554bcc.71" mce_href="http://www.google.com/hostednews/afp/article/ALeqM5gguBSrXtQKnr0famyhxMlNK2plDQ?docId=CNG.956cc047c755305c8ad4580183554bcc.71">Czech
+Republic and Slovakia</a> have joined Poland in <a href="http://www.ceskenoviny.cz/news/zpravy/czech-government-suspends-process-of-ratification-of-acta-pm/751437" mce_href="http://www.ceskenoviny.cz/news/zpravy/czech-government-suspends-process-of-ratification-of-acta-pm/751437">suspending
+ratification</a> of the Anti-Counterfeiting Trade Agreement in response
+to mounting protests over the agreement.
+
+
+</span><span class='latestnews_date_shorts'>Feb.07/12</span><span class='latestnews_comment_shorts'><a href='http://www.michaelgeist.ca/content/view/6303/196/#commentTools'>Comments (0)</a></span></li>
+<li class='latestnews_shorts'><h4><a href='http://www.michaelgeist.ca/content/view/6302/196/' class='latestnews_shorts' rel="bookmark">Much Ado About Panic</a></h4><span class='latestnews_intro_shorts'>
+
+  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+  <title></title>
+
+
+Kris Kotarski writes an <a href="http://www.canada.com/entertainment/movie-guide/Much%20about%20panic/6107179/story.html?id=6107179&amp;utm_source=dlvr.it&amp;utm_medium=twitter" mce_href="http://www.canada.com/entertainment/movie-guide/Much%20about%20panic/6107179/story.html?id=6107179&amp;utm_source=dlvr.it&amp;utm_medium=twitter">opinion
+piece</a> in the Calgary Herald that calls attention to the lobby panic
+that leads to legislation like SOPA and ACTA.
+
+
+</span><span class='latestnews_date_shorts'>Feb.07/12</span><span class='latestnews_comment_shorts'><a href='http://www.michaelgeist.ca/content/view/6302/196/#commentTools'>Comments (0)</a></span></li>
+<li class='latestnews_shorts'><h4><a href='http://www.michaelgeist.ca/content/view/6301/196/' class='latestnews_shorts' rel="bookmark">Copyright bills protect 'old media'</a></h4><span class='latestnews_intro_shorts'>
+  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+  <title></title>
+
+
+The National Post featured an <a href="http://opinion.financialpost.com/2012/02/03/copyright-bills-protect-old-media/#more-21563" mce_href="http://opinion.financialpost.com/2012/02/03/copyright-bills-protect-old-media/#more-21563">op-ed
+from Jesse Kline</a>
+over the weekend that notes "the essential question that must be
+addressed going forward is whether government regulation is needed to
+protect industries that have failed to innovate." He says the answer is
+no.
+
+
+</span><span class='latestnews_date_shorts'>Feb.07/12</span><span class='latestnews_comment_shorts'><a href='http://www.michaelgeist.ca/content/view/6301/196/#commentTools'>Comments (3)</a></span></li>
+<li class='latestnews_shorts'><h4><a href='http://www.michaelgeist.ca/content/view/6298/196/' class='latestnews_shorts' rel="bookmark">"Surrender Sovereignty Over Copyright Law"</a></h4><span class='latestnews_intro_shorts'>
+
+  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+  <title></title>
+
+
+John Ibbitson <a href="http://www.theglobeandmail.com/news/politics/john-ibbitson/trans-pacific-trade-deal-at-what-price/article2327426/" mce_href="http://www.theglobeandmail.com/news/politics/john-ibbitson/trans-pacific-trade-deal-at-what-price/article2327426/">discusses
+the implications</a>
+for Canada of joining the Trans Pacific Partnership, noting it would
+likely include surrendering Canadian sovereignty over copyright law. A
+reminder that the government is currently consulting on the TPP.
+Details on the agreement and participating <a href="content/view/6225/125/" mce_href="content/view/6225/125/">here</a>, <a href="content/view/6226/125/" mce_href="content/view/6226/125/">here</a>, and
+<a href="content/view/6243/125/" mce_href="content/view/6243/125/">here</a>.
+
+
+</span><span class='latestnews_date_shorts'>Feb.06/12</span><span class='latestnews_comment_shorts'><a href='http://www.michaelgeist.ca/content/view/6298/196/#commentTools'>Comments (0)</a></span></li>
+<li class='latestnews_shorts'><h4><a href='http://www.michaelgeist.ca/content/view/6297/196/' class='latestnews_shorts' rel="bookmark">No Internet Lock-Down</a></h4><span class='latestnews_intro_shorts'>
+
+  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+  <title></title>
+
+
+Open Media has launched a <a href="http://openmedia.ca/lockdown" mce_href="http://openmedia.ca/lockdown">new
+campaign</a>
+against copyright reforms that threaten digital rights including the
+prospect of website blocking, Internet termination, and digital locks.
+
+
+</span><span class='latestnews_date_shorts'>Feb.06/12</span><span class='latestnews_comment_shorts'><a href='http://www.michaelgeist.ca/content/view/6297/196/#commentTools'>Comments (0)</a></span></li>
+<li class='latestnews_shorts'><h4><a href='http://www.michaelgeist.ca/content/view/6296/196/' class='latestnews_shorts' rel="bookmark">ACTA Protests Escalate Throughout Europe</a></h4><span class='latestnews_intro_shorts'>
+
+  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+  <title></title>
+
+
+AccessNow is maintaining an <a href="https://www.accessnow.org/policy-activism/press-blog/acta-protest-feb-11" mce_href="https://www.accessnow.org/policy-activism/press-blog/acta-protest-feb-11">excellent
+map</a>
+of the protests planned across the continent on February 11th, which
+has been designated an international day of action against ACTA. The
+issue has attracted mainstream media attention (eg. <a href="http://www.nytimes.com/2012/02/06/technology/06iht-acta06.html?_r=1&amp;pagewanted=all" mce_href="http://www.nytimes.com/2012/02/06/technology/06iht-acta06.html?_r=1&amp;pagewanted=all">New
+York Times</a>) and <a href="http://www.zdnet.co.uk/news/intellectual-property/2012/02/03/actas-eu-future-in-doubt-after-polish-pause-40094978/" mce_href="http://www.zdnet.co.uk/news/intellectual-property/2012/02/03/actas-eu-future-in-doubt-after-polish-pause-40094978/">questions
+emerge</a> about the likelihood the treaty will receive the necessary
+approvals for ratification.
+
+
+</span><span class='latestnews_date_shorts'>Feb.06/12</span><span class='latestnews_comment_shorts'><a href='http://www.michaelgeist.ca/content/view/6296/196/#commentTools'>Comments (0)</a></span></li>
+<li class='latestnews_shorts'><h4><a href='http://www.michaelgeist.ca/content/view/6295/196/' class='latestnews_shorts' rel="bookmark">Ubisoft Games Won't Work This Week</a></h4><span class='latestnews_intro_shorts'>
+
+  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+  <title></title>
+
+
+Entertainment software giant Ubisoft, who the Ontario government <a href="http://www.thestar.com/article/661781" mce_href="http://www.thestar.com/article/661781">gave</a> $263 million in
+2009 to create 80 jobs per year over 10 years (or $328,750 per job),
+has <a href="http://www.itproportal.com/2012/02/03/ubisoft-games-wont-work-next-week/#ixzz1lJvpsK40" mce_href="http://www.itproportal.com/2012/02/03/ubisoft-games-wont-work-next-week/#ixzz1lJvpsK40">advised</a>
+its customers that its games may not work sometime this week due to its
+reliance on digital locks and the migration of data servers.<br />
+
+
+</span><span class='latestnews_date_shorts'>Feb.06/12</span><span class='latestnews_comment_shorts'><a href='http://www.michaelgeist.ca/content/view/6295/196/#commentTools'>Comments (4)</a></span></li>
+<li class='latestnews_shorts'><h4><a href='http://www.michaelgeist.ca/content/view/6294/196/' class='latestnews_shorts' rel="bookmark">Rogers Announces Plans To Drop Internet Throttling This Year</a></h4><span class='latestnews_intro_shorts'>
+
+  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+  <title></title>
+
+
+Last week Rogers <a href="https://docs.google.com/viewer?a=v&amp;pid=explorer&amp;chrome=true&amp;srcid=0B_bnX5agiXbkM2QwODJiNGItMmE5YS00YTIyLTljYjItYmI3YWEzNDhhOTVm&amp;hl=en_US&amp;pli=1" mce_href="https://docs.google.com/viewer?a=v&amp;pid=explorer&amp;chrome=true&amp;srcid=0B_bnX5agiXbkM2QwODJiNGItMmE5YS00YTIyLTljYjItYmI3YWEzNDhhOTVm&amp;hl=en_US&amp;pli=1">advised</a>
+the CRTC that it plans to <a href="http://www.theglobeandmail.com/news/technology/tech-news/rogers-vows-end-to-internet-throttling-in-2012/article2325576/" mce_href="http://www.theglobeandmail.com/news/technology/tech-news/rogers-vows-end-to-internet-throttling-in-2012/article2325576/">drop
+Internet throttling</a> for all customers by the end of the year. The
+move was not unexpected given that its policy was an <a href="content/view/6209/125/" mce_href="content/view/6209/125/">outlier</a>
+among all major Canadian ISPs. I'll have more to say on this
+development soon.
+
+
+</span><span class='latestnews_date_shorts'>Feb.06/12</span><span class='latestnews_comment_shorts'><a href='http://www.michaelgeist.ca/content/view/6294/196/#commentTools'>Comments (1)</a></span></li></ul>		</div>
+		</div>
+	
+	<div id="clearfooter"></div><!-- to clear footer -->
+	
+</div>
+<div id='footer'>
+	<br /><a href='http://www.michaelgeist.ca/content/blogsection/0/125/'>Blog</a>
+<a href='http://www.michaelgeist.ca/content/view/62/128/'>About</a>
+<a href='http://www.michaelgeist.ca/content/blogcategory/71/135/'>Columns</a>
+<a href='http://www.michaelgeist.ca/content/blogcategory/70/192/'>Publications</a>
+<a href='http://www.michaelgeist.ca/content/blogsection/5/170/'>Teaching</a>
+<a href='http://www.michaelgeist.ca/content/blogsection/7/146/'>Multimedia</a>
+<a href='http://www.michaelgeist.ca/content/view/1320/150/'>Websites</a>
+<a href='http://www.michaelgeist.ca/content/view/767/157/'>Contact</a>
+<br /><br /><a href="http://creativecommons.org/licenses/by/2.0/ca/" title="Creative Commons License"><img src="http://www.michaelgeist.ca/images/somerights20.gif" alt="Some Rights Reserved" /></a>
+<br /><span>This web site is licensed under a Creative Commons License, although certain works referenced herein may be separately licensed.</span>
+<br /><br />
+
+	<div id="section-banner"></div>
+</div>	
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript" language="javascript">
+var sc_project=255845; 
+var sc_invisible=1; 
+var sc_partition=0; 
+var sc_security=""; 
+</script>
+
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="http://c1.statcounter.com/counter.php?sc_project=255845&java=0&security=&invisible=1" alt="counter statistics" border="0"></a> </noscript>
+<script type='text/javascript' language='javascript'
+ src='http://app.blogburst.com/Public/ValidationScript.aspx?id=B8iC50ZBiMVOgpjfp91VxQ'></script>
+
+<!-- End of StatCounter Code -->
+
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-1500918-2");
+	pageTracker._initData();
+	pageTracker._trackPageview();
+</script>
+</body>
+</html><!-- 1328754925 -->

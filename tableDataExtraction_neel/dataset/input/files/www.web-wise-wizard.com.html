@@ -1,0 +1,2543 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+
+<head>
+	<title>Internet Country Code, Domain, TLD, gTLD, ccTLD, IDDD International Direct Dialling, Web-Wise-Wizard</title>
+
+	<meta name="robots" content="INDEX,FOLLOW" />
+	<meta name="description" content="Two tables, one containing generic Internet codes (com, net, org, edu, etc) and the other containing country specific Internet codes (us, uk, au, ca, ws, ac, etc) plus IDDD dialling codes. Of special interest is the ability to sort both tables by column." />
+	<meta name="keywords" content="internet, country, generic, international, codes, top, level, domain, tld, gtld, cctld, iddd, com, net, org, int, arpa, biz, edu, gov, mil, nato, info, us, uk, ca, au, de, direct, distance, dialling, telephony, dot, url, iso 3166, iso3166, iso, ripe, RIPE" />
+	<meta name="author" content="Gilbert Hadley" />
+	<meta name="copyright" content="Copyright 1998-2008, Gilbert Hadley, Liverpool, UK - All Rights Reserved" />
+	<meta name="resource-type" content="document" />
+	<meta name="distribution" content="GLOBAL" />
+	<meta name="rating" content="General" />
+	<meta name="site-languages" content="English" />
+
+	<meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "http://www.web-wise-wizard.com/" r (nz 1 vz 1 lz 1 oz 1 cz 1))' />
+	<meta http-equiv="Content-type" content="text/html; charset=ISO-8859-1" />
+	<meta http-equiv="Reply-to" content="http://www.web-wise-wizard.com/site-goodies/contact-us.html" />
+	<meta http-equiv="Content-language" content="en" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="text/javascript" />
+
+
+	<link rel="stylesheet" type="text/css" href="../css/www-theme-1.css" title="skin1" />
+	<link rel="alternate stylesheet" type="text/css" href="../css/www-theme-2.css" title="skin2" />
+	<link rel="alternate stylesheet" type="text/css" href="../css/www-theme-3.css" title="skin3" />
+	<link rel="alternate stylesheet" type="text/css" href="../css/www-theme-4.css" title="skin4" />
+	<link rel="alternate stylesheet" type="text/css" href="../css/www-theme-5.css" title="skin5" />
+	<link rel="alternate stylesheet" type="text/css" href="../css/www-theme-6.css" title="skin6" />
+	<link rel="stylesheet" type="text/css" href="../css/www-content.css" />
+
+
+	<script type="text/javascript">
+
+	<!-- HIDE FROM OLD BROWSERS
+
+	window.onerror = catchError;
+	var docDomain = (typeof(document.domain)=="unknown") ? "" : document.domain;		
+	var winCount = 0;
+
+	function catchError(errMess,pageAddr,lineNum) {
+
+		var nameVal = "line=" + escape(lineNum);
+		nameVal += "&error=" + escape(errMess);
+		nameVal += "&page=" + escape(pageAddr);
+		nameVal += "&appName=" + escape(navigator.appName);
+		nameVal += "&appVersion=" + escape(navigator.appVersion);
+		nameVal += "&userAgent=" + escape(navigator.userAgent);
+		nameVal += "&locPath=" + escape(location.pathname);
+		nameVal += "&docRef=" + encodeuri(document.referrer);
+
+		if (docDomain.length) {
+			var url = "http://" + docDomain + "/cgi-bin/record-scripting-error.cgi?" + nameVal;
+			self.location.href = url;
+		} else {
+			winCount ++;
+			winName = "error" + winCount;
+			nameVal = unescape(nameVal);
+			nameVal = nameVal.replace(/&/g,"<br />");
+
+			errorWin = window.open('',winName,'scrollbars=yes');
+			errorWin.document.writeln(nameVal);
+			errorWin.document.close();
+		}
+
+		// RETURN FALSE TO INVOKE THE DEFAULT ERROR HANDLER AFTERWARDS
+		// RETURN TRUE TO BYPASS THE DEFAULT ERROR HANDLER AFTERWARDS
+		return (true);
+	}
+
+	// END HIDING -->
+
+	</script> 
+
+
+	<script type="text/javascript" src="../js/script-bin.js"></script>
+
+
+	<script type="text/javascript">
+
+	<!-- HIDE FROM OLD BROWSERS
+
+//=================================================================================
+
+	var wwwTitleArea = new Image(500,90);
+	wwwTitleArea.src = "../images/www-title-area.gif";
+	var internetToolbox = new Image(498,12);
+	internetToolbox.src = "../images/internet-toolbox.gif";
+	var pixClear = new Image(1,1);
+	pixClear.src = "../images/pixClear.gif";
+
+//=================================================================================
+
+	function convertObj(objStr) {
+
+		var objID = null;
+
+		if (document.getElementById) {
+			objID = document.getElementById(objStr);
+		} else if (document.all) {
+			objID = eval("document." + objStr);
+		} else if (document.layers) {
+			objID = eval("document.layers." + objStr);
+		}
+
+		return(objID);
+	}
+
+
+	function squirtHTML(objStr,htmstr) {
+
+		var objID = convertObj(objStr);
+		objID.innerHTML = htmstr;
+	}
+
+//=================================================================================
+
+	// CONSTRUCTOR FUNCTION TO CREATE GENERAL OBJECT
+	function genericObj(suffix,iddd,name) {
+
+		this.suffix = suffix;
+		this.iddd = iddd;
+
+//		if (typeof(iddd ) == "number" ) {
+//			this.iddd = ( iddd > 0 ) ? iddd : 10001;
+//		} else {
+//			this.iddd = (iddd.length > 0) ? parseInt (iddd,10) : 10001;
+//		}
+
+		this.name = name;
+	}
+
+
+	var count;
+
+	// DECLARE GENERAL ARRAY
+	var genericArray = new Array;
+	count = -1;
+
+	// CREATE ARRAY OF GENERAL OBJECTS
+	count++; genericArray[count] = new genericObj ( "biz",	"n/a",	"International Business" );
+	count++; genericArray[count] = new genericObj ( "com",	"n/a",	"International Commercial" );
+	count++; genericArray[count] = new genericObj ( "edu",	"n/a",	"US Educational" );
+	count++; genericArray[count] = new genericObj ( "gov",	"n/a",	"US Government" );
+	count++; genericArray[count] = new genericObj ( "int",	"n/a",	"International Organization (e.g. Nato)" );
+	count++; genericArray[count] = new genericObj ( "mil",	"n/a",	"US Military" );
+	count++; genericArray[count] = new genericObj ( "net",	"n/a",	"International Network" );
+	count++; genericArray[count] = new genericObj ( "org",	"n/a",	"International Non&#45;Profit Organization" );
+	count++; genericArray[count] = new genericObj ( "arpa","n/a",	"Old style Arpanet" );
+	count++; genericArray[count] = new genericObj ( "nato","n/a",	"Nato field (deleted, see \"int\")" );
+
+	// DECLARE GENERAL INDEX ARRAY
+	var xG = new Array ( genericArray.length );
+
+//=================================================================================
+
+	// CONSTRUCTOR FUNCTION TO CREATE COUNTRYT
+	function country_object (suffix,iddd,name) {
+
+		this.suffix = suffix;
+		if (typeof(iddd) == "number") {
+			this.iddd = iddd;
+		} else if (iddd.length > 0 && iddd.length < 4) {
+			this.iddd = parseInt (iddd,10);
+		} else if (iddd.length > 3) {
+			this.iddd = 10000;
+		} else {
+			this.iddd = 0;
+		}
+
+		this.name = name;
+	}
+
+
+	// DECLARE COUNTRY ARRAY
+	var countryArray = new Array;
+	count = -1;
+
+
+	// CREATE ARRAY OF COUNTRY OBJECTS
+	count++; countryArray[count] = new country_object ( "ac",	247,	"Ascension Island" );
+	count++; countryArray[count] = new country_object ( "ad",	20,	"Andorra" );
+	count++; countryArray[count] = new country_object ( "ae",	971,	"United Arab Emirates" );
+	count++; countryArray[count] = new country_object ( "af",	93,	"Afghanistan" );
+	count++; countryArray[count] = new country_object ( "ag",	809,	"Antigua and Barbuda" );
+	count++; countryArray[count] = new country_object ( "ai",	809,	"Anguilla" );
+	count++; countryArray[count] = new country_object ( "al",	355,	"Albania, Soc Rep of" );
+	count++; countryArray[count] = new country_object ( "am",	7,	"Armenia" );
+	count++; countryArray[count] = new country_object ( "an",	599,	"Netherlands Antilles" );
+	count++; countryArray[count] = new country_object ( "ao",	244,	"Angola" );
+	count++; countryArray[count] = new country_object ( "aq",	672,	"Antarctica" );
+	count++; countryArray[count] = new country_object ( "ar",	54,	"Argentina" );
+	count++; countryArray[count] = new country_object ( "as",	684,	"American Samoa (US)" );
+	count++; countryArray[count] = new country_object ( "at",	43,	"Austria" );
+	count++; countryArray[count] = new country_object ( "au",	61,	"Australia" );
+	count++; countryArray[count] = new country_object ( "aw",	297,	"Aruba" );
+	count++; countryArray[count] = new country_object ( "az", 	7,	"Azerbaijan" );
+	count++; countryArray[count] = new country_object ( "ba",	387,	"Bosnia and Herzegovina" );
+	count++; countryArray[count] = new country_object ( "bb",	809,	"Barbados" );
+	count++; countryArray[count] = new country_object ( "bd",	880,	"Bangladesh, People's Rep of" );
+	count++; countryArray[count] = new country_object ( "be",	32,	"Belgium" );
+	count++; countryArray[count] = new country_object ( "bf",	226,	"Burkina Faso" );
+	count++; countryArray[count] = new country_object ( "bg",	359,	"Bulgaria" );
+	count++; countryArray[count] = new country_object ( "bh",	973,	"Bahrain" );
+	count++; countryArray[count] = new country_object ( "bi",	257,	"Burundi" );
+	count++; countryArray[count] = new country_object ( "bj",	229,	"Benin, People's Rep" );
+	count++; countryArray[count] = new country_object ( "bm",	809,	"Bermuda" );
+	count++; countryArray[count] = new country_object ( "bn",	673,	"Brunei Darussalam" );
+	count++; countryArray[count] = new country_object ( "bo",	591,	"Bolivia" );
+	count++; countryArray[count] = new country_object ( "br",	55,	"Brazil" );
+	count++; countryArray[count] = new country_object ( "bs",	809,	"Bahamas" );
+	count++; countryArray[count] = new country_object ( "bt",	975,	"Bhutan" );
+	count++; countryArray[count] = new country_object ( "bv",	"262 682",	"Bouvet Island" );
+	count++; countryArray[count] = new country_object ( "bw",	267,	"Botswana" );
+	count++; countryArray[count] = new country_object ( "by",	7,	"Belarus" );
+	count++; countryArray[count] = new country_object ( "bz",	501,	"Belize" );
+	count++; countryArray[count] = new country_object ( "ca",	1,	"Canada" );
+	count++; countryArray[count] = new country_object ( "cc",	"229 353 354 501",	"Cocos (Keeling) Islands" );
+	count++; countryArray[count] = new country_object ( "cf",	236,	"Central African Republic" );
+	count++; countryArray[count] = new country_object ( "cg",	242,	"Congo, Rep of" );
+	count++; countryArray[count] = new country_object ( "ch",	41,	"Switzerland" );
+	count++; countryArray[count] = new country_object ( "ci",	225,	"Cote D'Ivoire, La (Ivory Coast)" );
+	count++; countryArray[count] = new country_object ( "ck",	682,	"Cook Islands" );
+	count++; countryArray[count] = new country_object ( "cl",	56,	"Chile" );
+	count++; countryArray[count] = new country_object ( "cm",	237,	"Cameroon, United Rep of" );
+	count++; countryArray[count] = new country_object ( "cn",	86,	"China, People's Rep" );
+	count++; countryArray[count] = new country_object ( "co",	57,	"Colombia" );
+	count++; countryArray[count] = new country_object ( "cr",	506,	"Costa Rica" );
+	count++; countryArray[count] = new country_object ( "cs",	42,	"Czechoslovakia (former)" );
+	count++; countryArray[count] = new country_object ( "cu",	"",	"Cuba" );
+	count++; countryArray[count] = new country_object ( "cv",	238,	"Cape Verde Islands" );
+	count++; countryArray[count] = new country_object ( "cx",	672,	"Christmas Island and Cocos Islands" );
+	count++; countryArray[count] = new country_object ( "cy",	357,	"Cyprus" );
+	count++; countryArray[count] = new country_object ( "cz",	420,	"Czech Republic" );
+	count++; countryArray[count] = new country_object ( "de",	49,	"Germany, Fed Rep of" );
+	count++; countryArray[count] = new country_object ( "dj",	253,	"Djibouti, Rep of" );
+	count++; countryArray[count] = new country_object ( "dk",	45,	"Denmark" );
+	count++; countryArray[count] = new country_object ( "dm",	809,	"Dominica" );
+	count++; countryArray[count] = new country_object ( "do",	809,	"Dominican Republic" );
+	count++; countryArray[count] = new country_object ( "dz",	213,	"Algeria" );
+	count++; countryArray[count] = new country_object ( "ec",	593,	"Ecuador" );
+	count++; countryArray[count] = new country_object ( "ee",	7,	"Estonia" );
+	count++; countryArray[count] = new country_object ( "eg",	20,	"Egypt, Arab Rep of" );
+	count++; countryArray[count] = new country_object ( "eh",	"",	"Western Sahara" );
+	count++; countryArray[count] = new country_object ( "er",	291,	"Eritrea" );
+	count++; countryArray[count] = new country_object ( "es",	34,	"Spain" );
+	count++; countryArray[count] = new country_object ( "et",	251,	"Ethiopia" );
+	count++; countryArray[count] = new country_object ( "fi",	358,	"Finland" );
+	count++; countryArray[count] = new country_object ( "fj",	679,	"Fiji Islands" );
+	count++; countryArray[count] = new country_object ( "fk",	500,	"Falkland Islands (Malvinas)" );
+	count++; countryArray[count] = new country_object ( "fm",	691,	"Micronesia, Federated States of (US)" );
+	count++; countryArray[count] = new country_object ( "fo",	298,	"Faroe Islands" );
+	count++; countryArray[count] = new country_object ( "fr",	33,	"France" );
+	count++; countryArray[count] = new country_object ( "fx",	"",	"France, Metropolitan" );
+	count++; countryArray[count] = new country_object ( "ga",	220,	"Gabon Republic" );
+	count++; countryArray[count] = new country_object ( "gb",	44,	"Great Britain (UK)" );
+	count++; countryArray[count] = new country_object ( "gd",	809,	"Grenada" );
+	count++; countryArray[count] = new country_object ( "ge",	7,	"Georgia" );
+	count++; countryArray[count] = new country_object ( "gf",	594,	"French Guiana" );
+	count++; countryArray[count] = new country_object ( "gg",	"",	"Guernsey, Alderney, Sark" );
+	count++; countryArray[count] = new country_object ( "gh",	233,	"Ghana" );
+	count++; countryArray[count] = new country_object ( "gi",	350,	"Gibraltar" );
+	count++; countryArray[count] = new country_object ( "gl",	299,	"Greenland" );
+	count++; countryArray[count] = new country_object ( "gm",	220,	"Gambia, The" );
+	count++; countryArray[count] = new country_object ( "gn",	224,	"Guinea, People's Rev. Rep" );
+	count++; countryArray[count] = new country_object ( "gp",	590,	"Guadeloupe" );
+	count++; countryArray[count] = new country_object ( "gq",	240,	"Equatorial Guinea, Rep of" );
+	count++; countryArray[count] = new country_object ( "gr",	30,	"Greece" );
+	count++; countryArray[count] = new country_object ( "gs",	"",	"S. Georgia and S. Sandwich Isls." );
+	count++; countryArray[count] = new country_object ( "gt",	502,	"Guatemala" );
+	count++; countryArray[count] = new country_object ( "gu",	671,	"Guam (US)" );
+	count++; countryArray[count] = new country_object ( "gw",	245,	"Guinea&#45;Bissau" );
+	count++; countryArray[count] = new country_object ( "gy",	592,	"Guyana" );
+	count++; countryArray[count] = new country_object ( "hk",	852,	"Hong Kong" );
+	count++; countryArray[count] = new country_object ( "hm",	"",	"Heard and McDonald Islands" );
+	count++; countryArray[count] = new country_object ( "hn",	504,	"Honduras" );
+	count++; countryArray[count] = new country_object ( "hr",	385,	"Croatia (Hrvatska)" );
+	count++; countryArray[count] = new country_object ( "ht",	509,	"Haiti" );
+	count++; countryArray[count] = new country_object ( "hu",	36,	"Hungary" );
+	count++; countryArray[count] = new country_object ( "id",	62,	"Indonesia" );
+	count++; countryArray[count] = new country_object ( "ie",	353,	"Ireland, Rep of" );
+	count++; countryArray[count] = new country_object ( "il",	972,	"Israel" );
+	count++; countryArray[count] = new country_object ( "im",	"",	"Isle of Man" );
+	count++; countryArray[count] = new country_object ( "in",	91,	"India" );
+	count++; countryArray[count] = new country_object ( "io",	"",	"British Indian Ocean Territory" );
+	count++; countryArray[count] = new country_object ( "iq",	964,	"Iraq" );
+	count++; countryArray[count] = new country_object ( "ir",	98,	"Iran" );
+	count++; countryArray[count] = new country_object ( "is",	354,	"Iceland" );
+	count++; countryArray[count] = new country_object ( "it",	39,	"Italy" );
+	count++; countryArray[count] = new country_object ( "je",	"",	"Jersey" );
+	count++; countryArray[count] = new country_object ( "jm",	809,	"Jamaica" );
+	count++; countryArray[count] = new country_object ( "jo",	962,	"Jordan" );
+	count++; countryArray[count] = new country_object ( "jp",	81,	"Japan" );
+	count++; countryArray[count] = new country_object ( "ke",	254,	"Kenya, Republic of" );
+	count++; countryArray[count] = new country_object ( "kg",	7,	"Kyrgyzstan" );
+	count++; countryArray[count] = new country_object ( "kh",	855,	"Cambodia" );
+	count++; countryArray[count] = new country_object ( "ki",	686,	"Kiribati" );
+	count++; countryArray[count] = new country_object ( "km",	269,	"Comoros, Fed. &amp; Islamic Rep" );
+	count++; countryArray[count] = new country_object ( "kn",	809,	"Saint Kitts and Nevis" );
+	count++; countryArray[count] = new country_object ( "kp",	850,	"Korea (North), Dem People's Rep of" );
+	count++; countryArray[count] = new country_object ( "kr",	82,	"Korea (South), Rep of" );
+	count++; countryArray[count] = new country_object ( "kw",	965,	"Kuwait" );
+	count++; countryArray[count] = new country_object ( "ky",	809,	"Cayman Islands" );
+	count++; countryArray[count] = new country_object ( "kz",	7,	"Kazakhstan" );
+	count++; countryArray[count] = new country_object ( "la",	856,	"Laos" );
+	count++; countryArray[count] = new country_object ( "lb",	961,	"Lebanon" );
+	count++; countryArray[count] = new country_object ( "lc",	809,	"Saint Lucia" );
+	count++; countryArray[count] = new country_object ( "li",	41,	"Liechtenstein" );
+	count++; countryArray[count] = new country_object ( "lk",	94,	"Sri Lanka, Dem Soc Rep of" );
+	count++; countryArray[count] = new country_object ( "lr",	231,	"Liberia" );
+	count++; countryArray[count] = new country_object ( "ls",	266,	"Lesotho" );
+	count++; countryArray[count] = new country_object ( "lt",	7,	"Lithuania" );
+	count++; countryArray[count] = new country_object ( "lu",	352,	"Luxembourg" );
+	count++; countryArray[count] = new country_object ( "lv",	7,	"Latvia" );
+	count++; countryArray[count] = new country_object ( "ly",	218,	"Libya, Arab People's Soc Jamahiriya" );
+	count++; countryArray[count] = new country_object ( "ma",	212,	"Morocco, Kingdom of" );
+	count++; countryArray[count] = new country_object ( "mc",	492,	"Monaco" );
+	count++; countryArray[count] = new country_object ( "md",	7,	"Moldova, Rep of" );
+	count++; countryArray[count] = new country_object ( "mg",	261,	"Madagascar, Dem Rep of" );
+	count++; countryArray[count] = new country_object ( "mh",	692,	"Marshall Islands (US)" );
+	count++; countryArray[count] = new country_object ( "mk",	389,	"Macedonia" );
+	count++; countryArray[count] = new country_object ( "ml",	223,	"Mali Republic" );
+	count++; countryArray[count] = new country_object ( "mm",	95,	"Myanmar (Previously Burma)" );
+	count++; countryArray[count] = new country_object ( "mn",	976,	"Mongolian People's Rep" );
+	count++; countryArray[count] = new country_object ( "mo",	853,	"Macau" );
+	count++; countryArray[count] = new country_object ( "mp",	"692 345",	"Mariana Islands, Northern (US)" );
+	count++; countryArray[count] = new country_object ( "mq",	596,	"Martinique (French Antilles)" );
+	count++; countryArray[count] = new country_object ( "mr",	222,	"Mauritania, Islamic Rep of" );
+	count++; countryArray[count] = new country_object ( "ms",	809,	"Montserrat" );
+	count++; countryArray[count] = new country_object ( "mt",	356,	"Malta" );
+	count++; countryArray[count] = new country_object ( "mu",	230,	"Mauritius" );
+	count++; countryArray[count] = new country_object ( "mv",	960,	"Maldives, Rep of" );
+	count++; countryArray[count] = new country_object ( "mw",	265,	"Malawi" );
+	count++; countryArray[count] = new country_object ( "mx",	52,	"Mexico" );
+	count++; countryArray[count] = new country_object ( "my",	60,	"Malaysia" );
+	count++; countryArray[count] = new country_object ( "mz",	258,	"Mozambique" );
+	count++; countryArray[count] = new country_object ( "na",	264,	"Namibia" );
+	count++; countryArray[count] = new country_object ( "nc",	687,	"New Caledonia" );
+	count++; countryArray[count] = new country_object ( "ne",	227,	"Niger Republic" );
+	count++; countryArray[count] = new country_object ( "nf",	672,	"Norfolk Island" );
+	count++; countryArray[count] = new country_object ( "ng",	234,	"Nigeria, Federal Rep of" );
+	count++; countryArray[count] = new country_object ( "ni",	505,	"Nicaragua" );
+	count++; countryArray[count] = new country_object ( "nl",	31,	"Netherlands" );
+	count++; countryArray[count] = new country_object ( "no",	47,	"Norway" );
+	count++; countryArray[count] = new country_object ( "np",	977,	"Nepal" );
+	count++; countryArray[count] = new country_object ( "nr",	674,	"Nauru" );
+	count++; countryArray[count] = new country_object ( "nt",	"232 236 672 687 380", "Neutral Zone" );
+	count++; countryArray[count] = new country_object ( "nu",	683,	"Niue" );
+	count++; countryArray[count] = new country_object ( "nz",	64,	"New Zealand (Aotearoa)" );
+	count++; countryArray[count] = new country_object ( "om",	968,	"Oman" );
+	count++; countryArray[count] = new country_object ( "pa",	507,	"Panama" );
+	count++; countryArray[count] = new country_object ( "pe",	51,	"Peru" );
+	count++; countryArray[count] = new country_object ( "pf",	689,	"French Polynesia" );
+	count++; countryArray[count] = new country_object ( "pg",	675,	"Papua New Guinea" );
+	count++; countryArray[count] = new country_object ( "ph",	63,	"Philippines" );
+	count++; countryArray[count] = new country_object ( "pk",	92,	"Pakistan" );
+	count++; countryArray[count] = new country_object ( "pl",	48,	"Poland" );
+	count++; countryArray[count] = new country_object ( "pm",	508,	"St. Pierre and Miquelon" );
+	count++; countryArray[count] = new country_object ( "pn",	"",	"Pitcairn" );
+	count++; countryArray[count] = new country_object ( "pr",	787,	"Puerto Rico (US)" );
+	count++; countryArray[count] = new country_object ( "pt",	351,	"Portugal" );
+	count++; countryArray[count] = new country_object ( "pw",	680,	"Palau, Rep of (US)" );
+	count++; countryArray[count] = new country_object ( "py",	595,	"Paraguay" );
+	count++; countryArray[count] = new country_object ( "qa",	974,	"Qatar" );
+	count++; countryArray[count] = new country_object ( "re",	262,	"Reunion Island" );
+	count++; countryArray[count] = new country_object ( "ro",	40,	"Romania, Soc Rep of" );
+	count++; countryArray[count] = new country_object ( "ru",	7,	"Russian Federation" );
+	count++; countryArray[count] = new country_object ( "rw",	250,	"Rwanda" );
+	count++; countryArray[count] = new country_object ( "sa",	966,	"Saudi Arabia" );
+	count++; countryArray[count] = new country_object ( "sb",	677,	"Solomon Islands" );
+	count++; countryArray[count] = new country_object ( "sc",	248,	"Seychelles Islands" );
+	count++; countryArray[count] = new country_object ( "sd",	249,	"Sudan" );
+	count++; countryArray[count] = new country_object ( "se",	46,	"Sweden" );
+	count++; countryArray[count] = new country_object ( "sg",	65,	"Singapore, Rep of" );
+	count++; countryArray[count] = new country_object ( "sh",	290,	"St. Helena" );
+	count++; countryArray[count] = new country_object ( "si",	386,	"Slovenia" );
+	count++; countryArray[count] = new country_object ( "sj",	"",	"Svalbard and Jan Mayen Islands" );
+	count++; countryArray[count] = new country_object ( "sk",	421,	"Slovak Rep (Slovakia)" );
+	count++; countryArray[count] = new country_object ( "sl",	232,	"Sierra Leone" );
+	count++; countryArray[count] = new country_object ( "sm",	39,	"San Marino" );
+	count++; countryArray[count] = new country_object ( "sn",	221,	"Senegal Rep" );
+	count++; countryArray[count] = new country_object ( "so",	252,	"Somalia" );
+	count++; countryArray[count] = new country_object ( "sr",	597,	"Suriname, Rep of" );
+	count++; countryArray[count] = new country_object ( "st",	239,	"Sao Tome and Principe" );
+	count++; countryArray[count] = new country_object ( "su",	"1 340",	"USSR (former)" );
+	count++; countryArray[count] = new country_object ( "sv",	503,	"El Salvador" );
+	count++; countryArray[count] = new country_object ( "sy",	963,	"Syrian Arab Republic" );
+	count++; countryArray[count] = new country_object ( "sz",	268,	"Swaziland" );
+	count++; countryArray[count] = new country_object ( "tc",	809,	"Turks and Caicos Islands" );
+	count++; countryArray[count] = new country_object ( "td",	235,	"Chad Republic" );
+	count++; countryArray[count] = new country_object ( "tf",	"549 689",	"French Southern Territories" );
+	count++; countryArray[count] = new country_object ( "tg",	228,	"Togo" );
+	count++; countryArray[count] = new country_object ( "th",	66,	"Thailand" );
+	count++; countryArray[count] = new country_object ( "tj",	7,	"Tajikistan" );
+	count++; countryArray[count] = new country_object ( "tk",	690,	"Tokelau" );
+	count++; countryArray[count] = new country_object ( "tm",	7,	"Turkmenistan" );
+	count++; countryArray[count] = new country_object ( "tn",	216,	"Tunisia" );
+	count++; countryArray[count] = new country_object ( "to",	676,	"Tonga Islands" );
+	count++; countryArray[count] = new country_object ( "tp",	"239 372",	"East Timor" );
+	count++; countryArray[count] = new country_object ( "tr",	90,	"Turkey" );
+	count++; countryArray[count] = new country_object ( "tt",	809,	"Trinidad and Tobago, Dem Rep of" );
+	count++; countryArray[count] = new country_object ( "tv",	688,	"Tuvalu" );
+	count++; countryArray[count] = new country_object ( "tw",	886,	"Taiwan, Rep of China" );
+	count++; countryArray[count] = new country_object ( "tz",	255,	"Tanzania" );
+	count++; countryArray[count] = new country_object ( "ua",	7,	"Ukraine" );
+	count++; countryArray[count] = new country_object ( "ug",	256,	"Uganda" );
+	count++; countryArray[count] = new country_object ( "uk",	44,	"United Kingdom" );
+	count++; countryArray[count] = new country_object ( "um",	"",	"US Minor Islands" );
+	count++; countryArray[count] = new country_object ( "us",	1,	"United States" );
+	count++; countryArray[count] = new country_object ( "uy",	598,	"Uruguay" );
+	count++; countryArray[count] = new country_object ( "uz",	7,	"Uzbekistan" );
+	count++; countryArray[count] = new country_object ( "va",	39,	"Vatican City State (Holy See)" );
+	count++; countryArray[count] = new country_object ( "vc",	809,	"Saint Vincent and the Grenadines" );
+	count++; countryArray[count] = new country_object ( "ve",	58,	"Venezuela" );
+	count++; countryArray[count] = new country_object ( "vg",	284,	"Virgin Islands (British)" );
+	count++; countryArray[count] = new country_object ( "vi",	340,	"Virgin Islands (US)" );
+	count++; countryArray[count] = new country_object ( "vn",	84,	"Viet Nam" );
+	count++; countryArray[count] = new country_object ( "vu",	678,	"Vanuatu, Rep of" );
+	count++; countryArray[count] = new country_object ( "wf",	681,	"Wallis and Futuna Islands" );
+	count++; countryArray[count] = new country_object ( "ws",	685,	"Western Samoa" );
+	count++; countryArray[count] = new country_object ( "ye",	967,	"Yemen, Rep of" );
+	count++; countryArray[count] = new country_object ( "yt",	269,	"Mayotte Island" );
+	count++; countryArray[count] = new country_object ( "yu",	381,	"Yugoslavia" );
+	count++; countryArray[count] = new country_object ( "za",	27,	"South Africa, Rep of" );
+	count++; countryArray[count] = new country_object ( "zm",	260,	"Zambia" );
+	count++; countryArray[count] = new country_object ( "zr",	243,	"Zaire, Rep of" );
+	count++; countryArray[count] = new country_object ( "zw",	263,	"Zimbabwe" );
+
+	// DECLARE COUNTRY INDEX ARRAY
+	var xC = new Array (countryArray.length);
+
+//=================================================================================
+
+	function resetIndex(x,num_array) {
+
+		for (var line=0; line<num_array; line++) {
+			x[line] = line;
+		}
+	}
+
+	resetIndex(xG,xG.length);
+	resetIndex(xC,xC.length);
+
+	function sortIndex(array_name,x,num_array,field_name) {
+
+		var toprec, botrec, inn, out, temp;
+
+		resetIndex(x,num_array);
+
+		toprec = 0;
+		botrec = num_array;
+
+		if ( field_name == "suffix" ) {
+
+			for ( out=toprec; out<botrec - 1; out++ ) {
+				for (inn = out + 1; inn<botrec; inn++) {
+					if ( array_name[x[out]].suffix > array_name[x[inn]].suffix ) {
+						temp = x[inn];
+						x[inn] = x[out];
+						x[out] = temp;
+					}
+				}
+			}
+
+		} else if ( field_name == "description" ) {
+
+			for (out=toprec; out<botrec - 1; out++) {
+				for ( inn = out + 1; inn < botrec; inn++ ) {
+					if ( array_name[x[out]].name > array_name[x[inn]].name ) {
+						temp = x[inn];
+						x[inn] = x[out];
+						x[out] = temp;
+					}
+				}
+			}
+
+		} else if ( field_name == "iddd" ) {
+
+			for(out=toprec; out<botrec-1; out++) {
+				for ( inn = out + 1; inn < botrec; inn++ ) {
+					if ( compare_iddd ( array_name, x[out], x[inn] ) ) {
+						temp = x[inn];
+						x[inn] = x[out];
+						x[out] = temp;
+					}
+				}
+			}
+		}
+	}
+
+
+	function compare_iddd ( array_name, out, inn ) {
+
+		if ( array_name[out].iddd > array_name[inn].iddd ) {
+			return ( 1 );
+		} else if ( array_name[out].iddd < array_name[inn].iddd ) {
+			return ( 0 );
+		}
+
+		if ( array_name[out].name > array_name[inn].name ) {
+			return ( 1 );
+		}
+
+		return ( 0 );
+	}
+
+
+	function reSortLists(radio) {
+
+		var htmstr;
+
+		if (radio.name == "Generic") {
+			sortIndex(genericArray,xG,genericArray.length,radio.value);
+			htmstr = createTable("Generic",genericArray,xG,genericArray.length);
+			squirtHTML('genericTLDs',htmstr);
+		} else if (radio.name == "Country") {
+			sortIndex(countryArray,xC,countryArray.length,radio.value);
+			htmstr = createTable("Country",countryArray,xC,countryArray.length);
+			squirtHTML('countryTLDs',htmstr);
+		}
+	}
+
+//=================================================================================
+
+	function createTable(listName,array_name,x,num_array) {
+
+		var genericText = "Table listing " + num_array + " Top Level Generic Domains together with their Internet country codes";
+		var countryText = "Table listing " + num_array + " Top Level Country Domains together with their 2-didit Internet country codes and IDDD codes";
+
+		var summaryText = "";
+		if (listName == "Generic") {
+			summaryText = genericText;
+		} else if (listName == "Country") {
+			summaryText = countryText;
+		}
+
+		var htmstr = '\t\x3Ctable border="0" cellpadding="4" cellspacing="1" class="monoTable"';
+		htmstr += ' summary="' + summaryText + '"\x3E\n\n';
+
+		htmstr += '\t\x3Ccaption\x3E' + num_array + ' Records\x3C/caption\x3E\n\n';
+		htmstr += '\t\x3Ccolgroup\x3E\n';
+		htmstr += '\t\x3Ccolgroup\x3E\n';
+		htmstr += '\t\x3Ccolgroup class="alignRight"\x3E\n';
+		htmstr += '\t\x3Ccolgroup\x3E\n\n';
+
+		htmstr += '\t\x3Ctr class="bg0"\x3E\n';
+		htmstr += '\t\x3Cth class="width60"\x3ETLD\x3C/th\x3E\n';
+		htmstr += '\t\x3Cth class="width340"\x3EDescription\x3C/th\x3E\n';
+		htmstr += '\t\x3Cth class="width60"\x3EIDDD\x3C/th\x3E\n';
+		htmstr += '\t\x3C/tr\x3E\n\n';
+
+		var bg, name;
+		for (var line=0; line<num_array; line ++) {
+
+			bg = (line%2) ? "bg2" : "bg1";
+			name = listName.substr(0,2).toLowerCase() + line;
+
+			htmstr += '\t\x3Ctr class="' + bg + '"\x3E\n';
+			htmstr += '\t\x3Ctd id="' + name + '"\x3E' + array_name[x[line]].suffix + '\x3C/td\x3E\n';
+			htmstr += '\t\x3Ctd headers="' + name + '"\x3E' + array_name[x[line]].name + '\x3C/td\x3E\n';
+			var iddd = array_name[x[line]].iddd;
+			if (iddd == 10000) {
+				iddd = "#";
+			} else if (iddd == 10001) {
+				iddd = "n/a";
+			} else if (iddd === 0) {
+				iddd = "&nbsp;";
+			}
+		
+			htmstr += '\t\x3Ctd headers="' + name + '"\x3E' + iddd + '\x3C/td\x3E\n';
+			htmstr += '\t\x3C/tr\x3E\n\n';
+		}
+
+		htmstr += '\t\x3C/table\x3E\n\n';
+
+		return(htmstr);
+	}
+
+
+	function genericTextarea() {
+
+		if (!location.hash.match(new RegExp (/admin$/i))) {
+			return;
+		}
+
+		var tabstr = createTable("Generic",genericArray,xG,genericArray.length);
+
+		var htmstr = '\x3Cform action="" onsubmit="return false;"\x3E';
+		htmstr += '\x3Cdiv\x3E\x3Ctextarea rows="20" cols="60" style="width:100%"\x3E';
+		htmstr += tabstr + '\x3C/textarea\x3E\x3C/div\x3E';
+		htmstr += '\x3C/form\x3E';
+
+		document.write(htmstr);
+	}
+
+
+	function countryTextarea() {
+
+		if (!location.search.match(new RegExp (/admin$/i))) {
+			return;
+		}
+
+		var tabstr = createTable("Country",countryArray,xC,countryArray.length);
+
+		var htmstr = '\x3Cform action="" onsubmit="return false;"\x3E';
+		htmstr += '\x3Cdiv\x3E\x3Ctextarea rows="20" cols="60" style="width:100%"\x3E';
+		htmstr += tabstr + '\x3C/textarea\x3E\x3C/div\x3E';
+		htmstr += '\x3C/form\x3E';
+
+		document.write(htmstr);
+	}
+
+//=================================================================================
+
+	function checkLocal(link) {
+	
+		var docDomain = ( typeof ( document.domain ) == "unknown" ) ? "" : document.domain;
+	
+		if (!docDomain.length) {
+
+			if (link.href.match(/http:\/\/webmaster.web-wise-wizard.com/i)) {
+				re = /http:\/\/webmaster.web-wise-wizard.com/i;
+				link.href = link.href.replace(re,"file:///D:/htdocs2/web-wise-wizard-4-wm/public_html/");
+				link.href = link.href + "index.html";
+			} else if (link</num.indexOf(".") < 0) {
+				link.href = link.href + "index.html";
+			}
+		}
+
+		return(true);
+	}
+
+//=================================================================================
+
+	function fullWindow(link) {
+
+		if (typeof(_fullWindow) == "function") {
+			return(!_fullWindow(link.href));
+		} else {
+			return(true);
+		}
+	}
+
+//=================================================================================
+
+	// END HIDING -->
+
+	</script>
+
+</head>
+
+<body>
+
+	<!-- START OF PAGE HEADER AREA -->
+
+	<div class="headerArea">
+
+	<div><img src="../images/pixClear.gif" alt="" width="1" height="5" class="displayBlock" /></div>
+
+	<div><a href="../" onclick="return(checkLocal(this))"><img src="../images/www-title-area.gif" alt="The Original Web-Wise-Wizard" width="500" height="90" class="displayBlock" /></a></div>
+
+	<div><a href="../" onclick="return(checkLocal(this))" title="A Web Authors, Web Developers and Webmasters Internet Toolbox"><img src="../images/internet-toolbox.gif" alt="Web Authors, Web Developers and Webmasters Internet Toolbox" width="498" height="19" class="displayBlock" /></a></div>
+
+	</div>
+
+	<!-- END OF PAGE HEADER AREA -->
+
+
+
+	<!-- START OF HORIZONTAL MENUS -->
+
+	<div><img src="../images/pixClear.gif" alt="" width="100%" height="4" class="lineAcross1" /></div>
+
+	<ul class="mainMenu">
+	<li class="deadLink">Internet</li>
+	<li><a href="../html-tutorials/" onclick="return(checkLocal(this))">HTML</a></li>
+	<li><a href="../css-style-sheets/" onclick="return(checkLocal(this))">CSS</a></li>
+	<li><a href="../javascript-tutorials/" onclick="return(checkLocal(this))">JavaScript</a></li>
+	<li><a href="../server-side/" onclick="return(checkLocal(this))">Server&#45;Side</a></li>
+	<li><a href="../web-graphics-design/" onclick="return(checkLocal(this))">Graphics</a></li>
+	<li><a href="../photoshop-course/" onclick="return(checkLocal(this))">Photoshop</a></li>
+	<li><a href="http://webmaster.web-wise-wizard.com/" onclick="return(checkLocal(this))">Webmaster</a></li>
+	</ul>
+
+	<div><img src="../images/pixClear.gif" alt="" width="100%" height="3" class="lineAcross2" /></div>
+
+	<ul class="subMenu">
+	<li><a href="../" onclick="return(checkLocal(this))">Home</a></li>
+	<li><a href="../site-goodies/web-wise-wizard-sitemap.htm">Sitemap</a></li>
+	<li><a href="../site-goodies/site-development-bible.html">About Site</a></li>
+	<li><a href="../site-goodies/site-statistics-trends.html">Site Stats</a></li>
+	<li><a href="../site-goodies/online-privacy-policy.html">Privacy</a></li>
+	<li><a href="../site-goodies/contact-us.html">Contact Us</a></li>
+	<li><a href="../site-goodies/multiple-search-engines.html">Multi&#45;Search</a></li>
+	</ul>
+
+	<div><img src="../images/pixClear.gif" alt="" width="100%" height="3" class="lineAcross2" /></div>
+
+	<ul class="subMenu">
+	<li><a href="../internet-dns-web/" onclick="return(checkLocal(this))">The Internet</a></li>
+	<li class="deadLink">TLD Codes</li>
+	<li><a href="../internet-dns-web/internet-dns-explained-tutorial.html">DNS Explained</a></li>
+	<li><a href="../site-goodies/website-web-design-tips-tricks.html">Design Tips</a></li>
+	<li><a href="../site-goodies/web-design-software-html-editors.html">HTML Editors</a></li>
+	</ul>
+
+	<div><img src="../images/pixClear.gif" alt="" width="100%" height="3" class="lineAcross2" /></div>
+
+	<!-- END OF HORIZONTAL MENUS -->
+
+
+
+	<!-- START OF MAIN CONTENT CONTAINER -->
+	<div id="mainContainer">
+
+
+	<!-- START OF MAIN CONTENT AREA -->
+	<div id="mainContent">
+
+
+	<!-- START OF PAGE TITLE AREA -->
+
+	<div class="alignCenter">
+	<div class="bestViewed">Best viewed at 1024 x 768 using a colour depth greater than 256</div>
+	<h1 class="h1">Internet Top Level Domain Codes</h1>
+	<div class="pageMessage">This page has been tested and conforms to WCAG 2.0 Accessibility Guidelines</div>
+	</div>
+
+	<!-- END OF PAGE TITLE AREA -->
+
+
+	<h2 class="h2">Top Level Domains ...</h2>
+
+	<p class="normText">This page contains two tables, one containing the generic Internet gTLD codes (<i>e.g. DOT com, net, info, etc.</i>) and the other containing country specific Internet ccTLD codes (<i>e.g. DOT us, uk, au, etc.</i>). As a bonus we have also provided the corresponding IDDD International Direct Dialling codes although these are not part of any URL scheme. To assist usability, both tables have the ability to be sorted by column.</p>
+
+	<h2 class="h2">The Generic Codes (gTLDs)</h2>
+
+	<p class="normText">This generic codes table depicts the history of the Internet and the codes range from '.arpa' which is now rarely used to '.com' which is the most sought after top&#45;level Domain in the World.</p>
+
+	<noscript><div>Internet Generic Codes</div></noscript>
+	<script type="text/javascript">genericTextarea();</script>
+
+	<div class="alignCenter"><form action="#" id="genericSortMenu" onsubmit="return false">
+		<div><i>Sort by ... &nbsp;</i><tt><small>
+		<input type="radio" name="Generic" value="suffix" onclick="reSortLists(this)" checked="checked" />TLD&nbsp;
+		<input type="radio" name="Generic" value="description" onclick="reSortLists(this)" />Description&nbsp;
+		<input type="radio" name="Generic" value="iddd" onclick="reSortLists(this)" />IDDD</small></tt></div>
+		<div><input type="image" src="../images/pixClear.gif" /></div>
+	</form></div>
+
+	<div class="centerTable">
+	<div id="genericTLDs">
+	<table border="0" cellpadding="4" cellspacing="1" class="monoTable" summary="Table listing 10 Top Level Generic Domains together with their Internet country codes">
+
+	<caption>10 Records</caption>
+
+	<colgroup />
+	<colgroup />
+	<colgroup class="alignRight" />
+	<colgroup />
+
+	<tr class="bg0">
+	<th class="width60">TLD</th>
+	<th class="width340">Description</th>
+	<th class="width60">IDDD</th>
+	</tr>
+
+	<tr class="bg1">
+	<td id="ge0">biz</td>
+	<td headers="ge0">International Business</td>
+	<td headers="ge0">n/a</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="ge1">com</td>
+	<td headers="ge1">International Commercial</td>
+	<td headers="ge1">n/a</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="ge2">edu</td>
+	<td headers="ge2">US Educational</td>
+	<td headers="ge2">n/a</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="ge3">gov</td>
+	<td headers="ge3">US Government</td>
+	<td headers="ge3">n/a</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="ge4">int</td>
+	<td headers="ge4">International Organization (e.g. Nato)</td>
+	<td headers="ge4">n/a</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="ge5">mil</td>
+	<td headers="ge5">US Military</td>
+	<td headers="ge5">n/a</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="ge6">net</td>
+	<td headers="ge6">International Network</td>
+	<td headers="ge6">n/a</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="ge7">org</td>
+	<td headers="ge7">International Non&#45;Profit Organization</td>
+	<td headers="ge7">n/a</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="ge8">arpa</td>
+	<td headers="ge8">Old style Arpanet</td>
+	<td headers="ge8">n/a</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="ge9">nato</td>
+	<td headers="ge9">Nato field (deleted, see "int")</td>
+	<td headers="ge9">n/a</td>
+	</tr>
+
+	</table>
+	</div>
+	</div>
+
+	<div>&nbsp;</div>
+
+	<noscript><div>Exchange Links Now</div></noscript>
+	<script type="text/javascript">if(typeof(swapLinksBanner)=="function"){swapLinksBanner();}</script>
+
+	<div>&nbsp;</div>
+
+	<h2 class="h2">The Country Codes (ccTLDs)</h2>
+
+	<p class="normText">This dual&#45;purpose country codes table lists all the two&#45;character <i>Internet Country Codes</i> and all the <i>IDDD (International Direct Distance Dialling) Codes</i> in use in the World today. It is interesting to note that Web-Wise-Wizard which is an International top level Domain, has been visited by users from most of the countries in this list.</p>
+
+	<noscript><div>Internet Country Codes</div></noscript>
+	<script type="text/javascript">countryTextarea();</script>
+
+	<div class="alignCenter"><form action="#" id="countrySortMenu" onsubmit="return false">
+		<div><i>Sort by ... &nbsp;</i><tt><small>
+		<input type="radio" name="Country" value="suffix" onclick="reSortLists(this)" checked="checked" />TLD&nbsp;
+		<input type="radio" name="Country" value="description" onclick="reSortLists(this)" />Description&nbsp;
+		<input type="radio" name="Country" value="iddd" onclick="reSortLists(this)" />IDDD</small></tt></div>
+		<div><input type="image" src="../images/pixClear.gif" /></div>
+	</form></div>
+
+	<div class="centerTable">
+	<div id="countryTLDs">
+	<table border="0" cellpadding="4" cellspacing="1" class="monoTable" summary="Table listing 247 Top Level Country Domains together with their 2-didit Internet country codes and IDDD codes">
+
+	<caption>247 Records</caption>
+
+	<colgroup />
+	<colgroup />
+	<colgroup class="alignRight" />
+	<colgroup />
+
+	<tr class="bg0">
+	<th class="width60">TLD</th>
+	<th class="width340">Description</th>
+	<th class="width60">IDDD</th>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co0">ac</td>
+	<td headers="co0">Ascension Island</td>
+	<td headers="co0">247</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co1">ad</td>
+	<td headers="co1">Andorra</td>
+	<td headers="co1">20</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co2">ae</td>
+	<td headers="co2">United Arab Emirates</td>
+	<td headers="co2">971</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co3">af</td>
+	<td headers="co3">Afghanistan</td>
+	<td headers="co3">93</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co4">ag</td>
+	<td headers="co4">Antigua and Barbuda</td>
+	<td headers="co4">809</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co5">ai</td>
+	<td headers="co5">Anguilla</td>
+	<td headers="co5">809</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co6">al</td>
+	<td headers="co6">Albania, Soc Rep of</td>
+	<td headers="co6">355</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co7">am</td>
+	<td headers="co7">Armenia</td>
+	<td headers="co7">7</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co8">an</td>
+	<td headers="co8">Netherlands Antilles</td>
+	<td headers="co8">599</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co9">ao</td>
+	<td headers="co9">Angola</td>
+	<td headers="co9">244</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co10">aq</td>
+	<td headers="co10">Antarctica</td>
+	<td headers="co10">672</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co11">ar</td>
+	<td headers="co11">Argentina</td>
+	<td headers="co11">54</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co12">as</td>
+	<td headers="co12">American Samoa (US)</td>
+	<td headers="co12">684</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co13">at</td>
+	<td headers="co13">Austria</td>
+	<td headers="co13">43</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co14">au</td>
+	<td headers="co14">Australia</td>
+	<td headers="co14">61</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co15">aw</td>
+	<td headers="co15">Aruba</td>
+	<td headers="co15">297</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co16">az</td>
+	<td headers="co16">Azerbaijan</td>
+	<td headers="co16">7</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co17">ba</td>
+	<td headers="co17">Bosnia and Herzegovina</td>
+	<td headers="co17">387</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co18">bb</td>
+	<td headers="co18">Barbados</td>
+	<td headers="co18">809</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co19">bd</td>
+	<td headers="co19">Bangladesh, People's Rep of</td>
+	<td headers="co19">880</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co20">be</td>
+	<td headers="co20">Belgium</td>
+	<td headers="co20">32</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co21">bf</td>
+	<td headers="co21">Burkina Faso</td>
+	<td headers="co21">226</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co22">bg</td>
+	<td headers="co22">Bulgaria</td>
+	<td headers="co22">359</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co23">bh</td>
+	<td headers="co23">Bahrain</td>
+	<td headers="co23">973</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co24">bi</td>
+	<td headers="co24">Burundi</td>
+	<td headers="co24">257</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co25">bj</td>
+	<td headers="co25">Benin, People's Rep</td>
+	<td headers="co25">229</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co26">bm</td>
+	<td headers="co26">Bermuda</td>
+	<td headers="co26">809</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co27">bn</td>
+	<td headers="co27">Brunei Darussalam</td>
+	<td headers="co27">673</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co28">bo</td>
+	<td headers="co28">Bolivia</td>
+	<td headers="co28">591</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co29">br</td>
+	<td headers="co29">Brazil</td>
+	<td headers="co29">55</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co30">bs</td>
+	<td headers="co30">Bahamas</td>
+	<td headers="co30">809</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co31">bt</td>
+	<td headers="co31">Bhutan</td>
+	<td headers="co31">975</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co32">bv</td>
+	<td headers="co32">Bouvet Island</td>
+	<td headers="co32">#</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co33">bw</td>
+	<td headers="co33">Botswana</td>
+	<td headers="co33">267</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co34">by</td>
+	<td headers="co34">Belarus</td>
+	<td headers="co34">7</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co35">bz</td>
+	<td headers="co35">Belize</td>
+	<td headers="co35">501</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co36">ca</td>
+	<td headers="co36">Canada</td>
+	<td headers="co36">1</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co37">cc</td>
+	<td headers="co37">Cocos (Keeling) Islands</td>
+	<td headers="co37">#</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co38">cf</td>
+	<td headers="co38">Central African Republic</td>
+	<td headers="co38">236</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co39">cg</td>
+	<td headers="co39">Congo, Rep of</td>
+	<td headers="co39">242</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co40">ch</td>
+	<td headers="co40">Switzerland</td>
+	<td headers="co40">41</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co41">ci</td>
+	<td headers="co41">Cote D'Ivoire, La (Ivory Coast)</td>
+	<td headers="co41">225</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co42">ck</td>
+	<td headers="co42">Cook Islands</td>
+	<td headers="co42">682</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co43">cl</td>
+	<td headers="co43">Chile</td>
+	<td headers="co43">56</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co44">cm</td>
+	<td headers="co44">Cameroon, United Rep of</td>
+	<td headers="co44">237</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co45">cn</td>
+	<td headers="co45">China, People's Rep</td>
+	<td headers="co45">86</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co46">co</td>
+	<td headers="co46">Colombia</td>
+	<td headers="co46">57</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co47">cr</td>
+	<td headers="co47">Costa Rica</td>
+	<td headers="co47">506</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co48">cs</td>
+	<td headers="co48">Czechoslovakia (former)</td>
+	<td headers="co48">42</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co49">cu</td>
+	<td headers="co49">Cuba</td>
+	<td headers="co49"> </td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co50">cv</td>
+	<td headers="co50">Cape Verde Islands</td>
+	<td headers="co50">238</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co51">cx</td>
+	<td headers="co51">Christmas Island and Cocos Islands</td>
+	<td headers="co51">672</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co52">cy</td>
+	<td headers="co52">Cyprus</td>
+	<td headers="co52">357</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co53">cz</td>
+	<td headers="co53">Czech Republic</td>
+	<td headers="co53">420</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co54">de</td>
+	<td headers="co54">Germany, Fed Rep of</td>
+	<td headers="co54">49</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co55">dj</td>
+	<td headers="co55">Djibouti, Rep of</td>
+	<td headers="co55">253</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co56">dk</td>
+	<td headers="co56">Denmark</td>
+	<td headers="co56">45</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co57">dm</td>
+	<td headers="co57">Dominica</td>
+	<td headers="co57">809</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co58">do</td>
+	<td headers="co58">Dominican Republic</td>
+	<td headers="co58">809</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co59">dz</td>
+	<td headers="co59">Algeria</td>
+	<td headers="co59">213</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co60">ec</td>
+	<td headers="co60">Ecuador</td>
+	<td headers="co60">593</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co61">ee</td>
+	<td headers="co61">Estonia</td>
+	<td headers="co61">7</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co62">eg</td>
+	<td headers="co62">Egypt, Arab Rep of</td>
+	<td headers="co62">20</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co63">eh</td>
+	<td headers="co63">Western Sahara</td>
+	<td headers="co63"> </td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co64">er</td>
+	<td headers="co64">Eritrea</td>
+	<td headers="co64">291</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co65">es</td>
+	<td headers="co65">Spain</td>
+	<td headers="co65">34</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co66">et</td>
+	<td headers="co66">Ethiopia</td>
+	<td headers="co66">251</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co67">fi</td>
+	<td headers="co67">Finland</td>
+	<td headers="co67">358</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co68">fj</td>
+	<td headers="co68">Fiji Islands</td>
+	<td headers="co68">679</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co69">fk</td>
+	<td headers="co69">Falkland Islands (Malvinas)</td>
+	<td headers="co69">500</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co70">fm</td>
+	<td headers="co70">Micronesia, Federated States of (US)</td>
+	<td headers="co70">691</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co71">fo</td>
+	<td headers="co71">Faroe Islands</td>
+	<td headers="co71">298</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co72">fr</td>
+	<td headers="co72">France</td>
+	<td headers="co72">33</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co73">fx</td>
+	<td headers="co73">France, Metropolitan</td>
+	<td headers="co73"> </td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co74">ga</td>
+	<td headers="co74">Gabon Republic</td>
+	<td headers="co74">220</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co75">gb</td>
+	<td headers="co75">Great Britain (UK)</td>
+	<td headers="co75">44</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co76">gd</td>
+	<td headers="co76">Grenada</td>
+	<td headers="co76">809</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co77">ge</td>
+	<td headers="co77">Georgia</td>
+	<td headers="co77">7</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co78">gf</td>
+	<td headers="co78">French Guiana</td>
+	<td headers="co78">594</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co79">gg</td>
+	<td headers="co79">Guernsey, Alderney, Sark</td>
+	<td headers="co79"> </td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co80">gh</td>
+	<td headers="co80">Ghana</td>
+	<td headers="co80">233</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co81">gi</td>
+	<td headers="co81">Gibraltar</td>
+	<td headers="co81">350</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co82">gl</td>
+	<td headers="co82">Greenland</td>
+	<td headers="co82">299</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co83">gm</td>
+	<td headers="co83">Gambia, The</td>
+	<td headers="co83">220</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co84">gn</td>
+	<td headers="co84">Guinea, People's Rev. Rep</td>
+	<td headers="co84">224</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co85">gp</td>
+	<td headers="co85">Guadeloupe</td>
+	<td headers="co85">590</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co86">gq</td>
+	<td headers="co86">Equatorial Guinea, Rep of</td>
+	<td headers="co86">240</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co87">gr</td>
+	<td headers="co87">Greece</td>
+	<td headers="co87">30</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co88">gs</td>
+	<td headers="co88">S. Georgia and S. Sandwich Isls.</td>
+	<td headers="co88"> </td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co89">gt</td>
+	<td headers="co89">Guatemala</td>
+	<td headers="co89">502</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co90">gu</td>
+	<td headers="co90">Guam (US)</td>
+	<td headers="co90">671</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co91">gw</td>
+	<td headers="co91">Guinea&#45;Bissau</td>
+	<td headers="co91">245</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co92">gy</td>
+	<td headers="co92">Guyana</td>
+	<td headers="co92">592</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co93">hk</td>
+	<td headers="co93">Hong Kong</td>
+	<td headers="co93">852</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co94">hm</td>
+	<td headers="co94">Heard and McDonald Islands</td>
+	<td headers="co94"> </td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co95">hn</td>
+	<td headers="co95">Honduras</td>
+	<td headers="co95">504</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co96">hr</td>
+	<td headers="co96">Croatia (Hrvatska)</td>
+	<td headers="co96">385</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co97">ht</td>
+	<td headers="co97">Haiti</td>
+	<td headers="co97">509</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co98">hu</td>
+	<td headers="co98">Hungary</td>
+	<td headers="co98">36</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co99">id</td>
+	<td headers="co99">Indonesia</td>
+	<td headers="co99">62</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co100">ie</td>
+	<td headers="co100">Ireland, Rep of</td>
+	<td headers="co100">353</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co101">il</td>
+	<td headers="co101">Israel</td>
+	<td headers="co101">972</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co102">im</td>
+	<td headers="co102">Isle of Man</td>
+	<td headers="co102"> </td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co103">in</td>
+	<td headers="co103">India</td>
+	<td headers="co103">91</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co104">io</td>
+	<td headers="co104">British Indian Ocean Territory</td>
+	<td headers="co104"> </td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co105">iq</td>
+	<td headers="co105">Iraq</td>
+	<td headers="co105">964</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co106">ir</td>
+	<td headers="co106">Iran</td>
+	<td headers="co106">98</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co107">is</td>
+	<td headers="co107">Iceland</td>
+	<td headers="co107">354</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co108">it</td>
+	<td headers="co108">Italy</td>
+	<td headers="co108">39</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co109">je</td>
+	<td headers="co109">Jersey</td>
+	<td headers="co109"> </td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co110">jm</td>
+	<td headers="co110">Jamaica</td>
+	<td headers="co110">809</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co111">jo</td>
+	<td headers="co111">Jordan</td>
+	<td headers="co111">962</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co112">jp</td>
+	<td headers="co112">Japan</td>
+	<td headers="co112">81</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co113">ke</td>
+	<td headers="co113">Kenya, Republic of</td>
+	<td headers="co113">254</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co114">kg</td>
+	<td headers="co114">Kyrgyzstan</td>
+	<td headers="co114">7</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co115">kh</td>
+	<td headers="co115">Cambodia</td>
+	<td headers="co115">855</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co116">ki</td>
+	<td headers="co116">Kiribati</td>
+	<td headers="co116">686</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co117">km</td>
+	<td headers="co117">Comoros, Fed. &amp; Islamic Rep</td>
+	<td headers="co117">269</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co118">kn</td>
+	<td headers="co118">Saint Kitts and Nevis</td>
+	<td headers="co118">809</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co119">kp</td>
+	<td headers="co119">Korea (North), Dem People's Rep of</td>
+	<td headers="co119">850</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co120">kr</td>
+	<td headers="co120">Korea (South), Rep of</td>
+	<td headers="co120">82</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co121">kw</td>
+	<td headers="co121">Kuwait</td>
+	<td headers="co121">965</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co122">ky</td>
+	<td headers="co122">Cayman Islands</td>
+	<td headers="co122">809</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co123">kz</td>
+	<td headers="co123">Kazakhstan</td>
+	<td headers="co123">7</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co124">la</td>
+	<td headers="co124">Laos</td>
+	<td headers="co124">856</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co125">lb</td>
+	<td headers="co125">Lebanon</td>
+	<td headers="co125">961</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co126">lc</td>
+	<td headers="co126">Saint Lucia</td>
+	<td headers="co126">809</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co127">li</td>
+	<td headers="co127">Liechtenstein</td>
+	<td headers="co127">41</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co128">lk</td>
+	<td headers="co128">Sri Lanka, Dem Soc Rep of</td>
+	<td headers="co128">94</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co129">lr</td>
+	<td headers="co129">Liberia</td>
+	<td headers="co129">231</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co130">ls</td>
+	<td headers="co130">Lesotho</td>
+	<td headers="co130">266</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co131">lt</td>
+	<td headers="co131">Lithuania</td>
+	<td headers="co131">7</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co132">lu</td>
+	<td headers="co132">Luxembourg</td>
+	<td headers="co132">352</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co133">lv</td>
+	<td headers="co133">Latvia</td>
+	<td headers="co133">7</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co134">ly</td>
+	<td headers="co134">Libya, Arab People's Soc Jamahiriya</td>
+	<td headers="co134">218</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co135">ma</td>
+	<td headers="co135">Morocco, Kingdom of</td>
+	<td headers="co135">212</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co136">mc</td>
+	<td headers="co136">Monaco</td>
+	<td headers="co136">492</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co137">md</td>
+	<td headers="co137">Moldova, Rep of</td>
+	<td headers="co137">7</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co138">mg</td>
+	<td headers="co138">Madagascar, Dem Rep of</td>
+	<td headers="co138">261</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co139">mh</td>
+	<td headers="co139">Marshall Islands (US)</td>
+	<td headers="co139">692</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co140">mk</td>
+	<td headers="co140">Macedonia</td>
+	<td headers="co140">389</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co141">ml</td>
+	<td headers="co141">Mali Republic</td>
+	<td headers="co141">223</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co142">mm</td>
+	<td headers="co142">Myanmar (Previously Burma)</td>
+	<td headers="co142">95</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co143">mn</td>
+	<td headers="co143">Mongolian People's Rep</td>
+	<td headers="co143">976</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co144">mo</td>
+	<td headers="co144">Macau</td>
+	<td headers="co144">853</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co145">mp</td>
+	<td headers="co145">Mariana Islands, Northern (US)</td>
+	<td headers="co145">#</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co146">mq</td>
+	<td headers="co146">Martinique (French Antilles)</td>
+	<td headers="co146">596</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co147">mr</td>
+	<td headers="co147">Mauritania, Islamic Rep of</td>
+	<td headers="co147">222</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co148">ms</td>
+	<td headers="co148">Montserrat</td>
+	<td headers="co148">809</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co149">mt</td>
+	<td headers="co149">Malta</td>
+	<td headers="co149">356</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co150">mu</td>
+	<td headers="co150">Mauritius</td>
+	<td headers="co150">230</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co151">mv</td>
+	<td headers="co151">Maldives, Rep of</td>
+	<td headers="co151">960</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co152">mw</td>
+	<td headers="co152">Malawi</td>
+	<td headers="co152">265</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co153">mx</td>
+	<td headers="co153">Mexico</td>
+	<td headers="co153">52</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co154">my</td>
+	<td headers="co154">Malaysia</td>
+	<td headers="co154">60</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co155">mz</td>
+	<td headers="co155">Mozambique</td>
+	<td headers="co155">258</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co156">na</td>
+	<td headers="co156">Namibia</td>
+	<td headers="co156">264</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co157">nc</td>
+	<td headers="co157">New Caledonia</td>
+	<td headers="co157">687</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co158">ne</td>
+	<td headers="co158">Niger Republic</td>
+	<td headers="co158">227</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co159">nf</td>
+	<td headers="co159">Norfolk Island</td>
+	<td headers="co159">672</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co160">ng</td>
+	<td headers="co160">Nigeria, Federal Rep of</td>
+	<td headers="co160">234</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co161">ni</td>
+	<td headers="co161">Nicaragua</td>
+	<td headers="co161">505</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co162">nl</td>
+	<td headers="co162">Netherlands</td>
+	<td headers="co162">31</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co163">no</td>
+	<td headers="co163">Norway</td>
+	<td headers="co163">47</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co164">np</td>
+	<td headers="co164">Nepal</td>
+	<td headers="co164">977</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co165">nr</td>
+	<td headers="co165">Nauru</td>
+	<td headers="co165">674</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co166">nt</td>
+	<td headers="co166">Neutral Zone</td>
+	<td headers="co166">#</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co167">nu</td>
+	<td headers="co167">Niue</td>
+	<td headers="co167">683</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co168">nz</td>
+	<td headers="co168">New Zealand (Aotearoa)</td>
+	<td headers="co168">64</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co169">om</td>
+	<td headers="co169">Oman</td>
+	<td headers="co169">968</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co170">pa</td>
+	<td headers="co170">Panama</td>
+	<td headers="co170">507</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co171">pe</td>
+	<td headers="co171">Peru</td>
+	<td headers="co171">51</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co172">pf</td>
+	<td headers="co172">French Polynesia</td>
+	<td headers="co172">689</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co173">pg</td>
+	<td headers="co173">Papua New Guinea</td>
+	<td headers="co173">675</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co174">ph</td>
+	<td headers="co174">Philippines</td>
+	<td headers="co174">63</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co175">pk</td>
+	<td headers="co175">Pakistan</td>
+	<td headers="co175">92</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co176">pl</td>
+	<td headers="co176">Poland</td>
+	<td headers="co176">48</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co177">pm</td>
+	<td headers="co177">St. Pierre and Miquelon</td>
+	<td headers="co177">508</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co178">pn</td>
+	<td headers="co178">Pitcairn</td>
+	<td headers="co178"> </td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co179">pr</td>
+	<td headers="co179">Puerto Rico (US)</td>
+	<td headers="co179">787</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co180">pt</td>
+	<td headers="co180">Portugal</td>
+	<td headers="co180">351</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co181">pw</td>
+	<td headers="co181">Palau, Rep of (US)</td>
+	<td headers="co181">680</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co182">py</td>
+	<td headers="co182">Paraguay</td>
+	<td headers="co182">595</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co183">qa</td>
+	<td headers="co183">Qatar</td>
+	<td headers="co183">974</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co184">re</td>
+	<td headers="co184">Reunion Island</td>
+	<td headers="co184">262</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co185">ro</td>
+	<td headers="co185">Romania, Soc Rep of</td>
+	<td headers="co185">40</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co186">ru</td>
+	<td headers="co186">Russian Federation</td>
+	<td headers="co186">7</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co187">rw</td>
+	<td headers="co187">Rwanda</td>
+	<td headers="co187">250</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co188">sa</td>
+	<td headers="co188">Saudi Arabia</td>
+	<td headers="co188">966</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co189">sb</td>
+	<td headers="co189">Solomon Islands</td>
+	<td headers="co189">677</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co190">sc</td>
+	<td headers="co190">Seychelles Islands</td>
+	<td headers="co190">248</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co191">sd</td>
+	<td headers="co191">Sudan</td>
+	<td headers="co191">249</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co192">se</td>
+	<td headers="co192">Sweden</td>
+	<td headers="co192">46</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co193">sg</td>
+	<td headers="co193">Singapore, Rep of</td>
+	<td headers="co193">65</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co194">sh</td>
+	<td headers="co194">St. Helena</td>
+	<td headers="co194">290</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co195">si</td>
+	<td headers="co195">Slovenia</td>
+	<td headers="co195">386</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co196">sj</td>
+	<td headers="co196">Svalbard and Jan Mayen Islands</td>
+	<td headers="co196"> </td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co197">sk</td>
+	<td headers="co197">Slovak Rep (Slovakia)</td>
+	<td headers="co197">421</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co198">sl</td>
+	<td headers="co198">Sierra Leone</td>
+	<td headers="co198">232</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co199">sm</td>
+	<td headers="co199">San Marino</td>
+	<td headers="co199">39</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co200">sn</td>
+	<td headers="co200">Senegal Rep</td>
+	<td headers="co200">221</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co201">so</td>
+	<td headers="co201">Somalia</td>
+	<td headers="co201">252</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co202">sr</td>
+	<td headers="co202">Suriname, Rep of</td>
+	<td headers="co202">597</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co203">st</td>
+	<td headers="co203">Sao Tome and Principe</td>
+	<td headers="co203">239</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co204">su</td>
+	<td headers="co204">USSR (former)</td>
+	<td headers="co204">#</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co205">sv</td>
+	<td headers="co205">El Salvador</td>
+	<td headers="co205">503</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co206">sy</td>
+	<td headers="co206">Syrian Arab Republic</td>
+	<td headers="co206">963</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co207">sz</td>
+	<td headers="co207">Swaziland</td>
+	<td headers="co207">268</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co208">tc</td>
+	<td headers="co208">Turks and Caicos Islands</td>
+	<td headers="co208">809</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co209">td</td>
+	<td headers="co209">Chad Republic</td>
+	<td headers="co209">235</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co210">tf</td>
+	<td headers="co210">French Southern Territories</td>
+	<td headers="co210">#</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co211">tg</td>
+	<td headers="co211">Togo</td>
+	<td headers="co211">228</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co212">th</td>
+	<td headers="co212">Thailand</td>
+	<td headers="co212">66</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co213">tj</td>
+	<td headers="co213">Tajikistan</td>
+	<td headers="co213">7</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co214">tk</td>
+	<td headers="co214">Tokelau</td>
+	<td headers="co214">690</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co215">tm</td>
+	<td headers="co215">Turkmenistan</td>
+	<td headers="co215">7</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co216">tn</td>
+	<td headers="co216">Tunisia</td>
+	<td headers="co216">216</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co217">to</td>
+	<td headers="co217">Tonga Islands</td>
+	<td headers="co217">676</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co218">tp</td>
+	<td headers="co218">East Timor</td>
+	<td headers="co218">#</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co219">tr</td>
+	<td headers="co219">Turkey</td>
+	<td headers="co219">90</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co220">tt</td>
+	<td headers="co220">Trinidad and Tobago, Dem Rep of</td>
+	<td headers="co220">809</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co221">tv</td>
+	<td headers="co221">Tuvalu</td>
+	<td headers="co221">688</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co222">tw</td>
+	<td headers="co222">Taiwan, Rep of China</td>
+	<td headers="co222">886</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co223">tz</td>
+	<td headers="co223">Tanzania</td>
+	<td headers="co223">255</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co224">ua</td>
+	<td headers="co224">Ukraine</td>
+	<td headers="co224">7</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co225">ug</td>
+	<td headers="co225">Uganda</td>
+	<td headers="co225">256</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co226">uk</td>
+	<td headers="co226">United Kingdom</td>
+	<td headers="co226">44</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co227">um</td>
+	<td headers="co227">US Minor Islands</td>
+	<td headers="co227"> </td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co228">us</td>
+	<td headers="co228">United States</td>
+	<td headers="co228">1</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co229">uy</td>
+	<td headers="co229">Uruguay</td>
+	<td headers="co229">598</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co230">uz</td>
+	<td headers="co230">Uzbekistan</td>
+	<td headers="co230">7</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co231">va</td>
+	<td headers="co231">Vatican City State (Holy See)</td>
+	<td headers="co231">39</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co232">vc</td>
+	<td headers="co232">Saint Vincent and the Grenadines</td>
+	<td headers="co232">809</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co233">ve</td>
+	<td headers="co233">Venezuela</td>
+	<td headers="co233">58</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co234">vg</td>
+	<td headers="co234">Virgin Islands (British)</td>
+	<td headers="co234">284</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co235">vi</td>
+	<td headers="co235">Virgin Islands (US)</td>
+	<td headers="co235">340</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co236">vn</td>
+	<td headers="co236">Viet Nam</td>
+	<td headers="co236">84</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co237">vu</td>
+	<td headers="co237">Vanuatu, Rep of</td>
+	<td headers="co237">678</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co238">wf</td>
+	<td headers="co238">Wallis and Futuna Islands</td>
+	<td headers="co238">681</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co239">ws</td>
+	<td headers="co239">Western Samoa</td>
+	<td headers="co239">685</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co240">ye</td>
+	<td headers="co240">Yemen, Rep of</td>
+	<td headers="co240">967</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co241">yt</td>
+	<td headers="co241">Mayotte Island</td>
+	<td headers="co241">269</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co242">yu</td>
+	<td headers="co242">Yugoslavia</td>
+	<td headers="co242">381</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co243">za</td>
+	<td headers="co243">South Africa, Rep of</td>
+	<td headers="co243">27</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co244">zm</td>
+	<td headers="co244">Zambia</td>
+	<td headers="co244">260</td>
+	</tr>
+
+	<tr class="bg2">
+	<td id="co245">zr</td>
+	<td headers="co245">Zaire, Rep of</td>
+	<td headers="co245">243</td>
+	</tr>
+
+	<tr class="bg1">
+	<td id="co246">zw</td>
+	<td headers="co246">Zimbabwe</td>
+	<td headers="co246">263</td>
+	</tr>
+
+	</table>
+	</div>
+	</div>
+
+
+	<div>&nbsp;</div>
+
+	<h2 class="h2">Page/Table Notes</h2>
+
+	<div><ul class="listStyle">
+	<li>TLD: Top Level Domain</li>
+	<li>IDDD: International Direct Distance Dialling (Telephony)</li>
+	<li>iso 3166: (iso3166-1) The accepted, up-to-date country code standard.</li>
+	<li>RIPE: RIPE Network Coordination Centre.</li>
+	</ul></div>
+
+	<div>&nbsp;</div>
+
+	<div class="alignCenter"><div class="quikPick">+++ Profound Thinking +++<div>Successful people are the ones who think up things for the rest of the world to keep busy at. ~ Don Marquis</div></div></div>
+
+	<div>&nbsp;</div>
+
+	<h2 class="h2">Link Directly To This Page ...</h2>
+
+	<p class="normText">Many users prefer to link directly to individual content pages on Web-Wise-Wizard. If you would like to do this then we have provided the following HTML/CSS link script which you can copy and paste directly into your HTML editor. Alternatively, you might like to use our <a rel="nofollow" href="http://webmaster.web-wise-wizard.com/dynamic-link-scripts-generator.html#referrer" onclick="this.blur()">New Dynamic Link Generator</a> to create a link that more fully meets your own particular requirements.</p>
+
+	<p class="redNote">the link displayed ...</p>
+
+	<div><a href="http://www.web-wise-wizard.com/internet-dns-web/internet-iddd-country-codes.html" class="linkToPage"><span>Web-Wise-Wizard - Internet Top Level Domains</span> Two lists, one of generic Internet codes (<i>com, net, etc.</i>) and the other of country codes (<i>us, uk, au, etc.</i>) plus IDDD dialling. Of special interest is sorting the country list by column.</a></div>
+ 
+	<p class="redNote">select/copy the link Markup ...</p>
+
+	<form action="#" onsubmit="return false">
+	<div><textarea name="linkMarkup" cols="58" rows="5" class="width100p">&lt;div&gt;&lt;a href="http://www.web-wise-wizard.com/internet-dns-web/internet-iddd-country-codes.html" target="_blank" style="text-decoration:none;font-family:Arial,Helvetica,sans-serif;font-size:10pt;color:#000000;line-height:125%;"&gt;&lt;span style="display:block;text-decoration:underline;font-weight:bold;color:#0000CC;font-size:10pt;"&gt;Web-Wise-Wizard - Internet Top Level Domains&lt;/span&gt; Two lists, one of generic Internet codes (&lt;i&gt;com, net, etc.&lt;/i&gt;) and the other of country codes (&lt;i&gt;us, uk, au, etc.&lt;/i&gt;) plus IDDD dialling. Of special interest is sorting the country list by column.&lt;/a&gt;&lt;/div&gt;</textarea></div>
+	<div><input type="button" value="Select" onclick="linkMarkup.focus();linkMarkup.select();" class="siteButtonHi" /></div>
+	<div><input type="image" src="../images/pixClear.gif" /></div>
+	</form>
+
+	</div>
+	<!-- END OF MAIN CONTENT AREA -->
+
+	</div>
+	<!-- END OF MAIN CONTENT CONTAINER -->
+
+
+	<!-- START OF RIGHT CONTENT CONTAINER -->
+	<div id="rightContainer2"> 
+
+	<!-- START OF RIGHT CONTENT AREA -->
+	<div id="rightContent">
+
+	<noscript><div>Display Themes Menu</div></noscript>
+	<script type="text/javascript">if(typeof(displayThemesMenu)=="function"){displayThemesMenu();}</script>
+
+	<div class="divHeader">Featured Tutorial</div>
+
+	<div><a href="http://webmaster.web-wise-wizard.com/web-directories-lists-directory.html" title="Find out which are the best Web Directories to increase your PageRank"><img src="../images/want-more-traffic-ad.gif" alt="Want More Traffic? Increase your Link Popularity and your PageRank by learning how to use Web Directories" width="177" height="177" class="displayBlock" /></a></div>
+
+	<div class="divHeader">Link To Us Scripts</div>
+
+	<div class="divData">
+	<div><img src="../images/link-directly.gif" alt="" width="167" height="58" /></div>
+	<div><a rel="nofollow" href="http://webmaster.web-wise-wizard.com/dynamic-link-scripts-generator.html#referrer">New Dynamic Link Generator</a></div>
+	<div><img src="../images/check-it-out.gif" alt="" width="167" height="32" /></div>
+	<div>&nbsp;</div>
+	<div>If you find this page interesting or useful then others are likely to view it in exactly the same way. Providing a link to the page will be considered by the search engines as casting a vote for the page. In turn, this will help to improve the search engine ranking of the page resulting in more people being able to see the page. Your link really does count so please don't delay.</div>
+	<div>&nbsp;</div>
+	<div><a rel="nofollow" href="http://webmaster.web-wise-wizard.com/dynamic-link-scripts-generator.html#referrer">Post your link NOW!</a></div>
+	<div>&nbsp;</div>
+	</div>
+
+	<!-- END OF RIGHT CONTENT AREA -->
+	</div>
+
+	<!-- END OF RIGHT CONTENT CONTAINER -->
+	</div>
+
+
+	<!-- START OF ASSOCIATED WEB LINKS -->
+
+	<div>&nbsp;</div>
+
+	<div class="centerFieldset">
+	<fieldset>
+	<legend>Internet TLDs Featured Sites</legend>
+
+	<div>&nbsp;</div>
+
+	<table border="0" cellpadding="0" cellspacing="0" summary="Pointers to external Websites that contain supporting information.">
+	<tr>
+
+	<td valign="top" id="linkColLeft" headers="linkColLeft">
+
+	<div class="fancyLink"><a href="http://en.wikipedia.org/wiki/Top&#45;level&#95;domain" onclick="return(fullWindow(this))"><em>WikipediA - Top&#45;Level Domains</em><br />A top&#45;level domain (TLD) is the last part of an Internet domain name; that is, the letters which follow the final 'dot' of any URL. For example, in the domain name wikipedia.org, the top&#45;level domain is org (or ORG, as domain names are not case&#45;sensitive).<br /><small>http://en.wikipedia.org/wiki/Top&#45;level&#95;domain</small></a></div>
+
+	</td>
+
+	<td><img src="../images/pixClear.gif" alt="" width="10" height="1" class="displayBlock" /></td>
+	<td class="lineDown"><img src="../images/pixClear.gif" alt="" width="1" height="1" class="displayBlock" /></td> 
+	<td><img src="../images/pixClear.gif" alt="" width="10" height="1" class="displayBlock" /></td>
+
+	<td valign="top" id="linkColRight" headers="linkColRight">
+
+	<div class="fancyLink"><a href="http://www.nw.com/zone/iso&#45;country&#45;codes" onclick="return(fullWindow(this))"><em>You can check any 2 or 3 character Country Code</em><br />Some Codes from ISO 3166. Updated by the RIPE Network Coordination Centre. From: ftp://ftp.ripe.net/iso3166&#45;countrycodes. Source: ISO 3166 Maintenance Agency. Latest change: Thu Aug 7 17:59:51 MET DST 1997<br /><small>http://www.nw.com/zone/iso&#45;country&#45;codes</small></a></div>
+
+	</td>
+
+	</tr>
+	</table>
+
+	</fieldset>
+	</div>
+
+	<!-- END OF ASSOCIATED WEB LINKS -->
+
+
+	<!-- START OF HORIZONTAL MENUS -->
+
+	<div>&nbsp;</div>
+	<div>&nbsp;</div>
+
+	<div><img src="../images/pixClear.gif" alt="" width="100%" height="3" class="lineAcross2" /></div>
+
+	<ul class="mainMenu">
+	<li class="deadLink">Internet</li>
+	<li><a href="../html-tutorials/" onclick="return(checkLocal(this))">HTML</a></li>
+	<li><a href="../css-style-sheets/" onclick="return(checkLocal(this))">CSS</a></li>
+	<li><a href="../javascript-tutorials/" onclick="return(checkLocal(this))">JavaScript</a></li>
+	<li><a href="../server-side/" onclick="return(checkLocal(this))">Server&#45;Side</a></li>
+	<li><a href="../web-graphics-design/" onclick="return(checkLocal(this))">Graphics</a></li>
+	<li><a href="../photoshop-course/" onclick="return(checkLocal(this))">Photoshop</a></li>
+	<li><a href="http://webmaster.web-wise-wizard.com/" onclick="return(checkLocal(this))">Webmaster</a></li>
+	</ul>
+
+	<div><img src="../images/pixClear.gif" alt="" width="100%" height="3" class="lineAcross2" /></div>
+
+	<ul class="subMenu">
+	<li><a href="../" onclick="return(checkLocal(this))">Home</a></li>
+	<li><a href="../site-goodies/web-wise-wizard-sitemap.htm">Sitemap</a></li>
+	<li><a href="../site-goodies/site-development-bible.html">About Site</a></li>
+	<li><a href="../site-goodies/site-statistics-trends.html">Site Stats</a></li>
+	<li><a href="../site-goodies/online-privacy-policy.html">Privacy</a></li>
+	<li><a href="../site-goodies/contact-us.html">Contact Us</a></li>
+	<li><a href="../site-goodies/multiple-search-engines.html">Multi&#45;Search</a></li>
+	</ul>
+
+	<div><img src="../images/pixClear.gif" alt="" width="100%" height="3" class="lineAcross2" /></div>
+
+	<ul class="subMenu">
+	<li><a href="../internet-dns-web/" onclick="return(checkLocal(this))">The Internet</a></li>
+	<li class="deadLink">TLD Codes</li>
+	<li><a href="../internet-dns-web/internet-dns-explained-tutorial.html">DNS Explained</a></li>
+	<li><a href="../site-goodies/website-web-design-tips-tricks.html">Design Tips</a></li>
+	<li><a href="../site-goodies/web-design-software-html-editors.html">HTML Editors</a></li>
+	</ul>
+
+	<div><img src="../images/pixClear.gif" alt="" width="100%" height="4" class="lineAcross3" /></div>
+
+	<!-- END OF HORIZONTAL MENUS -->
+
+
+	<!-- START OF FOOTER AREA -->
+
+	<div class="footerArea">
+
+	<div class="alignCenter"><img src="../images/pixClear.gif" alt="" width="1" height="12" class="displayBlock" /></div>
+
+	<div class="footerText">Copyright &copy; 1998,2008, Gilbert Hadley, Liverpool, England</div>
+
+	<noscript><div>Display Footer Links</div></noscript>
+	<script type="text/javascript">if(typeof(footerLinks)=="function"){footerLinks("xhtml10");}</script>
+
+	<div>&nbsp;</div>
+
+	<div><img src="../images/pixClear.gif" alt="" width="100%" height="5" class="lineAcross4" /></div>
+
+	<div>&nbsp;</div>
+	<div>&nbsp;</div>
+	<div>&nbsp;</div>
+	<div>&nbsp;</div>
+
+	</div>
+
+	<!-- END OF FOOTER AREA -->
+
+</body>
+
+</html>

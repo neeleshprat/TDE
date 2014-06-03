@@ -1,0 +1,492 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta http-equiv="Content-Script-Type" content="text/javascript" />
+    <meta http-equiv="imagetoolbar" content="no" />   
+    <title>APPT Auckland Chip Counts - PokerStarsBlog.com</title>
+    
+
+    <meta name="generator" content="Movable Type Pro 4.23-en" />
+
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://www.pokerstarsblog.com/atom.xml" />
+<link rel="alternate" type="application/rss+xml" title="RSD" href="http://www.pokerstarsblog.com/rsd.xml" />
+<link rel="start" href="http://www.pokerstarsblog.com/" title="Home" />
+<link rel="stylesheet" href="http://www.pokerstarsblog.com/mt-static/themes/pokerstars/css/reset.css" type="text/css" />
+<link rel="stylesheet" href="http://www.pokerstarsblog.com/mt-static/themes/pokerstars/css/main.css" type="text/css" />	
+<link rel="stylesheet" href="http://www.pokerstarsblog.com/mt-static/themes/pokerstars/js/tablesorter/themes/blue/style.css" type="text/css" />	
+<link rel="stylesheet" href="/css/custom-theme/jquery-ui-1.8.14.custom.css" type="text/css" />
+<link rel="stylesheet" href="http://www.pokerstarsblog.com/inc/localstyles.css" type="text/css" />
+<!--[if lte IE 6]>
+<link rel="stylesheet" href="http://www.pokerstarsblog.com/mt-static/themes/pokerstars/css/ie6.css" type="text/css" media="screen" />
+<style type="text/css">
+body {behavior: url(http://www.pokerstarsblog.com/mt-static/themes/pokerstars/css/csshover.htc);}
+span.logo img, img.logo-portal, li.event-item { behavior: url(http://www.pokerstarsblog.com/mt-static/themes/pokerstars/css/iepngfix.htc); }
+</style>
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="http://www.pokerstarsblog.com/mt-static/themes/pokerstars/css/ie7.css" type="text/css" media="screen" />
+<![endif]-->
+
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="http://www.pokerstarsblog.com/appt-auckland-chip-counts.html">
+<dc:title>APPT Auckland Chip Counts</dc:title>
+<dc:description>We have 11 players starting play today for the final day of the APPT Auckland, beginning with the chipcounts below. For payouts, please see our Prizes page on the blog. NameCountryPokerStars statusChips Luke Stanford New Zealand 529,000 Wang Che Jung...</dc:description>
+<dc:creator>Brad Willis</dc:creator>
+<dc:date>2008-10-08T09:47:52-08:00</dc:date>
+<license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/" />
+</Work>
+<License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/">
+</License>
+</rdf:RDF>
+-->
+
+
+
+      <style type='text/css'>
+              .redcardsuit, .blackcardsuit, .nocardsuit, .invalidcard {
+                      padding: 0px 1px 0px 1px;
+                      margin: 0px 1px 0px 1px;
+                      background-color:#ffc;
+                      border:1px solid #888;
+                      font: 15px Courier;
+                      line-height: 150%;
+                }
+                .redcardsuit {
+                        color: red;
+                }
+                .blackcardsuit {
+                        color: black;
+                }
+                .nocardsuit {
+                        color: blue;
+                }
+        </style>
+
+<script src="http://www.pokerstarsblog.com/mt.js" type="text/javascript"></script>
+<script src="/js/jquery-1.5.1.min.js" type="text/javascript"></script>
+<script src="/js/jquery-ui-1.8.14.custom.min.js" type="text/javascript"></script>
+<script src="/js/jquery.tablesorter.min.js" type="text/javascript"></script>
+<script src="/js/jquery.galleria.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/swfobject.js" type="text/javascript" charset="utf-8"></script>
+<script src="http://www.pokerstarsblog.com/twitter/twitter.js" type="text/javascript" charset="utf-8"></script>
+<script src="http://www.pokerstarsblog.com/__utm.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+   $("#pnTabs").tabs();
+   inject_html('#events-widget','/test/events-widget.html?bustcache='+new Date().getTime());
+});
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19968342-1']);
+  _gaq.push(['_setLocalRemoteServerMode']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body>
+<div id="container">
+	<div id="banner">
+	<a href="http://www.pokerstarsblog.com/"><img src="http://www.pokerstarsblog.com/mt-static/themes/pokerstars/images/banners/banner1.jpg" alt="PokerStarsBlog.com" /></a>
+<div id="top_menu">
+     <ul id="top_menu_nav">
+        <li class="top_menu_nav_first"><a href="http://www.pokerstars.com/?source=10128130" target="_blank">PokerStars.com</a></li>
+        <li><a href="http://www.pokerstars.co.uk/?source=10128130" target="_blank">PokerStars.co.uk</a></li>        
+        <li><a href="http://www.pokerstars.tv/" target="_blank">PokerStars TV</a></li>
+        <li><a href="#">Poker Tours</a>
+          <ul id="top_menu_subnav">
+            <li><a href="http://www.europeanpokertour.com/" target="_blank">EPT</a></li>
+            <li><a href="http://www.lapt.com/" target="_blank">LAPT</a></li>
+            <li><a href="http://www.appt.com/" target="_blank">APPT</a></li>
+            <li><a href="http://www.napt.com/" target="_blank">NAPT</a></li>
+            <li><a href="http://www.ukipt.com/" target="_blank">UKIPT</a></li>
+            <li><a href="http://www.anzpt.com/" target="_blank">ANZPT</a></li>
+            <li><a href="http://www.pokerstarsipt.com/" target="_blank">IPT</a></li>
+            <li><a href="http://www.francepokerseries.fr/en/" target="_blank">FPS</a></li>
+            <li><a href="http://www.russianpokerseries.net/en/" target="_blank">RPS</a></li>
+            <li><a href="http://www.estrellaspokertour.com/en/" target="_blank">Estrellas</a></li>
+            <li><a href="http://www.portugalpokerseries.com/" target="_blank">PPS</a></li>
+            <li><a href="http://www.eurekapokertour.com/" target="_blank">Eureka</a></li>
+            <li><a href="http://www.belgianpokerseries.com/" target="_blank">BPS</a></li>
+            <li><a href="http://www.brasilpokertour.com/" target="_blank">BPT</a></li>
+            <li><a href="http://www.pokerstarsmacau.com/" target="_blank">PS Macau</a></li>
+            <li><a href="http://www.pokerstarscaribbeanadventure.com/" target="_blank">PCA</a></li>
+          </ul>
+        </li>
+      </ul>
+</div>
+<ul class="language-dropdown">
+<li><a href="#">select language</a>
+<ul> 
+        <li class="header">Real Money Blogs</li>
+        <li><a href="http://www.pokerstarsblog.com/">English</a></li>
+        <li><a href="http://www.pokerstarsblog.com/nl/">Nederlands</a></li>
+	<li><a href="http://www.pokerstarsblog.fr/">Fran&ccedil;ais</a></li>
+	<li><a href="http://www.pokerstarsblog.de/">Deutsch</a></li>
+	<li><a href="http://www.pokerstarsblog.it/">Italiano</a></li>
+        <li><a href="http://www.pokerstarsblog.la/">Latin America</a></li>
+	<li><a href="http://www.pokerstarsblog.com/pt/" rel="nofollow">Portugu&#234;s PT</a></li>
+	<li><a href="http://www.pokerstarsblog.com/ru/" rel="nofollow">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;</a></li>
+	<li><a href="http://www.pokerstarsblog.com/es/">Espa&ntilde;ol</a></li>
+	<li><a href="http://www.pokerstarsblog.nu/" rel="nofollow">Svenska</a></li>
+        <li><a href="http://www.pokerstarsblog.gr/">E&#955;&#955;&#951;&#957;&#953;&#954;&#940;</a></li>
+        <li class="header">Play Money Blogs</li>      
+        <li><a href="http://www.pokerstarsblog.net/">English</a></li>
+        <li><a href="http://www.pokerstarsblog.la/br/" rel="nofollow">Portugu&#234;s BR</a></li>
+        <li><a href="http://www.pokerstarsblog.jp/" rel="nofollow">&#26085;&#26412;&#35486;</a></li>
+</ul></li></ul>
+
+<script type="text/javascript" charset="utf-8">
+/* <![CDATA[ */
+function nav(sel) {
+   if (sel.selectedIndex == -1) return;
+   var opt = sel.options[sel.selectedIndex];
+   if (opt && opt.value)
+      location.href = opt.value;
+}
+/* ]]> */
+</script>
+	</div>
+
+	<div id="nav_bar">
+		<ul id="navigation" class="">
+<li class="first"><a href="http://www.pokerstarsblog.com/" title="home" class="home"><span>Home</span></a></li>
+<li><a href="http://www.pokerstarsblog.com/news.html" title="news" class="news"><span>News</span></a></li>
+<li><a href="http://www.pokerstarsblog.com/live-events/index.html" title="live-events" class="live-events"><span>Live Events</span></a></li>
+<li><a href="http://www.pokerstarsblog.com/online-tournaments/index.html" title="online-tournaments" class="online-tournaments"><span>Online Tournaments</span></a></li>
+<li><a href="http://www.pokerstarsblog.com/team-pokerstars.html" title="team-pokerstars" class="team-pokerstars"><span>Team PokerStars</span></a></li>
+<li><a href="http://www.pokerstarsblog.com/tournaments/tcoop" title="TCOOP" class="TCOOP"><span>TCOOP</span></a></li>
+<li><a href="http://www.pokerstarsblog.com/news/corporate-blog/index.html" title="corporate" class="corporate"><span>Corporate Blog</span></a></li>
+</ul>
+ 
+		<div class="searchbar search">
+				<div class="header-search">
+    <form method="get" action="http://www.pokerstarsblog.com/cgi-bin/MT/mt-search.cgi">
+    <fieldset>       
+        <input type="hidden" name="blog_id" value="32" />
+        <input type="hidden" name="limit" value="20" />
+        <input id="search" class="textfield" name="search" value="" />
+	<input type="image" src="http://www.pokerstarsblog.com/mt-static/themes/pokerstars/images/layout/search.gif" class="button_search" value="search" />	
+   </fieldset>
+    </form>
+</div>
+		</div>
+	</div>
+	
+	<div class="cleardiv"></div>	
+<div id="content-top"></div>
+	<div class="cleardiv"></div>
+<div id="content" class="content-container content">
+
+<div class="main-content content">
+
+	<div class="content-left">
+<div id="page-35791" class="page">
+        <h1 id="page-title" class="asset-name">APPT Auckland Chip Counts</h1>
+
+            <p>We have 11 players starting play today for the final day of the APPT Auckland, beginning with the chipcounts below. For payouts, please see our <a href="http://www.pokerstarsblog.com/appt-auckland-prizes.html">Prizes</a> page on the blog.</p>
+<table cellspacing="10" cellpadding="0" width="90%"><tr style="background-color:#7c1f18; color:#FFFFFF; font- size:10px;"><td><span class="strong">Name</span></td><td><span class="strong">Country</span></td><td><span class="strong">PokerStars status</span></td><td align="right"><span class="strong">Chips</span></td></tr><tr><td>	Luke Stanford	</td><td>	New Zealand	</td><td>		</td><td align="right">	529,000	</td></tr>
+<tr><td>	Wang Che Jung	</td><td>	New Zealand	</td><td>		</td><td align="right">	404,000	</td></tr>
+<tr><td>	Nathanael Seet	</td><td>	Singapore	</td><td>		</td><td align="right">	468,000	</td></tr>
+<tr><td>	Daniel Craker	</td><td>	New Zealand	</td><td>		</td><td align="right">	318,000	</td></tr>
+<tr><td>	Eric Mutrie	</td><td>	Canada	</td><td>		</td><td align="right">	126,000	</td></tr>
+<tr><td>	Michael Mariakis	</td><td>	Australia	</td><td>		</td><td align="right">	233,000	</td></tr>
+<tr><td>	Wai Kwan Yuen	</td><td>	UK	</td><td>		</td><td align="right">	159,000	</td></tr>
+<tr><td>	Edward Holdcroft	</td><td>	New Zealand	</td><td>		</td><td align="right">	297,000	</td></tr>
+<tr><td>	Matthew Konnecke	</td><td>	Australia	</td><td>		</td><td align="right">	117,000	</td></tr>
+<tr><td>	Dan Sing	</td><td>	New Zealand	</td><td>		</td><td align="right">	57,000	</td></tr>
+<tr><td>	Jani Karke	</td><td>	Finland	</td><td>		</td><td align="right"> 70,000	</td></tr>
+<tr><td>	Andrew Pantling	</td><td>	Canada	</td><td>		</td><td align="right">	Eliminated 12th	</td></tr>
+<tr><td>	Pere Paul	</td><td>	New Zealand	</td><td>		</td><td align="right">	Eliminated 13th	</td></tr>
+<tr><td>	Sreten Cvetkovski	</td><td>	Macedonia	</td><td>		</td><td align="right">	Eliminated 14th	</td></tr>
+<tr><td>	Soren Eriksen	</td><td>	Denmark	</td><td>		</td><td align="right">	Eliminated 15th	</td></tr>
+<tr><td>	Trevor Saunders	</td><td>	Australia	</td><td>		</td><td align="right">	Eliminated 16th	</td></tr>
+<tr><td>	Mathew Michell	</td><td>	New Zealand	</td><td>		</td><td align="right">	Eliminated 17th	</td></tr>
+<tr><td>	Glen Gibbs	</td><td>	New Zealand	</td><td>		</td><td align="right">	Eliminated 18th	</td></tr>
+<tr><td>	Mat Cheer	</td><td>	New Zealand	</td><td>		</td><td align="right">	Eliminated 19th	</td></tr>
+<tr><td>	Mathew Wall	</td><td>	New Zealand	</td><td>		</td><td align="right">	Eliminated 20th	</td></tr>
+<tr><td>	Samuel Cavanagh	</td><td>	New Zealand	</td><td>		</td><td align="right">	Eliminated 21st	</td></tr>
+<tr><td>	Paul Hockin	</td><td>	New Zealand	</td><td>		</td><td align="right">	Eliminated 22nd	</td></tr>
+<tr><td>	Bryan Huang	</td><td>	Singapore	</td><td>		</td><td align="right">	Eliminated 23rd	</td></tr>
+<tr><td>	<b>Tony Hachem</>	</td><td>	<b>Australia</b>	</td><td>	<b>PS Sponsored</b>	</td><td align="right">	<b>Eliminated 24th</b>	</td></tr>
+<tr><td>	Jamie Wilson	</td><td>	New Zealand	</td><td>		</td><td align="right">	Eliminated 25th	</td></tr>
+<tr><td>	<b>Penny Parker</b>	</td><td>	<b>USA</b>	</td><td>	<b>PS Qualifier</b>	</td><td align="right">	<b>Eliminated 26th</b>	</td></tr>
+<tr><td>	<b>Grant Levy</b>	</td><td>	<b>Australia</b>	</td><td>	<b>PS Sponsored</b>	</td><td align="right">	<b>Eliminated 27th</b>	</td></tr>
+<tr><td>	Colin Lovelock	</td><td>	UK	</td><td>		</td><td align="right">	Eliminated 28th	</td></tr>
+<tr><td>	Kevin Clark	</td><td>	New Zealand	</td><td>		</td><td align="right">	Eliminated 29th	</td></tr>
+<tr><td>	Song Meng Zhou	</td><td>	China	</td><td>		</td><td align="right">	Eliminated 30th	</td></tr>
+<tr><td>	Assadour Assadourian	</td><td>	Australia	</td><td>		</td><td align="right">	Eliminated 31st	</td></tr>
+<tr><td>	Jeff Dunbar	</td><td>	Canada	</td><td>		</td><td align="right">	Eliminated 32nd	</td></tr>
+</table>
+
+
+</div>
+</div>
+	<div class="sidebar">
+		<div class="download">
+   <a href="http://www.pokerstars.com/PokerStarsInstall.exe?source=pokerstarsblog.com"><img src="http://www.pokerstarsblog.com/images/blogdownload-en.gif" alt="Poker Download" border="0" /></a>
+</div><div id="events-widget"></div><div class="box green content widget_latest_video">
+			<div class="title content">
+				<h2>Related Video</h2>
+			</div>
+			
+			<div class="box-content-beige">	
+				<div class="inner">
+							
+							
+
+
+<div class="embed"><p><object width="440" height="248" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" id="videojuicer_seed_pokerstars_presentation_12624"> <param name="movie" value="http://player.videojuicer.com/bootstrap.swf" /> <param name="allowfullscreen" value="true" /> <param name="allowscriptaccess" value="always" /> <param name="flashvars" value="presentation_id=12624&amp;heritage_id=862f00fe-5330-464d-81cb-cc078331be48:&amp;seed_name=pokerstars" /> <param name="name" value="videojuicer_seed_pokerstars_presentation_12624" /> <param name="wmode" value="transparent" /> <embed src="http://player.videojuicer.com/bootstrap.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" flashvars="presentation_id=12624&amp;heritage_id=862f00fe-5330-464d-81cb-cc078331be48:&amp;seed_name=pokerstars" width="440" height="248" name="videojuicer_seed_pokerstars_presentation_12624" wmode="transparent" /> </object></p></div>       
+
+<p class="video_title"><a href="http://www.pokerstarsblog.com/2012/john-dibella-wins-the-pca-main-event-090090.html" rel="bookmark">John Dibella wins the PCA Main Event</a></p>
+<div class="meta">
+    <span class="byline">
+
+        <span class="vcard author"><em>by Simon Young</em></span>
+        on <abbr class="published" title="2012-01-14T09:14:11-08:00">January 14, 2012  9:14 AM</abbr> 
+		
+
+    </span>
+</div>  
+
+
+<p class="bottom">
+						<span class="flt-l"  ><a href="http://www.pokerstarsblog.com/media.html">&raquo; Media Gallery</a></span>
+						<span class="flt-r rss"><a href="http://www.pokerstarsblog.com/rss.html">RSS latest Videos</a></span>
+</p>
+<div class="cleardiv"><!--cleardiv--></div>
+				</div>	
+			</div>
+		</div><div class="cleardiv"><!--clearing--></div>
+<div class="promotion">
+      <a href="http://www.pokerstars.com/poker/promotions/bonus/?source=10128122" rel="external"><img src="http://www.pokerstarsblog.com/images/banner2.gif" alt="PokerStars Promotion" /></a>  
+</div>
+<div class="cleardiv"><!--clearing--></div>
+
+<div class="box red content contact-us">
+	<div class="title content"><h2>Contact us</h2></div>
+	<div class="box-content-beige">	
+		<div class="inner">			
+			<p>To contact the PokerStars Blog team, simply email <a href="mailto:blog@pokerstars.com">blog@pokerstars.com</a>. To subscribe to the PokerStars Blog RSS feed, click <a href="http://www.pokerstarsblog.com/rss.html">here</a>. Follow us on Twitter under the handle <a href="http://twitter.com/PokerStarsBlog">PokerStarsBlog</a>. Brought to you by <a href="http://www.pokerstars.com/?source=10128130">PokerStars.com</a>.</p>			
+			</div>	
+		</div>
+</div><div class="box red content archives_widget">
+	<div class="title content"><h2>Archives</h2></div>
+	<div class="box-content-beige">	
+		<div class="inner">
+
+			
+			<ul class="archives-dropdown">
+				<li><a href="#">select month</a>
+					<ul>
+					            
+						      <li><a href="http://www.pokerstarsblog.com/2012/01/">January 2012 (219)</a></li>
+					            
+						      <li><a href="http://www.pokerstarsblog.com/2011/12/">December 2011 (131)</a></li>
+					            
+						      <li><a href="http://www.pokerstarsblog.com/2011/11/">November 2011 (192)</a></li>
+					            
+						      <li><a href="http://www.pokerstarsblog.com/2011/10/">October 2011 (207)</a></li>
+					            
+						      <li><a href="http://www.pokerstarsblog.com/2011/09/">September 2011 (216)</a></li>
+					            
+						      <li><a href="http://www.pokerstarsblog.com/2011/08/">August 2011 (246)</a></li>
+					            
+						      <li><a href="http://www.pokerstarsblog.com/2011/07/">July 2011 (221)</a></li>
+					            
+						      <li><a href="http://www.pokerstarsblog.com/2011/06/">June 2011 (167)</a></li>
+					            
+						      <li><a href="http://www.pokerstarsblog.com/2011/05/">May 2011 (316)</a></li>
+					            
+						      <li><a href="http://www.pokerstarsblog.com/2011/04/">April 2011 (195)</a></li>
+					            
+						      <li><a href="http://www.pokerstarsblog.com/2011/03/">March 2011 (184)</a></li>
+					            
+						      <li><a href="http://www.pokerstarsblog.com/2011/02/">February 2011 (164)</a></li>
+					    
+<li><a href="http://www.pokerstarsblog.com/archives.html">FULL ARCHIVES</a></li>
+					</ul>
+				</li>
+			</ul>
+			
+
+			<ul class="archives-dropdown second">
+				<li><a href="#">select category</a>
+					
+					    <ul>
+					<li><a href="http://www.pokerstarsblog.com/tournaments/americas-cup/">Americas Cup (6)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/appt/">Asia Pacific Poker Tour (727)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/anzpt/">Australia New Zealand Poker Tour (616)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/baltic-poker-festival/">Baltic Poker Festival (32)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/botp/">Battle of the Planets (52)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/belgian-poker-series/">Belgian Poker Series (7)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/estrellas-poker-tour/">Estrellas Poker Tour (38)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/eureka-poker-tour/">Eureka Poker Tour (60)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/ept/">European Poker Tour (2576)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/france-poker-series/">France Poker Series (16)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/italian-poker-tour/">Italian Poker Tour (59)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/lapt/">Latin American Poker Tour (442)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/north-american-poker-tour/">North American Poker Tour (184)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/pca/">PokerStars Caribbean Adventure (473)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/pokerstars-macau/">PokerStars Macau (212)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/pokerstars-sunday-tournaments/">PokerStars Sunday Tournaments (142)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/pokerstars-vip-club/">PokerStars VIP Club (13)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/pokerstarstv-1/">PokerStars.tv (5)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/portugal-poker-series/">Portugal Poker Series (11)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/russian-poker-series/">Russian Poker Series (17)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/rpt/">Russian Poker Tour (10)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/scoop/">SCOOP (383)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/sunday-kickoff/">Sunday Kickoff (1)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/sm/">Sunday Million (233)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/sw/">Sunday Warm-Up (168)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/super-tuesday/">Super Tuesday (91)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/tcoop/">TCOOP (8)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/tt/">Turbo Takedown (38)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/ukipt/">UKIPT (445)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/wbcoop/">WBCOOP (24)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/wcoop/">WCOOP (533)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/wcop/">World Cup of Poker (154)</a></li>
+					    
+					
+					    
+					<li><a href="http://www.pokerstarsblog.com/tournaments/wsop/">World Series of Poker (1497)</a></li>
+					    </ul>
+					
+				</li>
+			</ul>
+
+		</div>		
+	</div>
+</div>
+	</div>
+</div>
+</div>
+<div id="footer">
+
+<div class="cleardiv"></div>
+  <div class="bttm_nav1">
+  <p><strong>PokerStars Blog</strong>: <a href="http://www.pokerstarsblog.com/" rel="nofollow">Home</a> | <a href="http://www.pokerstarsblog.com/live-events/">Live Tournament Coverage</a> | <a href="http://www.pokerstarsblog.com/online-tournaments/">Online Tournament Coverage</a> | <a href="mailto:blog@pokerstars.eu">Contact Us</a></p>
+  <p><strong>Tournament News</strong>: <a href="http://www.pokerstarsblog.com/tournaments/appt/">Asia Pacific Poker Tour</a> | <a href="http://www.pokerstarsblog.com/tournaments/anzpt/">Australia New Zealand Poker Tour</a> | <a href="http://www.pokerstarsblog.com/tournaments/ept/">European Poker Tour</a> | <a href="http://www.pokerstarsblog.com/tournaments/lapt/">Latin American Poker Tour</a> | <a href="http://www.pokerstarsblog.com/tournaments/north-american-poker-tour/">North American Poker Tour</a> | <a href="http://www.pokerstarsblog.com/tournaments/pca/">PokerStars Caribbean Adventure</a> | <a href="http://www.pokerstarsblog.com/tournaments/pokerstars-sunday-tournaments/">PokerStars Sunday Tournaments</a> | <a href="http://www.pokerstarsblog.com/tournaments/scoop/">SCOOP</a> | <a href="http://www.pokerstarsblog.com/tournaments/sm/">Sunday Million</a> | <a href="http://www.pokerstarsblog.com/tournaments/ukipt/">UKIPT</a> | <a href="http://www.pokerstarsblog.com/tournaments/wcoop/">WCOOP</a> | <a href="http://www.pokerstarsblog.com/tournaments/wsop/">World Series of Poker</a></p></div>
+  <div class="bttm_nav2"><p><strong>International Blogs</strong>: <a href="http://www.pokerstarsblog.com/nl/" rel="nofollow">Nederlands</a> | <a href="http://www.pokerstarsblog.com/fr/" rel="nofollow">Fran?ais</a> | <a href="http://www.pokerstarsblog.de/" rel="nofollow">Deutsch</a> | <a href="http://www.pokerstarsblog.it/" rel="nofollow">Italiano</a> | <a href="http://www.pokerstarsblog.la/" rel="nofollow">Latin America</a> | <a href="http://www.pokerstarsblog.com/pt/" rel="nofollow">Portugu?s PT</a> | <a href="http://www.pokerstarsblog.com/ru/" rel="nofollow">???????</a> | <a href="http://www.pokerstarsblog.com/es/" rel="nofollow">Espa?ol</a> | <a href="http://www.pokerstarsblog.nu/" rel="nofollow">Svenska</a> | <a href="http://www.pokerstarsblog.net/br/" rel="nofollow">Portugu?s BR</a> | <a href="http://www.pokerstarsblog.jp/" rel="nofollow">???</a></p></div>
+
+  <div class="cleardiv"></div>
+  <div id="disclaimer"> *WORLD SERIES OF POKER and WSOP are trademarks of Harrah's License Company, LLC (&quot;Harrah's&quot;). Harrah's does not 
+    sponsor <br />
+    or endorse, and is not associated or affiliated with PokerStars.eu or its products, services, promotions or tournaments. </div>
+	<div id="bttmLogos"> <a href="http://www.europeanpokertour.com/" target="_blank"><img src="http://www.pokerstarsblog.com/mt-static/themes/pokerstars/images/footer/bttm_ept.gif" alt="EPT" /></a> <a href="http://www.appt.com/" target="_blank"><img src="http://www.pokerstarsblog.com/mt-static/themes/pokerstars/images/footer/bttm_appt.gif" alt="APPT" /></a> <a href="http://www.lapt.com/" target="_blank"><img src="http://www.pokerstarsblog.com/mt-static/themes/pokerstars/images/footer/bttm_laptiom.gif" alt="LAPT" /></a> <a href="http://www.pokerstars.com/iom/" target="_blank"><img src="http://www.pokerstarsblog.com/mt-static/themes/pokerstars/images/footer/bttm_iomcrest.gif" alt="IoM Crest" /></a> <a href="http://www.pokerstars.com/igc/" target="_blank"><img src="http://www.pokerstarsblog.com/mt-static/themes/pokerstars/images/footer/bttm_igc.gif" alt="IGC" /></a> <a href="http://www.pokerstars.com/about/responsible-gaming/#over18" target="_blank"><img src="http://www.pokerstarsblog.com/mt-static/themes/pokerstars/images/footer/bttm_18onlyiom.gif" alt="Over 18 Only" /></a> <a href="http://www.pokerstars.com/gamcare/" target="_blank"><img src="http://www.pokerstarsblog.com/mt-static/themes/pokerstars/images/footer/bttm_gcc.gif" alt="GamCareCert" /></a> <a href="http://www.pokerstars.com/poker/rng/" target="_blank"><img src="http://www.pokerstarsblog.com/mt-static/themes/pokerstars/images/footer/bttm_cigital.gif" alt="cigital" /></a>
+</div>
+
+    <div id="copyright">Copyright &copy; 2001-<script type="text/javascript">var d=new Date();var yer=d.getFullYear();document.write(yer);</script>, PokerStars.com. All rights reserved. Rational Entertainment Enterprises Limited, 33-37 Athol Street,<br/>
+      Douglas, IM1 2LD, Isle of Man. License No. 7, granted July 2005. Online gambling is regulated in the <a href="http://www.pokerstars.com/iom/">Isle of Man</a>. </div>
+</div>
+</div>
+</body>
+</html>
+

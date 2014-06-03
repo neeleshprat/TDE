@@ -1,0 +1,2179 @@
+<HTML>
+  <HEAD>
+      <TITLE>2005 Carl Schwende Jr WC Results - Jr ME</TITLE>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+    if (document.images) {
+        smlogo2red_up = new Image();
+        smlogo2red_up.src = "../images/smlogo2red_up.gif";
+        smlogo2red_ov = new Image();
+        smlogo2red_ov.src = "../images/smlogo2red_ov.gif";
+    }
+    function rollOver(imName,over) {
+        if (!document.images) {return};
+        whichIm = document.images[imName];
+        if (over) { whichIm.src = "../images/" + imName + "ov.gif" }
+             else { whichIm.src = "../images/" + imName + "up.gif" };
+    }
+//-->
+      </SCRIPT>
+
+<!--  ULTIMATE DROPDOWN MENU v3.1.1 by Brothercake  -->
+<!--  http://www.brothercake.com/dropdown/  -->
+<script language="javascript" src="../resources/sniffer.js"></script>
+<script language="javascript1.2" src="../resources/custom_cff_centred_subdir.js"></script>
+<script language="javascript1.2" src="../resources/style.js"></script>
+
+      <STYLE>
+<!--
+A.heading:link, A.heading:visited, A.heading:active { text-decoration : underline ; font : bold 12pt Arial, Helvetica, Verdana ; color : #990000 ;}
+//-->
+      </STYLE>
+
+<LINK REL=StyleSheet HREF="../style_sheets/engarde.css" TYPE="text/css">
+
+  </HEAD>
+
+  <BODY bgcolor="#CCCCCC" link="#990000" TOPMARGIN="0" LEFTMARGIN="0" MARGINHEIGHT="0" MARGINWIDTH="0">
+  <div align="center"><center>
+
+    <!-- Set-up main table for page formatting -->
+
+<script language="javascript" src="../2002_header.js"></script>
+
+    <TABLE cellpadding=0 cellspacing=0 border=0 bgcolor="#FFFFFF" width="760">
+      <TR>
+
+
+<TD valign="top" width="760">
+      <p align="left">
+      <font face="Verdana, Arial, Helvetica" size="1"><br> &nbsp;<img border="0" src="../images/tblblnk2.gif" width="80" height="2">&nbsp;&nbsp; <A HREF="../english_index.html">Home</A>
+      / <A HREF="http://www.fencing.ca/french_index.html">Menu</A>  &gt;&nbsp;<a href="../rsltshome.htm">Results/Resultats</a> <br>&nbsp;</font>
+</td></tr>
+<tr><td bgcolor="#999999">
+    <p align="center"><b><font face="Arial, Helvetica, sans serif" size="3" color="#FFFFFF">CARL SCHWENDE JUNIOR WORLD CUP
+    / </font></b><b><font face="Arial, Helvetica, sans serif" size="3" color="#FFFFFF">COUPE
+    DU MONDE JUNIOR Carl Schwende</font></b></p>
+  </td></tr>
+<tr><td>
+
+      <div align="center">
+        <center>
+        <table border="0" cellpadding="0" cellspacing="10" width="760">
+          <tr>
+            <td valign="top">
+              <p align="center"><font face="Arial, Helvetica, sans serif" size="3"><b>22-23 
+              January 2005</b></font></p>
+              
+    <p align="center"><font size="3" face="Arial, Helvetica, sans serif"><b>Final Results - Junior 
+    Men's Epee<br>
+    </b></font><font size="3" face="Arial, Helvetica, sans serif"><b>Classement g?n?ral 
+    - Epee masculine junior<br>
+&nbsp;</b></font> </p>
+              <div align="center">
+                <center>
+<TABLE cellSpacing=0
+cellPadding=2 border="1" bordercolor="#111111">
+  <TBODY>
+  <TR>
+    <TD class=HGBD>&nbsp;Rg&nbsp;</TD>
+    <TD class=HBD>&nbsp;Nom&nbsp;</TD>
+    <TD class=HBD>&nbsp;Pr?nom&nbsp;</TD>
+    <TD class=HBD>&nbsp;Nation&nbsp;</TD>
+    </TR>
+  <TR bgColor="gold">
+    <TD align=right class=GBD>&nbsp;1&nbsp;</TD>
+    <TD class=BD>&nbsp;SEGUIN&nbsp;</TD>
+    <TD class=BD>&nbsp;Jean-Pierre&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </TR>
+  <TR bgColor="silver">
+    <TD align=right class=GBD>&nbsp;2&nbsp;</TD>
+    <TD class=BD>&nbsp;BRINCK-CROTEAU&nbsp;</TD>
+    <TD class=BD>&nbsp;Maxime&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </TR>
+  <TR bgColor="sandybrown">
+    <TD align=right class=GBD>&nbsp;3&nbsp;</TD>
+    <TD class=BD>&nbsp;LEBLANC&nbsp;</TD>
+    <TD class=BD>&nbsp;Marc-Andre&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </TR>
+  <TR bgColor="sandybrown">
+    <TD align=right class=GBD>&nbsp;3&nbsp;</TD>
+    <TD class=BD>&nbsp;WALROND&nbsp;</TD>
+    <TD class=BD>&nbsp;Dylan&nbsp;</TD>
+    <TD class=BD>&nbsp;USA&nbsp;</TD>
+    </TR>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;5&nbsp;</TD>
+    <TD class=BD>&nbsp;GANTSEVICH&nbsp;</TD>
+    <TD class=BD>&nbsp;Igor&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </tr>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;6&nbsp;</TD>
+    <TD class=BD>&nbsp;WICAS&nbsp;</TD>
+    <TD class=BD>&nbsp;Graham&nbsp;</TD>
+    <TD class=BD>&nbsp;USA&nbsp;</TD>
+    </tr>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;7&nbsp;</TD>
+    <TD class=BD>&nbsp;SULAT&nbsp;</TD>
+    <TD class=BD>&nbsp;Nathaniel&nbsp;</TD>
+    <TD class=BD>&nbsp;USA&nbsp;</TD>
+    </tr>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;8&nbsp;</TD>
+    <TD class=BD>&nbsp;FUERSTENBERG&nbsp;</TD>
+    <TD class=BD>&nbsp;Eric&nbsp;</TD>
+    <TD class=BD>&nbsp;USA&nbsp;</TD>
+    </tr>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;9&nbsp;</TD>
+    <TD class=BD>&nbsp;KENNEY&nbsp;</TD>
+    <TD class=BD>&nbsp;Duncan&nbsp;</TD>
+    <TD class=BD>&nbsp;USA&nbsp;</TD>
+    </tr>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;10&nbsp;</TD>
+    <TD class=BD>&nbsp;BOURBONNAIS&nbsp;</TD>
+    <TD class=BD>&nbsp;Thierry&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </tr>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;11&nbsp;</TD>
+    <TD class=BD>&nbsp;CHERIS&nbsp;</TD>
+    <TD class=BD>&nbsp;Zach&nbsp;</TD>
+    <TD class=BD>&nbsp;USA&nbsp;</TD>
+    </tr>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;12&nbsp;</TD>
+    <TD class=BD>&nbsp;STALLINGS&nbsp;</TD>
+    <TD class=BD>&nbsp;William&nbsp;</TD>
+    <TD class=BD>&nbsp;USA&nbsp;</TD>
+    </tr>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;13&nbsp;</TD>
+    <TD class=BD>&nbsp;ANDREI&nbsp;</TD>
+    <TD class=BD>&nbsp;Radu&nbsp;</TD>
+    <TD class=BD>&nbsp;ROM&nbsp;</TD>
+    </tr>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;14&nbsp;</TD>
+    <TD class=BD>&nbsp;LUDFORD&nbsp;</TD>
+    <TD class=BD>&nbsp;Patrick&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </tr>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;15&nbsp;</TD>
+    <TD class=BD>&nbsp;MARTINEAU&nbsp;</TD>
+    <TD class=BD>&nbsp;Vincent&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </tr>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;16&nbsp;</TD>
+    <TD class=BD>&nbsp;SESUN&nbsp;</TD>
+    <TD class=BD>&nbsp;Andreas&nbsp;</TD>
+    <TD class=BD>&nbsp;NZL&nbsp;</TD>
+    </tr>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;17&nbsp;</TD>
+    <TD class=BD>&nbsp;HARDER&nbsp;</TD>
+    <TD class=BD>&nbsp;Sean&nbsp;</TD>
+    <TD class=BD>&nbsp;USA&nbsp;</TD>
+    </tr>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;18&nbsp;</TD>
+    <TD class=BD>&nbsp;RUDZINSKI&nbsp;</TD>
+    <TD class=BD>&nbsp;Daniel&nbsp;</TD>
+    <TD class=BD>&nbsp;USA&nbsp;</TD>
+    </tr>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;19&nbsp;</TD>
+    <TD class=BD>&nbsp;MILLER&nbsp;</TD>
+    <TD class=BD>&nbsp;Stuart&nbsp;</TD>
+    <TD class=BD>&nbsp;USA&nbsp;</TD>
+    </tr>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;20&nbsp;</TD>
+    <TD class=BD>&nbsp;MO&nbsp;</TD>
+    <TD class=BD>&nbsp;Kevin&nbsp;</TD>
+    <TD class=BD>&nbsp;USA&nbsp;</TD>
+    </tr>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;21&nbsp;</TD>
+    <TD class=BD>&nbsp;COREY&nbsp;</TD>
+    <TD class=BD>&nbsp;Mike&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </tr>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;22&nbsp;</TD>
+    <TD class=BD>&nbsp;ISHAC&nbsp;</TD>
+    <TD class=BD>&nbsp;Richard&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </tr>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;23&nbsp;</TD>
+    <TD class=BD>&nbsp;WAIS&nbsp;</TD>
+    <TD class=BD>&nbsp;Josh&nbsp;</TD>
+    <TD class=BD>&nbsp;USA&nbsp;</TD>
+    </tr>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;24&nbsp;</TD>
+    <TD class=BD>&nbsp;GERIN-LAJOIE&nbsp;</TD>
+    <TD class=BD>&nbsp;Maxime&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </tr>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;25&nbsp;</TD>
+    <TD class=BD>&nbsp;LEMAY&nbsp;</TD>
+    <TD class=BD>&nbsp;Alexandre&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </tr>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;26&nbsp;</TD>
+    <TD class=BD>&nbsp;LAMBERT&nbsp;</TD>
+    <TD class=BD>&nbsp;Mykael&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </tr>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;27&nbsp;</TD>
+    <TD class=BD>&nbsp;HARTMAN&nbsp;</TD>
+    <TD class=BD>&nbsp;Thomas&nbsp;</TD>
+    <TD class=BD>&nbsp;USA&nbsp;</TD>
+    </tr>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;28&nbsp;</TD>
+    <TD class=BD>&nbsp;DETTLINGER&nbsp;</TD>
+    <TD class=BD>&nbsp;Maxwell&nbsp;</TD>
+    <TD class=BD>&nbsp;USA&nbsp;</TD>
+    </tr>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;29&nbsp;</TD>
+    <TD class=BD>&nbsp;YAWORSKI&nbsp;</TD>
+    <TD class=BD>&nbsp;Kyle&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </tr>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;30&nbsp;</TD>
+    <TD class=BD>&nbsp;IOWA&nbsp;</TD>
+    <TD class=BD>&nbsp;Lawton&nbsp;</TD>
+    <TD class=BD>&nbsp;USA&nbsp;</TD>
+    </TR>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;31&nbsp;</TD>
+    <TD class=BD>&nbsp;GAGNON&nbsp;</TD>
+    <TD class=BD>&nbsp;Victor&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </TR>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;32&nbsp;</TD>
+    <TD class=BD>&nbsp;GARDNER&nbsp;</TD>
+    <TD class=BD>&nbsp;Karl&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </TR>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;33&nbsp;</TD>
+    <TD class=BD>&nbsp;ROSENTHAL&nbsp;</TD>
+    <TD class=BD>&nbsp;Mark&nbsp;</TD>
+    <TD class=BD>&nbsp;USA&nbsp;</TD>
+    </TR>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;34&nbsp;</TD>
+    <TD class=BD>&nbsp;PFARR&nbsp;</TD>
+    <TD class=BD>&nbsp;Christopher&nbsp;</TD>
+    <TD class=BD>&nbsp;USA&nbsp;</TD>
+    </TR>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;35&nbsp;</TD>
+    <TD class=BD>&nbsp;GALLAGHER PELLETIER&nbsp;</TD>
+    <TD class=BD>&nbsp;Samuel&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </TR>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;36&nbsp;</TD>
+    <TD class=BD>&nbsp;HAWROT&nbsp;</TD>
+    <TD class=BD>&nbsp;James&nbsp;</TD>
+    <TD class=BD>&nbsp;USA&nbsp;</TD>
+    </TR>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;37&nbsp;</TD>
+    <TD class=BD>&nbsp;TAUFFENBERGER&nbsp;</TD>
+    <TD class=BD>&nbsp;Arnaud&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </TR>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;38&nbsp;</TD>
+    <TD class=BD>&nbsp;IOWA&nbsp;</TD>
+    <TD class=BD>&nbsp;Remington&nbsp;</TD>
+    <TD class=BD>&nbsp;USA&nbsp;</TD>
+    </TR>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;39&nbsp;</TD>
+    <TD class=BD>&nbsp;GREEN&nbsp;</TD>
+    <TD class=BD>&nbsp;Alex&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </TR>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;40&nbsp;</TD>
+    <TD class=BD>&nbsp;LAVOIE&nbsp;</TD>
+    <TD class=BD>&nbsp;Maxime&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </TR>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;41&nbsp;</TD>
+    <TD class=BD>&nbsp;HARRISON&nbsp;</TD>
+    <TD class=BD>&nbsp;John&nbsp;</TD>
+    <TD class=BD>&nbsp;USA&nbsp;</TD>
+    </TR>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;42&nbsp;</TD>
+    <TD class=BD>&nbsp;DELISLE-RIND&nbsp;</TD>
+    <TD class=BD>&nbsp;Tchad&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </TR>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;42&nbsp;</TD>
+    <TD class=BD>&nbsp;RODRIGUE&nbsp;</TD>
+    <TD class=BD>&nbsp;Guillaume&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </TR>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;44&nbsp;</TD>
+    <TD class=BD>&nbsp;HOERLE&nbsp;</TD>
+    <TD class=BD>&nbsp;Jonathan&nbsp;</TD>
+    <TD class=BD>&nbsp;USA&nbsp;</TD>
+    </TR>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;45&nbsp;</TD>
+    <TD class=BD>&nbsp;HUNTER&nbsp;</TD>
+    <TD class=BD>&nbsp;Sam&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </TR>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;46&nbsp;</TD>
+    <TD class=BD>&nbsp;WIEZ&nbsp;</TD>
+    <TD class=BD>&nbsp;Ben&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </TR>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;47&nbsp;</TD>
+    <TD class=BD>&nbsp;MCGUINNESS&nbsp;</TD>
+    <TD class=BD>&nbsp;Nicholas&nbsp;</TD>
+    <TD class=BD>&nbsp;USA&nbsp;</TD>
+    </TR>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;48&nbsp;</TD>
+    <TD class=BD>&nbsp;TRAVIS&nbsp;</TD>
+    <TD class=BD>&nbsp;Andrew&nbsp;</TD>
+    <TD class=BD>&nbsp;USA&nbsp;</TD>
+    </TR>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;49&nbsp;</TD>
+    <TD class=BD>&nbsp;COMTOIS&nbsp;</TD>
+    <TD class=BD>&nbsp;Oliver&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </TR>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;50&nbsp;</TD>
+    <TD class=BD>&nbsp;BUITHIEU-LEGAULT&nbsp;</TD>
+    <TD class=BD>&nbsp;Guillaume&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </TR>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;51&nbsp;</TD>
+    <TD class=BD>&nbsp;DUBE-ROUSSEAU&nbsp;</TD>
+    <TD class=BD>&nbsp;Guillaume&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </TR>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;52&nbsp;</TD>
+    <TD class=BD>&nbsp;CUERRIER&nbsp;</TD>
+    <TD class=BD>&nbsp;Antonie&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </TR>
+  <TR bgColor=#ffcccc>
+    <TD align=right class=GBD>&nbsp;53&nbsp;</TD>
+    <TD class=BD>&nbsp;PRITCHARD&nbsp;</TD>
+    <TD class=BD>&nbsp;Calvin&nbsp;</TD>
+    <TD class=BD>&nbsp;CAN&nbsp;</TD>
+    </TR></TBODY></TABLE>
+                </center>
+              </div>
+<P class=petit>&nbsp;</P>
+    <div align="center">
+      <center>
+<P class=gros>&nbsp;<br>
+Tableau de 64</P>
+<P class=gros>&nbsp;</P>
+<TABLE cellPadding=0 cellSpacing=0
+style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 11pt">
+  <COLGROUP>
+  <COL width=20>
+  <COL width=200>
+  <COL width=30>
+  <COL width=150>
+  <COL width=150>
+  <COL width=150>
+  <COL width=150>
+  <COL width=150>
+  <COL width=150>
+  <TBODY>
+  <TR>
+    <TD align=right class=D>1&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;KENNEY Duncan</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;USA</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;KENNEY</TD></TR>
+  <TR>
+    <TD align=right class=D>64&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffffcc class=HBD>&nbsp;KENNEY</TD></TR>
+  <TR>
+    <TD align=right class=D>33&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;TAUFFENBERGER Arnaud</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;CAN</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp; 15/12</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;YAWORSKI</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>32&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;YAWORSKI Kyle</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;CAN</TD>
+    <TD>&nbsp;&nbsp;&nbsp; 15/11</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ccffcc class=HBD>&nbsp;BRINCK-<br>
+    CROTEAU</TD></TR>
+  <TR>
+    <TD align=right class=D>17&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;BRINCK-CROTEAU Maxime</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;CAN</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp; 15/11</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;BRINCK-<br>
+    CROTEAU</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>48&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffffcc class=HBD>&nbsp;BRINCK-<br>
+    CROTEAU</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>49&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;&nbsp;&nbsp; 15/10</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;WAIS</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>16&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;WAIS Josh</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;USA</TD>
+    <TD>&nbsp;&nbsp;&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcc99 class=HBD>&nbsp;BRINCK-<br>
+    CROTEAU</TD></TR>
+  <TR>
+    <TD align=right class=D>9&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;RUDZINSKI Daniel</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;USA</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp; 14/11</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;RUDZINSKI</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>56&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffffcc class=HBD>&nbsp;SULAT</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>41&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;DELISLE-RIND Tchad</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;CAN</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp; 15/6</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;SULAT</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>24&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;SULAT Nathaniel</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;USA</TD>
+    <TD>&nbsp;&nbsp;&nbsp; 15/5</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ccffcc class=HBD>&nbsp;SULAT</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>25&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;PFARR Christopher</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;USA</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;&nbsp;&nbsp; 15/13</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;GARDNER</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>40&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;GARDNER Karl</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;CAN</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp; 15/11</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffffcc class=HBD>&nbsp;STALLINGS</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>57&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;&nbsp;&nbsp; 15/13</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;STALLINGS</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>8&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;STALLINGS William</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;USA</TD>
+    <TD>&nbsp;&nbsp;&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;BRINCK-<br>
+    CROTEAU</TD></TR>
+  <TR>
+    <TD align=right class=D>5&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;GANTSEVICH Igor</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;CAN</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp; 13/6</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;GANTSEVICH</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>60&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffffcc class=HBD>&nbsp;GANTSEVICH</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>37&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;GREEN Alex</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;CAN</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp; 15/9</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;HARTMAN</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>28&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;HARTMAN Thomas</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;USA</TD>
+    <TD>&nbsp;&nbsp;&nbsp; 15/14</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ccffcc class=HBD>&nbsp;GANTSEVICH</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>21&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;MARTINEAU Vincent</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;CAN</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp; 15/8</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;MARTINEAU</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>44&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffffcc class=HBD>&nbsp;MARTINEAU</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>53&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;&nbsp;&nbsp; 15/8</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;MO</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>12&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;MO Kevin</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;USA</TD>
+    <TD>&nbsp;&nbsp;&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcc99 class=HBD>&nbsp;LEBLANC</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>13&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;COREY Mike</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;CAN</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;&nbsp;&nbsp; 15/14</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;COREY</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>52&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffffcc class=HBD>&nbsp;LUDFORD</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>45&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp; 15/11</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;LUDFORD</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>20&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;LUDFORD Patrick</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;CAN</TD>
+    <TD>&nbsp;&nbsp;&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ccffcc class=HBD>&nbsp;LEBLANC</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>29&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;GALLAGHER PELLETIER Samuel</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;CAN</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;&nbsp;&nbsp; 15/13</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;GAGNON</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>36&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;GAGNON Victor</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;CAN</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp; 15/11</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffffcc class=HBD>&nbsp;LEBLANC</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>61&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;&nbsp;&nbsp; 15/9</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;LEBLANC</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>4&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;LEBLANC Marc-Andre</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;CAN</TD>
+    <TD>&nbsp;&nbsp;&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;SEGUIN</TD></TR>
+  <TR>
+    <TD align=right class=D>3&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;BOURBONNAIS Thierry</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;CAN</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;&nbsp;&nbsp; 15/9</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;BOURBONNAIS</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>62&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffffcc class=HBD>&nbsp;BOURBONNAIS</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>35&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;IOWA Lawton</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;USA</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp; 15/13</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;IOWA</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>30&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;HAWROT James</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;USA</TD>
+    <TD>&nbsp;&nbsp;&nbsp; 15/14</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ccffcc class=HBD>&nbsp;WALROND</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>19&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;WALROND Dylan</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;USA</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp; 15/14</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;WALROND</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>46&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffffcc class=HBD>&nbsp;WALROND</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>51&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;&nbsp;&nbsp; 15/7</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;ISHAC</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>14&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;ISHAC Richard</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;CAN</TD>
+    <TD>&nbsp;&nbsp;&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcc99 class=HBD>&nbsp;WALROND</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>11&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;MILLER Stuart</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;USA</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp; 15/14</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;MILLER</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>54&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffffcc class=HBD>&nbsp;FUERSTENBERG</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>43&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;FUERSTENBERG Eric</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;USA</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp; 15/13</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;FUERSTENBERG</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>22&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;ROSENTHAL Mark</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;USA</TD>
+    <TD>&nbsp;&nbsp;&nbsp; 15/10</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ccffcc class=HBD>&nbsp;FUERSTENBERG</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>27&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;LAMBERT Mykael</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;CAN</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;&nbsp;&nbsp; 15/14</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;LAMBERT</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>38&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;LAVOIE Maxime</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;CAN</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp; 15/13</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffffcc class=HBD>&nbsp;CHERIS</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>59&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;&nbsp;&nbsp; 15/9</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;CHERIS</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>6&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;CHERIS Zach</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;USA</TD>
+    <TD>&nbsp;&nbsp;&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;SEGUIN</TD></TR>
+  <TR>
+    <TD align=right class=D>7&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;HARDER Sean</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;USA</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;&nbsp;&nbsp; 15/11</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;HARDER</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>58&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffffcc class=HBD>&nbsp;SESUN</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>39&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;HARRISON John</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;USA</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp; 15/11</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;SESUN</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>26&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;SESUN Andreas</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;NZL</TD>
+    <TD>&nbsp;&nbsp;&nbsp; 15/13</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ccffcc class=HBD>&nbsp;WICAS</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>23&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;LEMAY Alexandre</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;CAN</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp; 15/12</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;LEMAY</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>42&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;RODRIGUE Guillaume</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;CAN</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp; 15/8</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffffcc class=HBD>&nbsp;WICAS</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>55&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;&nbsp;&nbsp; 15/7</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;WICAS</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>10&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;WICAS Graham</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;USA</TD>
+    <TD>&nbsp;&nbsp;&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcc99 class=HBD>&nbsp;SEGUIN</TD></TR>
+  <TR>
+    <TD align=right class=D>15&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;ANDREI Radu</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;ROM</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;&nbsp;&nbsp; 15/11</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;ANDREI</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>50&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffffcc class=HBD>&nbsp;ANDREI</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>47&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp; 15/12</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;GERIN-LAJOIE</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>18&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;GERIN-LAJOIE Maxime</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;CAN</TD>
+    <TD>&nbsp;&nbsp;&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ccffcc class=HBD>&nbsp;SEGUIN</TD></TR>
+  <TR>
+    <TD align=right class=D>31&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;DETTLINGER Maxwell</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;USA</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;&nbsp;&nbsp; 15/11</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;DETTLINGER</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD align=right class=D>34&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;IOWA Remington</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;USA</TD>
+    <TD class=D>&nbsp;&nbsp;&nbsp; 13/10</TD>
+    <TD class=D>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffffcc class=HBD>&nbsp;SEGUIN</TD></TR>
+  <TR>
+    <TD align=right class=D>63&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD>&nbsp;&nbsp;&nbsp; 15/13</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD class=D>&nbsp;</TD>
+    <TD bgColor=#ffcccc class=HBD>&nbsp;SEGUIN</TD></TR>
+  <TR>
+    <TD align=right class=D>2&nbsp;</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;SEGUIN Jean-Pierre</TD>
+    <TD bgColor=#b8d9dc class=HBD>&nbsp;CAN</TD>
+    <TD>&nbsp;&nbsp;&nbsp;</TD></TR></TBODY></TABLE>
+<P class=petit>&nbsp;</P>
+
+
+<P class=gros>Poules, tour no 1</P>
+<P class=petit>&nbsp;</P>
+<P class=normal>Poule no 1</P>
+<TABLE cellPadding=2 cellSpacing=0
+style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 11pt; border-collapse:collapse" border="1" bordercolor="#111111">
+  <COLGROUP>
+  <COL width=220>
+  <COL width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <TBODY>
+  <TR>
+    <TD>TAUFFENBERGER Arnaud</TD>
+    <TD>CAN</TD>
+    <TD bgColor=#cccccc class=HGBD align="center">&nbsp;</TD>
+    <TD class=HBD align="center">4</TD>
+    <TD class=HBD align="center">V</TD>
+    <TD class=HBD align="center">4</TD>
+    <TD class=HBD align="center">V</TD>
+    <TD class=HBD align="center">4</TD>
+    <TD class=HBD align="center">3</TD>
+    </TR>
+  <TR>
+    <TD>GERIN-LAJOIE Maxime</TD>
+    <TD>CAN</TD>
+    <TD class=GBD align="center">V</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">2</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">1</TD>
+    </TR>
+  <TR>
+    <TD>IOWA Remington</TD>
+    <TD>USA</TD>
+    <TD class=GBD align="center">4</TD>
+    <TD class=BD align="center">4</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">2</TD>
+    <TD class=BD align="center">4</TD>
+    </TR>
+  <TR>
+    <TD>HARTMAN Thomas</TD>
+    <TD>USA</TD>
+    <TD class=GBD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">2</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">1</TD>
+    <TD class=BD align="center">1</TD>
+    </TR>
+  <TR>
+    <TD>PRITCHARD Calvin</TD>
+    <TD>CAN</TD>
+    <TD class=GBD align="center">1</TD>
+    <TD class=BD align="center">1</TD>
+    <TD class=BD align="center">3</TD>
+    <TD class=BD align="center">0</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">1</TD>
+    <TD class=BD align="center">1</TD>
+    </TR>
+  <TR>
+    <TD>ANDREI Radu</TD>
+    <TD>ROM</TD>
+    <TD class=GBD align="center">V</TD>
+    <TD class=BD align="center">4</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">2</TD>
+    </TR>
+  <TR>
+    <TD>KENNEY Duncan</TD>
+    <TD>USA</TD>
+    <TD class=GBD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    </TR></TBODY></TABLE>
+<P class=normal>&nbsp;</P>
+<P class=normal>Poule no 2</P>
+<TABLE cellPadding=2 cellSpacing=0
+style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 11pt; border-collapse:collapse" border="1" bordercolor="#111111">
+  <COLGROUP>
+  <COL width=220>
+  <COL width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <TBODY>
+  <TR>
+    <TD>WALROND Dylan</TD>
+    <TD>USA</TD>
+    <TD bgColor=#cccccc class=HGBD align="center">&nbsp;</TD>
+    <TD class=HBD align="center">V</TD>
+    <TD class=HBD align="center">V</TD>
+    <TD class=HBD align="center">2</TD>
+    <TD class=HBD align="center">2</TD>
+    <TD class=HBD align="center">V3</TD>
+    <TD class=HBD align="center">V</TD>
+    </TR>
+  <TR>
+    <TD>ISHAC Richard</TD>
+    <TD>CAN</TD>
+    <TD class=GBD align="center">4</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">3</TD>
+    <TD class=BD align="center">V</TD>
+    </TR>
+  <TR>
+    <TD>DUBE-ROUSSEAU Guillaume</TD>
+    <TD>CAN</TD>
+    <TD class=GBD align="center">3</TD>
+    <TD class=BD align="center">1</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">2</TD>
+    <TD class=BD align="center">4</TD>
+    <TD class=BD align="center">3</TD>
+    <TD class=BD align="center">2</TD>
+    </TR>
+  <TR>
+    <TD>BRINCK-CROTEAU Maxime</TD>
+    <TD>CAN</TD>
+    <TD class=GBD align="center">V</TD>
+    <TD class=BD align="center">2</TD>
+    <TD class=BD align="center">V</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">2</TD>
+    </TR>
+  <TR>
+    <TD>GALLAGHER PELLETIER Samuel</TD>
+    <TD>CAN</TD>
+    <TD class=GBD align="center">V</TD>
+    <TD class=BD align="center">2</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">4</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">0</TD>
+    </TR>
+  <TR>
+    <TD>PFARR Christopher</TD>
+    <TD>USA</TD>
+    <TD class=GBD align="center">2</TD>
+    <TD class=BD align="center">V4</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">4</TD>
+    <TD class=BD align="center">4</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">V</TD>
+    </TR>
+  <TR>
+    <TD>SULAT Nathaniel</TD>
+    <TD>USA</TD>
+    <TD class=GBD align="center">4</TD>
+    <TD class=BD align="center">0</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V3</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">4</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    </TR></TBODY></TABLE>
+<P class=normal>&nbsp;</P>
+<P class=normal>Poule no 3</P>
+<TABLE cellPadding=2 cellSpacing=0
+style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 11pt; border-collapse:collapse" border="1" bordercolor="#111111">
+  <COLGROUP>
+  <COL width=220>
+  <COL width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <TBODY>
+  <TR>
+    <TD>WAIS Josh</TD>
+    <TD>USA</TD>
+    <TD bgColor=#cccccc class=HGBD align="center">&nbsp;</TD>
+    <TD class=HBD align="center">V</TD>
+    <TD class=HBD align="center">V</TD>
+    <TD class=HBD align="center">3</TD>
+    <TD class=HBD align="center">V</TD>
+    <TD class=HBD align="center">V</TD>
+    <TD class=HBD align="center">3</TD>
+    </TR>
+  <TR>
+    <TD>BUITHIEU-LEGAULT Guillaume</TD>
+    <TD>CAN</TD>
+    <TD class=GBD align="center">4</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">3</TD>
+    <TD class=BD align="center">2</TD>
+    <TD class=BD align="center">3</TD>
+    <TD class=BD align="center">2</TD>
+    <TD class=BD align="center">0</TD>
+    </TR>
+  <TR>
+    <TD>GAGNON Victor</TD>
+    <TD>CAN</TD>
+    <TD class=GBD align="center">2</TD>
+    <TD class=BD align="center">V</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">0</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">2</TD>
+    <TD class=BD align="center">3</TD>
+    </TR>
+  <TR>
+    <TD>RUDZINSKI Daniel</TD>
+    <TD>USA</TD>
+    <TD class=GBD align="center">V</TD>
+    <TD class=BD align="center">V3</TD>
+    <TD class=BD align="center">V3</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">3</TD>
+    </TR>
+  <TR>
+    <TD>IOWA Lawton</TD>
+    <TD>USA</TD>
+    <TD class=GBD align="center">3</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">2</TD>
+    <TD class=BD align="center">4</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">2</TD>
+    </TR>
+  <TR>
+    <TD>GARDNER Karl</TD>
+    <TD>CAN</TD>
+    <TD class=GBD align="center">3</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V3</TD>
+    <TD class=BD align="center">2</TD>
+    <TD class=BD align="center">1</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">1</TD>
+    </TR>
+  <TR>
+    <TD>SEGUIN Jean-Pierre</TD>
+    <TD>CAN</TD>
+    <TD class=GBD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V4</TD>
+    <TD class=BD align="center">V4</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    </TR></TBODY></TABLE>
+<P class=normal>&nbsp;</P>
+<P class=normal>Poule no 4</P>
+<TABLE cellPadding=2 cellSpacing=0
+style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 11pt; border-collapse:collapse" border="1" bordercolor="#111111">
+  <COLGROUP>
+  <COL width=220>
+  <COL width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <TBODY>
+  <TR>
+    <TD>FUERSTENBERG Eric</TD>
+    <TD>USA</TD>
+    <TD bgColor=#cccccc class=HGBD align="center">&nbsp;</TD>
+    <TD class=HBD align="center">2</TD>
+    <TD class=HBD align="center">3</TD>
+    <TD class=HBD align="center">3</TD>
+    <TD class=HBD align="center">V</TD>
+    <TD class=HBD align="center">3</TD>
+    </TR>
+  <TR>
+    <TD>ROSENTHAL Mark</TD>
+    <TD>USA</TD>
+    <TD class=GBD align="center">V</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">2</TD>
+    <TD class=BD align="center">3</TD>
+    <TD class=BD align="center">V4</TD>
+    <TD class=BD align="center">V</TD>
+    </TR>
+  <TR>
+    <TD>CHERIS Zach</TD>
+    <TD>USA</TD>
+    <TD class=GBD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V4</TD>
+    <TD class=BD align="center">V</TD>
+    </TR>
+  <TR>
+    <TD>MARTINEAU Vincent</TD>
+    <TD>CAN</TD>
+    <TD class=GBD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">3</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">2</TD>
+    </TR>
+  <TR>
+    <TD>CUERRIER Antonie</TD>
+    <TD>CAN</TD>
+    <TD class=GBD align="center">1</TD>
+    <TD class=BD align="center">3</TD>
+    <TD class=BD align="center">0</TD>
+    <TD class=BD align="center">3</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">0</TD>
+    </TR>
+  <TR>
+    <TD>LUDFORD Patrick</TD>
+    <TD>CAN</TD>
+    <TD class=GBD align="center">V</TD>
+    <TD class=BD align="center">3</TD>
+    <TD class=BD align="center">4</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    </TR></TBODY></TABLE>
+<P class=normal>&nbsp;</P>
+<P class=normal>Poule no 5</P>
+<TABLE cellPadding=2 cellSpacing=0
+style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 11pt; border-collapse:collapse" border="1" bordercolor="#111111">
+  <COLGROUP>
+  <COL width=220>
+  <COL width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <TBODY>
+  <TR>
+    <TD>RODRIGUE Guillaume</TD>
+    <TD>CAN</TD>
+    <TD bgColor=#cccccc class=HGBD align="center">&nbsp;</TD>
+    <TD class=HBD align="center">0</TD>
+    <TD class=HBD align="center">3</TD>
+    <TD class=HBD align="center">2</TD>
+    <TD class=HBD align="center">V</TD>
+    <TD class=HBD align="center">V</TD>
+    <TD class=HBD align="center">0</TD>
+    </TR>
+  <TR>
+    <TD>DELISLE-RIND Tchad</TD>
+    <TD>CAN</TD>
+    <TD class=GBD align="center">V</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">4</TD>
+    <TD class=BD align="center">0</TD>
+    <TD class=BD align="center">1</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">0</TD>
+    </TR>
+  <TR>
+    <TD>LEBLANC Marc-Andre</TD>
+    <TD>CAN</TD>
+    <TD class=GBD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    </TR>
+  <TR>
+    <TD>LEMAY Alexandre</TD>
+    <TD>CAN</TD>
+    <TD class=GBD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">3</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">2</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">4</TD>
+    </TR>
+  <TR>
+    <TD>SESUN Andreas</TD>
+    <TD>NZL</TD>
+    <TD class=GBD align="center">2</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">1</TD>
+    <TD class=BD align="center">V</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">3</TD>
+    </TR>
+  <TR>
+    <TD>TRAVIS Andrew</TD>
+    <TD>USA</TD>
+    <TD class=GBD align="center">2</TD>
+    <TD class=BD align="center">4</TD>
+    <TD class=BD align="center">2</TD>
+    <TD class=BD align="center">4</TD>
+    <TD class=BD align="center">4</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">3</TD>
+    </TR>
+  <TR>
+    <TD>STALLINGS William</TD>
+    <TD>USA</TD>
+    <TD class=GBD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">3</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    </TR></TBODY></TABLE>
+<P class=normal>&nbsp;</P>
+<P class=normal>Poule no 6</P>
+<TABLE cellPadding=2 cellSpacing=0
+style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 11pt; border-collapse:collapse" border="1" bordercolor="#111111">
+  <COLGROUP>
+  <COL width=220>
+  <COL width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <TBODY>
+  <TR>
+    <TD>GREEN Alex</TD>
+    <TD>CAN</TD>
+    <TD bgColor=#cccccc class=HGBD align="center">&nbsp;</TD>
+    <TD class=HBD align="center">4</TD>
+    <TD class=HBD align="center">V</TD>
+    <TD class=HBD align="center">2</TD>
+    <TD class=HBD align="center">3</TD>
+    <TD class=HBD align="center">V</TD>
+    <TD class=HBD align="center">2</TD>
+    </TR>
+  <TR>
+    <TD>HARDER Sean</TD>
+    <TD>USA</TD>
+    <TD class=GBD align="center">V</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">3</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    </TR>
+  <TR>
+    <TD>MCGUINNESS Nicholas</TD>
+    <TD>USA</TD>
+    <TD class=GBD align="center">3</TD>
+    <TD class=BD align="center">2</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">2</TD>
+    <TD class=BD align="center">4</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">1</TD>
+    </TR>
+  <TR>
+    <TD>GANTSEVICH Igor</TD>
+    <TD>CAN</TD>
+    <TD class=GBD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    </TR>
+  <TR>
+    <TD>HARRISON John</TD>
+    <TD>USA</TD>
+    <TD class=GBD align="center">V</TD>
+    <TD class=BD align="center">1</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">3</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">1</TD>
+    <TD class=BD align="center">3</TD>
+    </TR>
+  <TR>
+    <TD>LAVOIE Maxime</TD>
+    <TD>CAN</TD>
+    <TD class=GBD align="center">4</TD>
+    <TD class=BD align="center">1</TD>
+    <TD class=BD align="center">2</TD>
+    <TD class=BD align="center">3</TD>
+    <TD class=BD align="center">V</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">V</TD>
+    </TR>
+  <TR>
+    <TD>LAMBERT Mykael</TD>
+    <TD>CAN</TD>
+    <TD class=GBD align="center">V3</TD>
+    <TD class=BD align="center">0</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">4</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">3</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    </TR></TBODY></TABLE>
+<P class=normal>&nbsp;</P>
+<P class=normal>Poule no 7</P>
+<TABLE cellPadding=2 cellSpacing=0
+style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 11pt; border-collapse:collapse" border="1" bordercolor="#111111">
+  <COLGROUP>
+  <COL width=220>
+  <COL width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <TBODY>
+  <TR>
+    <TD>MO Kevin</TD>
+    <TD>USA</TD>
+    <TD bgColor=#cccccc class=HGBD align="center">&nbsp;</TD>
+    <TD class=HBD align="center">V</TD>
+    <TD class=HBD align="center">V4</TD>
+    <TD class=HBD align="center">V</TD>
+    <TD class=HBD align="center">V</TD>
+    <TD class=HBD align="center">1</TD>
+    </TR>
+  <TR>
+    <TD>HOERLE Jonathan</TD>
+    <TD>USA</TD>
+    <TD class=GBD align="center">3</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">1</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">4</TD>
+    <TD class=BD align="center">3</TD>
+    </TR>
+  <TR>
+    <TD>HAWROT James</TD>
+    <TD>USA</TD>
+    <TD class=GBD align="center">3</TD>
+    <TD class=BD align="center">V</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">2</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">4</TD>
+    </TR>
+  <TR>
+    <TD>YAWORSKI Kyle</TD>
+    <TD>CAN</TD>
+    <TD class=GBD align="center">1</TD>
+    <TD class=BD align="center">4</TD>
+    <TD class=BD align="center">V</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">V4</TD>
+    <TD class=BD align="center">1</TD>
+    </TR>
+  <TR>
+    <TD>WIEZ Ben</TD>
+    <TD>CAN</TD>
+    <TD class=GBD align="center">3</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">2</TD>
+    <TD class=BD align="center">2</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">0</TD>
+    </TR>
+  <TR>
+    <TD>BOURBONNAIS Thierry</TD>
+    <TD>CAN</TD>
+    <TD class=GBD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    </TR></TBODY></TABLE>
+<P class=normal>&nbsp;</P>
+<P class=normal>Poule no 8</P>
+<TABLE cellPadding=2 cellSpacing=0
+style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 11pt; border-collapse:collapse" border="1" bordercolor="#111111">
+  <COLGROUP>
+  <COL width=220>
+  <COL width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <COL align=middle bgColor=#ccffcc width=30>
+  <TBODY>
+  <TR>
+    <TD>MILLER Stuart</TD>
+    <TD>USA</TD>
+    <TD bgColor=#cccccc class=HGBD align="center">&nbsp;</TD>
+    <TD class=HBD align="center">V</TD>
+    <TD class=HBD align="center">2</TD>
+    <TD class=HBD align="center">V</TD>
+    <TD class=HBD align="center">V</TD>
+    <TD class=HBD align="center">V</TD>
+    </TR>
+  <TR>
+    <TD>DETTLINGER Maxwell</TD>
+    <TD>USA</TD>
+    <TD class=GBD align="center">3</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">2</TD>
+    <TD class=BD align="center">V2</TD>
+    <TD class=BD align="center">V4</TD>
+    <TD class=BD align="center">3</TD>
+    </TR>
+  <TR>
+    <TD>WICAS Graham</TD>
+    <TD>USA</TD>
+    <TD class=GBD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">4</TD>
+    </TR>
+  <TR>
+    <TD>HUNTER Sam</TD>
+    <TD>CAN</TD>
+    <TD class=GBD align="center">1</TD>
+    <TD class=BD align="center">1</TD>
+    <TD class=BD align="center">0</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">V3</TD>
+    <TD class=BD align="center">1</TD>
+    </TR>
+  <TR>
+    <TD>COMTOIS Oliver</TD>
+    <TD>CAN</TD>
+    <TD class=GBD align="center">2</TD>
+    <TD class=BD align="center">0</TD>
+    <TD class=BD align="center">3</TD>
+    <TD class=BD align="center">1</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    <TD class=BD align="center">2</TD>
+    </TR>
+  <TR>
+    <TD>COREY Mike</TD>
+    <TD>CAN</TD>
+    <TD class=GBD align="center">4</TD>
+    <TD class=BD align="center">V4</TD>
+    <TD class=BD align="center">V</TD>
+    <TD class=BD align="center">V2</TD>
+    <TD class=BD align="center">V2</TD>
+    <TD bgColor=#cccccc class=BD align="center">&nbsp;</TD>
+    </TR></TBODY></TABLE>
+<P class=petit>&nbsp;</P>
+    <p><img border="0" src="../images/tblblnk2.gif" width="740" height="2">              
+              
+              
+              </td>
+          </tr>
+        </table>
+        </center>
+      </div>
+
+
+<br><img src="../images/tblblnk2.gif" width=755 height=1 border=0>
+        </TD>
+
+</tr>
+</table>
+
+          <!-- Table for layout of return links -->
+
+  <script language="JavaScript" src="../2002_footer.js"></script>
+
+      &nbsp;
+      </center>
+  </div>
+  
+  <script language="javascript1.2" src="../resources/menu.js"></script>
+
+  </body>  
+  </html>

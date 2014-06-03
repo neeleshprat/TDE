@@ -1,0 +1,815 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>World Sudoku Championship 2010</title>
+<link href="stylesheet.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 36pt}
+.style3 {
+	color: #e71029;
+	font-weight: bold;
+}
+.style4 {color: #e71029}
+-->
+</style>
+</head>
+
+<body>
+<div id="logo">
+<p align="center" class="large style3 style4"><img src="../images/logo/wscLogo-200.gif" width="200" height="153" /></p>
+</div>
+
+<div id="banner_horiz">
+<a href="index.htm#Results">Results</a>|<a href="index.htm#Competition">Competition</a>|<a href="index.htm#Participants">Participants</a>|<a href="index.htm#Schedule">Schedule</a>|<a href="../index.htm">US Team Home</a></div>
+<p></p>
+
+<div name="Results" id="Results" class="contentHeader">Results</div>
+<div class="content announcement Competition"> 
+  <table border="0" cellpadding="10">
+    <tr>
+      <td class="heading">Top<br />
+        Individual<br />
+      Results</td>
+      <td class="regular"><table border="0" cellspacing="4">
+          <tr >
+            <td><div align="center">Rank</div></td>
+            <td ><div align="center">Name/Country</div></td>
+            <td align="right"><div align="center">Decathlon<br />
+            Score</div></td>
+            <td align="right"><div align="center">Final<br />
+            Round</div></td>
+          </tr>
+          <tr >
+            <td><div align="center">1</div></td>
+            <td >Jan Mrozowski (Poland)</td>
+            <td align="right"><div align="center">1335</div></td>
+            <td align="right"><div align="center">10</div></td>
+          </tr>
+          <tr >
+            <td><div align="center">2</div></td>
+            <td >Jakub Ondrou?ek (Czech Republic)</td>
+            <td align="right"><div align="center">1159</div></td>
+            <td align="right"><div align="center">9</div></td>
+          </tr>
+          <tr >
+            <td><div align="center">3</div></td>
+            <td >Hideaki Jo (Japan)</td>
+            <td align="right"><div align="center">1159</div></td>
+            <td align="right"><div align="center">7</div></td>
+          </tr>
+          <tr >
+            <td><div align="center">4</div></td>
+            <td >Florian Kirch (Germany)</td>
+            <td align="right"><div align="center">1153</div></td>
+            <td align="right"><div align="center">5</div></td>
+          </tr>
+          <tr >
+            <td><div align="center">5</div></td>
+            <td >Byron Calver (Canada)</td>
+            <td align="right"><div align="center">1134</div></td>
+            <td align="right">&nbsp;</td>
+          </tr>
+          <tr >
+            <td><div align="center">6</div></td>
+            <td >Ko Okamoto (Japan)</td>
+            <td align="right"><div align="center">1113</div></td>
+            <td align="right">&nbsp;</td>
+          </tr>
+          <tr >
+            <td><div align="center">7</div></td>
+            <td >Chen Cen (China)</td>
+            <td align="right"><div align="center">1050</div></td>
+            <td align="right">&nbsp;</td>
+          </tr>
+          <tr >
+            <td><div align="center">8</div></td>
+            <td >Salih Alan (Turkey)</td>
+            <td align="right"><div align="center">1050</div></td>
+            <td align="right">&nbsp;</td>
+          </tr>
+          <tr >
+            <td><div align="center">9</div></td>
+            <td >David Jones (Canada)</td>
+            <td align="right"><div align="center">1035</div></td>
+            <td align="right">&nbsp;</td>
+          </tr>
+          <tr >
+            <td><div align="center">10</div></td>
+            <td >Jan Novotn? (Czech Republic)</td>
+            <td align="right"><div align="center">1031</div></td>
+            <td align="right">&nbsp;</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td class="heading">Top 
+      Team<br />
+      Results</td>
+      <td class="regular"><table border="0" cellpadding="0" cellspacing="4">
+          <tr >
+            <td  align="right"><div align="center">Rank</div></td>
+            <td><div align="center">Country</div></td>
+            <td align="right"><p align="center">Score</p>            </td>
+          </tr>
+          <tr >
+            <td  align="right"><div align="center">1</div></td>
+            <td>Germany</td>
+            <td align="right">7904</td>
+          </tr>
+          <tr >
+            <td  align="right"><div align="center">2</div></td>
+            <td>Czech Republic</td>
+            <td align="right">7720</td>
+          </tr>
+          <tr >
+            <td  align="right"><div align="center">3</div></td>
+            <td>Japan</td>
+            <td align="right">7156</td>
+          </tr>
+          <tr >
+            <td  align="right"><div align="center">4</div></td>
+            <td>Canada</td>
+            <td align="right">7016</td>
+          </tr>
+          <tr >
+            <td  align="right"><div align="center">5</div></td>
+            <td>Poland</td>
+            <td align="right">6917</td>
+          </tr>
+          <tr >
+            <td  align="right"><div align="center">6</div></td>
+            <td>United Kingdom</td>
+            <td align="right">6760</td>
+          </tr>
+          <tr >
+            <td  align="right"><div align="center">7</div></td>
+            <td>USA</td>
+            <td align="right">6632</td>
+          </tr>
+          <tr >
+            <td  align="right"><div align="center">8</div></td>
+            <td>Netherlands</td>
+            <td align="right">6445</td>
+          </tr>
+          <tr >
+            <td  align="right"><div align="center">9</div></td>
+            <td>France</td>
+            <td align="right">6239</td>
+          </tr>
+          <tr >
+            <td  align="right"><div align="center">10</div></td>
+            <td>Hungary</td>
+            <td align="right">5881</td>
+          </tr>
+        </table>
+        </td>
+    </tr>
+    <tr>
+      <td class="heading">Full Results</td>
+      <td class="regular">Full individual results,  team results, and final round timings are available in a downloadable <a href="http://spreadsheets.google.com/ccc?key=t6XfdIEmweRysMlBiI6juSg">Google spreadsheet</a>.</td>
+    </tr>
+  </table>
+  </div>
+<a href="http://spreadsheets.google.com/ccc?key=t6XfdIEmweRysMlBiI6juSg"></a>
+<p></p>
+<div name="Competition" id="Competition" class="contentHeader">Competition</div>
+<a name="Photos" id="Photos"></a>
+<div class="content announcement Competition">
+  <table border="1" cellpadding="10" bordercolor="#CCCCCC" style="border-collapse: collapse">
+    <tr>
+      <td class="heading">Information<br />
+        Downloads &amp;<br />
+        Comments</td>
+      <td class="regular"><p><a href="downloads/WSC5-Rules.pdf">Competition Rules</a> (PDF, includes schedule, playoff format, round summaries)</p>
+          <p><a href="http://www.worldpuzzle.org/wiki/index.php/Fifth_World_Sudoku_Championship" target="_blank">Puzzle Examples</a> - PuzzleWiki (Wiki format)</p>
+        <p><a href="downloads/WSC5-Examples.pdf">Puzzle Examples Booklet</a> (PDF)</p>
+        <p>SUper DOKUthalon Final Round <a href="finals-booklet.pdf">Puzzle Booklet</a> and <a href="finals-solutions.pdf">Solutions</a><br />
+        <span class="small">(Credits: Killer, 400m, and Diagonal by Wei-Hwa Huang; <br />
+        100m, 0-9, Consecutive, Just One Cell, Digital, Irregular, and 1500m by Thomas Snyder)</span></p>
+      <p>Please use the WSC5 topics on the <a href="http://www.worldpuzzle.org/wpfforum/index.php?5" target="_blank">WPF Forum</a> to ask any questions about the puzzles or the rules. We hope that all questions will be asked and answered on the forum, so that the Rule Meeting in Philadelphia will be very short!</p></td>
+    </tr>
+    <tr>
+      <td class="heading">Photos</td>
+      <td class="regular"><p>Thumbnail, optimized (proof), and original/hi-res photos are available for all team photos. Due to disk space considerations, original/hi-res images are not immediately available for other photos, but are available upon request. </p>
+        <table border="0" cellspacing="8">
+          <tr>
+            <td><a href="photos/photos.asp?group=Team">Teams</a></td>
+            <td><a href="photos/photos.asp?group=Reception">Reception</a></td>
+            <td><a href="photos/photos.asp?group=Competition">Competition</a></td>
+            <td><a href="photos/photos.asp?group=Finals">Finals</a></td>
+          </tr>
+        </table>
+        <p><a href="photos/proofs.zip">Click here</a> to get all proofs  as a single downloadable zip file (21Mb).</p>
+      <p>The photos are courtesy of Jim McWilliams, and photo credit should be attributed to him, with copyright to the U. S. Puzzle Championship organization.</p></td>
+    </tr>
+    <tr>
+      <td class="heading">Puzzle Files</td>
+      <td class="regular"><p>All current WPF members in good standing have access to the puzzles of the WSC5 for official purposes (except that web publishing is limited to the Final Round puzzles). All WPF member country representatives have received email with further details.</p></td>
+    </tr>
+    <tr>
+      <td class="heading">Inquiries</td>
+      <td class="regular">For more information about WSC5, contact     
+<script type="text/javascript">
+cmd="mailto"
+user ="nickb"
+domain ="baxterweb.com"
+subCon ="WSC5 Inquiry"
+displaytxt="Nick Baxter"
+document.write('<a href="'+cmd+':' + user + '@' + domain +'?subject=' +subCon+' " ' +' >'+displaytxt+'</a>');
+</script>
+<noscript>
+nickb (at) baxterweb (dot) com
+</noscript>
+, US Team captain and WSC5 competition director.</td>
+    </tr>
+  </table>
+</div>
+
+<p></p>
+<div name="Participants" id="Participants" class="contentHeader"> Registered Participants</div>
+<div class="content announcement Participants">
+
+<table border="0" cellpadding="10">
+  <tr>
+    <td align="right" valign="middle" class="heading"><div align="center">Country</div></td>
+    <td class="small"><div align="center" class="heading">Participants</div></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>Australia</td>
+          <td><img src="flags/Countries/astl0001.gif" width="64" height="33" /></td>
+        </tr>
+    </table></td>
+    <td class="small"><ul>
+        <li>Sarah Ratcliffe</li>
+        <li>Daniel Beaty (guest)</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>Belarus</td>
+          <td><img src="flags/Countries/blru0001.gif" width="64" height="33" /></td>
+        </tr>
+    </table></td>
+    <td class="small"><ul>
+        <li>Vladimir Portugalov</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>Bulgaria</td>
+          <td><img src="flags/Countries/bulg0001.gif" width="48" height="33" /></td>
+        </tr>
+    </table></td>
+    <td class="small"><ul>
+        <li>Martin  Andreev</li>
+      <li> Lyuben  Stoychev</li>
+      <li> Petar  Dimitrov</li>
+      <li>Svilen Dyakovski</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>Canada</td>
+          <td><img src="flags/Countries/cana001.gif" width="64" height="32" /></td>
+        </tr>
+    </table></td>
+    <td class="small"><ul>
+        <li>David Jones</li>
+      <li>Byron Calver</li>
+      <li>Dave Baines</li>
+      <li> Michael Aisen</li>
+      <li>Jerry Weir</li>
+      <li>Godfrey Cheng</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>China</td>
+          <td><img src="flags/Countries/chin0001.gif" width="48" height="33" /></td>
+        </tr>
+    </table></td>
+    <td class="small"><ul>
+        <li> George Wang (captain)</li>
+        <li>Chen Cen</li>
+        <li>MengLei Ma</li>
+      <li>Haiqin Hou (guest)</li>
+      </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>Chinese Taipei</td>
+          <td><img src="flags/Countries/taiw001.gif" width="48" height="32" /></td>
+        </tr>
+    </table></td>
+    <td class="small"><ul>
+        <li>Kuo-an Li</li>
+      <li>Tung-Yi Wu</li>
+      <li>Yi-cheng Shen</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>Croatia</td>
+          <td><img src="flags/Countries/croa001.gif" width="64" height="32" /></td>
+        </tr>
+    </table></td>
+    <td class="small"><ul>
+        <li>Valter Kvalic (captain)</li>
+      <li> Mladen Mestrovic</li>
+      <li> Sanda Reic Tomas</li>
+      <li> Nikica Tomas</li>
+      <li> Dino Jankovic</li>
+      <li> Mario Zivkovic</li>
+      <li>Goran Suton</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>Czech Republic</td>
+          <td><img src="flags/Countries/czec001.gif" width="48" height="32" /></td>
+        </tr>
+    </table></td>
+    <td class="small"><ul>
+        <li>V?t?zslav Koudelka (captain)</li>
+      <li> Jana B??zov?</li>
+      <li> Kl?ra Vytiskov?</li>
+      <li> Jan Novotn?</li>
+      <li> Jakub Ondrou?ek</li>
+      <li> Ond?ej Such?</li>
+      <li> Jakub Hrazdira<br />
+        </li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>Denmark</td>
+          <td><img src="flags/Countries/denm001.gif" width="39" height="32" /></td>
+        </tr>
+    </table></td>
+    <td class="small"><ul>
+      <li>Henning KalsgaardPoulsen</li>
+      <li>        Janus Kayser Gj?e<br />
+      </li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>Estonia</td>
+          <td><img src="flags/Countries/estn0001.gif" width="50" height="33" /></td>
+        </tr>
+    </table></td>
+    <td class="small"><ul>
+        <li>Jaanus Laidna (captain)</li>
+      <li>Tiit Vunk</li>
+      <li>Kristel Tuisk</li>
+      <li>Regina M?lder</li>
+      <li>Tarmo Tuule (guest)</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>Finland</td>
+          <td><img src="flags/Countries/finl001.gif" width="53" height="32" /></td>
+        </tr>
+    </table></td>
+    <td class="small"><ul>
+        <li>Ulla Elsil?</li>
+        <li>          Maarit Ryyn?nen</li>
+        <li>          Jouni Juhani S?rkij?rvi</li>
+        <li>          Juha Hyv?nen (captain)</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>France</td>
+          <td><img src="flags/Countries/fran001.gif" width="48" height="32" /></td>
+        </tr>
+      </table>      </td>
+    <td class="small"><ul>
+      <li>Fr?d?rique Rogeaux</li>
+      <li>Jocelyn Bogreau</li>
+      <li>Denis Auroux</li>
+      <li>Yannick Meyapin</li>
+      <li>Olivier Rubio</li>
+      <li>Jean-Christophe Novelli</li>
+      <li>Aur?lie Gomm? (guest)</li>
+    </ul>      </td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>Germany</td>
+          <td><img src="flags/Countries/germ001.gif" width="53" height="32" /></td>
+        </tr>
+    </table></td>
+    <td class="small"><ul>
+        <li>Johannes Susen (captain)</li>
+      <li> Renate Susen (guest)</li>
+      <li> Michael Smit</li>
+      <li> Michael Ley</li>
+      <li> Florian Kirch</li>
+      <li> Sebastian Matschke</li>
+      <li> Torsten Rogoll</li>
+      <li> Maria Graber</li>
+      <li> Isabelle Gall (guest)</li>
+      <li> Stefan Heine (guest)</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>Greece</td>
+          <td><img src="flags/Countries/grec0001.gif" width="48" height="33" /></td>
+        </tr>
+    </table></td>
+    <td class="small"><ul>
+        <li>Christos Apostolidis</li>
+        <li>          Christos Varelas</li>
+        <li>          Margaritis Apostolidis<br />
+        </li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>Hungary</td>
+          <td><img src="flags/Countries/hung001.gif" width="48" height="32" /></td>
+        </tr>
+      </table>      </td>
+    <td class="small"><ul>
+      <li>Gy?rgy Istv?n</li>
+      <li>P?l Madarassy</li>
+      <li>Zolt?n Horv?th</li>
+      <li>Bogl?r Major</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>India</td>
+          <td><img src="flags/Countries/inda0001.gif" width="48" height="33" /></td>
+        </tr>
+      </table>      </td>
+    <td class="small"><ul>
+      <li>Rishi Puri</li>
+      <li>Gaurav Korde</li>
+      <li>Rohan Rao</li>
+      <li>Ritesh Gupta</li>
+      <li>Asha S</li>
+      <li>Jaipal Reddy</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>Italy</td>
+          <td><img src="flags/Countries/ital001.gif" width="48" height="32" /></td>
+        </tr>
+    </table></td>
+    <td class="small"><ul>
+      <li>Giulia Franceschini</li>
+      <li>        Laura Tarchetti</li>
+      <li>        Gabriele Simionato</li>
+      <li>        Simona Corvaia (guest)</li>
+      <li>        Giovanni Frugoli </li>
+      <li>        Irene Mariotti (guest)</li>
+      <li>        Pierdante Lanzavecchia</li>
+      <li>        Elena Mazzini</li>
+      <li>        Davide Seu (guest)</li>
+      <li>        Riccardo Albini (captain)</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>Japan</td>
+          <td><img src="flags/Countries/japa001.gif" width="46" height="32" /></td>
+        </tr>
+    </table></td>
+    <td class="small"><ul>
+      <li>Tetsuya Nishio (captain)</li>
+      <li>Hideaki Jo</li>
+      <li>Ko Okamoto</li>
+      <li>Kota Morinishi</li>
+      <li>Daisuke Takei</li>
+      <li>Akira Nakai</li>
+      <li>Yuka Sugimura</li>
+      <li>Yuka Noyama (guest)</li>
+      <li>Meishuku Ishimura (guest)</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>Luxembourg</td>
+          <td><img src="flags/Countries/luxe001.gif" width="53" height="32" /></td>
+        </tr>
+      </table>      </td>
+    <td class="small"><ul>
+      <li>Claudine Thiry</li>
+      <li>Judith Schambourg</li>
+      <li>Marcel Cox</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>Netherlands</td>
+          <td><img src="flags/Countries/neth001.gif" width="48" height="32" /></td>
+        </tr>
+      </table>      </td>
+    <td class="small"><ul>
+      <li> Hans Eendebak (captain)</li>
+      <li>Bram de Laat</li>
+      <li>Rick Uppelschoten</li>
+      <li>Niels Roest</li>
+      <li>Hannah Hasken (guest)</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>Philippines</td>
+          <td><img src="flags/Countries/phil0001.gif" width="64" height="33" /></td>
+        </tr>
+    </table></td>
+    <td class="small"><ul>
+        <li> Sarah Jane Cua</li>
+      <li> Matthew Chris Chan</li>
+      <li> Frederick Ong</li>
+      <li> Alvin Ian Chan</li>
+      <li> Rechilda Villame</li>
+      <li>Mateo Villame Jr (guest)</li>
+      <li>Hannah Villame (guest)</li>
+      <li> Helen Cua (guest)</li>
+      <li> Mark Davidson Cua (guest)</li>
+      <li> Audrey Chan (guest)</li>
+      <li>Kendrick Chan (guest)</li>
+      <li>Timothy Chan (guest)</li>
+      <li>Elliana Bagay (guest)</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>Poland</td>
+          <td><img src="flags/Countries/pola0001.gif" width="51" height="33" /></td>
+        </tr>
+    </table></td>
+    <td class="small"><ul>
+        <li>Jacek Szczap (captain)</li>
+      <li> Jan Mrozowski</li>
+      <li> Przemys?aw D?biak</li>
+      <li> Agnieszka Buczma</li>
+      <li> Micha? Karwa?ski</li>
+      <li> Pawe? K?pczy?ski</li>
+      <li> Jacek Kozicki</li>
+      </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>Serbia</td>
+          <td><img src="flags/Countries/serb0001.gif" width="48" height="33" /></td>
+        </tr>
+    </table></td>
+    <td class="small"><ul>
+        <li>Zoran Tanasi?</li>
+        <li>          Nikola ?ivanovi?</li>
+        <li>          Branko ?erani?</li>
+        <li>          Dragan Tolomanoski</li>
+        <li>          Vesna Jovanovi?</li>
+        </ul>
+      </td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>Slovakia</td>
+          <td><img src="flags/Countries/svka001.gif" width="48" height="32" /></td>
+        </tr>
+    </table></td>
+    <td class="small"><ul>
+      <li>Blanka Lehotsk? (captain)</li>
+      <li>        Mat?? Demiger</li>
+      <li>        ?tefan Ga?p?r</li>
+      <li>        ?tefan Gy?rki</li>
+      <li>        Zuzana Hromcov?</li>
+      <li>        Pavel Jaselsk?</li>
+      <li>        Ivana ?tiptov?</li>
+      <li>        Tatiana Bezaniukov? (guest)</li>
+      <li>        Richard Hromec (guest)</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>Spain</td>
+          <td><img src="flags/Countries/span001.gif" width="48" height="32" /></td>
+        </tr>
+    </table></td>
+    <td class="small"><ul>
+        <li>Olga Diaz</li>
+        <li>David Castillo (captain)</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>Switzerland</td>
+          <td><img src="flags/Countries/swit001.gif" width="32" height="32" /></td>
+        </tr>
+    </table></td>
+    <td class="small"><ul>
+        <li>Christof Bruetsch</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>Thailand</td>
+          <td><img src="flags/Countries/thal001.gif" width="48" height="32" /></td>
+        </tr>
+    </table></td>
+    <td class="small"><ul>
+        <li>Ravee Joradol</li>
+        <li>Amnuary Ploysangngam (captain)</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>Turkey</td>
+          <td><img src="flags/Countries/turk001.gif" width="48" height="32" /></td>
+        </tr>
+    </table></td>
+    <td class="small"><ul>
+      <li>Ferhat ?alapkulu (captain)</li>
+      <li>        Mehmet Murat Sevim</li>
+      <li>        Salih Alan</li>
+      <li>        Serkan Y?rekli</li>
+      <li>        Senem G?lce ?zk?t?k</li>
+      <li>        Recep G?l</li>
+      <li>        Sinan G?lg?nen</li>
+      <li>        Sibel G?l (guest)</li>
+      <li>        Zeynep Beng? G?lg?nen (guest)</li>
+      <li>        Murat Demirok (guest)</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>United Kingdom</td>
+          <td><img src="flags/Countries/unkg001.gif" width="64" height="32" /></td>
+        </tr>
+    </table></td>
+    <td class="small"><ul>
+      <li>George Danker</li>
+      <li>David McNeill</li>
+      <li>Thomas Collyer</li>
+      <li>Mike Colloby</li>
+      <li>Maxine Danker (guest)</li>
+      <li>Martin Danker (guest)</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>USA</td>
+          <td><span class="small"><img src="flags/Countries/unst001.gif" width="61" height="32" /></span></td>
+        </tr>
+      </table>      </td>
+    <td class="small"><ul>
+      <li>Tammy McLeod</li>
+      <li>Jason Zuffranieri</li>
+      <li>Allen Kong</li>
+      <li>Jonathan Rivet</li>
+      <li>Jim Schneider</li>
+      <li>William Blatt</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" class="heading"><table border="0" cellpadding="5" cellspacing="0">
+        <tr>
+          <td>WPF</td>
+          <td><img src="flags/wpf0001.gif" width="48" height="33" /></td>
+        </tr>
+      </table>      </td>
+    <td class="small"><ul>
+      <li>Peter Ritmeester (guest)</li>
+    </ul></td>
+  </tr>
+</table>
+</div>
+<p></p>
+<div name="Schedule" id="Schedule" class="contentHeader"> Schedule</div>
+<div class="content announcement Schedule">
+
+<table border="1" cellpadding="10" style="border-collapse: collapse" bordercolorlight="#808080" bordercolordark="#808080">
+  <tr>
+    <td class="heading">Thu, April 29</td>
+    <td class="regular"><table width="400" border="0">
+      <tr>
+        <td width="125">All Day</td>
+        <td width="275">Arrivals</td>
+      </tr>
+      <tr>
+        <td>6:30 - 10:00 pm</td>
+        <td>Welcome Reception</td>
+      </tr>
+      <tr>
+        <td>9:30 - 10:30 pm</td>
+        <td>Rules Final Review</td>
+      </tr>
+    </table>
+      </td>
+  </tr>
+  <tr>
+    <td class="heading">Fri, April 30<br /></td>
+    <td class="regular"><table border="0">
+
+      <tr>
+        <td width="125">8 - 10 am</td>
+        <td width="275">Breakfast</td>
+      </tr>
+      <tr>
+        <td>9 am - 1 pm</td>
+        <td>Free Time (self-guided tourism, lunch)</td>
+      </tr>
+      <tr>
+        <td>1:15 - 5 pm</td>
+        <td>Individual Rounds</td>
+      </tr>
+      <tr>
+        <td>5:15 - 6:45 pm</td>
+        <td>Team Rounds</td>
+      </tr>
+      <tr>
+        <td>7:30 - 10 pm</td>
+        <td>Dinner and Game Night</td>
+      </tr>
+    </table>
+      </td>
+  </tr>
+  <tr>
+    <td class="heading">Sat, May 1<br /></td>
+    <td class="regular"><table border="0">
+      <tr>
+        <td width="125">7:00 - 8:30 am</td>
+        <td width="275">Breakfast</td>
+      </tr>
+      <tr>
+        <td>8:30 am - 12:30 pm</td>
+        <td>Individual Rounds</td>
+      </tr>
+      <tr>
+        <td>12:30 - 1:30 pm</td>
+        <td>Lunch</td>
+      </tr>
+      <tr>
+        <td>2:00 - 4:30 pm</td>
+        <td>Team Rounds</td>
+      </tr>
+      <tr>
+        <td>5:30 - 6:45 pm</td>
+        <td>Individual Playoffs</td>
+      </tr>
+      <tr>
+        <td>7:30 - 10:30 pm</td>
+        <td> Awards Banquet</td>
+      </tr>
+    </table>
+      </td>
+  </tr>
+  <tr>
+    <td class="heading">Sun, May 2<br /></td>
+    <td class="regular"><table border="0">
+        <tr>
+          <td width="125">All Day</td>
+          <td width="275">Breakfast and Departures</td>
+        </tr>
+      </table>
+      </td>
+  </tr>
+</table>
+</div>
+<p>&nbsp;</p>
+</body>
+</html>
+

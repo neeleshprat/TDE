@@ -1,0 +1,564 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!--  Make sure that there are no tildas (~) in front of the registered controls -->
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- this is specific to SharePoint -->
+<head id="ctl00_Header"><link id="ctl00_linkCSS" href="/web/en-US/format/css/StyleSheet.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/web/format/javascript/EnterCheck.js"></script>
+<script type="text/javascript" src="/web/format/javascript/default.js"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033/init.js?rev=VhAxGc3rkK79RM90tibDzw%3D%3D"></script>
+<script type="text/javascript" language=javascript>
+    function customBodyOnLoad() {
+        javascript: _spBodyOnLoadWrapper();
+    }
+</script> 
+
+<title>
+Continental Airlines - Checked Baggage Fees
+</title></head>
+<body id="ctl00_bodyMain" onunload="PurchaseAbandon();">
+<form name="aspnetForm" method="post" action="CheckedBaggage.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2&" id="aspnetForm">
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" />
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" />
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" />
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" />
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" />
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" />
+<input type="hidden" name="hdnServer" id="hdnServer" value=".83" />
+<input type="hidden" name="hdnSID" id="hdnSID" value="0FBB7DD69CEF4F228B6F89046CEA0AF2" />
+<input type="hidden" name="hdnLangCode" id="hdnLangCode" value="en-US" />
+<input type="hidden" name="hdnPOS" id="hdnPOS" value="US" />
+<input type="hidden" name="hdnClient" id="hdnClient" value="38.107.179.227" />
+<input type="hidden" name="hdnInactive" id="hdnInactive" value="false" />
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0xF326DEE188288BFFE3264B7F21A9B49DC8A23FE8A5C813A5ADB55A15BD2074DC7D76C85115AD5A76EEF10ACDD9D84C3DF48A48CAA7490B1699F5A07256403BB7,09 Feb 2012 02:17:34 -0000" />
+<input type="hidden" name="hdnTiming" id="hdnTiming" value="63464329055.1891 seconds" />
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" />
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" />
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" />
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" />
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWBAIBD2QWAgUmZ19mMWNmMjEyNF8wYzEyXzQ4YTdfYTkxNl84MWM1OTFhNjQwNzYPDxYEHgVUaXRsZQUFQUNRV1AeCkNocm9tZVR5cGUCAmRkAgUPFgIeCG9udW5sb2FkBRJQdXJjaGFzZUFiYW5kb24oKTsWAgIBD2QWBAIGD2QWAgIJD2QWAgIBEGRkFgJmDw8WAh4HVmlzaWJsZWhkZAIMDw8WAh8DaGRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYEBRhjdGwwMCRDdXN0b21lckhlYWRlciRyZDEFGGN0bDAwJEN1c3RvbWVySGVhZGVyJHJkMgUYY3RsMDAkQ3VzdG9tZXJIZWFkZXIkcmQzBRxjdGwwMCRDdXN0b21lckhlYWRlciRjaGtTYXZlTypsR7xs08+eHH9hnWzKnSHoK20=" />
+
+<script> var MSOWebPartPageFormName = 'aspnetForm';</script><script type='text/javascript'> if(typeof(window.addEventListener)!='undefined'){ window.addEventListener('load',eStara_loadlr,false); }else if(typeof(document.addEventListener)!='undefined'){ document.addEventListener('load',eStara_loadlr,false); }else if(typeof(window.attachEvent)!='undefined'){ window.attachEvent('onload',eStara_loadlr); } function eStara_quick_append(u){ var s=document.createElement('script'); s.setAttribute('type','text/javascript'); s.setAttribute('src',u); s.setAttribute('charset','UTF-8'); if(typeof(window.attachEvent)!='undefined') document.body.appendChild(s); else  document.getElementsByTagName('head').item(0).appendChild(s); } function eStara_loadlr(){ try{ eStara_quick_append('//as00.estara.com/fs/lr.php?onload=1&accountid=20010417',0); }catch(e){} }</script>
+<script type="text/javascript">
+//<![CDATA[
+WaitScreen.initialize({waitElementID:'ctl00_divWS',langCode:'en-US',flashVars:'strQuoteString=Now+you+can+book+your+tickets+right+from+your+PDA+and+mobile+phone+on+continental.com%7enmManage%2c+change+and+view+your+reservations+on+continental.com%7enmChoose+your+seat%2c+print+your+boarding+pass+and+check+in+at+continental.com%7enmBusinessFirst%c2%ae.+It%e2%80%99s+not+just+business.+It%e2%80%99s+personal.%7enmEnroll+in+OnePass%c2%ae+and+start+earning+valuable+mileage+toward+your+next+trip%7enmFly+BusinessFirst%c2%ae.+Experience+superb+dining+that+includes+wines+from+around+the+world%7enmPurchase+FareLock+to+hold+your+itinerary+and+fare+for+72+hours+or+7+days*%7enmGet+OnePass+news%2c+offers+and+continental.com+specials+with+Continental%e2%80%99s+RSS+Feed&strSecondaryMSGs=+%7enm+%7enm+%7enm+%7enm+%7enm+%7enm*+Some+restrictions+apply.+Not+offered+on+all+flights.+All+customers+booking+at+continental.com+have+the+opportunity+to+request+a+100%25+refund+within+24+hours+of+ticketing.+The+FareLockSM+service+fee%2c+however%2c+is+non-refundable.+Terms+and+Conditions+apply.%7enm+&oneMoment=One+Moment+Please...',enabled: true});
+//]]>
+</script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033/init.js?rev=ck%2BHdHQ8ABQHif7kr%2Bj7iQ%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033/init.js?rev=ck%2BHdHQ8ABQHif7kr%2Bj7iQ%3D%3D"></script><script type="text/javascript" language="javascript" src="/_layouts/1033/core.js?rev=S5dt4K8TJGVTYU9HrW6enw%3D%3D" defer></script>
+<script src="/alex/includes/Custom_LaunchAgent.js" type="text/javascript"></script><script type='text/javascript' src='/web/format/javascript/CommonClientCallBack.js'></script>
+<script type="text/javascript">
+//<![CDATA[
+function callBack(arg, context) { WebForm_DoCallback('ctl00$CustomerHeader',arg,ServerRadios,context,null,false); } //]]>
+</script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033/non_ie.js?rev=yfNry4hY0Gwa%2FPDNGrqXVg%3D%3D"></script>
+<script src="/ScriptResource.axd?d=OYKAvcoZX6jVYiRTM9sbx7y3UYN7DkuhpDeN5cPqZuIcG__DlVj4t6fb4NF7hyTb-eC1i58dcHntb3TjUxHQn5zHAsGvwVFLqMuS0heDPcnQOGW0PD_Tp5koep5fmIQHbYWqKw_fDILqJz2SiXP_G7IQ2hs1&amp;t=57bc6a6b" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWQgKVquiPAwL32qTbAwL32sjbAwL32uTbAwL32vzbAwL22vTbAwL22ojbAwL22rzbAwL22qjaAwL22pzbAwL22sjbAwL12ozbAwLN2qzaAwL12oTbAwL12sjbAwL02pTbAwL02oTbAwLz2rTbAwLF2vjbAwLy2sjbAwL02rzbAwLx2sjbAwLx2vzbAwLx2vDbAwLA2pjbAwLA2pTbAwLP2pjbAwLP2rDbAwLP2rzbAwLP2pDbAwLP2vDbAwLO2pzbAwLO2sDbAwLL2uDbAwLL2qDaAwLy2pzbAwLK2pDbAwL32pjbAwLK2uzbAwLL2sDbAwLK2oTbAwLY2uTbAwLY2ozbAwL12pjbAwLY2rzbAwLY2uDbAwLY2vDbAwLY2sjbAwLF2qTbAwLN2sjbAwLz2vTbAwLF2rzbAwL12uDbAwLE2uTbAwLE2uDbAwLE2vDbAwLx2ojbAwLD2vTbAwLC2rzbAwLt6oa/CAKr8Ne5BQKp9Z8tAumRtaALAs64y58LAuXH4eQPAsfKyNwFN9OS4pRXdtXhYDXxV1qe5wWPGpI=" />
+    
+    <div id="divMain">
+<div class="HeaderNav">
+
+
+<div class="expertE">
+<!--NOINDEX-->
+
+<div id="bhHeader" class="bhHeader">
+<div class="bhMain">
+<div class="bhSites">
+<ul>
+<li class="firstChild active">continental.com</li><li><a href="/web/en-US/apps/vendors/out.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2&i=unitedcombrandheader">united.com</a></li>
+</ul>
+</div>
+<div id="ctl00_CustomerHeader_divBhNews" class="bhNews"></div>
+</div>
+<div class="bhMiddleArrow"><img width="18" height="9" alt="Pointer" src="/web/format/img/header/global-nav-pointer.gif"/></div>
+</div>
+
+
+<div id="headerWrapper">
+<div class="logos"><a id="ctl00_CustomerHeader_logoHome" href="/web/en-US/Default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2"><img src="/web/format/img/header/continentalLogo.gif" alt="Continental Airlines" height="38" width="187" border="0" style="margin-right:10px" /></a><a id="ctl00_CustomerHeader_staralliance" href="/web/en-US/content/company/alliance/star.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2" style="border-left:solid 1px #666"><img src="/web/format/img/header/staralliance.gif" alt="A Star Alliance Member" height="19" width="163" border="0" style="margin:12px 0 15px 10px" /></a>
+
+
+</div>
+<div class="pageStatus">  
+
+<a href="/web/en-US/content/worldwide.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2" id="ctl00_CustomerHeader_lnkPopup" onclick="javascript:ShowDiv('divCountries','');return false;" class="noFLAD"><span id="ctl00_CustomerHeader_selectedLanghtml" class="selectedLang">United States - English</span> <small>Change</small></a></div>
+<div id="divCountries" class="popup" style="display:none">
+<span style="font-size:larger;font-weight:bold">Country</span><a id="ctl00_CustomerHeader_linkClose" class="close noFLAD" href="javascript:ShowDiv('','divCountries')">Close <img src="/web/format/img/buttons/x-close.gif" alt="close" border="0" /></a>
+<p style="color:#666">Please select your location or where you receive credit card billing  statements to see pricing in your local currency.</p>
+<p><select name="ctl00$CustomerHeader$ddlCountries" id="ctl00_CustomerHeader_ddlCountries" name="ddlCountries" onchange="if(document.forms[0].action.indexOf('https://')!=-1){document.forms[0].action='CheckedBaggage.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2'};callServerForLanguages('ctl00_CustomerHeader_ddlCountries');">
+<option value="AG">Antigua &amp; Barbuda</option>
+<option value="AR">Argentina</option>
+<option value="AW">Aruba</option>
+<option value="AU">Australia</option>
+<option value="BS">Bahamas</option>
+<option value="BB">Barbados</option>
+<option value="BE">Belgium</option>
+<option value="BZ">Belize</option>
+<option value="BM">Bermuda</option>
+<option value="BR">Brazil</option>
+<option value="CA">Canada</option>
+<option value="KY">Cayman Islands</option>
+<option value="CO">Colombia</option>
+<option value="CR">Costa Rica</option>
+<option value="DK">Denmark</option>
+<option value="DO">Dominican Republic</option>
+<option value="EC">Ecuador</option>
+<option value="SV">El Salvador</option>
+<option value="FR">France</option>
+<option value="DE">Germany</option>
+<option value="GR">Greece</option>
+<option value="GU">Guam</option>
+<option value="GT">Guatemala</option>
+<option value="HN">Honduras</option>
+<option value="HK">Hong Kong</option>
+<option value="IN">India</option>
+<option value="ID">Indonesia</option>
+<option value="IE">Ireland</option>
+<option value="IL">Israel</option>
+<option value="IT">Italy</option>
+<option value="JM">Jamaica</option>
+<option value="JP">Japan</option>
+<option value="MH">Marshall Islands</option>
+<option value="MX">Mexico</option>
+<option value="FM">Micronesia</option>
+<option value="NL">Netherlands</option>
+<option value="AN">Netherlands Antilles</option>
+<option value="NI">Nicaragua</option>
+<option value="MP">Northern Mariana Islands</option>
+<option value="NO">Norway</option>
+<option value="PW">Palau</option>
+<option value="PA">Panama</option>
+<option value="CN">People's Republic of China</option>
+<option value="PE">Peru</option>
+<option value="PH">Philippines</option>
+<option value="PT">Portugal</option>
+<option value="PR">Puerto Rico</option>
+<option value="SG">Singapore</option>
+<option value="KR">South Korea</option>
+<option value="ES">Spain &amp; Canary Islands</option>
+<option value="SE">Sweden</option>
+<option value="CH">Switzerland</option>
+<option value="TW">Taiwan</option>
+<option value="TH">Thailand</option>
+<option value="TT">Trinidad and Tobago</option>
+<option value="GB">United Kingdom</option>
+<option selected="selected" value="US">United States</option>
+<option value="VE">Venezuela</option>
+
+</select></p>
+<div style="font-size:larger;font-weight:bold">Available Languages:</div>
+<div id="resultLang" name="resultLang">
+<div><input value="en-us" name="ctl00$CustomerHeader$rdlang" type="radio" id="ctl00_CustomerHeader_rd1" checked="checked" style="display:inline;" /><div id="rd1Name" name="rd1Name" style="display:inline"><span id="ctl00_CustomerHeader_lang1lbl">English</span></div></label></div>
+<div><label><input value="es" name="ctl00$CustomerHeader$rdlang" type="radio" id="ctl00_CustomerHeader_rd2" style="display:inline;" /><div id="rd2Name" name="rd2Name" style="display:inline"><span id="ctl00_CustomerHeader_lang2lbl">Espa?ol</span></div></label></div>
+<div><label><input value="rd3" name="ctl00$CustomerHeader$rdlang" type="radio" id="ctl00_CustomerHeader_rd3" style="display:none" /><div id="rd3Name" name="rd3Name" style="display:inline"><span id="ctl00_CustomerHeader_lang3lbl"></span></div></label></div>
+</div>
+<p><input id="ctl00_CustomerHeader_chkSave" type="checkbox" name="ctl00$CustomerHeader$chkSave" checked="checked" /><label for="ctl00_CustomerHeader_chkSave">Save this preference</label></p>
+<p style="text-align:right;margin-bottom:0"><input type="submit" name="ctl00$CustomerHeader$ChangeBtn" value="Change" onclick="GetValues('ctl00_CustomerHeader_countryText');" id="ctl00_CustomerHeader_ChangeBtn" class="btn btnLtBlue" /></p>
+<input name="ctl00$CustomerHeader$countryText" type="hidden" id="ctl00_CustomerHeader_countryText" />
+<input name="ctl00$CustomerHeader$langText" type="hidden" id="ctl00_CustomerHeader_langText" />
+</div>
+<div><span id="ctl00_CustomerHeader_spanNotSignedIn"><a id="ctl00_CustomerHeader_linkSignIn" href="/web/en-US/apps/account/account.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Sign In</a> | </span><a id="ctl00_CustomerHeader_linkMyAccount" href="/web/en-US/apps/account/account.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">My Account</a> | <a accesskey="9" href="/web/en-US/content/Contact/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Contact Us</a></div>
+
+
+</div>
+<!--/NOINDEX-->
+
+<div id="navigationWrapper">
+<div id="navigationCornerLeft">
+<div>
+<div id="navigationCornerRight">
+<div id="navigation">
+<ul id="nav">
+<li id="navHome"><a id="ctl00_CustomerHeader_ContinentalHome" accesskey="1" href="/web/en-US/Default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Home</a></li>
+<li id="navReservations"><a href="/web/en-US/content/reservations/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Reservations</a>
+<ul>
+<li><a href="/web/en-US/apps/booking/flight/searchRT.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Make Flight Reservation</a></li>
+<li><a id="ctl00_CustomerHeader_hotelLink" href="http://hotels.continental.com/templates/362349">Make Hotel Reservation</a></li>
+<li><a href="/web/en-US/content/reservations/car.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Make Car Reservation</a></li>
+<li><a href="/web/en-US/apps/reservation/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Change/View Existing Reservations</a></li>
+<li><a id="ctl00_CustomerHeader_checkin" href="/travel/checkin/start.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2&LangCode=en-US">Check-in for Flight</a></li>
+<li><a href="/web/en-US/apps/vendors/out.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2&i=vacationsmenu">Vacation Packages</a></li>
+
+
+<li><a href="/web/en-US/apps/vendors/out.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2&i=cruisesmenu">Make Cruise Reservation</a></li>
+<li><a href="/web/en-US/content/products/travelproducts/activities.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Make Activity Reservation</a></li>
+<li><a href="/web/en-US/content/reservations/refunds/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Refund Policy</a></li>
+<li><a href="/web/en-US/content/reservations/web/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Using continental.com</a></li>
+</ul>
+</li>
+<li id="navTravelInfo"><a href="/web/en-US/content/travel/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Travel Information</a>
+<ul>
+<li><a href="/web/en-US/apps/travel/flightStatus/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Flight Status &amp; Information</a></li>
+<li><a href="/web/en-US/apps/travel/timetable/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Timetable</a></li>
+<li><a href="/web/en-US/content/travel/baggage/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Baggage Information</a></li>
+<li><a href="/web/en-US/content/travel/animals/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Traveling with Animals</a></li>
+<li><a href="/web/en-US/content/travel/specialneeds/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Special Travel Needs</a></li>
+<li><a href="/web/en-US/content/travel/airport/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Airport Information</a></li>
+<li><a href="/web/en-US/content/travel/inflight/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Onboard Amenities</a></li>
+<li><a href="/web/en-US/content/travel/routes/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Route Maps</a></li>
+<li><a href="/web/en-US/content/travel/destination/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Destination Information</a></li>
+<li><a href="/web/en-US/content/travel/wireless/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Wireless Tools</a></li>
+</ul>
+</li>
+<li id="navDeals"><a href="/web/en-US/content/deals/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Deals &amp; Offers</a>
+<ul>
+<li><a href="/web/en-US/apps/booking/specials/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">continental.com Specials</a></li>
+<li><a href="/web/en-US/apps/account/email/subscription/emailSubscription.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">E-mail Subscriptions</a></li>
+
+<li><a href="/web/en-US/apps/onepass/promotions/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">OnePass News &amp; Offers</a></li>
+<li><a href="/web/en-US/apps/booking/specials/certificates/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Promotional Certificates</a></li>
+<li><a href="/web/en-US/content/deals/offers/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Special Offers</a></li>
+<li><a href="/web/en-US/apps/vendors/out.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2&i=vacationsmenu2">Vacation Packages</a></li>
+
+
+<li><a href="/web/en-US/content/deals/veterans/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Veterans Advantage Discount</a></li>
+<li><a href="/web/en-US/content/deals/rss/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">RSS Subscriptions</a></li>
+</ul>
+</li>
+<li id="navOnePass"><a href="/web/en-US/content/onepass/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">OnePass Frequent Flyer</a>
+<ul>
+<li><a href="/web/en-US/apps/account/enroll.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Enroll in OnePass</a></li>
+<li><a href="/web/en-US/apps/onepass/promotions/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">OnePass News &amp; Offers</a></li>
+<li><a href="/web/en-US/content/onepass/rules/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">OnePass Program Rules</a></li>
+<li><a href="/web/en-US/content/onepass/elite/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Elite Status</a></li>
+<li><a href="/web/en-US/content/onepass/earn/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Earn Miles</a></li>
+<li><a href="/web/en-US/content/onepass/rewards/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Use Miles</a></li>
+<li><a href="/web/en-US/content/products/cards/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Credit/Debit Cardmember</a></li>
+<li><a href="/web/en-US/content/onepass/transfer/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Buy/Transfer Points or Miles</a></li>
+
+<li><a href="/web/en-US/apps/booking/flight/searchReward.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Make Reward Reservation</a></li>
+<li><a href="/web/en-US/apps/account/account.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">My Account</a></li>
+</ul>
+</li>
+<li id="navProducts"><a href="/web/en-US/content/products/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Products &amp; Services</a>
+<ul>
+<li><a href="/web/en-US/content/products/business/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Business Products</a></li>
+<li><a href="/web/en-US/content/products/eliteaccess/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Premier Access Travel Services</a></li>
+<li><a href="/web/en-US/content/products/chase/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Get Credit Card</a></li>
+
+<li><a href="/web/en-US/apps/products/gifts/Certificate/Default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Gift Certificates</a></li>
+<li><a href="/web/en-US/apps/products/gifts/account/Default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Gift Registry</a></li>
+<li><a id="ctl00_CustomerHeader_lnkClub" href="/web/en-US/content/travel/airport/lounge/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">United Club and Lounges</a></li>
+<li><a href="/web/en-US/apps/products/travelclub/Default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">The continental.com Club</a></li>
+<li><a href="/web/en-US/content/products/groups/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Travel for Groups &amp; Meetings</a></li>
+<li><a href="/web/en-US/content/products/milgov/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Travel for Military &amp; Government Personnel</a></li>
+<li><a href="/web/en-US/content/products/travelproducts/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Travel Products</a></li>
+<li><a href="/web/en-US/content/products/insurance/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Trip Insurance</a></li>
+</ul>
+</li>
+<li id="navAbout"><a href="/web/en-US/content/company/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">About Continental</a>
+<ul>
+<li><a href="/web/en-US/apps/vendors/out.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2&i=mediaservices">Advertise with Us</a></li>
+<li><a href="/web/en-US/content/company/advertising/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Branding</a></li>
+<li><a href="/web/en-US/content/company/career/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Career Opportunities</a></li>
+<li><a href="/web/en-US/content/company/history/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Company History</a></li>
+<li><a href="http://www.unitedcontinentalholdings.com/index.php?section=about">Company Profile</a></li>
+<li><a href="/web/en-US/apps/vendors/out.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2&i=costoremenu">Company Store</a></li>
+<li><a href="/web/en-US/content/company/alliance/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Global Alliances</a></li>
+<li><a href="/web/en-US/content/company/globalcitizenship/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Global Citizenship</a></li>
+                            <li><a href="/web/en-US/content/company/socialmedia/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Social Media</a></li>
+<li><a href="http://ir.unitedcontinentalholdings.com/phoenix.zhtml?c=83680&amp;p=irol-IRHome">Investor Relations</a></li>
+<li><a href="/web/en-US/apps/vendors/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2&i=PRNEWS">News Releases</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="expert"><a id="ctl00_CustomerHeader_lnkVirtualExpertE" accesskey="6" href="javascript:Expert(true);"><img id="ctl00_CustomerHeader_Image1" src="/web/en-US/img/header/askalexplustm2010.gif" alt="Ask Alex For Help" height="88" width="104" border="0" /></a></div>
+</div>
+</div>
+    
+</div>
+</div>
+<div id="ctl00_Contents" class="Contents">
+<table width="100%">
+<tr>
+<td id="mainContent">
+<!--NOINDEX--><span id="ctl00_SiteMapPath1" class="blockCrumbContent"><a href="#ctl00_SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=zljf6ll10bTmAqKIvyi8rIiLHbIsyRjNuOeo1MOzs_thTPOk_Hsnug02VeGTh3e9oUjrdUlgwuWNc0ZxSgusuIt5vPc1&amp;t=634555489185856054" border="0" /></a><span><a title="Continental Airlines - Airline Tickets, Vacations Packages, Travel Deals, and Company Information on continental.com" href="/web/en-US/Default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Home</a></span><span> &gt; </span><span><a title="Travel information - Online Travel Planning Resources" href="/web/en-US/content/travel/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Travel information</a></span><span> &gt; </span><span><a href="/web/en-US/content/travel/baggage/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Baggage information</a></span><span> &gt; </span><span><b>Checked Baggage Fees</b></span><a id="ctl00_SiteMapPath1_SkipLink"></a></span><!--/NOINDEX-->
+
+<h1 id="ctl00_ContentPageHeading_PageHeader1_h1PageHeading" class="PageHeading"><span id="ctl00_ContentPageHeading_PageHeader1_lblPageHeading">Checked Baggage Fees</span></h1>
+
+
+
+
+
+
+
+<link href="/CMS/css/StyleSheet.css" rel="stylesheet" type="text/css" />
+<!-- Beginning of the WebPartZoneAdapter ctl00_ContentInfo_CenterColumn-->
+<div id="CenterColumn" class="AspNet-WebPartZone-Vertical">
+
+<div class="AspNet-WebPart">
+<!-- Beginning of the WebPart ctl00_SPWebPartManager1_g_f1cf2124_0c12_48a7_a916_81c591a64076 -->
+
+<style type="text/css">
+.bagfee th {vertical-align:middle}
+.bagfee th.channel, .bagfee th.count {background:#ccc;color:#000}
+.cutout, .bagfee {border:none!important}
+</style>
+<div style="padding-bottom:0.5em;margin:0.5em 0px;padding-left:2em;padding-right:2em;background:#ffc;clear:both;padding-top:0.75em">
+<p>We have revised some of our checked bag policies for travel worldwide. For the latest checked baggage updates, please review all relevant baggage pages before you travel.<br><em>Updated: October 19, 2011</em></p></div>
+<p>In general, Continental Airlines will accept up to two pieces of checked baggage with a maximum weight of 50 pounds (23 kg) per bag and a maximum outside dimension of 62 inches (157 cm) per bag in exchange for the applicable service fees set forth below. Outside dimension of a bag is equal to the width + height + depth of the bag added together.? </p>
+<p>Bag fees apply at any point where bags are checked. For a trip that includes one or more connections, bags will be checked to your final destination, and the fee for checking a bag from your origin to your destination will apply. For a trip that includes a voluntary stopover, your bags will be checked to your stopover point, where you will collect your bags. When you resume travel, you may check your bags again, subject to applicable fees from the new point of check-in to the destination.</p><a name=exceptions></a>
+<p>Some customers are exempt from certain checked baggage service fees as indicated in the list below (bags must meet weight and size restrictions):</p>
+<ul>
+<li>Continental OnePass? Silver Elite and United MileagePlus? Premier? members get up to two checked bags free.</li>
+<li>OnePass Presidential Platinum, Platinum?and Gold Elite members, United Global Services<sup>SM</sup> members, MileagePlus 1K? and Premier Executive? members, and Star Alliance Gold members get up to three checked bags free. </li>
+<li>Star Alliance Silver members (other than Continental and United Elite members) get one checked bag free.</li>
+<li>BusinessFirst?, First Class, International Business, and Latin Business Class customers get up to three checked bags free.</li>
+<li>Continental Airlines Presidential Plus<sup style="font-size:9px">SM</sup> primary cardmembers get their first and second checked bags free. Other Continental Airlines Chase primary credit cardmembers get their first checked bag free. See <a href="/web/en-US/content/travel/baggage/chasebag.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">continental.com/chasebag</a> for details.</li>
+<li>MileagePlus? Explorer primary credit cardmembers get their first checked bag fee. See <a href="http://www.united.com/page/article/1,,53775,00.html">united.com/chasebag</a> for details.</li>
+<li>Any customers traveling on full fare Economy Class tickets get up to two checked bags free.</li>
+<li>Active U.S. military personnel and their accompanying dependents, not traveling on official business get up to three checked bags free.</li></ul>
+<p>The following customers will not be charged service fees to check up to four bags (bags must meet weight and size restrictions): </p>
+<ul>
+<li>Active U.S. military personnel traveling in Economy on official business (Active U.S. military personnel traveling in BusinessFirst, First or Business Class on official business get up to five bags free)</li>
+<li><span>U.S. military dependents traveling on official business (with documentation)</span></li></ul>
+<p>Customers traveling with OnePass Elite members or dependents traveling with active U.S. military personnel are also exempt as long as they are traveling in the same reservation. This exemption will not apply to group reservations including 10 or more customers.</p>
+<p>If your baggage needs require you to check additional baggage, or baggage that is over the listed size and weight, please review the <a href="/web/en-US/content/travel/baggage/excess.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Excess Baggage policy</a>.</p>
+<p>Fees apply for certain Economy Class fares between the destinations indicated below based on dates of purchase and travel. Fee amounts are in U.S. dollars (USD).</p>
+<p><strong>Note: Baggage fees shown below apply for travel purchased on or after July 15, 2011, for travel on or after August 15, 2011, except where noted.</strong> Different fees may apply depending on the date your travel was purchased. Please see below for all other ticketing and travel dates.</p>
+<ul>
+<li>If you purchased tickets on or after June 1, 2011, but before July 15, 2011, for travel on or after July 1, 2011, or if you purchased tickets on or after July 15, 2011, for travel before August 15, 2011, view the <a title="" href="/CMS/ContinentalDocuments/pdfs/CheckedBaggage/baggage_fee7152011.pdf">Post-June 1, 2011, International Checked Baggage Fee Chart</a>.</li>
+<li>If you purchased tickets before June 1, 2011, for travel anytime, or if you purchased tickets on or after June 1, 2011, for travel before July 1, 2011, view the <a title="" href="/CMS/ContinentalDocuments/pdfs/CheckedBaggage/baggage_fee612011.pdf">Pre-June 1, 2011, International Checked Baggage Fee Chart</a>.</li></ul><div style="width:760px">
+<p><strong>First and Second Checked Bag Fees</strong></p>
+<table class=modern1>
+<tbody>
+<tr class=bgblue>
+<th><img alt=plane src="/CMS/ContinentalImages/travel/icon_airplane_45x47.gif" width=45 height=47><br>Bag Fees traveling to and from</th>
+<th></th>
+<th>United States (except Hawaii), Canada, Puerto Rico, <br>U.S. Virgin Islands </th>
+<th>Hawaii</th>
+<th>The Caribbean</th>
+<th>Mexico and Central America</th>
+<th>Africa**, Europe, India, the Middle East and South America<sup>?</sup> (except Brazil and Venezuela)</th>
+<th>Asia<sup>?</sup> (except Japan),? Australia and New Zealand</th>
+<th>Micronesia*</th>
+<th>Japan</th></tr>
+<tr>
+<th rowspan=2 width=175>United States (except Hawaii), Canada, Puerto Rico, <br>U.S. Virgin Islands </th>
+<th class=count>Bag #1</th>
+<td class=currency width=64>$25</td>
+<td class=currency width=64>$25</td>
+<td class=currency width=64>$25</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td></tr>
+<tr class=bgblue>
+<th class=count>Bag #2</th>
+<td class=currency width=64>$35</td>
+<td class=currency width=64>$35</td>
+<td class=currency width=64>$40</td>
+<td class=currency width=64>$40</td>
+<td class=currency width=64>$70</td>
+<td class=currency width=64>$70</td>
+<td class=currency width=64>$70</td>
+<td class=currency width=64>$0</td></tr>
+<tr>
+<th rowspan=2 width=175>Hawaii</th>
+<th class=count>Bag #1</th>
+<td class=currency width=64>$25</td>
+<td class=currency width=64>$25</td>
+<td class=currency width=64>$25</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td></tr>
+<tr class=bgblue>
+<th class=count>Bag #2</th>
+<td class=currency width=64>$35</td>
+<td class=currency width=64>$35</td>
+<td class=currency width=64>$40</td>
+<td class=currency width=64>$40</td>
+<td class=currency width=64>$70</td>
+<td class=currency width=64>$70</td>
+<td class=currency width=64>$40</td>
+<td class=currency width=64>$40</td></tr>
+<tr>
+<th rowspan=2 width=175>The Caribbean</th>
+<th class=count>Bag #1</th>
+<td class=currency width=64>$25</td>
+<td class=currency width=64>$25</td>
+<td class=currency width=64>$25</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td></tr>
+<tr class=bgblue>
+<th class=count>Bag #2</th>
+<td class=currency width=64>$40</td>
+<td class=currency width=64>$40</td>
+<td class=currency width=64>$40</td>
+<td class=currency width=64>$40</td>
+<td class=currency width=64>$70</td>
+<td class=currency width=64>$70</td>
+<td class=currency width=64>$70</td>
+<td class=currency width=64>$0</td></tr>
+<tr>
+<th rowspan=2 width=175>Mexico and Central America</th>
+<th class=count>Bag #1</th>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td></tr>
+<tr class=bgblue>
+<th class=count>Bag #2</th>
+<td class=currency width=64>$40</td>
+<td class=currency width=64>$40</td>
+<td class=currency width=64>$40</td>
+<td class=currency width=64>$40</td>
+<td class=currency width=64>$70</td>
+<td class=currency width=64>$70</td>
+<td class=currency width=64>$70</td>
+<td class=currency width=64>$0</td></tr>
+<tr>
+<th rowspan=2 width=175>Africa**, Europe, India, the Middle East and South America<sup>?</sup> (except Brazil and Venezuela)</th>
+<th class=count>Bag #1</th>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td></tr>
+<tr class=bgblue>
+<th class=count>Bag #2</th>
+<td class=currency width=64>$70</td>
+<td class=currency width=64>$70</td>
+<td class=currency width=64>$70</td>
+<td class=currency width=64>$70</td>
+<td class=currency width=64>$70</td>
+<td class=currency width=64>$70</td>
+<td class=currency width=64>$70</td>
+<td class=currency width=64>$0</td></tr>
+<tr>
+<th rowspan=2 width=175>Asia<sup>?</sup> (except Japan), Australia and New Zealand</th>
+<th class=count>Bag #1</th>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td></tr>
+<tr class=bgblue>
+<th class=count>Bag #2</th>
+<td class=currency width=64>$70</td>
+<td class=currency width=64>$70</td>
+<td class=currency width=64>$70</td>
+<td class=currency width=64>$70</td>
+<td class=currency width=64>$70</td>
+<td class=currency width=64>$40</td>
+<td class=currency width=64>$40</td>
+<td class=currency width=64>$0</td></tr>
+<tr>
+<th rowspan=2 width=175>Micronesia*</th>
+<th class=count>Bag #1</th>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td></tr>
+<tr class=bgblue>
+<th class=count>Bag #2</th>
+<td class=currency width=64>$70</td>
+<td class=currency width=64>$40</td>
+<td class=currency width=64>$70</td>
+<td class=currency width=64>$70</td>
+<td class=currency width=64>$70</td>
+<td class=currency width=64>$40</td>
+<td class=currency width=64>$40</td>
+<td class=currency width=64>$40</td></tr>
+<tr>
+<th rowspan=2 width=175>Japan</th>
+<th class=count>Bag #1</th>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>N/A</td></tr>
+<tr class=bgblue>
+<th class=count>Bag #2</th>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$40</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$0</td>
+<td class=currency width=64>$40</td>
+<td class=currency width=64>N/A</td></tr></tbody></table>
+<p>* Bag fees listed for Micronesia apply to travel to/from the following locations: Guam, Saipan, Federated States of Micronesia, Fiji, Marshall Islands, Palau, Koror (ROR), Kosrae (KSA), Kwajalein (KWA), Majuro (MAJ), Nadi (NAN), Pohnpei (PNI), Truk (TKK) and Yap (YAP).</p>
+<p>** Bag fees listed for Africa only apply to travel to/from the following countries: Cameroon, Egypt, Malawi, Morocco and Zambia. For travel to/from all other countries in Africa, first and second checked bag fees do not apply.</p>
+<p><sup>?</sup> For travel to/from Venezuela and Brazil, first and second checked bag fees do not apply.</p>
+<p><sup>?</sup> Bag fees listed for Hong Kong apply to tickets purchased on or after August 18, 2011, for travel on or after September 1, 2011. For tickets purchased before August 18, 2011, for travel anytime, first and second checked bag fees do not apply. For tickets purchased on or after August 18, 2011, for travel before September 1, 2011, first and second checked bag fees do not apply.</p></div><p>To learn more, see our list of FAQs below.</p><h3>FAQs ? Fees for Checked Bags</h3><ul><li><a href="#q42">Who is exempt from the baggage fees?</a></li><li><a href="#q43">Are the checked-bag charges per passenger?</a></li><li><a href="#q44">Do the checked-bag fees also apply to customers on Continental Express and Continental Connection flights?</a></li><li><a href="#q45">Do the bag fees cover my entire trip?</a></li><li><a href="#q46">What is the cost to check three or more bags during non-excess baggage embargoes periods?</a></li><li><a href="#q47">What is the fee for an overweight bag during non-excess baggage embargoes periods?</a></li><li><a href="#q48">What is the fee for an oversized bag during non-excess baggage embargoes periods?</a></li><li><a href="#q49">Is sporting equipment subject to bag fees?</a></li><li><a href="#q50">My child is under the age of two years and sits on my lap. When I check my one bag, will I be charged a service fee to also check my child's car seat or stroller?</a></li><li><a href="#q51">I travel with a wheelchair. If I check one bag, will I also be required to pay a service fee for my wheelchair when I check it?</a></li><li><a href="#q52">What happens when my trip includes travel in Economy Class that is exempt from the baggage policy and my return flight is not exempt?</a></li><li><a href="#q53">When I check in for a flight and pay checked-bag fees, what happens if the flight is cancelled and I do not travel that day?</a></li><li><a href="#q54">Can I pay for my checked bag at curbside?</a></li><li><a href="#q55">Can I pay for my checked bag while checking in online for my flight?</a></li><li><a href="#q56">If I'm traveling on a OnePass reward ticket, does the ticket require me to follow the new policy when I travel in Economy Class?</a></li><li><a href="#q57">If I upgrade to First Class on an Economy Class ticket, will I be charged the bag service fee?</a></li><li><a href="#q58">How will this affect the carry-on policy?</a></li><li><a href="#q59">What if I am connecting onto a codeshare or Star Alliance partner?</a></li><li><a href="#q60">How do Continental Airlines Chase credit cardmembers qualify to get their checked bags free?</a></li></ul><h4 id="q42">Who is exempt from the baggage fees?</h4><p>Please see the <a href="#exceptions">baggage fee exception</a> section at the top of this page.</p><h4 id="q43">Are the checked-bag charges per passenger?</h4><p>Yes. For example, a family of four traveling on the same reservation will be charged for each of their first bags checked, one each per passenger. Each second bag per passenger would be assessed the applicable fee </p><h4 id="q44">Do the checked-bag fees also apply to customers on Continental Express and Continental Connection flights?</h4><p>Yes, this policy applies to all Continental Express flights, which are operated by ExpressJet and Chautauqua Airlines; and all Continental Connection flights, which are operated by Gulfstream International, CommutAir, Colgan Air and Cape Air.</p><h4 id="q45">Do the bag fees cover my entire trip?</h4><p>Bag fees apply at any point where bags are checked. For a trip that includes one or more connections, bags will be checked to your final destination, and the fee for checking a bag from your origin to your destination will apply. For a trip that includes a voluntary stopover, your bags will be checked to your stopover point, where you will collect your bags. When you resume travel, you may check your bags again, subject to applicable fees from the new point of check-in to the destination.</p><h4 id="q46">What is the cost to check three or more bags during non-excess baggage embargoes periods?</h4><p>The service fee is?between $100-$200?per bag to check excess baggage, as long as the bag meets the weight and size requirements. If your bag exceeds the weight and size requirement, you will also be asked to pay an additional fee for overweight or oversized baggage.</p><h4 id="q47">What is the fee for an overweight bag during non-excess baggage embargoes periods?</h4><p>Customers who travel in Economy Class with checked baggage over 50 lbs (23 kg) and not exceeding 70 lbs (32 kg) will be charged at the rate of up to $200 per piece depending on the destination. Baggage weighing from 71 lbs. (32 kg) to 99.9 lbs. (45 kg) will be charged at a rate up to $400 per piece, depending on the destination. These charges are in addition to any charge assessed for additional or oversized baggage. Baggage weighing 100 lbs (45 kg) or more?will not be accepted as checked baggage.</p><h4 id="q48">What is the fee for an oversized bag during non-excess baggage embargoes periods?</h4><p>Customers who travel with checked baggage exceeding 62 linear inches (157 cm) (total length + width + height) will be charged at the rate of $100 or $200 per piece. These charges are in addition to any charge assessed for additional or overweight baggage. Baggage measuring more than 115 inches (292 cm) (total outside dimensions; length + width + height) will not be accepted as checked baggage.</p><h4 id="q49">Is sporting equipment subject to bag fees?</h4><p>Yes. Sporting equipment that does not have its own service fee is subject to the first and second bag fees. Some sporting equipment is subject to its own service fee (i.e. surfboards, sailboards, pole vaults, etc.) and is exempt from the first and second bag fees. <a href="/web/en-US/content/travel/baggage/sports.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Get more information about sporting equipment service fees and restrictions.</a></p><h4 id="q50">My child is under the age of two years and sits on my lap. When I check my one bag, will I be charged a service fee to also check my child's car seat or stroller?</h4><p>No. When traveling with a child, you may check a car seat or stroller as your first or second bag free of charge.</p><h4 id="q51">I travel with a wheelchair. If I check one bag, will I also be required to pay a service fee for my wheelchair when I check it?</h4><p>No. Continental does not charge customers for checking a wheelchair.</p><h4 id="q52">What happens when my trip includes travel in Economy Class that is exempt from the baggage policy and my return flight is not exempt?</h4><p>If any part of your trip on Continental contains a segment that is not exempt from the new policy, then you will be required to pay the bag service fee on the segment that is not exempt.</p><h4 id="q53">When I check in for a flight and pay checked-bag fees, what happens if the flight is cancelled and I do not travel that day?</h4><p>You are eligible for a refund for the bag service fee when you involuntarily do not travel. You may request your refund through the Continental refund process either by e-mail, phone or regular mail. <a href="/web/en-US/content/reservations/refunds/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">See details</a>.</p><h4 id="q54">Can I pay for my checked bag at curbside?</h4><p>Yes, you may pay the service fee at curbside check in by credit card.</p><h4 id="q55">Can I pay for my checked bag while checking in online for my flight?</h4><p>When checking in at continental.com, you can input your credit card information to cover your checked-bag fees. Your card will be charged immediately for the number of bags you designate at the time you check in online. If required, you may change the number of checked bags at the airport, however, bag fees paid online will not be refunded. </p><h4 id="q56">If I'm traveling on a OnePass reward ticket, does the ticket require me to follow the new policy when I travel in Economy Class?</h4><p>Customers without Elite status, redeeming OnePass miles for travel in Economy Class will be charged checked-bag fees. Customers redeeming OnePass miles for First Class travel will be exempt from the checked-bag fees.</p><h4 id="q57">If I upgrade to First Class on an Economy Class ticket, will I be charged the bag service fee?</h4><p>Whether you pay a service fee depends on what your status was at the time you dropped off your bags. If at the time you checked in your bags you are in the Economy cabin for seating, then you would be charged a service fee for checking a bag. If you change from Economy to First Class status before you drop off your bags, then you do not pay the service fee. There is no refund for a service fee paid if you check your bags in while still holding the status of Economy and then later upgrading to First Class.</p><h4 id="q58">How will this affect the carry-on policy?</h4><p>The policy for checked bags does not impact the carry-on policy and customers are still allowed one bag and one personal item.</p><h4 id="q59">What if I am connecting onto a codeshare or Star Alliance partner?</h4><p>When a customer travels on a codeshare flight or on an aircraft operated by a Star Alliance member airline, then the policy regarding checked bags follows the rules determined by the originating operating carrier.</p><h4 id="q60">How do Continental Airlines Chase credit cardmembers qualify to get their checked bags free?</h4><p>Eligible Credit cardmembers will get their applicable checked bags free on flights operated by Continental or United; codeshare flights are not eligible. The primary cardmember's OnePass account number must be listed in the reservation, and the cardmember must purchase the tickets with their Continental Airlines Chase Credit Card. Up to eight customers traveling with the eligible primary credit cardmember will also get their applicable checked bags free if they are listed in the same reservation. For credit card accounts opened prior to July 19, 2011: Effective for flights flown on or after January 1, 2012, the number of customers receiving the free bag fee waiver will be limited to the primary cardmember and one companion.<br><br>Checked bags must meet weight and size restrictions or will be subject to additional fees.<br><br>No refunds or credits will be issued after travel has been completed.<br><br>Unpublished fares, such as priceline.com and Hotwire, are not eligible.<br><br>New Continental Airlines Chase primary credit card applicants will be eligible for their applicable free checked bags after they receive their card.</p><!-- End of the WebPart ctl00_SPWebPartManager1_g_f1cf2124_0c12_48a7_a916_81c591a64076 -->
+
+</div>
+</div><!-- End of the WebPartZoneAdapter ctl00_ContentInfo_CenterColumn-->
+
+
+
+</td>
+<td valign="top" id="rightNav"><!--NOINDEX--><span id="ctl00_ContentRightNav_TileAds_spanNavTileTop" class="navTileFirst"><a href="/web/en-US/apps/travel/weather/todaysOperations.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2"><img src="/web/en-US/img/target/tgtWeatherHappens05.gif" alt="Today&#039;s Operations" height="120" width="125"></a></span>
+<span id="ctl00_ContentRightNav_TileAds_spanNavTileBot" class="navTile"><script language="JavaScript" type="text/javascript">
+/* <![CDATA[ */
+if (RunFlashVer(6, '<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="160" height="600"><param name="allowScriptAccess" value="sameDomain"/><param name="movie" value="/web/en-US/img/tgt/side/20110713_qc7411_chase_bag_fees2.swf"/><param name="FlashVars" value="strBaseURL=/web/en-US/content/products/chase/continental.aspx%3Foffer%3DOPP40K%26mkid%3D6S1T" /><param name="quality" value="high"/><param name="wmode" value="transparent"/><embed src="/web/en-US/img/tgt/side/20110713_qc7411_chase_bag_fees2.swf" FlashVars="strBaseURL=/web/en-US/content/products/chase/continental.aspx%3Foffer%3DOPP40K%26mkid%3D6S1T" quality="high" bgcolor="#ffffff" width="160" height="600" align="middle" allowScriptAccess="sameDomain" wmode="transparent" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"/></object>'));
+
+else document.write('<a href="/web/en-US/content/products/chase/continental.aspx%3Foffer%3DOPP40K%26mkid%3D6S1T"><img src="/web/en-US/img/tgt/side/20110713_qc7411_chase_bag_fees.jpg" width="160" height="600" alt="Your first checked bag is free. Plus earn 25,000 bonus miles and  your first year free."/></a>');
+/* ]]> */
+</script>
+<noscript><a href="/web/en-US/content/products/chase/continental.aspx%3Foffer%3DOPP40K%26mkid%3D6S1T"><img src="/web/en-US/img/tgt/side/20110713_qc7411_chase_bag_fees.jpg" width="160" height="600" alt="Your first checked bag is free. Plus earn 25,000 bonus miles and  your first year free."/></a></noscript></span>
+<!--/NOINDEX--></td>
+</tr>
+</table>
+</div>
+
+<div id="footer">
+<div id="footerSeal"></div>
+<div id="footerText">
+<p>Find Continental on: <a href="/web/en-US/apps/vendors/out.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2&i=facebook"><img class="smicon" src="/web/format/img/footer/facebook.png" height="16" width="16" border="0" /></a> <a href="/web/en-US/apps/vendors/out.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2&i=twitter"><img class="smicon" src="/web/format/img/footer/twitter.png" height="16" width="16" border="0" /></a> <a href="/web/en-US/apps/vendors/out.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2&i=youtube"><img class="smicon" src="/web/format/img/footer/youtube.png" height="16" width="16" border="0" /></a> <a href="/web/en-US/apps/vendors/out.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2&i=flickr"><img class="smicon" src="/web/format/img/footer/flickr.png" height="16" width="16" border="0" /></a></p>
+<a href="/web/en-US/content/products/business/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Business Services</a> | <a href="http://cargo.cocargo.com/cargo/">Cargo</a> | <a href="/web/en-US/content/company/career/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Careers</a> | <a href="http://www.unitedcontinentalholdings.com">unitedcontinentalholdings.com</a><br /><a href="/web/en-US/content/contract.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Contract of Carriage</a><span id="ctl00_CustomerFooter_FooterText2_sepTarmacDelay"> | </span><a id="ctl00_CustomerFooter_FooterText2_lnkTarmacDelay" href="/web/en-US/content/tarmacDelay.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Lengthy Tarmac Delay Plan</a> | <a href="/web/en-US/content/customerfirst.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Our Continental Customer Commitment</a> | <a accesskey="8" href="/web/en-US/content/legal.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Legal Information</a> | <a href="/web/en-US/content/privacy.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Privacy Policy</a> | <a accesskey="3" href="/web/en-US/apps/search/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Site Map</a> | <a accesskey="4" href="/web/en-US/apps/search/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Search continental.com</a> | <a id="ctl00_CustomerFooter_FooterText2_HyperLink9" href="/web/en-US/content/Agency/default.aspx?SID=0FBB7DD69CEF4F228B6F89046CEA0AF2">Travel Agents</a><br />
+Copyright &copy; 2012 Continental Airlines, Inc.<br />All rights reserved.</div>
+</div>
+
+
+
+
+</div>
+<div id="ctl00_divWS" class="divWS"></div>
+<!-- "Pat. 5,572,643; 5,737,619; 6,185,586; 6,457,025." -->
+<!-- Usercontrol exclusively for chase kiosk pages -->
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';Sys.Application.initialize();
+//]]>
+</script>
+</form>
+</body>
+</html>
+

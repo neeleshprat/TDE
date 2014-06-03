@@ -1,0 +1,1154 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<!--[if lt IE 7 ]> <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" class="ie6 ie"  style="display:block;"> <![endif]-->
+<!--[if IE 7 ]>    <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" class="ie7 ie"  style="display:block;"> <![endif]-->
+<!--[if IE 8 ]>    <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" class="ie8 ie"  style="display:block;"> <![endif]-->
+<!--[if IE 9 ]>    <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" class="ie9 ie"  style="display:block;"> <![endif]-->
+<!--[if (gt IE 9) | !(IE)]><!--> <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en"  style="display:block;"> <!--<![endif]-->
+
+<head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+         <link type="text/css" href="/_css/reduced3.min.css?t=20120202" media="all" rel="Stylesheet" /> 
+    
+    
+    <link rel="stylesheet" type="text/css" href="/_css/fancybox/jquery.fancybox-1.3.0.css?t=201201300944" />
+    
+    <script type="text/javascript">
+        var $j = jQuery.noConflict();
+        var refresh = null;
+        var adUnit = "";
+        var timestamp = "20120209061927677";
+        var culture = "en-US";
+        var _gaq = _gaq || [];
+        _gaq.push(["_setAccount", "UA-327849-1"]);
+        _gaq.push(["_setDomainName", "www.fxstreet.com"]);
+        _gaq.push(["_setCustomVar",1,"UserLoged","False",1]);_gaq.push(["_trackPageview"]);_gaq.push(["_trackPageLoadTime"]);
+    </script>
+    
+    
+<meta property="fb:page_id" content="41542658897" />
+
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/technical/market-view/daily-analysis/index.xml" />
+    <link rel="stylesheet" href="/_css/print.css" type="text/css" media="print" />
+
+<meta property="og:title" content="ECB may delay its stimulus exit amid concerns on Greece's deficit"/><meta property="og:type" content="article"/><meta property="og:url" content="http://www.fxstreet.com/technical/market-view/daily-analysis/2010-02-09.html"/><meta property="og:site_name" content="FXstreet.com"/><meta property="fb:app_id" content="165130350199320"/><meta property="og:description" content="The (ECB) European Central Bank may be forced to cancel the withdrawal of emergency lending measures for the time-being because it could inflame financial market concerns about Greece, Spain and Portugal various economist have stated. Investors are dumping Greece, Spanish and Portuguese assets as their governments struggle to rein in their budget deficits, making it more expensive for them to finance the debt. Should the ECB go ahead with its exit strategy by pulling its unlimited cash support"/><meta name="description" content="The (ECB) European Central Bank may be forced to cancel the withdrawal of emergency lending measures for the time-being because it could inflame financial market concerns about Greece, Spain and Portugal various economist have stated. Investors are dumping Greece, Spanish and Portuguese assets as their governments struggle to rein in their budget deficits, making it more expensive for them to finance the debt. Should the ECB go ahead with its exit strategy by pulling its unlimited cash support"/><meta property="og:image" content="http://cdn.fxstreet.com/img/facebook/eurusd/eurusd02.png"/>
+<title>
+	ECB may delay its stimulus exit amid concerns on Greece's deficit
+</title></head>
+<body>
+    <script type="text/javascript">
+        $j("body").addClass("js");
+    </script>
+    
+
+    
+
+<div class="site-header">
+<div class="site-utilities">
+<div class="site-width">
+<!--NEWSFEED-->
+
+<div class="site-newsfeed float-l">
+<a id="highlighteds_Previous" href="#" class="icon i-arrow-s-w-s2" title="Previous">Previous </a>
+<a id="highlighteds_Next" href="#" class="icon i-arrow-s-e-s2" title="Next">Next </a>
+<span id="highlighteds"><a id="linkreference" href="#"></a></span>
+</div>
+
+<!--LOGIN-->
+<div class="site-login layout-dropdown">
+    
+<span id="userlogin">
+    
+    
+        <a href="/signup/">Sign up</a> | <a href="/login/" class="login">Login</a>
+    
+</span>
+
+</div>  
+
+
+<!--LANGUAGES-->
+<div class="site-language layout-dropdown it-clickorhover">
+	<a href="#" class="dropdown-target lang-select"><i class="flag i-uk"></i> English <i class="icon i-10 i-arrow-s-s-s2"></i></a>
+	<ul class="dropdown-menu">
+	<li><a href="http://www.fxstreet.jp"><b class="flag i-jp"></b> ???</a></li>
+	<li><a href="http://www.fxstreet.es"><b class="flag i-es"></b> Espa?ol</a></li>
+	<li><a href="http://www.forex21.cn/"><b class="flag i-cn"></b> ????</a></li>
+	<li><a href="http://www.fxstreet.hk/"><b class="flag i-cn"></b> ????</a></li>
+	<li><a href="http://www.fxstreet.ru.com"><b class="flag i-ru"></b> ???????</a></li>
+	<li><a href="http://www.fxstreet.fr"><b class="flag i-fr"></b> Fran&ccedil;ais</a></li>
+	<li><a href="http://www.fxstreet.web.id"><b class="flag i-id"></b> Indonesia</a></li>
+	<li><a href="http://www.fxstreet.ae"><b class="flag i-ae"></b> ???????</a></li>
+	<li><a href="http://www.forexstreet.it"><b class="flag i-it"></b> Italiano</a></li>
+	<li><a href="http://www.fxstreet.de.com"><b class="flag i-de"></b> Deutsch</a></li>
+	<li><a href="http://www.fxstreet.pt"><b class="i-pt flag"></b> Portugu&ecirc;s</a></li>
+	<li><a href="http://www.fxstreet.hu"><b class="i-hu flag"></b> Magyar</a></li>
+    <li><a href="http://www.fxstreet.com.tr"><b class="i-tr flag"></b> T?rk?e</a></li>
+    <li><a href="http://www.fxstreet.com.vn"><b class="i-vn flag"></b> Ti?ng Vi?t</a></li>
+	</ul>
+</div>
+
+<!--TIME-->
+<span class="site-time" id="gmt"><a href='/login/?rfr=_-L2FjY291bnQvc2V0dGluZ3Mv-_' id='sitetime'><span class='datetime' id='timehour'></span><span class='icon i-clock-s2'></span></a></span>
+
+</div><!--site-width-->
+</div><!--site-utilities-->
+
+
+<div class="site-width">
+
+<!--LOGO-->
+<a class="site-logo" href="http://www.fxstreet.com"><img src="http://cdn.fxstreet.com/img/logos/logo-print.png" alt="FXstreet.com" title="Forex Street" height="50" width="235" /></a>
+
+<!--SPONSOR-->
+<div class="header-middle">
+<a class="site-sponsor" href="http://pubads.g.doubleclick.net/gampad/clk?id=2980740&iu=/7138/Sponsor/English" target="_blank">
+<img alt="Sponsor" width="131" height="36" src="http://cdn.fxstreet.com/img/cag/logo-gft.png" alt="Site sponsor: GFT" />
+</a>
+</div>
+
+<!--SEARCH-->
+<div class="site-search corner-3">
+<form id="cse-search-box" action="http://www.fxstreet.com/search/">
+<input type="hidden" value="partner-pub-7641419421544728:6qdx7p-m62d" name="cx" />
+<input type="hidden" value="FORID:11" name="cof" />
+<input type="hidden" value="UTF-8" name="ie" />
+<input id="searchfield" type="text" name="q" />
+<input type="submit" value="" id="searchbutton" />
+</form>
+</div>
+
+</div><!--site-width-->
+</div><!--site-header-->
+
+
+
+<!--MENUS-->
+<div class="layout-tabs" id="nav">
+<div class="site-width fix">
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="/rates-charts/">Rates &amp; Charts</a></li>
+<li><a href="/news/">News</a></li>
+<li><a href="/fundamental/">Fundamental</a></li>
+<li><a href="/technical/">Technical</a></li>
+<li><a href="/forex-tools/">Tools</a></li>
+<li><a href="/platforms/">Platforms</a></li>
+<li><a href="/webinars/">Webinars</a></li>
+<li><a href="/education/">Education</a></li>
+<li><a href="/services/">Services</a></li>
+<li><a href="/brokers/">Brokers</a></li>
+</ul>
+</div>
+</div>
+
+<div id="subnav">
+<div class="site-width fix"><ul>
+<li><a href="/technical/currencies-glance/">Currencies at a glance</a></li>
+<li><a href="/technical/analysis-reports/">Technical Analysis Reports</a></li>
+<li><a href="/technical/market-view/">Market View</a></li>
+<li><a href="/technical/forex-forecasts/">Forecasts</a></li>
+<li><a href="/technical/forex-strategy/">Trading Strategy</a></li>
+<li><a href="/technical/forex-signals/">Signals</a></li>
+</ul>
+</div>
+</div>
+
+<!--LEADERBOARD-->
+
+<div class="section"><div class="banner-leaderboard"><iframe src="http://ad.doubleclick.net/N7138/adi/;tile=1;sz=728x90;ord=20120209061927677" class="it-adIframe" width="728" height="90" frameborder = "0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0"></iframe></div></div>
+
+
+<!--CONTENT-->
+
+
+
+<div id="bg" class="">
+<div class="site-width">
+   
+    
+    
+        
+
+
+    <div id="content" class="column-main grid12">
+        <div class="section-main section">   
+
+<div class="section section-article article-report">
+	<input type="hidden" name="IdReport" id="IdReport" value="9e90d2e8-5ab6-41da-acd5-0e05eb6e218b" />
+	
+		<h2 id="titlereport" class="report-title">Daily Analysis</h2>
+	
+	
+		<div class="box-warning"><b class="icon i-warning"></b>This report has been deactivated</div>
+	
+
+<div class="article-header">
+
+
+	<h1 id="titleentrada" class="article-title">ECB may delay its stimulus exit amid concerns on Greece's deficit</h1>
+
+
+<div class="article-info"> 
+<p>
+<a class="provider" href="http://www.finotec.com/">
+<img src="http://mediaserver.fxstreet.com/images/finotec-group-inc-provider-logo-en.gif" alt="Finotec Group Inc." /></a>
+	Tue, Feb 9 2010, 12:19 GMT<br />&nbsp;by&nbsp;
+	
+	<a href="/search/contributors/authors/author.aspx?id=534681de-b7a9-4a14-aafc-d210604f6440">Benny Menashe</a>
+	 
+	&nbsp;-&nbsp;<a href="http://www.finotec.com/">Finotec Group Inc.</a>
+	&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="/search/contributors/contributor.aspx?id=d7a258d1-8319-434c-bb9a-329ee508137c">View company's profile</a>
+</p>
+</div>
+
+<div class="article-utilities article-header-utilities layout-bar fix">
+<div class="bar-left article-vote">
+    <span>Vote:</span>
+    <ul>
+	    <li><a src="http://cdn.fxstreet.com/images/voteup.png" class="i-vote-up icon vote" name="8ce74396-b515-40b4-8348-581611610a99">Vote up:</a><span class="up8ce74396-b515-40b4-8348-581611610a99">0</span></li>
+	    <li><a src="http://cdn.fxstreet.com/images/votedown.png" class="i-vote-down icon vote" name="8ce74396-b515-40b4-8348-581611610a99">Vote down:</a><span class="down8ce74396-b515-40b4-8348-581611610a99">0</span></li>
+    </ul>
+</div>
+
+<div class="article-actions fix">
+	<div class="addthis_toolbox addthis_default_style fix">
+	<a class="addthis_button_email it-sharethis-button btn-social-s1">&nbsp;Email</a>
+	<a class="addthis_button_print it-sharethis-button btn-social-s1">&nbsp;Print</a>
+	<a href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=fxstreet" class="addthis_button_compact it-sharethis-button btn-social-s1">Share</a>
+	<a class="addthis_button_tweet it-sharethis-button" tw:width="90" tw:via="FXstreetNews" tw:related="FXstreetUpdate"></a>
+	<span class="ib btn-plusone" ><a class="addthis_button_google_plusone it-sharethis-button"  rel="nofollow" g:plusone:size="medium" g:plusone:width="70" ></a></span>
+	<a class="addthis_button_facebook_like it-sharethis-button" fb:like:layout="button_count" fb:like:action="recommend" fb:like:show_faces="false" fb:like:width="130" fb:like:height="22" > </a>
+	<a href="/technical/market-view/daily-analysis/index.xml" class=" btn-social-s1"><b class="i-rss2 icon" title="Subscribe to this report">RSS</b></a>
+	</div>
+</div><!--bar-left.article-actions-->
+
+</div><!--article-utilities-->
+
+</div><!--article-header-->
+
+<div class="article-content">
+    
+<div class="article-aside">
+
+</div>
+
+<div class="article-text">
+<table class="mycssTable2">
+	<caption>
+		
+	</caption><tr class="mycssHeaderRow2">
+		<td class="mycssHeaderCol2"></td><td class="mycssOddCol2">EUR/USD</td><td class="mycssEvenCol2">USD/JPY</td><td class="mycssOddCol2">GBP/USD</td><td class="mycssEvenCol2">USD/CHF</td>
+	</tr><tr class="mycssOddRow2">
+		<td class="mycssHeaderCol2"></td><td class="mycssOddCol2">1.3851(M)</td><td class="mycssEvenCol2">91.09(M)</td><td class="mycssOddCol2">1.5775(M)</td><td class="mycssEvenCol2">1.0800(S)</td>
+	</tr><tr class="mycssEvenRow2">
+		<td class="mycssHeaderCol2">Resistance</td><td class="mycssOddCol2">1.3843(M)</td><td class="mycssEvenCol2">90.93(M)</td><td class="mycssOddCol2">1.5730(M)</td><td class="mycssEvenCol2">1.0772(M)</td>
+	</tr><tr class="mycssOddRow2">
+		<td class="mycssHeaderCol2"></td><td class="mycssOddCol2">1.3747(M)</td><td class="mycssEvenCol2">89.89(M)</td><td class="mycssOddCol2">1.5672(M)</td><td class="mycssEvenCol2">1.0741(M)</td>
+	</tr><tr class="mycssEvenRow2">
+		<td class="mycssHeaderCol2"></td><td class="mycssOddCol2">1.3685(M)</td><td class="mycssEvenCol2">88.90(M)</td><td class="mycssOddCol2">1.5580(M)</td><td class="mycssEvenCol2">1.0647(M)</td>
+	</tr><tr class="mycssOddRow2">
+		<td class="mycssHeaderCol2">Support</td><td class="mycssOddCol2">1.3585(M)</td><td class="mycssEvenCol2">88.55(S)</td><td class="mycssOddCol2">1.5535(M)</td><td class="mycssEvenCol2">1.0619(M)</td>
+	</tr><tr class="mycssEvenRow2">
+		<td class="mycssHeaderCol2"></td><td class="mycssOddCol2">1.3535(M)</td><td class="mycssEvenCol2">88.25(M)</td><td class="mycssOddCol2">1.5515(M)</td><td class="mycssEvenCol2">1.0521(M)</td>
+	</tr>
+</table><p></p><p>The (ECB) European Central Bank may be forced to cancel the withdrawal of emergency lending measures for the time-being because it could inflame financial market concerns about Greece, Spain and Portugal various economist have stated. Investors are dumping Greece, Spanish and Portuguese assets as their governments struggle to rein in their budget deficits, making it more expensive for them to finance the debt. <br />Should the ECB go ahead with its exit strategy by pulling its unlimited cash support for euro area, interest rates could rise and further undermine confidence in Europe?s economic recovery. Greece?s budget woes threaten to overshadow a summit of European Union leaders that compelled ECB President Jean Claude Trichet to shorten his trip to a Reserve Bank of Australia symposium in Sydney by one day. The EU meeting was called to lay the groundwork for a 10-year economic program to strengthen the region?s competitiveness. The EUR/USD is currently trading at $1.3706 as of 6:43am, GMT, with a bullish trend.</p>   <p> The British pound continued its fall against the dollar on Monday as the UK currency bore the brunt of risk aversion selling triggered by jitters about the fiscal health of some euro zone countries. Investors are Worried about how euro zone states including Greece and Portugal will service their debts, including those denominated in sterling, which has been battered in recent weeks. A poll in the newspaper The Independent showing the opposition Conservative party's lead over the ruling Labour Party had fallen below 10 percentage points kept sterling on the back foot. This narrowing of the gap would increase the possibility of a hung parliament after the election that must be held by June, which would make it difficult for the new government to pass unpopular bills to strengthen the economy and repay debt. The GBP/USD is currently trading at $15640 as of 7:19am, GMT with a bullish trend.</p>   <p> The Dollar and the Yen both fell slightly on speculation European officials meeting this week will agree to assist Greece in tackling its deficit, reducing demand for the two currencies as a safe haven. The euro rallied from a near one-year low versus the JPY after a European Central Bank spokeswoman said President Jean Claude Trichet will leave a meeting in Sydney early to attend a European Union leaders? summit. The yen fell for a third day against the greenback amid prospects Japanese companies sold the currency. ?Investors may begin to think that a policy measure directed at Greece?s fiscal situation is potentially in the works,? said David Forrester, a currency economist at Barclays Capital in Singapore. The EUR/JPY is currently trading at 123.02 as of 7:43am, GMT, with a bullish trend.</p>  <p><a onclick="FXStreet.openwin(this.href, '_blank', 453, 164, 1, 0, 0, 0);return false;" href="http://mediaserver.fxstreet.com/Reports/9e90d2e8-5ab6-41da-acd5-0e05eb6e218b/Dailyanalysis_20100209122420.jpg"><img height="104" width="300" title="Daily Analysis" alt="Daily Analysis" src="http://mediaserver.fxstreet.com/Reports/9e90d2e8-5ab6-41da-acd5-0e05eb6e218b/Dailyanalysis_20100209122420.jpg" /></a></p>   <p><br /></p>   <h3> Today's Economic Events</h3><table class="mycssTable2">
+	<caption>
+		
+	</caption><tr class="mycssHeaderRow2">
+		<td class="mycssHeaderCol2">Time  </td><td class="mycssOddCol2">Event  </td><td class="mycssEvenCol2"> Currency/Country   </td><td class="mycssOddCol2">Period  </td><td class="mycssEvenCol2">Previous  </td><td class="mycssOddCol2">Forecast  </td><td class="mycssEvenCol2"> Significance   </td><td class="mycssOddCol2">Actual  </td>
+	</tr><tr class="mycssOddRow2">
+		<td class="mycssHeaderCol2">9/2/2010 23:50</td><td class="mycssOddCol2">Machinery Orders (M-o-M)</td><td class="mycssEvenCol2">Japan</td><td class="mycssOddCol2">Monthly</td><td class="mycssEvenCol2">-11.3</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">2</td><td class="mycssOddCol2"></td>
+	</tr><tr class="mycssEvenRow2">
+		<td class="mycssHeaderCol2">9/2/2010 23:50</td><td class="mycssOddCol2">Machinery Orders (Y-o-Y)</td><td class="mycssEvenCol2">Japan</td><td class="mycssOddCol2">Yearly</td><td class="mycssEvenCol2">-20.5</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">3</td><td class="mycssOddCol2"></td>
+	</tr><tr class="mycssOddRow2">
+		<td class="mycssHeaderCol2">9/2/2010 23:50</td><td class="mycssOddCol2">Domestic CGPI (M-o-M)</td><td class="mycssEvenCol2">Japan</td><td class="mycssOddCol2">Monthly</td><td class="mycssEvenCol2">0.1</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">2</td><td class="mycssOddCol2"></td>
+	</tr><tr class="mycssEvenRow2">
+		<td class="mycssHeaderCol2">9/2/2010 23:50</td><td class="mycssOddCol2">Domestic CGPI (Y-o-Y)</td><td class="mycssEvenCol2">Japan</td><td class="mycssOddCol2">Yearly</td><td class="mycssEvenCol2">-3.9</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">3</td><td class="mycssOddCol2"></td>
+	</tr><tr class="mycssOddRow2">
+		<td class="mycssHeaderCol2">9/2/2010 23:30</td><td class="mycssOddCol2">Westpac Consumer Confidence</td><td class="mycssEvenCol2">Australia</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">5.6</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">2</td><td class="mycssOddCol2"></td>
+	</tr><tr class="mycssEvenRow2">
+		<td class="mycssHeaderCol2">9/2/2010 22:00</td><td class="mycssOddCol2">ABC News Consumer Confidence Index</td><td class="mycssEvenCol2">United States</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">-49</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">4</td><td class="mycssOddCol2"></td>
+	</tr><tr class="mycssOddRow2">
+		<td class="mycssHeaderCol2">9/2/2010 15:00</td><td class="mycssOddCol2">Wholesale Sales (M-o-M)</td><td class="mycssEvenCol2">United States</td><td class="mycssOddCol2">Monthly</td><td class="mycssEvenCol2">3.3</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">3</td><td class="mycssOddCol2"></td>
+	</tr><tr class="mycssEvenRow2">
+		<td class="mycssHeaderCol2">9/2/2010 15:00</td><td class="mycssOddCol2">Inventories (M-o-M)</td><td class="mycssEvenCol2">United States</td><td class="mycssOddCol2">Monthly</td><td class="mycssEvenCol2">1.5</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">2</td><td class="mycssOddCol2"></td>
+	</tr><tr class="mycssOddRow2">
+		<td class="mycssHeaderCol2">9/2/2010 15:00</td><td class="mycssOddCol2">IBD/TIPP Economic Optimism</td><td class="mycssEvenCol2">United States</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">48.8</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">3</td><td class="mycssOddCol2"></td>
+	</tr><tr class="mycssEvenRow2">
+		<td class="mycssHeaderCol2">9/2/2010 15:00</td><td class="mycssOddCol2">NIESR GDP Estimate</td><td class="mycssEvenCol2">UK</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">0.3</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">3</td><td class="mycssOddCol2"></td>
+	</tr><tr class="mycssOddRow2">
+		<td class="mycssHeaderCol2">9/2/2010 9:30</td><td class="mycssOddCol2">Trade Balance</td><td class="mycssEvenCol2">JPY/UK</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">-2.9</td><td class="mycssOddCol2">-2.8</td><td class="mycssEvenCol2">2</td><td class="mycssOddCol2">-3.26</td>
+	</tr><tr class="mycssEvenRow2">
+		<td class="mycssHeaderCol2">9/2/2010 9:30</td><td class="mycssOddCol2">Trade Balance - Non EU</td><td class="mycssEvenCol2">JPY/UK</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">-3.12</td><td class="mycssOddCol2">-3.1</td><td class="mycssEvenCol2">3</td><td class="mycssOddCol2">-3.55</td>
+	</tr><tr class="mycssOddRow2">
+		<td class="mycssHeaderCol2">9/2/2010 9:30</td><td class="mycssOddCol2">Visible Trade Balance</td><td class="mycssEvenCol2">JPY/UK</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">-6.79</td><td class="mycssOddCol2">-6.7</td><td class="mycssEvenCol2">3</td><td class="mycssOddCol2">-7.28</td>
+	</tr><tr class="mycssEvenRow2">
+		<td class="mycssHeaderCol2">9/2/2010 9:30</td><td class="mycssOddCol2">Imports</td><td class="mycssEvenCol2">JPY/UK</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">36.21</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">2</td><td class="mycssOddCol2"></td>
+	</tr><tr class="mycssOddRow2">
+		<td class="mycssHeaderCol2">9/2/2010 9:30</td><td class="mycssOddCol2">Exports</td><td class="mycssEvenCol2">JPY/UK</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">33.3</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">2</td><td class="mycssOddCol2"></td>
+	</tr><tr class="mycssEvenRow2">
+		<td class="mycssHeaderCol2">9/2/2010 7:00</td><td class="mycssOddCol2">Exports</td><td class="mycssEvenCol2">?/Germany</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">56.3</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">2</td><td class="mycssOddCol2"></td>
+	</tr><tr class="mycssOddRow2">
+		<td class="mycssHeaderCol2">9/2/2010 7:00</td><td class="mycssOddCol2">Imports</td><td class="mycssEvenCol2">?/Germany</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">56.3</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">2</td><td class="mycssOddCol2"></td>
+	</tr><tr class="mycssEvenRow2">
+		<td class="mycssHeaderCol2">9/2/2010 7:00</td><td class="mycssOddCol2">Trade Balance</td><td class="mycssEvenCol2">?/Germany</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">17.4</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">2</td><td class="mycssOddCol2"></td>
+	</tr><tr class="mycssOddRow2">
+		<td class="mycssHeaderCol2">9/2/2010 7:00</td><td class="mycssOddCol2">CPI (M-o-M)</td><td class="mycssEvenCol2">Germany</td><td class="mycssOddCol2">Monthly</td><td class="mycssEvenCol2">-0.6</td><td class="mycssOddCol2">-0.6</td><td class="mycssEvenCol2">2</td><td class="mycssOddCol2">-0.6</td>
+	</tr><tr class="mycssEvenRow2">
+		<td class="mycssHeaderCol2">9/2/2010 7:00</td><td class="mycssOddCol2">CPI (Y-o-Y)</td><td class="mycssEvenCol2">Germany</td><td class="mycssOddCol2">Yearly</td><td class="mycssEvenCol2">0.9</td><td class="mycssOddCol2">0.8</td><td class="mycssEvenCol2">2</td><td class="mycssOddCol2">0.8</td>
+	</tr><tr class="mycssOddRow2">
+		<td class="mycssHeaderCol2">9/2/2010 7:00</td><td class="mycssOddCol2">CPI - EU Harmonised (M-o-M)</td><td class="mycssEvenCol2">Germany</td><td class="mycssOddCol2">Monthly</td><td class="mycssEvenCol2">-0.7</td><td class="mycssOddCol2">-0.7</td><td class="mycssEvenCol2">3</td><td class="mycssOddCol2">-0.6</td>
+	</tr><tr class="mycssEvenRow2">
+		<td class="mycssHeaderCol2">9/2/2010 7:00</td><td class="mycssOddCol2">CPI - EU Harmonised (Y-o-Y)</td><td class="mycssEvenCol2">Germany</td><td class="mycssOddCol2">Yearly</td><td class="mycssEvenCol2">0.7</td><td class="mycssOddCol2">0.7</td><td class="mycssEvenCol2">2</td><td class="mycssOddCol2">0.8</td>
+	</tr><tr class="mycssOddRow2">
+		<td class="mycssHeaderCol2">9/2/2010 7:00</td><td class="mycssOddCol2">Current Account Balance - BoP</td><td class="mycssEvenCol2">?/Germany</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">18.1</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">2</td><td class="mycssOddCol2"></td>
+	</tr><tr class="mycssEvenRow2">
+		<td class="mycssHeaderCol2">9/2/2010 7:00</td><td class="mycssOddCol2">Capital Account Balance - BoP</td><td class="mycssEvenCol2">?/Germany</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">114</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">2</td><td class="mycssOddCol2"></td>
+	</tr><tr class="mycssOddRow2">
+		<td class="mycssHeaderCol2">9/2/2010 7:00</td><td class="mycssOddCol2">Financial Account Balance - BoP</td><td class="mycssEvenCol2">?/Germany</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">-20.88</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">4</td><td class="mycssOddCol2"></td>
+	</tr><tr class="mycssEvenRow2">
+		<td class="mycssHeaderCol2">9/2/2010 0:30</td><td class="mycssOddCol2">NAB Business Conditions</td><td class="mycssEvenCol2">Australia</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">10</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">3</td><td class="mycssOddCol2"></td>
+	</tr><tr class="mycssOddRow2">
+		<td class="mycssHeaderCol2">9/2/2010 0:30</td><td class="mycssOddCol2">NAB Business Confidence</td><td class="mycssEvenCol2">Australia</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">8</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">3</td><td class="mycssOddCol2"></td>
+	</tr><tr class="mycssEvenRow2">
+		<td class="mycssHeaderCol2">9/2/2010 0:01</td><td class="mycssOddCol2">BRC Retail Sales Monitor</td><td class="mycssEvenCol2">UK</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">4.2</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">3</td><td class="mycssOddCol2"></td>
+	</tr><tr class="mycssOddRow2">
+		<td class="mycssHeaderCol2">9/2/2010 0:01</td><td class="mycssOddCol2">RICS House Price Balance</td><td class="mycssEvenCol2">UK</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">30</td><td class="mycssOddCol2"></td><td class="mycssEvenCol2">4</td><td class="mycssOddCol2"></td>
+	</tr>
+</table><p></p><div class="entryfooter">
+	
+</div>	
+</div>
+
+<div class="section p10">
+<a class="addthis_button_facebook_like it-sharethis-button" fb:like:layout="standard" fb:like:action="recommend" fb:like:show_faces="false" fb:like:width="450" fb:like:height="31" > </a>
+</div>
+
+<div class="article-footer layout-bar">
+	<div class="addthis_toolbox addthis_default_style">
+	    <div class="bar-left ">
+	        <a class="addthis_button_email it-sharethis-button btn-social-s1"> Email</a>
+	        <a class="addthis_button_print it-sharethis-button btn-social-s1"> Print</a>
+	        <a href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=fxstreet" class="addthis_button_compact it-sharethis-button btn-social-s1">Share</a>
+	        <a class="addthis_button_tweet it-sharethis-button" tw:width="90" tw:via="FXstreetReports" tw:related="FXstreetUpdate"></a>
+	        <span class="ib btn-plusone" ><a class="addthis_button_google_plusone it-sharethis-button"  rel="nofollow" g:plusone:size="medium" g:plusone:width="70" ></a></span>
+	    </div>
+
+	    <p class="permalink bar-right">
+	        <span class="datetime">
+	        Published On 
+	        <a href="http://www.fxstreet.com/technical/market-view/daily-analysis/2010/02/09/" title="http://www.fxstreet.com/technical/market-view/daily-analysis/2010/02/09/">
+	            Tue, Feb 9 2010, 13:17 GMT
+            </a>
+            </span>
+        </p>
+	</div>
+</div><!--article-footer.layout-bar-->
+
+</div><!--.section-article.article-report-->
+
+<div class="section-footer section">
+
+
+<div class="grid6 main-info"> 
+	<h2>About this Report</h2>
+	<p><a href="http://www.finotec.com/"><img src="http://mediaserver.fxstreet.com/images/finotec-group-inc-provider-logo-en.gif" alt="Finotec Group Inc."/></a></p>
+	<p>Finotec Group Inc.</p>
+	<p><a href="http://www.finotec.com/">http://www.finotec.com/</a></p>
+	<p>support@finotec.com</p>
+	<br/>
+	<p class="section"><strong><a href="/search/contributors/contributor.aspx?id=d7a258d1-8319-434c-bb9a-329ee508137c">More Reports from this Contributor</a></strong></p>
+	
+</div>
+
+<div class="grid6 grid-last"> 
+<div class="list-reportarchive">
+	<h2>Archive</h2>
+	<ul>
+	
+	</ul> 
+	<div class="module-footer">
+		<label for="olderposts">Older Posts: </label>
+		<select id="cmbArhiveHistory">
+		<option value="">Select Month</option>
+		 
+		</select>
+	</div>
+</div><!--list-reportarchive-->
+</div><!--.grid6.grid-last-->
+
+
+<div class="section">
+	<div class="section">
+	<br/>
+	<div class="hr-s1"></div><br/>
+	<div class="module-advertisement selfpromo4">
+		<div class="module-title"><strong>Advertisement</strong></div>
+		<div class="p10"><script type="text/javascript" src="http://ad.doubleclick.net/N7138/adj/;tile=4;sz=336x280;ord=20120209061927677"></script></div> 
+	</div>
+	</div>
+
+	<div class="section">
+	<br/>
+	<div id="diclaimer" class="disclaimer">
+	
+	<h3>Legal disclaimer and risk disclosure</h3>
+	FINOTEC Trading?s Market Commentaries are provided for informational purposes only. The information contained within these reports is gathered from reputable news sources and not intended as investment advice. FINOTEC Trading assumes no responsibility or liability from gains or losses incurred by the information herein.
+	
+</div>
+	</div>
+	</div>
+	</div>
+</div><!--.section-->
+
+
+        </div>
+    </div>
+    <div id="infocol" class="column-aside grid6">
+        
+        <div class="banner banner-ad1"><script type="text/javascript" src="http://ad.doubleclick.net/N7138/adj/;tile=2;sz=300x250;ord=20120209061927677"></script></div>
+        
+    
+<div class="section">
+    <div class="corner-6 shadow-1 fix promo-forexstudies-01">
+	<h3 class="title"><a href="http://www.fxstreet.com/forex-studies/?utm_source=fxstreetcom&utm_medium=asidebanner&utm_term=report&utm_content=new-forexstudies01&utm_campaign=forexstudies">New: Forex Studies <span class="beta">BETA</span></a></h3>
+	<a href="http://www.fxstreet.com/forex-studies/?utm_source=fxstreetcom&utm_medium=asidebanner&utm_term=report&utm_content=new-forexstudies01&utm_campaign=forexstudies" class="float-l image">
+	<img src="http://cdn.fxstreet.com/img/temp/promo-forexstudies-01.png" alt=""></a>
+	<p class="description">Get all of your FXstreet data from one customizable page. FREE!</p>
+	<p><a href="http://www.fxstreet.com/forex-studies/?utm_source=fxstreetcom&utm_medium=asidebanner&utm_term=report&utm_content=new-forexstudies01&utm_campaign=forexstudies"><strong>Try it now!</strong></a></p>
+    </div>
+</div>
+
+ 
+
+<div class="section selfpromo1">
+
+
+<div class=" it-tabs module-tabbed module-listing it-etracking-relatedcontentd8f8868f" id="tabnavigation-ListAllTags1">
+
+<h2>Related Content</h2>
+
+<div class="layout-tabs module-tabs">
+	<ul>
+	
+		<li><a href='#ListAllTags1-news'>News</a></li>
+		
+	
+		<li><a href='#ListAllTags1-entradesreports'>Reports</a></li>
+		
+	
+		<li><a href='#ListAllTags1-webinars'>Webinars</a></li>
+		
+	
+	</ul>
+</div>
+
+
+   
+    <div class="it-etracking-relatednewsminifc0edb6d ui-tabs-hide " id="ListAllTags1-news">
+    
+        <ul>
+        
+                <li class="llistatnews list-item"> 
+                    <a href="http://www.fxstreet.com/news/forex-news/article.aspx?storyid=f08d3c20-8e19-4355-b8f3-7082decf7864">Forex: GBP/AUD erases gains ahead of BoE easing call</a>
+                    <div class="list-item-info">FXstreet.com
+                    
+                    </div>
+                </li>
+            
+                <li class="llistatnews list-item"> 
+                    <a href="http://www.fxstreet.com/news/forex-news/article.aspx?storyid=cad3c49b-1ec3-48fa-b726-9daf1d391d0e">Forex: EUR/USD at session highs; very busy day ahead</a>
+                    <div class="list-item-info">FXstreet.com
+                    
+                    </div>
+                </li>
+            
+                <li class="llistatnews list-item"> 
+                    <a href="http://www.fxstreet.com/news/forex-news/article.aspx?storyid=800c6476-77fb-4cfb-af10-b91934d1c4e0">ForexLive Asian market wrap: Greek talks go late into the night</a>
+                    <div class="list-item-info">Forex Live
+                    
+                    </div>
+                </li>
+            
+                <li class="llistatnews list-item"> 
+                    <a href="http://www.fxstreet.com/news/forex-news/article.aspx?storyid=a205c1e2-6e77-4efe-bcd0-505d4f98e6d2">FX EUR/USD: Back to opening level as market wary of being short</a>
+                    <div class="list-item-info">IFR Markets
+                    
+                    </div>
+                </li>
+            
+                <li class="llistatnews list-item"> 
+                    <a href="http://www.fxstreet.com/news/forex-news/article.aspx?storyid=9502cf39-c2ad-4d97-a97a-6118c1d2a43a">EUR/USD making new session highs</a>
+                    <div class="list-item-info">Forex Live
+                    
+                    </div>
+                </li>
+            
+        </ul>
+    
+            <div class="module-tags">
+                <span class="icon i-tags">Tags:</span>
+                <a href="/search/tags/?id=eurusd" title="eurusd" >eurusd</a>, <a href="/search/tags/?id=ecb" title="ecb" >ecb</a>, <a href="/search/tags/?id=centralbanks" title="centralbanks" >centralbanks</a>
+                <!--href="/search/tags/?t=n&id= -->
+            </div>
+    
+    <div class="module-footer">
+        <a class="btn-all" href="/search/tags/?t=n&id=eurusd|ecb|centralbanks&mode=false">View All</a>
+    </div>
+    
+</div>
+
+            
+
+
+
+
+
+    <div id="ListAllTags1-entradesreports" class=" ui-tabs-hide">
+        
+            <ul>
+                
+                        <li class="llistatreports list-item"> 
+                            <a href="http://www.fxstreet.com/technical/market-view/technical-market-commentary/2012/02/09/">Technical Market Commentary</a>
+                            <div class="list-item-info">India Forex Advisors
+                                
+                            </div>
+                        </li>
+                    
+                        <li class="llistatreports list-item"> 
+                            <a href="http://www.fxstreet.com/technical/market-view/forex-and-related-markets-commentary/2012/02/09/">Natural Gas closed lower on Wednesday</a>
+                            <div class="list-item-info">HY Markets
+                                
+                            </div>
+                        </li>
+                    
+                        <li class="llistatreports list-item"> 
+                            <a href="http://www.fxstreet.com/technical/market-view/compass-directions/2012/02/09/">Commodity prices have eased slightly</a>
+                            <div class="list-item-info">Compass Global Markets
+                                
+                            </div>
+                        </li>
+                    
+                        <li class="llistatreports list-item"> 
+                            <a href="http://www.fxstreet.com/technical/market-view/daily-financials-commentary/2012/02/09/">The euro declined slightly versus the U.S. dollar</a>
+                            <div class="list-item-info">Phillip Futures Pte Ltd
+                                
+                            </div>
+                        </li>
+                    
+                        <li class="llistatreports list-item"> 
+                            <a href="http://www.fxstreet.com/technical/market-view/premarket-analysis/2012/02/09/">The foreign currency futures drifted lower</a>
+                            <div class="list-item-info">CME Group
+                                
+                            </div>
+                        </li>
+                    
+            </ul>
+            
+                        <div class="module-tags">
+                            <span class="icon i-tags">Tags:</span>
+                            <a href="/search/tags/?id=eurusd" title="eurusd" >eurusd</a>, <a href="/search/tags/?id=ecb" title="ecb" >ecb</a>, <a href="/search/tags/?id=centralbanks" title="centralbanks" >centralbanks</a>
+                            <!--href="/search/tags/?t=e&id= -->
+                        </div>
+                
+                    <div class="module-footer">
+                        <a class="btn-all" href="/search/tags/?t=e&id=eurusd|ecb|centralbanks&mode=false">View All</a>
+                    </div>
+                
+    </div>
+
+            
+
+
+
+
+    <div id="ListAllTags1-webinars" class=" ui-tabs-hide">
+    
+        <ul>
+        
+                <li class="llistatlive list-item">
+                    <a href="http://www.fxstreet.com/webinars/sessions/session.aspx?id=101e5d6b-8660-4daa-9edc-14c142bfb76e">New Normal Economies & History of Fiat Currency Failures Last 100 Yrs</a>
+                    <div class="list-item-info">John W. O'Donnell
+                    
+                    </div>
+                </li>
+            
+                <li class="llistatlive list-item">
+                    <a href="http://www.fxstreet.com/webinars/sessions/session.aspx?id=02f04bb9-5601-4d31-a245-3331a578e0f2">Trade the FOMC statement Live!</a>
+                    <div class="list-item-info">Adam Rosen
+                    
+                    </div>
+                </li>
+            
+                <li class="llistatlive list-item">
+                    <a href="http://www.fxstreet.com/webinars/sessions/session.aspx?id=4cbe7d2a-9637-42ee-b0ac-026d2c5a7998">Monitoring the markets: BoE and ECB Rates Decision</a>
+                    <div class="list-item-info">Valeria Bednarik
+                    
+                    </div>
+                </li>
+            
+                <li class="llistatlive list-item">
+                    <a href="http://www.fxstreet.com/webinars/sessions/session.aspx?id=d567bd56-b500-4d57-8373-46bc765299c3">London FX Open Breakfast</a>
+                    <div class="list-item-info">Kathleen Brooks
+                    
+                    </div>
+                </li>
+            
+                <li class="llistatlive list-item">
+                    <a href="http://www.fxstreet.com/webinars/sessions/session.aspx?id=49862315-0494-4cbd-8a4c-c777c3d54051">Monitoring the markets: ECB Rates Decision</a>
+                    <div class="list-item-info">Valeria Bednarik
+                    
+                    </div>
+                </li>
+            
+        </ul>
+    
+                        <div class="module-tags">
+                            <span class="icon i-tags">Tags:</span>
+                            <a href="/search/tags/?id=eurusd" title="eurusd" >eurusd</a>, <a href="/search/tags/?id=ecb" title="ecb" >ecb</a>, <a href="/search/tags/?id=centralbanks" title="centralbanks" >centralbanks</a>
+                            <!--href="/search/tags/?t=s&id= -->
+                        </div>
+                
+                <div class="module-footer">
+                    <a class="btn-all" href="/search/tags/?t=s&id=eurusd|ecb|centralbanks&mode=false">View All</a>
+                </div>
+                
+    </div>
+
+            
+
+
+
+
+</div>
+
+	<script type="text/javascript">
+	    $j(".it-etracking-relatedcontentd8f8868f a").click(function (e) {
+		var target = e.target.href;
+		var current = document.location.href;
+		if (target.indexOf(current) != -1) {
+		    target = target.replace(current, '');
+		}
+		_gaq.push(['_trackEvent', 'ReportsRelated', 'Related Content', target]);
+	    });
+	</script>
+
+</div>
+
+
+
+ 
+        <div class="banner banner-ad6"><script type="text/javascript" src="http://ad.doubleclick.net/N7138/adj/;tile=3;sz=300x75;ord=20120209061927677"></script></div>
+        
+<div class="section">
+
+<!--ENGINY MOSTPOPULAR-->
+<div class="selfpromo1 it-etracking-mostpopularf4e96e17 module-listing module-mostpopular">
+
+	<h2>Most Popular Content</h2>
+	
+	<div class="it-tabs">
+	<div class="module-tabs layout-tabs">
+		<ul>
+		
+		<li><a href="#content_Mostviewed">Viewed</a></li>
+		
+		<li><a href="#content_Emailed">E-Mailed</a></li>
+		
+		<li><a href="#content_Rated">Rated</a></li>
+		
+		<li><a href="#content_Highlighted">Highlighted</a></li>
+		
+		</ul>
+	</div>
+	
+	    <div id="content_Mostviewed">
+		<ol>
+		
+		<li class="llistatnews">
+		<a href=" http://www.fxstreet.com/news/forex-news/article.aspx?StoryId=e0f5fc5a-2e7b-42b0-81f7-de9107ccbbb0" target="_self">  Forex: EUR/USD slides as the Greek plot thickens</a>
+		<div class="list-item-info">
+		<span class="author">&nbsp;by&nbsp;FXstreet.com</span>
+		<span class="datetime">Feb 8, 23:13 GMT</span>
+		</div>
+		</li>
+		
+		<li class="llistatnews">
+		<a href=" http://www.fxstreet.com/news/forex-news/article.aspx?StoryId=a9d13009-a4ba-499f-9fff-c4e5f7c17bec" target="_self">  Forex Flash: EUR/USD may rally to 1.3500 on Greek debt deal - BNP Paribas</a>
+		<div class="list-item-info">
+		<span class="author">&nbsp;by&nbsp;FXstreet.com</span>
+		<span class="datetime">Feb 9, 00:44 GMT</span>
+		</div>
+		</li>
+		
+		<li class="llistatnews">
+		<a href=" http://www.fxstreet.com/news/forex-news/article.aspx?StoryId=221cb276-c3bc-4eb0-a4e9-c4a95c45b521" target="_self">  Forex: China CPI release was an error; Aussie bounces</a>
+		<div class="list-item-info">
+		<span class="author">&nbsp;by&nbsp;FXstreet.com</span>
+		<span class="datetime">Feb 9, 01:20 GMT</span>
+		</div>
+		</li>
+		
+		</ol>
+	    </div>
+	
+	    <div id="content_Emailed" class="ui-tabs-hide">
+		<ol>
+		
+		<li class="llistatreports">
+		<a href=" http://www.fxstreet.com/fundamental/analysis-reports/daily-trading-analysis-/2012-02-08.v03.html" target="_self">  Euro Hits Eight Week-High as Crisis Talk Progress</a>
+		<div class="list-item-info">
+		<span class="author">&nbsp;by&nbsp;Tradervox.com</span>
+		<span class="datetime">Feb 8, 12:20 GMT</span>
+		</div>
+		</li>
+		
+		<li class="llistatreports">
+		<a href=" http://www.fxstreet.com/fundamental/market-view/european-crisis/2012-02-08.v04.html" target="_self">  Greek govt coalition talks inconclusive; Troika draft drawn </a>
+		<div class="list-item-info">
+		<span class="author">&nbsp;by&nbsp;FXstreet.com</span>
+		<span class="datetime">Feb 8, 23:24 GMT</span>
+		</div>
+		</li>
+		
+		<li class="llistatreports">
+		<a href=" http://www.fxstreet.com/technical/analysis-reports/short-term-analysis/2012-02-09.html" target="_self">  USDCAD broke above downward trend line</a>
+		<div class="list-item-info">
+		<span class="author">&nbsp;by&nbsp;ForexCycle.com</span>
+		<span class="datetime">Feb 9, 03:10 GMT</span>
+		</div>
+		</li>
+		
+		</ol>
+	   </div>
+	
+	    <div id="content_Rated" class="ui-tabs-hide">
+		<ol>
+		
+		<li class="llistatreports">
+		<a href=" http://www.fxstreet.com/technical/analysis-reports/currency-majors-technical-perspective/2012-02-08.html" target="_self">  Currency Majors Technical Perspective</a>
+		<div class="list-item-info">
+		<span class="author">&nbsp;by&nbsp;FXstreet.com Independent Analyst Team</span>
+		<span class="datetime">Feb 8, 06:39 GMT</span>
+		</div>
+		</li>
+		
+		<li class="llistatreports">
+		<a href=" http://www.fxstreet.com/technical/forex-strategy/elliot-wave-corner/2012-02-08.v02.html" target="_self">  Video Analysis: Commodities Supportive For Majors</a>
+		<div class="list-item-info">
+		<span class="author">&nbsp;by&nbsp;Elliott Wave Forecast</span>
+		<span class="datetime">Feb 8, 10:13 GMT</span>
+		</div>
+		</li>
+		
+		<li class="llistatreports">
+		<a href=" http://www.fxstreet.com/technical/analysis-reports/video-technical-strategy/2012-02-07.html" target="_self">  GBPUSD - Targeting the End of Uptrend</a>
+		<div class="list-item-info">
+		<span class="author">&nbsp;by&nbsp;MarketVision TV</span>
+		<span class="datetime">Feb 7, 14:12 GMT</span>
+		</div>
+		</li>
+		
+		</ol>
+	    </div>
+	
+	    <div id="content_Highlighted" class="ui-tabs-hide">
+		
+		<ol>
+		
+		<li class="llistatreports">
+		<a href="http://www.fxstreet.com/technical/analysis-reports/fx-technical-tweets/2012/02/08/" target="_self">  EURUSD Heading to 1.3350?s</a><br/>
+		<div class="list-item-info">
+		<span class="datetime">Wed, Feb 8 2012, 23:41 GMT</span>
+		</div>
+		</li>
+		
+		<li class="llistatreports">
+		<a href="http://www.fxstreet.com/fundamental/market-view/european-crisis/2012-02-08.v04.html" target="_self">  Greek govt coalition talks inconclusive; Troika draft drawn </a><br/>
+		<div class="list-item-info">
+		<span class="datetime">Wed, Feb 8 2012, 23:24 GMT</span>
+		</div>
+		</li>
+		
+		<li class="llistatreports">
+		<a href="http://www.fxstreet.com/technical/market-view/daily-forex-outlook/2012/02/08/" target="_self">  Euro and Aussie at Fresh Year highs</a><br/>
+		<div class="list-item-info">
+		<span class="datetime">Wed, Feb 8 2012, 23:22 GMT</span>
+		</div>
+		</li>
+		
+		</ol>
+		
+	    </div>
+	
+	</div>
+
+	<div class="module-footer">
+	<a class="btn-all" href ="">
+	    
+	</a>
+	</div>
+
+</div>
+<!--FI MOSTPOPULAR-->
+
+<script type="text/javascript">
+    $j(".it-etracking-mostpopularf4e96e17 a").click(function (e) {
+	var target = e.target.href;
+	var current = document.location.href;
+	if (target.indexOf(current) != -1) {
+	    target = target.replace(current, '');
+	}
+	_gaq.push(['_trackEvent', 'ReportsRelated', 'Most Popular Content', target]);
+    });
+</script>
+
+ 
+</div>
+<div class="section">
+<div class="module-traderstools">
+	<h2 class="module-title">Traders Tools</h2>
+	<div class="module-content">
+		<div class="item fix">
+			<b class="float-l icon i-tradertools-forexstudies-l"></b>
+			<a href="http://www.fxstreet.com/forex-studies/?utm_source=fxstreetcom&utm_medium=traderstools-box&utm_term=news&utm_content=traderstools-01&utm_campaign=forexstudies" class="title">Forex Studies</a>
+			<p class="description">
+			Monitor the markets with our customizable FX studies.
+			</p>
+		</div>
+		<div class="item fix">
+			<b class="float-l icon i-tradertools-calendar-l"></b>
+			<a href="/fundamental/economic-calendar/" class="title">Economic Calendar</a>
+			<p class="description">
+			Live economic events calendar
+			</p>
+		</div>
+		
+		<div class="fix module-traderstools-moretools">
+			<ul>
+			<li><a href="/rates-charts/currency-rates/">Live Currency Rates</a></li>
+			<li><a href="/rates-charts/forex-charts/">Live Forex Charts</a></li>
+			<li><a href="/forex-tools/rate-history-tools/">Rate history tool</a></li>
+			<li><a href="http://www.when2convert.com/">Currency Converter</a></li>
+			</ul>
+			<div><a href="/forex-tools/" class="btn-all">more tools</a></div>
+		</div>
+	</div>   
+</div>
+</div>
+                       
+    </div>
+    <div class="clearer"></div>
+    
+    
+
+</div>
+</div>
+
+
+
+
+
+<!--FOOTER-->
+
+<div id="footer">
+
+
+<div id="footer-brokers" class="section site-width">
+<h4 class="title">Interested in forex trading?</h4>
+
+<div class="col">
+
+<a target="_parent" href="/redirect/btracer.aspx?idbroker=31395c36-2906-469e-85a7-1bacf1770482&action=1" onclick="javascript:_gaq.push(['_trackEvent', 'BrokerClicks', 'Broker Table/ Sky Broker', '31395c36-2906-469e-85a7-1bacf1770482']);"><img id="logoFX Solutions" src="http://cdn.fxstreet.com/img/logos/_brokers-100x33/2012/fxcm-01.png" alt="Forex Capital Markets, LLC (FXCM)" /></a>
+
+<ul>
+<li><span class="icon i-arrow-diagonal"></span><a target="_parent" href="/redirect/btracer.aspx?idbroker=31395c36-2906-469e-85a7-1bacf1770482&action=1#contactform" onclick="javascript:_gaq.push(['_trackEvent', 'BrokerClicks', 'Broker Table/ Sky Broker', '31395c36-2906-469e-85a7-1bacf1770482']);">Contact the broker/FDM</a></li>
+<li><b class="icon i-arrow-diagonal"></b><a target="_blank" href="/redirect/btracer.aspx?idbroker=31395c36-2906-469e-85a7-1bacf1770482&action=3&iddemo=9aa12114-02e7-44e0-a9d3-ad8eec5933e8" onclick="javascript:_gaq.push(['_trackEvent', 'BrokerClicks', 'Broker Demo Account', '31395c36-2906-469e-85a7-1bacf1770482']);">Open a demo account</a></li>
+<li><a class="btn-s8 ib" target="_blank" href="/redirect/btracer.aspx?idbroker=31395c36-2906-469e-85a7-1bacf1770482&action=6&idreal=f22e8001-43ce-4501-b5b6-a09673949739" onclick="javascript:_gaq.push(['_trackEvent', 'BrokerClicks', 'Broker Real Account', '31395c36-2906-469e-85a7-1bacf1770482']);"><span>Open Live Account</span></a></li>
+</ul>
+</div>
+
+<div class="col">
+
+<a target="_parent" href="/redirect/btracer.aspx?idbroker=ae7da81d-fc19-407c-b852-c16dab144f01&action=1" onclick="javascript:_gaq.push(['_trackEvent', 'BrokerClicks', 'Broker Table/ Sky Broker', 'ae7da81d-fc19-407c-b852-c16dab144f01']);"><img id="logoFX Solutions" src="http://cdn.fxstreet.com/img/logos/_brokers-100x33/2012/dfmarkets-01.png" alt="DF Markets" /></a>
+
+<ul>
+<li><span class="icon i-arrow-diagonal"></span><a target="_parent" href="/redirect/btracer.aspx?idbroker=ae7da81d-fc19-407c-b852-c16dab144f01&action=1#contactform" onclick="javascript:_gaq.push(['_trackEvent', 'BrokerClicks', 'Broker Table/ Sky Broker', 'ae7da81d-fc19-407c-b852-c16dab144f01']);">Contact the broker/FDM</a></li>
+<li><b class="icon i-arrow-diagonal"></b><a target="_blank" href="/redirect/btracer.aspx?idbroker=ae7da81d-fc19-407c-b852-c16dab144f01&action=3&iddemo=f1a66f0f-c585-4dfa-bb0a-a036d1dc4696" onclick="javascript:_gaq.push(['_trackEvent', 'BrokerClicks', 'Broker Demo Account', 'ae7da81d-fc19-407c-b852-c16dab144f01']);">Open a demo account</a></li>
+<li><a class="btn-s8 ib" target="_blank" href="/redirect/btracer.aspx?idbroker=ae7da81d-fc19-407c-b852-c16dab144f01&action=6&idreal=f729d21e-db4c-46e6-b053-7c909335103f" onclick="javascript:_gaq.push(['_trackEvent', 'BrokerClicks', 'Broker Real Account', 'ae7da81d-fc19-407c-b852-c16dab144f01']);"><span>Open Live Account</span></a></li>
+</ul>
+</div>
+
+<div class="col">
+
+<a target="_parent" href="/redirect/btracer.aspx?idbroker=ca8a328b-31f7-4823-a657-c3021c485603&action=1" onclick="javascript:_gaq.push(['_trackEvent', 'BrokerClicks', 'Broker Table/ Sky Broker', 'ca8a328b-31f7-4823-a657-c3021c485603']);"><img id="logoFX Solutions" src="http://cdn.fxstreet.com/img/logos/_brokers-100x33/2012/city-01.png" alt="CitiFX Pro" /></a>
+
+<ul>
+<li><span class="icon i-arrow-diagonal"></span><a target="_parent" href="/redirect/btracer.aspx?idbroker=ca8a328b-31f7-4823-a657-c3021c485603&action=1#contactform" onclick="javascript:_gaq.push(['_trackEvent', 'BrokerClicks', 'Broker Table/ Sky Broker', 'ca8a328b-31f7-4823-a657-c3021c485603']);">Contact the broker/FDM</a></li>
+<li><b class="icon i-arrow-diagonal"></b><a target="_blank" href="/redirect/btracer.aspx?idbroker=ca8a328b-31f7-4823-a657-c3021c485603&action=3&iddemo=d1d276ac-2e5b-4640-85c8-2bf437d7e830" onclick="javascript:_gaq.push(['_trackEvent', 'BrokerClicks', 'Broker Demo Account', 'ca8a328b-31f7-4823-a657-c3021c485603']);">Open a demo account</a></li>
+<li><a class="btn-s8 ib" target="_blank" href="/redirect/btracer.aspx?idbroker=ca8a328b-31f7-4823-a657-c3021c485603&action=6&idreal=222ca6c1-1133-434c-9cfa-bd75e9b7294c" onclick="javascript:_gaq.push(['_trackEvent', 'BrokerClicks', 'Broker Real Account', 'ca8a328b-31f7-4823-a657-c3021c485603']);"><span>Open Live Account</span></a></li>
+</ul>
+</div>
+
+<div class="col">
+
+<a target="_parent" href="/redirect/btracer.aspx?idbroker=6e750108-1d81-49bd-91b9-333335547e8f&action=1" onclick="javascript:_gaq.push(['_trackEvent', 'BrokerClicks', 'Broker Table/ Sky Broker', '6e750108-1d81-49bd-91b9-333335547e8f']);"><img id="logoFX Solutions" src="http://cdn.fxstreet.com/img/logos/_brokers-100x33/2012/acm-01.png" alt="Swissquote Bank SA" /></a>
+
+<ul>
+<li><span class="icon i-arrow-diagonal"></span><a target="_parent" href="/redirect/btracer.aspx?idbroker=6e750108-1d81-49bd-91b9-333335547e8f&action=1#contactform" onclick="javascript:_gaq.push(['_trackEvent', 'BrokerClicks', 'Broker Table/ Sky Broker', '6e750108-1d81-49bd-91b9-333335547e8f']);">Contact the broker/FDM</a></li>
+<li><b class="icon i-arrow-diagonal"></b><a target="_blank" href="/redirect/btracer.aspx?idbroker=6e750108-1d81-49bd-91b9-333335547e8f&action=3&iddemo=da9c14a2-42d8-438b-93a2-568bd0cb4136" onclick="javascript:_gaq.push(['_trackEvent', 'BrokerClicks', 'Broker Demo Account', '6e750108-1d81-49bd-91b9-333335547e8f']);">Open a demo account</a></li>
+<li><a class="btn-s8 ib" target="_blank" href="/redirect/btracer.aspx?idbroker=6e750108-1d81-49bd-91b9-333335547e8f&action=6&idreal=d193efa3-b808-4beb-8d47-4e6bf93d9505" onclick="javascript:_gaq.push(['_trackEvent', 'BrokerClicks', 'Broker Real Account', '6e750108-1d81-49bd-91b9-333335547e8f']);"><span>Open Live Account</span></a></li>
+</ul>
+</div>
+
+<div class="col">
+
+<a target="_parent" href="/redirect/btracer.aspx?idbroker=33f073b1-9f3a-41b2-9774-a91afa1e90a4&action=1" onclick="javascript:_gaq.push(['_trackEvent', 'BrokerClicks', 'Broker Table/ Sky Broker', '33f073b1-9f3a-41b2-9774-a91afa1e90a4']);"><img id="logoFX Solutions" src="http://cdn.fxstreet.com/img/logos/_brokers-100x33/2012/easyforex-01.png" alt="easy-forex?" /></a>
+
+<ul>
+<li><span class="icon i-arrow-diagonal"></span><a target="_parent" href="/redirect/btracer.aspx?idbroker=33f073b1-9f3a-41b2-9774-a91afa1e90a4&action=1#contactform" onclick="javascript:_gaq.push(['_trackEvent', 'BrokerClicks', 'Broker Table/ Sky Broker', '33f073b1-9f3a-41b2-9774-a91afa1e90a4']);">Contact the broker/FDM</a></li>
+<li><b class="icon i-arrow-diagonal"></b><a target="_blank" href="/redirect/btracer.aspx?idbroker=33f073b1-9f3a-41b2-9774-a91afa1e90a4&action=3&iddemo=c9d7abad-87d4-4dff-b0be-8c5f93dd3745" onclick="javascript:_gaq.push(['_trackEvent', 'BrokerClicks', 'Broker Demo Account', '33f073b1-9f3a-41b2-9774-a91afa1e90a4']);">Open a demo account</a></li>
+<li><a class="btn-s8 ib" target="_blank" href="/redirect/btracer.aspx?idbroker=33f073b1-9f3a-41b2-9774-a91afa1e90a4&action=6&idreal=6dc73ebc-fd8f-4f8b-9256-d2eee7f68c88" onclick="javascript:_gaq.push(['_trackEvent', 'BrokerClicks', 'Broker Real Account', '33f073b1-9f3a-41b2-9774-a91afa1e90a4']);"><span>Open Live Account</span></a></li>
+</ul>
+</div>
+
+</div><!--footer-brokers-->
+
+
+<div class="footer-wrapper">
+<div class="site-width">
+
+<div class="footer-sitemap section">
+<div class="col">
+<h4><a href="/rates-charts/">Rates &amp; Charts</a></h4>
+<ul>
+<li><a href="/rates-charts/forex-rates/">Streaming Forex Rates</a></li>
+<li><a href="/rates-charts/currency-rates/">Live Currency Rates</a></li>
+<li><a href="/rates-charts/world-currency/">World Currencies</a></li>
+<li><a href="/rates-charts/exchange-rates/">Exchange Rate Table</a></li>
+<li><a href="/rates-charts/forex-charts/">Streaming Forex Charts</a></li>
+<li><a href="/rates-charts/live-charts/">Live Charts Window</a></li>
+<li><a href="/rates-charts/currency-charts/">Currency Charts Console</a></li>
+<li><a href="/rates-charts/charts-panel/">IntelliChart</a></li>
+<li class="destacat"><a href="/technical/currencies-glance/">Currencies at a Glance</a></li>
+</ul>
+</div>
+<div class="col">
+	<h4><a href="/news/">News</a></h4>
+	<ul>
+	<li><a href="/news/forex-news/">Latest Forex News</a></li>
+	<li><a href="/news/market-talk/">Market Talk</a></li>
+	</ul>
+	<h4><a href="/webinars/">Webinars</a></h4>
+	<ul>
+	<li><a href="/webinars/sessions/">Live Sessions Schedule</a></li>
+	<li><a href="/webinars/archives/">Sessions Archive</a></li>
+	<li><a href="http://www.forexstreet.net/chat">Forex Chat</a></li>
+	</ul>
+	<h4><a href="/education/">Education</a></h4>
+	<ul>
+	<li><a href="/education/learning-center/">Learning Center</a></li>
+	</ul>
+</div>
+<div class="col">
+<h4><a href="/technical/">Technical</a></h4>
+<ul>
+<li><a href="/technical/analysis-reports/">Technical Analysis Reports</a></li>
+<li><a href="/technical/market-view/">Technical Market View</a></li>
+<li><a href="/technical/forex-forecasts/">Forecasts</a></li>
+<li><a href="/technical/forex-strategy/">Trading Strategy</a></li>
+</ul>
+<h4><a href="/fundamental/">Fundamental</a></h4>
+<ul>
+<li><a href="/fundamental/analysis-reports/">Fundamental Reports</a></li>
+<li><a href="/fundamental/market-view/">Fundamental Market View</a></li>
+<li><a href="/fundamental/interest-rates-table/">World Interest Rates</a></li>
+<li class="destacat"><a href="/fundamental/economic-calendar/" target="_self">Economic Calendar</a></li>
+</ul>
+</div>
+<div class="col">
+<h4><a href="#">Other</a></h4>
+<ul>
+<li><a href="/brokers/">Looking for a Broker/FDM?</a></li>
+<li><a href="/forex-tools/">Forex Tools</a></li>
+<li><a href="/search/contributors/">Content Contributors</a></li>
+<li><a href="/education/workshops/">Workshops</a> &amp; <a title="Conventions" href="/education/conventions/">Conventions</a></li>
+<li><a href="/education/forex-books/">Forex Books</a></li>
+</ul>
+<h4><a href="/about/sitemap/" id="link-full-sitemap">Full Sitemap</a></h4>
+</div>
+<div class="col">
+	<h4>Stay Connected</h4>
+	<ul>
+	<li><a href="http://www.facebook.com/FXstreet"><b class="icon i-10 i-facebook-s"></b>Facebook Page</a></li>
+	<li><a href="http://twitter.com/FXstreetNews"><b class="icon i-10 i-twitter-s"></b>Twitter News Feed</a></li>	
+	<li><a href="http://twitter.com/FXstreetUpdate"><b class="icon i-10 i-twitter-s"></b>Twitter Updates</a></li>
+	<li><a href="http://xml.fxstreet.com/news/forex-news/index.xml"><b class="icon i-10 i-rss-s"></b>RSS News Feed</a></li>
+	<li><a href="http://www.youtube.com/fxstreetcom"><b class="icon i-10 i-youtube-s"></b>Youtube</a></li>
+	<li><a href="http://www.forexstreet.net/"><b class="icon i-10 i-forexstreet-s"></b>FXstreet Social Network</a></li>
+	<li><a href="http://www.forexstreet.net/profiles/blog/list"><b class="icon i-10 i-forexstreet-s"></b>Forex Blogs</a></li>	
+	</ul>
+</div>
+</div>
+<div class="footer-languages it-hover">
+<ul class="list-inline">
+<li><a href="http://www.fxstreet.jp"><b class="flag i-jp"></b> ???</a></li>
+<li><a href="http://www.fxstreet.es"><b class="flag i-es"></b> Espa?ol</a></li>
+<li><a href="http://www.fxstreet.hk/"><b class="flag i-cn"></b>  ??</a></li>
+<li><a href="http://www.fxstreet.ru.com"><b class="flag i-ru"></b> ???????</a></li>
+<li><a href="http://www.fxstreet.fr"><b class="flag i-fr"></b> Fran&ccedil;ais</a></li>
+<li><a href="http://www.fxstreet.web.id"><b class="flag i-id"></b> Indonesia</a></li>
+<li><a href="http://www.fxstreet.ae"><b class="flag i-ae"></b> ???????</a></li>
+<li><a href="http://www.forexstreet.it"><b class="flag i-it"></b> Italiano</a></li>
+<li><a href="http://www.fxstreet.de.com"><b class="flag i-de"></b> Deutsch</a></li>
+<li><a href="http://www.fxstreet.pt"><b class="i-pt flag"></b> Portugu&ecirc;s</a></li>
+</ul>
+</div><!--footer-sitemap-->
+<div class="disclaimer">
+<p>Note: All information on this page is subject to change. The use of this website constitutes acceptance of our <a href="/about/terms-and-conditions/">user agreement</a>. Please read our <a href="/about/terms-and-conditions/">privacy policy and legal disclaimer</a>.<br/>Trading foreign exchange on margin carries a high level of risk and may not be suitable for all investors. The high degree of leverage can work against you as well as for you. Before deciding to trade foreign exchange you should carefully consider your investment objectives, level of experience and risk appetite. The possibility exists that you could sustain a loss of some or all of your initial investment and therefore you should not invest money that you cannot afford to lose. You should be aware of all the risks associated with foreign exchange trading and seek advice from an independent financial advisor if you have any doubts.<br/>Opinions expressed at FXstreet.com are those of the individual authors and do not necessarily represent the opinion of FXstreet.com or its management. FXstreet.com has not verified the accuracy or basis-in-fact of any claim or statement made by any independent author: errors and Omissions may occur.Any opinions, news, research, analyses, prices or other information contained on this website, by FXstreet.com, its employees, partners or contributors, is provided as general market commentary and does not constitute investment advice. FXstreet.com will not accept liability for any loss or damage, including without limitation to, any loss of profit, which may arise directly or indirectly from use of or reliance on such information.</p>
+<!--googleoff: all--><p>*GFT is a sponsor of FXstreet.com for advertisement purposes only. GFT does not endorse any other products, services, or companies represented on FXstreet.com. The views of FXstreet.com and all other parties contained therein are not necessarily those of GFT, and GFT makes no warranty as to the accuracy of information provided.<!--googleon: all--><br/>&copy;2012 "FXstreet.com. The Forex Market" All Rights Reserved.</p>
+</div><!--disclaimer-->
+<p class="footer-nav fix">
+    <span class="float-l footer-logo"></span>
+    <span class="float-r"><a href="/about/">About FXstreet.com</a> <a href="/about/terms-and-conditions/">Terms and Conditions</a> <a href="/about/contact/">Contact Us</a> <a href="/about/jobs/">Jobs</a> <a href="http://m.fxstreet.com/">Mobile site</a> <a href="/about/sitemap/">Site Map</a> <a href="/">Home</a>
+    </span>
+</p>
+
+</div><!--site-width-->
+</div><!--footer-wrapper-->
+
+</div><!--footer-->
+
+
+    <script type="text/javascript">
+        var diffhours = 0;
+        var diffminutes = 0;
+        var timezoneoffsets = {gmt:0,mexico:-360,london:0,newyork:-300,barcelona:60,tokyo:540,sydney:660,moscow:180,pekin:480};
+        var tzinfoshort = 'GMT';
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = 'http://www.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    
+
+    
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.6/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="/_jsmin/enginys.min.js?t=20120202"></script>
+        <script type="text/javascript" src="/_jsmin/site.min.js?t=20120202"></script>
+    
+
+    
+    
+    
+	<script type="text/javascript">
+	    $j(document).ready(function () {
+
+	        /* chapuza de disseny. arreglar esto. Mike.*/
+	        $j(".it-cluetip").cluetip({
+	            splitTitle: '|', // use the invoking element's title attribute to populate the clueTip...
+	            // ...and split the contents into separate divs where there is a "|"
+	            showTitle: false, // hide the clueTip's heading
+	            arrows: true,
+	            cluetipClass: 'cluetip-s2',
+	            positionBy: 'bottomTop',
+	            showTitle: false,
+	            dropShadow: false,
+	            width: '180'
+	        });
+
+
+
+	        $j(".it-sharethis-button").click(function (event) {
+	            $j.getScript('http://track.fxstreet.com/trace.aspx?id=8ce74396-b515-40b4-8348-581611610a99&ty=E&st=7fa1772b-d3b2-432a-8cca-1fde7d1cd481&sc=10f1b3c1-13f7-4f93-8bd6-d1610351310b&fr=S');
+	        });
+
+
+	        $j(".it-clksubscribe").click(function (event) {
+	            event.preventDefault();
+	            var data = $j(this).metadata();
+	            var suscribe;
+	            if ($j(this).hasClass('btn-s6-enabled')) {
+	                suscribe = true;
+	            }
+	            else {
+	                suscribe = false;
+	            }
+	            $j(this).addClass('btn-loading');
+	            $j.ajax({
+	                type: 'POST',
+	                url: "/_ajax/contentsubscription.aspx",
+	                dataType: 'json',
+	                data: { idcontingut: data.idcontent, subscribe: suscribe, type: data.type },
+	                success: function (json) {
+	                    if (json.length > 0) {
+	                        var id = "it-clksubscribe-" + json[0];
+	                        var link = $j('#' + id);
+	                        if (json[1] == 'True') {
+	                            link.removeClass('btn-s6-enabled').addClass('btn-s6-disabled');
+	                            link.text('Unfollow');
+	                            $j("#it-follow-promomsg").show();
+	                            link.attr('title', 'Remove from my FX studies');
+	                        }
+	                        else {
+	                            link.addClass('btn-s6-enabled').removeClass('btn-s6-disabled');
+	                            link.text('Follow');
+	                            link.attr('title', 'Add to my FX studies page');
+	                        }
+	                        link.removeClass('btn-loading');
+	                    }
+	                }
+	            });
+	        });
+	        $j("#cmbArhiveHistory").change(function (event) {
+	            var url = $j(this).val();
+	            if (url == "") return;
+	            document.location = url;
+	        });
+	    });
+	    
+       
+	</script>
+    <script type="text/javascript" language="javascript" src="http://track.fxstreet.com/trace.aspx?id=8ce74396-b515-40b4-8348-581611610a99&ty=E&st=7fa1772b-d3b2-432a-8cca-1fde7d1cd481&sc=10f1b3c1-13f7-4f93-8bd6-d1610351310b&fr=V" />
+
+
+
+        
+    
+    <script type="text/javascript">
+        //Configuraciones para anyadir los botones de FB G+ etc
+        var addthis_config = {
+            data_ga_property: 'UA-327849-1',
+            data_track_clickback: true,
+            data_ga_social: true
+        };
+    </script>
+
+    <div id="fb-root"></div>
+    <script type="text/javascript">
+        window.fbAsyncInit = function () {
+            FB.init({
+                appId: '165130350199320',
+                status: true,
+                xfbml: true,
+                channelUrl: 'http://www.fxstreet.com/channel.html',  // custom channel
+                oauth: true
+            });
+        };
+        (function () {
+            var e = document.createElement('script');
+            e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+            e.async = true;
+            document.getElementById('fb-root').appendChild(e);
+        } ());
+
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,284 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/SIDHelp.dwt.php" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=ISO-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>
+Midwest Collegiate Conference - 2006 Men's Soccer Roster
+</title>
+<!-- InstanceEndEditable -->
+<meta name="description" content="The Home of the Midwest Collegiate Conference" />
+<meta name="keywords" lang="en-us" content="Midwest Collegiate Conference, Midwest Collegiate, Midwest Classic, Midwest Classic Conference, Midwest-Classic, NAIA, MCC, NAIA Conferences, NAIA Conference, SIDHelp" />
+<link href="/includes/css/SIDHelp.css" rel="stylesheet" type="text/css" />
+<link href="/includes/css/layout.css" rel="stylesheet" type="text/css" />
+<link href="/includes/css/midwest.css" rel="stylesheet" type="text/css" />
+<link href="/includes/css/print.css" rel="stylesheet" type="text/css" media="print" />
+<link rel="alternate" type="application/rss+xml" title="Midwest Collegiate Conference Athletics" href="http://www.midwestcollegiateconference.com/rss.php" />
+<!--[if IE]>
+<style type="text/css">
+#outer{word-wrap:break-word;}
+</style>
+<![endif]-->
+<script type="text/javascript" language="JavaScript" src="/includes/js/jquery.js"></script>
+<script type="text/javascript" language="JavaScript" src="/includes/js/jquery.iframe.php"></script>
+<script type="text/javascript" language="JavaScript" src="/includes/js/jquery.cycle.js"></script>
+<script type="text/javascript" language="JavaScript" src="/admin/js/script.js"></script>
+<script type="text/javascript" language="JavaScript" src="/admin/js/jquery.form.php"></script>
+<script type="text/javascript" language="JavaScript" src="/includes/js/sidhelp.js"></script>
+<script type="text/javascript">
+$(document).ready(function() { 
+    
+	$('#MemberSlideShow').cycle({ 
+		fx:     'fade', 
+		speed:  200, 
+		timeout: 3000, 
+		pager:  '#MemberLogos',
+		pagerEvent: 'mouseover', 
+		pagerAnchorBuilder: function(idx, slide) { 
+			// return selector string for existing anchor 
+			return '#MemberLogos li:eq(' + idx + ') a'; 
+		}
+	});
+	
+	// bind form using ajaxForm 
+	var options = {
+		target: '#fanPollDiv', 
+		beforeSubmit:fadeOut,
+	 	success:fadeIn
+	};
+    $('#fanPoll').ajaxForm(options); 
+});
+	function fadeOut(){
+		$("#fanPollDiv").css("display","none"); 	
+	}
+	function fadeIn(){	
+	$("#fanPollDiv").fadeIn(2000);
+	return false;
+	}
+
+</script>
+<!-- InstanceBeginEditable name="head" -->
+<link type="text/css" href="/includes/css/roster.css" rel="stylesheet" />
+<link type="text/css" href="/includes/css/sport.css" rel="stylesheet" />
+<script type="text/javascript" language="JavaScript" src="/includes/js/jquery.tablesorter.js"></script>
+<script type="text/javascript">
+$(document).ready(function() { 
+    $(".rosterTable").tablesorter({ headers:{0:{sorter:"playernum"},1:{sorter:"text"},2:{sorter:"class2"},3:{sorter:"text"},4:{sorter:"height"}}, sortList: [[0,0]]}); 
+});
+
+</script>
+<!-- InstanceEndEditable -->
+</head>
+<body>
+<div id="fullheightcontainer">
+  <div id="wrapper">
+    <div id="outer">
+      <div id="float-wrap">
+        <div id="center">
+          <div id="clearheadercenter"></div>
+          <div id="container-center">
+            <!-- InstanceBeginEditable name="Main Content" -->
+				<div class="sportNav"><h2 class="sportTitle">2006 Men's Soccer</h2><div class="sportLinks"><a href="/sport/4/1.php">Men's Soccer Home</a> &#8226; <a href="/roster/4/1.php">Roster</a> &#8226; <a href="/schedule/4/1.php">Schedule &amp; Results</a> &#8226; <a href="/awards/4/1.php">Awards</a> <br> <a href="/stats/2006-07/SOCCERM/confstat.htm" target="_blank" >Stats</a><div class="seasonSelect">
+		
+							<script language='javascript' type='text/javascript'>function gotourl(){ var e = document.getElementById('theselector'); var strUser = e.options[e.selectedIndex].value; location.href = strUser}</script>
+							<div class="changeSeasonBox">
+							<form name='selection' action=''>
+							<select name='theselector' id='theselector'><option value='/roster/4/1.php' selected='selected'>2006-07</option><option value='/roster/5/1.php'>2007-08</option><option value='/roster/6/1.php'>2008-09</option><option value='/roster/7/1.php'>2009-10</option><option value='/roster/8/1.php'>2010-11</option><option value='/roster/9/1.php'>2011-12</option>
+			</select>
+							<input type='button' class='frmButton' value='Change Season' onclick='gotourl()' />
+							</form>
+							</div></div>
+</div>
+</div>
+
+<!-- Begin Box -->
+
+	<div class="box second">
+		<div class="boxTitle"><h2>2006 Men's Soccer Rosters</h2></div>
+		<div class="boxContent">
+	<div class="rosterTeamName" id="roster1136">Ashford</div>
+<table class="rosterTable">
+	<thead>
+		<tr class="rosterRowH"><th class="rosterNumH">#</th><th class="rosterName">Name</th><th class="rosterClassH">Cl.</th><th class="rosterPosH">Pos.</th><th class="rosterHeightH">Ht.</th><th class="rosterWeightH">Wt.</th><th class="rosterTownH">Hometown</th></tr>
+	</thead>
+	<tbody><tr class="rosterRow"><td class="rosterNum">00</td><td class="rosterName">Blake Wilson</td><td class="rosterClass">SR</td><td class="rosterPos">G</td><td class="rosterHeight">6-2</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Pleasant Hope, MO</td></tr><tr class="rosterRow"><td class="rosterNum">1</td><td class="rosterName">Drew Bloomfield</td><td class="rosterClass">SO</td><td class="rosterPos">G</td><td class="rosterHeight">6-2</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Geneseo, IL</td></tr><tr class="rosterRow"><td class="rosterNum">2</td><td class="rosterName">Mike Rosselli</td><td class="rosterClass">FR</td><td class="rosterPos">M</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Breese, IL</td></tr><tr class="rosterRow"><td class="rosterNum">3</td><td class="rosterName">Clay Benore</td><td class="rosterClass">SO</td><td class="rosterPos">F</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Davenport, IA</td></tr><tr class="rosterRow"><td class="rosterNum">4</td><td class="rosterName">Mitch Seifert</td><td class="rosterClass">SO</td><td class="rosterPos">D</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">DeWitt, IA</td></tr><tr class="rosterRow"><td class="rosterNum">5</td><td class="rosterName">Kyle Mantick</td><td class="rosterClass">FR</td><td class="rosterPos">M</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Peoria, IL</td></tr><tr class="rosterRow"><td class="rosterNum">7</td><td class="rosterName">Michael Lentini</td><td class="rosterClass">FR</td><td class="rosterPos">M</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Belvidere, IL</td></tr><tr class="rosterRow"><td class="rosterNum">8</td><td class="rosterName">Aaron Sass</td><td class="rosterClass">FR</td><td class="rosterPos">D</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Clinton, IA</td></tr><tr class="rosterRow"><td class="rosterNum">9</td><td class="rosterName">Cale Clark</td><td class="rosterClass">JR</td><td class="rosterPos">St</td><td class="rosterHeight">5-11</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">St. Joseph, MO</td></tr><tr class="rosterRow"><td class="rosterNum">10</td><td class="rosterName">Eddie Garza</td><td class="rosterClass">FR</td><td class="rosterPos">D</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Rockford, IL</td></tr><tr class="rosterRow"><td class="rosterNum">11</td><td class="rosterName">Soroush Kalhor</td><td class="rosterClass">FR</td><td class="rosterPos">F</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Rock Island, IL</td></tr><tr class="rosterRow"><td class="rosterNum">12</td><td class="rosterName">Lee Thompson</td><td class="rosterClass">SO</td><td class="rosterPos">D</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Geneseo, IL</td></tr><tr class="rosterRow"><td class="rosterNum">13</td><td class="rosterName">Robert Reese</td><td class="rosterClass">FR</td><td class="rosterPos">M</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Geneseo, IL</td></tr><tr class="rosterRow"><td class="rosterNum">14</td><td class="rosterName">Keegan Maxwell</td><td class="rosterClass">FR</td><td class="rosterPos">M</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Monroe Center, IL</td></tr><tr class="rosterRow"><td class="rosterNum">15</td><td class="rosterName">Mike Conover</td><td class="rosterClass">SO</td><td class="rosterPos">St</td><td class="rosterHeight">5-10</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Fulton, IL</td></tr><tr class="rosterRow"><td class="rosterNum">16</td><td class="rosterName">Shaun Moore</td><td class="rosterClass">SR</td><td class="rosterPos">D</td><td class="rosterHeight">6-0</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Germantown, IL</td></tr><tr class="rosterRow"><td class="rosterNum">17</td><td class="rosterName">Taylor Shipman</td><td class="rosterClass">FR</td><td class="rosterPos">D</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Clinton, IA</td></tr></tbody>
+</table>
+<div class="coaches">
+	<div class="coach">Mick Regan - Head Coach</div>
+</div>
+
+	<div class="rosterTeamName" id="roster275">Grand View</div>
+<table class="rosterTable">
+	<thead>
+		<tr class="rosterRowH"><th class="rosterNumH">#</th><th class="rosterName">Name</th><th class="rosterClassH">Cl.</th><th class="rosterPosH">Pos.</th><th class="rosterHeightH">Ht.</th><th class="rosterWeightH">Wt.</th><th class="rosterTownH">Hometown</th></tr>
+	</thead>
+	<tbody><tr class="rosterRow"><td class="rosterNum">00</td><td class="rosterName">Justin Mack</td><td class="rosterClass">JR</td><td class="rosterPos">GK</td><td class="rosterHeight">6-3</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Polk City, IA</td></tr><tr class="rosterRow"><td class="rosterNum">1</td><td class="rosterName">Cameron McKay</td><td class="rosterClass">SO</td><td class="rosterPos">GK</td><td class="rosterHeight">6-2</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Oakville, Ontario, Canada</td></tr><tr class="rosterRow"><td class="rosterNum">2</td><td class="rosterName">Trevor Cushman</td><td class="rosterClass">JR</td><td class="rosterPos">M</td><td class="rosterHeight">6-1</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Burlington, IA</td></tr><tr class="rosterRow"><td class="rosterNum">3</td><td class="rosterName">Dan Schmidt</td><td class="rosterClass">SO</td><td class="rosterPos">D/M</td><td class="rosterHeight">5-8</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Gilbert, IA</td></tr><tr class="rosterRow"><td class="rosterNum">4</td><td class="rosterName">Ernad Jaskic</td><td class="rosterClass">JR</td><td class="rosterPos">F/M</td><td class="rosterHeight">5-11</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Des Moines, IA</td></tr><tr class="rosterRow"><td class="rosterNum">5</td><td class="rosterName">Adam Winklemann</td><td class="rosterClass">SR</td><td class="rosterPos">D</td><td class="rosterHeight">5-9</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Iowa City, IA</td></tr><tr class="rosterRow"><td class="rosterNum">6</td><td class="rosterName">Gustavo Rocha</td><td class="rosterClass">JR</td><td class="rosterPos">D/M</td><td class="rosterHeight">6-0</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Marshalltown, IA</td></tr><tr class="rosterRow"><td class="rosterNum">7</td><td class="rosterName">Ben Lovan</td><td class="rosterClass">SO</td><td class="rosterPos">M</td><td class="rosterHeight">5-10</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Des Moines, IA</td></tr><tr class="rosterRow"><td class="rosterNum">8</td><td class="rosterName">Jordan Carver</td><td class="rosterClass">JR</td><td class="rosterPos">M</td><td class="rosterHeight">5-9</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Cedar City, UT</td></tr><tr class="rosterRow"><td class="rosterNum">9</td><td class="rosterName">Lyall Menzies</td><td class="rosterClass">SO</td><td class="rosterPos">F</td><td class="rosterHeight">5-10</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Uxbridge, Ontario, Canada</td></tr><tr class="rosterRow"><td class="rosterNum">10</td><td class="rosterName">Marcus Dawson</td><td class="rosterClass">SO</td><td class="rosterPos">M</td><td class="rosterHeight">5-10</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Altoona, IA</td></tr><tr class="rosterRow"><td class="rosterNum">11</td><td class="rosterName">Refik Cehobasic</td><td class="rosterClass">SO</td><td class="rosterPos">M</td><td class="rosterHeight">5-8</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Indianola, IA</td></tr><tr class="rosterRow"><td class="rosterNum">12</td><td class="rosterName">Myxai Manipakon</td><td class="rosterClass">FR</td><td class="rosterPos">D/M</td><td class="rosterHeight">5-9</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Des Moines, IA</td></tr><tr class="rosterRow"><td class="rosterNum">13</td><td class="rosterName">Benjamin Scott</td><td class="rosterClass">FR</td><td class="rosterPos">M/F</td><td class="rosterHeight">5-11</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Johnston, IA</td></tr><tr class="rosterRow"><td class="rosterNum">14</td><td class="rosterName">Travis Farley</td><td class="rosterClass">SO</td><td class="rosterPos">M</td><td class="rosterHeight">5-9</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Omaha, NE</td></tr><tr class="rosterRow"><td class="rosterNum">15</td><td class="rosterName">Jordan Moon</td><td class="rosterClass">SO</td><td class="rosterPos">M</td><td class="rosterHeight">5-9</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Stuart, IA</td></tr><tr class="rosterRow"><td class="rosterNum">16</td><td class="rosterName">Mirsad Kazic</td><td class="rosterClass">FR</td><td class="rosterPos">F</td><td class="rosterHeight">6-0</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Des Moines, IA</td></tr><tr class="rosterRow"><td class="rosterNum">17</td><td class="rosterName">Frank Antwi</td><td class="rosterClass">JR</td><td class="rosterPos">M/F</td><td class="rosterHeight">5-5</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Bloomington, MN</td></tr><tr class="rosterRow"><td class="rosterNum">18</td><td class="rosterName">Ryan Biederman</td><td class="rosterClass">FR</td><td class="rosterPos">M/F</td><td class="rosterHeight">5-8</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Dallas Center, IA</td></tr><tr class="rosterRow"><td class="rosterNum">19</td><td class="rosterName">Will Stolke</td><td class="rosterClass">FR</td><td class="rosterPos">M/F</td><td class="rosterHeight">5-7</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Melbourne, Australia</td></tr><tr class="rosterRow"><td class="rosterNum">20</td><td class="rosterName">Marko Ivusic</td><td class="rosterClass">SO</td><td class="rosterPos">M</td><td class="rosterHeight">5-8</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Clive, IA</td></tr><tr class="rosterRow"><td class="rosterNum">21</td><td class="rosterName">Jorge Padilla</td><td class="rosterClass">JR</td><td class="rosterPos">M/F</td><td class="rosterHeight">5-10</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Des Moines, IA</td></tr><tr class="rosterRow"><td class="rosterNum">22</td><td class="rosterName">Chris Scott</td><td class="rosterClass">FR</td><td class="rosterPos">M</td><td class="rosterHeight">5-8</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Elderslie, Scotland</td></tr><tr class="rosterRow"><td class="rosterNum">23</td><td class="rosterName">Chris Conway</td><td class="rosterClass">SR</td><td class="rosterPos">D</td><td class="rosterHeight">5-10</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Glasgow, Scotland</td></tr><tr class="rosterRow"><td class="rosterNum">24</td><td class="rosterName">Iain Whiteside</td><td class="rosterClass">SO</td><td class="rosterPos">D</td><td class="rosterHeight">5-11</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Glasgow, Scotland</td></tr><tr class="rosterRow"><td class="rosterNum">25</td><td class="rosterName">Joe Meola</td><td class="rosterClass">JR</td><td class="rosterPos">GK</td><td class="rosterHeight">6-2</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Altoona, IA</td></tr></tbody>
+</table>
+<div class="coaches">
+	<div class="coach">Blair Reid - Head Coach</div>
+	<div class="coach">Ross Moffat - Assistant Coach</div>
+	<div class="coach">Casey Mann - Assistant Coach</div>
+	<div class="coach">Neil Olson - Assistant Coach</div>
+</div>
+
+	<div class="rosterTeamName" id="roster299">Iowa Wesleyan</div>
+<table class="rosterTable">
+	<thead>
+		<tr class="rosterRowH"><th class="rosterNumH">#</th><th class="rosterName">Name</th><th class="rosterClassH">Cl.</th><th class="rosterPosH">Pos.</th><th class="rosterHeightH">Ht.</th><th class="rosterWeightH">Wt.</th><th class="rosterTownH">Hometown</th></tr>
+	</thead>
+	<tbody><tr class="rosterRow"><td class="rosterNum">2</td><td class="rosterName">Sebastian Silva</td><td class="rosterClass">SR</td><td class="rosterPos">D</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Asuncion, Paraguay</td></tr><tr class="rosterRow"><td class="rosterNum">3</td><td class="rosterName">Jon Whyte</td><td class="rosterClass">JR</td><td class="rosterPos">D</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">St. John's, Antigua</td></tr><tr class="rosterRow"><td class="rosterNum">4</td><td class="rosterName">Nino Oribiana</td><td class="rosterClass">SR</td><td class="rosterPos">D</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Burlington, IA</td></tr><tr class="rosterRow"><td class="rosterNum">5</td><td class="rosterName">Mathias Clausmeyer</td><td class="rosterClass">SR</td><td class="rosterPos">D</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Duisburg, Germany</td></tr><tr class="rosterRow"><td class="rosterNum">6</td><td class="rosterName">Mauricio Amigo</td><td class="rosterClass">SR</td><td class="rosterPos">MF</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Alto Parana, Paraguay</td></tr><tr class="rosterRow"><td class="rosterNum">10</td><td class="rosterName">Rafael Martinez</td><td class="rosterClass">SR</td><td class="rosterPos">F</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Cordoba, Spain</td></tr><tr class="rosterRow"><td class="rosterNum">11</td><td class="rosterName">Cesar Naveda</td><td class="rosterClass">SR</td><td class="rosterPos">F</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Guayaquil, Ecuador</td></tr><tr class="rosterRow"><td class="rosterNum">12</td><td class="rosterName">Nick Huffington</td><td class="rosterClass">JR</td><td class="rosterPos">GK</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Winnebago, IL</td></tr><tr class="rosterRow"><td class="rosterNum">15</td><td class="rosterName">Francisco Sanchez</td><td class="rosterClass">FR</td><td class="rosterPos">F</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Madrid, Spain</td></tr><tr class="rosterRow"><td class="rosterNum">16</td><td class="rosterName">Tyler McGuire</td><td class="rosterClass">JR</td><td class="rosterPos">D</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Mount Pleasant, IA</td></tr><tr class="rosterRow"><td class="rosterNum">18</td><td class="rosterName">Juan Alvarez</td><td class="rosterClass">SR</td><td class="rosterPos">F</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Asturias, Spain</td></tr><tr class="rosterRow"><td class="rosterNum">19</td><td class="rosterName">Christian Esparza</td><td class="rosterClass">JR</td><td class="rosterPos">MF</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Guayaquil, Ecuador</td></tr><tr class="rosterRow"><td class="rosterNum">20</td><td class="rosterName">Jeremy Mueller</td><td class="rosterClass">SR</td><td class="rosterPos">MF</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Stillman Valley, IL</td></tr><tr class="rosterRow"><td class="rosterNum">21</td><td class="rosterName">Shaun Mueller</td><td class="rosterClass">SO</td><td class="rosterPos">D</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Stillman Valley, IL</td></tr><tr class="rosterRow"><td class="rosterNum">22</td><td class="rosterName">Chris Rennie</td><td class="rosterClass">SO</td><td class="rosterPos">GK</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Edinburgh, Scotland</td></tr><tr class="rosterRow"><td class="rosterNum">23</td><td class="rosterName">Alex Freytag</td><td class="rosterClass">SO</td><td class="rosterPos">MF</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Berlin, Germany</td></tr><tr class="rosterRow"><td class="rosterNum">24</td><td class="rosterName">Jose Arturo</td><td class="rosterClass">JR</td><td class="rosterPos">MF</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Guayaquil, Ecuador</td></tr><tr class="rosterRow"><td class="rosterNum">25</td><td class="rosterName">Inigo Aramburu</td><td class="rosterClass">FR</td><td class="rosterPos">MF</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">San Sebastian, Spain</td></tr><tr class="rosterRow"><td class="rosterNum">27</td><td class="rosterName">Martin Petrella</td><td class="rosterClass">SO</td><td class="rosterPos">F</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Montevideo, Uruguay</td></tr><tr class="rosterRow"><td class="rosterNum">28</td><td class="rosterName">Andres Camino</td><td class="rosterClass">FR</td><td class="rosterPos">MF</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Guayaquil, Ecuador</td></tr><tr class="rosterRow"><td class="rosterNum">29</td><td class="rosterName">Emil Yazdani</td><td class="rosterClass">FR</td><td class="rosterPos">MF</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Buenos Aires, Argentina</td></tr><tr class="rosterRow"><td class="rosterNum">31</td><td class="rosterName">Sean Crossland</td><td class="rosterClass">SR</td><td class="rosterPos">MF</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Petersburg, IL</td></tr><tr class="rosterRow"><td class="rosterNum">32</td><td class="rosterName">Ryan Clausen</td><td class="rosterClass">JR</td><td class="rosterPos">MF</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Rockford, IL</td></tr><tr class="rosterRow"><td class="rosterNum">34</td><td class="rosterName">Pablo Paz</td><td class="rosterClass">FR</td><td class="rosterPos">F</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Galicia, Spain</td></tr><tr class="rosterRow"><td class="rosterNum">35</td><td class="rosterName">Ken Yamako</td><td class="rosterClass">FR</td><td class="rosterPos">MF</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Niigata, Japan</td></tr><tr class="rosterRow"><td class="rosterNum">36</td><td class="rosterName">Jake Pilger</td><td class="rosterClass">FR</td><td class="rosterPos">MF</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Burlington, IA</td></tr><tr class="rosterRow"><td class="rosterNum">38</td><td class="rosterName">Alberto De Mesa</td><td class="rosterClass">FR</td><td class="rosterPos">D</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Malaga, Spain</td></tr><tr class="rosterRow"><td class="rosterNum">39</td><td class="rosterName">Ivan Gutierrez</td><td class="rosterClass">SR</td><td class="rosterPos">MF</td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Basque, Spain</td></tr></tbody>
+</table>
+<div class="coaches">
+	<div class="coach">Michael Sheerin - Head Coach</div>
+	<div class="coach">Jose Calderon - Assistant Coach</div>
+</div>
+
+	<div class="rosterTeamName" id="roster68">Mount Mercy</div>
+<table class="rosterTable">
+	<thead>
+		<tr class="rosterRowH"><th class="rosterNumH">#</th><th class="rosterName">Name</th><th class="rosterClassH">Cl.</th><th class="rosterPosH">Pos.</th><th class="rosterHeightH">Ht.</th><th class="rosterWeightH">Wt.</th><th class="rosterTownH">Hometown</th></tr>
+	</thead>
+	<tbody><tr class="rosterRow"><td class="rosterNum">3</td><td class="rosterName">William Bevins</td><td class="rosterClass">FR</td><td class="rosterPos">D</td><td class="rosterHeight">5-5</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Marion, Iowa</td></tr><tr class="rosterRow"><td class="rosterNum">4</td><td class="rosterName">David Mitchell</td><td class="rosterClass">JR</td><td class="rosterPos">D/M</td><td class="rosterHeight">5-10</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Cedar Rapids, Iowa</td></tr><tr class="rosterRow"><td class="rosterNum">5</td><td class="rosterName">Bryan Jones</td><td class="rosterClass">SR</td><td class="rosterPos">D/M</td><td class="rosterHeight">5-11</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Crystal Lake, Iowa</td></tr><tr class="rosterRow"><td class="rosterNum">6</td><td class="rosterName">Nate Klein</td><td class="rosterClass">SR</td><td class="rosterPos">GK</td><td class="rosterHeight">6-2</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Swisher, Iowa</td></tr><tr class="rosterRow"><td class="rosterNum">7</td><td class="rosterName">John Hauskins</td><td class="rosterClass">SO</td><td class="rosterPos">M</td><td class="rosterHeight">5-11</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Marion, Iowa</td></tr><tr class="rosterRow"><td class="rosterNum">8</td><td class="rosterName">Bryan Jahava</td><td class="rosterClass">FR</td><td class="rosterPos">M/F</td><td class="rosterHeight">5-10</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Nairobi, Kenya</td></tr><tr class="rosterRow"><td class="rosterNum">9</td><td class="rosterName">Zlatko Tomic</td><td class="rosterClass">FR</td><td class="rosterPos">M/F</td><td class="rosterHeight">6-4</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Split, Croatia</td></tr><tr class="rosterRow"><td class="rosterNum">10</td><td class="rosterName">Chad Hollmer</td><td class="rosterClass">JR</td><td class="rosterPos">M</td><td class="rosterHeight">6-1</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Davenport, Iowa</td></tr><tr class="rosterRow"><td class="rosterNum">11</td><td class="rosterName">Tyler Turner</td><td class="rosterClass">SO</td><td class="rosterPos">M/F</td><td class="rosterHeight">5-11</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Robbinsdale, Minn.</td></tr><tr class="rosterRow"><td class="rosterNum">12</td><td class="rosterName">Bassem Herz</td><td class="rosterClass">SO</td><td class="rosterPos">D</td><td class="rosterHeight">6-4</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Cedar Rapids, Iowa</td></tr><tr class="rosterRow"><td class="rosterNum">13</td><td class="rosterName">Scott Becker</td><td class="rosterClass">FR</td><td class="rosterPos">M</td><td class="rosterHeight">6-0</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Watkins, Iowa</td></tr><tr class="rosterRow"><td class="rosterNum">14</td><td class="rosterName">Jon Olivarez</td><td class="rosterClass">FR</td><td class="rosterPos">M/F</td><td class="rosterHeight">5-11</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Marion, Iowa</td></tr><tr class="rosterRow"><td class="rosterNum">15</td><td class="rosterName">Nick Schmitt</td><td class="rosterClass">SO</td><td class="rosterPos">D</td><td class="rosterHeight">6-0</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Cedar Rapids, Iowa</td></tr><tr class="rosterRow"><td class="rosterNum">16</td><td class="rosterName">B.j. Melsha</td><td class="rosterClass">JR</td><td class="rosterPos">D/GK</td><td class="rosterHeight">6-0</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Solon, Iowa</td></tr><tr class="rosterRow"><td class="rosterNum">17</td><td class="rosterName">Ryan Fisher</td><td class="rosterClass">SR</td><td class="rosterPos">D/M</td><td class="rosterHeight">5-10</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Ely, Iowa</td></tr><tr class="rosterRow"><td class="rosterNum">18</td><td class="rosterName">Alex Kremer</td><td class="rosterClass">FR</td><td class="rosterPos">D/M</td><td class="rosterHeight">5-10</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Swisher, Iowa</td></tr><tr class="rosterRow"><td class="rosterNum">21</td><td class="rosterName">Cory Richmond</td><td class="rosterClass">SR</td><td class="rosterPos">F</td><td class="rosterHeight">6-5</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Swisher, Iowa</td></tr><tr class="rosterRow"><td class="rosterNum">22</td><td class="rosterName">Clint Coggins</td><td class="rosterClass">JR</td><td class="rosterPos">M</td><td class="rosterHeight">5-9</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Ryan, Iowa</td></tr><tr class="rosterRow"><td class="rosterNum">23</td><td class="rosterName">Drago Ceranic</td><td class="rosterClass">FR</td><td class="rosterPos">D/M</td><td class="rosterHeight">6-2</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Belgrade, Serbia</td></tr><tr class="rosterRow"><td class="rosterNum">25</td><td class="rosterName">Jeff Hearne</td><td class="rosterClass">FR</td><td class="rosterPos">D</td><td class="rosterHeight">5-7</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Atkins, Iowa</td></tr></tbody>
+</table>
+<div class="coaches">
+	<div class="coach">Amir Hadzic - Head Coach</div>
+	<div class="coach">J.p. Graham - Assistant Coach</div>
+</div>
+
+	<div class="rosterTeamName" id="roster190">Viterbo</div>
+<table class="rosterTable">
+	<thead>
+		<tr class="rosterRowH"><th class="rosterNumH">#</th><th class="rosterName">Name</th><th class="rosterClassH">Cl.</th><th class="rosterPosH">Pos.</th><th class="rosterHeightH">Ht.</th><th class="rosterWeightH">Wt.</th><th class="rosterTownH">Hometown</th></tr>
+	</thead>
+	<tbody><tr class="rosterRow"><td class="rosterNum">2</td><td class="rosterName">Peter Webber</td><td class="rosterClass">SO</td><td class="rosterPos">D</td><td class="rosterHeight">5-9</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Decorah, IA</td></tr><tr class="rosterRow"><td class="rosterNum">3</td><td class="rosterName">Tom Snow</td><td class="rosterClass">FR</td><td class="rosterPos">F</td><td class="rosterHeight">5-7</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">North Brooks, IL</td></tr><tr class="rosterRow"><td class="rosterNum">4</td><td class="rosterName">Ryan Fohrman</td><td class="rosterClass">JR</td><td class="rosterPos">M</td><td class="rosterHeight">5-6</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Stevens Point, WI</td></tr><tr class="rosterRow"><td class="rosterNum">5</td><td class="rosterName">Julian Cordova</td><td class="rosterClass">JR</td><td class="rosterPos">D</td><td class="rosterHeight">5-6</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Valcarce, Argentina</td></tr><tr class="rosterRow"><td class="rosterNum">6</td><td class="rosterName">Carson Machain</td><td class="rosterClass">FR</td><td class="rosterPos">F</td><td class="rosterHeight">6-0</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Chicago, IL</td></tr><tr class="rosterRow"><td class="rosterNum">7</td><td class="rosterName">Pat Hamoy</td><td class="rosterClass">FR</td><td class="rosterPos">D</td><td class="rosterHeight">5-5</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Des Plaines, IL</td></tr><tr class="rosterRow"><td class="rosterNum">9</td><td class="rosterName">Kevin Sante</td><td class="rosterClass">SR</td><td class="rosterPos">M</td><td class="rosterHeight">5-9</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Bamenda Cameron</td></tr><tr class="rosterRow"><td class="rosterNum">9</td><td class="rosterName">Kevin Sante</td><td class="rosterClass">SR</td><td class="rosterPos">M</td><td class="rosterHeight">5-9</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Bamenda, Cameron</td></tr><tr class="rosterRow"><td class="rosterNum">10</td><td class="rosterName">James Kertis</td><td class="rosterClass">SR</td><td class="rosterPos">M</td><td class="rosterHeight">6-2</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Rochester, MN</td></tr><tr class="rosterRow"><td class="rosterNum">10</td><td class="rosterName">James Kertis</td><td class="rosterClass">SR</td><td class="rosterPos">M</td><td class="rosterHeight">6-2</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Rochester, MN</td></tr><tr class="rosterRow"><td class="rosterNum">11</td><td class="rosterName">Robert Illiff</td><td class="rosterClass">SR</td><td class="rosterPos">F</td><td class="rosterHeight">5-8</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Black River Falls, WI</td></tr><tr class="rosterRow"><td class="rosterNum">12</td><td class="rosterName">Chase Vaughn</td><td class="rosterClass">SR</td><td class="rosterPos">D/M</td><td class="rosterHeight">5-11</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Rhinelander, WI</td></tr><tr class="rosterRow"><td class="rosterNum">13</td><td class="rosterName">Charles Nassar</td><td class="rosterClass">SR</td><td class="rosterPos">M</td><td class="rosterHeight">5-7</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Kano, Nigeria</td></tr><tr class="rosterRow"><td class="rosterNum">14</td><td class="rosterName">Jack Walter</td><td class="rosterClass">JR</td><td class="rosterPos">D/GK</td><td class="rosterHeight">6-0</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">La Crescent, MN</td></tr><tr class="rosterRow"><td class="rosterNum">16</td><td class="rosterName">Seymour Essor</td><td class="rosterClass">SO</td><td class="rosterPos">F</td><td class="rosterHeight">6-0</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Westmoreland, Jamaica</td></tr><tr class="rosterRow"><td class="rosterNum">18</td><td class="rosterName">Pat Graham</td><td class="rosterClass">SR</td><td class="rosterPos">M</td><td class="rosterHeight">5-11</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Coon Rapids, MN</td></tr><tr class="rosterRow"><td class="rosterNum">19</td><td class="rosterName">Aleksey Sakhurak</td><td class="rosterClass">SO</td><td class="rosterPos">D</td><td class="rosterHeight">6-0</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">La Crosse, WI</td></tr><tr class="rosterRow"><td class="rosterNum">20</td><td class="rosterName">Brett May</td><td class="rosterClass">SR</td><td class="rosterPos">GK</td><td class="rosterHeight">6-9</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">River Falls, WI</td></tr><tr class="rosterRow"><td class="rosterNum">21</td><td class="rosterName">Jake Mohr</td><td class="rosterClass">FR</td><td class="rosterPos">D</td><td class="rosterHeight">5-8</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Andover, MN</td></tr><tr class="rosterRow"><td class="rosterNum">22</td><td class="rosterName">Kong Vue</td><td class="rosterClass">FR</td><td class="rosterPos">M</td><td class="rosterHeight">5-6</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Onalaska, WI</td></tr><tr class="rosterRow"><td class="rosterNum">23</td><td class="rosterName">Joe Ganser</td><td class="rosterClass">JR</td><td class="rosterPos">M</td><td class="rosterHeight">5-11</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Andover, MN</td></tr></tbody>
+</table>
+<div class="coaches">
+	<div class="coach">Andy Lee - Head Coach</div>
+</div>
+
+	<div class="rosterTeamName" id="roster210">William Penn</div>
+<table class="rosterTable">
+	<thead>
+		<tr class="rosterRowH"><th class="rosterNumH">#</th><th class="rosterName">Name</th><th class="rosterClassH">Cl.</th><th class="rosterPosH">Pos.</th><th class="rosterHeightH">Ht.</th><th class="rosterWeightH">Wt.</th><th class="rosterTownH">Hometown</th></tr>
+	</thead>
+	<tbody><tr class="rosterRow"><td class="rosterNum">00</td><td class="rosterName">Bram Vermeulen</td><td class="rosterClass">FR</td><td class="rosterPos">GK</td><td class="rosterHeight">6-5</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Oskaloosa, Iowa</td></tr><tr class="rosterRow"><td class="rosterNum">1</td><td class="rosterName">Tugberk Tekdemir</td><td class="rosterClass">JR</td><td class="rosterPos">GK</td><td class="rosterHeight">5-11</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Ankara, Turkey</td></tr><tr class="rosterRow"><td class="rosterNum">2</td><td class="rosterName">Spenser Brown</td><td class="rosterClass">JR</td><td class="rosterPos">F</td><td class="rosterHeight">5-6</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Palmer, Alaska</td></tr><tr class="rosterRow"><td class="rosterNum">3</td><td class="rosterName">Matt Oppelt</td><td class="rosterClass">SO</td><td class="rosterPos">D</td><td class="rosterHeight">5-8</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">St. Louis, Mo.</td></tr><tr class="rosterRow"><td class="rosterNum">4</td><td class="rosterName">Vincent Beseau</td><td class="rosterClass">SO</td><td class="rosterPos">MF</td><td class="rosterHeight">5-8</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Florissant, Mo.</td></tr><tr class="rosterRow"><td class="rosterNum">5</td><td class="rosterName">Armondo Irias</td><td class="rosterClass">SO</td><td class="rosterPos">MF</td><td class="rosterHeight">5-8</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Baytown, Texas</td></tr><tr class="rosterRow"><td class="rosterNum">6</td><td class="rosterName">Nik Rule</td><td class="rosterClass">SO</td><td class="rosterPos">F</td><td class="rosterHeight">5-8</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Idaho Falls, Idaho</td></tr><tr class="rosterRow"><td class="rosterNum">7</td><td class="rosterName">Hasan Velagic</td><td class="rosterClass">SR</td><td class="rosterPos">D</td><td class="rosterHeight">5-11</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Bosnia</td></tr><tr class="rosterRow"><td class="rosterNum">8</td><td class="rosterName">Fernando Sanchez</td><td class="rosterClass">SO</td><td class="rosterPos">D</td><td class="rosterHeight">6-2</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Baytown, Texas</td></tr><tr class="rosterRow"><td class="rosterNum">9</td><td class="rosterName">Cesar Villarreal</td><td class="rosterClass">SO</td><td class="rosterPos">D</td><td class="rosterHeight">5-8</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">McAllen, Texas</td></tr><tr class="rosterRow"><td class="rosterNum">10</td><td class="rosterName">Joe Betzler</td><td class="rosterClass">JR</td><td class="rosterPos">MF</td><td class="rosterHeight">6-0</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">St. Louis, Mo.</td></tr><tr class="rosterRow"><td class="rosterNum">11</td><td class="rosterName">Adnan Burzic</td><td class="rosterClass">SO</td><td class="rosterPos">F</td><td class="rosterHeight">5-11</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Ottumwa, Iowa</td></tr><tr class="rosterRow"><td class="rosterNum">12</td><td class="rosterName">Rudy Bear</td><td class="rosterClass">FR</td><td class="rosterPos">F</td><td class="rosterHeight">5-3</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Baytown, Texas</td></tr><tr class="rosterRow"><td class="rosterNum">13</td><td class="rosterName">Tim Eyer</td><td class="rosterClass">FR</td><td class="rosterPos">D/MF</td><td class="rosterHeight">5-10</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Palos Heights, Ill.</td></tr><tr class="rosterRow"><td class="rosterNum">13</td><td class="rosterName">Dan Mattes</td><td class="rosterClass">FR</td><td class="rosterPos">MF/F</td><td class="rosterHeight">5-11</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Cedar Rapids, Iowa</td></tr><tr class="rosterRow"><td class="rosterNum">14</td><td class="rosterName">Marc Keane</td><td class="rosterClass">FR</td><td class="rosterPos">MF</td><td class="rosterHeight">5-10</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Ireland</td></tr><tr class="rosterRow"><td class="rosterNum">14</td><td class="rosterName">Zach Stombock</td><td class="rosterClass">JR</td><td class="rosterPos">F</td><td class="rosterHeight">5-9</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Scottsdale, Ariz.</td></tr><tr class="rosterRow"><td class="rosterNum">15</td><td class="rosterName">Tim Schultz</td><td class="rosterClass">SO</td><td class="rosterPos">MF</td><td class="rosterHeight">5-10</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Foxfield, Colo.</td></tr><tr class="rosterRow"><td class="rosterNum">16</td><td class="rosterName">Jeff Wolfe</td><td class="rosterClass">SR</td><td class="rosterPos">F</td><td class="rosterHeight">5-9</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Bend, Ore.</td></tr><tr class="rosterRow"><td class="rosterNum">17</td><td class="rosterName">Brian Thompson</td><td class="rosterClass">JR</td><td class="rosterPos">F</td><td class="rosterHeight">6-2</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Chariton, Iowa</td></tr><tr class="rosterRow"><td class="rosterNum">18</td><td class="rosterName">Edin Sabic</td><td class="rosterClass">FR</td><td class="rosterPos">MF</td><td class="rosterHeight">5-11</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Waterloo, Iowa</td></tr><tr class="rosterRow"><td class="rosterNum">19</td><td class="rosterName">Eric Rinkema</td><td class="rosterClass">JR</td><td class="rosterPos">D</td><td class="rosterHeight">6-0</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Springfield, Ill.</td></tr><tr class="rosterRow"><td class="rosterNum">20</td><td class="rosterName">Guadalupe Garcia</td><td class="rosterClass">JR</td><td class="rosterPos">MF/F</td><td class="rosterHeight">5-10</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Yuma, Ariz.</td></tr><tr class="rosterRow"><td class="rosterNum">21</td><td class="rosterName">Brent McClendon</td><td class="rosterClass">SO</td><td class="rosterPos">D</td><td class="rosterHeight">5-11</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Geneva, Iowa</td></tr></tbody>
+</table>
+<div class="coaches">
+	<div class="coach">Kevin Rushing - Head Coach</div>
+	<div class="coach">Brock Field - Assistant Coach</div>
+</div>
+</div>
+		</div>
+
+<!-- End Box -->
+            <div class="clearBottom">&nbsp;</div>
+            <!-- InstanceEndEditable -->
+          </div>
+          <div id="clearfootercenter"></div>
+        </div>
+        <div id="left">
+          <div id="clearheaderleft"></div>
+          <div id="container-left">
+            
+
+<!-- Begin Box -->
+
+	<div class="boxLeft sportsMenu">
+		<div class="boxLeftTitle">&nbsp;</div>
+		<div class="boxLeftContent">
+<div class="menuItemTitle">Fall</div>
+<div class="menu"><ul><li><a href="/sport/4/10.php">M - Cross Country</a></li><li><a href="/sport/4/11.php">W - Cross Country</a></li><li><a href="/sport/4/1.php">M - Soccer</a></li><li><a href="/sport/4/2.php">W - Soccer</a></li><li><a href="/sport/4/3.php">Volleyball</a></li></ul></div>
+
+<div class="menuItemTitle">Winter</div>
+<div class="menu"><ul><li><a href="/sport/4/19.php">W - Bowling</a></li><li><a href="/sport/4/20.php">M - Bowling</a></li><li><a href="/sport/4/4.php">M - Basketball</a></li><li><a href="/sport/4/5.php">W - Basketball</a></li><li><a href="/sport/4/16.php">M - Indoor Track &amp; Field</a></li><li><a href="/sport/4/17.php">W - Indoor Track &amp; Field</a></li></ul></div>
+
+<div class="menuItemTitle">Spring</div>
+<div class="menu"><ul><li><a href="/sport/4/6.php">Baseball</a></li><li><a href="/sport/4/13.php">W - Golf</a></li><li><a href="/sport/4/12.php">M - Golf</a></li><li><a href="/sport/4/7.php">Softball</a></li><li><a href="/sport/4/14.php">M - Outdoor Track &amp; Field</a></li><li><a href="/sport/4/15.php">W - Outdoor Track &amp; Field</a></li></ul></div>
+</div>
+		</div>
+
+<!-- End Box -->
+
+
+<!-- Begin Box -->
+
+	<div class="boxLeft mccMenu">
+		<div class="boxLeftTitle">&nbsp;</div>
+		<div class="boxLeftContent">
+<div class="menu"><ul><li><a href="/d/2011-12/MCC_Handbook_2011-12.pdf">Guidelines & Admin Handbook</a></li><li><a href="/f/Midwest_Collegiate_Conference_History.php">History</a></li>
+</ul></div></div>
+		</div>
+
+<!-- End Box -->
+<div class="adBox  leftAds">
+	<div class="ad">
+		<img  src="http://www.midwestcollegiateconference.com/images/2011-12/CofC201011.jpg" border="0" alt="photo" />
+
+	</div>
+</div>
+          </div>
+          <div id="clearfooterleft"></div>
+        </div>
+      </div>
+      <div id="right">
+        <div id="clearheaderright"></div>
+        <div id="container-right">
+		<div class="adBox  rightAds">
+	<div class="ad">
+		<a href="/index.php?urlLink=6" target="_blank"><img  src="http://www.midwestcollegiateconference.com/images/2010-11/PlayNAIAwebbanner150x150.jpg" border="0" alt="photo" title="photo" /></a>
+	</div>
+	<div class="ad">
+		<a href="/index.php?urlLink=7" target="_blank"><img  src="http://www.midwestcollegiateconference.com/images/2011-12/MCCFB.png" border="0" alt="photo" title="photo" /></a>
+	</div>
+</div>
+        <!-- InstanceBeginEditable name="Right Side" -->
+		<!-- InstanceEndEditable -->
+        </div>
+        <div id="clearfooterright"></div>
+      </div>
+      <div class="clear">&nbsp;</div>
+    </div>
+  </div>
+  <div id="header">
+      <div id="headerContent">
+<div id="MCC"><a href="/index.php"><img src="/images_web/MidwestCollegiateConference.jpg" alt="MCC" width="219" height="156" /></a></div>
+<div id="MemberSlideShow">
+
+<img width="781" height="156" src="/images_web/Campus_AIB.jpg" alt="AIB College of Business" />
+<img width="781" height="156" src="/images_web/Campus_Ashford.jpg" alt="Ashford" />
+<img width="781" height="156" src="/images_web/Campus_Clarke.jpg" alt="Clarke" />
+<img width="781" height="156" src="/images_web/Campus_GrandView.jpg" alt="Grand View" />
+<img width="781" height="156" src="/images_web/Campus.jpg" alt="Iowa Wesleyan" />
+<img width="781" height="156" src="/images_web/Campus_MountMercy.jpg" alt="Mount Mercy" />
+<img width="781" height="156" src="/images_web/Campus_StAmbrose.jpg" alt="St. Ambrose" />
+<img width="781" height="156" src="/images_web/Campus_Viterbo.jpg" alt="Viterbo" />
+<img width="781" height="156" src="/images_web/Campus_Waldorf.jpg" alt="Waldorf" />
+<img width="781" height="156" src="/images_web/Campus_WilliamPenn.jpg" alt="William Penn" /></div>
+<div id="MemberLogosDiv"><ul id="MemberLogos"><li><a href="/members.php#1719"><img src="/images_web/new_logos/members__AIB.jpg" alt="AIB College of Business" width="100" height="75" /></a><li><a href="/members.php#1136"><img src="/images_web/new_logos/members__Ashford.jpg" alt="Ashford" width="100" height="75" /></a></li><li><a href="/members.php#386"><img src="/images_web/new_logos/members__Clarke.jpg" alt="Clarke" width="100" height="75" /></a></li><li><a href="/members.php#275"><img src="/images_web/new_logos/members__GrandView.jpg" alt="Grand View" width="100" height="75" /></a></li><li><a href="/members.php#299"><img src="/images_web/new_logos/members__IowaWesleyan.jpg" alt="Iowa Wesleyan" width="100" height="75" /></a></li><li><a href="/members.php#68"><img src="/images_web/new_logos/members__MountMercy.jpg" alt="Mount Mercy" width="100" height="75" /></a></li><li><a href="/members.php#111"><img src="/images_web/new_logos/members__SaintAmbrose.jpg" alt="Saint Ambrose" width="100" height="75" /></a></li><li><a href="/members.php#190"><img src="/images_web/new_logos/members__Viterbo.jpg" alt="Viterbo" width="100" height="75" /></a></li><li><a href="/members.php#214"><img src="/images_web/new_logos/members__Waldorf.jpg" alt="Waldorf" width="100" height="75" /></a></li><li><a href="/members.php#210"><img src="/images_web/new_logos/members__WilliamPenn.jpg" alt="William Penn" width="100" height="75" /></a></li>
+  </ul>
+  </div>
+
+
+</div>
+<div id="mainMenu"><div id="nav"><ul><li class="first"><a href="/index.php"><span>Home</span></a></li><li ><a href="/members.php"><span>Members</span></a></li><li ><a href="/article.php"><span>News</span></a></li><li ><a href="/pow.php"><span>Player of the Week</span></a></li><li ><a href="/map.php"><span>League Map</span></a></li><li ><a href="/f/Midwest_Collegiate_Conference_Officials.php"><span>MCC Staff & Officials</span></a></li></ul></div></div>  </div>
+  <div class="clear">&nbsp;</div>
+  <div id="footer">
+      <div id="SIDHelp"><a href="http://www.sidhelp.com/" target="_blank"><img src="/images_web/spacer.gif" alt="SIDHelp" width="120" height="50" /></a></div>
+<div id="NAIA"><a href="http://www.naia.org/" target="_blank"><img src="/images_web/spacer.gif" alt="NAIA" width="80" height="75" /></a></div>
+<div id="subfooter1">
+Copyright (c) 2012, Midwest Collegiate Conference. All rights reserved.<br />
+<a href="/SIDHelp/rssFeed.php">RSS Feeds</a> || <a href="/SIDHelp/m.php">Mobile Version</a><br />
+<a href="http://www.sidhelp.com/" target="_blank">Powered by SIDHelp</a>
+</div>  </div>
+</div>
+			<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<script type="text/javascript">
+			try {
+			var pageTracker = _gat._getTracker("UA-194872-29");
+			pageTracker._trackPageview();
+			} catch(err) {}</script></body>
+<!-- InstanceEnd --></html>

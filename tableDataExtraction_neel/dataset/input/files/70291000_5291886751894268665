@@ -1,0 +1,1172 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html id="ctl00_Html1" __expr-val-dir="ltr" dir="ltr">
+
+
+
+<head id="ctl00_Head1"><META name="Title" value="Oficinas de Venta y Centros de Reservaciones de Copa Airlines" ><META NAME="Language" CONTENT="Espa?ol" ><meta name="WebPartPageExpansion" content="full" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="progid" content="SharePoint.WebPartPage.Document" /><meta http-equiv="Expires" content="0" /><title>
+	
+	Oficinas de Venta y Centros de Reservaciones de Copa Airlines
+
+</title><link type="text/xml" rel="alternate" href="/sites/CC/es/Acerca-de-Copa-Airlines/_vti_bin/spsdisco.aspx" />
+<link rel="stylesheet" type="text/css" href="/_layouts/1033/STYLES/Copa_css/20100713/FlightSelectionStyle.css" /><link rel="stylesheet" type="text/css" href="/_layouts/1033/STYLES/Copa_css/20100713/dpSyntaxHighlighter.css" /><link rel="stylesheet" type="text/css" href="/_layouts/1033/STYLES/Copa_css/20100713/container.css" /><link rel="stylesheet" type="text/css" href="/_layouts/1033/STYLES/Copa_css/20100713/button.css" /><link rel="stylesheet" type="text/css" href="/_layouts/1033/STYLES/Copa_css/20100713/LandingStyle.css" /><link rel="stylesheet" type="text/css" href="/_layouts/1033/STYLES/Copa_css/20100713/error.css" /><link rel="stylesheet" type="text/css" href="/_layouts/1033/STYLES/Copa_css/20100713/DealsAndRegionPromotion.css" /><link rel="stylesheet" type="text/css" href="/_layouts/1033/STYLES/Copa_css/20100713/copa_botones_estilo.css" /><link rel="stylesheet" type="text/css" href="/_layouts/1033/STYLES/Copa_css/20100713/dd.css" /><link rel="stylesheet" type="text/css" href="/_layouts/1033/STYLES/Copa_css/20100713/cities-popup.css" /><link rel="stylesheet" type="text/css" href="/_layouts/1033/STYLES/Copa_css/20100713/content-scroller.css" /><link rel="stylesheet" href="https://copaair.intelliresponse.com/css/html5BoilerplateStyles.css" type="text/css" /><link rel="stylesheet" type="text/css" href="/_layouts/1033/STYLES/Copa_css/20100713/Stylees.css" />
+    
+    
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" ></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+    <script type="text/javascript" language="javascript" src="/_layouts/1033//Copa_scripts/20100713/Home.js?rev=Z8CXPohoTLQQyywq0ALTxQ%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033//Copa_scripts/20100713/modals.js?rev=xb2SDCS5%2Fg8qoYpwju00Wg%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033//Copa_scripts/20100713/yahoo-dom-event.js?rev=jfAo0tO7bwViGrI9IVznrg%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033//Copa_scripts/20100713/calendar-min.js?rev=U75NhYKSIfZiMtiD46Mnxw%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033//Copa_scripts/20100713/dom-min.js?rev=CgjNNu6crXVP%2B6%2B3rO%2Bhug%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033//Copa_scripts/20100713/calendar.js?rev=0GPPTW6Kn1YO3jEUQueGvQ%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033//Copa_scripts/20100713/Core.js?rev=Pzkx8p0Qe1LScLRYADyOGg%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033//Copa_scripts/20100713/jquery.selectboxes.js?rev=dPyZbzYCalUTDEmLfqE1nA%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033//Copa_scripts/20100713/jquery.bgiframe.min.js?rev=qGjN%2FLZf8LsB8wtaT1bQgA%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033//Copa_scripts/20100713/jquery.dd.js?rev=kwUbiFW2Cdie030I0%2FCAog%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033//Copa_scripts/20100713/JScript.js?rev=NPnsDf8jIWxo4iciXDHqtQ%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033//Copa_scripts/20100713/ChangeStoreFrontScript.js?rev=LJ75Tq37vhYlEJFEtAnvkQ%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033//Copa_scripts/20100713/CallbackComplement.js?rev=y2Xf5IYnQWs12A3Abo8zQQ%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033//Copa_scripts/20100713/Utilities.js?rev=gmfIt0ZCqfAxAhSoiEtyPw%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033//Copa_scripts/20100713/MyTripsPanelPart.js?rev=Rk7kkanEIiqnIsOZr%2BmOaQ%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033/init.js?rev=TmjlnYqlItVq2tO5aWXa%2BA%3D%3D"></script>
+
+
+<span id="ctl00_CoreJSLoader1"></span>
+
+    <script type="text/javascript" language="javascript">
+    <!--
+        YAHOO.util.Event.onDOMReady(setupNavigation);
+    //-->         
+    </script>
+
+    <!--Placeholder for additional overrides-->
+    
+
+	<style type="text/css">
+	
+		TD.ms-titleareaframe, .ms-pagetitleareaframe 
+		{
+			height: 10px;
+		}
+		Div.ms-titleareaframe 
+		{
+			height: 100%;
+		}
+		.ms-pagetitleareaframe table 
+		{
+			background: none;
+			height: 10px;
+		}
+	
+	</style>
+
+
+
+    <script type="text/javascript">
+        onerror = manejaErr
+        function manejaErr(msg, url, l) {
+            if (msg == "\'WPSC\' is undefined") {
+                return true;
+            }
+            else {
+                return false;
+            }
+        }
+        
+        
+    </script>
+    <script type=text/javascript>
+        IRsearch = [];
+        $(document).ready(function() {
+            $(".searchField").autocomplete({
+                source: function(request, response) {
+                    $.ajax({
+                        url: "https://copaair.intelliresponse.com/json.jsp",
+                        dataType: "jsonp",
+                        data: {
+                            term: request.term
+                        },
+                        success: function(data) {
+                            response($.map(data, function(item) {
+                                return {
+                                    label: item.value,
+                                    value: item.value
+                                }
+                            }));
+                        }
+                    });
+                },
+                open: function(event, ui) {
+                    str = event.target.value;
+                    IRsearch = str.split(" ");
+                    $(".ui-menu-item a").each(function() {
+                        $(this).html(highlightTxt($(this).html()));
+                    });
+                },
+                select: function(event, ui) {
+                    setTimeout(function() {
+                        $("#questionForm input.searchButton").click();
+                    }, 1000);
+                },
+                minLength: 3
+            });
+            function highlightTxt(allTheWords) {
+                for (var i = 0; i < IRsearch.length; i++) {
+                    var regex = new RegExp("(?!<[^<>]*)(" + IRsearch[i].replace(/([\^$\(\)\[\]\{\}\*\.\+\?\;\|\\])/gi, "\$1") + ")(?![^<>]*>)", "gi");
+                    allTheWords = allTheWords.replace(regex, "<strong>$1</strong>");
+                    allTheWords = allTheWords.replace(/&amp;rsquo;/g, "'")
+                }
+                return allTheWords;
+            }
+        })
+</script>
+
+    <link rel="Shortcut Icon" href="/PublishingImages/favicon.ico" /></head>
+
+<body topmaring="0" class="yui-skin-sam" onload="">
+    
+    <script type="text/javascript">
+	var myVar = 'copaair';
+</script><script type="text/javascript" src="/_layouts/1033/OmnitureMetrics/s_code.js">
+
+</script><script type="text/javascript" src="/_layouts/1033/OmnitureMetrics/ClickMetrics-Omniture.js">
+
+</script><div id="ctl00_MetricPartsOmniture1" __MarkupType="vsattributemarkup" __WebPartId="{94e6603a-a52b-4cd9-9e4c-9214ca1bd5bb}" WebPart="true">
+
+</div>
+    <form name="aspnetForm" method="post" action="Nuestras-Oficinas.aspx" id="aspnetForm" topmargin="0">
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0xD4E32C90F77B30FBF7E1C55D17B20D98020FEA1B6498B6C4FDF1760A1F967C3EDACC1E8251930573A4EE6594D976F1C1FCD9123760AD2B3E32A2E96FA671FBFA,09 Feb 2012 01:33:49 -0000" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgIBD2QWBAIFD2QWAgIHD2QWAmYPZBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTIuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAgkPZBYOAgIPZBYCAgEPFgIeB1Zpc2libGVoFgJmD2QWBAICD2QWAgIDDxYCHwFoZAIDDw8WAh4JQWNjZXNzS2V5BQEvZGQCBA9kFgICAg8PFgIfAWgWAh4Fc3R5bGUFDmRpc3BsYXk6YmxvY2s7ZAIGD2QWAgIBDw8WAh8BaGQWBAIBDw8WAh8BaGRkAgMPDxYCHwFoZBYCAgEPDxYCHwFnZBYEAgEPDxYCHwFoZBYcAgEPDxYCHwFoZGQCAw8WAh8BaGQCBQ8PFgIfAWhkZAIHDxYCHwFoZAIJDw8WAh8BaGRkAgsPDxYCHwFoZGQCDQ8PFgIfAWhkZAIPDw8WBB4HRW5hYmxlZGgfAWhkZAIRDw8WAh8BaGRkAhMPDxYEHwRoHwFoZGQCFQ8PFgIfAWhkZAIXDxYCHwFoZAIZDxYCHwFoZAIbDw8WAh8BZ2RkAgMPDxYCHwFnZBYGAgEPDxYCHwFnZGQCAw8PFgIfAWdkZAIFDw8WAh8BZ2RkAgoPZBYCAgMPEA8WBh4ORGF0YVZhbHVlRmllbGQFC0NvdW50cnlDb2RlHg1EYXRhVGV4dEZpZWxkBQtDb3VudHJ5TmFtZR4LXyFEYXRhQm91bmRnZBAVCQZCcmFzaWwGQ2FuYWRhBUNoaWxlCUNvbG9tYmlhIA5Fc3RhZG9zIFVuaWRvcwdNw6l4aWNvBlBhbmFtYQlWZW5lenVlbGENT3Ryb3MgUGHDrXNlcxUJAkJSAkNBAkNMAkNPAlVTAk1YAlBBAlZFAkdTFCsDCWdnZ2dnZ2dnZxYBAgRkAhYPZBYCZg9kFgRmDw9kFgIeB29uY2xpY2sFR3JldHVybiBDaGFuZ2VUZXh0KCdjdGwwMF9TZWFyY2hQYXJ0MV9zZWFyY2hUZXh0Qm94JywnSW50cm9kdWNpciB0ZXh0bycpZAIBDw9kFgQeB29uQ2xpY2sFM3JldHVybiBDbGlja1RleHQoJ2N0bDAwX1NlYXJjaFBhcnQxX3NlYXJjaFRleHRCb3gnKR4MQXV0b2NvbXBsZXRlBQJPbmQCGA9kFgICAQ9kFgICAQ9kFgICAQ88KwANAgAPFgIfB2dkDBQrAAIFAzA6MBQrAAIWDB4EVGV4dGUeBVZhbHVlZR8EZx4KU2VsZWN0YWJsZWgeCERhdGFQYXRoBSQ4ZmI0ODNhOC04NTZiLTQwODItOWE5OS1mOWNiYWY0N2UwNjIeCURhdGFCb3VuZGcUKwAGBRMwOjAsMDoxLDA6MiwwOjMsMDo0FCsAAhYMHwsFDVJlc2VydmFjaW9uZXMfDAUNUmVzZXJ2YWNpb25lcx8EZx8NaB8OBSQ4ZWNhMzAwNy04ZDAzLTQxZTEtYWQ5ZS1kZDZhYTI1MWFmMzkfD2cUKwAGBRMwOjAsMDoxLDA6MiwwOjMsMDo0FCsAAhYOHwsFEFJlc2VydmUgc3UgdnVlbG8fDAUQUmVzZXJ2ZSBzdSB2dWVsbx4LTmF2aWdhdGVVcmwFS2h0dHBzOi8vYm9va2luZ3MuY29wYWFpci5jb20vQ01HUy9BaXJTZWFyY2hFeHRlcm5hbEZvcndhcmQuZG8/dHJpcFR5cGU9UlRAUx8EZx8NZx8OBUtodHRwczovL2Jvb2tpbmdzLmNvcGFhaXIuY29tL2NtZ3MvYWlyc2VhcmNoZXh0ZXJuYWxmb3J3YXJkLmRvP3RyaXB0eXBlPXJ0QHMfD2dkFCsAAhYOHwsFCk1pcyB2aWFqZXMfDAUKTWlzIHZpYWplcx8QBTwvc2l0ZXMvY2MvZXMvbWFuYWdlLXlvdXItcmVzZXJ2YXRpb24vUGFnZXMvbGFuZGluZy1wYWdlLmFzcHgfBGcfDWcfDgU8L3NpdGVzL2NjL2VzL21hbmFnZS15b3VyLXJlc2VydmF0aW9uL3BhZ2VzL2xhbmRpbmctcGFnZS5hc3B4Hw9nZBQrAAIWDh8LBQxXZWIgQ2hlY2stSW4fDAUMV2ViIENoZWNrLUluHxAFOGh0dHA6Ly9lc2VydmljZXMuY29wYWFpci5jb20vV2ViQ2hlY2tJbi9FbnRlckluZm9XQy5hc3B4HwRnHw1nHw4FOGh0dHA6Ly9lc2VydmljZXMuY29wYWFpci5jb20vd2ViY2hlY2tpbi9lbnRlcmluZm93Yy5hc3B4Hw9nZBQrAAIWDh8LBRxDcmVhciBvIGFjdHVhbGl6YXIgbWkgcGVyZmlsHwwFHENyZWFyIG8gYWN0dWFsaXphciBtaSBwZXJmaWwfEAVEaHR0cHM6Ly9ib29raW5ncy5jb3BhYWlyLmNvbS9DTUdTL1Byb2ZpbGVJbmRleFBhZ2VGb3J3YXJkQWN0aW9uLmRvQFMfBGcfDWcfDgVEaHR0cHM6Ly9ib29raW5ncy5jb3BhYWlyLmNvbS9jbWdzL3Byb2ZpbGVpbmRleHBhZ2Vmb3J3YXJkYWN0aW9uLmRvQHMfD2dkFCsAAhYOHwsFClJlZW1ib2xzb3MfDAUKUmVlbWJvbHNvcx8QBTcvc2l0ZXMvY2MvZXMvaW5mb3JtYWNpb24tZGUtdmlhamUvUGFnZXMvUmVlbWJvbHNvcy5hc3B4HwRnHw1nHw4FNy9zaXRlcy9jYy9lcy9pbmZvcm1hY2lvbi1kZS12aWFqZS9wYWdlcy9yZWVtYm9sc29zLmFzcHgfD2dkFCsAAhYMHwsFGEluZm9ybWFjacOzbiB5IHNlcnZpY2lvcx8MBRhJbmZvcm1hY2nDs24geSBzZXJ2aWNpb3MfBGcfDWgfDgUkMjJjNGMzNmEtNzUyYy00MTY2LWI4N2EtNmI0YTFkODJiODE1Hw9nFCsACAUbMDowLDA6MSwwOjIsMDozLDA6NCwwOjUsMDo2FCsAAhYOHwsFEEEgZMOzbmRlIHZvbGFtb3MfDAUQQSBkw7NuZGUgdm9sYW1vcx8QBTovU2l0ZXMvY2MvZXMvSW5mb3JtYWNpb24tZGUtdmlhamUvUGFnZXMvTWFwYS1kZS1SdXRhcy5hc3B4HwRnHw1nHw4FOi9zaXRlcy9jYy9lcy9pbmZvcm1hY2lvbi1kZS12aWFqZS9wYWdlcy9tYXBhLWRlLXJ1dGFzLmFzcHgfD2dkFCsAAhYOHwsFCEVxdWlwYWplHwwFCEVxdWlwYWplHxAFOC9TaXRlcy9jYy9lcy9JbmZvcm1hY2lvbi1kZS12aWFqZS9QYWdlcy9TdS1FcXVpcGFqZS5hc3B4HwRnHw1nHw4FOC9zaXRlcy9jYy9lcy9pbmZvcm1hY2lvbi1kZS12aWFqZS9wYWdlcy9zdS1lcXVpcGFqZS5hc3B4Hw9nZBQrAAIWDh8LBRZSZXF1aXNpdG9zIG1pZ3JhdG9yaW9zHwwFFlJlcXVpc2l0b3MgbWlncmF0b3Jpb3MfEAUfL1NpdGVzL0NDL0VTL1BhZ2VzL3RpbWF0aWMuYXNweB8EZx8NZx8OBR8vc2l0ZXMvY2MvZXMvcGFnZXMvdGltYXRpYy5hc3B4Hw9nZBQrAAIWDh8LBR9OZWNlc2lkYWRlcyBlc3BlY2lhbGVzIGRlIHZpYWplHwwFH05lY2VzaWRhZGVzIGVzcGVjaWFsZXMgZGUgdmlhamUfEAVQL1NpdGVzL0NDL2VzL0luZm9ybWFjaW9uLWRlLXZpYWplL1BhZ2VzL1NlcnZpY2lvcy1Fc3BlY2lhbGVzLVBhcmEtUGFzYWplcm9zLmFzcHgfBGcfDWcfDgVQL3NpdGVzL2NjL2VzL2luZm9ybWFjaW9uLWRlLXZpYWplL3BhZ2VzL3NlcnZpY2lvcy1lc3BlY2lhbGVzLXBhcmEtcGFzYWplcm9zLmFzcHgfD2dkFCsAAhYOHwsFB0EgYm9yZG8fDAUHQSBib3Jkbx8QBT0vU2l0ZXMvQ0MvZXMvSW5mb3JtYWNpb24tZGUtdmlhamUvUGFnZXMvRHVyYW50ZS1lbC1WdWVsby5hc3B4HwRnHw1nHw4FPS9zaXRlcy9jYy9lcy9pbmZvcm1hY2lvbi1kZS12aWFqZS9wYWdlcy9kdXJhbnRlLWVsLXZ1ZWxvLmFzcHgfD2dkFCsAAhYOHwsFFFZlciBlc3RhZG8gZGUgdnVlbG9zHwwFFFZlciBlc3RhZG8gZGUgdnVlbG9zHxAFOC9zaXRlcy9jYy9lcy9mbGlnaHQtaW5mb3JtYXRpb24vcGFnZXMvZmxpZ2h0LXN0YXR1cy5hc3B4HwRnHw1nHw4FOC9zaXRlcy9jYy9lcy9mbGlnaHQtaW5mb3JtYXRpb24vcGFnZXMvZmxpZ2h0LXN0YXR1cy5hc3B4Hw9nZBQrAAIWDh8LBQ9WZXIgaXRpbmVyYXJpb3MfDAUPVmVyIGl0aW5lcmFyaW9zHxAFNS9zaXRlcy9jYy9lcy9mbGlnaHQtaW5mb3JtYXRpb24vcGFnZXMvdGltZXRhYmxlcy5hc3B4HwRnHw1nHw4FNS9zaXRlcy9jYy9lcy9mbGlnaHQtaW5mb3JtYXRpb24vcGFnZXMvdGltZXRhYmxlcy5hc3B4Hw9nZBQrAAIWDB8LBRVPZmVydGFzIHkgcHJvbW9jaW9uZXMfDAUVT2ZlcnRhcyB5IHByb21vY2lvbmVzHwRnHw1oHw4FJDdmMDNmY2E5LWI0ZTgtNGQ2ZC1hNjViLWE3NmRhNjhjN2U1MR8PZxQrAAMFBzA6MCwwOjEUKwACFg4fCwUVT2ZlcnRhcyBJcnJlc2lzdGlibGVzHwwFFU9mZXJ0YXMgSXJyZXNpc3RpYmxlcx8QBTsvc2l0ZXMve2NvdW50cnl9L2VzL2RlYWxzLWFuZC1vZmZlcnMvcGFnZXMvd2ViLWRlYWxzLmFzcHhARB8EZx8NZx8OBTsvc2l0ZXMve2NvdW50cnl9L2VzL2RlYWxzLWFuZC1vZmZlcnMvcGFnZXMvd2ViLWRlYWxzLmFzcHhAZB8PZ2QUKwACFg4fCwULUHJvbW9jaW9uZXMfDAULUHJvbW9jaW9uZXMfEAVFL3NpdGVzL3tjb3VudHJ5fS9lcy9kZWFscy1hbmQtb2ZmZXJzL3BhZ2VzL3BlcmlvZGljLXByb21vdGlvbnMuYXNweEBEHwRnHw1nHw4FRS9zaXRlcy97Y291bnRyeX0vZXMvZGVhbHMtYW5kLW9mZmVycy9wYWdlcy9wZXJpb2RpYy1wcm9tb3Rpb25zLmFzcHhAZB8PZ2QUKwACFgwfCwUJUHJvZHVjdG9zHwwFCVByb2R1Y3Rvcx8EZx8NaB8OBSQ3MWFmNjgxOS1mZjg2LTQ1MWQtYjEzZi02ZGNlZjllMzgwZDQfD2cUKwAOBTYwOjAsMDoxLDA6MiwwOjMsMDo0LDA6NSwwOjYsMDo3LDA6OCwwOjksMDoxMCwwOjExLDA6MTIUKwACFg4fCwUUSHViIGRlIGxhcyBBbcOpcmljYXMfDAUUSHViIGRlIGxhcyBBbcOpcmljYXMfEAU+L1NpdGVzL0NDL2VzL051ZXN0cm9zLXByb2R1Y3Rvcy9QYWdlcy9IdWItZGUtbGFzLUFtZXJpY2FzLmFzcHgfBGcfDWcfDgU+L3NpdGVzL2NjL2VzL251ZXN0cm9zLXByb2R1Y3Rvcy9wYWdlcy9odWItZGUtbGFzLWFtZXJpY2FzLmFzcHgfD2dkFCsAAhYOHwsFCUNvcGEgQ2x1Yh8MBQlDb3BhIENsdWIfEAU0L1NpdGVzL0NDL2VzL051ZXN0cm9zLXByb2R1Y3Rvcy9QYWdlcy9jb3BhLUNsdWIuYXNweB8EZx8NZx8OBTQvc2l0ZXMvY2MvZXMvbnVlc3Ryb3MtcHJvZHVjdG9zL3BhZ2VzL2NvcGEtY2x1Yi5hc3B4Hw9nZBQrAAIWDh8LBQ9DbGFzZSBFamVjdXRpdmEfDAUPQ2xhc2UgRWplY3V0aXZhHxAFOi9TaXRlcy9DQy9lcy9OdWVzdHJvcy1wcm9kdWN0b3MvUGFnZXMvQ2xhc2UtRWplY3V0aXZhLmFzcHgfBGcfDWcfDgU6L3NpdGVzL2NjL2VzL251ZXN0cm9zLXByb2R1Y3Rvcy9wYWdlcy9jbGFzZS1lamVjdXRpdmEuYXNweB8PZ2QUKwACFg4fCwUFRmxvdGEfDAUFRmxvdGEfEAU4L1NpdGVzL2NjL2VzL051ZXN0cm9zLXByb2R1Y3Rvcy9QYWdlcy9OdWVzdHJhLWZsb3RhLmFzcHgfBGcfDWcfDgU4L3NpdGVzL2NjL2VzL251ZXN0cm9zLXByb2R1Y3Rvcy9wYWdlcy9udWVzdHJhLWZsb3RhLmFzcHgfD2dkFCsAAhYOHwsFCEFsaWFuemFzHwwFCEFsaWFuemFzHxAFMy9TaXRlcy9jYy9lcy9OdWVzdHJvcy1wcm9kdWN0b3MvUGFnZXMvQWxpYW56YXMuYXNweB8EZx8NZx8OBTMvc2l0ZXMvY2MvZXMvbnVlc3Ryb3MtcHJvZHVjdG9zL3BhZ2VzL2FsaWFuemFzLmFzcHgfD2dkFCsAAhYOHwsFFFByb2dyYW1hIENvcnBvcmF0aXZvHwwFFFByb2dyYW1hIENvcnBvcmF0aXZvHxAFPy9zaXRlcy9jYy9lcy9OdWVzdHJvcy1Qcm9kdWN0b3MvUGFnZXMvUHJvZ3JhbWEtQ29ycG9yYXRpdm8uYXNweB8EZx8NZx8OBT8vc2l0ZXMvY2MvZXMvbnVlc3Ryb3MtcHJvZHVjdG9zL3BhZ2VzL3Byb2dyYW1hLWNvcnBvcmF0aXZvLmFzcHgfD2dkFCsAAhYOHwsFEUNvcGEgQ29udmVuY2lvbmVzHwwFEUNvcGEgQ29udmVuY2lvbmVzHxAFPC9zaXRlcy9jYy9lcy9OdWVzdHJvcy1Qcm9kdWN0b3MvUGFnZXMvQ29wYS1Db252ZW5jaW9uZXMuYXNweB8EZx8NZx8OBTwvc2l0ZXMvY2MvZXMvbnVlc3Ryb3MtcHJvZHVjdG9zL3BhZ2VzL2NvcGEtY29udmVuY2lvbmVzLmFzcHgfD2dkFCsAAhYOHwsFDkNvcGEgVmFjYXRpb25zHwwFDkNvcGEgVmFjYXRpb25zHxAFOS9zaXRlcy9jYy9lcy9udWVzdHJvcy1wcm9kdWN0b3MvcGFnZXMvY29wYS12YWNhdGlvbnMuYXNweB8EZx8NZx8OBTkvc2l0ZXMvY2MvZXMvbnVlc3Ryb3MtcHJvZHVjdG9zL3BhZ2VzL2NvcGEtdmFjYXRpb25zLmFzcHgfD2dkFCsAAhYOHwsFCkNvcGEgQ2FyZ28fDAUKQ29wYSBDYXJnbx8QBTUvc2l0ZXMvY2MvZXMvbnVlc3Ryb3MtcHJvZHVjdG9zL1BhZ2VzL2NvcGEtY2FyZ28uYXNweB8EZx8NZx8OBTUvc2l0ZXMvY2MvZXMvbnVlc3Ryb3MtcHJvZHVjdG9zL3BhZ2VzL2NvcGEtY2FyZ28uYXNweB8PZ2QUKwACFg4fCwUMQ29wYSBDb3VyaWVyHwwFDENvcGEgQ291cmllch8QBRtodHRwOi8vd3d3LmNvcGFjb3VyaWVyLmNvbS8fBGcfDWcfDgUbaHR0cDovL3d3dy5jb3BhY291cmllci5jb20vHw9nZBQrAAIWDh8LBQVIb3RlbB8MBQVIb3RlbB8QBTAvc2l0ZXMvQ0MvZXMvTnVlc3Ryb3MtUHJvZHVjdG9zL1BhZ2VzL2hvdGVsLmFzcHgfBGcfDWcfDgUwL3NpdGVzL2NjL2VzL251ZXN0cm9zLXByb2R1Y3Rvcy9wYWdlcy9ob3RlbC5hc3B4Hw9nZBQrAAIWDh8LBQRBdXRvHwwFBEF1dG8fEAU4L3NpdGVzL0NDL2VzL051ZXN0cm9zLVByb2R1Y3Rvcy9QYWdlcy9hbHF1aWxlci1hdXRvLmFzcHgfBGcfDWcfDgU4L3NpdGVzL2NjL2VzL251ZXN0cm9zLXByb2R1Y3Rvcy9wYWdlcy9hbHF1aWxlci1hdXRvLmFzcHgfD2dkFCsAAhYOHwsFD1NlZ3VybyBkZSB2aWFqZR8MBQ9TZWd1cm8gZGUgdmlhamUfEAU6L3NpdGVzL0NDL2VzL051ZXN0cm9zLVByb2R1Y3Rvcy9QYWdlcy9zZWd1cm8tZGUtdmlhamUuYXNweB8EZx8NZx8OBTovc2l0ZXMvY2MvZXMvbnVlc3Ryb3MtcHJvZHVjdG9zL3BhZ2VzL3NlZ3Vyby1kZS12aWFqZS5hc3B4Hw9nZBQrAAIWDh8LBQdPbmVQYXNzHwwFB09uZVBhc3MfEAUnL1NpdGVzL2NjL2VzL09uZVBhc3MvcGFnZXMvb25lcGFzcy5hc3B4HwRnHw1nHw4FJy9zaXRlcy9jYy9lcy9vbmVwYXNzL3BhZ2VzL29uZXBhc3MuYXNweB8PZxQrAAYFEzA6MCwwOjEsMDoyLDA6MywwOjQUKwACFg4fCwUcQWbDrWxpZXNlIG8gcmV2aXNlIHN1IGN1ZW50YR8MBRxBZsOtbGllc2UgbyByZXZpc2Ugc3UgY3VlbnRhHxAFP2h0dHBzOi8vd3d3LmNvbnRpbmVudGFsLmNvbS93ZWIvZXMvY29udGVudC9vbmVwYXNzL2RlZmF1bHQuYXNweB8EZx8NZx8OBT9odHRwczovL3d3dy5jb250aW5lbnRhbC5jb20vd2ViL2VzL2NvbnRlbnQvb25lcGFzcy9kZWZhdWx0LmFzcHgfD2dkFCsAAhYOHwsFDU5pdmVsZXMgRWxpdGUfDAUNTml2ZWxlcyBFbGl0ZR8QBS0vc2l0ZXMvQ0MvZXMvT25lUGFzcy9QYWdlcy9OaXZlbGVzLUVsaXRlLmFzcHgfBGcfDWcfDgUtL3NpdGVzL2NjL2VzL29uZXBhc3MvcGFnZXMvbml2ZWxlcy1lbGl0ZS5hc3B4Hw9nZBQrAAIWDh8LBQ5BY3VtdWxlIG1pbGxhcx8MBQ5BY3VtdWxlIG1pbGxhcx8QBS8vc2l0ZXMvQ0MvZXMvT25lUGFzcy9QYWdlcy9BY3VtdWxhci1NaWxsYXMuYXNweB8EZx8NZx8OBS8vc2l0ZXMvY2MvZXMvb25lcGFzcy9wYWdlcy9hY3VtdWxhci1taWxsYXMuYXNweB8PZ2QUKwACFg4fCwUSVXRpbGljZSBzdXMgbWlsbGFzHwwFElV0aWxpY2Ugc3VzIG1pbGxhcx8QBTMvc2l0ZXMvQ0MvZXMvT25lUGFzcy9QYWdlcy9VdGlsaXphci1zdXMtTWlsbGFzLmFzcHgfBGcfDWcfDgUzL3NpdGVzL2NjL2VzL29uZXBhc3MvcGFnZXMvdXRpbGl6YXItc3VzLW1pbGxhcy5hc3B4Hw9nZBQrAAIWDh8LBQ1WdWVsb3MgcHJlbWlvHwwFDVZ1ZWxvcyBwcmVtaW8fEAVHaHR0cDovL3d3dy5jb250aW5lbnRhbC5jb20vd2ViL2VzL2FwcHMvYm9va2luZy9mbGlnaHQvc2VhcmNoUmV3YXJkLmFzcHgfBGcfDWcfDgVHaHR0cDovL3d3dy5jb250aW5lbnRhbC5jb20vd2ViL2VzL2FwcHMvYm9va2luZy9mbGlnaHQvc2VhcmNocmV3YXJkLmFzcHgfD2dkZAIcD2QWBAIDEGRkFgJmDw8WAh8BaGRkAgUQZGQWAmYPDxYCHwFoZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFI2N0bDAwJFNlYXJjaFBhcnQxJHNlYXJjaEltYWdlQnV0dG9u28GKiOFBRlqgWU/MsuP/fkKK9XA=" />
+
+<script> var MSOWebPartPageFormName = 'aspnetForm';</script>
+<script src="/WebResource.axd?d=7cnV4-vH_vK4i3sCu0i0mg2&amp;t=634595593157038019" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDgLc8ZKHBgLg0L3/DgLe0L3/DgKBv9+PAgKCv5uPAgKCv4ePAgKCv5OPAgK0v+OPAgK8v7eOAgKvv5uPAgK1v6uPAgKGv+OPAgL2gYTOAQKx88/7B96d4e0S6qTZTGd/gXamAlQNMMtd" />
+    
+    <table cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+            <td colspan="2" class="authoringRegion">
+                <span class="siteActionMenu">
+                    
+<!-- Begin Action Menu Markup -->
+<table height=100% class="ms-siteaction" cellpadding=0 cellspacing=0>
+	<tr>
+					   <td class="ms-siteactionsmenu" id="siteactiontd">
+					   
+					</td>
+	</tr>
+</table>
+
+
+<!-- End Action Menu Markup -->
+
+                </span>
+                <div class="sharepointLogin">
+                    <!--Authentication for Authors only-->
+                    <table cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td class="ms-globallinks">
+                                
+
+
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </td>
+        </tr>
+    </table>
+    
+    
+    <div id="pageContainer">
+        <div id="main">
+            <div id="banner" style="float: left; _height: 85px;" class="hide_element">
+               <div id="copaLogo">
+                <a href='/sites/US/ES/pages/homepage.aspx' target='_self'><img id='_self' src='/_layouts/1033/IMAGES/Copa_img/logo_copa.gif' width='183' height='70' alt='P?gina de Inicio' title='P?gina de Inicio' class='logo' /></a>
+                </div>
+                <div id="languageAndContactBox">
+                <div id="language_select">
+	<ul class="sitebar">
+	<li><a href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ChangeStoreFrontPart1$ctl00&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">English</a></li><li><span>Espa?ol</span></li><li class="last"><a href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ChangeStoreFrontPart1$ctl02&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Portugu?s</a></li><li class="last Select"><select name="ctl00$ChangeStoreFrontPart1$ctl03" name="menupaises" id="menupaises" style="padding-left:0px;margin-left:0px;">
+	<option value="BR" title="/_layouts/1033/images/copa_img/flags/br-flag.gif">Brasil</option>
+	<option value="CA" title="/_layouts/1033/images/copa_img/flags/ca-flag.gif">Canada</option>
+	<option value="CL" title="/_layouts/1033/images/copa_img/flags/cl-flag.gif">Chile</option>
+	<option value="CO" title="/_layouts/1033/images/copa_img/flags/co-flag.gif">Colombia </option>
+	<option selected="selected" value="US" title="/_layouts/1033/images/copa_img/flags/us-flag.gif">Estados Unidos</option>
+	<option value="MX" title="/_layouts/1033/images/copa_img/flags/mx-flag.gif">M&#233;xico</option>
+	<option value="PA" title="/_layouts/1033/images/copa_img/flags/pa-flag.gif">Panama</option>
+	<option value="VE" title="/_layouts/1033/images/copa_img/flags/ve-flag.gif">Venezuela</option>
+	<option value="GS" title="/_layouts/1033/images/copa_img/flags/gs-flag.gif">Otros Pa&#237;ses</option>
+
+</select></li><li class="last Select"><div class="remember_language">
+	<input id="rememberCheckBox" type="checkbox" name="rememberCheckBox" checked="checked" onclick="SaveCookie('US','ES','rememberCheckBox','.copaair.com');" /><label for="rememberCheckBox">Recordar</label>
+</div></li><div class='right_edge'></div>
+</ul>
+</div><script type="text/javascript">
+	RenderDropDownListStoreFronts();
+</script>
+                <ul id="sitebar">
+                    <li class="istop">
+                        <a href='/sites/cc/es/Acerca-de-Copa-Airlines/Pages/Contactenos.aspx' class='customerService' >Cont?ctenos</a>
+                    </li>
+                    <li class="last" stlye="padding-right:4px;">
+                        <div>
+	<span id="ctl00_DefaultPhoneContactPart1_DefaultPhoneContactPart1" class=" spanmargin">800 359 2672</span>
+</div>
+                    </li>
+                </ul>
+                </div>
+                <div id="loginAndSearchBox">
+                
+                    <div id="loginBox">
+                    <div class="modalPopup" id="loginPopup" style="display: none; position: relative; top: 55px; left: 430px; float: left;">
+	<span><h4 style="text-align:left;">
+	<span>Login</span>
+</h4></span><a id="closeLoginPopupLink" class="close" onclick="cerrar('','',''); return false;" href="#">Cerrar</a><iframe src="http://www.copaair.com/Sites/cc/es/_layouts/validate.aspx" id="ifrmLogin" name="ifrmLogin" frameborder="0" style="height: 254px;width:230px;float:left!important;">
+
+</iframe>
+</div>
+                    
+                    
+                    <a id="loginPopupLink" onclick="abrir('loginPopupLink');" href="#">Acceda a su cuenta</a>
+                    </div>
+                    
+                     <div id="ctl00_SearchPart1_searchPanel" class="searchPanel">
+	<input type="image" name="ctl00$SearchPart1$searchImageButton" id="ctl00_SearchPart1_searchImageButton" class="searchButton" src="/_layouts/1033/IMAGES/Copa_img/btn_search.gif" onclick="return ChangeText('ctl00_SearchPart1_searchTextBox','Introducir texto');WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$SearchPart1$searchImageButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" border="0" /><input name="ctl00$SearchPart1$searchTextBox" type="text" maxlength="30" id="ctl00_SearchPart1_searchTextBox" class="text" onClick="return ClickText('ctl00_SearchPart1_searchTextBox')" Autocomplete="On" />
+</div><script type="text/javascript">$('.searchPanel').css({'margin-top':'25px'});</script>
+                    
+               </div>
+               
+            </div>
+            <div id="fade" class="overlay">
+            </div>
+            <br class="brclear" />
+            
+				<table class="ms-bannerframe" border="0" cellspacing="0" cellpadding="0" width="100%">
+                    <tr>
+                        <td nowrap valign="middle">
+                        </td>
+                        <td class="ms-banner" width="99%" nowrap id="HBN100">
+                            
+								<ul id="navigation">
+	<li class="first parent">
+	<a class="expand" href="#">Reservaciones</a><ul id="box__1" class="subnavigation box">
+
+		<li><a href="javascript:__doPostBack('ctl00$PlaceHolderTopNavBar$PlaceHolderHorizontalNav$MenuPart1$ctl00','https://bookings.copaair.com/CMGS/AirSearchExternalForward.do?tripType=RT@S')">Reserve su vuelo</a></li><li><a href="/sites/cc/es/manage-your-reservation/Pages/landing-page.aspx">Mis viajes</a></li><li><a href="http://eservices.copaair.com/WebCheckIn/EnterInfoWC.aspx">Web Check-In</a></li><li><a href="javascript:__doPostBack('ctl00$PlaceHolderTopNavBar$PlaceHolderHorizontalNav$MenuPart1$ctl00','https://bookings.copaair.com/CMGS/ProfileIndexPageForwardAction.do@S')">Crear o actualizar mi perfil</a></li><li><a href="/sites/cc/es/informacion-de-viaje/Pages/Reembolsos.aspx">Reembolsos</a></li>
+	</ul>
+	</li><li class="parent">
+	<a class="expand" href="#">Informaci?n y servicios</a><ul id="box__2" class="subnavigation box">
+
+		<li><a href="/Sites/cc/es/Informacion-de-viaje/Pages/Mapa-de-Rutas.aspx">A d?nde volamos</a></li><li><a href="/Sites/cc/es/Informacion-de-viaje/Pages/Su-Equipaje.aspx">Equipaje</a></li><li><a href="/Sites/CC/ES/Pages/timatic.aspx">Requisitos migratorios</a></li><li><a href="/Sites/CC/es/Informacion-de-viaje/Pages/Servicios-Especiales-Para-Pasajeros.aspx">Necesidades especiales de viaje</a></li><li><a href="/Sites/CC/es/Informacion-de-viaje/Pages/Durante-el-Vuelo.aspx">A bordo</a></li><li><a href="/sites/cc/es/flight-information/pages/flight-status.aspx">Ver estado de vuelos</a></li><li><a href="/sites/cc/es/flight-information/pages/timetables.aspx">Ver itinerarios</a></li>
+	</ul>
+	</li><li class="parent">
+	<a class="expand" href="#">Ofertas y promociones</a><ul id="box__3" class="subnavigation box">
+
+		<li><a href="javascript:__doPostBack('ctl00$PlaceHolderTopNavBar$PlaceHolderHorizontalNav$MenuPart1$ctl00','/sites/{country}/es/deals-and-offers/pages/web-deals.aspx@D')">Ofertas Irresistibles</a></li><li><a href="javascript:__doPostBack('ctl00$PlaceHolderTopNavBar$PlaceHolderHorizontalNav$MenuPart1$ctl00','/sites/{country}/es/deals-and-offers/pages/periodic-promotions.aspx@D')">Promociones</a></li>
+	</ul>
+	</li><li class="parent">
+	<a class="expand" href="#">Productos</a><ul id="box__4" class="subnavigation box">
+
+		<li><a href="/Sites/CC/es/Nuestros-productos/Pages/Hub-de-las-Americas.aspx">Hub de las Am?ricas</a></li><li><a href="/Sites/CC/es/Nuestros-productos/Pages/copa-Club.aspx">Copa Club</a></li><li><a href="/Sites/CC/es/Nuestros-productos/Pages/Clase-Ejecutiva.aspx">Clase Ejecutiva</a></li><li><a href="/Sites/cc/es/Nuestros-productos/Pages/Nuestra-flota.aspx">Flota</a></li><li><a href="/Sites/cc/es/Nuestros-productos/Pages/Alianzas.aspx">Alianzas</a></li><li><a href="/sites/cc/es/Nuestros-Productos/Pages/Programa-Corporativo.aspx">Programa Corporativo</a></li><li><a href="/sites/cc/es/Nuestros-Productos/Pages/Copa-Convenciones.aspx">Copa Convenciones</a></li><li><a href="/sites/cc/es/nuestros-productos/pages/copa-vacations.aspx">Copa Vacations</a></li><li><a href="/sites/cc/es/nuestros-productos/Pages/copa-cargo.aspx">Copa Cargo</a></li><li><a href="http://www.copacourier.com/">Copa Courier</a></li><li><a href="/sites/CC/es/Nuestros-Productos/Pages/hotel.aspx">Hotel</a></li><li><a href="/sites/CC/es/Nuestros-Productos/Pages/alquiler-auto.aspx">Auto</a></li><li><a href="/sites/CC/es/Nuestros-Productos/Pages/seguro-de-viaje.aspx">Seguro de viaje</a></li>
+	</ul>
+	</li><li class="last parent">
+	<a class="expand" href="/Sites/cc/es/OnePass/pages/onepass.aspx">OnePass</a><ul id="box__5" class="subnavigation box">
+
+		<li><a href="https://www.continental.com/web/es/content/onepass/default.aspx">Af?liese o revise su cuenta</a></li><li><a href="/sites/CC/es/OnePass/Pages/Niveles-Elite.aspx">Niveles Elite</a></li><li><a href="/sites/CC/es/OnePass/Pages/Acumular-Millas.aspx">Acumule millas</a></li><li><a href="/sites/CC/es/OnePass/Pages/Utilizar-sus-Millas.aspx">Utilice sus millas</a></li><li><a href="http://www.continental.com/web/es/apps/booking/flight/searchReward.aspx">Vuelos premio</a></li>
+	</ul>
+	</li>
+</ul>
+                            
+                        </td>
+                    </tr>
+                </table>
+                <div class='divErrorHeightIE6' id="error"  style="display:none;" >
+<img src="/_layouts/1033/images/copa_img/error.gif" alt="Error" id="errorImg" /><ul id = 'ulerror'>
+  <li id="liError"></li>
+</ul>
+<br class="brclear" /></div>
+            
+            
+	<!--<div class="breadcrumb"><span id="ctl00_PlaceHolderTitleBreadcrumb_ContentMap"><span><a class="ms-sitemapdirectional" href="/sites/CC/es">Espa&#241;ol</a></span><span> &gt; </span><span><a class="ms-sitemapdirectional" href="/sites/CC/es/Acerca-de-Copa-Airlines">Acerca de Copa Airlines</a></span><span> &gt; </span><span><a class="ms-sitemapdirectional" href="/sites/CC/es/Acerca-de-Copa-Airlines/Pages/Forms/AllItems.aspx">Pages</a></span><span> &gt; </span><span class="breadcrumbCurrent">Nuestras-Oficinas.aspx</span></span></div>-->
+	<!--<div class="breadcrumb hide_element">
+	<span id="ctl00_PlaceHolderTitleBreadcrumb_smapContentLayout_ContentMap"><span><a href="http://www.copaair.com/sites/gs/es/pages/homepage.aspx">Inicio</a></span><span> &gt; </span><span>Nuestras Oficinas</span></span>
+</div>-->
+
+            
+
+
+	
+
+
+	
+	
+	<div id="leftCol">
+			<h2 class="pageTitle"><!-- InstanceBeginEditable name="articleTitle" -->Oficinas de Venta y Centros de Reservaciones <!-- InstanceEndEditable --></h2>
+<div class="headerTextBlock"><!-- InstanceBeginEditable name="articleDescription" -->
+<div>Un <a href="cargo-adminsitrativo.aspx">cargo administrativo</a> puede aplicar al comprar en nuestras Oficinas de Venta y aeropuertos.</div>
+<!-- InstanceEndEditable --></div>
+<!-- InstanceBeginRepeat name="articleRepeatBlocks" --><!-- InstanceBeginRepeatEntry -->
+<div class="articleBlock">
+<div class="articleImage"><!-- InstanceBeginEditable name="articleBlockImage" --><!-- InstanceEndEditable --></div>
+<div class="articleTitle"><!-- InstanceBeginEditable name="articleBlockTitle" --><strong>Oficinas en America</strong> <!-- InstanceEndEditable --></div>
+<div class="articleContent"><!-- InstanceBeginEditable name="articleBlockDescription" --> 
+<table border="0" cellspacing="1" cellpadding="5" width="639">
+<tbody>
+<tr style="background-color: #004982;" valign="top">
+<th class="articleTitle" colspan="3" valign="middle" scope="col"><span style="color: #ffffff;">Oficinas de Ventas</span></th><th class="articleTitle" rowspan="2" width="25%" valign="middle" scope="col"><span style="color: #ffffff;">Centros de<br />Reservaciones</span></th>
+</tr>
+<tr style="background-color: #004982;" valign="top">
+<th class="articleTitle" width="21%" valign="middle" scope="col"><span style="color: #ffffff;">Ciudad</span></th><th class="articleTitle" width="26%" valign="middle" scope="col"><span style="color: #ffffff;">Direcci&oacute;n</span></th><th class="articleTitle" width="28%" valign="middle" scope="col"><span style="color: #ffffff;">Horarios</span></th>
+</tr>
+</tbody>
+</table>
+<table style="height: 3521px;" border="0" cellspacing="0" cellpadding="5" width="639">
+<tbody>
+<tr valign="top">
+<td valign="middle">ASUNCI&Oacute;N<br /><strong>Paraguay</strong></td>
+<td valign="middle">Ave. Boggiani Esq. Cap. Nudelman<br />Edificio Boggiani, Planta&nbsp;Baja</td>
+<td style="text-align: center;" valign="middle">Lun - Vie<br />8:30am-6:30pm<br />S&aacute;b<br />8:30am-12:30pm&nbsp;</td>
+<td valign="middle"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />0098005420074<br />No disponible desde celular</td>
+</tr>
+<tr valign="top">
+<td width="21%" valign="middle" bgcolor="#e5ecf2">BARRANQUILLA<br /><strong>Colombia</strong></td>
+<td width="26%" valign="middle" bgcolor="#e5ecf2">Calle 70, No. 57-11, Local 101-102, Edf. Parque La Inmaculada</td>
+<td style="text-align: center;" width="28%" valign="middle" bgcolor="#e5ecf2">Lun - Vie<br />8:00am-6:00pm<br />S&aacute;b<br />9:00am-1:00pm</td>
+<td width="25%" valign="middle" bgcolor="#e5ecf2"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" /><span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">(575) 368 4040</span></td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2">PRINCIPAL<br />Calle 72 N. 54 - 49 Local 1 y 2</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie<br />8:00am-6:00pm<br />S&aacute;b<br />9:00am-1:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2">BUENAVISTA<br />Carrera 53 No. 98&ndash;99 Esquina Sotano I</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie<br />9:30am-7:30pm<br />S&aacute;b<br />10:00am-6:00pm<br />Dom y Fes<br />10:00am-4:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2">TORCOROMA<br />Cra 51B No. 84 -100 Local - 4 Centro Comercial Torcoroma Plaza</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie<br />8:00am-6:00pm<br />S&aacute;b<br />9:00am-1:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2">PORTAL PRADO<br />Calle 53 No. 46 &ndash; 192 Nivel 1</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie<br />9:30am-7:30pm<br />S&aacute;b<br />10:00am-6:00pm<br />Dom y Fes<br />10:00am-4:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle" bgcolor="#ffffff">BELO HORIZONTE<br /><strong>Brasil</strong></td>
+<td valign="middle" bgcolor="#ffffff">Av. Bias Fortes, 472 - Lourdes Cep: 30170-010</td>
+<td style="text-align: center;" valign="middle" bgcolor="#ffffff">Lun-Vie<br />9:00am - 6:00pm</td>
+<td valign="middle" bgcolor="#ffffff"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />0800 771 COPA (2672)</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#e5ecf2">BOGOT&Aacute;<br /><strong>Colombia</strong></td>
+<td valign="middle" bgcolor="#e5ecf2">Carrera 9A No 99-02 Local 108 Edificio Citibank</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie<br />8:00am-6:00pm<br />S&aacute;b<br />8:00am-12:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" /><span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">(571) 320 9090</span></td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2">CENTRO INTERNACIONAL <br />Cra 10 No. 27-51 Loc. 165</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie<br />8:00am-6:00pm<br />S&aacute;b<br />9:00am-12:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2">GALER&Iacute;AS <br />Calle 53 No. 21-56</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie<br />8:00am-6:00pm<br />S&aacute;b<br />9:00am-12:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2">CALLE 97 <br />Diag 97 N&ordm; 17-60 Local 101</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie<br />8:00am-6:00pm<br />S&aacute;b<br />9:00am-12:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2">CALLE 76 <br />Cra 11 No. 76-57 Local 101</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie<br />8:00am-6:00pm<br />S&aacute;b<br />9:00am-12:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2">CEDRITOS <br />Av. 19 No. 148-06</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie<br />8:00am-6:00pm<br />S&aacute;b<br />9:00am-12:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2">HACIENDA SANTA BARBARA <br />Calle 114 No. 6-92 Int.D Local D321 Centro Ccial Hda Santa Barbara</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie<br />8:30am-6:30pm<br />S&aacute;b<br />10 :00am-1:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2">UGI<br />Calle 40 A No. 13 - 13 Piso 1 Edificio UGI</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie<br />8:00am-6:00pm<br />S&aacute;b<br />9:00am-12:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2">FONTIBON<br />Cra 103 No. 25 F- 12<br /></td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie<br />8:00am-6:00pm<br />S&aacute;b<br />9:00am-12:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2">GRAN ESTACION <br />Centro Comercial Gran Estacion Entrada N.1</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Mi&eacute;<br />10:30am-8:30pm<br />Jue - S&aacute;b<br />10:00am-9:30pm<br />Dom y Fes<br />11:00am-8:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2">BULEVAR <br />Centro Comercial Bulevar Niza , 1 piso Plaza Cenrtral</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - S&aacute;b<br />10:00am-8:00pm<br />Dom y Fes<br />11:00am-6:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2">PLAZA DE LAS AMERICAS <br />Centro Comercial Plaza de las Americas, Entrada 3</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - S&aacute;b<br />10:00am-8:00pm<br />Dom y Fes<br />11:00am-7:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2">AEROPUERTO EL DORADO <br />Aeropuerto El Dorado Entrada 5, Front Office 27,28. <br />Entrada 1, Front Office 7.</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - S&aacute;b<br />5:00am-9:00pm<br />Dom y Fes<br />6:00am-2:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2">CENTRO COMERCIAL UNICENTRO<br />Piso 1, Local 1-01, Salida No. 8.</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie<br />9:00am-8:00pm<br />S&aacute;b<br />10:00am-7:00pm<br />Dom<br />10:00am-4:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2">CENTRO COMERCIAL CENTRO MAYOR<br />1 Piso, Pasillo Contorsionista<br />Entre estradas 1-2.</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - S&aacute;b<br />10:00am-8:00pm<br />Dom y Fes<br />11:00am-6:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle" bgcolor="#ffffff">BRASILIA<br /><strong>Brasil</strong></td>
+<td valign="middle" bgcolor="#ffffff">Aeropuerto Internacional Juscelino Kubitschek S/N &Aacute;rea Especial - Lago Sul, Mezanino Companhias a&eacute;reas, Ala sul</td>
+<td style="text-align: center;" valign="middle" bgcolor="#ffffff">Lun - Vie<br />9:00am - 6:00pm</td>
+<td valign="middle" bgcolor="#ffffff">0800 771 2672</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle" bgcolor="#e5ecf2">BUCARAMANGA<br /><strong>Colombia</strong></td>
+<td valign="middle" bgcolor="#e5ecf2">PRINCIPAL <br />Carrera 35 No.54-114</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie<br />8:00am-6:00pm <br />S&aacute;b <br />8:30am-12:30pm</td>
+<td valign="middle" bgcolor="#e5ecf2"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" /><span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">(577) 643 0222</span></td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2">CENTRO <br />Calle 36 No. 18-61</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie<br />8:00am-6:00pm <br />S&aacute;b <br />8:30am-12:30pm</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2">LA FLORIDA<br />Calle 31 No. 26A-19 Centro Comercial La Florida&nbsp;4 Piso, parqueadero</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - S&aacute;b<br />10:00am-8:00pm <br />Dom y Fes <br />10:00am-6:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#ffffff">BUENOS AIRES<br /><strong>Argentina</strong></td>
+<td valign="middle" bgcolor="#ffffff">Emma de la Barra 353 Piso 7, Puerto Madero Este, Buenos Aires.</td>
+<td style="text-align: center;" valign="middle" bgcolor="#ffffff">Lun - Vie <br />9:00am-5:00pm</td>
+<td valign="middle" bgcolor="#ffffff"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />0810 222 COPA (2672)</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle" bgcolor="#e5ecf2">CALI<br /><strong>Colombia</strong></td>
+<td valign="middle" bgcolor="#e5ecf2">CALLE 26 NORTE Nro. 6N &ndash; 16</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie <br />8:00am-6:00pm<br />S&aacute;b<br />9:00am-12:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" /><span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">(572) 660 1000</span></td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2">SUR <br />Cr 44 No. 8A - 03 Barrio Los Cambulos Local 8</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie<br />8:00am-6:00pm <br />S&aacute;b <br />9:00am-12:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2">LA 14 CALIMA <br />Almacen La 14, Carrera 1 Calle 70</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - S&aacute;b<br />8:00am-7:00pm <br />Dom y Fes <br />11:00am-6:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2">LA 14 PASO ANCHO <br />Almacen La 14 PASO ANCHO</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - S&aacute;b<br />9:00am-7:00pm <br />Dom y Fes <br />11:00am-6:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2">CENTRO COMERCIAL CHIPICHAPE<br />Calle 38 norte No. 6N-5 Of. 8-209</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vier<br />8:00am-7:00pm <br />S&aacute;b <br />9:00am-6:00pm <br />Dom y Fes <br />11:00am-6:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#ffffff">CANC&Uacute;N<br /><strong>M&eacute;xico</strong></td>
+<td valign="middle" bgcolor="#ffffff">Aeropuerto de Canc&uacute;n Mezanine. Oficina No. 43</td>
+<td valign="middle" bgcolor="#ffffff">&nbsp;</td>
+<td valign="middle" bgcolor="#ffffff"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />01 800 265 COPA (2672)</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td bgcolor="#e5ecf2">CARACAS<br /><strong>Venezuela</strong></td>
+<td bgcolor="#e5ecf2">Ave. Francisco Miranda, Centro Lido, Nivel Miranda, Local 22 - Urb. El Rosal.</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie<br />8:00am - 6:00pm<br />Sab<br />9:00am - 2:00pm</td>
+<td bgcolor="#e5ecf2"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />0 <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">800 826 7200</span><br /></td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle" bgcolor="#e5ecf2"><br /></td>
+<td style="text-align: left;" valign="middle" bgcolor="#e5ecf2">Plaza Las Am&eacute;ricas, 2&ordf; Etapa, Nivel Planta Baja local PB-1, Final del Bulevar Ra&uacute;l Leoni de la Urbanizaci&oacute;n El Cafetal, Municipio Baruta, Caracas</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Sab<br />10:00am-8:00pm<br />Dom<br />1:00pm-7:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#ffffff">CARTAGENA<br /><strong>Colombia</strong></td>
+<td valign="middle" bgcolor="#ffffff">PRINCIPAL <br />Cra 3 N0. 8 - 116 Bocagrande</td>
+<td style="text-align: center;" valign="middle" bgcolor="#ffffff">Lun - Vie<br />8:00am-12:00pm <br />2:00pm-6:00pm<br />Sab <br />9:00am-1:00pm</td>
+<td valign="middle" bgcolor="#ffffff"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" /><span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">(575) 665 8495</span></td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#ffffff">&nbsp;</td>
+<td valign="middle" bgcolor="#ffffff">CENTRO <br />Calle de Cabo, Centro Comercial Invercredito Local 18</td>
+<td style="text-align: center;" valign="middle" bgcolor="#ffffff">Lun - Vie<br />8:00am-12:00pm <br />2:00pm-6:00pm<br />Sab <br />9:00am-1:00pm</td>
+<td valign="middle" bgcolor="#ffffff">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#ffffff">&nbsp;</td>
+<td valign="middle" bgcolor="#ffffff">CARIBE PLAZA <br />Centro Comercial Caribe Plaza Entrada Av El Lago 1 piso</td>
+<td style="text-align: center;" valign="middle" bgcolor="#ffffff">Lun - Vie <br />10:00am-8:00pm <br />Sab <br />10:00am-6:00pm <br />Dom y Fes <br />10:00am-4:00pm</td>
+<td valign="middle" bgcolor="#ffffff">&nbsp;</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle" bgcolor="#e5ecf2">C&Oacute;RDOBA<br /><strong>Argentina</strong></td>
+<td valign="middle" bgcolor="#e5ecf2">Av. Dr V&eacute;lez Sarsfield 478 - B&deg; Nueva C&oacute;rdoba</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie <br />9:00am-5:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />0810 222 COPA (2672)</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#ffffff">C&Uacute;CUTA<br /><strong>Colombia</strong></td>
+<td valign="middle" bgcolor="#ffffff">PRINCIPAL <br />Calle 15 N0. 0 E - 18 Barrio los Caobos</td>
+<td style="text-align: center;" valign="middle" bgcolor="#ffffff">Lun - Vie<br />8:00am-6:00pm <br />Sab <br />9:00am-1:00pm</td>
+<td valign="middle" bgcolor="#ffffff"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />0180 0011 2600</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#ffffff">&nbsp;</td>
+<td valign="middle" bgcolor="#ffffff">CENTRO COMERCIAL UNICENTRO <br />Av. Libertadores Canal Bogot&aacute; (S&oacute;tano de Carrefour)</td>
+<td style="text-align: center;" valign="middle" bgcolor="#ffffff">Lun - Jue<br />10:00am-8:00pm <br />Vie - Sab <br />10:00am-9:00pm <br />Dom y Fes <br />11:00am-7:00pm</td>
+<td valign="middle" bgcolor="#ffffff">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#ffffff">&nbsp;</td>
+<td valign="middle" bgcolor="#ffffff">Centro Comercial Ventura Plaza Sotano Estacionamiento</td>
+<td style="text-align: center;" valign="middle" bgcolor="#ffffff">Lun - Jue <br />10:00am-8:00pm <br />Vie - Sab <br />10:00am-9:00pm <br />Dom y Fes <br />11:00am-7:00pm</td>
+<td valign="middle" bgcolor="#ffffff">&nbsp;</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle" bgcolor="#e5ecf2">CUENCA<br /><strong>Ecuador</strong></td>
+<td valign="middle" bgcolor="#e5ecf2">Pasaje Paucarbamba, Entre Miguel Cordero y Av. Paucarbamba, Edificio Work Center, Planta Baja N&deg;.9</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie <br />8:00am-6:00pm<br />Sab<br />8:00am-2:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />(5937) 288 4410<br /><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />(5937) 281 2022</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#ffffff">GUADALAJARA<br /><strong>M&eacute;xico</strong></td>
+<td valign="middle" bgcolor="#ffffff">Hotel Presidente Intercontinental, Planta Baja, Ave. L&oacute;pez Mateos Sur y Moctezuma 3515</td>
+<td style="text-align: center;" valign="middle" bgcolor="#ffffff">Lun - Vie <br />9:00am-6:00pm<br />Sab<br />9:00am-1:00pm</td>
+<td valign="middle" bgcolor="#ffffff"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />01 -800 265 COPA (2672)</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle" bgcolor="#e5ecf2">GUATEMALA <br /><strong>Guatemala</strong></td>
+<td valign="middle" bgcolor="#e5ecf2">5 avenida 5-55 zona 14<br />Edificio Europlaza Torre 3 Planta Baja, Oficina 102 <br />Guatemala, Guatemala</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie <br />8:00am-6:00pm<br />Sab<br />8:00am-12:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />(502) 2312 5410</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#ffffff">GUAYAQUIL<br /><strong>Ecuador</strong></td>
+<td valign="middle" bgcolor="#ffffff">Avenida 9 de Octubre y Malec&oacute;n Sim&oacute;n Bol&iacute;var, Edf. Banco La Previsora, Piso 25, Oficina 4</td>
+<td style="text-align: center;" valign="middle" bgcolor="#ffffff">Lun - Vie <br />8:00am-6:00pm<br />Sab<br />8:00am-2:00pm</td>
+<td valign="middle" bgcolor="#ffffff"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />(5934) 230 3211<br /><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />(5934) 230 3000</td>
+</tr>
+<tr>
+<td bgcolor="#ffffff">&nbsp;</td>
+<td valign="middle" bgcolor="#ffffff">Village Plaza Centro Comercial, Km 1.5 V&iacute;a Samborond&oacute;n Primer Piso</td>
+<td style="text-align: center;" valign="middle" bgcolor="#ffffff">Lun - Sab<br />10:00am-9:00pm<br />Dom <br />10:00am-8:00pm</td>
+<td valign="middle" bgcolor="#ffffff">&nbsp;</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle" bgcolor="#e5ecf2">KINGSTON<br /><strong>Jamaica</strong></td>
+<td valign="middle" bgcolor="#e5ecf2">The Jamaica Pegasus, George William Gordon Suite , 81 Knustford Boulevard.</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie <br />8:30am-6:30pm</td>
+<td valign="middle" bgcolor="#e5ecf2"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />1 800 234 COPA (2672)</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#ffffff">LA HABANA<br /><strong>Cuba</strong></td>
+<td valign="middle" bgcolor="#ffffff">5ta. Ave. Entre calle 76 y 78, Edificio Barcelona, Miramar Trade Center, Planta Baja Municipio Playa</td>
+<td style="text-align: center;" valign="middle" bgcolor="#ffffff">Lun - Vie <br />8:30am-5:00pm<br />Sab<br />9:00am-1:00pm</td>
+<td valign="middle" bgcolor="#ffffff"><span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">(537) 204 1111</span></td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle" bgcolor="#e5ecf2">LETICIA<br /><strong>Colombia</strong></td>
+<td valign="middle" bgcolor="#e5ecf2">PRINCIPAL<br />Calle 7 N0. 10 - 36</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie<br />8:00am-5:00pm<br />Sab<br />9:00am-1:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />0180 0011 2600</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#ffffff">LIMA<br /><strong>Per&uacute;</strong></td>
+<td valign="middle" bgcolor="#ffffff">Centro Empresarial, Torre Chocavento, Oficina 105, San Isidro y Esquina Canaval y Moreyra c/ Los Halcones</td>
+<td style="text-align: center;" valign="middle" bgcolor="#ffffff">Lun - Vie <br />8:30am-6:30pm<br />Sab<br />9:00am-1:00pm</td>
+<td valign="middle" bgcolor="#ffffff"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" /><span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">(511) 610 0808</span></td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle" bgcolor="#e5ecf2">LOS &Aacute;NGELES <br /><strong>Estados Unidos</strong></td>
+<td valign="middle" bgcolor="#e5ecf2">Aeropuerto Internacional Los Angeles, T-6 600 World Way</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />1 800 FLY COPA (359 2672)</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#ffffff">MANAGUA<br /><strong>Nicaragua</strong></td>
+<td valign="middle" bgcolor="#ffffff">Planes de Altamira, #6, Edificio Car</td>
+<td style="text-align: center;" valign="middle" bgcolor="#ffffff">Lun - Vie <br />8:00am-6:00pm<br />Sab<br />8:00am-1:00pm</td>
+<td valign="middle" bgcolor="#ffffff"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />(505) 2267 0045</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle" bgcolor="#e5ecf2">MANAOS<br /><strong>Brasil</strong></td>
+<td valign="middle" bgcolor="#e5ecf2">Av. Eduardo Ribeiro, 654 loja 6. Edificio Zulmira Bittencourt Centro - Cep: 69010-001</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie <br />9:00am-6:00pm<br />Sab<br />9:00am-1:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2">0800-771-COPA (2672)</td>
+</tr>
+<tr valign="top">
+<td bgcolor="#ffffff">MARACAIBO<br /><strong>Venezuela</strong></td>
+<td valign="middle" bgcolor="#ffffff">Calle 78 con Av 3E,<br />Centro Comercial Kalakawa, Local #8</td>
+<td style="text-align: center;" valign="middle" bgcolor="#ffffff">&nbsp;Lun - Vie <br />8:00am-5:00pm<br />Sab<br />8:00am-12:00pm</td>
+<td valign="middle" bgcolor="#ffffff">
+<p><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />0 800 826 7200</p>
+</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle" bgcolor="#e5ecf2">MEDELL&Iacute;N<br /><strong>Colombia</strong></td>
+<td valign="middle" bgcolor="#e5ecf2">Carrera 43A #34-95 Local 099, Centro Comercial Almacentro</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie <br />8:00am-6:00pm<br />Sab<br />9:00am-12:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" /><span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">(574) 352 4400</span></td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2">PUNTO CLAVE <br />Calle 27 No. 46-70, Centro Comercial Punto Clave Plazoleta 2, Primer piso</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie<br />10:00am-7:00pm <br />Sab - Dom y Fes <br />11:00am-6:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2">LOS MOLINOS <br />Calle 30A No. 82a-26 Centro Comercial Los Molinos, local 2329</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Sab<br />11:00am-9:00pm<br />Dom y Fes<br />12:00 pm-7:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td rowspan="2" valign="middle" bgcolor="#ffffff">M&Eacute;XICO DF<br /><strong>M&eacute;xico</strong></td>
+<td valign="middle" bgcolor="#ffffff">Berna #6, Planta Baja, Colonia Ju&aacute;rez, Delegaci&oacute;n Cuauht&eacute;moc, C. P. 06600</td>
+<td style="text-align: center;" rowspan="2" valign="middle" bgcolor="#ffffff">Lun - Vie <br />8:00am-6:00pm<br />Sab<br />9:00am-2:00pm</td>
+<td valign="middle" bgcolor="#ffffff"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />(5255)5241 2000</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#ffffff">Toll Free (Provincias)</td>
+<td valign="middle" bgcolor="#ffffff"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />01 800 265 COPA (2672)</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle" bgcolor="#e5ecf2">MIAMI<br /><strong>Estados Unidos</strong></td>
+<td valign="middle" bgcolor="#e5ecf2">Waterford Center, 6205 Blue Lagoon Drive</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">Lun - Vie <br />9:00am-6:00pm</td>
+<td valign="middle" bgcolor="#e5ecf2"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />(305) 371 COPA (2672)</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle" bgcolor="#ffffff">MONTEVIDEO<br /><strong>Uruguay</strong></td>
+<td valign="middle" bgcolor="#ffffff">Luis Alberto de Herrera 1248 local 028 - World Trade Center</td>
+<td style="text-align: center;" valign="middle" bgcolor="#ffffff">Lun - Vie <br />9:30am-6:00pm</td>
+<td valign="middle" bgcolor="#ffffff"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />(598) 2707-COPA (2672)</td>
+</tr>
+<tr valign="top">
+<td valign="middle" bgcolor="#e5ecf2">NUEVA YORK<br /><strong>Estados Unidos</strong></td>
+<td valign="middle" bgcolor="#e5ecf2">Aeropuerto Internacional JFK<br />Terminal 4<br />B Concourse</td>
+<td style="text-align: center;" valign="middle" bgcolor="#e5ecf2">&nbsp;</td>
+<td valign="middle" bgcolor="#e5ecf2"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />1 800 FLY COPA (359 2672)</td>
+</tr>
+<tr style="background-color: #ffffff;" valign="top">
+<td valign="middle">ORANJESTAD<br /><strong>Aruba</strong></td>
+<td valign="middle">Aeropuerto Internacional Reina Beatrix</td>
+<td style="text-align: center;" valign="middle">&nbsp;</td>
+<td valign="middle"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />585-COPA(2672)</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle">ORLANDO<br /><strong>Estados Unidos</strong></td>
+<td valign="middle">Aeropuerto Internacional Orlando 9259 Terminal A Airport Boulevard</td>
+<td style="text-align: center;" valign="middle">&nbsp;</td>
+<td valign="middle"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />1 800 FLY COPA (359 2672)</td>
+</tr>
+<tr style="background-color: #ffffff;" valign="top">
+<td rowspan="9" valign="middle">PANAM&Aacute;<br /><strong>Rep. de Panam&aacute;</strong></td>
+<td valign="middle">Galer&iacute;as Hotel Riande Continental, V&iacute;a Espa&ntilde;a.</td>
+<td style="text-align: center;" valign="middle">Lun - Vie <br />8:00am-6:00pm<br />Sab<br />8:00am-1:00pm</td>
+<td rowspan="9" valign="middle"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />(507) 217 COPA (2672)</td>
+</tr>
+<tr style="background-color: #ffffff;" valign="top">
+<td valign="middle">Complejo Business Park, Torre Norte, Planta Baja; Costa del Este</td>
+<td style="text-align: center;" valign="middle">Lun - Vie <br />8:00am-5:00pm<br />Sab<br />8:00am-12:00pm</td>
+</tr>
+<tr style="background-color: #ffffff;" valign="top">
+<td valign="middle">Centro Comercial Multimax, Ave. Ricardo J. Alfaro<br /></td>
+<td style="text-align: center;" valign="middle">Lun - Vie<br />10:00am-8:00pm<br />Dom<br />10:00am-7:00pm</td>
+</tr>
+<tr style="background-color: #ffffff;" valign="top">
+<td valign="top">Centro Comercial Multiplaza, Plaza del Mar, Primer Nivel</td>
+<td style="text-align: center;">Lun - Sab<br />10:00am-8:00pm<br />Dom<br />11:00am-7:00pm</td>
+</tr>
+<tr style="background-color: #ffffff;" valign="top">
+<td valign="top">Centro Comercial Albrook Mall, Plaza del Delfin</td>
+<td style="text-align: center;">Lun-Sab<br />10:00am-8:00pm<br />Dom<br />11:00 am-7:00 pm</td>
+</tr>
+<tr style="background-color: #ffffff;" valign="top">
+<td valign="top">Centro Comercial Metromall, Primer Nivel, stand K1-17 frente a Baskin Robbins</td>
+<td style="text-align: center;">Lun-Sab <br />10:00am-8:00pm<br />Dom<br />11:00am-7:00pm</td>
+</tr>
+<tr style="background-color: #ffffff;" valign="top">
+<td valign="middle">Hotel Sheraton, Planta Baja</td>
+<td style="text-align: center;" valign="middle">Lun-Vie<br />8:00am-12:00pm<br />1:00pm-5:00pm<br />Sab<br />8:00am-12:00pm</td>
+</tr>
+<tr style="background-color: #ffffff;" valign="top">
+<td valign="middle">Zona Libre de Col&oacute;n, Provincia de Col&oacute;n</td>
+<td style="text-align: center;" valign="middle">Lun - Vie <br />8:00am-5:00pm</td>
+</tr>
+<tr style="background-color: #ffffff;" valign="top">
+<td valign="middle">David, Provincia de Chiriqu&iacute;</td>
+<td style="text-align: center;" valign="middle">Lun&nbsp;-&nbsp;Vie <br />8:00am-5:00pm<br />Sab<br />8:00am-12:00pm</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle">PEREIRA <br /><strong>Colombia</strong></td>
+<td valign="middle">
+<p class="MsoNormal">PRINCIPAL<br />Calle 20 No. 8 - 68</p>
+</td>
+<td style="text-align: center;" valign="middle">
+<p>Lun - Vie<br />8:00am-6:00pm <br />Sab <br />8:30am-12:00pm</p>
+</td>
+<td valign="middle"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />0180 0011 2600</td>
+</tr>
+<tr style="background-color: #ffffff;" valign="top">
+<td valign="middle">PORTO ALEGRE<br /><strong>Brasil</strong></td>
+<td valign="middle">Aeropuerto Internacional Salgado Filho,terminal 1,Av.Severo Dullius S/N - S&atilde;o Jo&atilde;o - Porto Alegre</td>
+<td style="text-align: center;" valign="middle">Lun - Vie<br />9:00am-6:00pm<br /></td>
+<td valign="middle">0800 771 2672</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle">PUERTO ESPA&Ntilde;A<br /><strong>Trinidad y Tobago</strong></td>
+<td valign="middle">Aeropuerto Internacional Piarco<br />Piso uno, The Atrium<br />Main Terminal</td>
+<td style="text-align: center;" valign="middle">Lun - Vie<br />10:00am-6:00pm</td>
+<td valign="middle"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" /><span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="WHITE-SPACE: nowrap">1 800 271 COPA</span>(2672)</td>
+</tr>
+<tr style="background-color: #ffffff;" valign="top">
+<td valign="middle">PUERTO PR&Iacute;NCIPE<br /><strong>Hait&iacute;</strong></td>
+<td valign="middle">30 Avenue, Marie Jeanne</td>
+<td style="text-align: center;" valign="middle">Lun - Vie<br />8:00am-4:00pm</td>
+<td valign="middle">(509) 2940 2326<br />(509) 2940 2327<br />(509) 2223 2327</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle">PUNTA CANA<br /><strong>Rep&uacute;blica Dominicana</strong></td>
+<td valign="middle">Aeropuerto Internacional Punta Cana, Carretera Punta Cana</td>
+<td valign="middle">&nbsp;</td>
+<td valign="middle"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" /><span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">1 809 200 2772</span></td>
+</tr>
+<tr style="background-color: #ffffff;" valign="top">
+<td valign="middle">QUITO<br /><strong>Ecuador</strong></td>
+<td valign="middle">Avenida Rep&uacute;blica de El Salvador 361 y Mosc&uacute;, Edificio Aseguradora del Sur, Planta Baja</td>
+<td style="text-align: center;" valign="middle">Lun - Vie <br />8:00am-6:00pm<br />Sab<br />8:00am-2:00pm</td>
+<td valign="middle"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />(5932) 227 3082</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle">RIO DE JANEIRO <strong>Brasil</strong></td>
+<td valign="middle">Avenida Atl&aacute;ntica, 1130 - 15 andar Copacabana</td>
+<td style="text-align: center;" valign="middle">Lun - Vie<br />9:00am-6:00pm</td>
+<td valign="middle">0800 771 COPA (2672)</td>
+</tr>
+<tr style="background-color: #ffffff;" valign="top">
+<td valign="middle">SAN ANDR&Eacute;S <strong>Colombia</strong></td>
+<td valign="middle">Aeropuerto Internacional Gustavo Rojas Pinilla <br />Carrera 10A No. 1-109 Oficina 124</td>
+<td style="text-align: center;" valign="middle">Lun - Vie<br />8:30am-5:30pm <br />Sab <br />9:00am-12:00pm</td>
+<td valign="middle"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />01 80 0011 2600</td>
+</tr>
+<tr style="background-color: #ffffff;" valign="top">
+<td valign="middle">&nbsp;</td>
+<td valign="middle">PRINCIPAL <br />Centro Comercial San Andres Local 108 - 109</td>
+<td style="text-align: center;" valign="middle">Lun - Vie<br />8:00am-6:00pm<br />Sab <br />8:00am-12:00pm</td>
+<td valign="middle">&nbsp;</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle">SAN JOS&Eacute;<br /><strong>Costa Rica</strong></td>
+<td valign="middle">Edif. Torres Mercedes, 1er Piso, Paseo Col&oacute;n</td>
+<td style="text-align: center;" valign="middle">Lun - Vie<br />8:00am-6:00pm<br />Sab<br />8:00am-12:00pm</td>
+<td valign="middle"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />(506) 2223-COPA (2672)</td>
+</tr>
+<tr style="background-color: #ffffff;" valign="top">
+<td valign="middle">SAN JUAN<br /><strong>Puerto Rico</strong></td>
+<td valign="middle">#15 Calle 2 Millenium Park Plaza, Suite 102, Metro Office Park<br />Guaynabo P.R. 00968</td>
+<td style="text-align: center" valign="middle">Lun - Vie <br />8:00am-5:00pm<br />Sab<br />9:00am-1:00pm</td>
+<td valign="middle"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />1 800 FLY COPA (359 2672)</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle">SAN PEDRO SULA <br /><strong>Honduras</strong></td>
+<td valign="middle">Edificio Versalles<br />Avenida Circunvalaci&oacute;n y Octava, Calle S.O. # 38</td>
+<td style="text-align: center;" valign="middle">Lun - Vie<br />8:30am-5:30pm<br />Sab<br />9:00am-1:00pm</td>
+<td valign="middle"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />(504) 2516 COPA (2672)</td>
+</tr>
+<tr style="background-color: #ffffff;" valign="top">
+<td valign="middle">SAN SALVADOR<br /><strong>El Salvador</strong></td>
+<td valign="middle">Edificio World Trade Center, 1er. Nivel, local 107, calle Mirador, Colonia Escal&oacute;n.</td>
+<td style="text-align: center" valign="middle">Lun - Vie <br />8:00am-6:00pm<br />Sab<br />8:00am-12:00pm</td>
+<td valign="middle"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />(503) 2209 COPA (2672)</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle">SANTA CRUZ DE LA SIERRA<br /><strong>Bolivia</strong></td>
+<td valign="middle">Edificio La Pascana, Local n&uacute;mero 3 Calle 24 de septiembre, esquina Sucre, Zona Centro Hist&oacute;rico, Manzana 3</td>
+<td style="text-align: center;" valign="middle">
+<p>Lun - Vie<br />8:30am-12:30pm<br />2:30pm -6:30pm<br />Sab<br />9:00am-12:30pm</p>
+</td>
+<td valign="middle"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />800 10 COPA (2672)</td>
+</tr>
+<tr style="background-color: #ffffff;" valign="top">
+<td valign="middle">SANTA MARTA<br /><strong>Colombia</strong></td>
+<td valign="middle">PRINCIPAL <br />Cra 3 No. 17 - 27 Local 2 Centro Comercial Rex</td>
+<td style="text-align: center;" valign="middle">Lun - Vie<br />8:00am-6:00pm<br />Sab<br />8:00am-12:00pm</td>
+<td valign="middle"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />0180 0011 2600</td>
+</tr>
+<tr style="background-color: #ffffff;" valign="top">
+<td valign="middle">&nbsp;</td>
+<td valign="middle">RODADERO <br />Carrea 2 N0. 6-49 Rodadero</td>
+<td style="text-align: center;" valign="middle">Lun - Vie<br />8:00am-12:00pm<br />2:00pm-6:00pm<br />Sab <br />9:00am-1:00pm</td>
+<td valign="middle">&nbsp;</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle">SANTIAGO DE CHILE<br /><strong>Chile</strong></td>
+<td valign="middle">Fidel Oteiza 1921, Oficina 703, Providencia</td>
+<td style="text-align: center;" valign="middle">Lun - Vie<br />9:00am-6:00pm</td>
+<td valign="middle"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" /><span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">(562) 200 2100</span></td>
+</tr>
+<tr style="background-color: #ffffff;" valign="top">
+<td valign="middle">SANTIAGO DE LOS CABALLEROS<br /><strong>Rep&uacute;blica Dominicana</strong></td>
+<td valign="middle">Carretera Luper&oacute;n kilometro 1, Plaza Galerias Luper&oacute;n, Local 1- Planta Baja</td>
+<td style="text-align: center;" valign="middle">Lun - Vie<br />9:00am-6:00pm<br />Sab<br />9:00am-1:00pm</td>
+<td valign="middle"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" /><span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">1 809 200 2772</span></td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td rowspan="3" valign="middle">SANTO DOMINGO<br /><strong>Rep&uacute;blica Dominicana</strong></td>
+<td valign="middle">Ave. Abraham Lincoln esq. Jacinto Ma&ntilde;on<br />Torre Ejecutiva Sonora, Suite 101-A, 1er Nivel</td>
+<td style="text-align: center;" valign="middle">Lun - Vie <br />8:00am-6:00pm<br />Sab<br />9:00am-2:00pm</td>
+<td valign="middle"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />1 809 472 COPA (2672)</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td>Av. San Vicente de Pa&uacute;l, Esq. Carretera Mella, Plaza Comercial Megacentro 1er Nivel</td>
+<td style="text-align: center;" valign="middle">Lun - Sab<br />9:00am-8:00pm<br />Dom<br />10:00am-6:00pm</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle">Toll Free (Provincias)</td>
+<td style="text-align: center;" valign="middle">&nbsp;</td>
+<td valign="middle"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" /><span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">1 809 200 2772</span></td>
+</tr>
+<tr style="background-color: #ffffff;" valign="top">
+<td valign="middle">SAO PAULO<br /><strong>Brasil</strong></td>
+<td valign="middle">Avenida Paulista 1337 &ndash; 4&ordm; piso ZIP 01311-200</td>
+<td style="text-align: center;" valign="middle">Lun - Vie <br />9:00am-6:00pm</td>
+<td valign="middle"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />(5511) 3549 COPA (2672)</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle">ST MAARTEN<br /><strong>Antillas Holandesas</strong></td>
+<td valign="middle">Aeropuerto Internacional Princesa Juliana</td>
+<td style="text-align: center;" valign="middle">&nbsp;</td>
+<td valign="middle"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />00187 7389 3606</td>
+</tr>
+<tr style="background-color: #ffffff;" valign="top">
+<td valign="middle">TEGUCIGALPA<br /><strong>Honduras</strong></td>
+<td valign="middle">Edif. Corporativo contiguo al Hotel Real Clarion, Ave. Juan Manuel G&aacute;lvez No. 1521 Colonia Alameda</td>
+<td style="text-align: center;" valign="middle">Lun - Vie <br />8:30am-5:30pm<br />Sab<br />9:00am-1:00pm</td>
+<td valign="middle"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />(504) 2220 5220</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle">TORONTO<br /><strong>Canad&aacute;</strong></td>
+<td valign="middle">&nbsp;</td>
+<td style="text-align: center;" valign="middle">&nbsp;</td>
+<td valign="middle"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />1 800 FLY COPA (359 2672)</td>
+</tr>
+<tr style="background-color: #ffffff;" valign="top">
+<td valign="middle">VALENCIA<br /><strong>Venezuela</strong></td>
+<td valign="middle">Av. Ma&ntilde;ongo cruce con Ave. Palma Real, Centro Comercial Via Veneto, Planta Florencia, local F-34 Municipio Naguanagua, Edo</td>
+<td style="text-align: center;" valign="middle">Lun - Sab<br />10:00am-7:00pm<br />Dom<br />12:00pm-6:00pm</td>
+<td valign="middle"><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />0 <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">800 826 7200</span>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr style="background-color: #e5ecf2;" valign="top">
+<td valign="middle">WASHINGTON, DC<br /><strong>Estados Unidos</strong><br /></td>
+<td valign="middle">Aeropuerto Internacional Washington Dulles Terminal B, Lower level</td>
+<td style="text-align: center;" valign="middle">&nbsp;</td>
+<td valign="middle">
+<p><img src="../../../en/PublishingImages/24horasmall.jpg" alt="" width="49" height="16" />1 800 FLY COPA (359 2672)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<!-- InstanceEndEditable --></div>
+</div>
+<!-- InstanceEndRepeatEntry --><!-- InstanceBeginRepeatEntry -->
+<div class="articleBlock">
+<div class="articleImage"><!-- InstanceBeginEditable name="articleBlockImage" --><!-- InstanceEndEditable --></div>
+<div class="articleTitle"><!-- InstanceBeginEditable name="articleBlockTitle" --><strong>Oficinas en Europa, Asia y Australia</strong> <!-- InstanceEndEditable --></div>
+<div class="articleContent"><!-- InstanceBeginEditable name="articleBlockDescription" --> 
+<table border="0" cellspacing="0" cellpadding="5" width="100%">
+<tbody>
+<tr style="background-color: #004982;" valign="top">
+<th class="articleTitle" width="15%" valign="middle" scope="col"><span style="color: #ffffff;">Pa&iacute;s</span></th><th class="articleTitle" width="59%" valign="middle" scope="col"><span style="color: #ffffff;">Direcci&oacute;n </span></th><th class="articleTitle" width="26%" align="left" valign="middle" scope="col"><span style="color: #ffffff;">Reservaciones</span> </th>
+</tr>
+<tr valign="top">
+<td>
+<p>Alemania</p>
+</td>
+<td>Discover the World Marketing. Schenkendorfstr. 1&nbsp;&nbsp;&nbsp; 65187 Wiesbaden.&nbsp; Germany</td>
+<td align="left">Tel: ++49 611-26767-70<br />Fax.: ++49 611-26767-60</td>
+</tr>
+<tr valign="top">
+<td bgcolor="#e5ecf2">
+<p>Australia</p>
+</td>
+<td bgcolor="#e5ecf2">Discover the World Marketing. Level 2, 80 Arthur Street, North Sydney, N.S.W. 2060.&nbsp; Australia.</td>
+<td align="left" bgcolor="#e5ecf2">Tel: <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">+61 2 9959 3922</span>&nbsp;<br />Fax: <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">+61 2 9929 8438</span></td>
+</tr>
+<tr valign="top">
+<td>
+<p>Austria</p>
+</td>
+<td>Discover the World Marketing.&nbsp; Odeongasse 2A/1, 1020 .&nbsp; Vienna, Austria.&nbsp;</td>
+<td align="left">Tel: <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">+43 1 512 86 86</span></td>
+</tr>
+<tr valign="top">
+<td bgcolor="#e5ecf2">
+<p>B&eacute;lgica</p>
+</td>
+<td bgcolor="#e5ecf2">Discover the World Marketing.&nbsp; Regus Building.&nbsp; Kolonienstraat, 11.&nbsp; 1000 Brussels.&nbsp; Belgium.</td>
+<td align="left" bgcolor="#e5ecf2">Tel: <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">+32 251 76 190</span><br />Fax: <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">+32 02 517 65 00</span></td>
+</tr>
+<tr valign="top">
+<td>
+<p>Escandinavia</p>
+</td>
+<td>Discover the World Marketing.&nbsp;&nbsp; Trommesalen 5, 5tv.&nbsp; DK-1614 Copenhagen V.</td>
+<td align="left">Tel: <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">+45 3325 2566</span><br />Fax: <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">+45 3325 2586</span></td>
+</tr>
+<tr valign="top">
+<td bgcolor="#e5ecf2">
+<p>Espa&ntilde;a</p>
+</td>
+<td bgcolor="#e5ecf2">Select Aviation.&nbsp; C/Princesa #2, Planta 2, Oficina 1 28008 Madrid. Spain.</td>
+<td align="left" bgcolor="#e5ecf2">Tel: (34) 91 547 85 88</td>
+</tr>
+<tr valign="top">
+<td>
+<p>Francia</p>
+</td>
+<td>Discover the World Marketing.&nbsp; 82, Rue Taitbout 75009 Par&iacute;s. France.</td>
+<td align="left">Tel: + 33(0) 158 22 20 00&nbsp;<br />Fax: +33(0) 158 22 10 10</td>
+</tr>
+<tr valign="top">
+<td bgcolor="#e5ecf2">
+<p>Holanda</p>
+</td>
+<td bgcolor="#e5ecf2">Discover the World Marketing.</td>
+<td align="left" bgcolor="#e5ecf2">&nbsp;</td>
+</tr>
+<tr valign="top">
+<td>
+<p>India</p>
+</td>
+<td>Discover the World Marketing.&nbsp; 506, Indra Prakash, 21 Barakhamba Road, New Delhi - 110 001.&nbsp; India.</td>
+<td align="left">Tel: <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">+91 11 6630 6656</span>&nbsp;<br />Fax: <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">+91 11 6630 6655</span></td>
+</tr>
+<tr valign="top">
+<td bgcolor="#e5ecf2">
+<p>Inglaterra</p>
+</td>
+<td bgcolor="#e5ecf2">Flight Directors.&nbsp; Flighthouse / Fernhill Road / Horley / Surrey RH6 9SY U.K.</td>
+<td align="left" bgcolor="#e5ecf2">Tel: 44 (0)870 2414126</td>
+</tr>
+<tr valign="top">
+<td>
+<p>Italia</p>
+</td>
+<td>Vamos Internacional.&nbsp; Piazza Velasca, 5 &ndash; 20122 Mil&aacute;n &ndash; Italia.</td>
+<td align="left">Tel: 0039-02-866367</td>
+</tr>
+<tr valign="top">
+<td bgcolor="#e5ecf2">
+<p>Jap&oacute;n</p>
+</td>
+<td bgcolor="#e5ecf2">Discover the World Marketing.&nbsp; Hibiya Kokusai Bldg.&nbsp; 2-3, Uchisaiwaicho 2-chome, Chiyoda-ku.&nbsp; Tokyo 100-0011 Japan</td>
+<td align="left" bgcolor="#e5ecf2">Tel: <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">+81 3 3597 9480</span><br />Fax: <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">+81 3 3597 0385</span></td>
+</tr>
+<tr valign="top">
+<td>
+<p>Korea</p>
+</td>
+<td>Discover the World Marketing.&nbsp;&nbsp; 1003, Seoul Center Bldg.&nbsp; 91-1, Songong-dong, Jung-gu.&nbsp; Seoul, 100-070, Korea</td>
+<td align="left">Tel: <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">+82 2 771 5622</span><br />Fax : <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="WHITE-SPACE: nowrap">+82 2 771 1157</span></td>
+</tr>
+<tr valign="top">
+<td bgcolor="#e5ecf2">
+<p>Nueva Zelanda</p>
+</td>
+<td bgcolor="#e5ecf2">Discover the World Marketing. P.O. Box 39-366 Howick.&nbsp; DX: EP 82525 Howick. New Zealand.</td>
+<td align="left" bgcolor="#e5ecf2">Tel: <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="WHITE-SPACE: nowrap">+64 21 620 305</span><br />Fax&nbsp; <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">+64 21 649 537 5324</span></td>
+</tr>
+<tr valign="top">
+<td>
+<p>Rusia</p>
+</td>
+<td>Discover the World Marketing.&nbsp; 40/2 build. 4, str. Prechistenka.&nbsp; Moscow, 119034.&nbsp; Russian Federation. Denmark.</td>
+<td align="left">Tel: +7&nbsp; <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">(495) 744 0490</span><br />Fax : <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">+7 (495) 425 1800</span></td>
+</tr>
+<tr valign="top">
+<td bgcolor="#e5ecf2">
+<p>Suiza</p>
+</td>
+<td bgcolor="#e5ecf2">Discover the World Marketing.&nbsp; Industrie Nord 9.&nbsp; CH-5634 Merenschwand.&nbsp; Switzerland.</td>
+<td align="left" bgcolor="#e5ecf2">Tel: <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">+41 56 675 7555</span><br />Fax : <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">+41 56 675 7556</span></td>
+</tr>
+<tr valign="top">
+<td>
+<p>Taiwan</p>
+</td>
+<td>Elite Holiday Travel Service.&nbsp;&nbsp; 5f1 62,nan-king EastRd,SEC 2 Taipei,Taiwan.</td>
+<td align="left">Tel: <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">+886 2 25413366</span></td>
+</tr>
+</tbody>
+</table>
+<!-- InstanceEndEditable --></div>
+</div>
+	</div>
+	
+	
+
+	<div id="rightCol">
+		
+	</div>
+
+	<div style="clear: both;"></div> 
+            
+
+
+        </div>
+        
+			<br class="brclear" />
+            <div id="footerSeparator">
+            </div>
+            <div id="footermain">
+                <div id="footer" class="hide_element">
+                   <ul class="main">
+                        <li class="first">
+                            <a href='/Sites/CC/ES/Acerca-de-Copa-Airlines/Pages/acerca-de-copa-airlines.aspx' class='customerService' >Acerca de Copa Airlines</a>
+                        </li>
+                        <li class="last">
+                            <a href='/Sites/CC/ES/Acerca-de-Copa-Airlines/Pages/mapa-del-sitio.aspx' class='customerService' >Mapa del sitio</a>
+                        </li> 
+                    </ul>
+                    
+                    <ul class="about">
+                        <li class="first">
+                            <a href='/sites/cc/ES/pages/cambio-de-marca.aspx' class='customerService' >Aero Rep?blica</a>
+                        </li>
+                        
+                        <li >
+                            <a href='http://investor.shareholder.com/copa/' class='customerService' >Relaciones con los inversionistas</a>
+                        </li>
+                      
+                        <li>
+                            <a href='/sites/cc/ES/acerca-de-copa-airlines/pages/trabaja-con-nosotros.aspx' class='customerService' >Trabaja con nosotros</a>
+                        </li>
+                        
+                        <li class="last">
+                            <a href='/sites/cc/ES/servicios/pages/portal-agencias-mayoristas.aspx' class='customerService' >Portal de agencias</a>
+                        </li>
+                        
+                    </ul>
+                   
+                    <div id="legal">
+                        <p>
+                            Copyright &copy; Copa Airlines, Incorporated. Todos los derechos reservados.<br />
+                        </p>
+                        <ul>
+                            <li class="first">
+                                <a href='/Sites/CC/ES/Acerca-de-Copa-Airlines/Pages/terminos-y-condiciones.aspx' class='customerService' >T?rminos y condiciones</a>
+                            </li>
+                            <li class="last">
+                                <a href='/Sites/CC/ES/Acerca-de-Copa-Airlines/Pages/politica-de-privacidad.aspx' class='customerService' >Pol?tica de privacidad</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div id="safety">
+                        <a target="VRSN_Splash" onmousedown="return v_mDown();" tabindex="-1" href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.COPAAIR.COM&lang=en">
+                            <img border="true" alt="Click to Verify - This site has chosen a VeriSign SSL Certificate to improve Web site security"
+                                oncontextmenu="return false;" src="https://seal.verisign.com/getseal?at=0&&sealid=2&dn=WWW.COPAAIR.COM&aff=AdvantageSecuritySystemsCertificateServicesGlobal&lang=en"
+                                name="seal" />
+                        </a><a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.copaair.com">
+                            <img width="115" height="32" border="0" style="margin-top: 25px;" src="https://images.scanalert.com/meter/www.copaair.com/12.gif"
+                                alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams"
+                                oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;" /></a>
+                    </div>
+                    <div style="clear: both;">
+                    </div>
+                </div>
+            </div>
+        
+    </div>
+    
+    
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';var ctl00_PlaceHolderTopNavBar_PlaceHolderHorizontalNav_MenuPart1_ctl00_Data = new Object();
+ctl00_PlaceHolderTopNavBar_PlaceHolderHorizontalNav_MenuPart1_ctl00_Data.disappearAfter = 500;
+ctl00_PlaceHolderTopNavBar_PlaceHolderHorizontalNav_MenuPart1_ctl00_Data.horizontalOffset = 0;
+ctl00_PlaceHolderTopNavBar_PlaceHolderHorizontalNav_MenuPart1_ctl00_Data.verticalOffset = 0;
+//]]>
+</script>
+<script language=javascript type=text/javascript>
+s.pageName= 'Nuestras Oficinas';
+s.channel= 'Acerca de Copa Airlines';
+s.server= 'www.copaair.com';
+s.prop20= 'Spanish';
+s.prop21= 'US';
+s.eVar32= 'US';
+
+var s_code=s.t();
+if(s_code)document.write(s_code);
+</script></form>
+    <!--ATLAS TRACKING PIXEL-->
+    <img height="1" width="1" src="/action/nmgcop_CopaNewHomepage_1"
+        alt="view.atdmt.com/action/nmgcop_CopaNewHomepage_1" />
+    <script type='text/javascript'>
+        var prefix = (("https:" == document.location.protocol) ? "https://" : "http://");
+        document.write(unescape("%3Cscript src='" + prefix + "app.ubertags.com/javascripts/ubertags.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">    ubertags_init("UT-241103624"); //version:0.2
+    </script>    
+</body>
+</html>
+

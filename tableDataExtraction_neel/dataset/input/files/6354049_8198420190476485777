@@ -1,0 +1,190 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<title>Customer Services | Alitalia</title>
+				<meta http-equiv="Content-type" content="text/html; charset=windows-1252">
+<link rel="stylesheet" type="text/css" media="screen" href="/CA_EN/css/moomenuTab.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/CA_EN/css/RestyleOtherPages.css">
+<script type="text/javascript" src="/CA_EN/js/booking.js" charset="windows-1252"></SCRIPT>
+<script type="text/javascript" src="/CA_EN/js/all_pages.js"></SCRIPT>
+<script type="text/javascript" src="/CA_EN/js/swfobject.js"></SCRIPT>
+
+<script>
+</script><!-- Start -  WebTrends Tag -->
+<SCRIPT LANGUAGE="JavaScript" type="text/javascript">
+<!--
+function gup( name ){  name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+var regexS = "[\\?&]"+name+"=([^&#]*)";  var regex = new RegExp( regexS );
+var results = regex.exec( window.location.href );
+if( results == null )   return "";
+else  return results[1];
+}
+if(gup('WTTracking')!="off"){
+document.write('<SCR'+'IPT Language="Javascript">')
+document.write('<!--')
+document.write('gVersion="1.0"')
+document.write('\/\/-->')
+document.write('<\/SCR'+'IPT>')
+document.write('<SCR'+'IPT Language="Javascript1.5">')
+document.write('<!--')
+document.write('gVersion="1.5"')
+document.write('\/\/-->')
+document.write('<\/SCR'+'IPT>')
+document.write('<SCR'+'IPT type="text\/javascript" src="\/CA_EN\/JS\/WT.js" onError="doNothing()"><\/SCR'+'IPT>')
+}
+//-->
+</SCRIPT>
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsj8qv5l00000kfx7n5robgq_6p2g/njs.gif?dcsuri=/nojavascript&amp;WT.js=No"/></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+
+	</head>
+
+	<body onLoad="onLoadBooking()">
+		<div id="main">
+		<div id="container">
+				<div id="header">
+				<div class="nav-top"><!-- Start GlobalHight (tcm:13-14125) -->
+<a href="/CA_EN/business_travel/index.htm" title="Business travel">Business travel</a> | <a href="/CA_EN/footer/faq/index.htm" title="FAQ">FAQ</a> | <a href="/CA_EN/footer/site_map.htm" title="Site Map"><!--onMouseOver="showHide_Search()" onfocus="showHide_Search()"-->Site Map</a> <!-- End GlobalHight (tcm:13-14125) -->
+</div>
+<div id="hideshow"><script type="text/javascript" src="/CA_EN/JS/writeMMmenu.js"></SCRIPT></div>
+				<div class="logo"><a href="/CA_EN/home/index.aspx" title="Alitalia">Alitalia</a></div>
+				<div><iframe id="boxMM" src="/CA_EN/MM/BoxMMPage.aspx" width="430" height="76px" frameborder="no" scrolling="no" title="MilleMiglia"></iframe></div>
+				<div class="clear"></div>
+				</div>
+				
+
+
+<!-- THEBUILDINGBLOCKS UPDATE
+Old navigation has been update with the code below; do a compare to see the specific changes made
+'*********************************** -->
+
+
+			<div id="nav">
+				<ul id="horiznav">
+					<li class="first"><a href="/CA_EN/special_offers/index.htm" title="Special Offers" onmouseover="window.mmShowMenuTimer = window.setTimeout('mopen(\'sub-menu-item-1\')',300);" onmouseout="if(window.mmShowMenuTimer) {window.clearTimeout(window.mmShowMenuTimer);} mclosetime();">Special Offers</a></li>
+<li class="second"><a href="/CA_EN/choose_your_destination/index.htm" title="Online services" onmouseover="window.mmShowMenuTimer = window.setTimeout('mopen(\'sub-menu-item-2\')',300);" onmouseout="if(window.mmShowMenuTimer) {window.clearTimeout(window.mmShowMenuTimer);} mclosetime();">Online services</a></li>
+<li class="third"><a href="/CA_EN/your_travel/index.htm" title="Your travel" onmouseover="window.mmShowMenuTimer = window.setTimeout('mopen(\'sub-menu-item-3\')',300);" onmouseout="if(window.mmShowMenuTimer) {window.clearTimeout(window.mmShowMenuTimer);} mclosetime();">Your travel</a></li>
+<li class="fourth active"><a href="/CA_EN/millemiglia/index.htm" title="MilleMiglia Program" onmouseover="window.mmShowMenuTimer = window.setTimeout('mopen(\'sub-menu-item-4\')',300);" onmouseout="if(window.mmShowMenuTimer) {window.clearTimeout(window.mmShowMenuTimer);} mclosetime();">MilleMiglia Program</a></li>
+<li class="fifth"><a href="/CA_EN/contact_assistance/index.htm" title="Contact and Assistance" onmouseover="window.mmShowMenuTimer = window.setTimeout('mopen(\'sub-menu-item-5\')',300);" onmouseout="if(window.mmShowMenuTimer) {window.clearTimeout(window.mmShowMenuTimer);} mclosetime();">Contact and Assistance</a></li>
+<li class="sixth"><a href="http://corporate.alitalia.com" target="_blank" title="About Alitalia"  onmouseover="window.mmShowMenuTimer = window.setTimeout('mopen(\'sub-menu-item-6\')',300);" onmouseout="if(window.mmShowMenuTimer) {window.clearTimeout(window.mmShowMenuTimer);} mclosetime();">About Alitalia</a></li>
+			
+				</ul>
+				<div class="clear"></div>
+			</div>
+	<!-- JS INCLUDES FOR SUB NAV / HOVERS -->
+	<script type="text/javascript" src="/CA_EN/js/sub_nav.js"></script>
+
+	<!--[if lte IE 6]>
+		<script type="text/javascript" src="/CA_EN/js/ie6_js.js"></script>
+	<![endif]-->
+<!-- '************************************
+'code above is the new navigation container and javascript includes -->
+
+
+			<div class="editorial">
+				
+				<div id="form"></div>
+				
+				<div class="percorso"><ul id="percor"><li><a href="/CA_EN/home/index.aspx" title="Home">Home</a></li> &gt; <li><a href='/CA_EN/millemiglia/index.htm'>MilleMiglia Program</a></li> &gt; <li><a href='/CA_EN/millemiglia/newmillemiglia08/index.htm'>The Program</a></li> &gt; <li class="active">Customer Services</li></ul></div>
+				
+				<div style="clear:left;">&nbsp;</div>
+				<div style="clear:left;">&nbsp;</div>
+				<div id="left">
+				
+
+
+
+<h5 class="active">MILLEMIGLIA PROGRAM</h5><div class="primo-liv-explotion-top">&nbsp;</div>
+<div class="primo-liv-active"><a href="/CA_EN/millemiglia/newmillemiglia08/index.htm">The Program</a></div>
+<div class="secondo-liv"><a href="/CA_EN/millemiglia/newmillemiglia08/newmillemiglia08.htm">The features of the Program</a></div>
+<div class="secondo-liv"><a href="/CA_EN/millemiglia/newmillemiglia08/accountclosure.htm">Miles expiry</a></div>
+<div class="secondo-liv"><a href="/CA_EN/millemiglia/newmillemiglia08/regulations08.htm">Regulations</a></div>
+<div class="secondo-liv"><a href="/CA_EN/millemiglia/newmillemiglia08/shortguide08.htm">Downloadable guide</a></div>
+<div class="secondo-liv"><b>Customer Services</b></div>
+<div class="primo-liv-explotion-bottom">&nbsp;</div>
+<div class="primo-liv"><a href="/CA_EN/millemiglia/offers/index.htm">News and offers</a></div>
+<div class="primo-liv"><a href="/CA_EN/millemiglia/earn_miles/index.htm">Earning miles</a></div>
+<div class="primo-liv"><a href="/CA_EN/millemiglia/redeem_miles/index.htm">Redeeming miles</a></div>
+<div class="primo-liv"><a href="/CA_EN/millemiglia/exclusive_clubs/index.htm">The Exclusive Clubs</a></div>
+<div class="primo-liv"><a href="/CA_EN/millemiglia/online_services/index.htm">Dedicated services</a></div>
+
+
+
+
+
+
+				</div>
+				<div id="text-generico">
+				<h1>Customer Services</h1><div align="right" style="position: relative; top: -65px;">
+<!-- ADDTHIS BUTTON BEGIN -->
+<script type="text/javascript">
+var addthis_config = {
+username: "alitalia",services_compact: "print,email,favorites,facebook,google,myspace,twitter,linkedin,live,segnalo,oknotizie,blogger,wordpress,more"
+}
+var addthis_share = {
+email_template: "Template_EN"
+}</script>
+<a href="http://www.addthis.com/bookmark.php?v=250" class="addthis_button">
+<img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" border="0" alt="Share" /></a>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
+<!-- ADDTHIS BUTTON END -->
+</div><!-- Start _ctTextRightImageLittle (tcm:13-2565) -->
+
+	<!-- <h4></h4>-->
+
+		<img src="/CA_EN/Images/1%2E6_CallCenter_tcm13-6476.jpg" alt="Alitalia contacts and assistance" align="right" class="foto-piccola-right">
+ 	Below you will find all the useful numbers for your country of residence.
+<br>
+If you live in Italy <a class="sottolinea_nero" target="_new" href="http://www.alitalia.com/IT_IT/millemiglia/newmillemiglia08/customer_service.htm">click here</a>.
+<br><br><br><br><br><br><table class="american_express" cellspacing="1" width="100%" border="0"><tbody><tr class="header"><td><strong>Country</strong></td><td><strong>City</strong></td><td><strong>Phone number</strong></td><td><strong>Fax</strong></td></tr><tr><td>Albania</td><td>Tirana</td><td>0035-54230023</td><td>0035-54257061</td></tr><tr><td>Algeria</td><td>Algiers</td><td>0021-321727129/359</td><td>0021-321426308/347</td></tr><tr><td>Argentina</td><td>Buenos Aires</td><td>0810-777-2548</td><td>0054-11-4310-9930</td></tr><tr><td>Austria</td><td>Vienna</td><td>0043-1-5051707</td><td>0049-69-505256</td></tr><tr><td>Belgium</td><td>Brussels</td><td>0032-25511122</td><td>0032-2551155</td></tr><tr><td>Brazil</td><td>S?o Paulo</td><td>0055-11-2171-7652</td><td>0055-1121717656</td></tr><tr><td>Bulgaria</td><td>Sofia</td><td>003592-9816702</td><td>003592-9816704</td></tr><tr><td>Canada</td><td>Toronto</td><td>1-800-361-8336</td><td>1-800-599-5818</td></tr><tr><td>Czech Republic</td><td>Prague</td><td>00420-234&nbsp;723280</td><td>00420-234&nbsp;723204</td></tr><tr><td>Denmark</td><td>Copenhagen</td><td>0039 06 2222</td><td>-</td></tr><tr><td>Egypt</td><td>Cairo</td><td>002-025756232</td><td>002-025779907</td></tr><tr><td>France</td><td>Paris</td><td>0033-820-315315</td><td>0033-144944443</td></tr><tr><td>Germany</td><td>Frankfurt</td><td>01805 - 07 47 47</td><td>0049-(0)391 - 2882748</td></tr><tr><td>Ghana</td><td>Accra</td><td>00-23321239315/6</td><td>-</td></tr><tr><td>Greece</td><td>Athens</td><td>0030-2109988888</td><td>0030-2109988821</td></tr><tr><td>Hungary</td><td>Budapest</td><td>0036 1 3018740/41/44</td><td>0036-13018742/43</td></tr><tr><td>Irland</td><td>Dublin</td><td>01 4371103</td><td>0044 870 607 6006</td></tr><tr><td>Israel</td><td>Tel Aviv</td><td>00972-37960735</td><td>00972-37960736</td></tr><tr><td>Kuwait</td><td>Kuwait</td><td>00965-2414427</td><td>00965-24268688</td></tr><tr><td>Japan</td><td>Tokyo</td><td>0081-35166-9160</td><td>0081-35166-9198</td></tr><tr><td>Lebanon</td><td>Beirut</td><td>00961-1754883</td><td>00961-754884</td></tr><tr><td>Malta</td><td>Valletta</td><td>00356-21322992</td><td>00356-21322996</td></tr><tr><td>Morocco</td><td>Casablanca</td><td>00212-22-310319</td><td>00212-22-314462</td></tr><tr><td>The Netherlands</td><td>Amsterdam</td><td>020 6764479</td><td>0044 1512373201</td></tr><tr><td>Nigeria</td><td>Lagos</td><td>00234-12705709</td><td>00234-12705720</td></tr><tr><td>Poland</td><td>Warsaw</td><td>0 801 107700 (within Poland)
+<br>
+0048-225566866 (from cell phones and abroad)</td><td>0048-226928735</td></tr><tr><td>Romania</td><td>Bucharest</td><td>0040-21-3187661/2</td><td>0040-21-3184120</td></tr><tr><td>Russia</td><td>Moscow</td><td>007-4959670103</td><td>007-4959670109</td></tr><tr><td>Saudi Arabia</td><td>Jeddah</td><td>009662-6600640</td><td>009662-6608328</td></tr><tr><td>Senegal</td><td>Dakar</td><td>00221-8238305</td><td>00221-8232470</td></tr><tr><td>Serbia</td><td>Belgrade</td><td>00381-113245344/7443</td><td>00381-113235267</td></tr><tr><td>Spain</td><td>Madrid</td><td>902 884 015</td><td>-</td></tr><tr><td>Sweden</td><td>Stockholm</td><td>0039 06 2222</td><td>-</td></tr><tr><td>Switzerland</td><td>Zurich</td><td>0848-486486</td><td>0049-(0)391 - 2882748</td></tr><tr><td>Tunisia</td><td>Tunis</td><td>00216-71940700/484</td><td>-</td></tr><tr><td>Turkey</td><td>Istanbul</td><td>0090-2123151955</td><td>0090-2123151980</td></tr><tr><td>United Arab Emirates</td><td>Dubai</td><td>009714-2242257</td><td>009714-2236148</td></tr><tr><td>United Kingdom</td><td>London</td><td>08714 242 772</td><td>08714 242 742</td></tr><tr><td>USA</td><td>New York</td><td>001-800-223-5730</td><td>-</td></tr><tr><td>Ukraine</td><td></td><td>0038 044 4927222</td><td>0038 044 4594676</td></tr><tr><td>Venezuela</td><td>Caracas</td><td>0058-212-2084108</td><td>0058-212-2083109</td></tr></tbody></table><br>
+<!-- End _ctTextRightImageLittle (tcm:13-2565)  -->
+<div class="clear">&nbsp;</div><hr class="mmline">
+
+				</div>
+				<br clear="all">
+			</div>
+			
+			<div id="footer">
+		<div class="footer-left">
+		<h3><a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.ALITALIA.COM&amp;lang=en" title="VeriSign" target="_blank">Verisign</a></h3>
+	</div>
+	<div class="footer-center">
+		<div class="top-footer">
+			<a href="http://corporate.alitalia.com/en/index.htm" title="Investor relations">Investor relations</a>
+			<a href="http://corporate.alitalia.com/en/press/index.htm" title="Press Releases">Press Releases</a>
+			<a href="/CA_EN/footer/legals/index.htm" title="Legal Info">Legal Info</a>
+			<a href="/CA_EN/footer/privacy/index.htm" title="Privacy">Privacy</a>
+			<a href="/CA_EN/footer/security.htm" title="Security">Security</a>
+			<a href="/CA_EN/footer/news/IndexList.aspx" title="News">News</a>
+		</div>
+		<div class="copyright"><a href="javascript: winOp('/EN_EN/footer/pop_copyright.htm', '490', '350', 'yes')">? Copyright Alitalia - Compagnia Aerea Italiana S.p.A.</a> P. IVA 02500880121</div>
+	</div>
+	<div class="footer-right"><h3><a href="/CA_EN/r/j_best_price_guarantee.asp"  title="BEST PRICE GUARANTEE" >BEST PRICE GUARANTEE</a></h3></div>
+	<div class="clear"></div>
+</div>
+<!-- End buildGlobalLow_Restyle -->
+
+		<!-- Last Publication : 3/31/2010 9:42:42 AM-->
+		<!-- MCP -->
+		</div></div>
+			<div id="closed">&nbsp;</div>
+<!-- BEGIN: OnlineOpinion v4.1.6
+* The following code is Copyright 1998-2009 Opinionlab, Inc.
+* All rights reserved. Unauthorized use is prohibited.
+* This product and other products of OpinionLab, Inc. are protected by U.S. Patent No. US 6606581, 6421724, 6785717 B1 and other patents pending.
+* http://www.opinionlab.com
+-->
+<!-- MAIN OL STYLESHEET; NECESSARY FOR FLOATING AND ANY ON PAGE CARD IMPLEMENTATIONS -->
+<link rel="stylesheet" type="text/css" href="/en_en/css/oo_style.css" />
+<!-- MAIN OL ENGINE; NECESSARY FOR ALL IMPLEMENTATIONS -->
+<script language="javascript" type="text/javascript" charset="windows-1252" src="/en_en/js/onlineopinionOO4S/oo_engine_c.js"></script>
+<!-- FEEDBACK PLUG-IN; FLOATING -->
+<script language="javascript" type="text/javascript" charset="windows-1252" src="/en_en/js/onlineopinionOO4S/oo_conf_en-US_float.js"></script>
+<!-- END: OnlineOpinion v4.1.6 -->
+	</body>
+</html>
+

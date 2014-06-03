@@ -1,0 +1,327 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/SIDHelp.dwt.php" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=ISO-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>
+Appalachian Athletic Conference - 2009 Men's Tennis Roster
+</title>
+<!-- InstanceEndEditable -->
+<meta name="description" content="" />
+<meta name="keywords" lang="en-us" content=", SIDHelp" />
+<link href="/includes/css/SIDHelp.css" rel="stylesheet" type="text/css" />
+<link href="/includes/css/layout.css" rel="stylesheet" type="text/css" />
+<link href="/includes/css/aac.css" rel="stylesheet" type="text/css" />
+<link href="/includes/css/tabs.css" rel="stylesheet" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="Appalachian Athletic Conference Athletics" href="http://www.aacsports.com/rss.php" />
+<!--[if IE]>
+<style type="text/css">
+#outer{word-wrap:break-word;}
+</style>
+<![endif]-->
+<script type="text/javascript" language="JavaScript" src="/includes/js/jquery.js"></script>
+<script type="text/javascript" language="JavaScript" src="/includes/js/jquery.iframe.php"></script>
+<script type="text/javascript" language="JavaScript" src="/admin/js/script.js"></script>
+<script type="text/javascript" language="JavaScript" src="/includes/js/jquery.jdMenu.js"></script>
+<script type="text/javascript" language="JavaScript" src="/admin/js/jquery.form.php"></script>
+<script type="text/javascript" language="JavaScript" src="/includes/js/sidhelp.js"></script>
+<script type="text/javascript" language="JavaScript" src="/includes/js/swfobject2.js"></script>
+<script type="text/javascript" language="JavaScript" src="/includes/js/swfformfix2.js"></script>
+<script type="text/javascript" language="JavaScript" src="/includes/js/jquery.cycle.js"></script>
+<script type="text/javascript" language="JavaScript" src="/includes/js/jquery-ui.js"></script>
+<script type="text/javascript" language="JavaScript" src="/includes/js/jquery.dimensions.js"></script>
+<script type="text/javascript" language="JavaScript" src="/includes/js/jquery.positionBy.js"></script>	
+<link href="/includes/css/print.css" rel="stylesheet" type="text/css" media="print" />
+<script type="text/javascript">
+$(document).ready(function() { 
+    // bind form using ajaxForm 
+	var options = {
+		target: '#fanPollDiv', 
+		beforeSubmit:fadeOut,
+	 	success:fadeIn
+	};
+    $('#fanPoll').ajaxForm(options);
+	$(function() {
+			$('#scoreboard > ul').tabs();
+		})
+	$(function() {
+			$('#centerContent > ul').tabs();
+		})
+	$('.rotatingAds').cycle({ 
+			fx:     'fade', 
+			timeout: 7000,
+			speed:  1000, 
+			pause: 1 
+		});
+		
+		
+});
+	function fadeOut(){
+		$("#fanPollDiv").css("display","none"); 	
+	}
+	function fadeIn(){	
+	$("#fanPollDiv").fadeIn(2000);
+	return false;
+	}
+	
+</script>
+<!-- InstanceBeginEditable name="head" -->
+<link type="text/css" href="/includes/css/roster.css" rel="stylesheet" />
+<link type="text/css" href="/includes/css/sport.css" rel="stylesheet" />
+<script type="text/javascript" language="JavaScript" src="/includes/js/jquery.tablesorter.js"></script>
+<script type="text/javascript">
+$(document).ready(function() { 
+    $(".rosterTable").tablesorter({ headers:{0:{sorter:"playernum"},1:{sorter:"text"},2:{sorter:"class2"},3:{sorter:"text"},4:{sorter:"height"}}, sortList: [[0,0]]}); 
+	$
+	
+});
+
+</script>
+<!-- InstanceEndEditable -->
+</head>
+<body>
+<div id="fullheightcontainer">
+  <div id="wrapper">
+    <div id="outer">
+      <div id="float-wrap">
+        <div id="center">
+          <div id="clearheadercenter"></div>
+          <div id="container-center">
+          	<div id="pageTitle"></div>
+            <!-- InstanceBeginEditable name="Main Content" -->
+				<div class="sportNav"><div class="sportTitle">2009 Men's Tennis</div><div class="sportLinks"><a href="/sport/6/8.php">Men's Tennis Home</a> &#8226; <a href="/roster/6/8.php">Roster</a> &#8226; <a href="/schedule/6/8.php">Schedule &amp; Results</a> &#8226; <a href="/awards/6/8.php">Awards</a>
+</div>
+</div>
+
+<!-- Begin Box -->
+
+	<div class="box second">
+		<div class="boxTitle">2009 Men's Tennis Rosters</div>
+		<div class="boxContent">
+	<div class="rosterTeamName" id="roster183">Bluefield</div>
+<table class="rosterTable">
+	<thead>
+		<tr class="rosterRowH"><th class="rosterNumH">#</th><th class="rosterName">Name</th><th class="rosterClassH">Cl.</th><th class="rosterPosH">Pos.</th><th class="rosterHeightH">Ht.</th><th class="rosterWeightH">Wt.</th><th class="rosterTownH">Hometown</th></tr>
+	</thead>
+	<tbody><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Bobby Barton</td><td class="rosterClass">JR</td><td class="rosterPos"></td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Roanoke, VA</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Tyler Eastep</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Bland, VA</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Justin Halsey</td><td class="rosterClass">JR</td><td class="rosterPos"></td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Roanoke, VA</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Seth Jones</td><td class="rosterClass">SR</td><td class="rosterPos"></td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Salisbury, MD</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Borgia M'Bala</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Paris, France</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">T.J. Rollinson</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Burlington, NC</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Pace Snow</td><td class="rosterClass">SR</td><td class="rosterPos"></td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Galax, VA</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Domenic Zaccaria</td><td class="rosterClass">JR</td><td class="rosterPos"></td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Mount Sidney, VA</td></tr></tbody>
+</table>
+<div class="coaches">
+	<div class="coach">Jessica Brokaw - Head Coach</div>
+</div>
+
+	<div class="rosterTeamName" id="roster239">Covenant</div>
+<table class="rosterTable">
+	<thead>
+		<tr class="rosterRowH"><th class="rosterNumH">#</th><th class="rosterName">Name</th><th class="rosterClassH">Cl.</th><th class="rosterPosH">Pos.</th><th class="rosterHeightH">Ht.</th><th class="rosterWeightH">Wt.</th><th class="rosterTownH">Hometown</th></tr>
+	</thead>
+	<tbody><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Ryan Bernardez</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Cummings, GA</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Calvin Chase</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Tacoma, WA</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Adam Herberich</td><td class="rosterClass">SR</td><td class="rosterPos"></td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Chattanooga, TN</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Jonathan Herberich</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Chattanooga, TN</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">John Hirte</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Maple Grove, MN</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Joshua Jeremiah</td><td class="rosterClass">SO</td><td class="rosterPos"></td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Suwanee, GA</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Andrew Jones</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Waxhaw, NC</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Daniel Manget</td><td class="rosterClass">SR</td><td class="rosterPos"></td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Marietta, GA</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Garrett Reid</td><td class="rosterClass">JR</td><td class="rosterPos"></td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Dunwoody, GA</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Brandon Snipes</td><td class="rosterClass">SO</td><td class="rosterPos"></td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Hixson, TN</td></tr></tbody>
+</table>
+<div class="coaches">
+	<div class="coach">Katherine Smith - Head Coach</div>
+</div>
+
+	<div class="rosterTeamName" id="roster21">King</div>
+<table class="rosterTable">
+	<thead>
+		<tr class="rosterRowH"><th class="rosterNumH">#</th><th class="rosterName">Name</th><th class="rosterClassH">Cl.</th><th class="rosterPosH">Pos.</th><th class="rosterHeightH">Ht.</th><th class="rosterWeightH">Wt.</th><th class="rosterTownH">Hometown</th></tr>
+	</thead>
+	<tbody><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Christopher Coleman</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">5-7</td><td class="rosterWeight">150</td><td class="rosterTown">Bristol, VA</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Seth Hale</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">5-11</td><td class="rosterWeight">178</td><td class="rosterTown">Knoxville, TN</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Oriol Mirallas</td><td class="rosterClass">SO</td><td class="rosterPos"></td><td class="rosterHeight">5-7</td><td class="rosterWeight">139</td><td class="rosterTown">Barcelona, Spain</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Jordan Pattan</td><td class="rosterClass">SO</td><td class="rosterPos"></td><td class="rosterHeight">5-7</td><td class="rosterWeight">130</td><td class="rosterTown">Draper, VA</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Nicholas Smith</td><td class="rosterClass">SO</td><td class="rosterPos"></td><td class="rosterHeight">5-8</td><td class="rosterWeight">145</td><td class="rosterTown">Kingsport, TN</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Hiroki Takagi</td><td class="rosterClass">JR</td><td class="rosterPos"></td><td class="rosterHeight">5-4</td><td class="rosterWeight">130</td><td class="rosterTown">Osaka, Japan</td></tr><tr class="rosterRow"><td class="rosterNum">2</td><td class="rosterName">Juan Avila</td><td class="rosterClass">JR</td><td class="rosterPos"></td><td class="rosterHeight">5-7</td><td class="rosterWeight">130</td><td class="rosterTown">Morelas, Mexico</td></tr><tr class="rosterRow"><td class="rosterNum">8</td><td class="rosterName">Austin Vandivort</td><td class="rosterClass">JR</td><td class="rosterPos"></td><td class="rosterHeight">6-2</td><td class="rosterWeight">145</td><td class="rosterTown">Nasheville, TN</td></tr></tbody>
+</table>
+<div class="coaches">
+	<div class="coach">Chris Bartlett - Head Coach</div>
+	<div class="coach">Jon Axel Jonsson - Student Assistant</div>
+</div>
+
+	<div class="rosterTeamName" id="roster55">Milligan</div>
+<table class="rosterTable">
+	<thead>
+		<tr class="rosterRowH"><th class="rosterNumH">#</th><th class="rosterName">Name</th><th class="rosterClassH">Cl.</th><th class="rosterPosH">Pos.</th><th class="rosterHeightH">Ht.</th><th class="rosterWeightH">Wt.</th><th class="rosterTownH">Hometown</th></tr>
+	</thead>
+	<tbody><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Jacob Albrecht</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">5-9</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Elizabethton, TN</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Matt Clark</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">5-10</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Kingsport, TN</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Ricky Jones</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">5-9</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Elizabethton, TN</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Micah Redden</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">6-2</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Portsmouth, OH</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Wesley Rice</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">5-8</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Knoxville, TN</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Andrew Stewart</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">6-3</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Newcastle upon Tyne, England</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Jonathan Tuttle</td><td class="rosterClass">JR</td><td class="rosterPos"></td><td class="rosterHeight">6-1</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Granville, OH</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Bryan Upshaw</td><td class="rosterClass">JR</td><td class="rosterPos"></td><td class="rosterHeight">5-9</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Kingsport, TN</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Ben Way</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">6-2</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Kingsport, TN</td></tr></tbody>
+</table>
+<div class="coaches">
+	<div class="coach">Ron Worrell - Head Coach</div>
+</div>
+
+	<div class="rosterTeamName" id="roster150">Tennessee Wesleyan</div>
+<table class="rosterTable">
+	<thead>
+		<tr class="rosterRowH"><th class="rosterNumH">#</th><th class="rosterName">Name</th><th class="rosterClassH">Cl.</th><th class="rosterPosH">Pos.</th><th class="rosterHeightH">Ht.</th><th class="rosterWeightH">Wt.</th><th class="rosterTownH">Hometown</th></tr>
+	</thead>
+	<tbody><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Neal Baldwin</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">6-3</td><td class="rosterWeight">205</td><td class="rosterTown">Athens, TN</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Guilherme Cervezio</td><td class="rosterClass">JR</td><td class="rosterPos"></td><td class="rosterHeight">5-9</td><td class="rosterWeight">150</td><td class="rosterTown">Brazil</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Eric Chastain</td><td class="rosterClass">SO</td><td class="rosterPos"></td><td class="rosterHeight">6-0</td><td class="rosterWeight">150</td><td class="rosterTown">Chattanooga, TN</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Ransom Couslett</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">5-8</td><td class="rosterWeight">140</td><td class="rosterTown"></td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Cody Gaby</td><td class="rosterClass">JR</td><td class="rosterPos"></td><td class="rosterHeight">6-2</td><td class="rosterWeight">190</td><td class="rosterTown">Maryville, TN</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Trevor Hawkins</td><td class="rosterClass">SO</td><td class="rosterPos"></td><td class="rosterHeight">6-0</td><td class="rosterWeight">110</td><td class="rosterTown">Sweetwater, TN</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">George Pannell</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">6-0</td><td class="rosterWeight">175</td><td class="rosterTown">Athens, TN</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Giovanni Santos</td><td class="rosterClass">SO</td><td class="rosterPos"></td><td class="rosterHeight">6-2</td><td class="rosterWeight">170</td><td class="rosterTown">Brazil</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Tanner Stancil</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">5-10</td><td class="rosterWeight">160</td><td class="rosterTown">Chattanooga, TN</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Hunter Watson</td><td class="rosterClass">SO</td><td class="rosterPos"></td><td class="rosterHeight">6-3</td><td class="rosterWeight">190</td><td class="rosterTown">Cleveland, TN</td></tr></tbody>
+</table>
+<div class="coaches">
+	<div class="coach">Johnny Thornton - Head Coach</div>
+	<div class="coach">Newton Mizutani - Assistant Coach</div>
+</div>
+
+	<div class="rosterTeamName" id="roster172">Union</div>
+<table class="rosterTable">
+	<thead>
+		<tr class="rosterRowH"><th class="rosterNumH">#</th><th class="rosterName">Name</th><th class="rosterClassH">Cl.</th><th class="rosterPosH">Pos.</th><th class="rosterHeightH">Ht.</th><th class="rosterWeightH">Wt.</th><th class="rosterTownH">Hometown</th></tr>
+	</thead>
+	<tbody><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Andrew Abner</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Barbourville, Ky.</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Renardy Guelfi</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">5-10</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Curitiba, Brazil</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Anthony Hill</td><td class="rosterClass">SR</td><td class="rosterPos"></td><td class="rosterHeight">5-9</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Guayaquil, Ecuador</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Juan Manuel Lorenzo</td><td class="rosterClass">SR</td><td class="rosterPos"></td><td class="rosterHeight">5-10</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Barcelona, Spain</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Rafael Millon</td><td class="rosterClass">SO</td><td class="rosterPos"></td><td class="rosterHeight">6-1</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Sao Paulo, Brazil</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Roscoe Moonieyan</td><td class="rosterClass">SR</td><td class="rosterPos"></td><td class="rosterHeight">5-5</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">East London, South Africa</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Alvaro Vargas</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">5-9</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Bogota, Columbia</td></tr></tbody>
+</table>
+<div class="coaches">
+	<div class="coach">Renzo Lopez - Head Coach</div>
+	<div class="coach">Don Lawson - Assistant Coach</div>
+	<div class="coach">Ivan Mardones - Assistant Coach</div>
+</div>
+
+	<div class="rosterTeamName" id="roster189">UVA-Wise</div>
+<table class="rosterTable">
+	<thead>
+		<tr class="rosterRowH"><th class="rosterNumH">#</th><th class="rosterName">Name</th><th class="rosterClassH">Cl.</th><th class="rosterPosH">Pos.</th><th class="rosterHeightH">Ht.</th><th class="rosterWeightH">Wt.</th><th class="rosterTownH">Hometown</th></tr>
+	</thead>
+	<tbody><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Arnaud Ba</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Washington D.C.</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Josh Belcher</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Haysi, Va</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Mark Collins</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Wise, Va</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Caleb Crowder</td><td class="rosterClass">JR</td><td class="rosterPos"></td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Norton, Va.</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Randall Maddle</td><td class="rosterClass">JR</td><td class="rosterPos"></td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Pennington Gap, Va</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Dave Meade</td><td class="rosterClass">FR</td><td class="rosterPos"></td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Pound, Va</td></tr><tr class="rosterRow"><td class="rosterNum">&nbsp;</td><td class="rosterName">Daniel Robinson</td><td class="rosterClass">SR</td><td class="rosterPos"></td><td class="rosterHeight">&nbsp;</td><td class="rosterWeight">&nbsp;</td><td class="rosterTown">Clintwood, Va.</td></tr></tbody>
+</table>
+<div class="coaches">
+	<div class="coach">Danny Rowland - Head Coach</div>
+	<div class="coach">Tim Dotson - Assistant Coach</div>
+	<div class="coach">Jon South - Assistant Coach</div>
+</div>
+</div>
+		<div class="boxBottom">&nbsp;</div>
+		</div>
+
+<!-- End Box -->
+            <!-- InstanceEndEditable -->
+          </div>
+          <div id="clearfootercenter"></div>
+        </div>
+        <div id="left">
+          <div id="clearheaderleft"></div>
+          <div id="container-left">
+            
+
+<!-- Begin Box -->
+
+	<div class="boxSide">
+		<div class="boxSideTitle">Men's Sports</div>
+		<div class="boxSideContent"><div class="menu"><ul><li><a href="/sport/6/6.php">Baseball</a></li><li><a href="/sport/6/4.php"> Basketball</a></li><li><a href="/sport/6/10.php"> Cross Country</a></li><li><a href="/sport/6/12.php"> Golf</a></li><li><a href="/sport/6/1.php"> Soccer</a></li><li><a href="/sport/6/8.php"> Tennis</a></li><li><a href="/sport/6/14.php"> Track & Field</a></li></ul></div>
+</div>
+		<div class="boxSideBottom">&nbsp;</div>
+		</div>
+
+<!-- End Box -->
+
+
+<!-- Begin Box -->
+
+	<div class="boxSide">
+		<div class="boxSideTitle">Women's Sports</div>
+		<div class="boxSideContent"><div class="menu"><ul><li><a href="/sport/6/5.php"> Basketball</a></li><li><a href="/sport/6/11.php"> Cross Country</a></li><li><a href="/sport/6/13.php"> Golf</a></li><li><a href="/sport/6/2.php"> Soccer</a></li><li><a href="/sport/6/7.php">Softball</a></li><li><a href="/sport/6/9.php"> Tennis</a></li><li><a href="/sport/6/16.php"> Track & Field</a></li><li><a href="/sport/6/3.php">Volleyball</a></li></ul></div>
+</div>
+		<div class="boxSideBottom">&nbsp;</div>
+		</div>
+
+<!-- End Box -->
+
+
+<!-- Begin Box -->
+
+	<div class="boxSide">
+		<div class="boxSideTitle">AAC Links</div>
+		<div class="boxSideContent">
+<div class="menu"><ul><li><a href="/f/Bylaws.php">Constitution/Bylaws</a></li><li><a href="/f/Sport_Policies.php">Sport Policies</a></li><li><a href="/f/Sportsmanship.php">Sportsmanship Policy</a></li><li><a href="/allSport.php">All-Sports Trophy</a></li><li><a href="/f/championships.php">AAC Championships Dates/Locations</a></li><li><a href="/f/Awards.php">AAC Awards</a></li><li><a href="/f/Champions_Of_Character_Winners.php">AAC Champions of Character Awards</a></li><li><a href="/LOI.php">Letter of Intent</a></li><li><a href="/f/Meetings.php">Conference Meetings</a></li><li><a href="/f/Jobs_Center.php">Jobs Center</a></li><li><a href="/f/2011Fall/2011_Fall_Championships.php">2011 Fall Championships</a></li><li><a href="/f/AAC_Weather_Information.php">Weather</a></li>
+</ul></div></div>
+		<div class="boxSideBottom">&nbsp;</div>
+		</div>
+
+<!-- End Box -->
+<div class="adsLeft"><div class="adBox  leftAds">
+	<div class="ad">
+		<a href="http://www.playnaia.org/index.php" target="_blank"><img  src="http://www.aacsports.com/images/NewAds/playnaia-aac.jpg" border="0" alt="photo" title="photo" /></a>
+	</div>
+</div>
+</div><div id="NAIALogo"><a href="http://www.naia.org/" target="_blank"><img src="/images_web/NAIALogo.gif" alt="NAIA" /></a></div>
+          </div>
+          <div id="clearfooterleft"></div>
+        </div>
+      </div>
+      <div id="right">
+        <div id="clearheaderright"></div>
+        <div id="container-right">
+		
+
+<!-- Begin Box -->
+
+	<div class="boxSide">
+		<div class="boxSideTitle">Archived Seasons</div>
+		<div class="boxSideContent"><div class="seasonMenu"><a href="/roster/10/8.php">2012</a> - <a href="/roster/8/8.php">2011</a> - <a href="/roster/7/8.php">2010</a> - <a href="#" class="current">2009</a> - <a href="/roster/5/8.php">2008</a> - <a href="/roster/4/8.php">2007</a> - <a href="/roster/3/8.php">2006</a></div></div>
+		<div class="boxSideBottom">&nbsp;</div>
+		</div>
+
+<!-- End Box -->
+
+
+<!-- Begin Box -->
+
+	<div class="boxSide jumpMenuTitle">
+		<div class="boxSideTitle">2009 Men's Tennis Teams</div>
+		<div class="boxSideContent"><ul class="jumpMenu"><li><a href="#roster183">Bluefield</a></li><li><a href="#roster239">Covenant</a></li><li><a href="#roster21">King</a></li><li><a href="#roster55">Milligan</a></li><li><a href="#roster150">Tennessee Wesleyan</a></li><li><a href="#roster172">Union</a></li><li><a href="#roster189">UVA-Wise</a></li></ul></div>
+		<div class="boxSideBottom">&nbsp;</div>
+		</div>
+
+<!-- End Box -->
+<div class="adsRight"><div class="adBox  rightAds">
+	<div class="ad">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Faacsports&amp;width=200&amp;colorscheme=dark&amp;show_faces=true&amp;border_color=white&amp;stream=false&amp;header=false&amp;height=315" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:315px;" allowTransparency="true"></iframe>	</div>
+	<div class="ad">
+		<a href="http://www.holidayinn.com/sweetdilemma" target="_blank"><img  src="http://www.aacsports.com/images/NewAds/HI_Free_Night_180x150.gif" border="0" alt="photo" title="photo" /></a>
+	</div>
+	<div class="ad">
+		<a href="http://twitter.com/AACsports" target="_blank"><img  src="http://www.aacsports.com/images/SID/twitter_logo_header.png" border="0" alt="photo" title="photo" /></a>
+		<div class="adCaption"><a href="http://twitter.com/AACsports" target="_blank">Get the latest AAC news!</a></div>
+	</div>
+</div>
+</div>	
+<div id="SIDHelp"><a href="http://www.sidhelp.com/" target="_blank"><img src="/images_web/SIDHelpLogo.gif" alt="SIDHelp" /></a></div>        <!-- InstanceBeginEditable name="Right Side" -->
+		<!-- InstanceEndEditable -->
+        </div>
+        <div id="clearfooterright"></div>
+      </div>
+      <div class="clear">&nbsp;</div>
+    </div>
+  </div>
+  <div id="header">
+      <div class="blackbar">&nbsp;</div>
+<div id="headerContent">
+	<div id="headerImage">
+		<div id="headerTop">Home of the Appalachian Athletic Conference</div>	
+	</div>
+</div>
+	<div id="mainMenu"><div id="nav"><ul><li class="first"><a href="/index.php">Home</a></li><li ><a href="/f/AAC_Sponsors.php">AAC Sponsors</a></li><li ><a href="/links.php">Links</a></li><li ><a href="/map.php">League Map</a></li><li ><a href="/members.php">Members</a></li><li ><a href="/article.php">News</a></li><li ><a href="/pow.php">Player of the Week</a></li><li ><a href="/f/History_of_the_AAC.php">Who We Are</a></li><li ><a href="/f/Contact_Us.php">Contact Us</a></li></ul></div></div>
+
+  </div>
+  <div class="clear">&nbsp;</div>
+  <div id="footer">
+      <div id="subfooter2">
+	<div class="footerMenus">
+		
+		<div class="footerCol"><div class="menuItemTitle">Men's Sports</div><div class="menu"><ul><li><a href="/sport/6/6.php">Baseball</a></li><li><a href="/sport/6/4.php"> Basketball</a></li><li><a href="/sport/6/10.php"> Cross Country</a></li><li><a href="/sport/6/12.php"> Golf</a></li><li><a href="/sport/6/1.php"> Soccer</a></li><li><a href="/sport/6/8.php"> Tennis</a></li><li><a href="/sport/6/14.php"> Track & Field</a></li></ul></div>
+</div><div class="footerCol"><div class="menuItemTitle">Women's Sports</div><div class="menu"><ul><li><a href="/sport/6/5.php"> Basketball</a></li><li><a href="/sport/6/11.php"> Cross Country</a></li><li><a href="/sport/6/13.php"> Golf</a></li><li><a href="/sport/6/2.php"> Soccer</a></li><li><a href="/sport/6/7.php">Softball</a></li><li><a href="/sport/6/9.php"> Tennis</a></li><li><a href="/sport/6/16.php"> Track & Field</a></li><li><a href="/sport/6/3.php">Volleyball</a></li></ul></div>
+</div>	
+		<div class="footerCol"><div class="menuItemTitle">AAC Links</div>
+		
+<div class="menu"><ul><li><a href="/f/Bylaws.php">Constitution/Bylaws</a></li><li><a href="/f/Sport_Policies.php">Sport Policies</a></li><li><a href="/f/Sportsmanship.php">Sportsmanship Policy</a></li><li><a href="/allSport.php">All-Sports Trophy</a></li><li><a href="/f/championships.php">AAC Championships Dates/Locations</a></li><li><a href="/f/Awards.php">AAC Awards</a></li><li><a href="/f/Champions_Of_Character_Winners.php">AAC Champions of Character Awards</a></li><li><a href="/LOI.php">Letter of Intent</a></li><li><a href="/f/Meetings.php">Conference Meetings</a></li><li><a href="/f/Jobs_Center.php">Jobs Center</a></li><li><a href="/f/2011Fall/2011_Fall_Championships.php">2011 Fall Championships</a></li><li><a href="/f/AAC_Weather_Information.php">Weather</a></li>
+</ul></div>		</div>
+		<div class="footerCol"><div class="menuItemTitle">Main Menu</div>
+			<div class="menu"><ul><li class="first"><a href="/index.php">Home</a></li><li ><a href="/f/AAC_Sponsors.php">AAC Sponsors</a></li><li ><a href="/links.php">Links</a></li><li ><a href="/map.php">League Map</a></li><li ><a href="/members.php">Members</a></li><li ><a href="/article.php">News</a></li><li ><a href="/pow.php">Player of the Week</a></li><li ><a href="/f/History_of_the_AAC.php">Who We Are</a></li><li ><a href="/f/Contact_Us.php">Contact Us</a></li></ul></div>		</div>
+	</div>
+</div>
+<div id="subfooter1">Copyright (c) 2012, Appalachian Athletic Conference. All rights reserved. 
+	<br />Powered by <a href="http://www.sidhelp.com/" target="_blank">SIDHelp</a>
+</div>  </div>
+</div>
+			<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<script type="text/javascript">
+			try {
+			var pageTracker = _gat._getTracker("UA-194872-19");
+			pageTracker._trackPageview();
+			} catch(err) {}</script></body>
+<!-- InstanceEnd --></html>

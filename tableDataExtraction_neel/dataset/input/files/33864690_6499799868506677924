@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="en">
+<meta name="MSSmartTagsPreventParsing" content="TRUE">
+<meta name='description' content="View budget airline flights from Vigra Airport to 2 airports in 2 different countries, plus a map and other information about the airport.">
+
+<title>View budget flights from Aalesund, Norway</title>
+<link rel="stylesheet" href="http://www.budgetflightfinder.com/css/default.css" type="text/css">
+
+<link rel="icon" href="/favicon.png" type="image/png">
+
+
+</head>
+<body>
+<script type="text/javascript">
+window.google_analytics_uacct = "UA-588668-16";
+</script>
+<div id='header-wrap'>
+<div id='header'>
+	<div id='user'>	</div>
+</div>
+</div>
+
+<div id='nav-wrap'>
+	<div id='nav'>
+		<span class='home'><a href='/'>Search for flights</a></span>
+		<span class='other'>
+			<a href='/airlines'>Airlines</a>
+			| <a href='/faq'>Budget flight FAQ<span style='text-transform: none;'>s</span></a>
+			<!--| <a href='/budget'>Budget travel tips</a>
+			| <a href='/about'>About the site</a>
+			| <a href='/contact'>Contact us</a>-->
+			
+		</span>
+	</div>
+</div>
+
+<div id='main-wrap'>
+	<div id='main'>
+		<div class='airport-flights'>
+	<h1><span class='place'>Aalesund, Norway</span>
+	<br /><span class='airport'>Vigra Airport (<span class='place'>AES</span>)</span>
+	</h1></div><table class='cleantable' style='margin-bottom: 15px;'>
+	<tr valign='top'>
+		<td><iframe class='airport-map' frameborder='0' scrolling='no' src='/iframe-map-10838'>
+		</iframe></td><td><div class='nearby-airports'>
+			<h2>Other nearby airports</h2>
+			<p>Don't see what you need? Try checking flights departing from other airports in the vicinity of Aalesund.
+			Distances shown below are from Vigra Airport.</p>
+			<table>
+			<tr>
+				<th>Location</th>
+				<th>Airport</th>
+				<th>Distance</th>
+			</tr>
+<tr>
+				<td>Molde</td>
+				<td><a href='/flights-airport-MOL'>Aro Airport</a> (MOL)</td>
+				<td>63 km</td>
+				</tr>
+<tr>
+				<td>Bergen</td>
+				<td><a href='/flights-airport-BGO'>Flesland Airport</a> (BGO)</td>
+				<td>257 km</td>
+				</tr>
+<tr>
+				<td>Trondheim</td>
+				<td><a href='/flights-airport-TRD'>Vaernes Airport</a> (TRD)</td>
+				<td>264 km</td>
+				</tr>
+</table>
+			</div>
+</td></tr></table>
+		
+<script type="text/javascript"><!--
+google_ad_client = "pub-3625088411334385";
+google_alternate_color = "EEEEEE";
+google_ad_width = 728;
+google_ad_height = 15;
+google_ad_format = "728x15_0ads_al";
+google_ad_channel = "1330966050";
+google_color_border = "EEEEEE";
+google_color_bg = "EEEEEE";
+google_color_link = "CC0000";
+//--></script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+<h2>Non-stop budget flights from Vigra Airport</h2>
+	<div class='airport-flights' style='margin-bottom: 10px;'><table>
+		<tr>
+			<th class='col1'>Country</th>
+			<th class='col2'>City</th>
+			<th class='col3'>Airport <span style='font-weight: normal;'>(click for connecting flights)</span></th>
+			<th class='col4'>Airline(s)</th>
+		</tr>
+<tr valign='top'>
+<td class='col1' rowspan='1'>Norway <span style='font-weight: normal;'>(Domestic)</span></td><td class='col2'>Oslo</td>
+			<td class='col3'><a href='/flights-airport-OSL'>Oslo Airport</a> (OSL)</td>
+			<td class='col4'><a href='/airline-norwegian'>Norwegian</a>
+</td></tr>
+<tr valign='top'>
+<td class='col1 international' rowspan='1'>Latvia</td><td class='col2 international'>Riga</td>
+			<td class='col3 international'><a href='/flights-airport-RIX'>Riga Airport</a> (RIX)</td>
+			<td class='col4 international'><a href='/airline-airbaltic'>airBaltic</a>
+</td></tr>
+</table></div>
+
+	</div>
+</div>
+
+<div id='footer-wrap'>
+	<div id='footer'>
+		Budget Flight Finder: Text, logo, presentation, and data compilation copyright &copy; 2012. All rights reserved.
+		Please <a href='/contact'>contact us</a> with any corrections, suggestions, or questions.</p>
+	</div>
+</div>
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-588668-16");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body></html>
+
+<!-- cache copy -->

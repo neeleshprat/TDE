@@ -1,0 +1,683 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+		<meta name="keywords" content="Celebrity Cruises - Celebrity Solstice , Boats, cruise, travel, water, agencies, american-express, cruise, cruises, cruise reviews, ship tours, cruise specials, cruise deals, Caribbean cruise, travel deal, travel bargain, cheap vacation, vacation deals, vacation specials, hot cruise deals, cruise lines, cruiseline, cruise ships, cruise specialists, crusie, cruse, oasis of the seas, rccl, royal Caribbean, carnival cruise, cheap cruises, cruise vacation, river cruise, luxury cruises, cruise specials, crusies, discount cruises, last minute cruises, last minute cruise, discounted cruises, cruise packages, last minute cruise deals, last minute cruise specials, all inclusive cruises" />
+		<meta name="description" content="Celebrity Cruises - Celebrity Solstice - Whether you are a first time cruiser or have sailed the seven seas, Cruise Planners strives to exceed your expectations! Cruise Planners specializes in helping you decide what cruise best fits your personal needs. Ready to Go? Start planning your dream vacation today!" />
+
+		<link rel="stylesheet" type="text/css" href="/css/fun-base.css" /><link rel="stylesheet" type="text/css" href="/css/epona-print.css" media="print" /><link rel="stylesheet" type="text/css" href="/css/epona-lightbox.css" /><link rel="stylesheet" type="text/css" href="/css/epona-forms.css" /><link rel="stylesheet" type="text/css" href="/css/epona-msgboxes.css" /><link rel="stylesheet" type="text/css" href="/css/sprite.css" /><link rel="stylesheet" type="text/css" href="/css/epona/Default-caribbean3.css" />
+		<style type="text/css" media="screen, tv, projection">
+		.ss_sprite {
+						display: inline;
+						overflow: hidden;
+						height: 18px;
+						padding-left: 18px;
+						padding-bottom: 2px;
+						background-repeat: no-repeat;
+						background-image:url('/images/sprites.png');
+		}
+		
+		
+		
+		
+		
+		
+		
+		table.sort tr.alt {
+			background: #dfdfdf;
+		}
+
+		#flashMessage.message {
+			background-image: url('/images/messages/info.png');
+		}
+		.success {
+			background-image:url('/images/messages/success.png');
+		}
+		.warning {
+			background-image: url('/images/messages/warning.png');
+		}
+		.error {
+			background-image: url('/images/messages/error.png');
+		}
+		</style>
+
+		
+		<!-- {if !empty($tables)}
+		<link rel="stylesheet" type="text/css" href="{$CSS_ROOT}tables.css" media="screen, tv, projection" />
+		{/if} -->
+
+		<script type="text/javascript" src="/js/prototype.js"></script><script type="text/javascript" src="/js/scriptaculous.js"></script><script type="text/javascript" src="/js/epona/fat.js"></script><script type="text/javascript" src="/js/epona/moo.fx.js"></script><script type="text/javascript" src="/js/epona/moo.fx.pack.js"></script><script type="text/javascript" src="/js/epona/tablesort.js"></script><script type="text/javascript" src="/js/epona/eLib.js"></script><script type="text/javascript" src="/js/epona/ajax_search.js"></script><script type="text/javascript" src="/js/general.js"></script>		
+		<script type="text/javascript">
+			var basePath = '';
+		</script>
+		<script type="text/javascript" src="/js/facebox/facebox.js"></script><link rel="stylesheet" type="text/css" href="/css/facebox/facebox.css" />
+		<style type="text/css" media="screen, tv, projection">
+		/* facebox */
+		#facebox .b {
+		  background:url("/js/facebox/b.png");
+		}
+
+		#facebox .tl {
+		  background:url("/js/facebox/tl.png");
+		}
+
+		#facebox .tr {
+		  background:url("/js/facebox/tr.png");
+		}
+
+		#facebox .bl {
+		  background:url("/js/facebox/bl.png");
+		}
+
+		#facebox .br {
+		  background:url("/js/facebox/br.png");
+		}
+
+		.midHeader {
+			background: url("/images/epona/caribbean3/left.gif") no-repeat top left;
+			margin-left: auto; margin-right: auto;
+		}
+
+		.headerLinks {
+			background: url("/images/epona/caribbean3/right.gif") no-repeat top right;
+		}
+
+		#header {
+                    			background-image: url("/images/epona/caribbean3/repeat.jpg");
+		                            background-repeat: repeat-x;
+			background-position: 383px 0px;
+		}
+
+		.subHeader, #groupNav {
+			background: url("/images/epona/caribbean3/bar.gif") repeat-x top left;
+		}
+
+		#orderBy {
+			background: url("/images/epona/caribbean3/bar.gif") repeat-x top left;
+		}
+
+		.helpLink {
+			background: url('/images/helpBox.gif') no-repeat top left;
+		}
+		.contentBack {
+			background: #FFFFFF;
+
+		}
+				#main-copy {
+			text-align: justify;
+			margin: -0.5ex 1em 1em 16.5em;
+			padding: 0.5em 10px;
+			clear: left;
+		}
+		
+		</style>
+
+		<title>Cruise Planners - Celebrity Cruises - Celebrity Solstice</title>
+			</head>
+
+	<body>
+		<!-- For non-visual user agents: -->
+		<div id="top"><a href="#main-copy" class="doNotDisplay doNotPrint">Skip to main content.</a></div>
+		<div id="header">
+                    			<div class="contentAlignment">
+				<div class="midHeader">
+					<h1 class="headerTitle">&nbsp;</h1><h1 class="doNotDisplay">Melody Mull</h1>
+					<div class="headerSubTitle" title="Melody Mull">
+						800-424-1725					</div>
+
+					<br class="doNotDisplay doNotPrint" />
+
+					<div class="headerLinks">
+						<p>&nbsp;</p>
+						<p>&nbsp;</p>
+						<p>&nbsp;</p>
+					</div>
+				</div>
+			</div>
+			<div class="subHeader">
+				<div class="contentAlignment">
+					<span class="doNotDisplay">Navigation:</span>
+					<a href="/" title="Home">Home</a>&nbsp;|&nbsp;
+					<a href="/searches/" title="Cruise Search">Search</a>&nbsp;|&nbsp;
+					<a href="/cruiseLines/" title="Cruise Line Information">Cruise Lines</a>&nbsp;|&nbsp;
+											<a href="http://travel.ian.com/index.jsp?cid=316535" title="Other Travel" onclick="window.open(&#039;http://travel.ian.com/index.jsp?cid=316535&#039;, &#039;ean&#039;, &#039;status=0,location=1,resizable=yes,scrollbars=1,height=600,width=800&#039;); return false;">Other Travel</a>&nbsp;|&nbsp;
+										<a href="/destinations/" title="Destination Information">Destinations</a>&nbsp;|&nbsp;
+											<a href="/specials/" title="Special Cruise Rates">Specials</a>&nbsp;|&nbsp;
+																										<a href="/pages/registry" title="Registry">Registry</a>&nbsp;|&nbsp;					
+										<a href="/pages/contact" title="Contact Us">Contact Us</a>				</div>
+			</div>
+                      			<div class="contentContainer">
+				<div style="height:5px"></div>
+					<div class="header_container">
+						<span class="round_span4"></span>
+						<span class="round_span3"></span>
+						<span class="round_span2"></span>
+						<span class="round_span1"></span>
+				</div>
+				<div class="contentBack">
+					<table width="95%" style="margin:0;padding:0" border="0">
+						<tr>
+							<td style="height:5px" colspan="2"></td>
+						</tr>
+						<tr>
+							<td class="navContainer" width="185" valign="top">
+								                                                                <div>
+									<img src="/images/fun/navigation-top.gif" style="padding:0;margin:0" alt="" />								</div>
+								<div style="background-image:url('/images/fun/navigation-bkgd.gif');overflow: auto; width:181px;height: 420px;background-position:bottom left;background-repeat:repeat-x;border:1px solid #6AB403;">
+									<ul class="navMenu">
+<li><a href="/page/2080-About%20Cruise%20Planners" style="color:#000000; text-decoration:none;font-weight:normal">About Cruise Planners</a></li><li><a href="/page/9805-AMEX%20-%20Pay%20with%20Points" style="color:#000000; text-decoration:none;font-weight:normal">AMEX - Pay With Points</a></li><li><a href="/page/11518-AMEX%20-%20Mariner%20Club" style="color:#000000; text-decoration:none;font-weight:normal">AMEX - Mariner Club</a></li><li><a href="/pages/registry" style="color:#000000; text-decoration:none;font-weight:normal">Registry</a></li><li><a href="/page/161-activities" style="color:#000000; text-decoration:none;font-weight:normal">activities</a></li><li><a href="/page/162-requestinfo" style="color:#000000; text-decoration:none;font-weight:normal">requestinfo</a></li><li><a href="/page/165-page1" style="color:#000000; text-decoration:none;font-weight:normal">page1</a></li><li><a href="/page/2081-First Time Cruisers" style="color:#000000; text-decoration:none;font-weight:normal">First Time Cruisers</a></li><li><a href="/page/2083-Packing List" style="color:#000000; text-decoration:none;font-weight:normal">Packing List</a></li><li><a href="/page/7063-Travel Insurance" style="color:#000000; text-decoration:none;font-weight:normal">Travel Insurance</a></li><li><a href="/page/7410-Group Travel" style="color:#000000; text-decoration:none;font-weight:normal">Group Travel</a></li><li><a href="/page/7621-Cruisitude" style="color:#000000; text-decoration:none;font-weight:normal">Cruisitude</a></li><li><a href="/page/12594-Travel Documentation" style="color:#000000; text-decoration:none;font-weight:normal">Travel Documentation</a></li><li><a href="/page/13001-Travel Resources" style="color:#000000; text-decoration:none;font-weight:normal">Travel Resources</a></li><li><a href="/page/13736-Land &amp; Tour Vacations" style="color:#000000; text-decoration:none;font-weight:normal">Land &amp; Tour Vacations</a></li><li><a href="/page/14421-10 Night Completely Packaged Alaska Cruise Tour" style="color:#000000; text-decoration:none;font-weight:normal">10 Night Completely Packaged Alaska Cruise Tour</a></li></ul>								</div>
+                                                            <div class="rowOfBoxes" style="width:185px;">
+									<center>
+										<div class="quarter noBorderOnLeft" id="mailingList">
+										<script type="text/javascript">
+var processForm = function(){
+	Effect.BlindDown('captcha_div');
+
+	$('register_button').onclick = transferFieldsAndSubmit;
+
+	return;
+}
+
+var transferFieldsAndSubmit = function(){
+	var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+
+	errors = false;
+	
+	if($('email').value == 'Insert Email Address' || $('email').value == ''){
+		errors = true;
+	}
+	else if(reg.test($('email').value) == false){
+		errors = true;
+	}
+	
+	if(errors == false){
+		$('mailingListEmail').value = $('email').value;
+		$('mailingListCaptcha').value = $('captcha').value;
+
+		$('submit_step_1').click();
+		new Effect.Fade('fade', {duration:0.33, from:1.0, to:0.33});
+	}
+	else{
+		alert('Please enter in a valid email address');
+		return false;
+	}
+}
+
+var submitDetails = function(){
+	$('mailingListFirstName').value = $('first_name').value;
+	$('mailingListLastName').value = $('last_name').value;
+	$('mailingListState').value = $('state').value;
+	$('mailingListAge').value = $('age').value;
+	$('mailingListMilitary').value = ($('military').checked ? 1 : 0);
+
+	$('submit_step_2').click();
+	new Effect.Fade('fade', {duration:0.33, from:1.0, to:0.33});
+	return;
+}
+
+function highlightEffect(element){
+//	new Effect.Highlight(element,{ startcolor: '#ffff99'})
+	return;
+}
+</script>
+<div id="travel_deals_content">
+<div id="fade" style="width:175px">
+	<div class="travelDeals">
+<img src="/images/travel_deals/travel_deal_top.png" style="padding:0;margin:0" alt="" />		<div class="travelDealsText" id="travelDealsText">Exclusive cruise & travel deals delivered right to your inbox</div>
+		<div class="travelDealsSpacer"></div>
+		<div style="margin-left:5px">
+	<input name="data[email]" type="text" id="email" div="" label="" style="width:140px;color: #666666" value="Insert Email Address" onClick="if(this.value == &#039;Insert Email Address&#039;){this.value = &#039;&#039;;this.style.color= &#039;#000000&#039;;}" />		</div>
+		<div class="travelDealsSpacer"></div>
+		<div style="text-align:center;display:none" id="captcha_div">
+	<img src="/scripts/captcha_component.php?rand=10515839" alt="" /><input name="data[captcha]" type="text" id="captcha" div="" label="" style="margin-left:5px;margin-top:4px;width:140px;color:#666666" value="Enter in Code Above" onClick="this.value = &#039;&#039;;this.style.color= &#039;#000000&#039;" />	</div>	
+	<div class="travelDealsSmallText"><a href="postcard">View Sample</a><br /><!--<a href="#">Unsubscribe</a>--></div>
+	<div class="travelDealsRegisterButton"><img src="/images/travel_deals/register.png" id="register_button" onMouseOver="this.style.cursor=&#039;pointer&#039;" style="padding:0;margin:0" onClick="processForm()" alt="" /></div>
+	<div style="clear:both;height:5px"></div>
+	</div>
+</div>
+</div>
+<div style="display:none" id="hiddenForm">
+<form style="min-width: 1px;" div="" id="mailingListAddForm" method="post" action="/mailing_lists/add"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset><input type="hidden" name="data[mailingList][email]" value="" id="mailingListEmail" /><input type="hidden" name="data[mailingList][captcha]" value="" id="mailingListCaptcha" /><input type="submit" url="/mailingLists/checkViaAjax" id="submit_step_1" value="Search" onclick="event.returnValue = false; return false;" /><script type="text/javascript">
+//<![CDATA[
+Event.observe("submit_step_1", 'click', function(event) { new Ajax.Updater('travel_deals_content','/mailingLists/checkViaAjax', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.hide('travelDealsStatus');}, onLoading:function(request) {Element.show('travelDealsStatus');}, parameters:Form.serialize(Event.element(event).form), requestHeaders:['X-Update', 'travel_deals_content']}) }, false);
+//]]>
+</script></form><form div="" id="mailingListAddForm" method="post" action="/mailing_lists/add"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset><input type="hidden" name="data[mailingList][first_name]" value="" id="mailingListFirstName" /><input type="hidden" name="data[mailingList][last_name]" value="" id="mailingListLastName" /><input type="hidden" name="data[mailingList][state]" value="" id="mailingListState" /><input type="hidden" name="data[mailingList][age]" value="" id="mailingListAge" /><input type="hidden" name="data[mailingList][military]" value="" id="mailingListMilitary" /><input type="submit" url="/mailingLists/saveAdditionalDetails" id="submit_step_2" value="Search" onclick="event.returnValue = false; return false;" /><script type="text/javascript">
+//<![CDATA[
+Event.observe("submit_step_2", 'click', function(event) { new Ajax.Updater('travel_deals_content','/mailingLists/saveAdditionalDetails', {asynchronous:true, evalScripts:true, onComplete:function(request, json) {Element.hide('travelDealsStatus');}, onLoading:function(request) {Element.show('travelDealsStatus');}, parameters:Form.serialize(Event.element(event).form), requestHeaders:['X-Update', 'travel_deals_content']}) }, false);
+//]]>
+</script></form></div>
+<div id="travelDealsStatus" style="display:none;width:150px;font-size:8pt;text-align:left">Processing Request...<img src="/images/loading.gif" align="absmiddle" width="12" alt="" /></div>										<!--
+																					<a href="http://travel.ian.com/index.jsp?cid=316535" title="Other Travel" onclick="window.open('http://travel.ian.com/index.jsp?cid=316535', 'ean', 'status=0,location=1,resizeable=1,scrollbars=1,height=600,width=800'); return false;"><img src="/images/ean/images/2033_rectangle_homepage.gif" style="border: 0; margin: 0;" height="98" width="175" /></a>
+																				-->
+																							<a href="/pages/registry" title="Registry"><img src="/images/registry/2584_GitRegistry-Banner-2.jpg" style="border: 0; margin: 0;" height="98" width="175" /></a>
+																						<a href="/quote" title="Quick Quote"><img src="/images/epona/quick_quote10.jpg" alt="Quick Quote" /></a><br />
+											<div id="whereCanYouCruise" style="padding: 0; margin: 0;">
+												<img src="/images/epona/world.jpg" id="whereImage" style="cursor: pointer; padding: 0; margin: 0;" alt="Cruise ships visit over 1,000 ports every day." />
+													<script type="text/javascript">
+														$('whereImage').observe('click', function() {
+														new Ajax.Updater('wherePortsDiv','/cities/genList/1', {asynchronous:true, evalScripts:true, requestHeaders:['X-Update', 'wherePortsDiv']});
+														new Effect.toggle('wherePortsDiv', 'slide');
+														});
+													</script>
+													<div id="wherePortsDiv" style="display: none;">
+														<div></div>
+													</div>
+											</div>
+																					<a href="http://www.vikingrivercruises.com/myagent/cruiseplanners00151" title="Viking River Cruises" target="_blank"><img src="/images/viking_banner.jpg" style="border: 0; margin: 0;" height="98" width="175" /></a>
+																				<br /><a href="/pages/PreRegistration" title="Booked Customers Pre-Registration"><img src="/images/epona/preregis.gif" alt="Already Booked? Pre-Register Here"/></a><br />
+																				</div>
+									</center>
+								</div>
+                                                            							</td>
+							<td valign="top" style="text-align:left;padding-left:5px">
+								<table border="0" cellpadding="0" cellspacing="0">
+									<tr>
+										<td style="height:10px"></td>
+									</tr>
+									<tr>
+										<td colspan="2">
+											<div id="main-copy" style="width:750px;margin:0px">
+																								<h2>Celebrity Solstice</h2>
+<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/ship.jpg" style="float: right;" alt="" /><p>As you stroll among the expansive decks, you'll experience the rich color palettes illuminated by beautiful natural light, and revel in the extensive amenities - all delivered with the attentive service for which Celebrity Cruises is renowned. <i>Celebrity Solstice</i> is built around you and the way you long to travel. Voyage with us, on the newest of our Solstice-class of ships, and discover a refined level of elegance - an unrivaled experience making a distinctive statement of style and design. We invite you to learn more about the new features and venues as details are revealed.</p>
+
+<br clear="both" />
+
+<div>
+<h3>Ship Calendar</h3>
+<table class="sailingCal" cellspacing="0" width="100%">
+  <tr>
+          <th style="text-align: center;">Destination</th>
+          <th style="text-align: center;">Feb</th>
+          <th style="text-align: center;">Mar</th>
+          <th style="text-align: center;">Apr</th>
+          <th style="text-align: center;">May</th>
+          <th style="text-align: center;">Jun</th>
+          <th style="text-align: center;">Jul</th>
+          <th style="text-align: center;">Aug</th>
+          <th style="text-align: center;">Sep</th>
+          <th style="text-align: center;">Oct</th>
+          <th style="text-align: center;">Nov</th>
+          <th style="text-align: center;">Dec</th>
+          <th style="text-align: center;">Jan 2013</th>
+      </tr>
+      <tr>
+      <td class="cruiseLine" style="border-top: 1px solid #f0f0f0; text-align: right;"><b>Australia and New Zealand</b></td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      <a href="/searches/cruise/month:November/year:2012/region:Australia and New Zealand/cruise_line:Celebrity Cruises/ship:Celebrity Solstice" title="View Australia and New Zealand sailings for November, 2012"><img src="/images/red-star.gif" style="margin-left: 40%;" alt="View Australia and New Zealand sailings for November, 2012" /></a>      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      <a href="/searches/cruise/month:December/year:2012/region:Australia and New Zealand/cruise_line:Celebrity Cruises/ship:Celebrity Solstice" title="View Australia and New Zealand sailings for December, 2012"><img src="/images/red-star.gif" style="margin-left: 40%;" alt="View Australia and New Zealand sailings for December, 2012" /></a>      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      <a href="/searches/cruise/month:January/year:2013/region:Australia and New Zealand/cruise_line:Celebrity Cruises/ship:Celebrity Solstice" title="View Australia and New Zealand sailings for January, 2013"><img src="/images/red-star.gif" style="margin-left: 40%;" alt="View Australia and New Zealand sailings for January, 2013" /></a>      </td>
+        </tr>
+      <tr>
+      <td class="cruiseLine" style="border-top: 1px solid #f0f0f0; text-align: right;"><b>Caribbean</b></td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      <a href="/searches/cruise/month:February/year:2012/region:Caribbean/cruise_line:Celebrity Cruises/ship:Celebrity Solstice" title="View Caribbean sailings for February, 2012"><img src="/images/red-star.gif" style="margin-left: 40%;" alt="View Caribbean sailings for February, 2012" /></a>      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      <a href="/searches/cruise/month:March/year:2012/region:Caribbean/cruise_line:Celebrity Cruises/ship:Celebrity Solstice" title="View Caribbean sailings for March, 2012"><img src="/images/red-star.gif" style="margin-left: 40%;" alt="View Caribbean sailings for March, 2012" /></a>      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      <a href="/searches/cruise/month:April/year:2012/region:Caribbean/cruise_line:Celebrity Cruises/ship:Celebrity Solstice" title="View Caribbean sailings for April, 2012"><img src="/images/red-star.gif" style="margin-left: 40%;" alt="View Caribbean sailings for April, 2012" /></a>      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+        </tr>
+      <tr>
+      <td class="cruiseLine" style="border-top: 1px solid #f0f0f0; text-align: right;"><b>Mediterranean</b></td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      <a href="/searches/cruise/month:April/year:2012/region:Mediterranean/cruise_line:Celebrity Cruises/ship:Celebrity Solstice" title="View Mediterranean sailings for April, 2012"><img src="/images/red-star.gif" style="margin-left: 40%;" alt="View Mediterranean sailings for April, 2012" /></a>      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      <a href="/searches/cruise/month:May/year:2012/region:Mediterranean/cruise_line:Celebrity Cruises/ship:Celebrity Solstice" title="View Mediterranean sailings for May, 2012"><img src="/images/red-star.gif" style="margin-left: 40%;" alt="View Mediterranean sailings for May, 2012" /></a>      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      <a href="/searches/cruise/month:June/year:2012/region:Mediterranean/cruise_line:Celebrity Cruises/ship:Celebrity Solstice" title="View Mediterranean sailings for June, 2012"><img src="/images/red-star.gif" style="margin-left: 40%;" alt="View Mediterranean sailings for June, 2012" /></a>      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      <a href="/searches/cruise/month:July/year:2012/region:Mediterranean/cruise_line:Celebrity Cruises/ship:Celebrity Solstice" title="View Mediterranean sailings for July, 2012"><img src="/images/red-star.gif" style="margin-left: 40%;" alt="View Mediterranean sailings for July, 2012" /></a>      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      <a href="/searches/cruise/month:August/year:2012/region:Mediterranean/cruise_line:Celebrity Cruises/ship:Celebrity Solstice" title="View Mediterranean sailings for August, 2012"><img src="/images/red-star.gif" style="margin-left: 40%;" alt="View Mediterranean sailings for August, 2012" /></a>      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      <a href="/searches/cruise/month:September/year:2012/region:Mediterranean/cruise_line:Celebrity Cruises/ship:Celebrity Solstice" title="View Mediterranean sailings for September, 2012"><img src="/images/red-star.gif" style="margin-left: 40%;" alt="View Mediterranean sailings for September, 2012" /></a>      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      <a href="/searches/cruise/month:October/year:2012/region:Mediterranean/cruise_line:Celebrity Cruises/ship:Celebrity Solstice" title="View Mediterranean sailings for October, 2012"><img src="/images/red-star.gif" style="margin-left: 40%;" alt="View Mediterranean sailings for October, 2012" /></a>      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+        </tr>
+      <tr>
+      <td class="cruiseLine" style="border-top: 1px solid #f0f0f0; text-align: right;"><b>Repositioning</b></td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      <a href="/searches/cruise/month:November/year:2012/region:Repositioning/cruise_line:Celebrity Cruises/ship:Celebrity Solstice" title="View Repositioning sailings for November, 2012"><img src="/images/red-star.gif" style="margin-left: 40%;" alt="View Repositioning sailings for November, 2012" /></a>      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+        </tr>
+      <tr>
+      <td class="cruiseLine" style="border-top: 1px solid #f0f0f0; text-align: right;"><b>Trans-Ocean</b></td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      <a href="/searches/cruise/month:April/year:2012/region:Trans-Ocean/cruise_line:Celebrity Cruises/ship:Celebrity Solstice" title="View Trans-Ocean sailings for April, 2012"><img src="/images/red-star.gif" style="margin-left: 40%;" alt="View Trans-Ocean sailings for April, 2012" /></a>      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+          <td style="background-color: white; border-top: 1px solid #f0f0f0; border-left: 1px solid #f0f0f0; text-align: center; width: 7.6%;">
+      &nbsp;      </td>
+        </tr>
+  </table>
+<center><small>Click <img src="/images/red-star.gif" height="7" width="8" alt="" /> to view sailings.</small></center>
+</div>
+<p>&nbsp;</p>
+<br clear="both" />
+
+<div id="shipDetails">
+	<h3>Ship Details</h3>
+	<div style="float: left; width: 50%;">
+  	<dl>
+    	<dt>Year Built</dt>
+    	<dd>2008&nbsp;</dd>
+			<dt>Year Refurbished</dt>
+			<dd>&nbsp;</dd>
+			<dt>Registry</dt>
+			<dd>Bahamas&nbsp;</dd>
+			<dt>Tonnage</dt>
+			<dd>122000&nbsp;</dd>
+			<dt>Cabins</dt>
+			<dd>1426&nbsp;</dd>
+			<dt>Handicap Cabins</dt>
+			<dd>22&nbsp;</dd>
+			<dt>Capacity</dt>
+			<dd>2850&nbsp;</dd>
+			<dt>Elevators</dt>
+			<dd>&nbsp;</dd>
+			<dt>Restaurants</dt>
+			<dd>7&nbsp;</dd>
+			<dt>Bars</dt>
+			<dd>6&nbsp;</dd>
+			<dt>Pools</dt>
+			<dd>3&nbsp;</dd>
+  	</dl>
+	</div>
+	<div style="float: right; width: 50%;">
+		<dl>
+			<dt>Theaters</dt>
+			<dd>1&nbsp;</dd>
+			<dt>Meeting Rooms</dt>
+			<dd>Y&nbsp;</dd>
+			<dt>Casino</dt>
+			<dd>Y&nbsp;</dd>
+			<dt>Disco</dt>
+			<dd>Y&nbsp;</dd>
+			<dt>Fitness Center</dt>
+			<dd>Y&nbsp;</dd>
+			<dt>Children's Program</dt>
+			<dd>Y&nbsp;</dd>
+			<dt>Internet Caf?</dt>
+			<dd>Y&nbsp;</dd>
+			<dt>Shops</dt>
+			<dd>Y&nbsp;</dd>
+			<dt>Library</dt>
+			<dd>Y&nbsp;</dd>
+			<dt>Spa</dt>
+			<dd>Y&nbsp;</dd>
+		</dl>
+	</div>
+</div>
+
+<br clear="both" />
+
+
+<div id="shipDecksAndCabins">
+	<h3><span id="decks_header" class="link" onclick="decksOrCabins('decks');">Decks</span> | <span id="cabins_header" class="link" onclick="decksOrCabins('cabins');">Cabins</span></h3>
+
+	<div id="decks">
+
+		<ul style="float: left;">
+						<li><span class="link" id="Solstice_link" onclick="showDeck('Solstice');">Solstice</span></li>
+						<li><span class="link" id="The_Lawn_Club_link" onclick="showDeck('The_Lawn_Club');">The Lawn Club</span></li>
+						<li><span class="link" id="Lido_link" onclick="showDeck('Lido');">Lido</span></li>
+						<li><span class="link" id="Resort_link" onclick="showDeck('Resort');">Resort</span></li>
+						<li><span class="link" id="Penthouse_link" onclick="showDeck('Penthouse');">Penthouse</span></li>
+						<li><span class="link" id="Sky_link" onclick="showDeck('Sky');">Sky</span></li>
+						<li><span class="link" id="Panorama_link" onclick="showDeck('Panorama');">Panorama</span></li>
+						<li><span class="link" id="Vista_link" onclick="showDeck('Vista');">Vista</span></li>
+						<li><span class="link" id="Sunrise_link" onclick="showDeck('Sunrise');">Sunrise</span></li>
+						<li><span class="link" id="Continental_link" onclick="showDeck('Continental');">Continental</span></li>
+						<li><span class="link" id="Entertainment_link" onclick="showDeck('Entertainment');">Entertainment</span></li>
+						<li><span class="link" id="Promenade_link" onclick="showDeck('Promenade');">Promenade</span></li>
+						<li><span class="link" id="Plaza_link" onclick="showDeck('Plaza');">Plaza</span></li>
+					</ul>
+
+		<ul style="float: right;">
+						<li id="Solstice" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/decks/Solstice/map.gif" alt="Solstice" />			</li>
+						<li id="The_Lawn_Club" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/decks/The_Lawn_Club/map.gif" alt="The Lawn Club" />			</li>
+						<li id="Lido" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/decks/Lido/map.gif" alt="Lido" />			</li>
+						<li id="Resort" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/decks/Resort/map.gif" alt="Resort" />			</li>
+						<li id="Penthouse" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/decks/Penthouse/map.gif" alt="Penthouse" />			</li>
+						<li id="Sky" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/decks/Sky/map.gif" alt="Sky" />			</li>
+						<li id="Panorama" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/decks/Panorama/map.gif" alt="Panorama" />			</li>
+						<li id="Vista" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/decks/Vista/map.gif" alt="Vista" />			</li>
+						<li id="Sunrise" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/decks/Sunrise/map.gif" alt="Sunrise" />			</li>
+						<li id="Continental" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/decks/Continental/map.gif" alt="Continental" />			</li>
+						<li id="Entertainment" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/decks/Entertainment/map.gif" alt="Entertainment" />			</li>
+						<li id="Promenade" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/decks/Promenade/map.gif" alt="Promenade" />			</li>
+						<li id="Plaza" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/decks/Plaza/map.gif" alt="Plaza" />			</li>
+					</ul>
+
+	</div>
+
+	<div id="cabins" style="display: none;">
+
+		<ul style="float: left;">
+						<li><span class="link" id="Accessible_AquaClass:_AA__link" onclick="showCategory('Accessible_AquaClass:_AA_');">Accessible AquaClass</span></li>
+						<li><span class="link" id="Accessible_Concierge:_AC_link" onclick="showCategory('Accessible_Concierge:_AC');">Accessible Concierge</span></li>
+						<li><span class="link" id="Accessible_Deluxe_Ocean_View:_AX_link" onclick="showCategory('Accessible_Deluxe_Ocean_View:_AX');">Accessible Deluxe Ocean View</span></li>
+						<li><span class="link" id="Accessible_Inside:_AZ_link" onclick="showCategory('Accessible_Inside:_AZ');">Accessible Inside</span></li>
+						<li><span class="link" id="Accessible_Ocean_View:_AY_link" onclick="showCategory('Accessible_Ocean_View:_AY');">Accessible Ocean View</span></li>
+						<li><span class="link" id="Accessible_Sky_Suite:_AW_link" onclick="showCategory('Accessible_Sky_Suite:_AW');">Accessible Sky Suite</span></li>
+						<li><span class="link" id="AquaClass:_AQ_link" onclick="showCategory('AquaClass:_AQ');">AquaClass</span></li>
+						<li><span class="link" id="Celebrity_Suite:_CS_link" onclick="showCategory('Celebrity_Suite:_CS');">Celebrity Suite</span></li>
+						<li><span class="link" id="Concierge_Class:_C1_link" onclick="showCategory('Concierge_Class:_C1');">Concierge Class</span></li>
+						<li><span class="link" id="Deluxe_Ocean_View_with_Veranda:_1A_link" onclick="showCategory('Deluxe_Ocean_View_with_Veranda:_1A');">Deluxe Ocean View with Veranda</span></li>
+						<li><span class="link" id="Family_Ocean_View:_FV_link" onclick="showCategory('Family_Ocean_View:_FV');">Family Ocean View</span></li>
+						<li><span class="link" id="Inside:_10_link" onclick="showCategory('Inside:_10');">Inside</span></li>
+						<li><span class="link" id="Ocean_View:_7_link" onclick="showCategory('Ocean_View:_7');">Ocean View</span></li>
+						<li><span class="link" id="Penthouse_Suite:_PS_link" onclick="showCategory('Penthouse_Suite:_PS');">Penthouse Suite</span></li>
+						<li><span class="link" id="Royal_Suite:_RS_link" onclick="showCategory('Royal_Suite:_RS');">Royal Suite</span></li>
+						<li><span class="link" id="Sky_Suite:_S1_link" onclick="showCategory('Sky_Suite:_S1');">Sky Suite</span></li>
+						<li><span class="link" id="Sunset_Veranda:_SV_link" onclick="showCategory('Sunset_Veranda:_SV');">Sunset Veranda</span></li>
+					</ul>
+
+		<ul style="float: right;">
+						<li id="Accessible_AquaClass:_AA_" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/categories/Accessible_AquaClass/1.jpg" alt="Accessible AquaClass" />			</li>
+						<li id="Accessible_Concierge:_AC" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/categories/Accessible_Concierge/1.jpg" alt="Accessible Concierge" />			</li>
+						<li id="Accessible_Deluxe_Ocean_View:_AX" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/categories/Accessible_Deluxe_Ocean_View/1.jpg" alt="Accessible Deluxe Ocean View" />			</li>
+						<li id="Accessible_Inside:_AZ" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/categories/Accessible_Inside/1.jpg" alt="Accessible Inside" />			</li>
+						<li id="Accessible_Ocean_View:_AY" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/categories/Accessible_Ocean_View/1.jpg" alt="Accessible Ocean View" />			</li>
+						<li id="Accessible_Sky_Suite:_AW" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/categories/Accessible_Sky_Suite/1.jpg" alt="Accessible Sky Suite" />			</li>
+						<li id="AquaClass:_AQ" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/categories/AquaClass/1.jpg" alt="AquaClass" />			</li>
+						<li id="Celebrity_Suite:_CS" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/categories/Celebrity_Suite/1.jpg" alt="Celebrity Suite" />			</li>
+						<li id="Concierge_Class:_C1" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/categories/Concierge_Class/1.jpg" alt="Concierge Class" />			</li>
+						<li id="Deluxe_Ocean_View_with_Veranda:_1A" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/categories/Deluxe_Ocean_View_with_Veranda/1.jpg" alt="Deluxe Ocean View with Veranda" />			</li>
+						<li id="Family_Ocean_View:_FV" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/categories/Family_Ocean_View/1.jpg" alt="Family Ocean View" />			</li>
+						<li id="Inside:_10" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/categories/Inside/1.jpg" alt="Inside" />			</li>
+						<li id="Ocean_View:_7" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/categories/Ocean_View/1.jpg" alt="Ocean View" />			</li>
+						<li id="Penthouse_Suite:_PS" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/categories/Penthouse_Suite/1.jpg" alt="Penthouse Suite" />			</li>
+						<li id="Royal_Suite:_RS" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/categories/Royal_Suite/1.jpg" alt="Royal Suite" />			</li>
+						<li id="Sky_Suite:_S1" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/categories/Sky_Suite/1.jpg" alt="Sky Suite" />			</li>
+						<li id="Sunset_Veranda:_SV" style="list-style: none;display: none;">
+				<img src="/images/cruise_lines/Celebrity/Celebrity_Solstice/categories/Sunset_Veranda/1.jpg" alt="Sunset Veranda" />			</li>
+					</ul>
+
+	</div>
+
+</div>
+
+<script type="text/javascript">
+var currentDeck = '';
+var showDeck = function(deck) {
+	if (currentDeck) {
+		$(currentDeck + '_link').style.textDecoration = 'underline';
+		$(currentDeck).hide();
+	}
+	$(deck).show();
+  $(deck + '_link').style.textDecoration = 'none';
+	currentDeck = deck;
+}
+var showing = 'decks';
+var decksOrCabins = function(which) {
+  if (showing) {
+	  $(showing + '_header').style.textDecoration = 'underline';
+		$(showing).hide();
+	}
+	$(which + '_header').style.textDecoration = 'none';
+	$(which).show();
+	showing = which;
+}
+var currentCategory = '';
+var showCategory = function(category) {
+	if (currentCategory) {
+		$(currentCategory + '_link').style.textDecoration = 'underline';
+		$(currentCategory).hide();
+	}
+	$(category).show();
+	$(category + '_link').style.textDecoration = 'none';
+	currentCategory = category;
+}
+
+document.observe('dom:loaded', function() {
+	showDeck('Solstice');
+  showCategory('Accessible_AquaClass:_AA_');
+  decksOrCabins('decks');
+});
+</script>
+											</div>
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+				</div>
+                               				<div class="footerBackground"></div>
+                                			</div>
+                    			<div class="beneathEverything">
+
+		<div id="footer">
+			<table width="100%">
+				<tr>
+					<td style="text-align:left">
+			
+			<a href="/pages/copyright_notice" title="Cruise Planners Copyright Notice">&copy;</a> 2012 CP Franchising, LLC. dba Cruise Planners. All rights reserved. FST: ST36334 &middot; CST: 2034468-50 &middot; NST: 2003-0221<br />
+			<span class="doNotPrint"><a href="/pages/privacy_policy" title="Cruise Planners Privacy Policy">Privacy Policy</a> &middot; <a href="/pages/terms_and_conditions" title="Terms & Conditions">Terms & Conditions</a> &middot; <a href="#" onClick="if(confirm(&#039;To administer your website, login to CP|Central and click eREZ -&gt; Webprogram Dashboard. Click OK to be taken to CP|Central or Cancel to cancel&#039;)){document.location=&#039;https://www.cruiseplannersnet.com&#039;}">Administration</a></span>
+					</td>
+				</tr>
+			</table>
+		</div>
+			</div>
+                      		</div>
+
+				<div class="facebox_hide facebox_overlayBG" id="facebox_overlay" style="display: none; opacity: 0.2; filter: alpha(opacity=20)"></div>
+	</body>
+</html>
+

@@ -1,0 +1,657 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html id="ctl00_Html1" xmlns="http://www.w3.org/1999/xhtml" lang="en" dir="ltr">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="PRAGMA" content="no-cache" /><meta http-equiv="X-UA-Compatible" content="IE=7" /><link rel="shortcut icon" href="/_layouts/images/Csob/favicon.ico" />
+
+    <script language="javascript" type="text/javascript" src="/_layouts/Csob/_Script/funkce.js"></script>
+    <script language="javascript" type="text/javascript" src="/_layouts/Csob/_Script/fondy.js"></script>
+    <script language="javascript" type="text/javascript" src="/_layouts/Csob/_Script/InitNoPresence.js"></script>
+    
+    
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="description" content="?eskoslovensk? obchodn? banka je univerz?ln? bankou poskytuj?c? individu?ln? ?e?en? finan?n?ch pot?eb pro ob?any, nerezidenty, podnikatele, mal? a st?edn? podniky, dru?stva, municipality, neziskovky, korporace i instituce. S komplexn? p??? o va?e finance se m??ete starat jen o v?ci, kter? jsou pro v?? ?ivot i podnik?n? podstatn?. Nab?z?me modern? slu?by, kter? zahrnuj? dostupn? p?j?ky a hypot?ky, rozs?hl? mo?nosti investov?n? i pohodln? on-line bankovnictv?." />
+<meta name="keywords" content="?SOB, banka, finance, obchodn? banka, hypote?n? ?v?ry, p?j?ky, kreditn? karty, internet banking, e-banking, p??m? bankovnictv?, kurzovn? l?stky, poji?t?n?, 
+?ivotn? poji?t?n?, platebn? karty, visa, mastercard, finan?n? trhy, devizy, kurzy, sazebn?k, ?rokov? sazby, kalkula?ky, fyzick? osoby (retailov? klientela), mal? a st?edn? velk? podniky, korpor?tn? klientela a nebankovn? finan?n? instituce, finan?n? trhy a priv?tn? bankovnictv?, spo?en?, investice, fondy pen??n?ho trhu, zaji?t?n? fondy, dluhopisov? fondy, strukturovan? fondy, sm??en? fondy, akciov? fondy, profilov? fondy" />
+<link rel="alternate" type="application/rss+xml" title="?SOB - Aktuality z ?SOB" href="/WebCsob/aktuality.rss" />
+<link rel="alternate" type="application/rss+xml" title="?SOB - Tiskov? zpr?vy ?SOB" href="/WebCsob/tiskovezpravy.rss" />
+<link rel="alternate" type="application/rss+xml" title="?SOB - Anal?zy ?SOB" href="/WebCsob/analyzy.rss" />
+<link rel="alternate" type="application/rss+xml" title="?SOB - Infoservis z ?SOB Klubu ?sp??n?ch podnikatel?" href="/WebCsob/infoservis.rss" />
+<meta name="robots" content="all,follow" />
+<meta name="author" content="Capgemini Czech Republic s.r.o., www.cz.capgemini.com; reception.cz@capgemini.com" />
+<meta name="csob-template" content="ObecnaTextovaSablona.aspx" />
+<link rel="stylesheet" type="text/css" href="/_layouts/styles/csob/menuCZ.css"/>
+<link rel="stylesheet" type="text/css" href="/_layouts/1029/styles/core.css?rev=ZKa2t3JxZaxGR9giC7D1mA%3D%3D"/>
+<link href="/_layouts/Styles/csob/calendar.css" rel="stylesheet" type="text/css" media="screen,projection" /><link href="/_layouts/Styles/csob/csob.css" rel="stylesheet" type="text/css" media="screen,projection" /><link href="/_layouts/Styles/csob/menuend.css" rel="stylesheet" type="text/css" media="screen,projection" /><link href="/_layouts/Styles/csob/user.css" rel="stylesheet" type="text/css" media="screen,projection" /><link href="/_layouts/Styles/csob/editmode.css" rel="stylesheet" type="text/css" media="screen,projection" /><link href="/_layouts/Styles/csob/print.css" rel="stylesheet" type="text/css" media="print" /><link rel="stylesheet" type="text/css" href="/_layouts/styles/csob/colXR.css" media="screen,projection" />
+<title>
+	?SOB - Koresponden?n? banky
+</title></head>
+<body id="bodySrv" onload="_spBodyOnLoadWrapper();" class="bankcz-body-cz">
+    
+    <form name="aspnetForm" method="post" action="default.aspx" id="aspnetForm">
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" />
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" />
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" />
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" />
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" />
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" />
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x7463D2881C4EA33EBDA77580143263337A823F98FBB8F3FD7B402834C4108211BF02BB00FEF623BA0FD2716324436F155A2E7E2CBEAC00B48080896B0EFFDCC3,09 Feb 2012 02:54:10 -0000" />
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" />
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" />
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" />
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" />
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
+<input type="hidden" name="__SPSCEditMenu" id="__SPSCEditMenu" value="true" />
+<input type="hidden" name="MSOAuthoringConsole_FormContext" id="MSOAuthoringConsole_FormContext" value="" />
+<input type="hidden" name="MSOAC_EditDuringWorkflow" id="MSOAC_EditDuringWorkflow" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgIBD2QWAgIHD2QWBAICD2QWAmYPZBYCZg9kFgICAg9kFgoCAQ8PFgIeC05hdmlnYXRlVXJsBQR+L2N6ZGQCAw8WAh4Jb25rZXlkb3duBWppZihldmVudC5rZXlDb2RlPT0xMyl7ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX0N1c3RvbUxvYWRlcjFfY3RsMDBfYnRuU2VhcmNoJykuY2xpY2soKTtyZXR1cm4gZmFsc2V9ZAIFDxYEHgV2YWx1ZQUGaGxlZGVqHgdvbmNsaWNrBU9TZWFyY2hDbGljaygnL2N6L1N0cmFua3kvaGxlZGFuaS5hc3B4JywgJ2N0bDAwX0N1c3RvbUxvYWRlcjFfY3RsMDBfdHh0U2VhcmNoJyk7ZAIHDxYCHgRUZXh0BQ12IGNlbMOpbSB3ZWJ1ZAIJDxYCHwQFDXYgdMOpdG8gc2VrY2lkAgYPZBYCAgIPZBYCZg8PFgIeB1Zpc2libGVoZBYGAgEPZBYCAgEPFgIfBWgWAmYPZBYEAgIPZBYCAgMPFgIfBWhkAgMPDxYCHglBY2Nlc3NLZXkFAS9kZAIDD2QWAgICDw8WAh8FZxYCHgVzdHlsZQUOZGlzcGxheTpibG9jaztkAgUPZBYCAgMPZBYCAgEPDxYCHwVnZBYEAgEPDxYCHwVoZBYcAgEPDxYCHwVoZGQCAw8WAh8FaGQCBQ8PFgIfBWhkZAIHDxYCHwVoZAIJDw8WAh8FaGRkAgsPDxYCHwVoZGQCDQ8PFgIfBWhkZAIPDw8WBB4HRW5hYmxlZGgfBWhkZAIRDw8WAh8FaGRkAhMPDxYEHwhoHwVoZGQCFQ8PFgIfBWhkZAIXDxYCHwVoZAIZDxYCHwVoZAIbDw8WAh8FZ2RkAgMPDxYCHwVnZBYGAgEPDxYCHwVnZGQCAw8PFgIfBWdkZAIFDw8WAh8FZ2RkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBTRjdGwwMCRQbGFjZUhvbGRlck1haW4kUmlnaHRTaWRlQmFyVmlld2VyJGN0bDAwJGN0bDAw973eGcpEdAP9HpeZmF5HgdnmrpI=" />
+
+<script> var MSOWebPartPageFormName = 'aspnetForm';</script><script type="text/javascript" language="javascript" src="/_layouts/1029/init.js?rev=zKfCEnC%2FZyLUoPyqt8oHvA%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1029/init.js?rev=zKfCEnC%2FZyLUoPyqt8oHvA%3D%3D"></script><script type="text/javascript" language="javascript" src="/_layouts/1029/core.js?rev=nUvfZ0CFD9VgI3jcVrJhjA%3D%3D"></script><script type="text/javascript" language="javascript" src="/_layouts/1029/non_ie.js?rev=yfNry4hY0Gwa%2FPDNGrqXVg%3D%3D"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgLp+8CkDgL/7KfZBALHpt6PCQKCrYrpDQKC87GcAgKC853BCWTnGdMblrQ/g4Tnh5UyrGqZjdld" />
+    <div id="centerer">
+        <a name="top" id="nahore"></a>
+        <div id="ctl00_CustomLoader1_ctl00_masterZahlavi" class="zahlavi">
+    <span class="infolinka">
+        Info linka<span></span>
+    </span>
+    <span class="odkazy">&nbsp;|&nbsp;<a href="#" title="Tisk" onclick="window.print();">Tisk</a></span><span class="odkazy"><a href="/cz/Csob/Kontakty-pobocky-bankomaty/Stranky/Dulezite-kontakty.aspx" title="Kontakty" onclick="">Kontakty</a></span>
+    <span id="ctl00_CustomLoader1_ctl00_csobLanguageSelector"><span class="vlajky"><span class='showfl1'><a href="/en/" class="vlajkaEN" title="English version">EN<span></span></a></span></span></span>
+</div>
+<div id="ctl00_CustomLoader1_ctl00_masterHlMenu" class="hlmenu">
+    <a id="ctl00_CustomLoader1_ctl00_hlLogo" class="logo imghref" href="../../../../../cz">Logo<span></span></a>
+    <div class="vyhledavani">
+        <input name="ctl00$CustomLoader1$ctl00$txtSearch" type="text" id="ctl00_CustomLoader1_ctl00_txtSearch" class="itextsrch3" onkeydown="if(event.keyCode==13){document.getElementById('ctl00_CustomLoader1_ctl00_btnSearch').click();return false}" />
+        <input name="ctl00$CustomLoader1$ctl00$btnSearch" type="button" id="ctl00_CustomLoader1_ctl00_btnSearch" class="ibut2" value="hledej" onclick="SearchClick('/cz/Stranky/hledani.aspx', 'ctl00_CustomLoader1_ctl00_txtSearch');" /><br />
+        <table class="iradiobut" border="0">
+            <tr>
+                <td>
+                    <span class="srchfirstlbl">
+                        <input id="rbnWholeWeb" name="search" type="radio" checked="checked" />
+                        <label id="idWholeweb" for="rbnWholeWeb">
+                            v cel?m webu</label>
+                    </span>
+                </td>
+                <td>
+                    <input id="rbnThisSection" name="search" type="radio" />
+                    <label id="idSection" for="rbnThisSection">
+                        v t?to sekci</label>
+                </td>
+            </tr>
+        </table>
+        <input name="ctl00$CustomLoader1$ctl00$hdSection" type="hidden" id="ctl00_CustomLoader1_ctl00_hdSection" value="csob" />
+    </div>
+</div>
+<div id="lokace" class="lokacecsob"><span>Jste zde: <a href="http://www.csob.cz/cz">?vodn? str?nka</a>&nbsp;&nbsp;&gt;&nbsp;&nbsp;<a href="http://www.csob.cz/cz/Csob">?SOB</a>&nbsp;&nbsp;&gt;&nbsp;&nbsp;<a href="http://www.csob.cz/cz/Csob/Kontakty-pobocky-bankomaty">Kontakty, pobo?ky, bankomaty</a>&nbsp;&nbsp;&gt;&nbsp;&nbsp;Koresponden?n? banky</span></div>
+        
+     <div id="content">
+        <span><span></span></span>
+        <div id="supercol">
+            <div id="rcol">                
+                <h3><span>Moje str?nka</span></h3><div class="okraje mojestranka"><div class="mypgtop"></div><div class="mypg"><input type="image" name="ctl00$PlaceHolderMain$RightSideBarViewer$ctl00$ctl00" src="/_layouts/images/Csob/Toolbox/ico-zalozky.gif" border="0" /><a href="javascript:__doPostBack('ctl00$PlaceHolderMain$RightSideBarViewer$ctl00$ctl01','')">Kliknut?m</a><span> p?id?te str?nku<br />mezi sv? z?lo?ky.<br /><br /></span></div></div>
+                <div class="bottommargin25"></div>
+            </div>
+            <div id="mcol">                                
+                <h1>Koresponden?n? banky</h1>
+                <div id="radpole" class="radpole">
+                    <a href="#" class="tt">BIC k?d ?SOB (swiftov? adresa):<span class="tooltip"><span class="top"></span><span class="middle">BIC (Bank Identifier Code) je swiftov? adresa p?ev?d?j?c? instituce, kter? umo??uje jednozna?nou identifikaci finan?n? instituce (v?etn? n?zvu a s?dla instituce v dan? zemi). Pou?it? BIC p?ev?d?j?c? instituce je povinn? p?i prov?d?n? p?eshrani?n?ch p?evod? v r?mci ?lensk?ch st?t? Evropsk? unie a Evropsk?ho hospod??sk?ho prostoru (zem? EU a Lichten?tejnsko, Island, Norsko).</span><span class="bottom"></span></span></a> = CEKOCZPP
+<table class=usrtbl width="100%">
+    <tbody>
+        <tr>
+            <th>Zem?</th>
+            <th align=center>M?na</th>
+            <th>Banka</th>
+            <th align=center><a href="#" class="tt">BIC k?d (swift)<span class="tooltip"><span class="top"></span><span class="middle">BIC (Bank Identifier Code) je swiftov? adresa p?ev?d?j?c? instituce, kter? umo??uje jednozna?nou identifikaci finan?n? instituce (v?etn? n?zvu a s?dla instituce v dan? zemi). Pou?it? BIC p?ev?d?j?c? instituce je povinn? p?i prov?d?n? p?eshrani?n?ch p?evod? v r?mci ?lensk?ch st?t? Evropsk? unie a Evropsk?ho hospod??sk?ho prostoru (zem? EU a Lichten?tejnsko, Island, Norsko).</span><span class="bottom"></span></span></a> </th>
+        </tr>
+        <tr>
+            <td class=bold>Australia</td>
+            <td align=center>AUD</td>
+            <td>Australian and New Zealand Banking Group</td>
+            <td align=center>ANZBAU3M</td>
+        </tr>
+        <tr>
+            <td class=bold valign=top rowspan=2>Canada</td>
+            <td valign=top align=center rowspan=2>CAD</td>
+            <td>Royal Bank of Canada</td>
+            <td align=center>ROYCCAT2</td>
+        </tr>
+        <tr>
+            <td>Toronto - Dominion Bank</td>
+            <td align=center>TDOMCATTTOR</td>
+        </tr>
+        <tr>
+            <td class=bold>Denmark</td>
+            <td align=center>DKK</td>
+            <td>Nordea Bank Denmark A/S</td>
+            <td align=center>NDEADKKK</td>
+        </tr>
+        <tr>
+            <td class=bold>Belgium</td>
+            <td align=center>EUR</td>
+            <td>KBC Bank N.V.</td>
+            <td align=center>KREDBEBB</td>
+        </tr>
+        <tr>
+            <td class=bold valign=top rowspan=3>United Kingdom</td>
+            <td valign=top align=center rowspan=3>GBP</td>
+            <td>Barclays Bank Plc.</td>
+            <td align=center>BARCGB22</td>
+        </tr>
+        <tr>
+            <td>HSBC Bank Plc.</td>
+            <td align=center>MIDLGB22</td>
+        </tr>
+        <tr>
+            <td>Royal Bank of Scotland Plc.</td>
+            <td align=center>RBOSGB2LCBB</td>
+        </tr>
+        <tr>
+            <td class=bold>Croatia</td>
+            <td align=center>HRK</td>
+            <td>Privredna Banka Zagreb</td>
+            <td align=center>PBZGHR2X</td>
+        </tr>
+        <tr>
+            <td class=bold>Hungary</td>
+            <td align=center>HUF</td>
+            <td>Kereskedelmi ?s Hitelbank Rt</td>
+            <td align=center>OKHBHUHB</td>
+        </tr>
+        <tr>
+            <td class=bold valign=top>Switzerland</td>
+            <td valign=top align=center>CHF</td>
+            <td>Credit Suisse</td>
+            <td align=center>CRESCHZZ80A</td>
+        </tr>
+        <tr>
+            <td class=bold valign=top>Japan</td>
+            <td valign=top align=center>JPY</td>
+            <td>Bank of Tokyo-Mitsubishi, Ltd.</td>
+            <td align=center>BOTKJPJT</td>
+        </tr>
+        <tr>
+            <td class=bold>Norway</td>
+            <td align=center>NOK</td>
+            <td>Nordea Bank Norge ASA</td>
+            <td align=center>NDEANOKK</td>
+        </tr>
+        <tr>
+            <td class=bold>Poland</td>
+            <td align=center>PLN</td>
+            <td>Kredyt Bank SA</td>
+            <td align=center>KRDBPLPW</td>
+        </tr>
+        <tr>
+            <td class=bold>Romania</td>
+            <td align=center>RON</td>
+            <td>BRD-Groupe Societe Generale SA</td>
+            <td align=center>BRDEROBU</td>
+        </tr>
+        <tr>
+            <td class=bold>Russia</td>
+            <td align=center>RUB</td>
+            <td>Deutsche Bank LtD</td>
+            <td align=center>DEUTRUMM</td>
+        </tr>
+        <tr>
+            <td class=bold>Sweden</td>
+            <td align=center>SEK</td>
+            <td>Skandinaviska Enskilda Banken AB</td>
+            <td align=center>ESSESESS</td>
+        </tr>
+        <tr>
+            <td class=bold>Turkey</td>
+            <td align=center>TRY</td>
+            <td>Turkiye Garanti Bankasi AS</td>
+            <td align=center>TGBATRIS</td>
+        </tr>
+        <tr>
+            <td class=bold valign=top rowspan=4>USA</td>
+            <td valign=top align=center rowspan=4>USD</td>
+            <td>KBC Bank, New York</td>
+            <td align=center>KREDUS33</td>
+        </tr>
+        <tr>
+            <td>JPMorgan Chase Bank</td>
+            <td align=center>CHASUS33</td>
+        </tr>
+        <tr>
+            <td>Bank of New York Mellon</td>
+            <td align=center>IRVTUS3N</td>
+        </tr>
+        <tr>
+            <td>Deutsche Bank Trust Co. Americas</td>
+            <td align=center>BKTRUS33</td>
+        </tr>
+    </tbody>
+</table>
+                </div>
+                <div class="bottommargin25"></div>
+            </div>
+            <div id="lcol">
+                
+                <div class="bottommargin25"></div>
+            </div>
+            <div class="cleaner"></div>
+        </div>        
+    </div>
+    
+                
+    
+
+        
+<div class="cleaner">
+    &nbsp;</div>
+<div id="ctl00_CustomLoader2_ctl00_masterZapati" class="zapati">
+    <span class="copyrightmaster">&copy; ?SOB, 2012</span>    
+    <span class="odkazy"><a href="/cz/Csob/Kontakty-pobocky-bankomaty/Stranky/Dulezite-kontakty.aspx" title="Kontakty" onclick="">Kontakty</a>&nbsp;|&nbsp;<a href="/cz/Stranky/MapaStranek.aspx" title="Mapa str?nek" onclick="">Mapa str?nek</a>&nbsp;|&nbsp;<a href="/cz/Stranky/Moje-stranka.aspx" title="Moje str?nka" onclick="">Moje str?nka</a>&nbsp;|&nbsp;<a href="/cz/Stranky/RSS-kanaly.aspx" title="RSS kan?ly" onclick="">RSS kan?ly</a>&nbsp;|&nbsp;<a href="/cz/Stranky/Podminky-pouzivani.aspx" title="Podm?nky pou??v?n?" onclick="">Podm?nky pou??v?n?</a>&nbsp;|&nbsp;<a href="/cz/Stranky/Produtky-skupiny-CSOB.aspx" title="FS ?SOB" onclick="">FS ?SOB</a></span>
+</div>
+<ul id="menu"><li id="lide" onmouseover="showMenu(this,'nadpis');" onmouseout="hideMenu('lide');"><div id="divlide" class="nadpis"><a href="http://www.csob.cz/cz/Lide" title="http://www.csob.cz/cz/Lide">Lid?<span id="spanlide"></span></a></div>
+<div class="zb"><b class="b1"></b><b class="b2"></b><b class="b3"></b><b class="b4"></b>
+<ul><li onmouseover="this.className = 'menuon'" onmouseout="this.className = 'menuoff';"><a href="/cz/Lide/Bydleni" title="Bydlen?">Bydlen?</a>
+<div class="zc"><b class="c1"></b><b class="c2"></b><b class="c3"></b><b class="c4"></b>
+<ul>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Bydleni/Stranky/CSOB-Hypoteka.aspx" title="Bezstarostn? hypot?ka">Bezstarostn? hypot?ka</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Bydleni/Stranky/CSOB-Hypoteka-s-garantovanou-vysi-splatky.aspx" title="Hypot?ka s garantovanou v??? spl?tky">Hypot?ka s garantovanou v??? spl?tky</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Bydleni/Stranky/CSOB-Hypoteka-bez-dokladani-prijmu.aspx" title="Hypot?ka bez dokl?d?n? p??jm?">Hypot?ka bez dokl?d?n? p??jm?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Bydleni/Stranky/CSOB-Predhypotecni-uver.aspx" title="P?edhypote?n? ?v?r">P?edhypote?n? ?v?r</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Bydleni/Stranky/CSOB-Americka-hypoteka.aspx" title="Americk? hypot?ka">Americk? hypot?ka</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Bydleni/Stranky/CSOB-Pujcka-na-lepsi-bydleni.aspx" title="P?j?ka na lep?? bydlen?">P?j?ka na lep?? bydlen?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Bydleni/Stranky/Pujcka-na-zelene-bydleni.aspx" title="P?j?ka na zelen? bydlen?">P?j?ka na zelen? bydlen?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Bydleni/Developerske-projekty/" title="Developersk? projekty">Developersk? projekty</a></li>
+</ul>
+<b class="c4b"></b><b class="c3b"></b><b class="c2b"></b><b class="c1b"></b>
+</div>
+</li>
+<li onmouseover="this.className = 'menuon'" onmouseout="this.className = 'menuoff';"><a href="/cz/Lide/Sporeni-a-investovani/" title="Spo?en? a investov?n?">Spo?en? a investov?n?</a>
+<div class="zc"><b class="c1"></b><b class="c2"></b><b class="c3"></b><b class="c4"></b>
+<ul>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Sporeni-a-investovani/Plan-pro-zivot/Stranky/default.aspx" title="Pl?n pro ?ivot">Pl?n pro ?ivot</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Sporeni-a-investovani/Stranky/Podilove-fondy.aspx" title="Pod?lov? fondy">Pod?lov? fondy</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Sporeni-a-investovani/sporici-produkty/" title="Spo?ic? produkty">Spo?ic? produkty</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Sporeni-a-investovani/Zivotni-pojisteni/" title="?ivotn? poji?t?n?">?ivotn? poji?t?n?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Sporeni-a-investovani/Penzijni-pripojisteni/" title="Penzijn? p?ipoji?t?n?">Penzijn? p?ipoji?t?n?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Sporeni-a-investovani/Stranky/Stavebni-sporeni.aspx" title="Stavebn? spo?en?">Stavebn? spo?en?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Sporeni-a-investovani/Stranky/On-line-obchodovani-s-cennymi-papiry.aspx" title="On-line obchodov?n? s cenn?mi pap?ry">On-line obchodov?n? s cenn?mi pap?ry</a></li>
+</ul>
+<b class="c4b"></b><b class="c3b"></b><b class="c2b"></b><b class="c1b"></b>
+</div>
+</li>
+<li onmouseover="this.className = 'menuon'" onmouseout="this.className = 'menuoff';"><a href="/cz/Lide/Pujcky-a-uvery/" title="P?j?ky a ?v?ry">P?j?ky a ?v?ry</a>
+<div class="zc"><b class="c1"></b><b class="c2"></b><b class="c3"></b><b class="c4"></b>
+<ul>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Pujcky-a-uvery/Stranky/CSOB-Pujcka-na-cokoliv.aspx" title="P?j?ka na cokoliv">P?j?ka na cokoliv</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Pujcky-a-uvery/Stranky/CSOB-Pujcka-na-lepsi-bydleni.aspx" title="P?j?ka na lep?? bydlen?">P?j?ka na lep?? bydlen?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Pujcky-a-uvery/Stranky/Povolene-precerpani-bezneho-uctu.aspx" title="Povolen? p?e?erp?n? b??n?ho ??tu">Povolen? p?e?erp?n? b??n?ho ??tu</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Pujcky-a-uvery/Stranky/Povolene-precerpani-k-CSOB-Studentskemu-kontu-Plus.aspx" title="Povolen? p?e?erp?n? studentsk?ho konta">Povolen? p?e?erp?n? studentsk?ho konta</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Platebni-karty/CSOB-Kreditni-karta/Stranky/default.aspx" title="Kreditn? karta">Kreditn? karta</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Pujcky-a-uvery/Stranky/CSOB-Americka-hypoteka.aspx" title="Americk? hypot?ka">Americk? hypot?ka</a></li>
+</ul>
+<b class="c4b"></b><b class="c3b"></b><b class="c2b"></b><b class="c1b"></b>
+</div>
+</li>
+<li onmouseover="this.className = 'menuon'" onmouseout="this.className = 'menuoff';"><a href="/cz/Lide/Ucty-a-platby/" title="??ty a platby">??ty a platby</a>
+<div class="zc"><b class="c1"></b><b class="c2"></b><b class="c3"></b><b class="c4"></b>
+<ul>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Ucty-a-platby/Stranky/CSOB-konto.aspx" title="Konto">Konto</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Ucty-a-platby/Stranky/CSOB-Aktivni-konto.aspx" title="Aktivn? konto">Aktivn? konto</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Ucty-a-platby/Stranky/CSOB-Exkluzivni-konto.aspx" title="Exkluzivn? konto">Exkluzivn? konto</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Ucty-a-platby/Stranky/CSOB-Detske-konto-Slune.aspx" title="D?tsk? konto Sl?n?">D?tsk? konto Sl?n?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Ucty-a-platby/Stranky/CSOB-Studentske-konto-Plus.aspx" title="Studentsk? konto Plus">Studentsk? konto Plus</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Ucty-a-platby/Stranky/Bezny-devizovy-ucet.aspx" title="B??n? devizov? ??et">B??n? devizov? ??et</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Ucty-a-platby/Stranky/Hotovostni-platebni-styk.aspx" title="Hotovostn? platebn? styk">Hotovostn? platebn? styk</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Ucty-a-platby/Stranky/Bezhotovostni-platebni-styk-v-korunach.aspx" title="Tuzemsk? bezhotovostn? platebn? styk">Tuzemsk? bezhotovostn? platebn? styk</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Ucty-a-platby/Stranky/Zahranicni-a-tuzemsky-devizovy-platebni-styk.aspx" title="Zahrani?n? a tuzemsk? devizov? platebn? styk">Zahrani?n? a tuzemsk? devizov? platebn? styk</a></li>
+</ul>
+<b class="c4b"></b><b class="c3b"></b><b class="c2b"></b><b class="c1b"></b>
+</div>
+</li>
+<li onmouseover="this.className = 'menuon'" onmouseout="this.className = 'menuoff';"><a href="/cz/Lide/Elektronicke-bankovnictvi/" title="Elektronick? bankovnictv?">Elektronick? bankovnictv?</a>
+<div class="zc"><b class="c1"></b><b class="c2"></b><b class="c3"></b><b class="c4"></b>
+<ul>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Elektronicke-bankovnictvi/Stranky/CSOB-InternetBanking-24.aspx" title="InternetBanking 24">InternetBanking 24</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Elektronicke-bankovnictvi/Stranky/CSOB-SmartBanking.aspx" title="SmartBanking">SmartBanking</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Elektronicke-bankovnictvi/Stranky/CSOB-Linka-24.aspx" title="Linka 24">Linka 24</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Elektronicke-bankovnictvi/Stranky/CSOB-Mobil-24.aspx" title="Mobil 24">Mobil 24</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Elektronicke-bankovnictvi/Stranky/CSOB-Info-24.aspx" title="Info 24">Info 24</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Elektronicke-bankovnictvi/Stranky/Komfortni-vyuctovani.aspx" title="Komfortn? vy??tov?n?">Komfortn? vy??tov?n?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Elektronicke-bankovnictvi/Stranky/Provozni-informace.aspx" title="Provozn? informace">Provozn? informace</a></li>
+</ul>
+<b class="c4b"></b><b class="c3b"></b><b class="c2b"></b><b class="c1b"></b>
+</div>
+</li>
+<li onmouseover="this.className = 'menuon'" onmouseout="this.className = 'menuoff';"><a href="/cz/Lide/Platebni-karty/" title="Platebn? karty">Platebn? karty</a>
+<div class="zc"><b class="c1"></b><b class="c2"></b><b class="c3"></b><b class="c4"></b>
+<ul>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Platebni-karty/Stranky/Zabezpeceni-internetovych-plateb-kartou-3D-Secure.aspx" title="Zabezpe?en? internetov?ch plateb kartou (3D Secure)">Zabezpe?en? internetov?ch plateb kartou (3D Secure)</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Platebni-karty/Stranky/Image-karta.aspx" title="Image karta">Image karta</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Platebni-karty/Stranky/CashBack.aspx" title="CashBack">CashBack</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Platebni-karty/Stranky/Vkladove-bankomaty.aspx" title="Vkladov? bankomaty ?SOB">Vkladov? bankomaty ?SOB</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Platebni-karty/Stranky/Platby-mobilnim-operatorum-prostrednictvim-bankomatu-CSOB.aspx" title="Platby mobiln?m oper?tor?m z bankomat? ?SOB">Platby mobiln?m oper?tor?m z bankomat? ?SOB</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Platebni-karty/Stranky/MasterCard-Standard.aspx" title="MasterCard Standard">MasterCard Standard</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Platebni-karty/Stranky/MasterCard-Gold.aspx" title="MasterCard Gold">MasterCard Gold</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Platebni-karty/Stranky/VISA-Electron.aspx" title="VISA Electron">VISA Electron</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Platebni-karty/Stranky/VISA-Classic.aspx" title="VISA Classic">VISA Classic</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Platebni-karty/Stranky/VISA-Gold.aspx" title="VISA Gold">VISA Gold</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Platebni-karty/Stranky/VISA-Classic-Student.aspx" title="VISA Classic Student">VISA Classic Student</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Platebni-karty/Stranky/VISA-Electron-Baby.aspx" title="VISA Electron Baby">VISA Electron Baby</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Platebni-karty/CSOB-Kreditni-karta/Stranky/default.aspx" title="Kreditn? karta">Kreditn? karta</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Platebni-karty/Stranky/Uverova-karta-Diners-Club.aspx" title="?v?rov? karta Diners Club">?v?rov? karta Diners Club</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Platebni-karty/Stranky/Pojisteni-ztraty-platebni-karty.aspx" title="Poji?t?n? ztr?ty, kr?de?e platebn? karty">Poji?t?n? ztr?ty, kr?de?e platebn? karty</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Platebni-karty/Stranky/Pojisteni-pro-cesty-do-zahranici-k-platebnim-kartam.aspx" title="Poji?t?n? pro cesty do zahrani?? k platebn?m kart?m">Poji?t?n? pro cesty do zahrani?? k platebn?m kart?m</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Platebni-karty/Stranky/Pojisteni-pravni-ochrany-pro-ridice-motorovych-vozidel.aspx" title="Poji?t?n? pr?vn? ochrany pro ?idi?e motorov?ch vozidel">Poji?t?n? pr?vn? ochrany pro ?idi?e motorov?ch vozidel</a></li>
+</ul>
+<b class="c4b"></b><b class="c3b"></b><b class="c2b"></b><b class="c1b"></b>
+</div>
+</li>
+<li onmouseover="this.className = 'menuon'" onmouseout="this.className = 'menuoff';"><a href="/cz/Lide/Pojisteni/" title="Poji?t?n?">Poji?t?n?</a>
+<div class="zc"><b class="c1"></b><b class="c2"></b><b class="c3"></b><b class="c4"></b>
+<ul>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Pojisteni/Zivotni-pojisteni/" title="?ivotn? poji?t?n?">?ivotn? poji?t?n?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Pojisteni/Stranky/CSOB-Pojisteni-k-hypotekam.aspx" title="Poji?t?n? k hypot?k?m - schopnost spl?cet">Poji?t?n? k hypot?k?m - schopnost spl?cet</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Pojisteni/Stranky/Pojisteni-budov-staveb-a-bytu.aspx" title="Poji?t?n? k hypot?k?m - nemovitost">Poji?t?n? k hypot?k?m - nemovitost</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Pojisteni/Stranky/CSOB-pojisteni-domacnosti.aspx" title="Poji?t?n? k hypot?k?m - dom?cnost">Poji?t?n? k hypot?k?m - dom?cnost</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Pojisteni/Stranky/CSOB-Pojisteni-k-pujckam.aspx" title="Poji?t?n? k p?j?k?m - schopnost spl?cet">Poji?t?n? k p?j?k?m - schopnost spl?cet</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Pojisteni/Stranky/Pojisteni-ztraty-platebni-karty.aspx" title="Poji?t?n? ke kart?m - ztr?ta karty">Poji?t?n? ke kart?m - ztr?ta karty</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Pojisteni/Stranky/Pojisteni-pro-cesty-do-zahranici-k-platebnim-kartam.aspx" title="Poji?t?n? ke kart?m - cestovn? poji?t?n?">Poji?t?n? ke kart?m - cestovn? poji?t?n?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Pojisteni/Stranky/Pojisteni-pravni-ochrany-pro-ridice-motorovych-vozidel.aspx" title="Poji?t?n? ke kart?m - pr?vn? ochrana ?idi?e">Poji?t?n? ke kart?m - pr?vn? ochrana ?idi?e</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Pojisteni/Stranky/CSOB-Cestovni-pojisteni.aspx" title="Cestovn? poji?t?n?">Cestovn? poji?t?n?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Pojisteni/Stranky/CSOB-Samostatne-urazove-pojisteni.aspx" title="Samostatn? ?razov? poji?t?n?">Samostatn? ?razov? poji?t?n?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Pojisteni/Stranky/Pojisteni-vozidel.aspx" title="Poji?t?n? vozidel">Poji?t?n? vozidel</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Pojisteni/Stranky/Pojisteni-domacnosti-DOMOV-EXPRES.aspx" title="Poji?t?n? dom?cnosti DOMOV EXPRES">Poji?t?n? dom?cnosti DOMOV EXPRES</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Lide/Pojisteni/Stranky/Urazove-pojisteni-k-CSOB-Detskemu-kontu-Slune.aspx" title="?razov? poji?t?n? k D?tsk?mu kontu Sl?n?">?razov? poji?t?n? k D?tsk?mu kontu Sl?n?</a></li>
+</ul>
+<b class="c4b"></b><b class="c3b"></b><b class="c2b"></b><b class="c1b"></b>
+</div>
+</li>
+</ul>
+<b class="b4b"></b><b class="b3b"></b><b class="b2b"></b><b class="b1b"></b>
+</div>
+</li>
+<li id="firmy" onmouseover="showMenu(this,'nadpis');" onmouseout="hideMenu('firmy');"><div id="divfirmy" class="nadpis"><a href="http://www.csob.cz/cz/Firmy" title="http://www.csob.cz/cz/Firmy">Firmy<span id="spanfirmy"></span></a></div>
+<div class="zb"><b class="b1"></b><b class="b2"></b><b class="b3"></b><b class="b4"></b>
+<ul><li onmouseover="this.className = 'menuon'" onmouseout="this.className = 'menuoff';"><a href="/cz/Firmy/Podnikatele/" title="Podnikatel?, mal? a st?edn? podniky">Podnikatel?, mal? a st?edn? podniky</a>
+<div class="zc"><b class="c1"></b><b class="c2"></b><b class="c3"></b><b class="c4"></b>
+<ul>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Firmy/Podnikatele/Ucty-a-platebni-styk/" title="??ty a platebn? styk">??ty a platebn? styk</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Firmy/Podnikatele/Elektronicke-bankovnictvi/" title="Elektronick? bankovnictv?">Elektronick? bankovnictv?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Firmy/Podnikatele/Platebni-karty/" title="Platebn? karty">Platebn? karty</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Firmy/Podnikatele/Sluzby-pro-internetove-obchodniky/Stranky/default.aspx" title="Slu?by pro internetov? obchodn?ky">Slu?by pro internetov? obchodn?ky</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Firmy/Podnikatele/Zhodnocovani-financnich-prostredku/" title="Zhodnocov?n? finan?n?ch prost?edk?">Zhodnocov?n? finan?n?ch prost?edk?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Firmy/Podnikatele/Uvery/" title="?v?ry">?v?ry</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Firmy/Podnikatele/Financni-a-kapitalove-trhy/" title="Finan?n? a kapit?lov? trhy">Finan?n? a kapit?lov? trhy</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Firmy/Podnikatele/Profesni-komory/" title="Profesn? komory">Profesn? komory</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Firmy/Podnikatele/Stranky/Klub-uspesnych-podnikatelu.aspx" title="Klub ?sp??n?ch podnikatel?">Klub ?sp??n?ch podnikatel?</a></li>
+</ul>
+<b class="c4b"></b><b class="c3b"></b><b class="c2b"></b><b class="c1b"></b>
+</div>
+</li>
+<li onmouseover="this.className = 'menuon'" onmouseout="this.className = 'menuoff';"><a href="/cz/Firmy/Bytova-druzstva/" title="Bytov? dru?stva a spole?enstv? vlastn?k? jednotek">Bytov? dru?stva a spole?enstv? vlastn?k? jednotek</a>
+<div class="zc"><b class="c1"></b><b class="c2"></b><b class="c3"></b><b class="c4"></b>
+<ul>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Firmy/Bytova-druzstva/Stranky/CSOB-Program-pro-bytova-druzstva-a-spolecenstvi-vlastniku-jednotek.aspx" title="Program pro bytov? dru?stva a spole?enstv? vlastn?ku jednotek">Program pro bytov? dru?stva a spole?enstv? vlastn?ku jednotek</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Firmy/Bytova-druzstva/Ucty-a-platebni-styk/" title="??ty a platebn? styk">??ty a platebn? styk</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Firmy/Bytova-druzstva/Elektronicke-bankovnictvi/" title="Elektronick? bankovnictv?">Elektronick? bankovnictv?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Firmy/Bytova-druzstva/Platebni-karty/" title="Platebn? karty">Platebn? karty</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Firmy/Bytova-druzstva/Zhodnocovani-financnich-prostredku/" title="Zhodnocovan? finan?n?ch prost?edk?">Zhodnocovan? finan?n?ch prost?edk?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Firmy/Bytova-druzstva/Stranky/Uvery-pro-bytova-druzstva-a-spolecenstvi-vlastniku-jednotek.aspx" title="?v?ry">?v?ry</a></li>
+</ul>
+<b class="c4b"></b><b class="c3b"></b><b class="c2b"></b><b class="c1b"></b>
+</div>
+</li>
+<li onmouseover="this.className = 'menuon'" onmouseout="this.className = 'menuoff';"><a href="/cz/Firmy/Municipality-a-neziskove-organizace/" title="Municipality a neziskov? organizace">Municipality a neziskov? organizace</a>
+<div class="zc"><b class="c1"></b><b class="c2"></b><b class="c3"></b><b class="c4"></b>
+<ul>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Firmy/Municipality-a-neziskove-organizace/Stranky/CSOB-Municipalni-program.aspx" title="Municip?ln? program">Municip?ln? program</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Firmy/Municipality-a-neziskove-organizace/Ucty-a-platebni-styk/" title="??ty a platebn? styk">??ty a platebn? styk</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Firmy/Municipality-a-neziskove-organizace/Elektronicke-bankovnictvi/" title="Elektronick? bankovnictv?">Elektronick? bankovnictv?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Firmy/Municipality-a-neziskove-organizace/Platebni-karty/" title="Platebn? karty">Platebn? karty</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Firmy/Municipality-a-neziskove-organizace/Zhodnocovani-financnich-prostredku/" title="Zhodnocov?n? finan?n?ch prost?edk?">Zhodnocov?n? finan?n?ch prost?edk?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Firmy/Municipality-a-neziskove-organizace/Uvery/" title="?v?ry">?v?ry</a></li>
+</ul>
+<b class="c4b"></b><b class="c3b"></b><b class="c2b"></b><b class="c1b"></b>
+</div>
+</li>
+<li onmouseover="this.className = 'menuon'" onmouseout="this.className = 'menuoff';"><a href="/cz/Firmy/Korporace-Instituce/" title="Korporace a instituce">Korporace a instituce</a>
+<div class="zc"><b class="c1"></b><b class="c2"></b><b class="c3"></b><b class="c4"></b>
+<ul>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Firmy/Korporace-Instituce/Stranky/Koho-a-jak-obsluhujeme.aspx" title="Koho a jak obsluhujeme">Koho a jak obsluhujeme</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Firmy/Korporace-Instituce/Sluzby-a-produkty/" title="Slu?by a produkty">Slu?by a produkty</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Firmy/Korporace-Instituce/Stranky/Specialni-sluzby-pro-instituce.aspx" title="Speci?ln? slu?by pro instituce">Speci?ln? slu?by pro instituce</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Firmy/Korporace-Instituce/Custody-sluzby/" title="Custody slu?by">Custody slu?by</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Firmy/Korporace-Instituce/Stranky/Reference.aspx" title="Ocen?n?">Ocen?n?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Firmy/Korporace-Instituce/Stranky/Management.aspx" title="Management">Management</a></li>
+</ul>
+<b class="c4b"></b><b class="c3b"></b><b class="c2b"></b><b class="c1b"></b>
+</div>
+</li>
+</ul>
+<b class="b4b"></b><b class="b3b"></b><b class="b2b"></b><b class="b1b"></b>
+</div>
+</li>
+<li id="onas" onmouseover="showMenu(this,'active');" onmouseout="hideMenu('onas');"><div id="divonas" class="active"><a href="http://www.csob.cz/cz/Csob" title="http://www.csob.cz/cz/Csob">?SOB<span id="spanonas"></span></a></div>
+<div class="zb"><b class="b1"></b><b class="b2"></b><b class="b3"></b><b class="b4"></b>
+<ul><li onmouseover="this.className = 'menuon'" onmouseout="this.className = 'menuoff';"><a href="/cz/Csob/O-CSOB/" title="O n?s">O n?s</a>
+<div class="zc"><b class="c1"></b><b class="c2"></b><b class="c3"></b><b class="c4"></b>
+<ul>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/O-CSOB/Profil-CSOB/" title="O spole?nosti ?SOB">O spole?nosti ?SOB</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/O-CSOB/Skupina-CSOB/" title="O skupin? ?SOB">O skupin? ?SOB</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/O-CSOB/Stranky/O-Skupine-KBC.aspx" title="O skupin? KBC">O skupin? KBC</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/O-CSOB/Sprava-rizeni-CSOB/" title="Spr?va a ??zen? ?SOB">Spr?va a ??zen? ?SOB</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/O-CSOB/Spolecenska-odpovednost/Stranky/default.aspx" title="Spole?ensk? odpov?dnost">Spole?ensk? odpov?dnost</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/O-CSOB/Oceneni/" title="Ocen?n? skupiny ?SOB">Ocen?n? skupiny ?SOB</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/O-CSOB/Podporujeme/" title="Podporujeme">Podporujeme</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/O-CSOB/Budova-CSOB-Radlice/" title="Budova ?SOB v Radlic?ch">Budova ?SOB v Radlic?ch</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/O-CSOB/Povinne-informace/" title="Povinn? informace">Povinn? informace</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/O-CSOB/Emise-cennych-papiru/" title="Emise cenn?ch pap?r?">Emise cenn?ch pap?r?</a></li>
+</ul>
+<b class="c4b"></b><b class="c3b"></b><b class="c2b"></b><b class="c1b"></b>
+</div>
+</li>
+<li onmouseover="this.className = 'menuon'" onmouseout="this.className = 'menuoff';"><a href="/cz/Csob/Kontakty-pobocky-bankomaty/" title="Kontakty, pobo?ky, bankomaty">Kontakty, pobo?ky, bankomaty</a>
+<div class="zc"><b class="c1"></b><b class="c2"></b><b class="c3"></b><b class="c4"></b>
+<ul>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Kontakty-pobocky-bankomaty/Stranky/Dulezite-kontakty.aspx" title="D?le?it? kontakty">D?le?it? kontakty</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Kontakty-pobocky-bankomaty/Pobocky/" title="Pobo?ky">Pobo?ky</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Kontakty-pobocky-bankomaty/Bankomaty/" title="Bankomaty">Bankomaty</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Kontakty-pobocky-bankomaty/Stranky/Kontakty-pro-analytiky-a-regulatory.aspx" title="Kontakty pro analytiky a regul?tory">Kontakty pro analytiky a regul?tory</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Kontakty-pobocky-bankomaty/Stranky/Kontakty-na-manazery-vztahu-k-mediim.aspx" title="Kontakty na mana?ery vztah? k m?di?m">Kontakty na mana?ery vztah? k m?di?m</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Kontakty-pobocky-bankomaty/Korporatni-a-institucionalni-bankovnictvi/" title="Kontakty na Korpor?tn? a institucion?ln? bankovnictv?">Kontakty na Korpor?tn? a institucion?ln? bankovnictv?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/pb/Kontakty/Stranky/seznam.aspx?mode=2&IM=PB" title="Kontakty na Private banking">Kontakty na Private banking</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Kontakty-pobocky-bankomaty/Korespondencni-banky/" title="Koresponden?n? banky">Koresponden?n? banky</a></li>
+</ul>
+<b class="c4b"></b><b class="c3b"></b><b class="c2b"></b><b class="c1b"></b>
+</div>
+</li>
+<li onmouseover="this.className = 'menuon'" onmouseout="this.className = 'menuoff';"><a href="/cz/Csob/Kariera-u-nas/" title="Kari?ra u n?s">Kari?ra u n?s</a>
+<div class="zc"><b class="c1"></b><b class="c2"></b><b class="c3"></b><b class="c4"></b>
+<ul>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Kariera-u-nas/Stranky/Kariera.aspx" title="Voln? pracovn? m?sta">Voln? pracovn? m?sta</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Kariera-u-nas/Stranky/Databaze-kandidatu.aspx" title="Datab?ze kandid?t?">Datab?ze kandid?t?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Kariera-u-nas/Stranky/Vzdelavani-a-rozvoj-kariery-v-CSOB.aspx" title="Vzd?l?v?n? a rozvoj kari?ry v ?SOB">Vzd?l?v?n? a rozvoj kari?ry v ?SOB</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Kariera-u-nas/Stranky/Pracovni-prilezitosti-pro-absolventy-a-studenty-skol.aspx" title="Pracovn? p??le?itosti pro absolventy a studenty">Pracovn? p??le?itosti pro absolventy a studenty</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Kariera-u-nas/Stranky/Zamestnanecke-vyhody.aspx" title="Zam?stnaneck? v?hody">Zam?stnaneck? v?hody</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Kariera-u-nas/Stranky/Jake-jsou-nase-hodnoty.aspx" title="Jak? jsou na?e hodnoty?">Jak? jsou na?e hodnoty?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Kariera-u-nas/Stranky/Nejcastejsi-otazky-uchazecu-o-zamestnani.aspx" title="Nej?ast?j?? ot?zky uchaze?? o zam?stn?n?">Nej?ast?j?? ot?zky uchaze?? o zam?stn?n?</a></li>
+</ul>
+<b class="c4b"></b><b class="c3b"></b><b class="c2b"></b><b class="c1b"></b>
+</div>
+</li>
+<li onmouseover="this.className = 'menuon'" onmouseout="this.className = 'menuoff';"><a href="/cz/Csob/Kurzovni-listky/" title="Kurzovn? l?stky">Kurzovn? l?stky</a>
+<div class="zc"><b class="c1"></b><b class="c2"></b><b class="c3"></b><b class="c4"></b>
+<ul>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Kurzovni-listky/Stranky/kurzovni-listek.aspx" title="Kurzovn? l?stek">Kurzovn? l?stek</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Kurzovni-listky/Stranky/Kurzovni-listek-exotickych-men.aspx" title="Kurzovn? l?stek exotick?ch m?n">Kurzovn? l?stek exotick?ch m?n</a></li>
+</ul>
+<b class="c4b"></b><b class="c3b"></b><b class="c2b"></b><b class="c1b"></b>
+</div>
+</li>
+<li onmouseover="this.className = 'menuon'" onmouseout="this.className = 'menuoff';"><a href="/cz/Csob/Sazebniky/" title="Sazebn?ky">Sazebn?ky</a>
+<div class="zc"><b class="c1"></b><b class="c2"></b><b class="c3"></b><b class="c4"></b>
+<ul>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Sazebniky/Stranky/Sazebnik-pro-fyzicke-osoby-obcany.aspx" title="Sazebn?k pro fyzick? osoby - ob?any">Sazebn?k pro fyzick? osoby - ob?any</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Sazebniky/Stranky/Sazebnik-pro-pravnicke-osoby-a-fyzicke-osoby-podnikatele.aspx" title="Sazebn?k pro pr?vnick? osoby a fyzick? osoby - podnikatele">Sazebn?k pro pr?vnick? osoby a fyzick? osoby - podnikatele</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Sazebniky/Stranky/Sazebnik-pro-korporatni-a-institucionalni-bankovnictvi.aspx" title="Sazebn?k pro korpor?tn? a institucion?ln? bankovnictv?">Sazebn?k pro korpor?tn? a institucion?ln? bankovnictv?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Sazebniky/Stranky/Kreditni-karty-vydavane-ve-spolupraci-s-partnery.aspx" title="Sazebn?k - Kreditn? karty vyd?van? ve spolupr?ci s partnery">Sazebn?k - Kreditn? karty vyd?van? ve spolupr?ci s partnery</a></li>
+</ul>
+<b class="c4b"></b><b class="c3b"></b><b class="c2b"></b><b class="c1b"></b>
+</div>
+</li>
+<li onmouseover="this.className = 'menuon'" onmouseout="this.className = 'menuoff';"><a href="/cz/Csob/Urokove-sazby/" title="?rokov? sazby">?rokov? sazby</a>
+<div class="zc"><b class="c1"></b><b class="c2"></b><b class="c3"></b><b class="c4"></b>
+<ul>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Urokove-sazby/Stranky/Urokove-sazby-korunove-ucty-obcane.aspx" title="Korunov? ??ty - ob?an?">Korunov? ??ty - ob?an?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Urokove-sazby/Stranky/Urokove-sazby-korunovych-uctu-podnikatele-a-pravnicke-osoby.aspx" title="Korunov? ??ty - podnikatel? a pr?vnick? osoby">Korunov? ??ty - podnikatel? a pr?vnick? osoby</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Urokove-sazby/Stranky/Urokove-sazby-hypotecnich-uveru.aspx" title="Hypote?n? ?v?ry">Hypote?n? ?v?ry</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Urokove-sazby/Stranky/Urokove-sazby-korunovych-uctu-jejichz-prodej-byl-zastaven-obcane.aspx" title="Korunov? ??ty jejich? prodej byl zastaven - ob?an?">Korunov? ??ty jejich? prodej byl zastaven - ob?an?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Urokove-sazby/Stranky/Urokove-sazby-korunovych-uctu-jejichz-prodej-byl-zastaven-podnikatele-a-pravnicke-osoby.aspx" title="Korunov? ??ty jejich? prodej byl zastaven - podnikatel? a pr?vnick? osoby">Korunov? ??ty jejich? prodej byl zastaven - podnikatel? a pr?vnick? osoby</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Urokove-sazby/Stranky/Urokove-sazby-cizomenovych-uctu-obcane.aspx" title="Cizom?nov? ??ty - ob?an?">Cizom?nov? ??ty - ob?an?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Urokove-sazby/Stranky/Urokove-sazby-cizomenovych-uctu-podnikatele-a-pravnicke-osoby.aspx" title="Cizom?nov? ??ty - podnikatel? a pr?vnick? osoby">Cizom?nov? ??ty - podnikatel? a pr?vnick? osoby</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Urokove-sazby/Stranky/Urokove-sazby-cizomenovych-uctu-jejichz-prodej-byl-zastaven-obcane.aspx" title="Cizom?nov? ??ty jejich? prodej byl zastaven - ob?an? ">Cizom?nov? ??ty jejich? prodej byl zastaven - ob?an? </a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Urokove-sazby/Stranky/Urokove-sazby-CM-zastaven-SME.aspx" title="Cizom?nov? ??ty jejich? prodej byl zastaven - podnikatel? a pr?vnick? osoby">Cizom?nov? ??ty jejich? prodej byl zastaven - podnikatel? a pr?vnick? osoby</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Urokove-sazby/Stranky/Urokove-sazby-kreditnich-karet-vydavanych-ve-spolupraci-s-partnery.aspx" title="Kreditn? karty vyd?van? ve spolupr?ci s partnery">Kreditn? karty vyd?van? ve spolupr?ci s partnery</a></li>
+</ul>
+<b class="c4b"></b><b class="c3b"></b><b class="c2b"></b><b class="c1b"></b>
+</div>
+</li>
+<li onmouseover="this.className = 'menuon'" onmouseout="this.className = 'menuoff';"><a href="/cz/Csob/Formulare-a-kalkulacky/" title="Formul??e a kalkula?ky">Formul??e a kalkula?ky</a>
+<div class="zc"><b class="c1"></b><b class="c2"></b><b class="c3"></b><b class="c4"></b>
+<ul>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Formulare-a-kalkulacky/Stranky/Formulare.aspx" title="Formul??e">Formul??e</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Formulare-a-kalkulacky/Stranky/CSOB-Hypoteka-modelova-hypoteka.aspx" title="Hypot?ka - v?po?et na m?ru">Hypot?ka - v?po?et na m?ru</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Formulare-a-kalkulacky/Stranky/CSOB-Pujcky-orientacni-propocty.aspx" title="P?j?ky - orienta?n? propo?ty">P?j?ky - orienta?n? propo?ty</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Formulare-a-kalkulacky/Stranky/CSOB-Kreditni-karta-vypocet-vyse-uveroveho-limitu.aspx" title="Kreditn? karta - v?po?et maxim?ln? v??e ?v?rov?ho limitu">Kreditn? karta - v?po?et maxim?ln? v??e ?v?rov?ho limitu</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Formulare-a-kalkulacky/Stranky/CSOB-Povolene-precerpani-uctu-orientacni-propocet.aspx" title="Povolen? p?e?erp?n? ??tu - orienta?n? propo?et">Povolen? p?e?erp?n? ??tu - orienta?n? propo?et</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Formulare-a-kalkulacky/Stranky/Spocitejte-si-svoje-konto.aspx" title="Spo??tejte si svoje konto">Spo??tejte si svoje konto</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Formulare-a-kalkulacky/Stranky/Plan-pro-zivot.aspx" title="Spo??tejte si Pl?n pro ?ivot">Spo??tejte si Pl?n pro ?ivot</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Formulare-a-kalkulacky/Stranky/CSOB-Flexicash.aspx" title="Spo??tejte si slu?bu FlexiCash">Spo??tejte si slu?bu FlexiCash</a></li>
+</ul>
+<b class="c4b"></b><b class="c3b"></b><b class="c2b"></b><b class="c1b"></b>
+</div>
+</li>
+<li onmouseover="this.className = 'menuon'" onmouseout="this.className = 'menuoff';"><a href="/cz/Csob/Caste-dotazy/" title="?ast? dotazy">?ast? dotazy</a>
+<div class="zc"><b class="c1"></b><b class="c2"></b><b class="c3"></b><b class="c4"></b>
+<ul>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Caste-dotazy/Stranky/Caste-dotazy-Bezne-ucty-konta.aspx" title="B??n? ??ty (konta)">B??n? ??ty (konta)</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Caste-dotazy/Stranky/Caste-dotazy-pojisteni-vkladu.aspx" title="Poji?t?n? pohled?vek z vklad?">Poji?t?n? pohled?vek z vklad?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Caste-dotazy/Stranky/Caste-dotazy-Bezhotovostni-platby-prevody.aspx" title="Bezhotovostn? platby (p?evody)">Bezhotovostn? platby (p?evody)</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Caste-dotazy/Stranky/Caste-dotazy-Hotovostni-operace.aspx" title="Hotovostn? operace">Hotovostn? operace</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Caste-dotazy/Stranky/Caste-dotazy-Platebni-karty.aspx" title="Platebn? karty">Platebn? karty</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Caste-dotazy/Stranky/Caste-dotazy-Uvery-pro-fyzicke-osoby.aspx" title="?v?ry pro fyzick? osoby">?v?ry pro fyzick? osoby</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Caste-dotazy/Stranky/Caste-dotazy-Uvery-pro-pravnicke-osoby-a-podnikatele.aspx" title="?v?ry pro pr?vnick? osoby a podnikatele">?v?ry pro pr?vnick? osoby a podnikatele</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Caste-dotazy/Stranky/Caste-dotazy-Elektronicke-bankovnictvi.aspx" title="Elektronick? bankovnictv?">Elektronick? bankovnictv?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Caste-dotazy/Stranky/Caste-dotazy-CSOB-SmartBanking.aspx" title="SmartBanking">SmartBanking</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Caste-dotazy/Stranky/Caste-dotazy-Info-24.aspx" title="Info 24">Info 24</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Caste-dotazy/Stranky/Caste-dotazy-CSOB-Linka-24.aspx" title="Linka 24 ">Linka 24 </a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Caste-dotazy/Stranky/Caste-dotazy-CSOB-Mobil-24.aspx" title="Mobil 24">Mobil 24</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Caste-dotazy/Stranky/Caste-dotazy-CSOB-InternetBanking-24.aspx" title="InternetBanking 24">InternetBanking 24</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Caste-dotazy/Stranky/Caste-dotazy-CSOB-BusinessBanking-24.aspx" title="BusinessBanking 24">BusinessBanking 24</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Caste-dotazy/Stranky/Platby-mobilnim-operatorum.aspx" title="Platby mobiln?m oper?tor?m">Platby mobiln?m oper?tor?m</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Caste-dotazy/Stranky/Caste-dotazy-Seky.aspx" title="?eky">?eky</a></li>
+</ul>
+<b class="c4b"></b><b class="c3b"></b><b class="c2b"></b><b class="c1b"></b>
+</div>
+</li>
+<li onmouseover="this.className = 'menuon'" onmouseout="this.className = 'menuoff';"><a href="/cz/Csob/Servis-pro-media/" title="Servis pro m?dia">Servis pro m?dia</a>
+<div class="zc"><b class="c1"></b><b class="c2"></b><b class="c3"></b><b class="c4"></b>
+<ul>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Servis-pro-media/Tiskove-zpravy/" title="Tiskov? zpr?vy">Tiskov? zpr?vy</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Servis-pro-media/Stranky/Financni-a-obchodni-vysledky.aspx" title="Finan?n? a obchodn? v?sledky">Finan?n? a obchodn? v?sledky</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Servis-pro-media/Stranky/O-Skupine-KBC.aspx" title="Informace o Skupin? KBC">Informace o Skupin? KBC</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Servis-pro-media/Dokumenty-ke-stazeni/" title="Podklady pro reprodukci v m?di?ch">Podklady pro reprodukci v m?di?ch</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Servis-pro-media/Dalsi-temata/" title="Dal?? t?mata">Dal?? t?mata</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Servis-pro-media/Stranky/Kontakty-na-manazery-vztahu-k-mediim.aspx" title="Kontakty na mana?ery vztah? k m?di?m">Kontakty na mana?ery vztah? k m?di?m</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Servis-pro-media/Archiv/" title="Archiv">Archiv</a></li>
+</ul>
+<b class="c4b"></b><b class="c3b"></b><b class="c2b"></b><b class="c1b"></b>
+</div>
+</li>
+<li onmouseover="this.className = 'menuon'" onmouseout="this.className = 'menuoff';"><a href="/cz/Csob/Vztahy-k-investorum/" title="Vztahy k investor?m">Vztahy k investor?m</a>
+<div class="zc"><b class="c1"></b><b class="c2"></b><b class="c3"></b><b class="c4"></b>
+<ul>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Vztahy-k-investorum/Stranky/Vyrocni-a-pololetni-zpravy.aspx" title="V?ro?n? a pololetn? zpr?vy">V?ro?n? a pololetn? zpr?vy</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Vztahy-k-investorum/Stranky/Financni-a-obchodni-vysledky.aspx" title="Finan?n? a obchodn? v?sledky">Finan?n? a obchodn? v?sledky</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Vztahy-k-investorum/Stranky/Financni-kalendar.aspx" title="Finan?n? kalend??">Finan?n? kalend??</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Vztahy-k-investorum/Stranky/Ratingova-hodnoceni-CSOB.aspx" title="Ratingov? hodnocen? ?SOB a KBC">Ratingov? hodnocen? ?SOB a KBC</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Vztahy-k-investorum/Stranky/Kontakty-pro-analytiky-a-regulatory.aspx" title="Kontakty pro analytiky a regul?tory">Kontakty pro analytiky a regul?tory</a></li>
+</ul>
+<b class="c4b"></b><b class="c3b"></b><b class="c2b"></b><b class="c1b"></b>
+</div>
+</li>
+<li onmouseover="this.className = 'menuon'" onmouseout="this.className = 'menuoff';"><a href="/cz/Csob/Analyzy/" title="Anal?zy">Anal?zy</a>
+<div class="zc"><b class="c1"></b><b class="c2"></b><b class="c3"></b><b class="c4"></b>
+<ul>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Analyzy/Horke-novinky-z-trhu/Stranky/default.aspx" title="Rychle k v?ci - ekonomika a trhy">Rychle k v?ci - ekonomika a trhy</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Analyzy/aktuality/" title="Bleskov? anal?zy a koment??e">Bleskov? anal?zy a koment??e</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Analyzy/denni-financni-zpravodaj/" title="Denn? finan?n? zpravodaj">Denn? finan?n? zpravodaj</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Analyzy/analyticky-tydenik/" title="Analytick? t?den?k">Analytick? t?den?k</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Analyzy/Fokus/Stranky/default.aspx" title="Fokus">Fokus</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Analyzy/Stranky/Makroekonomicky-vyhled.aspx" title="Makroekonomick? v?hled">Makroekonomick? v?hled</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Analyzy/Ocekavane-udalosti-ve-stredni-Evrope/Stranky/default.aspx" title="D?le?it? ekonomick? ud?losti t?dne">D?le?it? ekonomick? ud?losti t?dne</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Analyzy/Stranky/Vyhledy-kurzu.aspx" title="V?hledy kurz?">V?hledy kurz?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Analyzy/fx-vyhled/" title="FX Strategie">FX Strategie</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Analyzy/Stranky/Vyhled-urokovych-sazeb.aspx" title="V?hled ?rokov?ch sazeb">V?hled ?rokov?ch sazeb</a></li>
+</ul>
+<b class="c4b"></b><b class="c3b"></b><b class="c2b"></b><b class="c1b"></b>
+</div>
+</li>
+<li onmouseover="this.className = 'menuon'" onmouseout="this.className = 'menuoff';"><a href="/cz/Csob/Casopisy/" title="?asopisy">?asopisy</a>
+<div class="zc"><b class="c1"></b><b class="c2"></b><b class="c3"></b><b class="c4"></b>
+<ul>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Casopisy/magazin-csob-panorama/" title="Magaz?n Panorama">Magaz?n Panorama</a></li>
+</ul>
+<b class="c4b"></b><b class="c3b"></b><b class="c2b"></b><b class="c1b"></b>
+</div>
+</li>
+<li onmouseover="this.className = 'menuon'" onmouseout="this.className = 'menuoff';"><a href="/cz/Csob/Obchodni-podminky/" title="Obchodn? podm?nky">Obchodn? podm?nky</a>
+<div class="zc"><b class="c1"></b><b class="c2"></b><b class="c3"></b><b class="c4"></b>
+<ul>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Obchodni-podminky/Stranky/Vseobecne-obchodni-podminky.aspx" title="V?eobecn? obchodn? podm?nky">V?eobecn? obchodn? podm?nky</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Obchodni-podminky/Stranky/Reklamacni-rad-CSOB.aspx" title="Reklama?n? ??d">Reklama?n? ??d</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Obchodni-podminky/Stranky/Obchodni-podminky-pro-jednotlive-produkty-a-sluzby.aspx" title="Obchodn? podm?nky pro jednotliv? produkty a slu?by">Obchodn? podm?nky pro jednotliv? produkty a slu?by</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Obchodni-podminky/Stranky/Zmeny-v-legislative-CR-souvisejici-s-bankovnimi-institucemi.aspx" title="Zm?ny v legislativ? ?R souvisej?c? s bankovn?mi institucemi">Zm?ny v legislativ? ?R souvisej?c? s bankovn?mi institucemi</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Obchodni-podminky/Stranky/Informace-k-pojisteni-vkladu.aspx" title="Informace k poji?t?n? vklad?">Informace k poji?t?n? vklad?</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Obchodni-podminky/Stranky/Ucast-platebni-systemy.aspx" title="??ast v platebn?ch syst?mech a org?n dohledu">??ast v platebn?ch syst?mech a org?n dohledu</a></li>
+<li class="ns" onmouseover="this.className = 'menuon'" onmouseout="this.className = '';"><a href="/cz/Csob/Obchodni-podminky/Stranky/Kodex.aspx" title="Kodex">Kodex</a></li>
+</ul>
+<b class="c4b"></b><b class="c3b"></b><b class="c2b"></b><b class="c1b"></b>
+</div>
+</li>
+</ul>
+<b class="b4b"></b><b class="b3b"></b><b class="b2b"></b><b class="b1b"></b>
+</div>
+</li>
+</ul>
+    </div>
+
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-348717-1");
+pageTracker._trackPageview();
+} catch (err) { }
+</script>
+
+    
+    <script type="text/javascript" charset="utf-8">
+        $$(".help").each(function(link) {
+            new Tooltip(link, { mouseFollow: false, backgroundColor: "#eff9fd", borderColor: "#b3c8d7", textColor: "#036", textShadowColor: "#FFF", maxWidth: 200 });
+        });                    
+	</script>
+
+    
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';//]]>
+</script>
+</form>
+</body>
+</html>
+<!-- Vykresleno pomoc? profilu mezipam?ti: Ve?ejn? Internet (anonymn?) v: 2012-02-09T03:54:10 -->

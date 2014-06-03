@@ -1,0 +1,567 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xml:lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="language" content="en" />
+
+<title>Singapore Grand Prix | F1 Stats</title>
+<link rel="Shortcut Icon" href="http://ianhaycox.com/f1stats/wp-content/themes/shades-of-blue/images/favicon.ico" type="image/x-icon" />
+
+<link rel="stylesheet" href="http://ianhaycox.com/f1stats/wp-content/themes/shades-of-blue/style.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/rss+xml" title="F1 Stats RSS Feed" href="http://ianhaycox.com/f1stats/feed/" />
+<link rel="alternate" type="application/atom+xml" title="F1 Stats Atom Feed" href="http://ianhaycox.com/f1stats/feed/atom/" />
+<link rel="pingback" href="http://ianhaycox.com/f1stats/xmlrpc.php" />
+
+<link rel='stylesheet' id='NextGEN-css'  href='http://ianhaycox.com/f1stats/wp-content/plugins/nextgen-gallery/css/nggallery.css?ver=1.0.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='shutter-css'  href='http://ianhaycox.com/f1stats/wp-content/plugins/nextgen-gallery/shutter/shutter-reloaded.css?ver=1.3.4' type='text/css' media='screen' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://ianhaycox.com/f1stats/wp-content/plugins/contact-form-7/styles.css?ver=3.0.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='motor-sport-results_style-css'  href='http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/css/style.css?ver=3.3.1' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var shutterSettings = {"msgLoading":"L O A D I N G","msgClose":"Click to Close","imageCount":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ianhaycox.com/f1stats/wp-content/plugins/nextgen-gallery/shutter/shutter-reloaded.js?ver=1.3.3'></script>
+<script type='text/javascript' src='http://ianhaycox.com/f1stats/wp-includes/js/jquery/jquery.js?ver=1.7.1'></script>
+<script type='text/javascript' src='http://ianhaycox.com/f1stats/wp-content/plugins/nextgen-gallery/js/jquery.cycle.all.min.js?ver=2.9995'></script>
+<script type='text/javascript' src='http://ianhaycox.com/f1stats/wp-content/plugins/nextgen-gallery/js/ngg.slideshow.min.js?ver=1.05'></script>
+<script type='text/javascript' src='http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/js/jquery.metadata.js?ver=3.3.1'></script>
+<script type='text/javascript' src='http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/js/jquery.tablesorter.min.js?ver=3.3.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var MotorSportResultsAjax = {"blogUrl":"http:\/\/ianhaycox.com\/f1stats\/wp-admin\/admin-ajax.php","prefix":"motor-sport-results_"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/js/msr.js?ver=3.3.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://ianhaycox.com/f1stats/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ianhaycox.com/f1stats/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.3.1" />
+
+<!-- All in One SEO Pack 1.6.13.8 by Michael Torbert of Semper Fi Web Design[363,403] -->
+<meta name="description" content="Event Singapore Grand Prix This page is a demonstration of the Wordpress Motor Sport Results plugin. The plugin stores race data for Formula One, Moto GP," />
+<!-- /all in one seo pack -->
+<!-- <meta name="NextGEN" version="1.9.2" /> -->
+
+</head>
+
+<body>
+
+<div id="header">
+
+    <div class="headerleft">
+		        	<h4><a href="http://ianhaycox.com/f1stats/">F1 Stats</a></h4>
+            
+       		<p>Motor Sport Results Plugin</p>
+    </div>
+		
+	<div class="headerright">
+    
+	<ul id="nav">
+        <li class="page_item page-item-22"><a href="http://ianhaycox.com/f1stats/" title="Welcome">Welcome</a></li>
+<li class="page_item page-item-6"><a href="http://ianhaycox.com/f1stats/seasons/" title="Seasons">Seasons</a></li>
+<li class="page_item page-item-8"><a href="http://ianhaycox.com/f1stats/championship/" title="Championship">Championship</a></li>
+<li class="page_item page-item-10"><a href="http://ianhaycox.com/f1stats/ranking/" title="Ranking">Ranking</a></li>
+<li class="page_item page-item-12"><a href="http://ianhaycox.com/f1stats/f1-champs/" title="F1 Champs">F1 Champs</a></li>
+<li class="page_item page-item-14"><a href="http://ianhaycox.com/f1stats/calendar/" title="Calendar">Calendar</a></li>
+<li class="page_item page-item-113"><a href="http://ianhaycox.com/f1stats/contact/" title="Contact">Contact</a></li>
+<li class="page_item page-item-121"><a href="http://ianhaycox.com/f1stats/buy/" title="Buy">Buy</a></li>
+<li class="page_item page-item-147"><a href="http://ianhaycox.com/f1stats/plugin-admin-screenshots/" title="Plugin Admin Screenshots">Plugin Admin Screenshots</a></li>
+<li class="page_item page-item-169"><a href="http://ianhaycox.com/f1stats/plugin-function-list/" title="Plugin function list">Plugin function list</a></li>
+	</ul>
+    
+	</div>
+
+</div>
+
+<div class="clear"></div>
+
+<div id="wrap">
+<div id="content">
+
+	<div id="contentleft">
+	
+		<div class="postarea">
+
+			            
+			<div class="post">
+			
+                <h1>Singapore Grand Prix</h1>
+                    
+                    <div class="postauthor">
+                        <p>Posted by <a href="http://ianhaycox.com/f1stats/author/admin/" title="Posts by admin" rel="author">admin</a> on Thursday, February 9, 2012 &middot; <a href="http://ianhaycox.com/f1stats/singapore-grand-prix-2008/#comments">Leave a Comment</a>&nbsp;</p>
+                    </div>
+                
+                <h2>Event Singapore Grand Prix</h2>
+<p>This page is a demonstration of the WordPress <a href="http://www.ianhaycox.com/programming">Motor Sport Results</a> plugin.</p>
+<p>The plugin stores race data for Formula One, Moto GP, Rallying &#8211; or any other form of racing series. This example is loaded with F1 race data from 1950 until 2011</p>
+<p>Extra information about <b>Singapore Grand Prix</b> can be supplied by you.</p>
+<p>The following tables are generated by the <a href="http://www.ianhaycox.com/f1stats">Motor Sport Results plugin</a> using data entered into the admin pages. All or none of the tables can be included anywhere on this or any other page.</p>
+<h3>Results for Singapore Grand Prix 2008</h3>
+<select formula="F1" season="2008" race="1" name="motor-sport-results_session" id="msr_select_race">
+<option  value='AUS,Race,1'>Australian Grand Prix &#8211; Race</option>
+<option  value='MAL,Race,1'>Malaysian Grand Prix &#8211; Race</option>
+<option  value='BAH,Race,1'>Bahrain Grand Prix &#8211; Race</option>
+<option  value='SPA,Race,1'>Spanish Grand Prix &#8211; Race</option>
+<option  value='TUR,Race,1'>Turkish Grand Prix &#8211; Race</option>
+<option  value='MON,Race,1'>Monaco Grand Prix &#8211; Race</option>
+<option  value='CAN,Race,1'>Canadian Grand Prix &#8211; Race</option>
+<option  value='FRE,Race,1'>French Grand Prix &#8211; Race</option>
+<option  value='BRI,Race,1'>British Grand Prix &#8211; Race</option>
+<option  value='GER,Race,1'>German Grand Prix &#8211; Race</option>
+<option  value='HUN,Race,1'>Hungarian Grand Prix &#8211; Race</option>
+<option  value='EUR,Race,1'>European Grand Prix &#8211; Race</option>
+<option  value='BEL,Race,1'>Belgian Grand Prix &#8211; Race</option>
+<option  value='ITA,Race,1'>Italian Grand Prix &#8211; Race</option>
+<option  selected  value='SIN,Race,1'>Singapore Grand Prix &#8211; Race</option>
+<option  value='JAP,Race,1'>Japanese Grand Prix &#8211; Race</option>
+<option  value='CHI,Race,1'>Chinese Grand Prix &#8211; Race</option>
+<option  value='BRA,Race,1'>Brazilian Grand Prix &#8211; Race</option>
+</select>
+<div id="msr_result">
+<table class="motor-sport-results msr_result tablesorter">
+<thead>
+<tr>
+<th class="msr_col1 {sorter:'metadata'}">Pos</th>
+<th class="msr_col2">N<sup>o</sup></th>
+<th class="msr_col3">Driver</th>
+<th class="msr_col4">Team</th>
+<th class="msr_col5">Time</th>
+<th class="msr_col6">Laps</th>
+<th class="msr_col8">Grid</th>
+<th class="msr_col9">Pts</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="msr_col1 {sortValue:1}">1</th>
+<th class="msr_col2">5</th>
+<td class="msr_col3"><a href="http://ianhaycox.com/f1stats/nationality/spain"><img alt="Spain" title="Spain" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/es.png"></a> <a href='http://ianhaycox.com/f1stats/driver/fernando-alonso' title='Fernando Alonso'>Fernando Alonso</a></td>
+<td class="msr_col4"><a href="http://ianhaycox.com/f1stats/nationality/france"><img alt="France" title="France" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/fr.png"></a> <a href='http://ianhaycox.com/f1stats/team/renault' title='Renault'>Renault</a></td>
+<td class="msr_col5">01:57:16.304</td>
+<td class="msr_col6">61</td>
+<td class="msr_col8">15</td>
+<td class="msr_col9">10</td>
+</tr>
+<tr>
+<th class="msr_col1 {sortValue:2}">2</th>
+<th class="msr_col2">7</th>
+<td class="msr_col3"><a href="http://ianhaycox.com/f1stats/nationality/germany"><img alt="Germany" title="Germany" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/de.png"></a> <a href='http://ianhaycox.com/f1stats/driver/nico-rosberg' title='Nico Rosberg'>Nico Rosberg</a></td>
+<td class="msr_col4"><a href="http://ianhaycox.com/f1stats/nationality/united-kingdom"><img alt="United Kingdom" title="United Kingdom" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/gb.png"></a> <a href='http://ianhaycox.com/f1stats/team/williams' title='Williams'>Williams</a></td>
+<td class="msr_col5">01:57:19.261</td>
+<td class="msr_col6">61</td>
+<td class="msr_col8">8</td>
+<td class="msr_col9">8</td>
+</tr>
+<tr>
+<th class="msr_col1 {sortValue:3}">3</th>
+<th class="msr_col2">22</th>
+<td class="msr_col3"><a href="http://ianhaycox.com/f1stats/nationality/united-kingdom"><img alt="United Kingdom" title="United Kingdom" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/gb.png"></a> <a href='http://ianhaycox.com/f1stats/driver/lewis-hamilton' title='Lewis Hamilton'>Lewis Hamilton</a></td>
+<td class="msr_col4"><a href="http://ianhaycox.com/f1stats/nationality/united-kingdom"><img alt="United Kingdom" title="United Kingdom" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/gb.png"></a> <a href='http://ianhaycox.com/f1stats/team/mclaren' title='McLaren'>McLaren</a></td>
+<td class="msr_col5">01:57:22.221</td>
+<td class="msr_col6">61</td>
+<td class="msr_col8">2</td>
+<td class="msr_col9">6</td>
+</tr>
+<tr>
+<th class="msr_col1 {sortValue:4}">4</th>
+<th class="msr_col2">12</th>
+<td class="msr_col3"><a href="http://ianhaycox.com/f1stats/nationality/germany"><img alt="Germany" title="Germany" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/de.png"></a> <a href='http://ianhaycox.com/f1stats/driver/timo-glock' title='Timo Glock'>Timo Glock</a></td>
+<td class="msr_col4"><a href="http://ianhaycox.com/f1stats/nationality/japan"><img alt="Japan" title="Japan" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/jp.png"></a> <a href='http://ianhaycox.com/f1stats/team/toyota' title='Toyota'>Toyota</a></td>
+<td class="msr_col5">01:57:24.459</td>
+<td class="msr_col6">61</td>
+<td class="msr_col8">7</td>
+<td class="msr_col9">5</td>
+</tr>
+<tr>
+<th class="msr_col1 {sortValue:5}">5</th>
+<th class="msr_col2">15</th>
+<td class="msr_col3"><a href="http://ianhaycox.com/f1stats/nationality/germany"><img alt="Germany" title="Germany" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/de.png"></a> <a href='http://ianhaycox.com/f1stats/driver/sebastian-vettel' title='Sebastian Vettel'>Sebastian Vettel</a></td>
+<td class="msr_col4"><a href="http://ianhaycox.com/f1stats/nationality/italy"><img alt="Italy" title="Italy" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/it.png"></a> <a href='http://ianhaycox.com/f1stats/team/toro-rosso' title='Toro Rosso'>Toro Rosso</a></td>
+<td class="msr_col5">01:57:26.572</td>
+<td class="msr_col6">61</td>
+<td class="msr_col8">6</td>
+<td class="msr_col9">4</td>
+</tr>
+<tr>
+<th class="msr_col1 {sortValue:6}">6</th>
+<th class="msr_col2">3</th>
+<td class="msr_col3"><a href="http://ianhaycox.com/f1stats/nationality/germany"><img alt="Germany" title="Germany" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/de.png"></a> <a href='http://ianhaycox.com/f1stats/driver/nick-heidfeld' title='Nick Heidfeld'>Nick Heidfeld</a></td>
+<td class="msr_col4"><a href="http://ianhaycox.com/f1stats/nationality/switzerland"><img alt="Switzerland" title="Switzerland" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/ch.png"></a> <a href='http://ianhaycox.com/f1stats/team/bmw-sauber' title='BMW Sauber'>BMW Sauber</a></td>
+<td class="msr_col5">01:57:27.405</td>
+<td class="msr_col6">61</td>
+<td class="msr_col8">9</td>
+<td class="msr_col9">3</td>
+</tr>
+<tr>
+<th class="msr_col1 {sortValue:7}">7</th>
+<th class="msr_col2">9</th>
+<td class="msr_col3"><a href="http://ianhaycox.com/f1stats/nationality/united-kingdom"><img alt="United Kingdom" title="United Kingdom" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/gb.png"></a> <a href='http://ianhaycox.com/f1stats/driver/david-coulthard' title='David Coulthard'>David Coulthard</a></td>
+<td class="msr_col4"><a href="http://ianhaycox.com/f1stats/nationality/austria"><img alt="Austria" title="Austria" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/at.png"></a> <a href='http://ianhaycox.com/f1stats/team/red-bull' title='Red Bull'>Red Bull</a></td>
+<td class="msr_col5">01:57:32.691</td>
+<td class="msr_col6">61</td>
+<td class="msr_col8">14</td>
+<td class="msr_col9">2</td>
+</tr>
+<tr>
+<th class="msr_col1 {sortValue:8}">8</th>
+<th class="msr_col2">8</th>
+<td class="msr_col3"><a href="http://ianhaycox.com/f1stats/nationality/japan"><img alt="Japan" title="Japan" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/jp.png"></a> <a href='http://ianhaycox.com/f1stats/driver/kazuki-nakajima' title='Kazuki Nakajima'>Kazuki Nakajima</a></td>
+<td class="msr_col4"><a href="http://ianhaycox.com/f1stats/nationality/united-kingdom"><img alt="United Kingdom" title="United Kingdom" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/gb.png"></a> <a href='http://ianhaycox.com/f1stats/team/williams' title='Williams'>Williams</a></td>
+<td class="msr_col5">01:57:34.793</td>
+<td class="msr_col6">61</td>
+<td class="msr_col8">10</td>
+<td class="msr_col9">1</td>
+</tr>
+<tr>
+<th class="msr_col1 {sortValue:9}">9</th>
+<th class="msr_col2">16</th>
+<td class="msr_col3"><a href="http://ianhaycox.com/f1stats/nationality/united-kingdom"><img alt="United Kingdom" title="United Kingdom" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/gb.png"></a> <a href='http://ianhaycox.com/f1stats/driver/jenson-button' title='Jenson Button'>Jenson Button</a></td>
+<td class="msr_col4"><a href="http://ianhaycox.com/f1stats/nationality/japan"><img alt="Japan" title="Japan" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/jp.png"></a> <a href='http://ianhaycox.com/f1stats/team/honda' title='Honda'>Honda</a></td>
+<td class="msr_col5">01:57:36.189</td>
+<td class="msr_col6">61</td>
+<td class="msr_col8">12</td>
+<td class="msr_col9">0</td>
+</tr>
+<tr>
+<th class="msr_col1 {sortValue:10}">10</th>
+<th class="msr_col2">23</th>
+<td class="msr_col3"><a href="http://ianhaycox.com/f1stats/nationality/finland"><img alt="Finland" title="Finland" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/fi.png"></a> <a href='http://ianhaycox.com/f1stats/driver/heikki-kovalainen' title='Heikki Kovalainen'>Heikki Kovalainen</a></td>
+<td class="msr_col4"><a href="http://ianhaycox.com/f1stats/nationality/united-kingdom"><img alt="United Kingdom" title="United Kingdom" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/gb.png"></a> <a href='http://ianhaycox.com/f1stats/team/mclaren' title='McLaren'>McLaren</a></td>
+<td class="msr_col5">01:57:43.206</td>
+<td class="msr_col6">61</td>
+<td class="msr_col8">5</td>
+<td class="msr_col9">0</td>
+</tr>
+<tr>
+<th class="msr_col1 {sortValue:11}">11</th>
+<th class="msr_col2">4</th>
+<td class="msr_col3"><a href="http://ianhaycox.com/f1stats/nationality/poland"><img alt="Poland" title="Poland" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/pl.png"></a> <a href='http://ianhaycox.com/f1stats/driver/robert-kubica' title='Robert Kubica'>Robert Kubica</a></td>
+<td class="msr_col4"><a href="http://ianhaycox.com/f1stats/nationality/switzerland"><img alt="Switzerland" title="Switzerland" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/ch.png"></a> <a href='http://ianhaycox.com/f1stats/team/bmw-sauber' title='BMW Sauber'>BMW Sauber</a></td>
+<td class="msr_col5">01:57:44.279</td>
+<td class="msr_col6">61</td>
+<td class="msr_col8">4</td>
+<td class="msr_col9">0</td>
+</tr>
+<tr>
+<th class="msr_col1 {sortValue:12}">12</th>
+<th class="msr_col2">14</th>
+<td class="msr_col3"><a href="http://ianhaycox.com/f1stats/nationality/france"><img alt="France" title="France" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/fr.png"></a> <a href='http://ianhaycox.com/f1stats/driver/s&eacute;bastien-bourdais' title='S&eacute;bastien Bourdais'>S&eacute;bastien Bourdais</a></td>
+<td class="msr_col4"><a href="http://ianhaycox.com/f1stats/nationality/italy"><img alt="Italy" title="Italy" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/it.png"></a> <a href='http://ianhaycox.com/f1stats/team/toro-rosso' title='Toro Rosso'>Toro Rosso</a></td>
+<td class="msr_col5">01:57:45.736</td>
+<td class="msr_col6">61</td>
+<td class="msr_col8">17</td>
+<td class="msr_col9">0</td>
+</tr>
+<tr>
+<th class="msr_col1 {sortValue:13}">13</th>
+<th class="msr_col2">2</th>
+<td class="msr_col3"><a href="http://ianhaycox.com/f1stats/nationality/brazil"><img alt="Brazil" title="Brazil" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/br.png"></a> <a href='http://ianhaycox.com/f1stats/driver/felipe-massa' title='Felipe Massa'>Felipe Massa</a></td>
+<td class="msr_col4"><a href="http://ianhaycox.com/f1stats/nationality/italy"><img alt="Italy" title="Italy" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/it.png"></a> <a href='http://ianhaycox.com/f1stats/team/ferrari' title='Ferrari'>Ferrari</a></td>
+<td class="msr_col5">01:57:51.474</td>
+<td class="msr_col6">61</td>
+<td class="msr_col8">1</td>
+<td class="msr_col9">0</td>
+</tr>
+<tr>
+<th class="msr_col1 {sortValue:14}">14</th>
+<th class="msr_col2">21</th>
+<td class="msr_col3"><a href="http://ianhaycox.com/f1stats/nationality/italy"><img alt="Italy" title="Italy" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/it.png"></a> <a href='http://ianhaycox.com/f1stats/driver/giancarlo-fisichella' title='Giancarlo Fisichella'>Giancarlo Fisichella</a></td>
+<td class="msr_col4"><a href="http://ianhaycox.com/f1stats/nationality/india"><img alt="India" title="India" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/in.png"></a> <a href='http://ianhaycox.com/f1stats/team/force-india' title='Force India'>Force India</a></td>
+<td class="msr_col5">01:57:59.875</td>
+<td class="msr_col6">61</td>
+<td class="msr_col8">20</td>
+<td class="msr_col9">0</td>
+</tr>
+<tr>
+<th class="msr_col1 {sortValue:15}">15</th>
+<th class="msr_col2">1</th>
+<td class="msr_col3"><a href="http://ianhaycox.com/f1stats/nationality/finland"><img alt="Finland" title="Finland" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/fi.png"></a> <a href='http://ianhaycox.com/f1stats/driver/kimi-r&auml;ikk&ouml;nen' title='Kimi R&auml;ikk&ouml;nen'>Kimi R&auml;ikk&ouml;nen</a></td>
+<td class="msr_col4"><a href="http://ianhaycox.com/f1stats/nationality/italy"><img alt="Italy" title="Italy" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/it.png"></a> <a href='http://ianhaycox.com/f1stats/team/ferrari' title='Ferrari'>Ferrari</a></td>
+<td class="msr_col5">Accident</td>
+<td class="msr_col6">57</td>
+<td class="msr_col8">3</td>
+<td class="msr_col9">0</td>
+</tr>
+<tr>
+<th class="msr_col1 {sortValue:16}"><span title="Retired">Ret</span></th>
+<th class="msr_col2">11</th>
+<td class="msr_col3"><a href="http://ianhaycox.com/f1stats/nationality/italy"><img alt="Italy" title="Italy" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/it.png"></a> <a href='http://ianhaycox.com/f1stats/driver/jarno-trulli' title='Jarno Trulli'>Jarno Trulli</a></td>
+<td class="msr_col4"><a href="http://ianhaycox.com/f1stats/nationality/japan"><img alt="Japan" title="Japan" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/jp.png"></a> <a href='http://ianhaycox.com/f1stats/team/toyota' title='Toyota'>Toyota</a></td>
+<td class="msr_col5">Hydraulics</td>
+<td class="msr_col6">50</td>
+<td class="msr_col8">11</td>
+<td class="msr_col9">0</td>
+</tr>
+<tr>
+<th class="msr_col1 {sortValue:17}"><span title="Retired">Ret</span></th>
+<th class="msr_col2">20</th>
+<td class="msr_col3"><a href="http://ianhaycox.com/f1stats/nationality/germany"><img alt="Germany" title="Germany" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/de.png"></a> <a href='http://ianhaycox.com/f1stats/driver/adrian-sutil' title='Adrian Sutil'>Adrian Sutil</a></td>
+<td class="msr_col4"><a href="http://ianhaycox.com/f1stats/nationality/india"><img alt="India" title="India" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/in.png"></a> <a href='http://ianhaycox.com/f1stats/team/force-india' title='Force India'>Force India</a></td>
+<td class="msr_col5">Accident</td>
+<td class="msr_col6">49</td>
+<td class="msr_col8">19</td>
+<td class="msr_col9">0</td>
+</tr>
+<tr>
+<th class="msr_col1 {sortValue:18}"><span title="Retired">Ret</span></th>
+<th class="msr_col2">10</th>
+<td class="msr_col3"><a href="http://ianhaycox.com/f1stats/nationality/australia"><img alt="Australia" title="Australia" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/au.png"></a> <a href='http://ianhaycox.com/f1stats/driver/mark-webber' title='Mark Webber'>Mark Webber</a></td>
+<td class="msr_col4"><a href="http://ianhaycox.com/f1stats/nationality/austria"><img alt="Austria" title="Austria" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/at.png"></a> <a href='http://ianhaycox.com/f1stats/team/red-bull' title='Red Bull'>Red Bull</a></td>
+<td class="msr_col5">Transmission</td>
+<td class="msr_col6">29</td>
+<td class="msr_col8">13</td>
+<td class="msr_col9">0</td>
+</tr>
+<tr>
+<th class="msr_col1 {sortValue:19}"><span title="Retired">Ret</span></th>
+<th class="msr_col2">17</th>
+<td class="msr_col3"><a href="http://ianhaycox.com/f1stats/nationality/brazil"><img alt="Brazil" title="Brazil" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/br.png"></a> <a href='http://ianhaycox.com/f1stats/driver/rubens-barrichello' title='Rubens Barrichello'>Rubens Barrichello</a></td>
+<td class="msr_col4"><a href="http://ianhaycox.com/f1stats/nationality/japan"><img alt="Japan" title="Japan" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/jp.png"></a> <a href='http://ianhaycox.com/f1stats/team/honda' title='Honda'>Honda</a></td>
+<td class="msr_col5">Engine</td>
+<td class="msr_col6">14</td>
+<td class="msr_col8">18</td>
+<td class="msr_col9">0</td>
+</tr>
+<tr>
+<th class="msr_col1 {sortValue:20}"><span title="Retired">Ret</span></th>
+<th class="msr_col2">6</th>
+<td class="msr_col3"><a href="http://ianhaycox.com/f1stats/nationality/brazil"><img alt="Brazil" title="Brazil" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/br.png"></a> <a href='http://ianhaycox.com/f1stats/driver/nelson-piquet-jr.' title='Nelson Piquet Jr.'>Nelson Piquet Jr.</a></td>
+<td class="msr_col4"><a href="http://ianhaycox.com/f1stats/nationality/france"><img alt="France" title="France" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/fr.png"></a> <a href='http://ianhaycox.com/f1stats/team/renault' title='Renault'>Renault</a></td>
+<td class="msr_col5">Crashed</td>
+<td class="msr_col6">13</td>
+<td class="msr_col8">16</td>
+<td class="msr_col9">0</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>All Singapore Grand Prix events</p>
+<table class="motor-sport-results msr_event_results tablesorter">
+<thead>
+<tr>
+<th class="msr_col1"></th>
+<th class="msr_col2">Year</th>
+<th class="msr_col3">Circuit</th>
+<th class="msr_col4 {sorter: false}">Date</th>
+<th class="msr_col5">Winning Driver</th>
+<th class="msr_col6">Team</th>
+<th class="msr_col7">Laps</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="msr_col1">4</th>
+<td class="msr_col2"><a href='http://ianhaycox.com/f1stats/season/2011' title='2011'>2011</a></td>
+<td class="msr_col3"><a href='http://ianhaycox.com/f1stats/circuit/singapore-marina-bay-street-circuit' title='Singapore Marina Bay Street Circuit'>Singapore Marina Bay Street Circuit</a></td>
+<td class="msr_col4">25 September</td>
+<td class="msr_col5"><a href="http://ianhaycox.com/f1stats/nationality/germany"><img alt="Germany" title="Germany" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/de.png"></a> <a href='http://ianhaycox.com/f1stats/driver/sebastian-vettel' title='Sebastian Vettel'>Sebastian Vettel</a></td>
+<td class="msr_col6"><a href="http://ianhaycox.com/f1stats/nationality/austria"><img alt="Austria" title="Austria" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/at.png"></a> <a href='http://ianhaycox.com/f1stats/team/red-bull' title='Red Bull'>Red Bull</a></td>
+<td class="msr_col7">61</td>
+</tr>
+<tr>
+<th class="msr_col1">3</th>
+<td class="msr_col2"><a href='http://ianhaycox.com/f1stats/season/2010' title='2010'>2010</a></td>
+<td class="msr_col3"><a href='http://ianhaycox.com/f1stats/circuit/singapore-marina-bay-street-circuit' title='Singapore Marina Bay Street Circuit'>Singapore Marina Bay Street Circuit</a></td>
+<td class="msr_col4">26 September</td>
+<td class="msr_col5"><a href="http://ianhaycox.com/f1stats/nationality/spain"><img alt="Spain" title="Spain" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/es.png"></a> <a href='http://ianhaycox.com/f1stats/driver/fernando-alonso' title='Fernando Alonso'>Fernando Alonso</a></td>
+<td class="msr_col6"><a href="http://ianhaycox.com/f1stats/nationality/italy"><img alt="Italy" title="Italy" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/it.png"></a> <a href='http://ianhaycox.com/f1stats/team/ferrari' title='Ferrari'>Ferrari</a></td>
+<td class="msr_col7">61</td>
+</tr>
+<tr>
+<th class="msr_col1">2</th>
+<td class="msr_col2"><a href='http://ianhaycox.com/f1stats/season/2009' title='2009'>2009</a></td>
+<td class="msr_col3"><a href='http://ianhaycox.com/f1stats/circuit/singapore-marina-bay-street-circuit' title='Singapore Marina Bay Street Circuit'>Singapore Marina Bay Street Circuit</a></td>
+<td class="msr_col4">27 September</td>
+<td class="msr_col5"><a href="http://ianhaycox.com/f1stats/nationality/united-kingdom"><img alt="United Kingdom" title="United Kingdom" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/gb.png"></a> <a href='http://ianhaycox.com/f1stats/driver/lewis-hamilton' title='Lewis Hamilton'>Lewis Hamilton</a></td>
+<td class="msr_col6"><a href="http://ianhaycox.com/f1stats/nationality/united-kingdom"><img alt="United Kingdom" title="United Kingdom" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/gb.png"></a> <a href='http://ianhaycox.com/f1stats/team/mclaren' title='McLaren'>McLaren</a></td>
+<td class="msr_col7">61</td>
+</tr>
+<tr>
+<th class="msr_col1">1</th>
+<td class="msr_col2"><a href='http://ianhaycox.com/f1stats/season/2008' title='2008'>2008</a></td>
+<td class="msr_col3"><a href='http://ianhaycox.com/f1stats/circuit/singapore-marina-bay-street-circuit' title='Singapore Marina Bay Street Circuit'>Singapore Marina Bay Street Circuit</a></td>
+<td class="msr_col4">28 September</td>
+<td class="msr_col5"><a href="http://ianhaycox.com/f1stats/nationality/spain"><img alt="Spain" title="Spain" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/es.png"></a> <a href='http://ianhaycox.com/f1stats/driver/fernando-alonso' title='Fernando Alonso'>Fernando Alonso</a></td>
+<td class="msr_col6"><a href="http://ianhaycox.com/f1stats/nationality/france"><img alt="France" title="France" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/fr.png"></a> <a href='http://ianhaycox.com/f1stats/team/renault' title='Renault'>Renault</a></td>
+<td class="msr_col7">61</td>
+</tr>
+</tbody>
+</table>
+<div class="clear"></div>
+                        
+                <!--
+                <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://ianhaycox.com/f1stats/singapore-grand-prix-2008/"
+    dc:identifier="http://ianhaycox.com/f1stats/singapore-grand-prix-2008/"
+    dc:title="Singapore Grand Prix"
+    trackback:ping="http://ianhaycox.com/f1stats/singapore-grand-prix-2008/trackback/" />
+</rdf:RDF>                -->
+                
+                <div class="postmeta">
+                    <p>Filed under  &middot; Tagged with </p>
+                </div>
+                
+                <div class="clear"></div>
+                
+                <div class="authorbox">
+                    <p><img alt='' src='http://0.gravatar.com/avatar/afa4ba2e1a45e0ff69f80047a23ee927?s=64&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D64&amp;r=G' class='avatar avatar-64 photo' height='64' width='64' /><strong>About admin</strong><br /></p>
+                    <div class="clear"></div>
+                </div>
+                    
+            </div>
+			
+		</div>
+			
+        <div class="postcomments">
+            
+			
+
+	
+					<p class="nocomments">Comments are closed.</p>
+
+	
+
+        
+        </div>
+
+				
+	</div>
+	
+<div id="sidebar">
+
+	<ul id="sidebarwidgeted">
+	<li id="text-4" class="widget widget_text">			<div class="textwidget"><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="fb-like" data-href="http://ianhaycox.com/f1stats" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false"></div>
+
+<br>
+<!-- Place this tag where you want the +1 button to render -->
+<div class="g-plusone" data-size="medium" data-annotation="inline" data-width="150"></div>
+
+<!-- Place this render call where appropriate -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<br>
+<a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="ianhaycox">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+
+<br>
+<br>
+<a href="http://ianhaycox.com/f1stats/buy/"><img src="http://ianhaycox.com/f1stats/wp-content/uploads/2011/10/buynow.gif" /></a></div>
+		</li>
+<li id="advman-3" class="widget Advman_Widget"><h4></h4><script type="text/javascript"><!--
+google_ad_client = "pub-9396095725296903";
+/* 120x600, created 12/3/09 */
+google_ad_slot = "0158587995";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></li>
+<li id="motor_sport_results-3" class="widget widget_motor_sport_results"><h4>Drivers&#8217; Championship 2011</h4><table class="msr_widget_drivers"><tr><td class="msr_widget_flag"><img alt="Germany" title="Germany" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/de.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/sebastian-vettel' title='Sebastian Vettel'>Sebastian Vettel</a><td class="msr_widget_points">392</td></tr><tr><td class="msr_widget_flag"><img alt="United Kingdom" title="United Kingdom" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/gb.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/jenson-button' title='Jenson Button'>Jenson Button</a><td class="msr_widget_points">270</td></tr><tr><td class="msr_widget_flag"><img alt="Australia" title="Australia" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/au.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/mark-webber' title='Mark Webber'>Mark Webber</a><td class="msr_widget_points">258</td></tr><tr><td class="msr_widget_flag"><img alt="Spain" title="Spain" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/es.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/fernando-alonso' title='Fernando Alonso'>Fernando Alonso</a><td class="msr_widget_points">257</td></tr><tr><td class="msr_widget_flag"><img alt="United Kingdom" title="United Kingdom" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/gb.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/lewis-hamilton' title='Lewis Hamilton'>Lewis Hamilton</a><td class="msr_widget_points">227</td></tr><tr><td class="msr_widget_flag"><img alt="Brazil" title="Brazil" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/br.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/felipe-massa' title='Felipe Massa'>Felipe Massa</a><td class="msr_widget_points">118</td></tr><tr><td class="msr_widget_flag"><img alt="Germany" title="Germany" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/de.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/nico-rosberg' title='Nico Rosberg'>Nico Rosberg</a><td class="msr_widget_points">89</td></tr><tr><td class="msr_widget_flag"><img alt="Germany" title="Germany" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/de.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/michael-schumacher' title='Michael Schumacher'>Michael Schumacher</a><td class="msr_widget_points">76</td></tr><tr><td class="msr_widget_flag"><img alt="Germany" title="Germany" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/de.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/adrian-sutil' title='Adrian Sutil'>Adrian Sutil</a><td class="msr_widget_points">42</td></tr><tr><td class="msr_widget_flag"><img alt="Russian Federation" title="Russian Federation" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/ru.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/vitaly-petrov' title='Vitaly Petrov'>Vitaly Petrov</a><td class="msr_widget_points">37</td></tr><tr><td class="msr_widget_flag"><img alt="Germany" title="Germany" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/de.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/nick-heidfeld' title='Nick Heidfeld'>Nick Heidfeld</a><td class="msr_widget_points">34</td></tr><tr><td class="msr_widget_flag"><img alt="Japan" title="Japan" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/jp.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/kamui-kobayashi' title='Kamui Kobayashi'>Kamui Kobayashi</a><td class="msr_widget_points">30</td></tr><tr><td class="msr_widget_flag"><img alt="United Kingdom" title="United Kingdom" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/gb.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/paul-di-resta' title='Paul di Resta'>Paul di Resta</a><td class="msr_widget_points">27</td></tr><tr><td class="msr_widget_flag"><img alt="Spain" title="Spain" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/es.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/jaime-alguersuari' title='Jaime Alguersuari'>Jaime Alguersuari</a><td class="msr_widget_points">26</td></tr><tr><td class="msr_widget_flag"><img alt="Switzerland" title="Switzerland" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/ch.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/s?bastien-buemi' title='S?bastien Buemi'>S?bastien Buemi</a><td class="msr_widget_points">15</td></tr><tr><td class="msr_widget_flag"><img alt="Mexico" title="Mexico" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/mx.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/sergio-p?rez' title='Sergio P?rez'>Sergio P?rez</a><td class="msr_widget_points">14</td></tr><tr><td class="msr_widget_flag"><img alt="Brazil" title="Brazil" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/br.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/rubens-barrichello' title='Rubens Barrichello'>Rubens Barrichello</a><td class="msr_widget_points">4</td></tr><tr><td class="msr_widget_flag"><img alt="Brazil" title="Brazil" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/br.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/bruno-senna' title='Bruno Senna'>Bruno Senna</a><td class="msr_widget_points">2</td></tr><tr><td class="msr_widget_flag"><img alt="Venezuela" title="Venezuela" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/ve.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/pastor-maldonado' title='Pastor Maldonado'>Pastor Maldonado</a><td class="msr_widget_points">1</td></tr><tr><td class="msr_widget_flag"><img alt="Spain" title="Spain" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/es.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/pedro-de-la-rosa' title='Pedro de la Rosa'>Pedro de la Rosa</a><td class="msr_widget_points">0</td></tr><tr><td class="msr_widget_flag"><img alt="Italy" title="Italy" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/it.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/jarno-trulli' title='Jarno Trulli'>Jarno Trulli</a><td class="msr_widget_points">0</td></tr><tr><td class="msr_widget_flag"><img alt="Finland" title="Finland" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/fi.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/heikki-kovalainen' title='Heikki Kovalainen'>Heikki Kovalainen</a><td class="msr_widget_points">0</td></tr><tr><td class="msr_widget_flag"><img alt="Italy" title="Italy" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/it.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/vitantonio-liuzzi' title='Vitantonio Liuzzi'>Vitantonio Liuzzi</a><td class="msr_widget_points">0</td></tr><tr><td class="msr_widget_flag"><img alt="Belgium" title="Belgium" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/be.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/j?r?me-d\&#039;ambrosio' title='J?r?me d\&#039;Ambrosio'>J?r?me d&#039;Ambrosio</a><td class="msr_widget_points">0</td></tr><tr><td class="msr_widget_flag"><img alt="Germany" title="Germany" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/de.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/timo-glock' title='Timo Glock'>Timo Glock</a><td class="msr_widget_points">0</td></tr><tr><td class="msr_widget_flag"><img alt="India" title="India" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/in.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/narain-karthikeyan' title='Narain Karthikeyan'>Narain Karthikeyan</a><td class="msr_widget_points">0</td></tr><tr><td class="msr_widget_flag"><img alt="Australia" title="Australia" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/au.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/daniel-ricciardo' title='Daniel Ricciardo'>Daniel Ricciardo</a><td class="msr_widget_points">0</td></tr><tr><td class="msr_widget_flag"><img alt="India" title="India" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/in.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/driver/karun-chandhok' title='Karun Chandhok'>Karun Chandhok</a><td class="msr_widget_points">0</td></tr></table></li>
+<li id="motor_sport_results-4" class="widget widget_motor_sport_results"><h4>Constructors&#8217; Championship 2011</h4><table class="msr_widget_teams"><tr><td class="msr_widget_flag"><img alt="Austria" title="Austria" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/at.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/team/red-bull' title='Red Bull'>Red Bull</a><td class="msr_widget_points">650</td></tr><tr><td class="msr_widget_flag"><img alt="United Kingdom" title="United Kingdom" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/gb.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/team/mclaren' title='McLaren'>McLaren</a><td class="msr_widget_points">497</td></tr><tr><td class="msr_widget_flag"><img alt="Italy" title="Italy" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/it.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/team/ferrari' title='Ferrari'>Ferrari</a><td class="msr_widget_points">375</td></tr><tr><td class="msr_widget_flag"><img alt="Germany" title="Germany" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/de.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/team/mercedes' title='Mercedes'>Mercedes</a><td class="msr_widget_points">165</td></tr><tr><td class="msr_widget_flag"><img alt="France" title="France" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/fr.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/team/renault' title='Renault'>Renault</a><td class="msr_widget_points">73</td></tr><tr><td class="msr_widget_flag"><img alt="India" title="India" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/in.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/team/force-india' title='Force India'>Force India</a><td class="msr_widget_points">69</td></tr><tr><td class="msr_widget_flag"><img alt="Switzerland" title="Switzerland" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/ch.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/team/bmw-sauber' title='BMW Sauber'>BMW Sauber</a><td class="msr_widget_points">44</td></tr><tr><td class="msr_widget_flag"><img alt="Italy" title="Italy" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/it.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/team/toro-rosso' title='Toro Rosso'>Toro Rosso</a><td class="msr_widget_points">41</td></tr><tr><td class="msr_widget_flag"><img alt="United Kingdom" title="United Kingdom" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/gb.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/team/williams' title='Williams'>Williams</a><td class="msr_widget_points">5</td></tr><tr><td class="msr_widget_flag"><img alt="United Kingdom" title="United Kingdom" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/gb.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/team/lotus' title='Lotus'>Lotus</a><td class="msr_widget_points">0</td></tr><tr><td class="msr_widget_flag"><img alt="Spain" title="Spain" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/es.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/team/hispania-racing' title='Hispania Racing'>Hispania Racing</a><td class="msr_widget_points">0</td></tr><tr><td class="msr_widget_flag"><img alt="United Kingdom" title="United Kingdom" src="http://ianhaycox.com/f1stats/wp-content/plugins/motor-sport-results/images/flags/gb.png"></td><td class="msr_widget_entrant"><a href='http://ianhaycox.com/f1stats/team/virgin-racing' title='Virgin Racing'>Virgin Racing</a><td class="msr_widget_points">0</td></tr></table></li>
+<li id="motor_sport_results-5" class="widget widget_motor_sport_results"><h4>On this day in F1</h4>No events</li>
+<li id="pages-3" class="widget widget_pages"><h4>Pages</h4>		<ul>
+			<li class="page_item page-item-121"><a href="http://ianhaycox.com/f1stats/buy/" title="Buy">Buy</a></li>
+<li class="page_item page-item-14"><a href="http://ianhaycox.com/f1stats/calendar/" title="Calendar">Calendar</a></li>
+<li class="page_item page-item-8"><a href="http://ianhaycox.com/f1stats/championship/" title="Championship">Championship</a></li>
+<li class="page_item page-item-113"><a href="http://ianhaycox.com/f1stats/contact/" title="Contact">Contact</a></li>
+<li class="page_item page-item-12"><a href="http://ianhaycox.com/f1stats/f1-champs/" title="F1 Champs">F1 Champs</a></li>
+<li class="page_item page-item-147"><a href="http://ianhaycox.com/f1stats/plugin-admin-screenshots/" title="Plugin Admin Screenshots">Plugin Admin Screenshots</a></li>
+<li class="page_item page-item-169"><a href="http://ianhaycox.com/f1stats/plugin-function-list/" title="Plugin function list">Plugin function list</a></li>
+<li class="page_item page-item-10"><a href="http://ianhaycox.com/f1stats/ranking/" title="Ranking">Ranking</a></li>
+<li class="page_item page-item-6"><a href="http://ianhaycox.com/f1stats/seasons/" title="Seasons">Seasons</a></li>
+<li class="page_item page-item-22"><a href="http://ianhaycox.com/f1stats/" title="Welcome">Welcome</a></li>
+		</ul>
+		</li>
+<li id="meta-2" class="widget widget_meta"><h4>Meta</h4>			<ul>
+						<li><a href="http://ianhaycox.com/f1stats/wp-login.php">Log in</a></li>
+			<li><a href="http://ianhaycox.com/f1stats/feed/" title="Syndicate this site using RSS 2.0">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://ianhaycox.com/f1stats/comments/feed/" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>
+						</ul>
+</li>
+<li id="linkcat-2" class="widget widget_links"><h4>Blogroll</h4>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.brittanyholidaycottage.com" title="Holiday rental in Brittany">Brittany Holiday Cottage</a></li>
+<li><a href="http://www.latarais.com/" title="Holiday Gites in Brittany">La Tarais Gites</a></li>
+
+	</ul>
+</li>
+
+	</ul>
+			
+</div>
+</div>
+
+<div class="clear"></div>
+
+</div>
+
+<div id="footer">
+
+    <div class="footer1">
+        <ul id="footerwidgeted-1">
+            <li id="advman-4" class="widget Advman_Widget"><h4></h4><script type="text/javascript"><!--
+google_ad_client = "pub-9396095725296903";
+/* 728x90, created 12/3/09 */
+google_ad_slot = "8133755109";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></li>
+ 
+        </ul>	
+    </div>	
+    
+    
+<div class="clear"></div>
+    
+</div>
+                
+<div id="copyright">
+
+    <div class="copyright">
+		<p>&copy; 2012 <a href="http://ianhaycox.com/f1stats/">F1 Stats</a> &middot; <a href="http://www.studiopress.com/themes/shades">Shades of Blue</a> theme by <a href="http://www.studiopress.com" >StudioPress</a> &middot; <a href="http://wordpress.org">WordPress</a> &middot; <a href="http://ianhaycox.com/f1stats/wp-login.php">Log in</a></p>
+    </div>
+
+<p align="center"><a href="http://www.ianhaycox.com/f1stats">Formula One Statistics Plugin</a> developed by <a href="http://www.ianhaycox.com/">Ian Haycox</a></p>		<!-- Advertising Manager v3.4.19 (0.541 seconds.) -->
+<script type='text/javascript' src='http://ianhaycox.com/f1stats/wp-content/plugins/contact-form-7/jquery.form.js?ver=2.52'></script>
+<script type='text/javascript' src='http://ianhaycox.com/f1stats/wp-content/plugins/contact-form-7/scripts.js?ver=3.0.2.1'></script>
+    
+</div>
+                                    
+
+    
+	<script src="http://ianhaycox.com/f1stats/wp-content/themes/shades-of-blue/js/dropdown.js" type="text/javascript"></script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11901175-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
+

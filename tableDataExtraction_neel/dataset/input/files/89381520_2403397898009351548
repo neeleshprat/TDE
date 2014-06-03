@@ -1,0 +1,1895 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="MSSmartTagsPreventParsing" content="TRUE" />
+  <title>Archives -
+  juin 2008 - Standblog</title>
+  
+  <link rel="top" href="http://standblog.org/blog/" title="Accueil" />
+  <link rel="up" href="http://standblog.org/blog/archive" title="Archives" />
+  <link rel="contents" href="http://standblog.org/blog/archive" title="Archives" />
+  
+  
+  <link rel="next" href="http://standblog.org/blog/archive/2008/07"
+  title="juillet 2008" />  <link rel="previous" href="http://standblog.org/blog/archive/2008/05"
+  title="mai 2008" />  
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/28/Wouaaaah" title="Wouaaaah !" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/27/En-vrac-avant-la-fete-Firefox-3a-Paris" title="En vrac, avant la f?te Firefox 3? Paris" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/27/Big-questions" title="Big questions" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/26/Visiting-the-Nerds-paradise" title="Visiting the Nerds paradise" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/26/Soiree-Firefox-3-a-Paris-le-27-juin-demain" title="Soir?e Firefox 3 ? Paris, le 27 juin (demain)" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/25/Openweb-a-propos-du-CSS-Working-Group-du-W3C" title="Openweb ? propos du CSS Working Group du W3C" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/25/En-vrac-de-retour-de-Slovenie" title="En vrac, de retour de Slov?nie" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/23/En-vrac-depuis-la-Slovenie" title="En vrac, depuis la Slovenie" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/21/Heading-to-Slovenia" title="Heading to Slovenia!" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/20/En-vrac-lauteur-et-le-billet" title="En vrac (l'auteur et le billet)" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/19/Firefox-3-launch-press-coverage" title="Firefox 3 launch press coverage" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/18/Quelques-liens-improbables" title="Quelques liens improbables" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/18/I-hear-servers-screeching" title="I hear servers screeching!" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/18/En-vrac-lauteur-pas-le-billet" title="En vrac (l'auteur, pas le billet)" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/17/Vente-liee-%3A-consternation-sur-lattitude-de-Luc-Chatel" title="Vente li?e : consternation sur l'attitude de Luc Chatel" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/17/Le-grand-jour" title="Le grand jour" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/16/En-vrac-la-veille-de-la-sortie-de-Firefox-3" title="En vrac, la veille de la sortie de Firefox 3" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/16/Tout-savoir-sur-Firefox-3" title="Tout savoir sur Firefox 3" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/15/Planete-accessibilite" title="Plan?te accessibilit?" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/14/Citation-du-jour-%3A-Asa-a-propos-dIE" title="Citation du jour : Asa ? propos d'IE" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/12/Sortie-dOpera-95" title="Sortie d'Opera 9.5" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/12/La-barre-geniale-en-video" title="La barre g?niale en vid?o" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/12/Firefox-3-sortira-le-17-juin-au-soir" title="Firefox 3 sortira le 17 juin au soir" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/12/Et-une-RC3-pour-Firefox-3" title="Et une RC3 pour Firefox 3 !" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/11/Actu-Mozilla" title="Actu Mozilla" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/11/Actu-du-Libre-et-des-standards" title="Actu du Libre et des standards" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/11/Plus-dexcuse-pour-etre-nul-en-conjugaison" title="Plus d'excuse pour ?tre nul en conjugaison !" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/10/En-vrac-en-direct-de-Paris" title="En vrac, en direct de Paris" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/10/Annonce-de-service" title="Annonce de service" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/09/Whos-leading-the-Firefox-Download-Day-race" title="Who's leading the Firefox Download Day race?" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/08/En-vrac" title="En vrac" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/08/Firefox-on-video-in-Italy" title="Firefox on video in Italy!" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/07/Developer-quote-of-the-day" title="Developer quote of the day" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/07/Firefox%3A-20-more-active-users-in-6-months" title="Firefox: 20% more active users in 6 months" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/06/Le-gouvernement-voudrait-un-filtrage-massif-des-reseaux" title="Le gouvernement voudrait un filtrage massif des r?seaux" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/05/En-vrac-depuis-Londres" title="En vrac depuis Londres" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/05/Assises-du-numerique" title="Assises du num?rique" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/03/En-vrac" title="En vrac" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/02/One-of-our-volunteers-in-the-Austrian-press" title="One of our volunteers in the Austrian press" />
+    <link rel="chapter" href="http://standblog.org/blog/post/2008/06/02/En-pleine-forme-pour-faire-la-sieste" title="En pleine forme pour faire la sieste !" />
+    
+  <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://standblog.org/blog/feed/rss2" />
+  <link rel="alternate" type="application/atom+xml" title="Atom 1.0" href="http://standblog.org/blog/feed/atom" />
+  
+  <style type="text/css" media="screen">
+@import url(/dotclear2/themes/robin4/style.css);
+</style>
+<style type="text/css" media="print">
+@import url(/dotclear2/themes/robin4/../default/print.css);
+</style>
+
+<script type="text/javascript" src="/dotclear2/themes/robin4/../default/js/jquery.js"></script>
+<script type="text/javascript" src="/dotclear2/themes/robin4/../default/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/dotclear2/themes/robin4/js/jquery.bgFade.js"></script>
+<script type="text/javascript" src="/dotclear2/themes/robin4/js/msg.js"></script>
+<style type="text/css">
+@import url(http://standblog.org/blog/?pf=tweet/css/jquery.tweet.css);
+@import url(http://standblog.org/blog/?pf=tweet/css/jquery.tweet.query.css);
+</style>
+<script type="text/javascript" src="http://standblog.org/blog/?pf=tweet/js/jquery.tweet.js"></script>
+
+</head>
+
+<body class="dc-arch-month">
+<div id="page">
+  <div id="top">
+  <h1><span><a href="http://standblog.org/blog/">Standblog</a></span></h1>
+  <p>Tristan Nitot sur les standards du Web, les navigateurs et la technologie</p>
+  <!--  -->
+</div>
+
+<p id="prelude"><a href="#main">Aller au contenu</a> |
+<a href="#blognav">Aller au menu</a> |
+<a href="#search">Aller ? la recherche</a></p>
+<div id="wrapper">
+
+<div id="main">
+  <div id="content">
+  
+   <div id="content-info">
+    <p id="navlinks">
+    <a href="http://standblog.org/blog/archive/2008/05" class="prev">&#171; mai 2008</a>
+    -     <a href="http://standblog.org/blog/archive">Archives</a>
+     - <a href="http://standblog.org/blog/archive/2008/07" class="next">juillet 2008 &#187;</a>    </p>
+  
+    <h2>juin 2008</h2>
+  </div>
+  
+      <div class="post odd first">
+
+    <p class="day-date">samedi 28 juin 2008</p>    
+    <h2 id="p3566" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/28/Wouaaaah">Wouaaaah !</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le samedi 28 juin 2008, 16:15        - <a href="http://standblog.org/blog/category/Mozillaeurope">Mozilla-Europe</a>
+        </p>
+    
+        <ul class="post-tags">    <li><a href="http://standblog.org/blog/tag/fx3">fx3</a></li>
+    </ul>    
+    
+          <div class="post-content"><p><a href="http://farm4.static.flickr.com/3119/2617439233_3fee40c1a7_b.jpg"><img src="http://farm4.static.flickr.com/3119/2617439233_3fee40c1a7.jpg" alt="IMG_0631.JPG" /></a></p>
+
+
+<p><em><a href="http://www.flickr.com/photos/nitot/2617439233/">Firefox troiiiiiiiiiiis !!!!</a></em></p>
+
+
+<p>C'?tait hier la <a href="http://www.flickr.com/photos/nitot/sets/72157605857467802/">soir?e Firefox 3 ? Paris</a>, et plus d'une centaine de personnes ?taient r?unies pour f?ter la sortie de la version 3 de Firefox. Il faut dire qu'il y avait de quoi&nbsp;:</p>
+
+<ul>
+<li><a href="http://www.zdnet.fr/actualites/internet/0,39020774,39382035,00.htm" hreflang="fr">Firefox 3 dope les parts de march? du navigateur libre en Europe</a>&nbsp;;</li>
+<li><a href="http://www.pcpro.co.uk/blogs/2008/06/27/firefox-3-already-rules-the-roost/" hreflang="en">Firefox 3 already rules the roost</a>&nbsp;;</li>
+<li><a href="http://www.neteco.com/146170-firefox-fait-plein-lancement-xiti.html" hreflang="fr">Firefox 3 fait le plein d?s son lancement !</a>&nbsp;;</li>
+<li><a href="http://www.xitimonitor.com/fr-fr/barometre-des-navigateurs/ff3-juin-2008/index-1-1-3-133.html" hreflang="fr">Coup double pour Mozilla Firefox</a>&nbsp;;</li>
+<li><a href="http://www.theinquirer.fr/2008/06/27/limpact_du_download_day_sur_lutilisation_firefox.html" hreflang="fr">L?impact du Download Day sur l?utilisation Firefox</a>.</li>
+</ul>
+
+<p>Si vous avez aid? ? ce succ?s, que ce soit pour ?crire le logiciel, le tester, le traduire, le distribuer (23 millions de copies en 10 jours) ou le faire conna?tre, <strong>MERCI ET BRAVO !!!</strong></p>
+
+
+<p>Maintenant, je vais m'?loigner de mon clavier pendant quelques jours, histoire de reprendre un peu des forces. N'ab?mez pas le Web pendant que j'ai le dos tourn?&nbsp;! <img src="/dotclear2/themes/default/smilies/laugh.png" alt=":-D" class="smiley" /></p></div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/28/Wouaaaah#comments" class="comment_count">6 commentaires</a>
+                      </p>
+        </div>
+    
+          <div class="post  ">
+
+    <p class="day-date">vendredi 27 juin 2008</p>    
+    <h2 id="p3565" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/27/En-vrac-avant-la-fete-Firefox-3a-Paris">En vrac, avant la f?te Firefox 3? Paris</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le vendredi 27 juin 2008, 18:15        - <a href="http://standblog.org/blog/category/En-vrac">En vrac</a>
+        </p>
+    
+        <ul class="post-tags">    <li><a href="http://standblog.org/blog/tag/evangelism">evangelism</a></li>
+                <li><a href="http://standblog.org/blog/tag/l10n">l10n</a></li>
+                <li><a href="http://standblog.org/blog/tag/tb3">tb3</a></li>
+                <li><a href="http://standblog.org/blog/tag/vista">vista</a></li>
+    </ul>    
+    
+          <div class="post-content"><ul>
+<li><a href="http://www.silicon.fr/fr/news/2008/06/25/firefox_3_est_le_champion_de_la_consommation_memoire" hreflang="fr">Firefox 3 est le plus sobre en consommation m?moire</a>. Voir aussi <a href="http://dotnetperls.com/Content/Browser-Memory.aspx" hreflang="en">Firefox 3 Memory Benchmarks and Comparison</a>&nbsp;;</li>
+<li><a href="http://gizmodo.com/5018985/why-i-still-use-windows-despite-the-peer-pressure" hreflang="en">Why I Still Use Windows Despite the Peer Pressure</a>, qui r?sume assez bien la situation&nbsp;:
+<ul>
+<li>Il conna?t Windows depuis toujours</li>
+<li>Il refuse de passer ? Vista (sur l'air de "je suis accro, mais faut quand m?me pas d?conner")</li>
+<li>Linux&nbsp;? C'est peut-?tre mieux, mais il reconna?t ?tre flemmard, alors il reste sur son OS habituel.</li>
+<li>Mac&nbsp;? Pour lui, un ordinateur, c'est juste un ordinateur. Pas un faire-valoir <em>bling-bling</em>.</li>
+</ul></li>
+<li><a href="http://www.webmynd.com/html/FireFox3_LaunchParty.html" hreflang="en">Comment faire un robot de 5,5m de haut pour f?ter Firefox 3 avec classe</a>&nbsp;;</li>
+<li><a href="http://robert.waam.fr/strip-robert-2.html" hreflang="fr">J'?tais enceint et je n'en savais rien !</a> <img src="/dotclear2/themes/default/smilies/wink.png" alt=";-)" class="smiley" /></li>
+<li><em>20 Minutes :</em> <a href="http://www.20minutes.fr/article/239267/High-Tech-Pourquoi-passer-sur-Firefox.php" hreflang="fr">Pourquoi passer sur Firefox?</a>&nbsp;;</li>
+<li><a href="http://www.greenit.fr/article/acteurs/constructeur/greenpeace-zero-pointe-pour-microsoft-et-nintendo" hreflang="fr">Greenpeace&nbsp;: z?ro point? pour Microsoft et Nintendo</a>, lu dans le r?cent <a href="http://www.greenit.fr/" hreflang="fr">GreenIT.fr</a>, que je viens de rajouter ? mon agr?gateur&nbsp;;</li>
+<li><a href="http://www.framablog.org/index.php/post/2008/06/25/stallman-torvalds-brown-zemlin-et-microsoft" hreflang="fr">Stallman, Torvalds, Brown et Zemlin&nbsp;: mais que pensent-ils donc de Microsoft ?</a>. Ah, il faudrait que je r?ponde ? cette question, moi aussi :-)&nbsp;;</li>
+<li><a href="http://www.techcrunchit.com/2008/06/25/opera-sends-website-owners-auto-compliance-feedback/" hreflang="en">Opera Sends Website Owners Auto-Compliance Feedback</a>. Tr?s bonne initiative d'Opera. J'ai le souvenir d'avoir particip? ? un tel effort (que j'ai men? en France, Royaume Uni et Allemagne) de 2001 ? 2003, et franchement c'?tait un sale boulot... J'ai une anecdote croustillante ? raconter ? ce sujet. Un de ces jours peut-?tre&nbsp;!</li>
+<li><a href="http://bits.blogs.nytimes.com/2008/06/25/et-tu-intel/" hreflang="en">Intel ne veut pas de Vista</a>&nbsp;;</li>
+<li><a href="http://blog.mozilla.com/metrics/2008/06/25/localizers-enable-firefox-3-success/" hreflang="en">Pourquoi la localisation est essentielle chez Mozilla</a>. Extraits&nbsp;:
+<ul>
+<li>73% des t?l?chargements se font en dehors des USA (55% des t?l?chargements sont autres que <em>en-US</em>, car il y a des non-am?ricains qui utilisent la version am?ricaine).</li>
+<li>Importance des localisations par ordre d?croissant&nbsp;: allemand, anglais, espagnol, japonais, fran?ais, italien, polonais, chinois de Chine, br?silien, lithuanien, russe, hollandais, chinois de Taiwan, turc, argentin, hongrois, tch?que, su?dois, cor?en.</li>
+</ul></li>
+<li>Rions ensemble&nbsp;: <a href="http://idle.slashdot.org/article.pl?sid=08/06/26/1730242" hreflang="en">WTF? NC Offers to Replace 10,000 License Plates</a>. La Caroline du Nord offre de remplacer les plaques d'immatriculation comportant les initiales <acronym title="What The Fuck">WTF</acronym> (qu'on pourrait traduire par CQM / "C'est Quoi ce Merdier ?" - merci ? Anne-Julie et Delphine pour la traduction <img src="/dotclear2/themes/default/smilies/wink.png" alt=";-)" class="smiley" /> )</li>
+<li>Voil? qui devrait plaire ? ceux qui se demandent ce qu'on compte faire sur Thunderbird. Dan Mosedale le met noir sur blanc, pour discussion&nbsp;: <a href="http://weblogs.mozillazine.org/dmose/archives/2008/06/proposal_to_ship_thunderbird_3.html" hreflang="en">Proposal to ship Thunderbird 3</a>&nbsp;;</li>
+<li>Voil?, j'ai surv?cu au <a href="http://www.20minutes.fr/article/239280/Chats-Vos-questions-sur-Firefox-3.php" hreflang="fr">Chat sur 20minutes.fr</a>, et m?me que c'?tait bien&nbsp;! J'ai fait une vid?o d'adieu pour Bill Gates sur Seesmic depuis le compte de 20minutes.fr, mais je ne retrouve pas l'URL. Et puis <a href="http://www.flickr.com/photos/nitot/2616193274/">Seesmic refuse ma connexion</a>, malgr? un <em>reset</em> de mon mot de passe. C'est vraiment trop injuste <img src="/dotclear2/themes/default/smilies/wink.png" alt=";-)" class="smiley" /> (oui, quand je suis fatigu?, j'arrive bien ? imiter Calimero !)&nbsp;;</li>
+<li><em>Mise ? jour</em>&nbsp;: toujours pas de mot de passe Seesmic, mais <a href="http://www.20minutes.fr/article/239735/High-Tech-Reactions-sur-le-depart-de-Bill-Gates-Bill-Gates-est-un-grand-homme-de-l-Histoire.php" hreflang="fr">l'article est paru sur 20minutes.fr</a>...</li>
+</ul></div>
+    
+                        </div>
+    
+          <div class="post odd ">
+
+        
+    <h2 id="p3564" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/27/Big-questions">Big questions</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le vendredi 27 juin 2008, 17:50        - <a href="http://standblog.org/blog/category/En">en</a>
+        </p>
+    
+    
+    
+          <div class="post-content"><p>There have been recently a couple of posts here and there that tickle my mind, but I'm going on vacations tomorrow and my brain is too tired to bring something interesting to the conversation.</p>
+
+
+<p>So I'm going the easy way by posting links to these articles hoping that I'll be able to revisit these topics later...</p>
+
+<ul>
+<li><a href="http://avc.blogs.com/a_vc/2008/06/am-i-bored-with.html" hreflang="en">Am I Bored With ?Web 2.0??</a> ;</li>
+<li><a href="http://discussionleader.hbsp.com/haque/2008/06/a_manifesto_for_the_next_indus_1.html" hreflang="en">A Manifesto for the Next Industrial Revolution</a> ;</li>
+<li><a href="http://blog.hecker.org/2008/06/23/thoughts-on-open-source-and-politics-20/" hreflang="en">Thoughts on open source and politics 2.0</a> ;</li>
+<li><a href="http://commonspace.typepad.com/commonspace/2008/06/the-next-million-mozillians.html" hreflang="en">The Next Million Mozillians</a> ;</li>
+<li><a href="http://eaves.ca/2008/06/10/the-open-web-is-a-social-movement/">The Open Web is a social movement</a> ;</li>
+<li><a href="http://ascher.ca/blog/2008/06/19/whats-mozillas-scope-what-should-it-be/" hreflang="en">What?s Mozilla?s scope? What should it be?</a> ;</li>
+</ul>
+
+<p>Now I'm heading to the Firefox 3 launch party in Paris and then will take a few days off. Don't expect updates to the Standblog before a while!</p></div>
+    
+                        </div>
+    
+          <div class="post  ">
+
+    <p class="day-date">jeudi 26 juin 2008</p>    
+    <h2 id="p3563" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/26/Visiting-the-Nerds-paradise">Visiting the Nerds paradise</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le jeudi 26 juin 2008, 20:25        - <a href="http://standblog.org/blog/category/En">en</a>
+        </p>
+    
+    
+    
+          <div class="post-content"><p>My dear nerdy friends, just picture this:</p>
+
+<ul>
+<li>a <a href="http://www.flickr.com/photos/78129395@N00/107570565/">big bar</a> where you can have drinks with friends, with good and inexpensive beer</li>
+<li>a <a href="http://www.flickr.com/photos/nitot/2609958644/">computer museum</a> in which half of the items displayed are things that you <a href="http://www.flickr.com/photos/nitot/2609127173/">have</a> <a href="http://www.flickr.com/photos/nitot/2609128351/">owned</a> or used 20 years ago and the <a href="http://www.flickr.com/photos/nitot/2609958644/">other half</a> were pictured in your wildest dreams. Oh, and you can play with the computers on display, too!</li>
+<li>a Cybercaf? all made with Free Software running on recycled computers, with a really fast Internet connection, whose motto is "<a href="http://www.flickr.com/photos/nitot/2609121151/">all our code are belong to you</a>" <img src="/dotclear2/themes/default/smilies/laugh.png" alt=":-D" class="smiley" /></li>
+<li>a <a href="http://www.flickr.com/photos/nitot/2609955622/">big place</a> where you meet <acronym title="Free, Libre, Open-source Software">FLOSS</acronym> <a href="http://www.flickr.com/photos/nitot/2609964456/">enthusiasts</a>, artists, students</li>
+<li>a country where the <a href="http://www.flickr.com/photos/nitot/2604538086/">mountains</a> (where you can ski) are close to the sea (where you can swim), where the <a href="http://www.flickr.com/photos/nitot/2609128787/">architecture</a> is wonderful and where Firefox has <a href="http://www.iprom.si/press.html?id=135" hreflang="sl">35% market share</a>.</li>
+</ul>
+
+<p>All of this does exist, all in one place. It's called <a href="http://www.kiberpipa.org/firefox/about" hreflang="en">Kiberpipa</a> and it's the place where the Slovenian community had organized an amazing <a href="http://www.kiberpipa.org/firefox/schedule" hreflang="en">Firefox 3 launch</a>, including a press conference, an afternoon of talks and a wonderful party at night.</p>
+
+
+<p><a href="http://farm4.static.flickr.com/3023/2609118971_335a2abf8d_b.jpg"><img src="http://farm4.static.flickr.com/3023/2609118971_335a2abf8d.jpg" alt="Orange, blue, and burning: the Firefox cocktail" /></a></p>
+
+
+<p><em><a href="http://www.flickr.com/photos/nitot/2609118971/">Free, orange, blue, and burning: the Firefox cocktail</a></em></p>
+
+
+<p>The event was just perfect. It's hard to explain, you had to be there. <a href="http://diary.braniecki.net/">Gandalf</a>?and myself where lucky enough to be there. We experienced:</p>
+
+<ul>
+<li>A very warm welcome by locals</li>
+<li><a href="http://www.flickr.com/photos/nitot/2609123685/">Great moments with Mozilla contributors</a></li>
+<li>Free <a href="http://www.flickr.com/photos/nitot/2609126039/">Firefox wine</a> for everybody (one bottle per person)</li>
+<li>A new booze recipe: <a href="http://www.flickr.com/photos/nitot/2609965848/">Firefox cocktail</a></li>
+<li><a href="http://www.flickr.com/photos/nitot/2609950662/">Free food</a></li>
+<li>Free T-shirt given distributed at the <a href="http://www.flickr.com/photos/nitot/2609131629/">welcome desk</a></li>
+<li>Good music with a DJ and video animations, including a <a href="http://www.flickr.com/photos/nitot/2609136903/">Firefox 3 multi-player video game that you could interact with via your cell phone</a>...</li>
+<li>and bazillions of cool details and creative ideas that make me want to pimp a bit the Paris office <img src="/dotclear2/themes/default/smilies/wink.png" alt=";-)" class="smiley" /></li>
+</ul>
+
+<p>I'd like to thank a whole lot all the people who have made this wonderful event possible, including the Kiberpipa staff (extra kudos to Katja, Klemen and Andras), the sponsors (including <a href="http://www.zemanta.com/">Zemanta</a>, who builds a very promising Firefox add-on) and the <a href="http://zda2008.fri.uni-lj.si/?q=en/node/127">Information Science Students Association</a> of the Ljubljana University.</p>
+
+
+<p>I loved the place, the event, and everything. I'll be back! <img src="/dotclear2/themes/default/smilies/smile.png" alt=":-)" class="smiley" /></p></div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/26/Visiting-the-Nerds-paradise#comments" class="comment_count">6 commentaires</a>
+                      </p>
+        </div>
+    
+          <div class="post odd ">
+
+        
+    <h2 id="p3562" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/26/Soiree-Firefox-3-a-Paris-le-27-juin-demain">Soir?e Firefox 3 ? Paris, le 27 juin (demain)</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le jeudi 26 juin 2008, 09:42        </p>
+    
+    
+    
+          <div class="post-content"><p>Il est temps de c?l?brer la sortie de Firefox 3 ? Paris. Pour la sortie de Firefox 2, nous avions organis? une <a href="http://standblog.org/blog/post/2006/10/30/93114935-soiree-de-lancement-de-firefox-2-a-la-region-ile-de-france" hreflang="fr">soir?e qui restera dans les annales</a> avec le soutien de la R?gion Ile de France avec pr?s de 600 invit?s confirm?s. Cette fois ci, nous avons d?cid? de faire plus intimiste, avec beaucoup moins d'invit?s. J'ai d?j? fait une petite s?lection dans mon carnet d'adresse et invit? quelques VIP du Libre, du Web, des standards et de la presse. Si vous en faite partie, vous avez du recevoir une invitation. Assurez vous que vous avez bien suivi la proc?dure pour ?tre sur la liste des invit?s&nbsp;! (Si vous avez des difficult?s avec l'inscription, venez quand m?me).</p>
+
+
+<p>Si vous n'avez pas re?u une telle invitation, il n'est pas trop tard. D'abord, je vous encourage ? v?rifier si elle n'est pas arriv?e dans votre dossier <code>spam</code>. Ensuite, il y a une 2eme chance. Il vous suffit de&nbsp;:</p>
+
+<ol>
+<li>Vous assurer que vous ?tes disponible le 27 juin 2008 ? partir de 19h30, pour une soir?e qui aura lieu dans le centre de Paris</li>
+<li>m'?crire ? <code>tnitot</code> ? <code>gmail.com</code> avec le sujet&nbsp;: soireefx3</li>
+<li>En m'indiquant bri?vement&nbsp;:
+<ol>
+<li>votre pr?nom et nom&nbsp;;</li>
+<li>le projet sur lequel vous travaillez (professionnellement ou b?n?volement)&nbsp;;</li>
+<li>et son rapport avec l'innovation Web, les standards ou le logiciel Libre.</li>
+</ol></li>
+</ol>
+
+<p>Si vous ?tes s?lectionn?, je vais vous communiquer une URL pour vous inscrire. D?p?chez vous, les places sont rares&nbsp;! <img src="/dotclear2/themes/default/smilies/smile.png" alt=":-)" class="smiley" /></p></div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/26/Soiree-Firefox-3-a-Paris-le-27-juin-demain#comments" class="comment_count">6 commentaires</a>
+                      </p>
+        </div>
+    
+          <div class="post  ">
+
+    <p class="day-date">mercredi 25 juin 2008</p>    
+    <h2 id="p3561" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/25/Openweb-a-propos-du-CSS-Working-Group-du-W3C">Openweb ? propos du CSS Working Group du W3C</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le mercredi 25 juin 2008, 19:14        - <a href="http://standblog.org/blog/category/Standards">Standards</a>
+        </p>
+    
+        <ul class="post-tags">    <li><a href="http://standblog.org/blog/tag/glazou">glazou</a></li>
+    </ul>    
+    
+          <div class="post-content"><p>Ca me fait toujours un petit pincement au coeur quand je vois <a href="" hreflang="fr">OpenWeb</a> sortir un article. Cette fois-ci, c'est une <a href="http://openweb.eu.org/articles/interview_glazman_css/" hreflang="fr">interview de Daniel Glazman (chairman CSS working group W3C)</a>. Bravo ? Elie pour le boulot, et ? toute l'?quipe pour la relecture&nbsp;!</p></div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/25/Openweb-a-propos-du-CSS-Working-Group-du-W3C#comments" class="comment_count">2 commentaires</a>
+                      </p>
+        </div>
+    
+          <div class="post odd ">
+
+        
+    <h2 id="p3560" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/25/En-vrac-de-retour-de-Slovenie">En vrac, de retour de Slov?nie</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le mercredi 25 juin 2008, 18:49        - <a href="http://standblog.org/blog/category/En-vrac">En vrac</a>
+        </p>
+    
+        <ul class="post-tags">    <li><a href="http://standblog.org/blog/tag/billgates">billgates</a></li>
+                <li><a href="http://standblog.org/blog/tag/fx3">fx3</a></li>
+                <li><a href="http://standblog.org/blog/tag/mondialisation">mondialisation</a></li>
+                <li><a href="http://standblog.org/blog/tag/racketiciel">racketiciel</a></li>
+                <li><a href="http://standblog.org/blog/tag/securite">securite</a></li>
+                <li><a href="http://standblog.org/blog/tag/W3C">W3C</a></li>
+    </ul>    
+    
+          <div class="post-content"><p><a href="http://farm4.static.flickr.com/3062/2609128787_e1db1aa188_b.jpg"><img src="http://farm4.static.flickr.com/3062/2609128787_e1db1aa188.jpg" alt="Ljubljana castle seen from downtown" /></a></p>
+
+
+<p><em><a href="http://www.flickr.com/photos/nitot/2609128787/">Le ch?teau de Ljubljana vu depuis le centre ville</a></em></p>
+
+
+<p>Qu'on se le dise, la Slov?nie, c'est magnifique, les gens de <a href="http://www.kiberpipa.org/index.php?&amp;newlang=eng" hreflang="en">Kiberpipa</a> ont un enthousiasme communicatif et un <a href="http://www.flickr.com/photos/nitot/2609958644/">petit mus?e de l'informatique</a> qui m'a rappel? de <a href="http://www.flickr.com/photos/nitot/2609128351/">bons souvenirs</a> informatiques... d'il y a 27 ans :-D&nbsp;!</p>
+
+<ul>
+<li>Envie de discuter de Firefox 3&nbsp;? Je serais l'invit? du <em>tchat</em> <a href="http://www.20minutes.fr/article/239280/Chats-Vos-questions-sur-Firefox-3.php" hreflang="fr">en direct avec les internautes sur 20 Minutes.fr</a>&nbsp;;</li>
+<li><a href="http://www.01net.com/editorial/383017/darty-condamne-a-detailler-le-prix-des-logiciels-installes-sur-un-pc/?rss" hreflang="fr">Darty condamn? ? d?tailler le prix des logiciels install?s sur un PC</a>. L'AFUL parle de <a href="http://www.aful.org/communiques/coup-tonnerre-judiciaire-vente-liee" hreflang="fr">Coup de tonnerre judiciaire</a>. Ca n'est pas encore l'obligation pour les revendeurs de vendre Windows s?par?ment du mat?riel, mais c'est d?j? un progr?s, puisque les utilisateurs vont prendre conscience du prix de Windows... Pour comprendre les enjeux, voir <a href="http://www.racketiciel.info/" hreflang="fr">Racketiciel.info</a>.</li>
+<li>Consternation&nbsp;: <a href="http://www.theinquirer.fr/2008/06/23/une_depute_du_parlement_europeen_veut_encadrer_la_blogosphere.html" hreflang="fr">Une d?put? du parlement europ?en veut encadrer la blogosph?re</a>&nbsp;;</li>
+<li>Il y a deux ans, <a href="http://standblog.org/blog/post/2006/01/29/93114629-quelques-reflexions-dominicales-sur-la-mondialisation-le-rechauffement-climatique-et-la-fin-de-l-ere-du-petrole" hreflang="fr">j'?crivais</a> "La mondialisation n'est possible que s'il existe un transport bon march?. Si le prix du transport augmente, il devient moins int?ressant de produire en Chine, alors qu'une production locale, certes plus ch?re, n'aurait pas besoin d'?tre transport?e sur une si grande distance." Hier, ABCNews remarquait qu'<a href="http://abcnews.go.com/print?id=5235731" hreflang="en">avec le prix actuel de l'essence, les emplois reviennent localement</a>... On n'en est certes pas ? une tendance lourde, mais ?a fait quand m?me plaisir...</li>
+<li><a href="http://blog.seattlepi.nwsource.com/microsoft/archives/141821.asp" hreflang="en">Quand Bill Gates devient dingue ? cause des produits de Microsoft</a>, c'est assez tordant. Le pire, c'est qu'il affirme (? la fin de l'article) "il n'y a pas un jour o? je n'envoie pas un mail de ce genre. C'est mon boulot". Et suite ? Vista, il part pour cause de surmenage&nbsp;? <img src="/dotclear2/themes/default/smilies/wink.png" alt=";-)" class="smiley" /></li>
+<li><a href="http://www.neteco.com/145438-fondation-symbian-nokia.html" hreflang="fr">Nokia prend le contr?le de Symbian et le transforme en logiciel libre</a>, ce qui lui donne un nouvel ?lan face ? la mont?e en puissance de Linux et d'Android. Co?ncidence rigolote&nbsp;: <a href="http://my-symbian.com/forum_mobile/viewtopic.php?p=344352#344352" hreflang="en">le standblog est inaccessible depuis les t?l?phones Nokia E90 sous Symbian</a> suite ? une mise ? jour du logiciel&nbsp;!</li>
+<li><a href="http://www.securityfocus.com/columnists/475" hreflang="en">La s?curit? dans Firefox</a>, avec une interview de Window Snyder et de Johnathan Nightingale&nbsp;;</li>
+<li><a href="http://blogmag.net/blog/read/79/Firefox_3_screencasts" hreflang="en">Firefox 3 screencasts</a>&nbsp;;</li>
+<li>Il va y avoir prochainement un <a href="http://www.glazman.org/weblog/dotclear/index.php?post/2008/06/24/W3C-Store" hreflang="en">W3C Store</a>, et Daniel donne de bonnes id?es. Je les veux tous&nbsp;!</li>
+</ul></div>
+    
+                        </div>
+    
+          <div class="post  ">
+
+    <p class="day-date">lundi 23 juin 2008</p>    
+    <h2 id="p3558" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/23/En-vrac-depuis-la-Slovenie">En vrac, depuis la Slovenie</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le lundi 23 juin 2008, 17:40        - <a href="http://standblog.org/blog/category/En-vrac">En vrac</a>
+        </p>
+    
+        <ul class="post-tags">    <li><a href="http://standblog.org/blog/tag/fx3">fx3</a></li>
+                <li><a href="http://standblog.org/blog/tag/vintage">vintage</a></li>
+                <li><a href="http://standblog.org/blog/tag/walkman">walkman</a></li>
+    </ul>    
+    
+          <div class="post-content"><p><a href="http://farm4.static.flickr.com/3156/2603712877_ffa4e68646_b.jpg"><img src="http://farm4.static.flickr.com/3156/2603712877_ffa4e68646.jpg" alt="Clouds over the Alps, heading to Ljubljana" /></a></p>
+
+
+<p><em><a href="http://www.flickr.com/photos/nitot/2603712877/">Nuages au dessus des Alpes, en direction de Ljubljana</a></em></p>
+
+<ul>
+<li>C'est vieux comme tout, mais c'est toujours rigolo d'y repenser&nbsp;: <a href="http://blog.macgeneration.com/archives/2008/04/21/le-choc-des-portables/" hreflang="fr">evolution des ordinateurs portables</a> (en l'occurrence chez Apple, mais c'est pareil partout). Dans le m?me genre, j'ai pris des photos de mes vieux <em>Walkman</em>&nbsp;: <a href="http://www.flickr.com/photos/nitot/2601178074/">Sony Walkman auto-reverse avec equalizer</a>, <a href="http://www.flickr.com/photos/nitot/2601175460/">Sony Walkman DD</a>. J'ai en t?te un billet sur ce sujet...</li>
+<li><a href="http://www.journaldugeek.com/?2008/06/23/11925-rencontre-avec-tristan-nitot-mozilla-europe">Rencontre avec Tristan Nitot - Mozilla Europe</a>&nbsp;;</li>
+<li><a href="http://ars.userfriendly.org/cartoons/?id=20080622" hreflang="en">The fonts are rendered funny</a>&nbsp;;</li>
+<li>OMG: <a href="http://www.flickr.com/photos/ews/2603899034/in/set-72157605764311990/">Firefox Robot building</a>!</li>
+</ul></div>
+    
+                        </div>
+    
+          <div class="post odd ">
+
+    <p class="day-date">samedi 21 juin 2008</p>    
+    <h2 id="p3557" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/21/Heading-to-Slovenia">Heading to Slovenia!</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le samedi 21 juin 2008, 11:06        - <a href="http://standblog.org/blog/category/En">en</a>
+        </p>
+    
+    
+    
+          <div class="post-content"><p><img src="http://farm3.static.flickr.com/2059/2596588081_104130fef9.jpg" alt="Firefox 3 release party banner in Slovenia" /></p>
+
+
+<p>A couple of months ago, the team over at <a href="http://www.kiberpipa.org/firefox/about" hreflang="en">Kiberpipa</a> has contacted us in order to organize a Firefox event in <a href="http://en.wikipedia.org/wiki/Ljubljana" hreflang="en">Ljubljana</a>, the capital of <a href="http://en.wikipedia.org/wiki/Slovenia" hreflang="en">Slovenia</a>. The <a href="http://www.kiberpipa.org/firefox/schedule" hreflang="en">schedule of the event</a> was just <a href="http://www.kiberpipa.org/firefox/news/we-are-proud-to-announce-the-topics-of-all-five-talks" hreflang="en">announced</a>. It's going to be a busy day, with a press conference, followed by talks about Mozilla (<a href="http://diary.braniecki.net/">Zbigniew</a> will help, too) and of course, a party.</p>
+
+
+<p>Slovenia is a very interesting country in many regards. It's certainly not big (2 million citizens, 150 times smaller than the US!), but <a href="http://www.internetworldstats.com/europa.htm#si" hreflang="en">Internet penetration is quite high</a> at 62% and the economy is quite strong.</p>
+
+
+<p>Firefox market share in Slovenia has been measured at <a href="http://www.iprom.si/press.html?id=135" hreflang="si">35% in Feb. 2008</a> by local firm <a href="http://www.iprom.si/" hreflang="sl">Iprom</a>, which is pretty close to Poland (<a href="http://www.en.ranking.pl/index.php?page=Ranks:RanksPage&amp;stat=22|OW" hreflang="en">39.4%, according to Gemius</a>) and Hungary (<a href="http://www.en.rankings.hu/index.php?page=Ranks:RanksPage&amp;stat=22|OW" hreflang="en">38.7% accoring to Gemius</a>), who are leading the world's adoption of Firefox.</p>
+
+
+<p>I'm looking forward meeting with the Slovene community to discuss with them about how we can empower them even more!</p></div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/21/Heading-to-Slovenia#comments" class="comment_count">3 commentaires</a>
+                      </p>
+        </div>
+    
+          <div class="post  ">
+
+    <p class="day-date">vendredi 20 juin 2008</p>    
+    <h2 id="p3556" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/20/En-vrac-lauteur-et-le-billet">En vrac (l'auteur et le billet)</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le vendredi 20 juin 2008, 19:43        </p>
+    
+    
+    
+          <div class="post-content"><p><a href="http://farm4.static.flickr.com/3240/2595935836_cffda14016_b.jpg"><img src="http://farm4.static.flickr.com/3240/2595935836_cffda14016.jpg" alt="Getting ready for celebrating Firefox 3 in the Paris office :-" />)</a></p>
+
+
+<p><em><a href="http://www.flickr.com/photos/nitot/2595935836/">Getting ready for celebrating Firefox 3 in the Paris office <img src="/dotclear2/themes/default/smilies/smile.png" alt=":-)" class="smiley" /></a></em></p>
+
+
+<p>Avant d'aller m'?crouler chez moi, suite ? quelques semaines de stress entrecoup?es de courtes nuits... (non, je ne vais pas m'?crouler suite au champagne&nbsp;: d'abord j'aime pas ?a, et ensuite on l'a bu avant-hier <img src="/dotclear2/themes/default/smilies/smile.png" alt=":-)" class="smiley" /> )</p>
+
+<ul>
+<li><a href="http://linuxfr.org/2008/06/18/24225.html" hreflang="fr">Wine 1.0 est sorti</a>, un peu ?clips? par la sortie de Firefox 3&nbsp;;</li>
+<li><a href="http://computerworld.com/action/article.do?command=viewArticleBasic&amp;articleId=9099178" hreflang="en">Want XP on a new Dell? You'll pay up to $50 extra for the aging OS</a>&nbsp;;</li>
+<li><a href="http://arstechnica.com/news.ars/post/20080618-microsoft-does-180-will-continue-to-support-msn-music-drm.html" hreflang="en">Microsoft does 180, will continue to support MSN Music DRM</a>. Il y a des jours o? j'ai du mal ? comprendre la strat?gie de MS...&nbsp;;</li>
+<li><a href="http://tech.slashdot.org/article.pl?sid=08/06/20/137216" hreflang="en">ODF a clairement gagn? la bataille des standards</a>, explique un employ? Microsoft, qui doit maintenant chercher un boulot, j'imagine <img src="/dotclear2/themes/default/smilies/wink.png" alt=";-)" class="smiley" /></li>
+<li><a href="http://ambermac.com/articles/2008/06/18/firefox-3-in-5-words-or-less" hreflang="en">5 mots pour d?crire Firefox</a>. Mike Shaver: "Holy crap, we shipped it!". J'en pleure de rire&nbsp;! Variantes&nbsp;:
+<ul>
+<li>Faster and uses less RAM</li>
+<li>Giving bloggers a big hug <img src="/dotclear2/themes/default/smilies/smile.png" alt=":-)" class="smiley" /></li>
+<li>Best browsing experience. Ever!</li>
+<li>Super-delicious Open-Source awesomeness</li>
+</ul></li>
+<li>Bertrand Lemaire voit une <a href="http://www.bertrandlemaire.com/dotclear/index.php?2008/06/19/995-la-france-bat-l-italie-les-pays-bas-et-la-roumanie" hreflang="fr">corr?lation inverse entre niveau footballistique et t?l?chargements de Firefox</a>, et <a href="http://www.bashfr.org/?7426" hreflang="fr">BashFR enfonce le clou</a> (via <a href="http://twitter.com/aurelienbardon/" hreflang="en">Aur?lien</a>)&nbsp;!</li>
+<li><a href="http://www.tux-planet.fr/revenus-et-audience-de-la-blogsphere-francophone-etat-des-lieux-2008/" hreflang="fr">Revenus et audience de la blogosph?re francophone</a>, ou la preuve du manque ? gagner en ne mettant pas de pub sur le Standblog. (1500 EUR par mois pour <a href="http://www.2803.com/about/" hreflang="fr">Henri Labarre</a>, pourtant derri?re moi au <a href="http://www.wikio.fr/blogs/top/high-tech" hreflang="fr">classement Wikio High-Tech</a>, ou <a href="http://www.presse-citron.net/" hreflang="fr">Eric de Presse-Citron</a> qui vient d'annoncer qu'il passait <a href="http://www.presse-citron.net/revelation-de-la-semaine-jai-trouve-un-travail" hreflang="fr">blogueur pro</a> ? 3500 EUR par mois). On remarquera que les blogs sans pub dans le top Wikio sont rares, ? part <a href="http://www.fredcavazza.net/" hreflang="fr">Fred Cavazza</a> et <a href="http://www.kelblog.com/" hreflang="fr">Pierre Chappaz</a> (mais financi?rement, Pierre ne joue pas dans la m?me court que Fred et moi :-D), et ceux parlant de logiciels Libres et des standards le sont encore plus :-(&nbsp;;</li>
+<li>Le Seneca College vient de publier le <a href="http://zenit.senecac.on.ca/wiki/index.php/Mozilla_Developer_Resource_Kit" hreflang="en">Mozilla Developer Resource Kit</a> qui comprend <a href="http://zenit.senecac.on.ca/wiki/dxr/" hreflang="en">DXR</a>, et c'est (tr?s) beau. <a href="http://xulfr.org/news/2008/06/20/254-mozilla-developer-resource-kit-et-dxr" hreflang="fr">Laurent Jouanneau explique pourquoi</a>&nbsp;;</li>
+<li>Un poign?e de billets int?ressants&nbsp;:
+<ul>
+<li><a href="http://eaves.ca/2008/06/10/the-open-web-is-a-social-movement/" hreflang="en">The Open Web is a social movement</a>&nbsp;;</li>
+<li><a href="http://commonspace.typepad.com/commonspace/2008/06/the-next-million-mozillians.html" hreflang="en">The Next Million Mozillians</a>&nbsp;;</li>
+<li><a href="http://blog.lizardwrangler.com/2008/06/17/firefox-3-tip-of-the-iceberg-2/" hreflang="en">Firefox 3 ? Tip of the Iceberg</a>&nbsp;;</li>
+<li><a href="http://blog.lizardwrangler.com/" hreflang="en">Mozilla and the OECD in Seoul</a>. "Part of our dream for Mozilla has been to be a voice for the health of the Internet itself. To use our technology, our products and our community process to demonstrate what is possible, and to help others see that openness, participation and distributed decision-making can lead to many positive developments. Mozilla?s participation in events such as this OECD meeting demonstrates that we are doing this. We represent a new style of development for Internet product and the Internet experience."&nbsp;;</li>
+</ul></li>
+</ul>
+
+<p>Je manque terriblement d'?nergie pour rebondir sur ces derniers billets et pourtant, c'est un sujet qui le m?rite. Bon, je reprends des forces, je fais une <a href="http://www.kiberpipa.org/firefox/" hreflang="en">conf?rence ? Ljubljana, Slov?nie</a>, on fait la f?te ? Paris pour la sortie de Firefox 3, je prends une semaine de vacances et c'est parti pour un tour&nbsp;! <img src="/dotclear2/themes/default/smilies/laugh.png" alt=":-D" class="smiley" /></p></div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/20/En-vrac-lauteur-et-le-billet#comments" class="comment_count">12 commentaires</a>
+                      </p>
+        </div>
+    
+          <div class="post odd ">
+
+    <p class="day-date">jeudi 19 juin 2008</p>    
+    <h2 id="p3555" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/19/Firefox-3-launch-press-coverage">Firefox 3 launch press coverage</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le jeudi 19 juin 2008, 14:18        - <a href="http://standblog.org/blog/category/En">en</a>
+        </p>
+    
+    
+    
+          <div class="post-content"><p>With more than <a href="http://www.flickr.com/photos/nitot/2592547876/" hreflang="en">8 million downloads</a>, the <a href="http://www.spreadfirefox.com/en-US/worldrecord" hreflang="en">Download Day</a> is an amazing success. <a href="" hreflang="en">Firefox 3 market share</a>, measured in real time by Net Applications is North of 6%, just 36 hours after the launch. But besides download numbers, the idea of setting a Guinness book record was immensely effective to get the word out. It was super effective in mobilizing our 180 million users and the members of the press. Press coverage has been amazing in all countries, including <a href="http://www.flickr.com/photos/nitot/2592624716/">US&amp;UK</a>, <a href="http://www.flickr.com/photos/nitot/2592547768/">France</a>, <a href="http://www.flickr.com/photos/nitot/2592547660/">Italy</a>, <a href="http://www.flickr.com/photos/nitot/2592547622/">Germany</a> and <a href="http://www.flickr.com/photos/nitot/2592547708/">Spain</a> (there is no Google News in Poland). <strong>Not only the coverage is beyond amazing, it has also enabled Mozilla to reach a new level in terms of Open-Source visibility for itself, for the Mozilla Manifesto (our all of our values) and for the whole Open-Source / Free Software world.</strong> For all these reasons, I'm super proud to be part of it. Thanks <del>a</del> 8.3 million to all of you who have made this possible. To <a href="http://blog.mozilla.com/schrep/2008/06/18/whats-next-after-firefox-3/" hreflang="en">quote Schrep</a>:</p>
+
+
+<blockquote><p>If you've filed a bug, translated a string, written code, worked on an add-on, supported the development infrastructure, or helped to explain Firefox to someone else, <strong>you</strong> were part of making Firefox 3 a success.</p></blockquote>
+
+
+<p>But back to the topic I wanted to address, with a very short list of big media that have published content about Firefox<sup>[<a href="#pnote-3555-1" id="rev-pnote-3555-1">1</a>]</sup>:</p>
+
+
+
+<h3>Belgium</h3>
+
+<ul>
+<li><em>Le Soir</em>: <a href="http://www.lesoir.be/la_vie_du_net/actunet/firefox-pour-un-record-2008-06-17-607121.shtml" hreflang="fr">Firefox pour un record mondial</a> ;</li>
+<li><em>La Libre Belgique</em> : <a href="http://www.lalibre.be/index.php?view=article&amp;art_id=428571" hreflang="fr">Firefox : version 3.0, 180 millions d'utilisateurs</a> ;</li>
+</ul>
+
+<h3>France</h3>
+
+<ul>
+<li><em>France Info</em> : <a href="http://france-info.com/spip.php?article148987&amp;theme=81&amp;sous_theme=109#" hreflang="fr">J?r?me Colombain</a> ;</li>
+<li><a href="http://www.radioclassique.fr/" hreflang="fr">Radio Classique</a> ;</li>
+<li><em>Le Point</em> : <a href="http://www.lepoint.fr/actualites-technologie-internet/firefox-3-arrive-ce-soir-opera-9-5-est-deja-la/1387/0/253680" hreflang="fr">Firefox 3 arrive ce soir, Opera 9.5 est d?j? l?</a> ;</li>
+<li><em>Le Point</em> : <a href="http://www.lepoint.fr/actualites-technologie-internet/interview-nitot-mozill%20a-firefox-3-deja-telecharge-6-33-millions/1387/0/254031" hreflang="fr">Interview - Nitot (Mozilla) : "Firefox 3 d?j? t?l?charg? 6,33 millions de fois"</a> ;</li>
+<li><em>Le Point</em> : <a href="http://www.lepoint.fr/actualites-technologie-internet/firefox-3-un-raz-de-maree/1387/0/254122" hreflang="fr">Firefox 3 : un raz-de-mar?e</a> ;</li>
+<li><em>Les Echos</em> : <a href="http://www.lesechos.fr/journal20080610/lec2_innovation/4736849.htm" hreflang="fr">Mozilla pr?t ? lancer Firefox 3</a> ;</li>
+<li><em>Lib?/Ecrans.fr</em> : <a href="http://www.ecrans.fr/Firefox-3-mode-d-emploi,4349.html" hreflang="fr">Firefox 3, mode d?emploi</a> ;</li>
+<li><em>Lib?ration</em> (also on paper) : <a href="http://www.liberation.fr/actualite/ecrans/332890.FR.php" hreflang="fr">Firefox 3, tout nouveau, tout beau </a></li>
+<li><em>Le Figaro</em> : <a href="http://www.lefigaro.fr/flash-actu/2008/06/17/01011-20080617FILWWW00671-sortie-de-firefox-.php" hreflang="fr">Sortie de Firefox 3</a> ;</li>
+<li><em>Le Figaro</em> : <a href="http://blog.lefigaro.fr/hightech/2008/06/firefox-3-a-micourse.html" hreflang="fr">Firefox 3 vers les 10 millions ?</a> ;</li>
+<li><em>01Net</em> : <a href="http://www.01net.com/editorial/382680/firefox-3-cinq-questions-a-tristan-nitot-de-mozilla-europe/" hreflang="fr">Firefox 3 : cinq questions ? Tristan Nitot, de Mozilla Europe</a> ;</li>
+<li><em>Metro</em> : <a href="http://www.metrofrance.com/fr/article/relaxnews/2008/06/16/811_20080616163011_xml/index.xml" hreflang="fr">Firefox 3 : un nouveau record de t?l?chargement en vue</a> ;</li>
+<li><em>Metro</em> : <a href="http://www.metrofrance.com/fr/article/afp/2008/06/17/cng_704c9455ce741ae27557fe1708af65e4_901/index.xml" hreflang="fr">Firefox 3 est sorti</a> ;</li>
+<li><em>Metro</em> : <a href="http://www.metrofrance.com/fr/article/relaxnews/2008/06/16/811_20080616162528_xml/index.xml" hreflang="fr">Firefox 3 arrive...</a> ;</li>
+<li><em>20 minutes</em> : <a href="http://www.20minutes.fr/article/237275/High-Tech-Firefox-3-une-version-de-vieux-renard.php" hreflang="fr">Firefox 3, une version de vieux renard</a> ;</li>
+<li><em>20 minutes</em> : <a href="http://www.20minutes.fr/article/238173/High-Tech-Firefox-se-prepare-a-rentrer-dans-le-livre-des-records.php">Firefox se pr?pare ? rentrer dans le livre des records</a> ;</li>
+<li><em>Challenges.fr</em> :<a href="http://www.flickr.com/photos/nitot/2603030257/" hreflang="fr">Mozilla menace Microsoft</a> ;</li>
+<li><em>Nouvel Obs</em> : <a href="http://tempsreel.nouvelobs.com/actualites/medias/20080617.OBS8840/mozilla_espere_battre_un_record_avec_firefox_3.html" hreflang="fr">Mozilla esp?re battre un record avec "Firefox 3"</a> ;</li>
+<li><em>AFP</em> : <a href="http://afp.google.com/article/ALeqM5jHxzYFg5m2ZZJzfqxkVcQdLKj6UQ" hreflang="fr">Sortie de la nouvelle version du navigateur internet Firefox 3</a> ;</li>
+<li><em>Europe 1</em>: <a href="http://www.europe1.fr/popup/reecoute/(idconducteur)/74252/(idsequence)/1137">La chronique du Web</a></li>
+<li><em>Le Monde</em> : <a href="http://www.lemonde.fr/web/chat/0,46-0@2-651865,55-1047610,0.html">Tristan Nitot (Mozilla) : "Le logiciel libre progresse ? pas de g?ant"</a> ;</li>
+</ul>
+
+<h3>Italy</h3>
+
+<ul>
+<li><em>La Repubblica</em>: <a href="http://www.repubblica.it/2007/09/sezioni/scienza_e_tecnologia/browser/firefox-tre/firefox-tre.html" hreflang="it">Il web accoglie il nuovo Firefox 3 browser da Guinness dei primati</a> ;</li>
+<li><em>La Repubblica</em>: <a href="http://www.repubblica.it/news/ired/ultimora/esteri/rep_esteri_n_3174600.html" hreflang="it">E' il "Download Day", debutta in rete Firefox 3</a> ;</li>
+<li><em>La Stampa</em>: <a href="http://www.lastampa.it/_web/cmstp/tmplrubriche/tecnologia/gtecnologia.asp?ID_blog=87&amp;ID_articolo=89&amp;ID_sezione=158&amp;sezione=" hreflang="it">Schroepfer: la community ? la nostra forza</a> ;</li>
+<li><em>La Stampa</em>: <a href="http://www.unita.it/view.asp?IDcontent=76341" hreflang="it">Firefox 3, l'open source nel Guinness</a> ;</li>
+<li><em>La Stampa</em>: <a href="http://www.lastampa.it/_web/cmstp/tmplrubriche/tecnologia/grubrica.asp?ID_blog=30&amp;ID_articolo=4700" hreflang="it">Firefox 3, browser da record</a> ;</li>
+<li><em>Il Sole 24 ore</em>: <a href="http://www.ilsole24ore.com/art/SoleOnLine4/Tecnologia%20e%20Business/2008/06/firefox-guinness.shtml?uuid=2f30b996-3956-11dd-8cc1-00000e251029&amp;DocRulesView=Libero&amp;fromSearch" hreflang="it">Firefox 3, ecco le novit? del nuovo browser Mozilla</a> ;</li>
+<li><em>Corriere della Sera</em>: <a href="http://www.flickr.com/photos/nitot/2591998583/" hreflang="it">Baker con Firefox ora punta alla rivincita sul colosso di Gates</a> ;</li>
+<li><em>Panorama</em>: <a href="http://blog.panorama.it/hitechescienza/2008/06/11/firefox-3-vuole-entrare-nel-guinness-dei-primati/" hreflang="it">Firefox 3 esce il 17 giugno e vuole entrare nel Guinness dei primati</a> ;</li>
+</ul>
+
+<h3>Germany &amp; Austria</h3>
+
+<ul>
+<li><em>Spiegel</em>: <a href="http://www.spiegel.de/netzwelt/web/0,1518,560443,00.html" hreflang="de">Firefox erfindet einen Weltrekord</a> ;</li>
+<li><em>Der Standard</em>: <a href="http://derstandard.at/?url=/?id=3382930" hreflang="de">Mehr als acht Millionen Firefox-Downloads in 24 Stunden</a> ;</li>
+<li><em>Sueddeutsche</em>: <a href="http://newsticker.sueddeutsche.de/list/id/56613" hreflang="de">Neuen Firefox 3 jetzt kostenlos herunterladen</a> ;</li>
+<li><em>Sueddeutsche</em>: <a href="http://www.sueddeutsche.de/computer/artikel/380/180823/" hreflang="de">Geckos in Cairo</a> ;</li>
+<li><em>Sueddeutsche</em>: <a href="http://www.sueddeutsche.de/,ra12l1/computer/artikel/598/181040/" hreflang="de">Massenhafte Fuchs-Jagd</a> ;</li>
+<li><em>Heise</em>: <a href="http://www.heise.de/newsticker/Download-Day-Firefox-3-bereits-6-5-Millionen-Mal-heruntergeladen--/meldung/109643" hreflang="de">Download Day: Firefox 3 bereits 6,5 Millionen Mal heruntergeladen</a> ;</li>
+<li><em>Frankfurter Allgemeine Zeitung</em>: <a href="http://www.faz.net/s/RubE2C6E0BCC2F04DD787CDC274993E94C1/Doc~E457B3DAE45484A43B22C4E7F17528006~ATpl~Ecommon~Scontent.html?rss_googlefeed" hreflang="de">Mozilla greift Microsoft an</a> ;</li>
+<li><em>ORF</em>: <a href="http://futurezone.orf.at/produkte/stories/286503/" hreflang="de">Firefox 3 knackt Achtmillionenmarke</a> ;</li>
+<li><em>Welt</em>: <a href="http://www.welt.de/webwelt/article2118396/Das_kann_der_neue_Mozilla_Firefox.html" hreflang="de">Das kann der neue Mozilla Firefox</a> ;</li>
+<li><em>Focus</em>: <a href="http://www.focus.de/panorama/diverses/firefox-3-internetbrowser-firefox-3-laesst-server-kollabieren_aid_311808.html">Internetbrowser Firefox 3 l?sst Server kollabieren</a> ;</li>
+<li><em>Golem</em>: <a href="http://www.golem.de/0806/60492.html" hreflang="de">?ber 8 Millionen Downloads von Firefox 3 an einem Tag</a> ;</li>
+<li><em>ZDF TV</em>: <a href="http://www.heute.de/ZDFheute/inhalt/16/0,3672,7252624,00.html">Aufpolierter Firefox 3.0 geht ins Netz</a> ;</li>
+</ul>
+
+<h3>Spain</h3>
+
+<ul>
+<li><em>El Mundo</em>: <a href="http://www.elmundo.es/navegante/2008/06/17/tecnologia/1213692505.html" hreflang="es">Firefox 3, a por el r?cord de descargas</a> ;</li>
+<li><em>BBC Mundo</em>: <a href="http://news.bbc.co.uk/hi/spanish/science/newsid_7460000/7460071.stm" hreflang="es">El nuevo Firefox busca un r?cord</a> ;</li>
+<li><em>BBC Mundo</em>: <a href="http://news.bbc.co.uk/hi/spanish/science/newsid_7462000/7462196.stm" hreflang="es">Firefox cerca de r?cord pero con problemas</a> ;</li>
+<li><em>BBC en Espanol</em> : <a href="http://www.bbc.co.uk/blogs/spanish/2008/06/el_culto_de_la_zorra.html" hreflang="es">El culto de la zorra</a></li>
+<li><em>Cinco Dias</em>: <a href="http://www.cincodias.com/articulo/empresas/Mozilla/desafia/Explorer/Microsoft/navegador/Firefox/cdssec/20080618cdscdiemp_21/Tes/" hreflang="es">Mozilla desaf?a al Explorer de Microsoft con su navegador Firefox 3</a> ;</li>
+<li><em>Cinco Dias</em>: <a href="http://www.cincodias.com/articulo/empresas/Firefox/logra/83/millones/descargas/dia/cdscdi/20080619cdscdiemp_17/Tes/">Firefox logra 8,3 millones de descargas en un d?a</a> ;</li>
+<li><em>El Pais</em> has a series of 5 articles:
+<ul>
+<li><em>El Pais</em>: <a href="http://www.elpais.com/articulo/internet/Guinness/espera/Firefox/elpeputec/20080618elpepunet_3/Tes" hreflang="es">El Guinness espera a Firefox 3</a> ;</li>
+<li><em>El Pais</em>: <a href="http://www.elpais.com/articulo/red/ventajas/F3/elpeputeccib/20080619elpcibenr_6/Tes" hreflang="es">Las ventajas del F3</a> ;</li>
+<li><em>El Pais</em>: <a href="http://www.elpais.com/articulo/red/Tenemos/exito/Europa/Estados/Unidos/reflejamos/valores/elpeputeccib/20080619elpcibenr_5/Tes" hreflang="es">"Tenemos m?s ?xito en Europa que en Estados Unidos porque reflejamos sus valores"</a> ;</li>
+<li><em>El Pais</em>: <a href="http://www.elpais.com/articulo/portada/navegador/Firefox/nace/acabar/dominio/Explorer/elpeputec/20080619elpcibpor_1/Tes">El navegador Firefox 3 nace para acabar con el dominio del Explorer</a> ;</li>
+<li><em>El Pais</em>: <a href="http://www.elpais.com/articulo/red/aplicacion/ayudo/popularizar/Internet/hogares/elpcibred/20080619elpcibenr_7/Tes/" hreflang="es">La aplicaci?n que ayud? a popularizar Internet en los hogares</a> ;</li>
+</ul></li>
+<li><em>AFP</em>: <a href="http://afp.google.com/article/ALeqM5iamJeI5fRt3ZE4In_68kEeXxW4FQ" hreflang="es">Nueva versi?n del navegador de internet FireFox 3</a> ;</li>
+<li><em>Publico</em>: <a href="http://www.publico.es/ciencias/tecnologia/127303/firefox/3/logra/batir/record/guinness/existia" hreflang="es">Firefox 3 logra batir el r?cord Guinness que no exist?a</a> ;</li>
+<li><em>Publico</em>: <a href="http://www.publico.es/ciencias/tecnologia/126851/llega/version/3/navegador/libre/firefox" hreflang="es">Llega la versi?n 3 del navegador 'libre' Firefox</a> ;</li>
+</ul>
+
+<h3>Switzerland</h3>
+
+<ul>
+<li><em>Le Temps</em> : <a href="http://www.letemps.ch/" hreflang="fr">Le Temps</a></li>
+<li><em>Radio Suisse Romande</em> : <a href="http://info.rsr.ch/fr/rsr.html?bcItemName=quoi_de_neuf&amp;contentDisplay=last_five&amp;programId=108616&amp;rubricId=9400&amp;siteSect=1000#mardi" hreflang="fr">Interview de Tristan Nitot</a> ;</li>
+<li><em>Le Matin</em> : <a href="http://www.lematin.ch/fr/multimedia/hightech/et-voila-le-nouveau-firefox-3_21-179223" hreflang="fr">Et voil? le nouveau Firefox 3</a> ;</li>
+<li><em>NZZ Online</em>: <a href="http://www.nzz.ch/nachrichten/panorama/neue_runde_im_wettstreit_der_internet-browser_1.761813.html" hreflang="de">Neue Runde im Wettstreit der Internet-Browser</a> ;</li>
+<li><em>Le Temps</em> : <a href="http://www.letemps.ch/template/multimedia.asp?page=rendezvous&amp;artid=234634&amp;rubriqueID=16&amp;NomTrans=Multim%E9dia&amp;NomPage=Multimedia.asp&amp;periode=31" hreflang="fr">Plus rapide, Firefox reste le meilleur navigateur</a> ;</li>
+</ul>
+
+<h3>UK</h3>
+
+<ul>
+<li><em>Sky News</em> : <a href="http://news.sky.com/skynews/article/0,,91221-1319341,00.html" hreflang="en">Get The Lowdown On Firefox 3 Launch</a> ;</li>
+<li><em>BBC</em>: <a href="http://news.bbc.co.uk/2/hi/technology/7456151.stm" hreflang="en">Behind the scenes of Firefox 3.0</a> ;</li>
+<li><em>BBC</em>: <a href="http://news.bbc.co.uk/2/hi/technology/7457503.stm" hreflang="en">Firefox aims for download record</a> ;</li>
+<li><em>Telegraph</em>: <a href="http://www.telegraph.co.uk/connected/main.jhtml?xml=/connected/2008/06/19/dlhave119.xml" hreflang="en">Must have: Firefox 3</a> ;</li>
+<li><em>International Herald Tribune</em>: <a href="http://www.iht.com/articles/2008/06/18/technology/17firefox.php" hreflang="en">Firefox 3 breaks Mozilla browser download record</a> ;</li>
+<li><em>Financial Times</em>: <a href="http://www.ft.com/cms/s/0/0a9836ac-3e62-11dd-b16d-0000779fd2ac.html" hreflang="en">A bolder, brisker browser</a> ;</li>
+</ul>
+
+<h3>USA</h3>
+
+<ul>
+<li><em>Wall Street Journal</em>: <a href="http://ptech.allthingsd.com/20080605/mozilla-firefox-30-is-the-best-browser-for-web-for-now/?" hreflang="en">Mozilla Firefox 3.0 Is the Best Browser for Web ? For Now</a> ;</li>
+<li><em>Forbes</em>: <a href="http://www.forbes.com/technology/enterprisetech/2008/06/17/firefox-new-browser-tech-internet-cx_bc_0617firefox.html" hreflang="en">Why Firefox Matters</a> ;</li>
+<li><em>Motley Fool</em>: <a href="http://www.fool.com/investing/value/2008/06/18/mozilla-matters-more-than-ever.aspx" hreflang="en">Mozilla Matters More Than Ever</a> ;</li>
+<li><em>San Jos? Mercury News</em>: <a href="http://origin.mercurynews.com/opinion/ci_9620844" hreflang="en">Mozilla's open-source model represents valley at its best</a> ;</li>
+<li><em>Washington Post</em>: <a href="http://www.washingtonpost.com/wp-dyn/content/article/2008/06/18/AR2008061802731.html?hpid=sec-tech" hreflang="en">Building a Better Browser: Firefox Keeps Innovating</a> ;</li>
+<li><em>USA Today</em>: <a href="http://www.usatoday.com/tech/columnist/edwardbaig/2008-06-18-firefox-3_N.htm" hreflang="en">Firefox 3 browser is nifty and packed with handy features</a> ;</li>
+<li><em>Associated Press</em>: <a href="http://ap.google.com/article/ALeqM5i4Dno03NpL4SWP4KE2Tg3SgicXWgD91CN3N80" hreflang="en">Firefox 3 browser downloads strong in first day</a> ;</li>
+<li><em>Comedy Central</em>: <a href="http://www.spike.com/episode/27765/st/2994516" hreflang="en">The Colbert Report</a> ;</li>
+<li><em>CNN</em>: <a href="http://edition.cnn.com/2008/TECH/ptech/06/18/firefox.browser.ap/index.html?iref=hpmostpop" hreflang="en">Firefox fans download 9,000 copies a minute</a>, including <a href="http://www.flickr.com/photos/nitot/2591859463/sizes/o/" hreflang="en">the home page</a>! ;</li>
+<li><em>CNN International</em>: <a href="http://www.flickr.com/photos/gen/sets/72157605693345240/">Mitchell Baker on TV</a>! (in Korea, see <a href="http://www.flickr.com/photos/gen/sets/72157605693345240/">full photo album</a>) ;</li>
+</ul>
+
+<p>Thanks a bunch for the people who made this possible from a PR standpoint (on top of the amazing product): Mitchell, John, Schrep, Beltzner, Paul, Mary, Melissa, Nicole, the Outcast team, Anne-Julie, Jane, Giuliano, Francesco, Pascal, Abdulkadir, Victoria, Dominique, Sian, Ben, Ralf, Thomas, Pierre, H?l?ne, Antoine, Juan, Belen, Nukeador, Guillermo, Diana, Giuseppe, Zbigniew, Agnieszka, Magda, Piotr, Jolanta, Stas and every community members<sup>[<a href="#pnote-3555-2" id="rev-pnote-3555-2">2</a>]</sup> that have been involved in the PR part of this amazing launch...</p>
+
+
+<p><em>At Mozilla, we're inventing something BIG. What's cool is that the world is starting to notice!</em></p>
+<div class="footnotes"><h4>Notes</h4>
+<p>[<a href="#rev-pnote-3555-1" id="pnote-3555-1">1</a>] I may update it if I find time...</p>
+<p>[<a href="#rev-pnote-3555-2" id="pnote-3555-2">2</a>] feel free to suggest names in the comments, there are so many people involved that I have certainly forgot to mention key people!</p></div>
+</div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/19/Firefox-3-launch-press-coverage#comments" class="comment_count">11 commentaires</a>
+                      </p>
+        </div>
+    
+          <div class="post  ">
+
+    <p class="day-date">mercredi 18 juin 2008</p>    
+    <h2 id="p3554" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/18/Quelques-liens-improbables">Quelques liens improbables</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le mercredi 18 juin 2008, 19:55        - <a href="http://standblog.org/blog/category/En-vrac">En vrac</a>
+        </p>
+    
+    
+    
+          <div class="post-content"><ul>
+<li><a href="http://blog.lizardwrangler.com/" hreflang="en">Part of our dream for Mozilla has been to be a voice for the health of the Internet itself. To use our technology, our products and our community process to demonstrate what is possible, and to help others see that openness, participation and distributed decision-making can lead to many positive developments. Mozilla?s participation in events such as this OECD meeting demonstrates that we are doing this. We represent a new style of development for Internet product and the Internet experience.</a>&nbsp;;</li>
+</ul>
+<ul>
+<li><a href="http://www.pouik.net/?p=40" hreflang="fr">Plusieurs millions de t?l?chargement... Et ?a fait mal ?</a> <img src="/dotclear2/themes/default/smilies/wink.png" alt=";-)" class="smiley" /></li>
+<li><a href="http://forum.manucure.info/firefox-day/fr/" hreflang="fr">On peut aimer la manucure et Firefox 3</a>, et ce site le prouve&nbsp;!</li>
+<li>Envie de savoir si votre extension favorite sera compatible Firefox 3&nbsp;? <a href="http://people.mozilla.com/~polvi/threedom/status-bars.html" hreflang="en">Alex Polvi a la r?ponse</a>&nbsp;!</li>
+<li>Net Applications documente le passe de <a href="http://marketshare.hitslink.com/report.aspx?qprid=31" hreflang="en">1% d'utilisateurs de Firefox 3 ? 4%</a> en quelques heures&nbsp;;</li>
+<li>Rien ? voir, et pourtant si, <a href="http://ecrans.fr/Internet-en-danger,4339.html" hreflang="fr">une citation de Mike Godwin</a>&nbsp;: "Je suis tout le temps soucieux au sujet de ma fille et d?Internet, bien qu?elle soit trop jeune pour se connecter. <a href="..." title="...">...</a> Je crains que dans 10 ou 15 ans, elle vienne me voir et me dise ?Papa, o? ?tais-tu quand ils ont supprim? la libert? de la presse sur Internet ??"&nbsp;;</li>
+</ul></div>
+    
+                        </div>
+    
+          <div class="post odd ">
+
+        
+    <h2 id="p3553" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/18/I-hear-servers-screeching">I hear servers screeching!</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le mercredi 18 juin 2008, 15:05        - <a href="http://standblog.org/blog/category/En">en</a>
+        </p>
+    
+    
+    
+          <div class="post-content"><p>The demand for the new Firefox 3 browser has been simply overwhelming. As I write this, the number of downloads is at <a href="http://downloadcounter.sj.mozilla.com/">6.5 million</a> (with around 6000 new downloads taking place every minute) so we are well on the way to breaking the Guinness World Record (Firefox 2 was downloaded 1.6 million times on the first day in October 2006).</p>
+
+
+<p>This is great recognition for our community of developers, testers and localisers who have worked so hard to make Mozilla what it is today.</p>
+
+
+<p>We did experience a small outage on the Mozilla download site last night when Firefox 3 officially launched; as noted on some news sites including <a href="http://www.theregister.co.uk/2008/06/17/firefox_3_debuts/">The Register</a> and <a href="http://blogs.guardian.co.uk/technology/2008/06/17/get_firefox_sorry_you_cant.html">The Guardian</a>.  But I think this just demonstrates the huge success and high demand from consumers who want a better and more personalised browsing experience.</p>
+
+
+<p>More good news? Because of the slight delay at the start of the Download Day, we have pushed back the cut off time to break the number of downloads in a 24 hour period!  The new end date and time is 20.16 hours (CET) June 18th 2008.</p>
+
+
+<p>To take advantage and be part of a new Guinness World Record, you can download the Mozilla Firefox 3 browser at <a href="http://getfirefox.com/">GetFirefox.com</a>.</p>
+
+
+<p>Still not sure if Firefox 3 is for you? Check out <a href="http://news.sky.com/skynews/article/0,,91221-1319341,00.html">the Firefox 3 demo over at Sky News</a>!</p></div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/18/I-hear-servers-screeching#comments" class="comment_count">14 commentaires</a>
+                      </p>
+        </div>
+    
+          <div class="post  ">
+
+        
+    <h2 id="p3552" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/18/En-vrac-lauteur-pas-le-billet">En vrac (l'auteur, pas le billet)</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le mercredi 18 juin 2008, 13:04        - <a href="http://standblog.org/blog/category/Mozillaeurope">Mozilla-Europe</a>
+        </p>
+    
+    
+    
+          <div class="post-content"><p>Tr?s vite fait entre deux rendez-vous presse&nbsp;:</p>
+
+<ul>
+<li>Pour ceux que ?a int?resse&nbsp;: voici un <a href="http://downloadcounter.sj.mozilla.com/">compteur temps r?el des t?l?chargements de Firefox</a>. J'ai des questions sur le Download Day, je pr?pare un billet sur le sujet&nbsp;!</li>
+<li>Voici une lecture <em>tr?s</em> int?ressante&nbsp;: <a href="http://lifehacker.com/396312/power-users-guide-to-firefox-3" hreflang="en">Power User's Guide to Firefox 3</a>, qui indique par exemple comment se passer de la <a href="http://youtube.com/watch?v=yFrZL2bnrRc">barre g?niale</a> (on me posait la question hier soir).</li>
+</ul></div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/18/En-vrac-lauteur-pas-le-billet#comments" class="comment_count">7 commentaires</a>
+                      </p>
+        </div>
+    
+          <div class="post odd ">
+
+    <p class="day-date">mardi 17 juin 2008</p>    
+    <h2 id="p3551" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/17/Vente-liee-%3A-consternation-sur-lattitude-de-Luc-Chatel">Vente li?e : consternation sur l'attitude de Luc Chatel</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le mardi 17 juin 2008, 10:47        - <a href="http://standblog.org/blog/category/Politique">Politique</a>
+        </p>
+    
+        <ul class="post-tags">    <li><a href="http://standblog.org/blog/tag/detaxe">detaxe</a></li>
+                <li><a href="http://standblog.org/blog/tag/racketiciel">racketiciel</a></li>
+    </ul>    
+    
+          <div class="post-content"><p>Monsieur Luc Chatel, mais quelle mouche vous a piqu?e&nbsp;? Comment en ?tes vous arriv? ? retourner votre veste&nbsp;? Pourquoi avez vous subitement d?cid? que le choix pour les consommateurs ?tait devenu facultatif&nbsp;? Etes-vous mal entour?&nbsp;? Comme les associations du logiciel Libre, <a href="http://www.zdnet.fr/actualites/informatique/0,39040745,39381757,00.htm" hreflang="fr">je suis constern?</a>. J'abonde dans le sens d'Alix Cazenave (APRIL), <a href="http://www.april.org/articles/communiques/pr-20080616.html" hreflang="fr">qui d?clare</a>&nbsp;:</p>
+
+
+<blockquote><p>En rejetant cet amendement, Luc Chatel d?nie au consommateur le droit de conna?tre le prix de ce qu'il ach?te. Pourtant, c'est le coeur m?me de la question ?crite qu'il avait pos?e lorsqu'il ?tait d?put?. Il abandonne le dossier de la vente li?e comme celui l'action de groupe. ? croire qu'il a chang? d'id?es en changeant de fonction.</p></blockquote>
+
+
+<p><strong>Mise ? jour :</strong> ils en parlent&nbsp;:</p>
+
+<ul>
+<li><em>Silicon.fr</em>&nbsp;: <a href="http://www.silicon.fr/fr/news/2008/06/16/vente_liee_luc_chatel_hostile_a_tout_changement_legislatif" hreflang="fr">Vente li?e&nbsp;: Luc Chatel hostile ? tout changement l?gislatif</a>&nbsp;;</li>
+<li><em>LeMagIT</em>&nbsp;: <a href="http://www.lemagit.fr/article/microsoft-windows-legislation/578/1/vente-liee-luc-chatel-epargne-microsoft/" hreflang="fr">Vente li?e&nbsp;: Luc Chatel ?pargne Microsoft</a>&nbsp;;</li>
+<li><em>LMI</em>&nbsp;: <a href="http://www.lemondeinformatique.fr/actualites/lire-l-april-et-l-aful-denoncent-la-trahison-de-luc-chatel-sur-la-vente-liee-26340.html" hreflang="fr">L'April et l'Aful d?noncent la trahison de Luc Chatel sur la vente li?e</a>&nbsp;;</li>
+<li><em>Generation-NT</em>&nbsp;: <a href="http://www.generation-nt.com/vente-liee-april-chatel-amendement-aful-actualite-107651.html" hreflang="fr">Vente li?e&nbsp;: Luc Chatel vertement critiqu?</a>&nbsp;;</li>
+<li><em>NetEco</em>&nbsp;: <a href="http://www.neteco.com/144230-vente-liee-details-prix-os.html" hreflang="fr">Vente li?e&nbsp;: pas de d?tails sur le prix de l'OS ?</a>&nbsp;;</li>
+<li><em>TooLinux</em>&nbsp;: <a href="http://www.toolinux.com/news/opinion/luc_chatel_liberal_et_ardent_protecteur_des_monopoles_selon_l_aful_ar10716.html" hreflang="fr">?Luc Chatel, lib?ral et ardent protecteur des monopoles? selon l?AFUL</a>&nbsp;;</li>
+<li><em>PCINpact</em>&nbsp;: <a href="http://www.pcinpact.com/actu/news/44187-luc-chatel-vente-liee-racketiciel.htm" hreflang="fr">Vente li?e&nbsp;: Luc Chatel s'oppose ? la ventilation des prix</a>&nbsp;;</li>
+<li><em>Le Point</em>&nbsp;: <a href="http://www.lepoint.fr/actualites-technologie-internet/vente-liee-pc-systeme-d-exploitation-luc-chatel-refuse-de/1387/0/253607" hreflang="fr">Vente li?e PC/syst?me d'exploitation&nbsp;: Luc Chatel refuse de l?gif?rer</a>&nbsp;;</li>
+</ul></div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/17/Vente-liee-%3A-consternation-sur-lattitude-de-Luc-Chatel#comments" class="comment_count">16 commentaires</a>
+                      </p>
+        </div>
+    
+          <div class="post  ">
+
+        
+    <h2 id="p3550" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/17/Le-grand-jour">Le grand jour</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le mardi 17 juin 2008, 07:48        - <a href="http://standblog.org/blog/category/Mozillaeurope">Mozilla-Europe</a>
+        </p>
+    
+        <ul class="post-tags">    <li><a href="http://standblog.org/blog/tag/fx3">fx3</a></li>
+    </ul>    
+    
+          <div class="post-content"><p><a href="http://farm4.static.flickr.com/3053/2585852137_b3bf8e6400_b.jpg"><img src="http://farm4.static.flickr.com/3053/2585852137_b3bf8e6400.jpg" alt="Firefox... 3 !" /></a></p>
+
+
+<p><em><a href="http://www.flickr.com/photos/nitot/2585852137/">Firefox... 3 !</a></em></p>
+
+
+<p>Voil?, le lancement de Firefox 3, c'est pour aujourd'hui, 17 juin 2008. Plus pr?cis?ment, c'est ce soir ? <a href="http://www.timeanddate.com/worldclock/fixedtime.html?month=6&amp;day=17&amp;year=2008&amp;hour=10&amp;min=0&amp;sec=0&amp;p1=224&amp;sort=1">19h environ, heure de Paris</a>. Encore 11h et 12 minutes ? attendre (au moment o? je publie ce billet).</p></div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/17/Le-grand-jour#comments" class="comment_count">60 commentaires</a>
+                      </p>
+        </div>
+    
+          <div class="post odd ">
+
+    <p class="day-date">lundi 16 juin 2008</p>    
+    <h2 id="p3549" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/16/En-vrac-la-veille-de-la-sortie-de-Firefox-3">En vrac, la veille de la sortie de Firefox 3</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le lundi 16 juin 2008, 23:08        - <a href="http://standblog.org/blog/category/En-vrac">En vrac</a>
+        </p>
+    
+        <ul class="post-tags">    <li><a href="http://standblog.org/blog/tag/gears">gears</a></li>
+                <li><a href="http://standblog.org/blog/tag/openweb">openweb</a></li>
+    </ul>    
+    
+          <div class="post-content"><ul>
+<li>Passe d'arme entre Nokia et la communaut? du Libre. Ari Jaaksi, un des <acronym title="Vice-Pr?sident">VP</acronym> de Nokia <a href="http://www.businessweek.com/globalbiz/content/jun2008/gb20080612_288518.htm?chan=top+news_top+news+index_global+business" hreflang="en">lance</a> dans une pr?sentation que la Libert? du code est g?nante, dans la mesure o? les d?veloppeurs du Libre "devront apprendre les r?gles ? suivre dont les DRM<sup>[<a href="#pnote-3549-1" id="rev-pnote-3549-1">1</a>]</sup>, le respect de la propri?t? intellectuelle<sup>[<a href="#pnote-3549-2" id="rev-pnote-3549-2">2</a>]</sup>, le bridage des services avec une carte SIM". C'est vrai que pour du code Libre et ouvert, il est difficile (voire impossible) de brider l'utilisateur. Et si ce dernier se sent limit? par le code, il peut le modifier pour faire sauter la limitation. Depuis, Ari Jaaksi a <a href="http://jaaksi.blogspot.com/2008/06/some-learning-to-do.html" hreflang="en">expliqu? sa position dans un billet</a>. Pour l'occasion on a eu (au moins) deux r?ponses&nbsp;:
+<ul>
+<li><a href="http://technocrat.net/d/2008/6/11/43198" hreflang="en">Celle de Bruce Perens</a> qui explique les diff?rents m?canismes permettant de s?parer logiciel propri?taire et logiciel Libre, tout en respectant les diff?rentes licences&nbsp;;</li>
+<li><a href="http://arstechnica.com/news.ars/post/20080615-advancing-oss-adoption-by-sacrificing-software-freedom.html" hreflang="en">ArsTechnica</a>, qui pointe le fait que les DRM et autres d?bilit?s sont maintenant rejet?s par les utilisateurs, qui arrivent aussi ? les cracker.</li>
+</ul></li>
+<li><a href="http://www.01net.com/editorial/382528/firefox-3-mozilla-repond-aux-lecteurs-de-01net./" hreflang="fr">Firefox 3&nbsp;: Mozilla r?pond aux lecteurs de 01net.</a>&nbsp;;</li>
+<li><a href="http://www.zdnet.fr/actualites/informatique/0,39040745,39381437,00.htm">Chris DiBona, Google&nbsp;: ?&nbsp;Chaque fois que vous utilisez Google, vous exploitez une machine qui ex?cute Linux ?</a>&nbsp;;</li>
+<li>Trou de s?cu commun ? Internet Explorer et Safari, le <a href="http://apple.slashdot.org/article.pl?sid=08/06/11/1855218" hreflang="en">Carpet Bombing</a></li>
+<li>Phishing&nbsp;: quand les gros salaires l?vent le doigt, ?a s'appelle le <a href="http://www.zdnet.fr/actualites/internet/0,39020774,39381733,00.htm?xtor=RSS-1" hreflang="fr">whaling </a>&nbsp;! (En presque-fran?ais, le "baleinage")&nbsp;;</li>
+<li>Sauf exception, <a href="http://alex.polvi.net/2008/06/12/state-of-the-add-ons-report-june-12th/" hreflang="en">les principales extensions de Firefox seront compatibles avec la version 3 ? sa sortie</a>. Parmi les exceptions, on trouve <em>Google Browser Sync</em>, dont le <a href="http://alex.polvi.net/2008/06/13/google-browser-sync-not-coming-to-firefox-3/" hreflang="en">d?veloppement est abandonn? par Google</a></li>
+<li><a href="http://www.racketiciel.info/" hreflang="fr">Vente li?e</a>&nbsp;: L'<a href="http://www.aful.org/" hreflang="fr">AFUL</a> monte au cr?neau et <a href="http://www.aful.org/communiques/chatel-pinocchio/" hreflang="fr">traite Luc Chatel de menteur</a>. Il faut dire que les d?clarations du secr?taire d'?tat sont pour le moins... perturbantes&nbsp;! <a href="http://www.pcinpact.com/actu/news/44187-luc-chatel-vente-liee-racketiciel.htm?" hreflang="fr">PCINpact en parle</a>&nbsp;;</li>
+<li>Bon article sur TechCrunch&nbsp;: <a href="http://www.techcrunch.com/2008/06/13/google-drives-towards-microsoft-and-adobe-with-gears/" hreflang="en">Pr?parez vous ? une nouvelle guerre des plateformes</a>. Google Gears + Le Web Ouvert / Le Web ouvert avec HTML 5 / Silverlight / Flash. Je pense que cela sera l'objet de ma prochaine s?rie de billets, d?s que Firefox 3 sera sorti et moi repos?e :-)&nbsp;;</li>
+<li><a href="http://www.pcworld.com/article/id,147036-pg,1/article.html" hreflang="en">Bill Gates: 10 Memorable Moments</a>. Je retiendrai en particulier deux choses&nbsp;:
+<ul>
+<li>Du bon&nbsp;: le lancement de Win95 (ah, enfin une pile TCP/IP en standard, qui permet de se connecter nativement ? Internet sans trop de contorsion !)&nbsp;;</li>
+<li>Du mauvais&nbsp;: le passage dans le proc?s anti-trust, o? ses mensonges flagrants me faisaient hurler devant mon ?cran. Comme le pr?cise l'article&nbsp;: "Windows has always had problems with memory management; evidently Gates does too." Bien s?r, ?a va de pair avec le fait que Microsoft ait ?vit? la sanction apr?s avoir ?t? reconnu coupable d'abus de position dominante (merci Bush)...</li>
+</ul></li>
+<li>Paul Thurrott, auteur de WinSuperSite.com et grand fan des produits Microsoft, <a href="http://www.winsupersite.com/reviews/firefox3.asp" hreflang="en">recommande chaudement Firefox 3</a>. C'est toujours sympa d'avoir des compliments de la part de quelqu'un qui est un fan de Microsoft. Mais au del?, j'ai trouv? fascinant de constater que Paul a un syst?me de suivi du temps qu'il passe dans les applications, et qu'il <a href="http://wakoopa.com/thurrott" hreflang="en">publie cette information</a>. J'en ai fait une <a href="http://www.flickr.com/photos/nitot/2585387756/sizes/o/">copie d'?cran</a>. En gros, Firefox est utilis? presque 3 fois plus que l'appli en 2eme position, qui est Word. En substance, c'est sans le vouloir que Paul Thurrott, fan absolu de Windows, d?montre la v?racit? de la boutade que j'?nonce parfois&nbsp;: "le syst?me d'exploitation n'est qu'une collection de <em>drivers</em> qui sert ? faire tourner un navigateur"...</li>
+</ul>
+<div class="footnotes"><h4>Notes</h4>
+<p>[<a href="#rev-pnote-3549-1" id="pnote-3549-1">1</a>] Digital Rights Management - Moyens Techniques de Protection.</p>
+<p>[<a href="#rev-pnote-3549-2" id="pnote-3549-2">2</a>] On pense qu'il voulait dire par l? les "brevets logiciels".</p></div>
+</div>
+    
+                        </div>
+    
+          <div class="post  ">
+
+        
+    <h2 id="p3548" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/16/Tout-savoir-sur-Firefox-3">Tout savoir sur Firefox 3</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le lundi 16 juin 2008, 09:12        - <a href="http://standblog.org/blog/category/Mozillaeurope">Mozilla-Europe</a>
+        </p>
+    
+        <ul class="post-tags">    <li><a href="http://standblog.org/blog/tag/fx3">fx3</a></li>
+    </ul>    
+    
+          <div class="post-content"><p>La sortie de Firefox 3 est pr?vue pour demain soir, 17 juin 2008. Si vous vous demandez ce qu'apporte cette nouvelle version, il y avait jusqu'? pr?sent un billet de ma coll?gue <a href="http://www.dria.org/wordpress/archives/2008/06/12/655/" hreflang="en">Deb Richardson</a>, qui avait comme principal d?faut d'?tre ?crit en anglais. Je r?vais de le voir en fran?ais, mais en ce moment...</p>
+
+
+<p>Et puis les p'tits gars de l'indispensable <em>Framalang</em><sup>[<a href="#pnote-3548-1" id="rev-pnote-3548-1">1</a>]</sup> ont publi? sur l'excellent <a href="http://www.framablog.org/" hreflang="fr">Framablog</a> la traduction que j'attendais&nbsp;: <a href="http://www.framablog.org/index.php/post/2008/06/16/firefox-3-bientot-sur-vos-ecrans" hreflang="fr">Firefox&nbsp;: Et 1, et 2, et 3.0 !</a>.</p>
+
+
+<p>Attention, les th?mes abord?s sont nombreux. Jugez plut?t&nbsp;:</p>
+
+<ol>
+<li>Gestionnaire de modules compl?mentaires</li>
+<li>Marque-pages</li>
+<li>Feuilles de style (CSS)</li>
+<li>Support des profils de couleurs</li>
+<li>Gestionnaire de t?l?chargements</li>
+<li>Rendu des polices et des textes</li>
+<li>Zoom plein ?cran</li>
+<li>Historique</li>
+<li>Canvas HTML</li>
+<li>Support UTF-8 dans la barre de navigation</li>
+<li>Protection contre les malwares</li>
+<li>Interface microformats</li>
+<li>Support des applications web hors connexion</li>
+<li>Gestionnaire de mots de passe</li>
+<li>Am?liorations de performance</li>
+<li>Protection contre le phishing</li>
+<li>Plugins</li>
+<li>Bouton d'identification de site</li>
+<li>Barre d'adresse intelligente</li>
+<li>Onglets</li>
+<li>Th?mes</li>
+<li>Flux vid?o et audio</li>
+<li>Support des contr?les parentaux de Vista</li>
+<li>Gestion des protocoles par des applications web</li>
+</ol>
+
+<p>Foncez lire <a href="http://www.framablog.org/index.php/post/2008/06/16/firefox-3-bientot-sur-vos-ecrans" hreflang="fr">la description des nouveaut?s de Firefox 3</a>&nbsp;!</p>
+
+
+<p>Les plus press?s se concentreront sur l'article de 20 Minutes du jour, <a href="http://www.20minutes.fr/article/237275/High-Tech-Firefox-3-une-version-de-vieux-renard.php" hreflang="fr">Firefox 3, une version de vieux renard</a>.</p>
+<div class="footnotes"><h4>Notes</h4>
+<p>[<a href="#rev-pnote-3548-1" id="pnote-3548-1">1</a>] Longue vie ? eux, et en particulier Yonnel (traduction), Olivier et Yostral (relecture), et Alexis (publication)</p></div>
+</div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/16/Tout-savoir-sur-Firefox-3#comments" class="comment_count">15 commentaires</a>
+                      </p>
+        </div>
+    
+          <div class="post odd ">
+
+    <p class="day-date">dimanche 15 juin 2008</p>    
+    <h2 id="p3547" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/15/Planete-accessibilite">Plan?te accessibilit?</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le dimanche 15 juin 2008, 10:51        - <a href="http://standblog.org/blog/category/Accessibilite">Accessibilit?</a>
+        </p>
+    
+    
+    
+          <div class="post-content"><p>Depuis quelques heures et gr?ce ? S?bastien Delorme, la <a href="http://standblog.org/blog/feed/category/Accessibilite/rss2" hreflang="fr">cat?gorie accessibilit? du Standblog</a> est d?sormais syndiqu?e sur <a href="http://planete-accessibilite.com/" hreflang="fr">planete-accessibilite.com</a>.</p>
+
+
+<p>Si jamais l'accessibilit? est un aspect du Web qui vous touche, vous savez dor?navant o? vous rendre pour avoir une <a href="" hreflang="fr">vue d'ensemble de l'accessibilit? Web francophone</a>.</p>
+
+
+<p>Et si c'est un truc qui ne vous touche pas et que vous faites du d?veloppement Web, permettez moi aussi amicalement que possible de vous signaler que c'est une grave lacune. <a href="http://openweb.eu.org/articles/intro_accessibilite/" hreflang="fr">Voici pourquoi</a><sup>[<a href="#pnote-3547-1" id="rev-pnote-3547-1">1</a>]</sup>. Mais tout espoir n'est pas perdu, voici <a href="http://openweb.eu.org/accessibilite/" hreflang="fr">plein d'articles sur le sujet de l'accessibilit?</a>, et puis maintenant vous avez <a href="http://planete-accessibilite.com/" hreflang="fr">planete-accessibilite.com</a> pour vous tenir au courant de l'actualit? dans ce domaine&nbsp;!</p>
+
+
+<p>Pour conclure, une citation de Tim Berners-Lee, inventeur du Web&nbsp;:</p>
+
+
+<blockquote><p>The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect.</p></blockquote>
+
+
+<p>En fran?ais&nbsp;:</p>
+
+
+<blockquote><p>La puissance du Web tient ? son universalit?. L'acc?s par chacun, quelque soit son handicap, en est un aspect essentiel.</p></blockquote>
+<div class="footnotes"><h4>Notes</h4>
+<p>[<a href="#rev-pnote-3547-1" id="pnote-3547-1">1</a>] Dire que ?a fait 5 ans que j'ai ?cris ce texte...</p></div>
+</div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/15/Planete-accessibilite#comments" class="comment_count">9 commentaires</a>
+                      </p>
+        </div>
+    
+          <div class="post  ">
+
+    <p class="day-date">samedi 14 juin 2008</p>    
+    <h2 id="p3546" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/14/Citation-du-jour-%3A-Asa-a-propos-dIE">Citation du jour : Asa ? propos d'IE</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le samedi 14 juin 2008, 09:24        - <a href="http://standblog.org/blog/category/Navigateurs">Navigateurs</a>
+        </p>
+    
+        <ul class="post-tags">    <li><a href="http://standblog.org/blog/tag/fx3">fx3</a></li>
+                <li><a href="http://standblog.org/blog/tag/ie">ie</a></li>
+                <li><a href="http://standblog.org/blog/tag/opera">opera</a></li>
+                <li><a href="http://standblog.org/blog/tag/safari">safari</a></li>
+                <li><a href="http://standblog.org/blog/tag/silverlight">silverlight</a></li>
+    </ul>    
+    
+          <div class="post-content"><p>Il fallait quand m?me oser poser <a href="http://www.favbrowser.com/an-interview-with-asa-dotzler-mozilla/" hreflang="en">cette question</a> ? mon coll?gue Asa Dotzler&nbsp;:</p>
+
+
+<blockquote><p>Est-ce qu'il y a quelque chose que vous aimez chez Internet Explorer&nbsp;?</p></blockquote>
+
+
+<p>Sa r?ponse, traduite par mes soins&nbsp;:</p>
+
+
+<blockquote><p>J'aime la direction que prend l'?quipe d'IE quant ? leur support des standards. Il ont fait quelques changements positifs dans IE 7 et ont promis beaucoup plus pour IE 8. S'ils tiennent ces promesses et qu'ils aident ? pousser les standards du Web, alors c'est une bonne chose. Safari fait aussi du bon boulot en impl?mentant des standards existants ou ? venir. Si on continue tous les trois dans cette direction, on peut vraiment faire avancer le Web. C'est la promesse des standards en action.</p></blockquote>
+
+
+<p>Je suis tout ? fait d'accord avec Asa sur le sujet. Toutefois, j'aurais nomm? Opera dans ma r?ponse. Opera a un tr?s bon support des standards, et m?me si sur le bureau ils ont malheureusement tr?s peu d'utilisateurs, ils ont une bonne pr?sence sur le Mobile, ce qui est important pour l'avenir.</p>
+
+
+<p>Par ailleurs, m?me si Microsoft tient ses promesses quant ? CSS, HTML, DOM et JavaScript, s'ils reconnaissent qu'ils ont tout ? perdre ? ?tre en retard sur les standards, ils ont pour objectif d'imposer une technologie propri?taire et non standard&nbsp;: <em>Silverlight</em>. Je reviendrai sur ce sujet, qui est tr?s important pour l'avenir du Web ouvert.</p></div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/14/Citation-du-jour-%3A-Asa-a-propos-dIE#comments" class="comment_count">13 commentaires</a>
+                      </p>
+        </div>
+    
+          <div class="post odd ">
+
+    <p class="day-date">jeudi 12 juin 2008</p>    
+    <h2 id="p3545" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/12/Sortie-dOpera-95">Sortie d'Opera 9.5</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le jeudi 12 juin 2008, 15:38        - <a href="http://standblog.org/blog/category/Navigateurs">Navigateurs</a>
+        </p>
+    
+        <ul class="post-tags">    <li><a href="http://standblog.org/blog/tag/opera">opera</a></li>
+    </ul>    
+    
+          <div class="post-content"><p>Visiblement, <a href="http://technology.timesonline.co.uk/tol/news/tech_and_web/article4097955.ece" hreflang="en">Opera est sorti</a>. <a href="http://www.flickr.com/photos/nitot/2572054115/">Je n'ai pas r?ussi ? le t?l?charger</a><sup>[<a href="#pnote-3545-1" id="rev-pnote-3545-1">1</a>]</sup>, mais d?s que j'y arrive, je vous dis ce que j'en pense. Dans tous les cas, j'ai d?j? f?licit? Jon S. von Tetzchner par email, et je vous r?serve une petite surprise dans les jours prochains, qui risque de surprendre les fans d'Opera <img src="/dotclear2/themes/default/smilies/wink.png" alt=";-)" class="smiley" /></p>
+
+<ul>
+<li>La version finale est sortie 2 jours apr?s la <a href="http://www.techtree.com/India/News/Opera_95_RC_1_Now_Download-able/551-90144-643.html" hreflang="en">RC1</a>, ce qui a surpris un peu tout le monde.</li>
+<li>On voit arriver des technologies <em>anti-phishing</em> et <em>anti-malware</em> (et c'est bien, Safari ferait bien de s'en inspirer)</li>
+<li>Le support des standards est toujours un vrai bonheur <img src="/dotclear2/themes/default/smilies/laugh.png" alt=":-D" class="smiley" /></li>
+<li>Les communaut?s de localisation (<a href="http://my.opera.com/nafmo/blog/2008/06/11/opera-9-5-coming-very-soon#comment5471632" hreflang="en">Pologne</a>, <a href="http://my.opera.com/nafmo/blog/show.dml/2206914#comment5469668" hreflang="en">Br?sil</a>, Su?de) affirment <a href="http://my.opera.com/nafmo/blog/2008/06/11/opera-9-5-coming-very-soon" hreflang="en">ne pas avoir fini leur travail</a> et semblent s'inqui?ter de voir sortir cette version pr?matur?ment.</li>
+</ul>
+
+<p><strong>Mise ? jour&nbsp;: </strong> Le site d'Opera est retomb? en march?, j'ai pu le t?l?charger. Est-ce que quelqu'un sait comment faire un rapport de bogue&nbsp;? J'ai un <a href="http://www.flickr.com/photos/nitot/2573104750/">souci de localisation</a> avec leur gestionnaire de mot de passe et je souhaite leur signaler.</p>
+<div class="footnotes"><h4>Notes</h4>
+<p>[<a href="#rev-pnote-3545-1" id="pnote-3545-1">1</a>] Je me garde bien de me moquer : nous ne sommes pas ? l'abri d'une m?saventure du m?me genre, m?me si nous sommes pr?par?s...</p></div>
+</div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/12/Sortie-dOpera-95#comments" class="comment_count">30 commentaires</a>
+                      </p>
+        </div>
+    
+          <div class="post  ">
+
+        
+    <h2 id="p3544" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/12/La-barre-geniale-en-video">La barre g?niale en vid?o</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le jeudi 12 juin 2008, 14:49        </p>
+    
+        <ul class="post-tags">    <li><a href="http://standblog.org/blog/tag/awesomebar">awesomebar</a></li>
+                <li><a href="http://standblog.org/blog/tag/fx3">fx3</a></li>
+                <li><a href="http://standblog.org/blog/tag/video">video</a></li>
+    </ul>    
+    
+          <div class="post-content"><p>On me demande souvent ce qu'est la barre g?niale, alors voici une petite d?mo en vid?o&nbsp;:</p>
+
+<div class="external-media" style="margin: 1em auto; text-align: center;">
+<object type="application/x-shockwave-flash" data="http://www.youtube.com/v/yFrZL2bnrRc&amp;hl=en" width="425" height="350">
+  <param name="movie" value="http://www.youtube.com/v/yFrZL2bnrRc&amp;hl=en" />
+  <param name="wmode" value="transparent" />
+</object>
+<br />La Awesome bar de Firefox 3, expliqu?e en fran?ais !
+</div>
+
+
+
+<p>Pour un truc plus long, mieux fait avec un Tristan moins fatigu?, <a href="http://www.clubic.com/actualite-141952-video-tristan-nitot-mozilla-firefox.html" hreflang="fr">Clubic a une excellente demo de Firefox 3</a>.</p></div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/12/La-barre-geniale-en-video#comments" class="comment_count">12 commentaires</a>
+                      </p>
+        </div>
+    
+          <div class="post odd ">
+
+        
+    <h2 id="p3543" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/12/Firefox-3-sortira-le-17-juin-au-soir">Firefox 3 sortira le 17 juin au soir</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le jeudi 12 juin 2008, 13:05        - <a href="http://standblog.org/blog/category/Mozillaeurope">Mozilla-Europe</a>
+        </p>
+    
+        <ul class="post-tags">    <li><a href="http://standblog.org/blog/tag/fx3">fx3</a></li>
+    </ul>    
+    
+          <div class="post-content"><p>Voil?, c'est officiel, nous venons d'annoncer, cette nuit, la sortie de Firefox 3, qui est pr?vue pour le 17 juin 2008. Comme ce sont mes coll?gues am?ricains qui appuient sur le bouton, et comme il y a 9h de d?calage horaire entre la France et la Californie, ?a devrait en fait se passer dans la nuit du 17 au 18 pour les europ?ens.</p>
+
+
+<p>Du coup, cela signifie qu'on conna?t maintenant la date du fameux <a href="http://www.spreadfirefox.com/fr/worldrecord/" hreflang="fr">Download Day</a>&nbsp;: le 18 pour l'Europe. Si vous ne l'avez pas encore fait, il n'est pas trop tard pour faire votre <a href="" hreflang="fr">promesse de t?l?chargement</a> (il ne faut pas se laisser distancer par les polonais et les br?siliens !)</p>
+
+<ul>
+<li><a href="http://twitter.com/mozillafirefox/statuses/832631250" hreflang="en">Annonc? sur Twitter</a> et sur <a href="http://developer.mozilla.org/devnews/index.php/2008/06/11/coming-tuesday-june-17th-firefox-3/" hreflang="en">Mozilla Devnews</a>&nbsp;;</li>
+<li><a href="http://twitter.com/beltzner/statuses/832622733" hreflang="en">repris par Mike Beltzner</a>&nbsp;;</li>
+<li><a href="http://blog.lizardwrangler.com/2008/06/11/firefox-3-coming-very-soon/" hreflang="en">et Mitchell Baker</a>&nbsp;;</li>
+<li><a href="http://www.0xdeadbeef.com/weblog/?p=384" hreflang="en">et Chris Blizzard</a> "I love the smell of software in the morning." <img src="/dotclear2/themes/default/smilies/wink.png" alt=";-)" class="smiley" /></li>
+<li><a href="http://www.intothefuzz.com/2008/06/11/victory/" hreflang="en">et John Slater</a>, qui nous offre m?me un visuel pour l'occasion <img src="/dotclear2/themes/default/smilies/laugh.png" alt=":-D" class="smiley" /> (forc?ment, c'est son boulot), dans la droite ligne des <a href="http://www.flickr.com/photos/8345192@N03/sets/72157605179678562/">diff?rents robots</a>&nbsp;:</li>
+</ul>
+
+
+<p><a href="http://farm3.static.flickr.com/2308/2571283860_cb4d793aa0_b.jpg"><img src="http://farm3.static.flickr.com/2308/2571283860_cb4d793aa0.jpg" alt="Firefox Victory" /></a></p>
+
+
+<p><em><a href="http://www.flickr.com/photos/8345192@N03/2571283860/">Firefox Victory</a></em></p></div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/12/Firefox-3-sortira-le-17-juin-au-soir#comments" class="comment_count">11 commentaires</a>
+                      </p>
+        </div>
+    
+          <div class="post  ">
+
+        
+    <h2 id="p3542" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/12/Et-une-RC3-pour-Firefox-3">Et une RC3 pour Firefox 3 !</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le jeudi 12 juin 2008, 00:42        - <a href="http://standblog.org/blog/category/Mozillaeurope">Mozilla-Europe</a>
+        </p>
+    
+        <ul class="post-tags">    <li><a href="http://standblog.org/blog/tag/fx3">fx3</a></li>
+    </ul>    
+    
+          <div class="post-content"><p>Mike Beltzner vient d'annoncer sur le blog des d?veloppeurs qu'il y a une <a href="http://developer.mozilla.org/devnews/index.php/2008/06/11/third-firefox-3-release-candidate-available-for-download/" hreflang="en">RC3 pour Firefox 3</a>. Elle ne corrige qu'<a href="https://bugzilla.mozilla.org/show_bug.cgi?id=436575" hreflang="en">un seul bogue, sur Mac</a>, une r?gression introduite par Apple lors de la sortie d'OS X 10.5.3 et qui touche plusieurs logiciels, dont Firefox (et pas seulement la version 3). Ce bogue arrive par surprise et plante tout le syst?me.</p>
+
+
+<p>A croire que <a href="http://www.silicon.fr/fr/news/2008/06/11/une_rc3_surprise_pour_firefox_3" hreflang="fr">Silicon.fr a pos? des micros chez nous</a> <img src="/dotclear2/themes/default/smilies/wink.png" alt=";-)" class="smiley" /></p>
+
+
+<p>La sortie officielle de Firefox 3 est maintenant une question de jours&nbsp;! (oui, c'est du <em>teasing</em> !) Au fait, vous vous ?tes enregistr? pour aider la communaut? ? ?tablir le premier <a href="http://www.spreadfirefox.com/fr/worldrecord/" hreflang="fr">record du monde des t?l?chargements</a> en 24 heures&nbsp;?</p></div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/12/Et-une-RC3-pour-Firefox-3#comments" class="comment_count">7 commentaires</a>
+                      </p>
+        </div>
+    
+          <div class="post odd ">
+
+    <p class="day-date">mercredi 11 juin 2008</p>    
+    <h2 id="p3541" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/11/Actu-Mozilla">Actu Mozilla</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le mercredi 11 juin 2008, 19:14        - <a href="http://standblog.org/blog/category/Mozillaeurope">Mozilla-Europe</a>
+        </p>
+    
+        <ul class="post-tags">    <li><a href="http://standblog.org/blog/tag/macosx">macosx</a></li>
+                <li><a href="http://standblog.org/blog/tag/textalicious">textalicious</a></li>
+                <li><a href="http://standblog.org/blog/tag/yoono">yoono</a></li>
+    </ul>    
+    
+          <div class="post-content"><ul>
+<li><a href="http://www.befox.be/firefox-3-release-candidate-3-necessaire-pour-mac-osx" hreflang="fr">Firefox 3 Release Candidate 3 n?cessaire pour Mac OSX</a>. En effet, Apple avec la version 10.5.3 (version tout juste sortie) vient d'introduire une regression qui fait planter plusieurs logiciels, dont Firefox 3 RC2. On va disposer tr?s rapidement d'un correctif cot? Firefox qui sera dans une RC3&nbsp;;</li>
+<li>Tiens, pendant qu'on parle de Firefox 3 et de Mac, Josh Aas, qui s'occupe de la version mac <a href="http://boomswaggerboom.wordpress.com/2008/06/10/firefox-3-for-mac-os-x-under-the-hood/" hreflang="en">va faire un tour sous le capot de Fx3 sur OS X</a>. Pour simplifier, on passe de <em>Carbon</em> ? <em>Cocoa</em> et de <em>QuickDraw</em> ? <em>CoreGraphics</em>.&nbsp;;</li>
+<li><em>Les Echos</em>&nbsp;: <a href="http://www.lesechos.fr/journal20080610/lec2_innovation/4736849.htm" hreflang="fr">Mozilla pr?t ? lancer Firefox 3</a>. "Microsoft pris de vitesse par une fondation de 160 salari?s." Ca fait tr?s plaisir de voir les logiciels Libres cit?s dans <em>Les Echos</em>&nbsp;;</li>
+<li><a href="http://www.tt-hardware.com/modules.php?name=News&amp;file=article&amp;sid=11679" hreflang="fr">Firefox majoritaire sur TT-hardware.com</a>. IE7 ? moins de 30%. IE6 toujours ? plus de 10%. Meurs IE6, meurs&nbsp;!</li>
+<li>Oui, un <a href="http://icanhascheezburger.com/2008/06/10/funny-pictures-restore-session-yn/" hreflang="en">crash Firefox</a>, ?a peut ?tre mignon <img src="/dotclear2/themes/default/smilies/wink.png" alt=";-)" class="smiley" /> Merci ? Florence G. , gentille lectrice, pour le lien&nbsp;!</li>
+<li><em>20 Minutes</em> ? propos de <a href="http://www.20minutes.fr/article/235995/High-Tech-Testez-Yoono2-le-module-qui-vous-sevre-de-Facebook.php" hreflang="fr">Yoono2</a>&nbsp;;</li>
+<li><a href="http://www.dria.org/wordpress/archives/2008/06/10/651/" hreflang="en">Polices de caract?res et le texte dans Firefox 3</a>. Voil? un sujet connexe qui me tient ? coeur, ?tant un modeste amateur de polices, compte tenu de la po?sie qu'elles d?gagent (tout en ayant une complexit? et une rigueur sous-jacentes). Et si vous voulez exp?rimenter vous m?me, allez donc voir le vieux billet de ROC, <a href="http://weblogs.mozillazine.org/roc/archives/2007/09/textalicious.html" hreflang="en">Textalicious</a> (il faut disposer de <em>Zapfino</em>  sur Mac ou sinon de <em>DejaVu Sans</em> sur GNU/Linux). Sinon, on se reportera ? ma <a href="http://www.flickr.com/photos/nitot/2056959469/">copie d'?cran</a>. On notera que les ligatures, si elles sont sympa pour les polices occidentales, sont par contre indispensables pour afficher correctement l'arabe et autres langues non-alphab?tiques...</li>
+<li>A propos de video dans HTML 5&nbsp;: <a href="http://weblogs.mozillazine.org/gerv/archives/2008/06/html5_video_codec_downloader.html" hreflang="en">Comment on pourrait chercher les codecs ad-hoc</a>. Si vous avez envie d'?crire la chose, la porte vous est ouverte&nbsp;!</li>
+<li>Mon coll?gue David Tenser a besoin de vous&nbsp;! En effet, il a lanc? le <a href="http://www.spreadfirefox.com/screencastcontest" hreflang="en">Firefox Screencast Contest</a> il y a quelques semaines, et <a href="http://blog.mozilla.com/sumo/2008/06/10/firefox-screencast-contest-ending-next-sunday/" hreflang="en">la fin du concours arrive d?s ce week-end</a>. Pour participer, il suffit d'installer une version <em>anglaise</em> de <a href="http://www.mozilla.com/en-US/firefox/all-rc.html" hreflang="en">Firefox 3 RC2</a> (ou 3) sur Windows ou Mac et d'utiliser le site Jing.com (oui, c'est du Flash et ?a ne fonctionne pas sous Linux, mais attendez donc qu'on mette la video native dans le navigateur, voir le point pr?c?dent <img src="/dotclear2/themes/default/smilies/wink.png" alt=";-)" class="smiley" /> ).</li>
+</ul></div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/11/Actu-Mozilla#comments" class="comment_count">5 commentaires</a>
+                      </p>
+        </div>
+    
+          <div class="post  ">
+
+        
+    <h2 id="p3540" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/11/Actu-du-Libre-et-des-standards">Actu du Libre et des standards</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le mercredi 11 juin 2008, 19:11        - <a href="http://standblog.org/blog/category/Standards">Standards</a>
+        </p>
+    
+        <ul class="post-tags">    <li><a href="http://standblog.org/blog/tag/ooxml">ooxml</a></li>
+                <li><a href="http://standblog.org/blog/tag/racketiciel">racketiciel</a></li>
+    </ul>    
+    
+          <div class="post-content"><ul>
+<li>Le 3 juillet prochain va se d?rouler une <a href="http://www.pcinpact.com/actu/news/44094-vente-DGCCRF-liee-detaxe-chatel.htm" hreflang="fr">r?union d?cisive sur la vente li?e ordinateur - Windows</a>, qui devrait ?tre interdite (ou du moins, on devrait voir appara?tre le prix de Windows dans le prix total de la configuration, ainsi que la possibilit? pour l'acheteur de refuser le payer Windows s'il souhaite utiliser un autre syst?me). Le gouvernement finira-t-il par faire respecter la loi&nbsp;? <a href="http://www.racketiciel.info/" hreflang="fr">Plus d'info sur Racketiciel.info</a>&nbsp;;</li>
+<li>Podcast&nbsp;: <a href="http://www.declencheur.com/clic/archives/2008/05/sortir-bulle-conserver-fichiers-photo" hreflang="fr">quand un expert comptable vous met en garde contre les formats ferm?s... en photographie</a>. On notera que la probl?matique est la m?me ? tous les niveaux. Voil? pourquoi je me bats pour les standards&nbsp;!</li>
+<li><a href="http://www.iso.org/iso/pressrelease.htm?refid=Ref1136" hreflang="en">OpenXML en panne ? l'ISO</a> gr?ce au Br?sil, le V?n?zuela, l'Inde et l'Afrique du Sud. La France, pour sa part, n'a rien trouv? ? redire...   alors que l'ISO a du se fendre d'un communiqu? de presse. <em>No comment</em>. (<a href="http://linuxfr.org/2008/06/11/24201.html" hreflang="fr">voir aussi sur [LinuxFR</a> )</li>
+<li>Neelie Kroes (Commission Europ?enne, en charge de la concurrence) <a href="http://ap.google.com/article/ALeqM5i4iqljJgSSEwEP9YFy6lPDS1okAAD917BLT87" hreflang="en">d?clare</a> que l'utilisation des formats ouverts "est une d?cision tr?s intelligente pour les entreprises"&nbsp;;</li>
+</ul></div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/11/Actu-du-Libre-et-des-standards#comments" class="comment_count">un commentaire</a>
+                      </p>
+        </div>
+    
+          <div class="post odd ">
+
+        
+    <h2 id="p3539" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/11/Plus-dexcuse-pour-etre-nul-en-conjugaison">Plus d'excuse pour ?tre nul en conjugaison !</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le mercredi 11 juin 2008, 11:25        - <a href="http://standblog.org/blog/category/Mozillaeurope">Mozilla-Europe</a>
+        </p>
+    
+        <ul class="post-tags">    <li><a href="http://standblog.org/blog/tag/fx3">fx3</a></li>
+    </ul>    
+    
+          <div class="post-content"><p>J'ai d?jeun? avec Gilles Fontaine, r?dac' chef de Challenges et auteur ? ses heures perdues du <a href="http://tech.blogs.challenges.fr/" hreflang="fr">blog Tech</a> (qui <a href="http://tech.blogs.challenges.fr/archive/2008/06/11/mozilla-va-battre-un-record-avec-firefox-3.html" hreflang="fr">recommande</a> d'ailleurs de participer au <a href="http://www.spreadfirefox.com/fr/worldrecord/" hreflang="fr">Download Day</a>). Il me demandait si j'avais une astuce amusante ? lui fournir. En voici une qui est la combinaison de deux astuces rigolotes. Elle permet ? Firefox de vous aider ? vous y retrouver dans la conjugaison des verbes de la langue fran?aise d'un seul petit coup de <em>Barre g?niale</em>. Voici comment proc?der&nbsp;:</p>
+
+<ol>
+<li>Installer le plug-in de recherche <a href="http://mycroft.mozdev.org/download.html?name=leconjugueur&amp;category=all&amp;country=all&amp;language=all&amp;submitform=Search&amp;opensearch=yes" hreflang="en">Le Conjugueur</a></li>
+<li>Assigner ? ce nouveau moteur de recherche un mot cl?. Pour cela&nbsp;:
+<ol>
+<li>Cliquer sur l'ic?ne qui se trouve dans la barre de recherche en haut ? droite de la fen?tre de navigation (par d?faut, c'est le G de Google qui est affich?).</li>
+<li>S?lectionner <code>G?rer les moteurs de recherche...</code></li>
+<li>Cliquer sur <em>Le Conjugueur</em></li>
+<li>cliquer sur <code>Modifier le mot-cl?...</code></li>
+<li>Saisir par exemple <code>lc</code> (initiales de <strong>L</strong>e <strong>C</strong>onjugueur, faut-il le pr?ciser ?) puis valider.</li>
+</ol></li>
+<li>Tester le bon fonctionnement de l'astuce&nbsp;:
+<ol>
+<li>Aller dans la barre d'adresse par exemple en cliquant avec la souris ou, mieux, en tapant <code>ctrl-L</code>.</li>
+<li>saisir <code>lc avoir</code> pour conjuguer le verbe <em>avoir</em></li>
+<li>voir s'afficher <a href="http://www.leconjugueur.com/php5/index.php?v=avoir" hreflang="fr">http://www.leconjugueur.com/php5/index.php?v=avoir</a>.</li>
+</ol></li>
+</ol>
+
+<p>J'esp?re que cette astuce vous sera utile. Je remercie <a href="http://chevrel.org/">Pascal</a> qui m'a parl? du Conjugueur il y a plusieurs mois maintenant, et aussi <a href="http://blog.mozbox.org/" hreflang="fr">Paul</a>, pour son <a href="http://blog.mozbox.org/post/2008/06/08/Utiliser-vos-moteurs-de-recherche-avec-lawesome-bar" hreflang="fr">article</a> sur les <em>smart keywords</em> associ?s aux moteurs de recherche...</p></div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/11/Plus-dexcuse-pour-etre-nul-en-conjugaison#comments" class="comment_count">26 commentaires</a>
+                      </p>
+        </div>
+    
+          <div class="post  ">
+
+    <p class="day-date">mardi 10 juin 2008</p>    
+    <h2 id="p3538" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/10/En-vrac-en-direct-de-Paris">En vrac, en direct de Paris</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le mardi 10 juin 2008, 18:04        - <a href="http://standblog.org/blog/category/En-vrac">En vrac</a>
+        </p>
+    
+        <ul class="post-tags">    <li><a href="http://standblog.org/blog/tag/fx3">fx3</a></li>
+                <li><a href="http://standblog.org/blog/tag/iphone">iphone</a></li>
+                <li><a href="http://standblog.org/blog/tag/ooxml">ooxml</a></li>
+                <li><a href="http://standblog.org/blog/tag/petrole">petrole</a></li>
+                <li><a href="http://standblog.org/blog/tag/ubuntu">ubuntu</a></li>
+    </ul>    
+    
+          <div class="post-content"><p>(bah oui, pour une fois que je suis au bureau, ?a vaut la peine de le dire <img src="/dotclear2/themes/default/smilies/wink.png" alt=";-)" class="smiley" /> )</p>
+
+<ul>
+<li><a href="http://blog.mozilla.com/schrep/2008/06/09/where-are-we-with-firefox-3/" hreflang="en">Firefox 3 a d?j? 2 millions d'utilisateurs actifs avant sa sortie</a> <img src="/dotclear2/themes/default/smilies/laugh.png" alt=":-D" class="smiley" /> . LA version finale devrait sortir dans quelques jours en 48 langues</li>
+<li><a href="http://mossblog.allthingsd.com/20080609/the-3g-iphone-first-impressions/" hreflang="en">The 3G iPhone: First Impressions</a>. En gros 3G et 199$. En plus, <a href="http://www.apple.com/fr/mobileme/" hreflang="en">.Mac est renomm? en MobileMe</a>. <a href="http://robert.accettura.com/blog/2008/06/09/wwdc-2008-analysis/" hreflang="en">Robert Accentura a une bonne couverture de la WWDC</a>, y compris sur <a href="http://gizmodo.com/5014789/snow-leopard-revealed-multi+core-optimized-gpu-lovin-os-upgrade-due-in-one-year" hreflang="en">Snow Leopard</a> (<a href="http://www.apple.com/macosx/snowleopard/" hreflang="en">aussi chez Apple</a>)&nbsp;;</li>
+<li>Dans le cadre du <a href="http://www.spreadfirefox.com/fr/worldrecord/" hreflang="fr">Download Day</a>, une fa?on amusante de faire conna?tre Firefox 3, <a href="http://blog.frenchmozilla.fr/index/post/2008/06/10/La-France-passe-le-cap-des-50-000-promesses-de-telechargements" hreflang="fr">La France passe le cap des 50 000 promesses de t?l?chargements</a>&nbsp;! Et d'apr?s la <a href="http://www.spreadfirefox.com/fr/worldrecord/" hreflang="fr">carte du monde en temps r?el</a>, on devrait atteindre le million de promesses de t?l?chargement d?s ce soir&nbsp;!</li>
+<li>Mark Shuttleworth: <a href="http://www.markshuttleworth.com/archives/151" hreflang="en">Netbooks pre-loaded with Ubuntu</a>. Mon petit doigt me dit que chez Mandriva (mes voisins de bureau), on ne reste pas les doigts crois?s. J'ai m?me aper?u un prototype tr?s prometteur, compl?mentaire d'une m?moire Flash USB...</li>
+<li><a href="http://blog.wired.com/cars/2008/06/rising-gas-pric.html" hreflang="en">Comment la hausse des prix de l'essence a tu? le march? du 4x4</a>. Les ventes de <acronym title="Sports Utility Vehicle - 4x4">SUV</acronym> on baiss? de 37% chez General Motors le mois dernier. Du coup, le groupe vend sa <a href="http://www.guardian.co.uk/business/2008/jun/08/generalmotors.automotive" hreflang="en">filiale Hummer</a>. Pour une poign?e de clopinettes, j'imagine&nbsp;;</li>
+<li>C'est Mr Peer qui a lanc? l'id?e du <a href="http://386a.net/blog/2008/06/08/les-dinosaures-des-blogs/" hreflang="fr">Label Dinoblogueur</a>.
+<ul>
+<li>Le Capitaine est <a href="http://embruns.net/logbook/2008/06/08.html#006563" hreflang="fr">277 av. LLM</a></li>
+<li><a href="http://padawan.info/fr/" hreflang="fr">Padawan</a> est <a href="http://embruns.net/logbook/2008/06/08.html#c63825" hreflang="fr">296 av. LLM</a></li>
+<li>Je suis <a href="http://www.timeanddate.com/date/durationresult.html?d1=18&amp;m1=07&amp;y1=2002&amp;d2=29&amp;m2=09&amp;y2=2003" hreflang="en">438 avant LLM</a></li>
+<li>Daniel est <a href="http://www.glazman.org/weblog/dotclear/index.php?post/2008/06/09/Dinoblogueurs" hreflang="fr">522 avant LLM</a>&nbsp;;</li>
+</ul></li>
+<li><a href="http://news.bbc.co.uk/1/hi/technology/7445956.stm" hreflang="en">La BBC ? propos des plaintes du Br?sil, de l'Inde, de l'Afrique du Sud et du Venezuela</a>. Int?ressant de voir un tel sujet appara?tre dans un grand m?dia comme la BBC&nbsp;! <em>Mise ? jour: </em> <a href="http://www.lepoint.fr/actualites-technologie-internet/microsoft-peine-a-faire-accepter-son-futur-format-bureautique/1387/0/250165" hreflang="fr">Le Point enfonce le clou</a>&nbsp;!</li>
+<li>Paul Rouget m'apprend un truc (alors que je suis d?j? utilisateur des Smart Keywords)&nbsp;: <a href="http://blog.mozbox.org/post/2008/06/08/Utiliser-vos-moteurs-de-recherche-avec-lawesome-bar" hreflang="fr">Utiliser vos moteurs de recherche avec l'awesome bar</a>&nbsp;;</li>
+<li><a href="http://www.lemonde.fr/technologies/article/2008/06/06/le-grand-filtrage-des-internautes-francais-va-bientot-commencer_1055014_651865.html" hreflang="fr">Le grand filtrage des internautes fran?ais va bient?t commencer</a>&nbsp;;</li>
+<li><a href="http://www.glazman.org/weblog/dotclear/index.php?post/2008/06/05/Assises-du-Numerique-9" hreflang="fr">Daniel a fait ses devoirs</a>...</li>
+</ul></div>
+    
+                        </div>
+    
+          <div class="post odd ">
+
+        
+    <h2 id="p3537" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/10/Annonce-de-service">Annonce de service</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le mardi 10 juin 2008, 15:30        - <a href="http://standblog.org/blog/category/StandblogBlogs">StandBlog et blogs</a>
+        </p>
+    
+        <ul class="post-tags">    <li><a href="http://standblog.org/blog/tag/troll">troll</a></li>
+    </ul>    
+    
+          <div class="post-content"><p>Je suis au regret d'annoncer que j'ai ?t? oblig?, ces derni?res semaines, de supprimer des commentaires agressifs et trollesques d'un fanatique d'un navigateur propri?taire du nord de l'Europe, persuad? que Firefox, c'est de la merde. Qu'on se le dise, j'ai beaucoup de respect pour Opera (pour qu'il j'ai failli bosser, faut-il pr?ciser).</p>
+
+
+<p>Je pense que le choix (et donc la concurrence) pour les navigateurs et pour bien d'autres choses, c'est bien. A ce titre, je consid?re que Safari et Opera sont des <em>alli?s</em> de Mozilla dans le r?tablissement de ce choix.</p>
+
+
+<p>J'ai d?cid? de supprimer les commentaires injurieux de cette personne pour ne pas avoir ? comparer Firefox avec son navigateur favori, lequel ne sort pas toujours gagnant de comparatifs (m?me si cette perspective lui est insupportable). Merci ? cette personne d'aller troller ailleurs, ses commentaires lamentables ne seront plus publi?es sur le Standblog, et je regrette d'?tre oblig? d'en arriver l?, mais trop, c'est trop. Pour info,c'est la deuxi?me personne ? se voir bannir du Standblog...</p></div>
+    
+                        </div>
+    
+          <div class="post  ">
+
+    <p class="day-date">lundi  9 juin 2008</p>    
+    <h2 id="p3536" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/09/Whos-leading-the-Firefox-Download-Day-race">Who's leading the Firefox Download Day race?</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le lundi  9 juin 2008, 18:05        - <a href="http://standblog.org/blog/category/En">en</a>
+        </p>
+    
+        <ul class="post-tags">    <li><a href="http://standblog.org/blog/tag/downloadday">downloadday</a></li>
+                <li><a href="http://standblog.org/blog/tag/fx3">fx3</a></li>
+    </ul>    
+    
+          <div class="post-content"><p>I recently saw that Poland passed the 50000 mark on the European part of the map, which made it the first European country to do so. Go Poles!</p>
+<p><a href="http://farm4.static.flickr.com/3149/2561530458_1a1837aa54_o.png"><img src="http://farm4.static.flickr.com/3149/2561530458_eb1531ce22.jpg" alt="Download day map of Europe as of Sunday June 8th, 2008.png" /></a></p>
+<p><em><a href="http://www.flickr.com/photos/nitot/2561530458/">Download day map of Europe as of Sunday June 8th, 2008.png</a></em></p>
+<p>Now, it's hard to compare countries, because of the diversity of sizes. Of course the US is leading the way, but they have a population of 300 million people and many of them are connected...</p>
+<p>How can we compare countries on a fairer ground? This question has been on my mind for a couple of days, until <a href="http://blog.mozilla.com/metrics/2008/06/05/community-driven-statistics-for-download-day/" hreflang="en">Ken 'Numerator' Kovash blogged</a> about the community-driven <a href="http://ehsanakhgari.org/mozilla/downloadday/stats" hreflang="en">Download Day 2008 Statistics</a>, which has tons of great info.</p>
+<p>I wish we could rank countries for the download day by number of connected people. It's not (yet?) possible, but Ehsan Akhgari provides the world with <a href="http://ehsanakhgari.org/mozilla/downloadday/stats/pledge-ranking-by-country-population" hreflang="en">Pledge Rankings by Country Population</a>, which is pretty close to what I want.</p>
+<p>I used the data available as of June 9 afternoon (European time), and decided to remove all data points with fewer than 500 pledges, because I (wildly) guess with less than this, the sample is too small and therefore "noise" is too significant<sup>[<a href="#pnote-3536-1" id="rev-pnote-3536-1">1</a>]</sup>.</p>
+<p>Here are the results:</p>
+<table style="border-collapse: collapse; table-layout: fixed;" border="0" cellpadding="0" cellspacing="0" width="300">
+<col span="4" width="75" />
+<tbody><tr>
+<td >Rank</td>
+<td >Country</td>
+<td >Pledge Count</td>
+<td >Ratio (%)</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Slovenia</td>
+<td align="right">4666</td>
+<td align="right">0,232</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Estonia</td>
+<td align="right">2694</td>
+<td align="right">0,206</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Iceland</td>
+<td align="right">622</td>
+<td align="right">0,204</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Poland</td>
+<td align="right">68772</td>
+<td align="right">0,179</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Netherlands</td>
+<td align="right">22254</td>
+<td align="right">0,134</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Malta</td>
+<td align="right">519</td>
+<td align="right">0,129</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Norway</td>
+<td align="right">5519</td>
+<td align="right">0,119</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Latvia</td>
+<td align="right">2562</td>
+<td align="right">0,114</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Lithuania</td>
+<td align="right">3904</td>
+<td align="right">0,110</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Albania</td>
+<td align="right">3853</td>
+<td align="right">0,106</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Belgium</td>
+<td align="right">1102</td>
+<td align="right">0,106</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Denmark</td>
+<td align="right">555</td>
+<td align="right">0,101</td>
+</tr>
+<tr>
+<td>25</td>
+<td>Portugal</td>
+<td align="right">10687</td>
+<td align="right">0,100</td>
+</tr>
+<tr>
+<td>26</td>
+<td>Finland</td>
+<td align="right">505</td>
+<td align="right">0,096</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Croatia</td>
+<td align="right">4315</td>
+<td align="right">0,096</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Singapore</td>
+<td align="right">3784</td>
+<td align="right">0,082</td>
+</tr>
+<tr>
+<td>31</td>
+<td>Chile</td>
+<td align="right">13231</td>
+<td align="right">0,080</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Spain</td>
+<td align="right">31446</td>
+<td align="right">0,078</td>
+</tr>
+<tr>
+<td>33</td>
+<td>Switzerland</td>
+<td align="right">5871</td>
+<td align="right">0,077</td>
+</tr>
+<tr>
+<td>34</td>
+<td>Canada</td>
+<td align="right">2538</td>
+<td align="right">0,076</td>
+</tr>
+<tr>
+<td>36</td>
+<td>Hungary</td>
+<td align="right">7471</td>
+<td align="right">0,075</td>
+</tr>
+<tr>
+<td>37</td>
+<td>France</td>
+<td align="right">47378</td>
+<td align="right">0,074</td>
+</tr>
+<tr>
+<td>38</td>
+<td>New Zealand</td>
+<td align="right">2964</td>
+<td align="right">0,071</td>
+</tr>
+<tr>
+<td>39</td>
+<td>Ireland</td>
+<td align="right">2909</td>
+<td align="right">0,070</td>
+</tr>
+<tr>
+<td>41</td>
+<td>Italy</td>
+<td align="right">40367</td>
+<td align="right">0,069</td>
+</tr>
+<tr>
+<td>42</td>
+<td>Sweden</td>
+<td align="right">5677</td>
+<td align="right">0,063</td>
+</tr>
+<tr>
+<td>43</td>
+<td>Bulgaria</td>
+<td align="right">4417</td>
+<td align="right">0,061</td>
+</tr>
+<tr>
+<td>45</td>
+<td>Austria</td>
+<td align="right">4915</td>
+<td align="right">0,060</td>
+</tr>
+<tr>
+<td>46</td>
+<td>Israel</td>
+<td align="right">4126</td>
+<td align="right">0,058</td>
+</tr>
+<tr>
+<td>47</td>
+<td>United Kingdom</td>
+<td align="right">35268</td>
+<td align="right">0,058</td>
+</tr>
+<tr>
+<td>48</td>
+<td>Uruguay</td>
+<td align="right">1921</td>
+<td align="right">0,055</td>
+</tr>
+<tr>
+<td>49</td>
+<td>Greece</td>
+<td align="right">5821</td>
+<td align="right">0,054</td>
+</tr>
+<tr>
+<td>50</td>
+<td>Taiwan</td>
+<td align="right">11829</td>
+<td align="right">0,052</td>
+</tr>
+</tbody></table>
+<p>The conclusion is that the small countries are leading the way. Why is that? I had an <em>Eureka</em> moment on Friday while discussing this with a journalist in London. It suddenly came to my mind that smaller countries are more likely to adopt Firefox than Internet Explorer since Microsoft was not interested in addressing the needs of what they considered as too small and not valuable markets. And I think that, to a certain extent, because localization of an application (in this case Windows+IE) has a fixed cost that is unlikely to be recouped on a small population. With our open-source approach, where Mozilla <em>empowers</em> local users, the cost of covering one more locale is limited. This means that our Open-Source nature actually gives us a head-start to cover some territories... while the quality of the product - along with the word of mouth - does the rest!</p>
+<div class="footnotes"><h4>Notes</h4>
+<p>[<a href="#rev-pnote-3536-1" id="pnote-3536-1">1</a>] I totally suck at statistics, so please correct me if what I write does not make sense.</p>
+</div></div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/09/Whos-leading-the-Firefox-Download-Day-race#comments" class="comment_count">10 commentaires</a>
+                      </p>
+        </div>
+    
+          <div class="post odd ">
+
+    <p class="day-date">dimanche  8 juin 2008</p>    
+    <h2 id="p3535" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/08/En-vrac">En vrac</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le dimanche  8 juin 2008, 11:13        - <a href="http://standblog.org/blog/category/En-vrac">En vrac</a>
+        </p>
+    
+        <ul class="post-tags">    <li><a href="http://standblog.org/blog/tag/addons">addons</a></li>
+                <li><a href="http://standblog.org/blog/tag/fx3">fx3</a></li>
+                <li><a href="http://standblog.org/blog/tag/iphone">iphone</a></li>
+                <li><a href="http://standblog.org/blog/tag/momo">momo</a></li>
+    </ul>    
+    
+          <div class="post-content"><ul>
+<li>Jeudi prochain, de 18 ? 19h, je fais <a href="http://www.01net.com/rubrique/3394.html" hreflang="fr">un chat avec les lecteurs de 01Net.com</a>. Tu es invit?, cher lecteur&nbsp;! On y parlera de Firefox 3, bien s?r, parmi d'autres choses...</li>
+<li>Je viens de supprimer mon compte de <a href="http://pownce.com/" hreflang="en">pownce</a>. Ca fait bizarre...</li>
+<li>Alex Polvi fait le point sur la <a href="http://alex.polvi.net/2008/06/05/state-of-the-add-ons-report-june-5th/" hreflang="en">compatibilit? des extensions avec Firefox 3</a>&nbsp;;</li>
+<li>Firefox, c'est <a href="http://blog.mozilla.com/metrics/2008/06/05/firefox-adoption-grows-at-breakneck-pace/" hreflang="en">180 millions d'utilisateurs actifs par mois</a> (et 60 millions par jour), soit une <em>croissance de 20% en 6 mois</em>&nbsp;;</li>
+<li>Un lecteur, Guillaume L., vient de m'offrir un livre pour apprendre ? faire le <em>Tiramisu</em>, suite ? un <a href="http://standblog.org/blog/post/2008/05/29/Pecho-la-chtouille-du-Capitaine-" hreflang="fr">billet 'alimentaire'</a>. Merci beaucoup Guillaume&nbsp;!</li>
+<li><a href="http://www.popularmechanics.com/technology/how_to/4263321.html" hreflang="en">Installer Ubuntu Linux sur une PS3</a> et y faire tourner Firefox :-D&nbsp;;</li>
+<li><a href="http://www.crunchgear.com/2008/06/06/breaking-exclusive-leaked-pics-of-the-iphone-2-thinner-design-check-different-colors-check-video-chatting-check-and-check/" hreflang="en">Devinons ? quoi va ressembler le nouvel iPhone</a> en attendant la stevenote de lundi... Par exemple, iChat video, de nouvelles couleurs (bof) et un peu plus petit, d'apr?s CrunchGear, alors qu'<a href="http://www.engadget.com/2008/06/07/loads-of-fake-apple-shots-hit-the-web-3g-iphone-pre-wwdc-editio/" hreflang="en">Engadget crie au fake</a>...</li>
+<li>David Ascher (Mozilla Messaging) et Zak Greant (Mozilla Foundation) font un <a href="http://www.raincitystudios.com/raincity-radio/open-source-culture-romania-vancouver-raincity-radio" hreflang="en">Podcast</a> d'une vingtaine de minutes d'autant plus int?ressant qu'il porte sur des sujets tels que la mission de la Foundation et Thunderbird, qui sont souvent eclips?s par le succ?s de Firefox&nbsp;;</li>
+<li><a href="http://tech.slashdot.org/article.pl?sid=08/06/07/1521244" hreflang="en">Pr?s d'un tiers des employ?s de Google sont sous Mac</a>, et je suis pr?s ? parier que Linux (leur fameuse version maison <em>Goobuntu</em>) a aussi un grand nombre d'utilisateurs en interne. Comme chez Mozilla, Windows a la portion congrue. Voil? qui doit faire peur chez Microsoft&nbsp;: quand les d?veloppeurs les plus innovants abandonnent une plateforme, ?a sent forc?ment le sapin&nbsp;;</li>
+</ul></div>
+    
+                        </div>
+    
+          <div class="post  ">
+
+        
+    <h2 id="p3534" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/08/Firefox-on-video-in-Italy">Firefox on video in Italy!</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le dimanche  8 juin 2008, 10:23        - <a href="http://standblog.org/blog/category/En">en</a>
+        </p>
+    
+        <ul class="post-tags">    <li><a href="http://standblog.org/blog/tag/fx3">fx3</a></li>
+                <li><a href="http://standblog.org/blog/tag/italy">italy</a></li>
+    </ul>    
+    
+          <div class="post-content"><p><a href="http://farm4.static.flickr.com/3187/2559975865_0cfaba3e69_o.png"><img src="http://farm4.static.flickr.com/3187/2559975865_0cfaba3e69_o.png" alt="Giuliano on Adnkronos" /></a></p>
+
+
+<p><em><a href="http://www.flickr.com/photos/nitot/2559975865/">Giuliano talking about Firefox 3 on Adnkronos</a></em></p>
+
+
+<p><a href="http://www.adnkronos.com/IGN/Video/?vid=1.0.2211931233" hreflang="it">Giuliano and Schrep demoing Firefox in Milan</a>.</p>
+
+
+<p>It's amazing how talking in Italian makes a great product even sexier <img src="/dotclear2/themes/default/smilies/wink.png" alt=";-)" class="smiley" /></p>
+
+
+<p>(Schrep is the ever traveling VP of Engineering and Giuliano is one of our volunteers in Italy, leading the very dynamic <a href="http://www.mozillaitalia.it/" hreflang="it">Mozilla Italia</a> community, who manages localization and local support).</p></div>
+    
+                        </div>
+    
+          <div class="post odd ">
+
+    <p class="day-date">samedi  7 juin 2008</p>    
+    <h2 id="p3533" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/07/Developer-quote-of-the-day">Developer quote of the day</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le samedi  7 juin 2008, 12:49        - <a href="http://standblog.org/blog/category/En">en</a>
+        </p>
+    
+        <ul class="post-tags">    <li><a href="http://standblog.org/blog/tag/feedly">feedly</a></li>
+                <li><a href="http://standblog.org/blog/tag/fx3">fx3</a></li>
+    </ul>    
+    
+          <div class="post-content"><p>I stumbled this morning on a great quote from <a href="http://edwink.devhd.com/sere" hreflang="en">Edwin Khodabakchian</a>, who develops <a href="http://www.feedly.com/" hreflang="en">Feeddo/Feedly</a>, posted on <a href="http://scobleizer.com/2008/06/06/mike-arrington-and-steve-gillmor-dont-use-firefox-30/#comment-1987956" hreflang="en">Scoble's blog</a> :</p>
+
+
+<blockquote><p>We did some benchmarking between firefox 2.0 and firefox 3.0 on one of our applications which uses heavily Javascript, DHTML and timers and the results are very impressive: a much more fluid experience thanks to the timer/scheduling experience and an overall execution performance which is 3.5x faster. I am not exactly sure how they did it but the results are impressive.</p></blockquote>
+
+
+<p><em>Disclaimer:</em> Edwin is an old friend of mine, when we were both Netscape employees @ the Paris office. But I promise I've found his quote serendipitously!</p></div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/07/Developer-quote-of-the-day#comments" class="comment_count">2 commentaires</a>
+                      </p>
+        </div>
+    
+          <div class="post  ">
+
+        
+    <h2 id="p3532" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/07/Firefox%3A-20-more-active-users-in-6-months">Firefox: 20% more active users in 6 months</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le samedi  7 juin 2008, 11:31        - <a href="http://standblog.org/blog/category/En">en</a>
+        </p>
+    
+    
+    
+          <div class="post-content"><p>Ken Kovash, over at the <a href="http://blog.mozilla.com/metrics/2008/06/05/firefox-adoption-grows-at-breakneck-pace/" hreflang="en">Metrics blog</a> posts some significant information:</p>
+
+
+<blockquote><p>we?ve surpassed 60 million active daily users.</p></blockquote>
+
+
+<p>But Ken also links to a <a href="http://john.jubjubs.net/2008/01/22/blogging-from-europe-this-week/" hreflang="en">post by John Lilly</a> dated January 2008, which mentioned that we had passed the 50 million active daily users<sup>[<a href="#pnote-3532-1" id="rev-pnote-3532-1">1</a>]</sup>.</p>
+
+
+<p>If I read this right, we have gained 10 million active daily users in just 6 months, moving from 50 million to 60 million. <strong>Firefox has gained 20% active daily users in just 6 months</strong>, which is nothing short of amazing <img src="/dotclear2/themes/default/smilies/laugh.png" alt=":-D" class="smiley" /></p>
+
+
+<p>Now the Web is growing, but Firefox is growing faster that the Web itself, meaning that we're gaining market share in percentage. And wait 'til we ship Firefox 3: I'm betting that Firefox adoption will accelerate!</p>
+<div class="footnotes"><h4>Notes</h4>
+<p>[<a href="#rev-pnote-3532-1" id="pnote-3532-1">1</a>] For more details on market share, active daily users and active monthly users, please refer to John' post, <a href="http://john.jubjubs.net/2007/11/27/mozilla-firefox-market-share/" hreflang="en">Mozilla &amp; Firefox market share</a>.</p></div>
+</div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/07/Firefox%3A-20-more-active-users-in-6-months#comments" class="comment_count">3 commentaires</a>
+                      </p>
+        </div>
+    
+          <div class="post odd ">
+
+    <p class="day-date">vendredi  6 juin 2008</p>    
+    <h2 id="p3531" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/06/Le-gouvernement-voudrait-un-filtrage-massif-des-reseaux">Le gouvernement voudrait un filtrage massif des r?seaux</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le vendredi  6 juin 2008, 13:13        - <a href="http://standblog.org/blog/category/Politique">Politique</a>
+        </p>
+    
+        <ul class="post-tags">    <li><a href="http://standblog.org/blog/tag/censure">censure</a></li>
+    </ul>    
+    
+          <div class="post-content"><p>J'esp?re de tout coeur que le document publi? par PC-INpact est un faux. Franchement, je l'esp?re.</p>
+
+
+<p>Sinon, c'est monstrueux&nbsp;:</p>
+
+
+<p><a href="http://www.pcinpact.com/actu/news/44018-filtrage-internet-neutralite-FAI-operateurs.htm" hreflang="fr">Exclusif&nbsp;: le gouvernement veut un filtrage de masse des r?seaux</a>.</p>
+
+
+<p>Et toi, cher lecteur, qu'en penses-tu&nbsp;? Filtrer la p?dopornogrpahie ne me choque pas. Mais supprimer les contenus non maintenus, ?a ?a me choque, comme bien des mesures ?voqu?es par Marc Rees, de PC-INpact...</p></div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/06/Le-gouvernement-voudrait-un-filtrage-massif-des-reseaux#comments" class="comment_count">52 commentaires</a>
+                      </p>
+        </div>
+    
+          <div class="post  ">
+
+    <p class="day-date">jeudi  5 juin 2008</p>    
+    <h2 id="p3530" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/05/En-vrac-depuis-Londres">En vrac depuis Londres</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le jeudi  5 juin 2008, 20:18        - <a href="http://standblog.org/blog/category/En-vrac">En vrac</a>
+        </p>
+    
+        <ul class="post-tags">    <li><a href="http://standblog.org/blog/tag/canvas">canvas</a></li>
+                <li><a href="http://standblog.org/blog/tag/fx3">fx3</a></li>
+                <li><a href="http://standblog.org/blog/tag/mossberg">mossberg</a></li>
+                <li><a href="http://standblog.org/blog/tag/msft">msft</a></li>
+                <li><a href="http://standblog.org/blog/tag/svg">svg</a></li>
+                <li><a href="http://standblog.org/blog/tag/t-shirts">t-shirts</a></li>
+                <li><a href="http://standblog.org/blog/tag/wsj">wsj</a></li>
+                <li><a href="http://standblog.org/blog/tag/x86">x86</a></li>
+    </ul>    
+    
+          <div class="post-content"><ul>
+<li>C'est quand m?me l'actu du jour dans le petit monde de Mozilla&nbsp;: <a href="http://developer.mozilla.org/devnews/index.php/2008/06/04/second-firefox-3-release-candidate-now-available-for-download/" hreflang="en">Sortie de la Release Candidate 2 de Firefox 3</a>. Pour testeurs uniquement&nbsp;!</li>
+<li><a href="http://www.aful.org/metamorphose/ultra-portables-umpc" hreflang="fr">L'offre des ordinateurs ultra-portables ? bas-co?t dans le monde</a>, ou comment Linux permet l'?mergence d'un nouveau march? que Microsoft a rat? avec Vista. On notera que Firefox 3, avec les progr?s r?alis?s en terme de performance et d'occupation m?moire, en plus de se compatibilit? Linux, est le compagnon id?al de ce genre de machines&nbsp;;</li>
+<li>D'ailleurs, Dell pr?sente <a href="http://apcmag.com/up_close_with_dells_mininote.htm" hreflang="en">le sien</a>, sans pour autant d?voil? les sp?cifications du mat?riel...</li>
+<li><em>JDN Solutions</em>&nbsp;:  <a href="http://www.journaldunet.com/solutions/intranet-extranet/reportage/5-nouveautes-et-modifications-majeures-dans-firefox-3/5-nouveautes-et-modifications-majeures-dans-firefox-3.shtml" hreflang="fr">5 nouveaut?s et modifications majeures dans Firefox 3</a>&nbsp;;</li>
+<li><em>JDN Solutions</em> (encore), cette fois une interview de votre serviteur&nbsp;: <a href="http://www.journaldunet.com/solutions/intranet-extranet/interview/tristan-nitot-fondation-mozilla-565-millions-de-telechargements-nos-parts-de-marche-generent-de-l-influence.shtml" hreflang="fr">nos parts de march?, c'est de l'influence</a></li>
+<li><a href="http://blog.lizardwrangler.com/2008/06/04/ellen-siminoff-joins-moco-board/" hreflang="en">Ellen Siminoff Joins MoCo Board</a>, et <em>hop</em>, ?a fait deux femmes et deux hommes ? la t?te de Mozilla Foundation&nbsp;! (au board)&nbsp;;</li>
+<li><a href="http://online.wsj.com/article/SB121261552570446443.html?mod=2_1571_topbox" hreflang="en">Walt Mossberg pr?f?re Firefox</a>, voil? qui fait bien plaisir de la part du journaliste vedette du Wall Street Journal&nbsp;! * <a href="http://www.silicon.fr/fr/news/2008/06/04/la_beta_2_d_internet_explorer_8_sera_livree_en_aout" hreflang="fr">La b?ta 2 d'Internet Explorer 8 sera livr?e en ao?t</a>. "Microsoft prend son temps !" J'esp?re que ?a sera moins long que les 5 ans qui se sont ?coul?s entre EI 5.5 et IE 6 ;-)&nbsp;;</li>
+<li><a href="http://hardware.slashdot.org/article.pl?sid=08/06/05/1247249" hreflang="en">L'architecture X86 f?te ses 30 ans</a>&nbsp;;</li>
+<li><a href="http://www.internetnews.com/dev-news/article.php/3749861/Firefox+3+The+Semantic+Web+Browser.htm" hreflang="en">Microformats et Mozilla&nbsp;: Firefox 3 et le Web s?mantique</a>&nbsp;;</li>
+<li>Envie de voir l? o? les standards (en l'occurence SVG et HTML) peuvent nous emmener&nbsp;? Prenez une aspirine ou deux, et <a href="http://weblogs.mozillazine.org/roc/archives/2008/06/applying_svg_ef.html" hreflang="en">c'est parti</a>&nbsp;! (Cela n?cessite un prototype de Firefox propos? par l'impressionnant <a href="http://weblogs.mozillazine.org/roc/" hreflang="en">Robert O'Callahan</a>, boss du bureau n?o-z?landais de Mozilla)</li>
+<li>Dans le m?me genre, voici <a href="http://blog.vlad1.com/2008/06/04/html-canvas-in-firefox-3/" hreflang="en">HTML Canvas in Firefox 3</a>. Sauf que c'est d?j? dans Firefox 3 (bient?t sur un ?cran pr?s de chez vous <img src="/dotclear2/themes/default/smilies/wink.png" alt=";-)" class="smiley" /> )&nbsp;;</li>
+<li><a href="http://online.wsj.com/article/SB121261241035146237.html" hreflang="en">L'engueulade entre Ballmer et Gates qui a paralys? Microsoft</a>, avec les effets que l'on constate... C'?tait il y a 8 ans&nbsp;!</li>
+<li>T-Shirts Mozilla&nbsp;: <a href="http://www.intothefuzz.com/2008/06/04/the-t-shirt-history-of-mozilla/" hreflang="en">l'ultime collection</a>. va falloir que je fouille dans mes archives <img src="/dotclear2/themes/default/smilies/wink.png" alt=";-)" class="smiley" /> Il manque au moins les deux qui ont ?t? dessin?s par mon petit fr?re, <a href="http://nitot.org/" hreflang="en">Benjamin</a>, pass? depuis de graphiste ? photographe de mode&nbsp;;</li>
+<li>Vous parlez l'anglais et vous cherchez un stage pour l'?t?&nbsp;? <a href="http://diary.braniecki.net/2008/06/03/mozilla-europe-summer-internship-program/" hreflang="en">Zbigniew a un plan pour vous</a>, et ?a se passera ? Paris&nbsp;!</li>
+</ul></div>
+    
+                        </div>
+    
+          <div class="post odd ">
+
+        
+    <h2 id="p3529" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/05/Assises-du-numerique">Assises du num?rique</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le jeudi  5 juin 2008, 19:29        - <a href="http://standblog.org/blog/category/Politique">Politique</a>
+        </p>
+    
+    
+    
+          <div class="post-content"><p>Alors que je suis sur le d?part pour Londres, le temps me manque pour faire un billet d?taill? sur les <a href="http://www.tic-croissance.com/1/" hreflang="fr">Assises du num?rique</a>. Il y a pourtant plein de choses ? dire&nbsp;! <em>(Billet publi? depuis Londres, 36 heures plus tard)</em></p>
+
+
+<p>D'abord, il faut bien reconna?tre que l'affaire ?tait particuli?rement mal engag?e. En terme d'accessibilit? d?j?, <a href="" hreflang="fr">d?faut que j'avais point? dans un billet rageur</a>. Mais aussi en terme de forme. En guise d'assises, on avait surtout une longue succession de politiciens s'adressant de fa?on unilat?rale ? des spectateurs payant 300 EUR pour les entendre. Le tout se passait ? Paris, autre d?monstration d'une approche centralis?, <em>top-down</em>, qui s'accordait fort mal avec le dynamisme de cette industrie et la complexit? de ces enjeux. Je n'ai pas ?t? le seul, dans la blogosph?re, ? tirer la sonnette d'alarme. <a href="http://www.glazman.org/weblog/" hreflang="fr">Daniel a ?crit 7 billets ? lui seul</a> sur le sujet, et bien d'autres ont fait de m?me.</p>
+
+
+<p>En d'autres temps, rien n'aurait chang?. Indiff?rents aux <a href="http://www.ludovic.org/xwiki/bin/view/Main/AssisesEconomieNumerique" hreflang="fr">aboiements</a> de la <a href="http://www.glazman.org/weblog/dotclear/index.php?post/2008/04/24/Assises-du-Numerique" hreflang="fr">populace</a>, la caravane des politiciens aurait continu? son chemin. Mais les choses ne se sont pas pass?es comme ont allait s'y r?signer. En quelques mots&nbsp;:</p>
+
+<ul>
+<li>Le site a fait de gros progr?s en terme d'accessibilit?. L'?tat se devait de montrer l'exemple, et sans ?tre devenu exemplaire, le site n'est plus une honte comme pr?c?demment...</li>
+<li>L'acc?s aux assises est devenu gratuit&nbsp;! C'?tait la moindre des choses, mais j'imagine qu'au niveau du budget, ce changement a du faire transpirer les organisateurs</li>
+<li>Les conf?renciers ont gagn? en diversit? (au d?but, seul Tariq Krim, alors chez Netvibes.com, repr?sentait les acteurs ?conomiques)</li>
+<li>Le format m?me des assises a largement ?volu?, passant d'une journ?e unique ? Paris ? une suite de conf?rences en province compl?tant celle de Paris, sur des tas d'autres sujets.</li>
+<li>Grace ? l'utilisation d'un <a href="http://wiki.assisesdunumerique.fr/" hreflang="fr">Wiki</a> mis en place par <a href="http://www.ludovic.org/xwiki/bin/view/Main/LesAssisesduNumeriqueavecunWiki" hreflang="fr">Xwiki, la soci?t? de Ludovic Dubost</a></li>
+<li>Enfin, et c'est plut?t anecdotique, Eric Besson, secr?taire d'?tat charg? du D?veloppement de l??conomie num?rique (et de plein d'autres choses) a re?u <a href="http://www.flickr.com/photos/27275513@N07/2543862989/">une poign?e de blogueurs ? diner</a><sup>[<a href="#pnote-3529-1" id="rev-pnote-3529-1">1</a>]</sup>.</li>
+</ul>
+
+<p>Si on a pu constater une ?volution significative par rapport au d?but, ?a ne signifie pas que tout soit parfait dans le meilleur des mondes. En fait, il y a ? boire et ? manger dans le bilan (forc?ment provisoire) des assises du num?rique&nbsp;:</p>
+
+
+<p><strong>Ce que je regrette</strong>, c'est l'approche est essentiellement ?conomique. Est-ce li? au parcours d'Eric Besson&nbsp;? Toujours est-il qu'on se pr?occupe par ordre d?croissant&nbsp;:</p>
+
+<ul>
+<li>De la politique</li>
+<li>de secteur des telecoms</li>
+<li>des logiciels propri?taires (la partie sur l'innovation du logiciel ?tait organis?e par l'AFDEL, excluant de fait le logiciel Libre et laisse entendre que l'innovation passe par le logiciel propri?taire et les brevets logiciels).</li>
+</ul>
+
+<p>On regrettera la faible repr?sentation du logiciel Libre dans le cadre de ces assises. Certes, on en parlait dans la table ronde administration, mais sinon, c'?tait le grand absent... On a ainsi fait l'impasse de ce formidable enjeu de soci?t?. On a oubli? l'ad?quation entre ?ducation et logiciel Libre. On a omis l'importance que les commandes publiques pouvaient apporter au Libre et le Libre aux commandes publiques.</p>
+
+
+
+<p><strong>Ce que j'appr?cie</strong>, c'est que malgr? cette relative absence du logiciel Libre dans les interventions, si on plonge dans les 27 mesures sugg?r?es par le ministre, on peut voir qu'y figurent deux mesures reprises du rapport Attali (c'est ?crit tout petit page 16)&nbsp;:</p>
+
+<ol>
+<li>Objectif de 20% des march?s publics logiciel en open source</li>
+<li>Consid?rer l?aide au logiciel libre comme du m?c?nat</li>
+</ol>
+
+
+<p>Au final, le bilan ? mi-parcours de ces assises est mitig?. Pour moi, c'est l'internaute le grand absent de cet effort. Le citoyen num?rique et ses usages de l'Internet. <em>Quid</em> des <acronym title="Digital Rights Management / Moyens Techniques de Protection des oeuvres num?riques">DRM</acronym>, de l'interop?rabilit?&nbsp;? <em>Quid</em> des enjeux de soci?t?, le contr?le des utilisateurs de leurs donn?es&nbsp;? <em>Quid</em> du respect de la vie priv?e&nbsp;? Ne nous trompons pas, j'appr?cie les progr?s r?alis?s par les Assises du Num?rique depuis la premi?re mouture. Pourtant, ? vouloir rendre un rapport courant juillet sur ce sujet, ? se focaliser sur l'infrastructure, on ne laisse gu?re de place ? la prospective sur le long terme, et ? la place que doit occuper le citoyen dans la soci?t? num?rique.</p>
+
+
+<h3>Quelques liens compl?mentaires&nbsp;:</h3>
+
+<ul>
+<li><a href="http://www.memoirevive.tv/blog/diner-des-blogueurs-avec-eric-besson-secretaire-detat-en-charge-de-leconomie-numerique/" hreflang="fr">Natacha Quester-S?m?on</a>&nbsp;;</li>
+<li><a href="http://billaut.typepad.com/jm/2008/05/les-assises-de.html?cid=117225926#comment-117225926" hreflang="fr">Jean Michel Billaut</a>&nbsp;;</li>
+<li><a href="http://www.glazman.org/weblog/dotclear/index.php?post/2008/06/02/Assises-du-Numerique-7" hreflang="fr">Daniel Glazman</a>&nbsp;;</li>
+<li><a href="http://www.oezratty.net/wordpress/2008/suite-des-assises-du-numrique/" hreflang="fr">Olivier Ezratti</a>&nbsp;;</li>
+<li><a href="http://www.ludovic.org/xwiki/bin/view/Main/WebHome" hreflang="fr">Les Assises du Num?rique avec un Wiki</a>&nbsp;;</li>
+<li><a href="http://www.tic-croissance.com/1/" hreflang="fr">Assises du num?rique</a>, le site officiel</li>
+<li><a href="http://www.april.org/groupes/institutions/assisesdunumerique/" hreflang="fr">La page de l'APRIL sur le sujet</a></li>
+<li><a href="http://assisesdunumerique.fr/pdf/27pistes.pdf?f=2" hreflang="fr">27 Pistes de travail ouvertes ? la concertation pour pr?parer le plan de d?veloppement de l??conomie num?rique (PDF)</a> (que je n'ai pas eu le temps de lire compl?tement pour l'instant)&nbsp;;</li>
+</ul>
+<div class="footnotes"><h4>Notes</h4>
+<p>[<a href="#rev-pnote-3529-1" id="pnote-3529-1">1</a>] Y compris votre serviteur, mais qui ne figure pas sur la photo, ?a lui apprendra ? se pointer ? la bourre chez un ministre <img src="/dotclear2/themes/default/smilies/wink.png" alt=";-)" class="smiley" /></p></div>
+</div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/05/Assises-du-numerique#comments" class="comment_count">4 commentaires</a>
+                      </p>
+        </div>
+    
+          <div class="post  ">
+
+    <p class="day-date">mardi  3 juin 2008</p>    
+    <h2 id="p3528" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/03/En-vrac">En vrac</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le mardi  3 juin 2008, 07:56        - <a href="http://standblog.org/blog/category/En-vrac">En vrac</a>
+        </p>
+    
+        <ul class="post-tags">    <li><a href="http://standblog.org/blog/tag/guinness">guinness</a></li>
+                <li><a href="http://standblog.org/blog/tag/ooxml">ooxml</a></li>
+                <li><a href="http://standblog.org/blog/tag/securite">securite</a></li>
+    </ul>    
+    
+          <div class="post-content"><ul>
+<li><a href="http://weblogs.mozillazine.org/asa/archives/2008/05/jesse_ruderman.html" hreflang="en">Jesse Ruderman answers your questions</a>. Jesse est l'un contributeurs au projet Mozilla sp?cialis? dans la s?curit? (il cherche des trous de s?cu et les corrige. Lecture indispensable pour qui s'int?resse au sujet. Rappelons que Jesse est l'auteur des <a href="http://www.squarefree.com/2007/08/02/introducing-jsfunfuzz/" hreflang="en">Fuzzing tools</a> qui ont ?t? tr?s utiles pour am?liorer Gecko, et que ces outils ont ?t? partag?s avec les autres ?diteurs de navigateurs.&nbsp;;</li>
+<li>Louis Naug?s en pleine forme&nbsp;: <a href="http://nauges.typepad.com/my_weblog/2008/06/format-de-documents-%C3%A7a-suffit-assez-jou%C3%A9.html" hreflang="fr">Format de documents&nbsp;: ?a suffit&nbsp;! Assez jou? !</a>&nbsp;;</li>
+<li>Rions ensemble&nbsp;: <a href="http://news.enquirer.com/apps/pbcs.dll/article?AID=/20080531/NEWS0104/805310357/1060/NEWS01" hreflang="en">L'inventeur de la boite de Pringles ?tait si fier de son invention qu'il a demand? ? ?tre enterr? dedans</a>. Qu'on se rassure, on n'a pas ?t? de lui trancher un bras pour ce faire. Il a suffit de l'incin?rer pour mettre les cendres dans le cylindre, avec les restes dans une urne plus conventionnelle&nbsp;;</li>
+<li><a href="http://gizmodo.com/394451/hp-employee-slices-birthday-cake-fanboy-hearts-with-macbook-air" hreflang="en">Un employ? HP fait de la pub virale pour le MacBook Air</a>&nbsp;;</li>
+<li><a href="http://whoisi.com/" hreflang="en">WhoisI</a>, tout pour suivre vos amis en ligne. <a href="http://whoisi.com/p/84">Dont moi</a>&nbsp;!</li>
+<li><a href="http://www.spreadfirefox.com/fr/worldrecord/" hreflang="fr">Firefox Download Day</a> et le record du monde&nbsp;: La France 2eme en Europe derri?re la Pologne. La quoi&nbsp;? <img src="/dotclear2/themes/default/smilies/wink.png" alt=";-)" class="smiley" /> Merci ? ceux qui font passer le mot&nbsp;:
+<ul>
+<li><a href="http://www.lbcd78.fr/2008/05/31/un-nouveau-navigateur-bientot/" hreflang="fr">LBCD78.fr</a>&nbsp;;</li>
+<li><a href="http://www.freetux.net/?post/2008/05/30/Firefox-3-Download-Day-2008" hreflang="fr">Freetux</a>&nbsp;;</li>
+<li><a href="http://www.vincentabry.com/download-day-2008-battre-le-record-de-telechargements-firefox-1479" hreflang="fr">Vincent Abry</a>&nbsp;;</li>
+<li><a href="http://www.bizetfamily.net/post/2008/05/29/Firefox3-download-day" hreflang="fr">Guillaume Bizet</a>&nbsp;;</li>
+<li><a href="http://cybercarnet.net/index.php/post/2008/05/31/Firefox-Download-Day" hreflang="fr">Guillaume Goyette</a>&nbsp;;</li>
+<li><a href="http://dooliblog.com/2008/05/29/firefox-3-et-download-day-2008/" hreflang="fr">Pierre et Hyewon</a>&nbsp;;</li>
+<li><a href="http://www.lemondedublog.com/2008/05/le-download-day-de-firefox-30.php" hreflang="fr">Gilles Klein</a>&nbsp;;</li>
+<li><a href="http://zebrablog.net/sugus/index.php/2008/05/30/905-firefox-download-day-2008-tentative-de-record-du-monde" hreflang="fr">Zebrablog</a>&nbsp;;</li>
+</ul></li>
+<li>OOXML sent le moisi, on le sait depuis longtemps. Mais ce qui est nouveau, c'est qu'un certain nombre de pays font appel&nbsp;:
+<ul>
+<li><a href="http://www.consortiuminfo.org/standardsblog/article.php?story=20080530055633591" hreflang="en">Inde</a>&nbsp;;</li>
+<li><a href="http://www.groklaw.net/article.php?story=20080523130503456" hreflang="en">Afrique du Sud</a>&nbsp;;</li>
+<li><a href="http://www.pcworld.com/businesscenter/article/146468/india_and_brazil_file_appeals_against_ooxml_standardization.html" hreflang="en">Br?sil</a></li>
+<li><a href="http://news.slashdot.org/article.pl?sid=08/06/01/1912234" hreflang="en">Danemark</a>. Comme quoi on peut sentier ? la fois le moisi, <em>et</em> le sapin <img src="/dotclear2/themes/default/smilies/laugh.png" alt=":-D" class="smiley" /></li>
+</ul></li>
+</ul></div>
+    
+                        </div>
+    
+          <div class="post odd ">
+
+    <p class="day-date">lundi  2 juin 2008</p>    
+    <h2 id="p3527" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/02/One-of-our-volunteers-in-the-Austrian-press">One of our volunteers in the Austrian press</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le lundi  2 juin 2008, 17:54        - <a href="http://standblog.org/blog/category/En">en</a>
+        </p>
+    
+    
+    
+          <div class="post-content"><p>It's really <a href="http://derstandard.at/?url=/?id=3357279" hreflang="de">nice to see Abdulkadir Topal being interviewed in Der Standard</a>. Abdulkadir is one of the many people helping our users to get a better Web experience in their own language. Abdulkadir is a student in Germany. His work on Firefox localization is used by 15 to 20 millions people in Germany! I don't know  any students outside of Mozilla which work impacts so many people... Do you?</p></div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/02/One-of-our-volunteers-in-the-Austrian-press#comments" class="comment_count">3 commentaires</a>
+                      </p>
+        </div>
+    
+          <div class="post  ">
+
+        
+    <h2 id="p3526" class="post-title"><a
+    href="http://standblog.org/blog/post/2008/06/02/En-pleine-forme-pour-faire-la-sieste">En pleine forme pour faire la sieste !</a></h2>
+    
+    <p class="post-info">Par <a href="http://standblog.org/">Tristan</a>    le lundi  2 juin 2008, 08:39        - <a href="http://standblog.org/blog/category/StandblogBlogs">StandBlog et blogs</a>
+        </p>
+    
+        <ul class="post-tags">    <li><a href="http://standblog.org/blog/tag/fx3">fx3</a></li>
+    </ul>    
+    
+          <div class="post-content"><p><em>(Billet commenc? ? r?diger samedi apr?s-midi, publi? lundi matin)</em></p>
+
+
+<p>Philippine vient de me sortir du lit apr?s 2h30 de sieste, alors que j'ai fait la grasse matin?e ce matin... De toute ?vidence, j'ai du sommeil en retard <img src="/dotclear2/themes/default/smilies/smile.png" alt=":-)" class="smiley" /> . IL faut dire que ces derniers jours, l'emploi du temps s'est <em>l?g?rement</em> emball?. Ceux qui ne supportent pas ma bobine dans la presse en seront pour leurs frais. Qu'ils se rassurent, je retourne dans mon terrier d?s que Firefox 3 est lanc? (courant juin, donc).</p>
+
+
+<h4>Lundi et mardi, ? M?nich avec Mike Schroepfer</h4>
+
+
+<p>Je vous ?pargne la couverture presse allemande, qui passe de <a href="http://www.pcwelt.de/start/software_os/online/praxis/162607/firefox_30_alle_details_im_ueberblick/" hreflang="de">PCWelt</a> ? <a href="http://www.pressetext.at/pte.mc?pte=080529036" hreflang="de">PresseText Austria</a>.</p>
+
+
+<h4>Mercredi</h4>
+
+<ul>
+<li>Double interview marathon chez Cyr?alis (NetEco, Clubic et bien d'autres)&nbsp;:
+<ul>
+<li>NetEco a <a href="http://www.neteco.com/141938-tristan-nitot.html" hreflang="fr">la vid?o plus l'entretien</a> et m?me un <a href="http://www.neteco.com/141854-saga-mozilla-fondation-corporation-big-browser.html" hreflang="fr">article de fond compl?mentaire</a>&nbsp;;</li>
+<li><a href="http://www.clubic.com/actualite-141952-video-tristan-nitot-mozilla-firefox.html" hreflang="fr">Video chez Clubic</a>&nbsp;;</li>
+</ul></li>
+<li>Lancement du <a href="http://www.spreadfirefox.com/fr/worldrecord/" hreflang="fr">Record du Monde</a>, en fin de journ?e.</li>
+</ul>
+
+<h4>Jeudi</h4>
+
+<ul>
+<li>D'autres interviews dans la journ?e&nbsp;:
+<ul>
+<li><em>01Net</em>&nbsp;: <a href="http://www.01net.com/editorial/381431/firefox-3-veut-etablir-un-record-du-monde-du-telechargement/" hreflang="fr">Firefox 3 veut ?tablir un record du monde du t?l?chargement</a>&nbsp;;</li>
+<li><em>Silicon.fr</em>&nbsp;: <a href="http://www.silicon.fr/fr/news/2008/05/29/firefox_3_le_point_avec_tristan_nitot_president_de_mozilla_europe" hreflang="fr">Firefox 3, le point avec Tristan Nitot, pr?sident de Mozilla Europe</a>&nbsp;;</li>
+</ul></li>
+<li>D?ner chez <a href="http://fr.wikipedia.org/wiki/%C3%89ric_Besson" hreflang="fr">Eric Besson</a>, Secr?taire d'Etat au d?veloppement de l'?conomie num?rique, dans le cadre des <a href="" hreflang="fr">Assises du Num?rique</a>, avec plusieurs blogueurs et entrepreneurs, dont <a href="http://embruns.net/" hreflang="fr">Laurent gloaguen</a>, <a href="http://www.glazman.org/weblog/">Daniel Glazman</a>, <a href="http://billaut.typepad.com/">Jean-Michel Billaut</a>, <a href="http://www.lesimpertinents.com/" hreflang="fr">Natacha Quester-S?m?on</a>, <a href="http://blog.moovement.com/" hreflang="fr">Richard Menneveux</a>, <a href="http://www.ludovic.org/xwiki/bin/view/Main/WebHome" hreflang="fr">Ludovic Dubost</a> et d'autres...</li>
+</ul>
+
+<h4>Vendredi</h4>
+
+
+<ul>
+<li><em>Tchat</em> en direct avec les lecteurs du Monde. C'est toujours un exercice ? la fois excitant et ?puisant, compte tenu du rythme des questions. Le r?sultat est l?&nbsp;: <a href="http://www.lemonde.fr/web/chat/0,46-0@2-651865,55-1047610,0.html" hreflang="fr">Tristan Nitot (Mozilla)&nbsp;: 'Le logiciel libre progresse ? pas de g?ant'</a></li>
+<li><em>Le Point</em>&nbsp;: <a href="http://www.lepoint.fr/actualites-technologie-internet/avec-firefox-3-mozilla-veut-frapper-fort/1387/0/249461" hreflang="fr">Avec Firefox 3, Mozilla veut frapper fort</a>&nbsp;;</li>
+<li><em>L'informaticien</em>&nbsp;: <a href="http://www.linformaticien.com/Actualit%E9s/tabid/58/newsid496/4469/firefox-3-lancement-en-juin-et-precisions/Default.aspx">Firefox 3&nbsp;: lancement en juin et pr?cisions</a>&nbsp;;</li>
+<li>Le soir, <a href="http://www.aful.org/blog/2008_05_31_mandriva-10-ans-deja" hreflang="fr">les 10 ans de Mandriva</a>, o? j'ai ?t? invit? ? parler des 10 ans de Mozilla et la sortie prochaine de Firefox 3</li>
+<li>Diner pour l'anniversaire de ma filleule <img src="/dotclear2/themes/default/smilies/smile.png" alt=":-)" class="smiley" /></li>
+</ul>
+
+<h4>Samedi</h4>
+
+<ul>
+<li>matin&nbsp;: grasse mat'</li>
+<li>apr?s-midi&nbsp;: sieste</li>
+<li>Soir&nbsp;: d?ner avec B?n?dicte, parce que bon, pour une fois que je la vois <img src="/dotclear2/themes/default/smilies/wink.png" alt=";-)" class="smiley" /></li>
+</ul>
+
+<h4>Dimanche</h4>
+
+<ul>
+<li>Achat d'une plante pour le salon</li>
+<li>Paperasse pour le boulot</li>
+<li>Montage du Mac mini pour qu'il fasse office de M?dia-center. Et en plus, ?a marche&nbsp;!</li>
+</ul></div>
+    
+          <p class="post-info-co">
+              <a href="http://standblog.org/blog/post/2008/06/02/En-pleine-forme-pour-faire-la-sieste#comments" class="comment_count">9 commentaires</a>
+                      </p>
+        </div>
+    
+                
+</div>
+</div> <!-- End #main -->
+
+<div id="sidebar">
+  <div id="blognav">
+    <div class="langs"><h2>Select your language</h2><ul> <li><a href="fr" class="lang-fr">Fran?ais</a> </li> <li><a href="en" class="lang-en">English</a> </li></ul></div><div class="text"><ul><li>Suivez-moi sur Twitter: <a href="http://www.twitter.com/nitot/">@nitot</a></li></div><div id="topnav"><h2>Le blog</h2><ul><li class="topnav-home"><a href="http://standblog.org/blog/">Accueil</a><span> - </span></li><li class="topnav-arch"><a href="http://standblog.org/blog/archive">Archives</a></li></ul></div><div class="text"><h2>? propos de l'auteur</h2><ul><li><a href="http://www.nitot.com/cv/" hreflang="en" title="Pas ? jour !">L'incontournable CV</a></li>
+
+<li><a href="http://www.linkedin.com/in/nitot" hreflang="en" title="Mon profil professionnel sur le r?seau social LinkedIn.com">Tristan Nitot sur LinkedIn</a></li>
+<li><a href="http://fr.wikipedia.org/wiki/Tristan_Nitot" hreflang="fr" title="Biographie de votre serviteur">Bio sur Wikipedia FR</a></li>
+<li><a href="http://www.flickr.com/photos/nitot/" title="publi?es sur le site flickr.com">Mes photos</a></li>
+<li><a href="http://stats.apinc.org/standblog.org/" title="Actuellement 'en vrac' ;-)">Statistiques du Standblog</a></li>
+</ul></div><div class="links"><h2>Incontournables</h2><ul><li><a href="http://www.mozilla-europe.org/" title="Le site officiel de Mozilla en Europe">Mozilla Europe</a></li>
+<li><a href="http://www.mozilla.org/" hreflang="en">Mozilla.org</a></li>
+<li><a href="http://www.mozilla.com/en-US/" hreflang="en">Mozilla.com</a></li>
+<li><a href="http://getfirefox.com/">Get Firefox</a></li>
+<li><a href="http://planet.mozilla.org/" hreflang="en" title="Les derniers billets des blogueurs mozilliens">Planet Mozilla</a></li>
+<li><a href="http://www.geckozone.org/forum/" hreflang="fr" title="Geckozone.org">Forums d'aide sur Firefox</a></li>
+<li><a href="http://openweb.eu.org/" hreflang="fr" title="Pour les standards du Web">OpenWeb</a></li>
+<li><a href="http://www.opquast.com/?langue=fr" hreflang="fr" title="Bonnes pratiques pour la qualit? des services en ligne">Opquast en fran?ais</a></li>
+<li><a href="http://www.opquast.com/?&amp;langue=en" hreflang="en" title="a list of Best Practices for the quality of on-line services">Opquast in English</a></li>
+</ul>
+</div><div id="search"><h2><label for="q">Rechercher</label></h2><form action="http://standblog.org/blog/" method="get"><fieldset><p><input type="text" size="10" maxlength="255" id="q" name="q" value="" /> <input type="submit" class="submit" value="ok" /></p></fieldset></form></div><div class="categories"><h2>Cat?gories</h2><ul><li><a href="http://standblog.org/blog/category/Standards">Standards</a></li><li><a href="http://standblog.org/blog/category/Navigateurs">Navigateurs</a></li><li><a href="http://standblog.org/blog/category/Accessibilite">Accessibilit?</a></li><li><a href="http://standblog.org/blog/category/Politique">Politique</a></li><li><a href="http://standblog.org/blog/category/Humour">Humour</a></li><li><a href="http://standblog.org/blog/category/TropDeStandards">Trop de standards...</a></li><li><a href="http://standblog.org/blog/category/StandblogBlogs">StandBlog et blogs</a></li><li><a href="http://standblog.org/blog/category/Technologie">Technologie</a></li><li><a href="http://standblog.org/blog/category/Cuisine">Cuisine</a></li><li><a href="http://standblog.org/blog/category/Livres">Livres</a></li><li><a href="http://standblog.org/blog/category/En-vrac">En vrac</a></li><li><a href="http://standblog.org/blog/category/Mozillaeurope">Mozilla-Europe</a></li><li><a href="http://standblog.org/blog/category/En">en</a></li><li><a href="http://standblog.org/blog/category/References">R?f?rences</a></li><li><a href="http://standblog.org/blog/category/Moto">Moto</a></li><li><a href="http://standblog.org/blog/category/Environnement">Environnement</a></li><li><a href="http://standblog.org/blog/category/Dangers-des-drm">Dangers des DRM</a></li><li><a href="http://standblog.org/blog/category/Photo">Photographie</a></li><li><a href="http://standblog.org/blog/category/Economie">Economie</a></li><li><a href="http://standblog.org/blog/category/Vie-en-ligne">Vie en ligne</a></li></ul></div>  </div> <!-- End #blognav -->
+  
+  <div id="blogextra">
+    <div class="selected"><h2>Quelques billets notables</h2><ul> <li><a href="http://standblog.org/blog/post/2011/07/19/Mozilla-is-changing">Mozilla is changing</a></li>  <li><a href="http://standblog.org/blog/post/2010/08/20/Videohtml5Popcorn.jshyper-video">Video+html5+Popcorn.js=hyper-video</a></li>  <li><a href="http://standblog.org/blog/post/2010/02/22/Ecran-de-choix-du-navigateur">Ecran de choix du navigateur : ? vous de jouer !</a></li>  <li><a href="http://standblog.org/blog/post/2010/01/14/J-aime-Google-mais">J'aime Google ! (mais...)</a></li>  <li><a href="http://standblog.org/blog/post/2009/12/01/Intro-Bidouillabilite">Introduction ? la Bidouillabilit?</a></li>  <li><a href="http://standblog.org/blog/post/2009/11/04/Sortie-de-Firefox-3.6-Beta-1">Sortie de Firefox 3.6 Beta 1</a></li>  <li><a href="http://standblog.org/blog/post/2009/08/05/S-attaquer-aux-tabous-pour-devenir-%C3%A9colo">S'attaquer aux tabous pour devenir ?colo</a></li>  <li><a href="http://standblog.org/blog/post/2009/07/27/Quand-Amazon-joue-%C3%A0-1984-avec-son-Kindle">Quand Amazon joue ? 1984 avec son Kindle</a></li>  <li><a href="http://standblog.org/blog/post/2009/07/26/Poetry-is-important">Poetry is important</a></li>  <li><a href="http://standblog.org/blog/post/2009/07/24/Mozilla-embauche-%C3%A0-Paris">Mozilla embauche ? Paris</a></li>  <li><a href="http://standblog.org/blog/post/2009/05/20/About-Generativity">About Generativity</a></li>  <li><a href="http://standblog.org/blog/post/2009/05/13/En-col%C3%A8re">En col?re</a></li>  <li><a href="http://standblog.org/blog/post/2009/05/07/Les-anciens-contre-les-modernes">Les anciens contre les modernes</a></li>  <li><a href="http://standblog.org/blog/post/2009/04/27/Mesurer-ce-qui-est-important-%3A-S%C3%A9v%C3%A9rit%C3%A9%2C-Dur%C3%A9e-d-exposition-et-Compl%C3%A8te-divulgation">Mesurer ce qui est important : S?v?rit?, Dur?e d'exposition et Compl?te divulgation</a></li>  <li><a href="http://standblog.org/blog/post/2009/01/09/Suis-je-credible-quand-je-parle-d-environnement">Suis-je cr?dible quand je parle d'environnement ?</a></li>  <li><a href="http://standblog.org/blog/post/2008/12/09/Le-logiciel-et-moi-4/4">Le logiciel et moi (4/4) : conclusion</a></li>  <li><a href="http://standblog.org/blog/post/2008/12/09/Le-logiciel-et-moi-3/4">Le logiciel et moi (3/4) : Le logiciel Libre, nouveau mode d'organisation</a></li>  <li><a href="http://standblog.org/blog/post/2008/12/09/Le-logiciel-et-moi-2/4">Le logiciel et moi (2/4) : de l'importance du logiciel et de sa libert?</a></li>  <li><a href="http://standblog.org/blog/post/2008/12/09/Le-logiciel-et-moi-1/4">Le logiciel et moi (1/4)  : le logiciel propri?taire</a></li>  <li><a href="http://standblog.org/blog/post/2008/09/25/La-main-au-porte-monnaie-%3A-Dotclear">La main au porte-monnaie : Dotclear</a></li>  <li><a href="http://standblog.org/blog/post/2008/08/25/Every-day-is-an-opportunity-for-Mozilla-to-impress-me">Every day is an opportunity for Mozilla to impress me</a></li>  <li><a href="http://standblog.org/blog/post/2008/08/19/Essai-de-la-Harley-Davidson-Electra-Glide-Ultra-Classic">Essai de la Harley-Davidson Electra Glide Ultra Classic</a></li>  <li><a href="http://standblog.org/blog/post/2008/06/19/Firefox-3-launch-press-coverage">Firefox 3 launch press coverage</a></li>  <li><a href="http://standblog.org/blog/post/2008/04/19/10-raisons-de-choisir-Firefox-3">10 raisons de choisir Firefox 3</a></li>  <li><a href="http://standblog.org/blog/post/2008/04/14/Lhomme-Libre-qui-plantait-du-code">L'homme (Libre) qui plantait du code</a></li>  <li><a href="http://standblog.org/blog/post/2008/04/13/Mitchell-Baker-video-interview-in-Paris-part-1/2">Mitchell Baker video interview in Paris, part 1/2</a></li>  <li><a href="http://standblog.org/blog/post/2008/04/10/Three-great-articles-about-Mozilla">Three great articles about Mozilla</a></li>  <li><a href="http://standblog.org/blog/post/2008/02/03/A-propos-de-Netocratie">A propos de Netocratie</a></li>  <li><a href="http://standblog.org/blog/post/mozilla-turns-10">Ten freaking years!</a></li>  <li><a href="http://standblog.org/blog/post/2007/11/19/Please-dont-use-Facebook-to-contact-me">Please don't use Facebook to contact me</a></li>  <li><a href="http://standblog.org/blog/post/2007/09/05/La-guerre-des-formats-bureautiques-aura-bien-lieu">La guerre des formats bureautiques aura bien lieu</a></li>  <li><a href="http://standblog.org/blog/post/2007/08/24/Ze-Best-of-mes-photos">Ze Best of mes photos</a></li>  <li><a href="http://standblog.org/blog/post/2007/02/14/Mozilla-presente-son-manifeste">Mozilla pr?sente son manifeste</a></li>  <li><a href="http://standblog.org/blog/post/2007/01/09/A-propos-de-securite-des-navigateurs">A propos de s?curit? des navigateurs</a></li>  <li><a href="http://standblog.org/blog/post/2006/02/28/93114681-firefox-les-standards-et-l-avenir-du-web-l-independance-du-projet-mozilla-5-5">Firefox, les standards et l'avenir du Web : l'ind?pendance du projet Mozilla (5/5)</a></li>  <li><a href="http://standblog.org/blog/post/2006/02/27/93114679-firefox-les-standards-et-l-avenir-du-web-l-aide-des-partenaires">Firefox, les standards et l'avenir du Web : l'aide des partenaires (4/5)</a></li>  <li><a href="http://standblog.org/blog/post/2006/02/25/93114678-firefox-les-standards-et-l-avenir-du-web-l-historique-de-la-relation-avec-google">Firefox, les standards et l'avenir du Web : l'historique de la relation avec Google (3/5)</a></li>  <li><a href="http://standblog.org/blog/post/2006/02/23/93114675-firefox-les-standards-et-l-avenir-du-web-l-importance-des-parts-de-marche">Firefox, les standards et l'avenir du Web :  l'importance des parts de march? (2/5)</a></li>  <li><a href="http://standblog.org/blog/post/2006/02/23/93114674-firefox-les-standards-et-l-avenir-du-web-introduction">Firefox, les standards et l'avenir du Web : Introduction (1/5)</a></li>  <li><a href="http://standblog.org/blog/post/2005/10/26/93114459-de-la-difficulte-de-bloguer">De la difficult? de bloguer</a></li>  <li><a href="http://standblog.org/blog/post/2005/10/22/93114455-faut-il-etre-pour-ou-contre-microsoft">Faut-il ?tre pour ou contre Microsoft ?</a></li>  <li><a href="http://standblog.org/blog/post/2005/08/29/93114324-la-main-au-porte-monnaie">La main au porte-monnaie</a></li>  <li><a href="http://standblog.org/blog/post/2005/08/12/93114297-quelques-reflexions-en-vrac">Quelques r?flexions en vrac</a></li>  <li><a href="http://standblog.org/blog/post/2005/06/09/93114197-la-soupe-au-caillou">La soupe au caillou</a></li>  <li><a href="http://standblog.org/blog/post/2005/04/16/93114123-chassez-le-naturiste-il-revient-au-bungalow">Chassez le naturiste, il revient au bungalow !</a></li>  <li><a href="http://standblog.org/blog/post/2004/07/14/93113583-le-navigateur-en-tant-que-plate-forme">Le navigateur en tant que plate-forme</a></li>  <li><a href="http://standblog.org/blog/post/2004/04/22/93113440-ma-chapelle">Ma chapelle</a></li>  <li><a href="http://standblog.org/blog/post/2004/02/25/93113354-mais-quest-ce-qui-fait-courir-tristan">Mais qu'est-ce qui fait courir Tristan ?</a></li> </ul></div><div class="syndicate"><h2>Abonnements</h2><ul><li><a type="application/rss+xml" href="http://standblog.org/blog/feed/rss2" title="Fil RSS des billets de ce blog" class="feed">Fil des billets</a></li><li><a type="application/rss+xml" href="http://standblog.org/blog/feed/rss2/comments" title="Fil RSS des commentaires de ce blog" class="feed">Fil des commentaires</a></li></ul></div>  </div> <!-- End #blogextra -->
+</div>
+
+</div> <!-- End #wrapper -->
+
+<div id="footer">
+<p>Ce site, qui porte principalement sur les standards du
+Web, les navigateurs et la technologie, est maintenu par <a href="http://www.nitot.com/cv/" hreflang="en">Tristan Nitot</a>. Les opinions exprim?es sur ce site sont uniquement celles de son auteur et ne sauraient ?tre attribu?es ? quelconque organisation ? laquelle il pourrait ?tre affili?.</p>
+<p>Ce site fonctionne avec des logiciels libres tels
+que <a href="http://debian.org/">Debian GNU/Linux</a>, <a href="http://apache.org/">Apache</a>, <a href="http://www.mysql.com/">MySQL</a>, <a href="http://www.php.net/">PHP</a> et <a href="http://www.dotclear.net/">DotClear</a>.</p>
+</div></div> <!-- End #page -->
+</body>
+</html>
+

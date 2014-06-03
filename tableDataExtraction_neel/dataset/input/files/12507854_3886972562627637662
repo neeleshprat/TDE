@@ -1,0 +1,609 @@
+<html>
+<head>
+<title>Forwardcharm Fantasy Rally - preview future events.</title>
+
+<link href="/style.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" language="javascript">
+var msgX;
+var msgY;
+var msgXstep;
+var msgYstep;
+
+function StartSwoop() {
+	msgX = 750;
+	msgY = 0;
+	msgXstep = -3;
+	msgYstep = -30;
+	setTimeout( 'Swoop()', 40 );
+}
+
+function Swoop() {
+	if ( msgY <= 0 ) {
+		msgY = -msgY;
+		msgYstep = -msgYstep - 1;
+	}
+	msgX += msgXstep;
+	msgY += msgYstep;
+	msgYstep--;
+	document.getElementById( 'whee' ).style.left = msgX;
+	document.getElementById( 'whee' ).style.top = msgY;
+	document.getElementById( 'whee' ).style.width = 200;
+
+	if ( msgX > -500 ) {
+		setTimeout( 'Swoop()', 40 );
+	}
+}
+
+</script>
+</head>
+<body>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td style="background-image: url( '/images/topnavbg.gif' );">
+	    <img src="/images/topnavbg.gif" width="44" height="35" alt="" />
+	    <a href="/index.php"><img src="/images/btn2010_home.gif" 	class="headerbutton" id="btnhome"	width="100" height="30" alt="Home" onmouseover='document.getElementById("btnhome").src="/images/btn2010_home_on.gif";' onmouseout='document.getElementById("btnhome").src="/images/btn2010_home.gif";' /></a>
+	    <a href="/rally.php"><img src="/images/btn2010_rally.gif"	class="headerbutton" id="btnrally"	width="100" height="30" alt="Fantasy Rally" onmouseover='document.getElementById("btnrally").src="/images/btn2010_rally_on.gif";' onmouseout='document.getElementById("btnrally").src="/images/btn2010_rally.gif";' /></a>
+	    <a href="/f1.php"><img src="/images/btn2010_f1.gif"	class="headerbutton" id="btnf1"	width="100" height="30" alt="Fantasy F1" onmouseover='document.getElementById("btnf1").src="/images/btn2010_f1_on.gif";' onmouseout='document.getElementById("btnf1").src="/images/btn2010_f1.gif";' /></a>
+	    <a href="/games.php"><img src="/images/btn2010_fun.gif"	class="headerbutton" id="btnfun"	width="100" height="30" alt="Fun Stuff, Sudoku" onmouseover='document.getElementById("btnfun").src="/images/btn2010_fun_on.gif";' onmouseout='document.getElementById("btnfun").src="/images/btn2010_fun.gif";' /></a>
+	    <a href="/movies.php"><img src="/images/btn2010_movies.gif"	class="headerbutton" id="btnmovies"	width="100" height="30" alt="Movies" onmouseover='document.getElementById("btnmovies").src="/images/btn2010_movies_on.gif";' onmouseout='document.getElementById("btnmovies").src="/images/btn2010_movies.gif";' /></a>
+	    <a href="/links.php"><img src="/images/btn2010_links.gif"	class="headerbutton" id="btnlinks"	width="100" height="30" alt="Links" onmouseover='document.getElementById("btnlinks").src="/images/btn2010_links_on.gif";' onmouseout='document.getElementById("btnlinks").src="/images/btn2010_links.gif";' /></a>
+	  </td>
+        </tr>
+        <tr class="mastertitle"> 
+          <td class="mastertitle">
+	    <h1 class="mastertitle" id="mastertitle">Forwardcharm</h1>
+	  </td>
+        </tr>
+        <tr> 
+          <td><img src="/images/toppic3.gif" width="748" height="29" alt="" /></td>
+        </tr>
+      </table>
+    </td>
+    <td style="background-image: url( '/images/rightsidebg.gif' );">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td style="width: 230px;" valign="top"><img src="/images/pixi_clear.gif" width="230" height="30" alt="" /><br /> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td style="width: 37px;">&nbsp;</td>
+          <td><h1>Latest News</h1>
+            <p> <span class="sidelinks">23 / 01 / 2012<br />
+              <strong>Fantasy Rally:</strong></span> Teams are now open for editing again.  Ogier and Mikkelsen are entered into Sweden in S2000
+cars, but they're not eligible for the SWRC championship.  You can choose them as WRC drivers for Sweden if you want.</p>
+            <p> <span class="sidelinks">22 / 01 / 2012<br />
+              <strong>Fantasy Rally:</strong></span> Results from the Monte are in!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201201montecarlo">Check the results</a>,
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/rallypickteam.pl">enter a new team</a>.  The second rally is in Sweden and starts on 9th Feb.
+Teams will be frozen at midnight GMT on the night of Thursday 9th Feb.</p>
+            <p> <span class="sidelinks">18 / 01 / 2012<br />
+              <strong>Fantasy Rally:</strong></span> Rally teams are now frozen for the Monte.  You can still 
+		<a href="/cgi-bin/rallypickteam.pl">pick a team</a> and it will start scoring from Sweden on 9th Feb.  
+            <p> <span class="sidelinks">11 / 01 / 2012<br />
+              <strong>Fantasy Rally:</strong></span> The 2012 Fantasy Rally season is now open for entries!
+		<a href="/cgi-bin/rallyrules.pl">Read the rules</a> or dive straight in and 
+		<a href="/cgi-bin/rallypickteam.pl">pick a team</a>.  
+You can change your team as often as you like so you may as well create one now in case you forget later.
+Cutoff for the first race in Monte Carlo is midnight GMT on the night of <b>TUESDAY</b> 17th January.</p>
+            <p> <span class="sidelinks">27 / 11 / 2011<br />
+              <strong>Fantasy F1:</strong></span> The results from the final F1 race at Brazil are in and the championship has been decided!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201119brazil">Check the results</a> or
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a>.  First race of 2012 is Australia on 18th March.  Entries for the new
+season will open a week or two before that date.</p>
+            <p> <span class="sidelinks">14 / 11 / 2011<br />
+              <strong>Fantasy Rally:</strong></span> Shock rally drama!  Martin Semerad was excluded from the PWRC, so our
+results change too, which gives us a new champion!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201113gb">Check the results</a> or
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a>.</p>
+            <p> <span class="sidelinks">13 / 11 / 2011<br />
+              <strong>Fantasy Rally:</strong></span> The results from Rally GB are in and the season is over!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201113gb">Check the results</a> or
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a>.  
+The 2012 season will be open for entries in early 2012 in time for Monte Carlo on 17th January.</p>
+            <p> <span class="sidelinks">13 / 11 / 2011<br />
+              <strong>Fantasy F1:</strong></span> The results from F1 race 18 at Abu Dhabi are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201118abudhabi">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Only one race to go - the final race is Brazil in two weeks on 27th November.</p>
+            <p> <span class="sidelinks">30 / 10 / 2011<br />
+              <strong>Fantasy F1:</strong></span> The results from F1 race 17 at India are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201117india">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Only two races to go - next race is Abu Dhabi in two weeks on 13th November.</p>
+            <p> <span class="sidelinks">24 / 10 / 2011<br />
+              <strong>Fantasy Rally:</strong></span> The results from Rally Spain are in!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201112spain">Check the results</a>,
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/rallypickteam.pl">enter a new team</a>.  The next and FINAL rally of the year is Wales Rally GB on 10th November.  
+Entries close on the night of <b>WEDNESDAY</b> 9th November (a day earlier than usual).</p>
+            <p> <span class="sidelinks">16 / 10 / 2011<br />
+              <strong>Fantasy F1:</strong></span> The results from F1 race 16 at South Korea are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201116southkorea">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is India in two weeks on 30th October.</p>
+            <p> <span class="sidelinks">09 / 10 / 2011<br />
+              <strong>Fantasy F1:</strong></span> The results from F1 race 15 at Suzuka are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201115japan">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is South Korea next weekend on 16th October.</p>
+            <p> <span class="sidelinks">02 / 10 / 2011<br />
+              <strong>Fantasy Rally:</strong></span> The results from Rally France are in!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201111france">Check the results</a>,
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/rallypickteam.pl">enter a new team</a>.  Next rally is Spain on 20th October.</p>
+            <p> <span class="sidelinks">25 / 09 / 2011<br />
+              <strong>Fantasy F1:</strong></span> The results from F1 race 14 at Singapore are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201114singapore">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Suzuka in two weeks on 9th October.</p>
+            <p> <span class="sidelinks">11 / 09 / 2011<br />
+              <strong>Fantasy Rally:</strong></span> The results from Rally Australia are in!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201110australia">Check the results</a>,
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/rallypickteam.pl">enter a new team</a>.  Next rally is France on 29th September.</p>
+            <p> <span class="sidelinks">11 / 09 / 2011<br />
+              <strong>Fantasy F1:</strong></span> The results from F1 race 13 at Monza are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201113italy">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Singapore in two weeks on 25th September.</p>
+            <p> <span class="sidelinks">28 / 08 / 2011<br />
+              <strong>Fantasy F1:</strong></span> The results from F1 race 12 at Spa are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201112belgium">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Monza in two weeks on 11th September.</p>
+            <p> <span class="sidelinks">21 / 08 / 2011<br />
+              <strong>Fantasy Rally:</strong></span> The results from Rally Germany are in!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201109germany">Check the results</a>,
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/rallypickteam.pl">enter a new team</a>.  Next rally is Australia on 8th September.</p>
+            <p> <span class="sidelinks">01 / 08 / 2011<br />
+              <strong>Fantasy Rally:</strong></span> The results from Rally Finland are in!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201108finland">Check the results</a>,
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/rallypickteam.pl">enter a new team</a>.  Next rally is Germany on 18th August.</p>
+            <p> <span class="sidelinks">31 / 07 / 2011<br />
+              <strong>Fantasy F1:</strong></span> The results from F1 race 11 at Hungary are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201111hungary">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Spa in a month on 28th August.</p>
+            <p> <span class="sidelinks">24 / 07 / 2011<br />
+              <strong>Fantasy F1:</strong></span> The results from F1 race 10 at the Nurburgring are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201110germany">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Hungary next weekend on 31st July.</p>
+            <p> <span class="sidelinks">10 / 07 / 2011<br />
+              <strong>Fantasy F1:</strong></span> The results from F1 race 9 at Silverstone are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201109gb">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Nurburgring in 2 weeks on 24th July.</p>
+            <p> <span class="sidelinks">26 / 06 / 2011<br />
+              <strong>Fantasy F1:</strong></span> The results from F1 race 8 in Valencia are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201108europe">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Silverstone in 2 weeks on 10th July.</p>
+            <p> <span class="sidelinks">19 / 06 / 2011<br />
+              <strong>Fantasy Rally:</strong></span> The results from Rally Acropolis are in!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201107greece">Check the results</a>,
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/rallypickteam.pl">enter a new team</a>.  Next rally is Finland on 28th July.</p>
+            <p> <span class="sidelinks">12 / 06 / 2011<br />
+              <strong>Fantasy F1:</strong></span> The results from F1 race 7 in Canada are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201107canada">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Valencia in 2 weeks on 26th June.</p>
+            <p> <span class="sidelinks">30 / 05 / 2011<br />
+              <strong>Fantasy Rally:</strong></span> The results from Rally Argentina are in!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201106argentina">Check the results</a>,
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/rallypickteam.pl">enter a new team</a>.  Next rally is Greece on 16th June.</p>
+            <p> <span class="sidelinks">29 / 05 / 2011<br />
+              <strong>Fantasy F1:</strong></span> The results from F1 race 6 in Monaco are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201106monaco">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Canada in 2 weeks on 12th June.</p>
+            <p> <span class="sidelinks">22 / 05 / 2011<br />
+              <strong>Fantasy F1:</strong></span> The results from F1 race 5 in Barcelona are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201105spain">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Monaco next weekend on 29th May.</p>
+            <p> <span class="sidelinks">08 / 05 / 2011<br />
+              <strong>Fantasy Rally:</strong></span> The results from Rally Sardinia are in!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201105italy">Check the results</a>,
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/rallypickteam.pl">enter a new team</a>.  Next rally is Argentina on 26th May.</p>
+            <p> <span class="sidelinks">08 / 05 / 2011<br />
+              <strong>Fantasy F1:</strong></span> The results from the fourth F1 race of 2011 in Turkey are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201104turkey">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Barcelona on 22nd May.</p>
+            <p> <span class="sidelinks">17 / 04 / 2011<br />
+              <strong>Fantasy F1:</strong></span> The results from the thrilling third F1 race of 2011 in China are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201103china">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Turkey on 8th May.</p>
+            <p> <span class="sidelinks">16 / 04 / 2011<br />
+              <strong>Fantasy Rally:</strong></span> The results from the rather shortened Rally Jordan are in!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201104jordan">Check the results</a>,
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/rallypickteam.pl">enter a new team</a>.  Next rally is Sardinia on 5th May.</p>
+            <p> <span class="sidelinks">10 / 04 / 2011<br />
+              <strong>Fantasy F1:</strong></span> The results from Malaysia have been updated to reflect the penalties
+applied to Hamilton and Alonso.  Of course, being a Ferrari, Alonso's didn't actually make any difference.</p>
+            <p> <span class="sidelinks">10 / 04 / 2011<br />
+              <strong>Fantasy F1:</strong></span> The results from the second F1 race of 2011 in Malaysia are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201102malaysia">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is China on 17th April.</p>
+            <p> <span class="sidelinks">28 / 03 / 2011<br />
+              <strong>Fantasy Rally:</strong></span> The results from Rally Portugal are in!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201103portugal">Check the results</a>,
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/rallypickteam.pl">enter a new team</a>.  Next rally is Jordan on 14th April.</p>
+            <p> <span class="sidelinks">27 / 03 / 2011<br />
+              <strong>Fantasy F1:</strong></span> The results from Australia have been updated to reflect the disqualification
+of the Saubers.</p>
+            <p> <span class="sidelinks">27 / 03 / 2011<br />
+              <strong>Fantasy F1:</strong></span> The results from the first F1 race in Melbourne are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201101australia">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Malaysia on 10th April.</p>
+            <p> <span class="sidelinks">14 / 03 / 2011<br />
+              <strong>Fantasy F1:</strong></span> The 2011 Fantasy F1 season is finally open for entries!
+		<a href="/cgi-bin/f1pickteam.pl">Pick your team</a> now as the first race is on 27th March!</p>
+            <p> <span class="sidelinks">07 / 03 / 2011<br />
+              <strong>Fantasy Rally:</strong></span> The results from Rally Mexico are in!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201102mexico">Check the results</a>,
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/rallypickteam.pl">enter a new team</a>.  Next rally is Portugal on 24th March.</p>
+            <p> <span class="sidelinks">14 / 02 / 2011<br />
+              <strong>Fantasy Rally:</strong></span> The results from Rally Sweden are in!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201101sweden">Check the results</a>,
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/rallypickteam.pl">enter a new team</a>.  Next rally is Mexico on 3rd March.</p>
+            <p> <span class="sidelinks">06 / 02 / 2011<br />
+              <strong>Fantasy Rally:</strong></span> At last!  The 2011 Fantasy Rally season is open for entries!
+		<a href="/cgi-bin/rallypickteam.pl">Pick your team</a> now as the first rally starts on Thursday!</p>
+            <p> <span class="sidelinks">14 / 11 / 2010<br />
+              <strong>Fantasy Rally:</strong></span> The results from the final round, Wales Rally GB, are in!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201013gb">Check the results</a> or
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a> in the final standings.</p>
+            <p> <span class="sidelinks">14 / 11 / 2010<br />
+              <strong>Fantasy F1:</strong></span> The results from the final race at Abu Dhabi are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201019abudhabi">Check the results</a> or
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a>.  Please come back and play again next year!</p>
+            <p> <span class="sidelinks">07 / 11 / 2010<br />
+              <strong>Fantasy F1:</strong></span> The results from the eighteenth and penultimate race at Brazil are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201018brazil">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+				<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  The final race is Abu Dhabi next week on 14th November.</p>
+            <p> <span class="sidelinks">03 / 10 / 2010<br />
+              <strong>Fantasy Rally:</strong></span> The results from Rally Spain are in!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201012spain">Check the results</a>,
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/rallypickteam.pl">enter a new team</a>.  Next and final rally is Wales Rally GB on 12th November.</p>
+            <p> <span class="sidelinks">24 / 10 / 2010<br />
+              <strong>Fantasy F1:</strong></span> The results from the seventeenth race at South Korea are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201017southkorea">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+				<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Brazil in two weeks on 7th November.</p>
+            <p> <span class="sidelinks">10 / 10 / 2010<br />
+              <strong>Fantasy F1:</strong></span> The results from the sixteenth race at Suzuka are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201016japan">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+				<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Korea in two weeks on 24th October.</p>
+            <p> <span class="sidelinks">03 / 10 / 2010<br />
+              <strong>Fantasy Rally:</strong></span> The results from Rally France are in!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201011france">Check the results</a>,
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/rallypickteam.pl">enter a new team</a>.  Next rally is Spain on 22nd October.</p>
+            <p> <span class="sidelinks">26 / 09 / 2010<br />
+              <strong>Fantasy F1:</strong></span> The results from the fifteenth race in Singapore are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201015singapore">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+				<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Suzuka in two weeks on 10th October.</p>
+            <p> <span class="sidelinks">14 / 09 / 2010<br />
+              <strong>Fantasy Rally:</strong></span> The results from Rally Japan are in!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201010japan">Check the results</a>,
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/rallypickteam.pl">enter a new team</a>.  Next rally is France on 1st October.</p>
+            <p> <span class="sidelinks">12 / 09 / 2010<br />
+              <strong>Fantasy F1:</strong></span> The results from the fourteenth race in Monza are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201014italy">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+				<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Singapore in two weeks on 26th September.</p>
+            <p> <span class="sidelinks">30 / 08 / 2010<br />
+              <strong>Fantasy F1:</strong></span> The scores from Spa have been updated to reflect Alguersuari's 
+		3-place penalty.</p>
+            <p> <span class="sidelinks">29 / 08 / 2010<br />
+              <strong>Fantasy F1:</strong></span> The results from the thirteenth race in Belgium are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201013belgium">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+				<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Monza in two weeks on 12th September.</p>
+            <p> <span class="sidelinks">22 / 08 / 2010<br />
+              <strong>Fantasy Rally:</strong></span> The results from Rally Germany are in!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201009germany">Check the results</a>,
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/rallypickteam.pl">enter a new team</a>.  Next rally is Japan on 10th September.</p>
+            <p> <span class="sidelinks">01 / 08 / 2010<br />
+              <strong>Fantasy F1:</strong></span> The results from the twelfth race in Hungary are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201012hungary">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+				<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Spa in four weeks on 29th August.</p>
+            <p> <span class="sidelinks">01 / 08 / 2010<br />
+              <strong>Fantasy Rally:</strong></span> The results from Rally Finland are in!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201008finland">Check the results</a>,
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/rallypickteam.pl">enter a new team</a>.  Next rally is Germany on 20th August.</p>
+            <p> <span class="sidelinks">25 / 07 / 2010<br />
+              <strong>Fantasy F1:</strong></span> The results from the eleventh race in Germany are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201011germany">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+				<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Hungary next weekend on 1st August.</p>
+            <p> <span class="sidelinks">11 / 07 / 2010<br />
+              <strong>Fantasy Rally:</strong></span> The results from Rally Bulgaria are in!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201007bulgaria">Check the results</a>,
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/rallypickteam.pl">enter a new team</a>.  Next rally is Finland on THURSDAY 29th July
+(a day earlier than usual!).</p>
+            <p> <span class="sidelinks">11 / 07 / 2010<br />
+              <strong>Fantasy F1:</strong></span> The results from the tenth race in Silverstone are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201010gb">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+				<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Hockenheim on 25th July.</p>
+            <p> <span class="sidelinks">27 / 06 / 2010<br />
+              <strong>Fantasy F1:</strong></span> The results from the ninth race in Valencia are in, including the 
+penalties for the naughty boys driving too fast.
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201009europe">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+				<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Silverstone on 11th July.</p>
+            <p> <span class="sidelinks">13 / 06 / 2010<br />
+              <strong>Fantasy F1:</strong></span> The results from the eighth race in Canada are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201008canada">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+				<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Valencia on 27th June.</p>
+            <p> <span class="sidelinks">30 / 05 / 2010<br />
+              <strong>Fantasy Rally:</strong></span> The results from Rally Portugal are in!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201006portugal">Check the results</a>,
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/rallypickteam.pl">enter a new team</a>.  Next rally is Bulgaria on 9th July.</p>
+            <p> <span class="sidelinks">30 / 05 / 2010<br />
+              <strong>Fantasy F1:</strong></span> The results from the exciting seventh race in Turkey are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201007turkey">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+				<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Canada on 13th June.</p>
+            <p> <span class="sidelinks">16 / 05 / 2010<br />
+              <strong>Fantasy F1:</strong></span> The Monaco scores have been updated to reflect Michael Schumacher's ridiculous
+		penalty for daring to overtake a Ferrari.
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201006monaco">Check the updated results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+				<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.</p>
+            <p> <span class="sidelinks">16 / 05 / 2010<br />
+              <strong>Fantasy F1:</strong></span> The results from the sixth race in Monaco are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201006monaco">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+				<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Turkey on 30th May.</p>
+            <p> <span class="sidelinks">10 / 05 / 2010<br />
+              <strong>Fantasy F1:</strong></span> The results from the fifth race in Barcelona are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201005spain">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+				<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Monaco on 16th May.</p>
+            <p> <span class="sidelinks">10 / 05 / 2010<br />
+              <strong>Fantasy Rally:</strong></span> The results from Rally New Zealand are in!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201005newzealand">Check the results</a>,
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/rallypickteam.pl">enter a new team</a>.  Next rally is Portugal on 28th May.</p>
+            <p> <span class="sidelinks">19 / 04 / 2010<br />
+              <strong>Fantasy Rally:</strong></span> The results from Rally Turkey are in!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201004turkey">Check the results</a>,
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/rallypickteam.pl">enter a new team</a>.  Next rally is New Zealand on 7th May.</p>
+            <p> <span class="sidelinks">18 / 04 / 2010<br />
+              <strong>Fantasy F1:</strong></span> The results from the fourth race in China are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201004china">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+				<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Barcelona on 9th May.</p>
+            <p> <span class="sidelinks">06 / 04 / 2010<br />
+              <strong>Fantasy Rally:</strong></span> The JWRC driver lineup has been released, so you can make 
+		your selection before teams are frozen for Turkey on the night of 15th April.  
+		If you don't pick anyone, you'll get Aaron Burkart by default.</p>
+            <p> <span class="sidelinks">05 / 04 / 2010<br />
+              <strong>Fantasy F1:</strong></span> The results from the third race in Malaysia are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201003malaysia">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+				<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is China on 18th April.</p>
+            <p> <span class="sidelinks">03 / 04 / 2010<br />
+              <strong>Fantasy Rally:</strong></span> The results from Rally Jordan are in!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201003jordan">Check the results</a>,
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/rallypickteam.pl">enter a new team</a>.  Next race is Turkey on 14th April.</p>
+            <p> <span class="sidelinks">29 / 03 / 2010<br />
+              <strong>Fantasy F1:</strong></span> The results from the second race in Melbourne are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201002australia">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+				<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Malaysia THIS WEEKEND on 4th April.</p>
+            <p> <span class="sidelinks">14 / 03 / 2010<br />
+              <strong>Fantasy F1:</strong></span> The results from the first race in Bahrain are in!
+		<a href="/cgi-bin/f1viewoneresult.pl?race=201001bahrain">Check the results</a>,
+		<a href="/cgi-bin/f1viewleague.pl">see how your team did</a> or
+				<a href="/cgi-bin/f1pickteam.pl">enter a new team</a>.  Next race is Australia on 28th March.</p>
+            <p> <span class="sidelinks">09 / 03 / 2010<br />
+              <strong>Fantasy F1!</strong></span> Yes, there's a brand new Fantasy Formula One game!
+		<a href="/cgi-bin/f1rules.pl">Check the rules</a> or
+		<a href="/cgi-bin/f1pickteam.pl">enter your team</a> by Friday night to qualify for the first race in Bahrain!</p>
+            <p> <span class="sidelinks">08 / 03 / 2010<br />
+              <strong>Fantasy Rally:</strong></span> The results from Rally Mexico are in!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201002mexico">Check the results</a>,
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/rallypickteam.pl">enter a new team</a>.  Next race is Jordan on 1st April.</p>
+            <p> <span class="sidelinks">17 / 02 / 2010<br />
+              <strong>Fantasy Rally:</strong></span> The points awarded for a win have changed in the real WRC, so we've
+		reflected the changes in our scoring too.
+		<a href="/cgi-bin/rallyrules.pl">Check the rules</a> to see the details.  Next rally is Mexico on 5th March,
+		teams will be frozen at midnight on the night of Thursday 4th March.</p>
+            <p> <span class="sidelinks">16 / 02 / 2010<br />
+              <strong>Fantasy Rally:</strong></span> The results from Rally Sweden are in!
+		<a href="/cgi-bin/rallyviewoneresult.pl?race=201001sweden">Check the results</a>,
+		<a href="/cgi-bin/rallyviewleague.pl">see how your team did</a> or
+		<a href="/cgi-bin/rallypickteam.pl">enter a new team</a>.</p>
+            <p> <span class="sidelinks">31 / 01 / 2010<br />
+              <strong>Fantasy Rally:</strong></span> The new rally season is upon us - 2010 Fantasy Rally is now open!
+		<a href="/cgi-bin/rallyrules.pl">Check the rules</a> or
+		<a href="/cgi-bin/rallypickteam.pl">pick a team</a> ready for the start on 12th Feb.</p>
+            <p> <span class="sidelinks">25 / 10 / 2009<br />
+              <strong>Fantasy Rally:</strong></span> All previous years' Fantasy Rally results are online -
+		Check the <a href="/cgi-bin/rallyviewleague2009.pl">2009 season</a>.</p>
+            <p> <span class="sidelinks">02 / 08 / 2009<br />
+              <strong>Reviews:</strong></span> Sorry, there won't be any more movie reviews for the foreseeable future.
+		Events have overtaken me.  <a href="/movies.php">Catch up on reviews</a> you may have missed.</p>
+            <p> <span class="sidelinks">18 / 08 / 2005<br />
+              <strong>Sudoku!</strong></span> Have a go at the online 
+              <a href="/sudoku.php">Sudoku</a> game.</p>
+          </td>
+          <td style="width: 33px;">&nbsp;</td>
+        </tr>
+      </table></td>
+    <td valign="top" style="width: 1px; background-image: url( '/images/pixi_orange.gif' );"><img src="/images/pixi_orange.gif" width="1" height="1" alt="" /></td>
+    <td style="width: 517px;" valign="top"><img src="/images/pixi_clear.gif" width="517" height="30" alt="" /><br /> 
+      <table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr><td>
+<table><tr align="center">
+<td><a href="/cgi-bin/rallylogin.pl">Log in</a></td>
+<td><a href="/cgi-bin/rallypickteam.pl">Create new team</a></td>
+<td><span class="greylink">Edit team</span></td>
+<td><span class="greylink">Change password</span></td>
+<td><a href="/cgi-bin/rallyviewleague.pl">League</a></td>
+<td><a href="/cgi-bin/rallypreviewevents.pl">Upcoming events</a></td>
+<td><a href="/cgi-bin/rallyviewresults.pl">Past Results</a></td>
+<td> <a href="/cgi-bin/rallyrules.pl">Rules</a></td>
+</tr></table></td>
+</tr><tr>
+<td>&nbsp;</td>
+</tr><tr>
+<script type="text/javascript" language="javascript">document.getElementById( 'mastertitle' ).innerText = 'Forwardcharm Rally'</script>
+	<div id="whee" style="position:absolute;text-align:center;font-size:24">Next event: Monte Carlo<br />19th January 2007</div>
+	<script type="text/javascript" language="javascript">
+		StartSwoop();
+	</script>
+
+        <td valign="top"><h1>2006 Calendar</h1>
+	  <p>The 16 rallies of 2006 are scheduled to take place on the following dates.
+	     Each round of the World Rally Championship is supported by either the Junior World Rally Championship (JWRC)
+	     or the Production World Rally Championship (PWRC) as displayed in the table below.</p>
+	  <table align="center">
+	    <tr align="center"><td>Start Date</td><td>Country</td><td>Rally name</td><td>Surface Type</td><td>Support series</td></tr>
+	    <tr align="center"><td>20/01</td><td>Monaco</td><td>Monte Carlo</td><td>Asphalt (ice)</td><td>PWRC</td></tr>
+	    <tr align="center"><td>03/02</td><td>Sweden</td><td>Sweden</td><td>Snow</td><td>JWRC</td></tr>
+	    <tr align="center"><td>03/03</td><td>Mexico</td><td>Mexico</td><td>Gravel (rocky)</td><td>PWRC</td></tr>
+	    <tr align="center"><td>24/03</td><td>Spain</td><td>Catalunya</td><td>Asphalt</td><td>JWRC</td></tr>
+	    <tr align="center"><td>07/04</td><td>France</td><td>Corsica</td><td>Asphalt</td><td>JWRC</td></tr>
+	    <tr align="center"><td>28/04</td><td>Argentina</td><td>Argentina</td><td>Gravel (rocky)</td><td>PWRC</td></tr>
+	    <tr align="center"><td>18/05</td><td>Italy</td><td>Sardinia</td><td>Gravel (rocky)</td><td>JWRC</td></tr>
+	    <tr align="center"><td>02/06</td><td>Greece</td><td>Acropolis</td><td>Gravel (rocky)</td><td>PWRC</td></tr>
+	    <tr align="center"><td>11/08</td><td>Germany</td><td>Deutschland</td><td>Asphalt</td><td>JWRC</td></tr>
+	    <tr align="center"><td>18/08</td><td>Finland</td><td>1000 Lakes</td><td>Gravel (fast)</td><td>JWRC</td></tr>
+	    <tr align="center"><td>01/09</td><td>Japan</td><td>Japan</td><td>Gravel (fast)</td><td>PWRC</td></tr>
+	    <tr align="center"><td>22/09</td><td>Cyprus</td><td>Cyprus</td><td>Gravel (rocky)</td><td>PWRC</td></tr>
+	    <tr align="center"><td>13/10</td><td>Turkey</td><td>Turkey</td><td>Gravel (rocky)</td><td>JWRC</td></tr>
+	    <tr align="center"><td>27/10</td><td>Australia</td><td>Australia</td><td>Gravel (fast)</td><td>PWRC</td></tr>
+	    <tr align="center"><td>17/11</td><td>New Zealand</td><td>New Zealand</td><td>Gravel (fast)</td><td>PWRC</td></tr>
+	    <tr align="center"><td>01/12</td><td>Great Britain</td><td>Wales Rally GB</td><td>Gravel (fast)</td><td>JWRC</td></tr>
+	  </table>
+	</td></tr>
+	<tr><td valign="top"><h1>JWRC nominations</h1>
+	  <p>In 2006, each JWRC driver nominates three events to be excluded from and each PWRC driver nominates two - 
+	     you need to know this as you should make sure
+	     you change your team before your JWRC/PWRC driver's excluded event starts.  I'll try and warn you when this is
+	     imminent but please don't rely on that.</p>
+	  <p>This is the list of events that the drivers will NOT be contending:</p>
+	  <table align="center">
+	    <tr align="center"><td>Driver</td><td>Event</td></tr>
+<tr align="center"><td>Daniel Sordo</td><td>Sweden/Argentina/GB</td></tr>
+<tr align="center"><td>Kris Meeke</td><td>Sweden/Argentina/Italy</td></tr>
+<tr align="center"><td>Urmo Aava</td><td>Spain/Argentina/Germany</td></tr>
+<tr align="center"><td>Per-Gunnar Andersson</td><td>Spain/France/Germany</td></tr>
+<tr align="center"><td>Martin Prokop</td><td>France/Argentina/GB</td></tr>
+<tr align="center"><td>Luca Betti</td><td>Sweden/Argentina/Finland</td></tr>
+<tr align="center"><td>Pavel Valousek</td><td>Spain/Argentina/GB</td></tr>
+<tr align="center"><td>Conrad Rautenbach</td><td>Sweden/Argentina/GB</td></tr>
+<tr align="center"><td>Patrick Sandell</td><td>Spain/France/Germany</td></tr>
+<tr align="center"><td>Julien Pressac</td><td>Sweden/Argentina/GB</td></tr>
+<tr align="center"><td>Jaan Molder</td><td>Spain/France/Germany</td></tr>
+<tr align="center"><td>Michal Kosciuszko</td><td>France/Argentina/GB</td></tr>
+<tr align="center"><td>Jozef Beres</td><td>Argentina/Italy/Germany</td></tr>
+<tr align="center"><td>Andrea Cortinovis</td><td>Spain/Argentina/Germany</td></tr>
+<tr align="center"><td>Filippo Alessandro Bordignon</td><td>France/Argentina/Germany</td></tr>
+<tr align="center"><td>Kalle Pinomaki</td><td>Argentina/Italy/Turkey</td></tr>
+<tr align="center"><td>Guy Wilks</td><td>Spain/France/Germany</td></tr>
+<tr align="center"><td>Johan Karlsson</td><td>TBA</td></tr>
+<tr align="center"><td>Fatih Kara</td><td>Sweden/Argentina/Finland</td></tr>
+<tr align="center"><td>Bernd Casier</td><td>Sweden/Argentina/Finland</td></tr>
+<tr align="center"><td>Barry Clark</td><td>Sweden/Argentina/Turkey</td></tr>
+<tr align="center"><td>Brice Tirabassi</td><td>Sweden/Argentina/GB</td></tr>
+<tr align="center"><td>Yoann Bonato</td><td>TBA</td></tr>
+<tr align="center"><td>Aaron Burkart</td><td>TBA</td></tr>
+<tr align="center"><td>Fabien Fiandino</td><td>TBA</td></tr>
+<tr align="center"><td>Egon Kaur</td><td>TBA</td></tr>
+</table></td></tr>
+	<tr><td valign="top"><h1>PWRC nominations</h1>
+	  <p>Each Production driver nominates two events to be excluded from.</p>
+	  <p>This is the list of events that the drivers will NOT be contending:</p>
+	  <table align="center">
+	    <tr align="center"><td>Driver</td><td>Event</td></tr>
+<tr align="center"><td>Toshihiro Arai</td><td>Monte Carlo/Japan</td></tr>
+<tr align="center"><td>Marcos Ligato</td><td>Monte Carlo/Cyprus</td></tr>
+<tr align="center"><td>Fumio Nutahara</td><td>Argentina/Greece</td></tr>
+<tr align="center"><td>Sebastian Beltran</td><td>Monte Carlo/Cyprus</td></tr>
+<tr align="center"><td>Gabriel Pozzo</td><td>Monte Carlo/TBA</td></tr>
+<tr align="center"><td>Mirco Baldacci</td><td>Monte Carlo/Cyprus</td></tr>
+<tr align="center"><td>Jari-Matti Latvala</td><td>Cyprus/Australia</td></tr>
+<tr align="center"><td>Leszek Kuzaj</td><td>Monte Carlo/Cyprus</td></tr>
+<tr align="center"><td>Nasser Al-Attiya</td><td>Japan/Australia</td></tr>
+<tr align="center"><td>Stefano Marrini</td><td>Argentina/New Zealand</td></tr>
+<tr align="center"><td>Jasen Popov</td><td>Argentina/Japan</td></tr>
+<tr align="center"><td>David Higgins</td><td>Mexico/Argentina</td></tr>
+<tr align="center"><td>Sergey Uspenskiy</td><td>Monte Carlo/Cyprus</td></tr>
+<tr align="center"><td>Stepan Vojtech (PWRC)</td><td>Monte Carlo/Argentina/Japan</td></tr>
+<tr align="center"><td>Francisco Name</td><td>TBA</td></tr>
+<tr align="center"><td>Riccardo Errani</td><td>Mexico/New Zealand</td></tr>
+<tr align="center"><td>Takuma Kamada</td><td>Monte Carlo/Mexico</td></tr>
+<tr align="center"><td>Natalie Barratt</td><td>TBA</td></tr>
+<tr align="center"><td>Aki Teiskonen</td><td>Monte Carlo/Mexico</td></tr>
+<tr align="center"><td>Nigel Heath</td><td>Monte Carlo/Mexico</td></tr>
+<tr align="center"><td>Bogdan-Paul Marisca</td><td>TBA</td></tr>
+<tr align="center"><td>Simone Campedelli</td><td>TBA</td></tr>
+<tr align="center"><td>Khalid Al-Qassimi</td><td>TBA</td></tr>
+<tr align="center"><td>Andreas Tsouloftas</td><td>TBA</td></tr>
+<tr align="center"><td>Spyros Pavlides</td><td>TBA</td></tr>
+<tr align="center"><td>Aaron Burkart (PWRC)</td><td>TBA</td></tr>
+</table>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p><a href="/cgi-bin/rallypreviewevents2005.pl">View 2005 events</a></p>
+          </td>
+        </tr>
+      </table></td>
+    <td style="background-image: url( '/images/rightsidebg.gif' );">&nbsp;</td>
+    <td valign="top">
+	    <p>&nbsp;</p>
+     </td>
+
+  </tr>
+  <tr> 
+    <td colspan="3" valign="bottom">&nbsp;</td>
+    <td style="background-image: url( '/images/rightsidebg.gif' );">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" valign="bottom"><img src="/images/picanglebase1.gif" width="230" height="17" alt="" /><img src="/images/picanglebase2.gif" width="260" height="17" alt="" /></td>
+    <td style="background-image: url( '/images/rightsidebg.gif' );">&nbsp;</td>
+  </tr>
+</table>
+<?php include 'audit_trail.php'; ?>
+</body>
+</html>
+

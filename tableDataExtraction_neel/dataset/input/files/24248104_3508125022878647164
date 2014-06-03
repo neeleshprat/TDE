@@ -1,0 +1,375 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+
+<html><!-- InstanceBegin template="/Templates/travel_template.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="Title" -->
+<title>NaTHNaC | Toxic Marine Poisoning Health Information Sheet, Travellers</title>
+<!-- InstanceEndEditable --><!-- InstanceBeginEditable name="Meta" -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+<meta name="Keywords" content="__KEYWORDS__">
+<meta name="description" content="__DESCRIPTION__">
+<style type="text/css">
+<!--
+.style1 {font-size: 11px}
+-->
+</style>
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Language" content="en-GB">
+<link rel="stylesheet" type="text/css" href="/styles/main.css">
+<link rel="stylesheet" type="text/css" href="/styles/nav.css">
+
+<meta name="date" content="">
+<meta name="country" content="">
+<meta name="disease" content="">
+
+<!-- InstanceParam name="CLINICALMETA_Date" type="text" value="" -->
+<!-- InstanceParam name="CLINICALMETA_Country" type="text" value="" -->
+<!-- InstanceParam name="CLINICALMETA_Disease" type="text" value="" -->
+
+<link rel="stylesheet" type="text/css" href="/styles/travel.css">
+<script language="JavaScript" src="/scripts/common.js" type="text/javascript"></script>
+<!-- InstanceParam name="Left Blank Panel" type="boolean" value="false" -->
+<!-- InstanceParam name="Right Blank Panel" type="boolean" value="false" -->
+
+<!-- InstanceParam name="Left Login Panel" type="boolean" value="false" --><!-- InstanceParam name="Left Travel Healthinfo Panel" type="boolean" value="false" --><!-- InstanceParam name="Left Panel Yellow Book" type="boolean" value="false" --><!-- InstanceParam name="Left Panel Clinical Info" type="boolean" value="false" --><!-- InstanceParam name="Left Faqs Panel" type="boolean" value="false" --><!-- InstanceParam name="Left Travax Panel" type="boolean" value="false" --><!-- InstanceParam name="Left Annual Panel" type="boolean" value="false" --><!-- InstanceParam name="Left New Information Panel" type="boolean" value="false" --><!-- InstanceParam name="Left YF Certificate Panel" type="boolean" value="false" --><!-- InstanceParam name="Left Network Founders Panel" type="boolean" value="false" --><!-- InstanceParam name="Left Travellers Information Panel" type="boolean" value="false" --><!-- InstanceParam name="Left FFT Panel" type="boolean" value="false" --><!-- InstanceParam name="Left Notice Panel" type="boolean" value="false" --><!-- InstanceParam name="Left Online Resources Panel" type="boolean" value="false" --><!-- InstanceParam name="Left Adobe Panel" type="boolean" value="false" -->
+<!-- InstanceParam name="Right Login Panel" type="boolean" value="false" --><!-- InstanceParam name="Right Travel Healthinfo Panel" type="boolean" value="false" --><!-- InstanceParam name="Right Panel Yellow Book" type="boolean" value="false" --><!-- InstanceParam name="Right Panel Clinical Info" type="boolean" value="false" --><!-- InstanceParam name="Right Faqs Panel" type="boolean" value="false" --><!-- InstanceParam name="Right Travax Panel" type="boolean" value="false" --><!-- InstanceParam name="Right Annual Panel" type="boolean" value="false" --><!-- InstanceParam name="Right New Information Panel" type="boolean" value="false" --><!-- InstanceParam name="Right YF Certificate Panel" type="boolean" value="false" --><!-- InstanceParam name="Right Network Founders Panel" type="boolean" value="false" --><!-- InstanceParam name="Right Travellers Information Panel" type="boolean" value="false" --><!-- InstanceParam name="Right FFT Panel" type="boolean" value="false" --><!-- InstanceParam name="Right Notice Panel" type="boolean" value="false" --><!-- InstanceParam name="Right Online Resources Panel" type="boolean" value="false" --><!-- InstanceParam name="Right Adobe Panel" type="boolean" value="false" -->
+</head>
+
+<body id="trav">
+
+<div class="centerfix">
+
+	<div class="mainwrapper">
+		
+		<div id="header">
+			
+			<div id="searchbar">
+				<div id="searchhook">
+				
+					<!-- Travel Search Box Include Start -->
+
+<form id="SiteSearchForm" method="post" action="/sitesearch.aspx?comingfrom=travel">
+<div class="hidden"><label for="txtSiteKeyword">Search :</label></div>
+<div>
+<input value="Search NaTHNaC" name="txtSiteKeyword" class="searchbox" id="txtSiteKeyword" onfocus="this.value = '';" > 
+<input class="searchbutton" src="/images/pro_go_but_f2.gif" name="Imag11" id="Imag11" onmouseover="MM_swapImage('Imag11','','/images/pro_go_but.gif',1)" onmouseout="MM_swapImgRestore()" alt="Submit Search" type="image" >
+</div>
+</form>
+
+<!-- Travel Search Box Include End -->
+	
+				</div><!-- Close searchhook -->
+
+				<a href="/index.htm"><img src="/images/nathnac_logo.gif" alt="NaTHNaC Logo" width="381" height="80" border="0"></a>
+
+			</div><!-- Close searchbar -->
+			
+						
+		</div><!-- Close header -->
+		
+  </div><!-- Close mainwrapper -->
+			
+			<!-- start of include: nav.htm -->
+<div id="nav_main_outer">
+	<div id="nav_main">
+		<div id="nav_01"><span class="hidden">Health Professional</span>
+			<ul>
+				<li><a href="/">Home</a></li>
+				<li><a href="/pro/index.htm">Health Professionals</a></li>
+				<li><a href="/pro/aboutus.htm">About Us</a></li>
+				<li><a href="/pro/news/index.htm">News</a></li>
+				<li><a href="/pro/clinical_updates/index.htm">Clinical Updates</a></li>
+				<li><a href="/pro/factsheets/index.htm">Health Information</a></li>
+				<li><a href="/yellowfevercentres.aspx?comingfrom=professional">Yellow Fever Centres</a></li>
+				<li><a href="/pro/links.htm">Links</a></li>
+				<li><a href="/pro/contact.htm">Contact Us</a></li>
+				<li><a href="/ds/map_world.aspx">Country Information</a></li>
+			</ul>
+		</div><!-- end of nav_01 -->
+	
+		<div id="nav_02"><span class="hidden">Travellers</span>
+			<ul>
+				<li><a href="/">Home</a></li>
+				<li><a href="/travel/index.htm">Travellers</a></li>
+				<li><a href="/travel/aboutus.htm">About us</a></li>
+				<li><a href="/travel/news/index.htm">News</a></li>
+				<li><a href="/travel/factsheets/index.htm">Health Information</a></li>
+				<li><a href="/yellowfevercentres.aspx?comingfrom=travel">Yellow Fever Centres</a></li>
+				<li><a href="/travel/links.htm">Links</a></li>
+				<li><a href="/travel/contact.htm">Contact Us</a></li>
+				<li><a href="/ds/map_world.aspx">Country Information</a></li>
+			</ul>
+		</div><!-- end of nav_02 -->
+	
+		<div id="nav_03"><span class="hidden">Country Specific</span>
+			<ul>
+				<li><a href="/">Home</a></li>
+				<li><a href="/pro/index.htm">Health Professionals</a></li>
+				<li><a href="/travel/index.htm">Travellers</a></li>
+				<li><a href="/yellowfevercentres.aspx?comingfrom=country">Yellow Fever Centres</a></li>
+				<li><a href="/countrysearch.aspx">Outbreak Surveillance</a></li>
+				<li><a href="/pro/clinical_updates/index.htm">Clinical Updates</a></li>
+				<li><a href="/ds/contact.htm">Contact Us</a></li>
+			</ul>
+		</div><!-- end of nav_03 -->
+	
+	</div><!-- end of nav_main -->
+</div><!-- end of nav_main_outer -->
+<div id="shadow"></div>
+<!-- end of include: nav.htm -->
+		
+		<div class="mainwrapper">
+		
+		<div id="section_title">
+		
+		<h1 style="margin-bottom: 0"><img src="/images/travel_title.gif" border="0" alt="Travellers"></h1>
+		</div><!-- Close section_title -->
+				
+		<div id="content">	
+
+				<div id="columnfloat">
+					
+					<div id="column1">
+						
+						<!-- Left side panel includes go here -->
+						
+						
+						
+						
+						
+						
+						
+						        
+						
+						
+						<!-- Close Column 1 -->
+					</div>
+					<div id="column2">
+                      <!-- *************************************************	-->
+                      <!-- MAIN CONTENT STARTS		-->
+                      <!-- ************************************************* 	-->
+                      <!-- InstanceBeginRepeat name="Center Panel" --><!-- InstanceBeginRepeatEntry -->
+                      <!-- Single Center Panel Start -->
+                      <div class="center_panel">
+                        <div class="center_panel_header">
+                          <h2 style="margin-bottom: 0"><!-- InstanceBeginEditable name="Center Panel Header" -->Health Information Sheets <!-- InstanceEndEditable --></h2>
+                        </div>
+                        <div class="center_panel_content"> <!-- InstanceBeginEditable name="Center Panel Content" -->
+                          <h3 style="margin-bottom: 0">December 2011 </h3>
+                          <h3 style="margin-top: 0;">Fish and shellfish poisoning </h3>
+                          <p style="margin-bottom: 0;"><a href="#causes">Causes of fish and shellfish poisoning</a></p>
+                          <p style="margin-top:0;margin-bottom:0;"><a href="#ciguatera">Ciguatera</a></p>
+                          <p style="margin-top:0;margin-bottom:0;"><a href="#para">Paralytic fish poisoning</a></p>
+                          <p style="margin-top:0;margin-bottom:0;"><a href="#puffer">Pufferfish poisoning</a></p>
+                          <p style="margin-top:0;margin-bottom:0;"><a href="#scromboid">Scromboid poisoning</a></p>
+                          <p style="margin-top:0;"><a href="#treat">What can I do to protect myself?</a></p>
+                          <p style="margin-bottom: 0;">&nbsp;</p>
+                          <p style="margin-top: 0;"><img src="images/fish.JPG" width="250" height="160" align="right"></p>
+                          <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="style1">Photograph courtesy of the NHS Photo Library </span></p>
+<p>Fish and shellfish poisoning, sometimes called marine poisoning, is caused by eating fish or shellfish contaminated with poisons (also known as toxins) made by algae or bacteria. These poisons survive cooking, canning, curing, freezing or smoking. Eating marine poisons can cause mild illness or serious heart, brain or stomach problems and can be fatal, although deaths are rare.</p>
+<p style="margin-bottom: 0;">&nbsp;</p>
+<h4 style="margin-top: 0;"><a name="causes"></a>Causes of fish and shellfish poisoning</h4>
+                          <table width="" border="1" cellpadding="0" cellspacing="0" bordercolor="#333333">
+                            <tr>
+                              <th width="115">Syndrome</th>
+                              <th width="84">Poison</th>
+                              <th width="120">Seafood</th>
+                              <th width="135">Distribution</th>
+                              <th width="141">Symptoms</th>
+                            </tr>
+                            <tr>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Amnesic shellfish poisoning</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Domoic acid</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Mussels</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Eastern Canada</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Gastroenteritis, headache,memory loss, seizures </p></td>
+                            </tr>
+                            <tr>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Diarrhetic shellfish poisoning</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Okadaic acid</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Bivalve shellfish</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Japan, Europe, Canada, New Zealand, South America</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Gastroenteritis</p></td>
+                            </tr>
+                            <tr>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Ciguatera</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Ciguatoxin</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Barracuda, snapper, grouper, sea bass, moray eel</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Commonest in Caribbean and South Pacific</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Gastroenteritis, neurologic symptoms</p></td>
+                            </tr>
+                            <tr>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Neurotoxic shellfish poisoning</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Brevetoxins</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Bivalve shellfish</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Gulf of Mexico, New Zealand</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;"> Gastroenteritis, burning/prickling skin, temperature reversal, dizziness, loss of co-ordination </p></td>
+                            </tr>
+                            <tr>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Paralytic shellfish poisoning</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Saxitoxin</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Bivalve shellfish</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Worldwide, commonest in temperate waters</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;"> Burning/prickling face and mouth, headache, nausea, vomiting, loss of co-ordination can cause paralysis and be fatal </p></td>
+                            </tr>
+                            <tr>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Pufferfish</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Tetrodotoxin</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Pufferfish</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Worldwide, but commonest in East Asia</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;"> Burning/prickling in mouth, breathing problems, dizziness nausea, can cause paralysis and be fatal</p></td>
+                            </tr>
+                            <tr>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Scromboid</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Histamine</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Mahi-mahi, tuna, mackerel, bonito,&nbsp; herring, &nbsp;sardine, anchovy.</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Worldwide</p></td>
+                              <td><p class="style1" style="margin-top:0;margin-bottom:0;">Flushing, headache, nausea, vomiting, urticaria</p></td>
+                            </tr>
+                        </table>
+                          <p style="margin-bottom: 0;">&nbsp;</p>
+                          <h4 style="margin-top: 0;"><a name="ciguatera"></a>Ciguatera</h4>
+                          <p>Most ciguatera poisoning occurs after eating fish contaminated with a toxin called ciguatoxin, which grows in coral reefs algae. This is eaten by coral reef fish and becomes concentrated as it moves up the food chain to larger fish which are then eaten by humans. Ciguatera is found in tropical and subtropical waters, including the Pacific and Indian oceans and the Caribbean Sea. Coral reef fish include barracuda, grouper, jacks, moray eels, sea bass and snapper. Ciguatoxin is found in high concentrations in the eggs, guts, head and liver of fish. It resists heat, so cooking does not prevent it.</p>
+                          <p>Symptoms usually appear about four hours after eating contaminated fish, but can be as quick 15 to 30 minutes. Vomiting and diarrhoea are first, followed by a sensation of hot/cold temperature reversal, burning, numbness and then tingling around the mouth, tongue, throat, arms and legs. Painful teeth, abnormal heart rhythms and low blood pressure can occur. Death is rare. With supportive medical care, most people get better in approximately four weeks. However, long term tiredness and distortion of the senses can continue. </p>
+                          <h4 style="margin-bottom: 0;"><a name="para"></a>Paralytic shellfish poisoning</h4>
+                          <p style="margin-top:0;">Paralytic shellfish poisoning (PSP) results from eating clams, cockles, mussels, oysters and scallops contaminated with a strong poison called saxitoxin. </p>
+                          <p>Symptoms generally appear 30 to 60 minutes after eating poisoned shellfish and include: </p>
+                          <p style="margin-bottom: 0;">&nbsp;</p>
+                          <ul style="margin-top: 0; margin-bottom: 0;">
+                            <li>
+                              <p style="margin-top: 0; margin-bottom: 0">&nbsp;Burning, numbness and tingling of the face, lips and tongue.</p>
+                            </li>
+                            <li>
+                              <p style="margin-top: 0; margin-bottom: 0">&nbsp;Headache.</p>
+                            </li>
+                            <li>
+                              <p style="margin-top: 0; margin-bottom: 0">&nbsp;Nausea, vomiting and diarrhoea.</p>
+                            </li>
+                          </ul>
+                          <blockquote style="margin-top: 0; margin-bottom: 0;">
+                            <blockquote style="margin-top: 0; margin-bottom: 0;">
+                              <blockquote style="margin-bottom: 0">
+                                <blockquote style="margin-bottom: 0">
+                                  <blockquote style="margin-bottom: 0">&nbsp;</blockquote>
+                                </blockquote>
+                              </blockquote>
+                            </blockquote>
+                          </blockquote>
+                          <p style="margin-top:0;margin-bottom:0;">In severe cases, confusion and loss of co-ordination develop, leading to paralysis and breathing difficulties. This may be fatal, but if you survive the first 12 hours of illness, you are likely to live. There is no cure or antidote, although symptoms can be treated. <span style="font-family:verdana;font-size:13px;"><span style="font-family:arial;"></span></span></p>
+                          <p style="margin-top:0;margin-bottom:0;"><span style="font-family:verdana;font-size:13px;"><span style="font-family:arial;">&nbsp;</span></span></p>
+                          <h4 style="margin-top: 0; margin-bottom: 0;"><a name="puffer"></a>Pufferfish poisoning</h4>
+                          <p style="margin-top:0;">Pufferfish poisoning can be fatal and is caused by eating fish containing tetrodotoxin, a potent poison found in ocean sunfish, porcupine fish and pufferfish. These fish are common in the Pacific, Atlantic and Indian Oceans. </p>
+                          <p>In Japan, pufferfish (fugu) is a delicacy eaten in expensive restaurants for potential side effects, which include tingling lips and tongue, a warm sensation and a feeling of joy. Unfortunately, if too much is eaten, these side effects can be severe and lead to nausea and dizziness, general tingling, skin prickling, headache, vomiting and diarrhoea, poor muscle co-ordination and paralysis. </p>
+                          <p>There is no cure and emergency hospital care is often required. In severe cases, breathing problems, a slow pulse and low blood pressure develop. Most deaths, due to breathing difficulties, occur six to 24 hours after the first symptoms start. <span style="font-family:verdana;font-size:13px;"></span></p>
+                          <h4 style="margin-bottom: 0;"><a name="scromboid"></a>Scromboid</h4>
+                          <p style="margin-top:0;">Scromboid fish poisoning is caused by eating fish that has not been properly refrigerated. This causes high levels of chemical called histamine (usually only released in response to an allergy) to develop, giving you symptoms similar to an allergic reaction: </p>
+                          <ul>
+                            <li>
+                              <p style="margin-top: 0; margin-bottom: 0">Abdominal cramps.</p>
+                            </li>
+                            <li>
+                              <p style="margin-top: 0; margin-bottom: 0">Diarrhoea.</p>
+                            </li>
+                            <li>
+                              <p style="margin-top: 0; margin-bottom: 0">Dizziness.</p>
+                            </li>
+                            <li>
+                              <p style="margin-top: 0; margin-bottom: 0">Flushed skin. </p>
+                            </li>
+                            <li>
+                              <p style="margin-top: 0; margin-bottom: 0">Itching.</p>
+                            </li>
+                            <li>
+                              <p style="margin-top: 0; margin-bottom: 0">Headache. </p>
+                            </li>
+                            <li>
+                              <p style="margin-top: 0; margin-bottom: 0">Nausea and vomiting.</p>
+                            </li>
+                        </ul>
+                          <p>These symptoms usually appear up to an hour after eating contaminated fish and last for several hours. Treatment is with anti-allergy medicines called anti-histamines, Symptoms usually improve in about four hours. </p>
+                          <p>Fish with naturally high levels of this chemical include: amberjack, anchovy, blue fin tuna, bluefish, bonito, herring, mackerel, mahi-mahi, sardines, skipjack and yellow fin tuna.</p>
+                        <p style="margin-bottom: 0;">&nbsp;</p>
+                          <h4 style="margin-top: 0;"><a name="treat"></a>How can I protect myself?</h4>
+                          <p>Reduce your risk by avoiding potentially contaminated fish and shellfish:</p>
+                          <p style="margin-bottom: 0;">&nbsp;</p>
+                          <ul style="margin-top: 0;">
+                            <li>
+                              <p style="margin-top: 0; margin-bottom: 0">NEVER eat pufferfish, moray eels or barracuda.</p>
+                            </li>
+                            <li>
+                              <p style="margin-top: 0; margin-bottom: 0">Avoid eating reef fish weighing more than three kilograms &ndash; this reduces your risk of ciguatera poisoning. </p>
+                            </li>
+                            <li>
+                              <p style="margin-top: 0; margin-bottom: 0">Do not eat fish heads, guts or eggs.</p>
+                            </li>
+                            <li>
+                              <p style="margin-top: 0; margin-bottom: 0">Try to make sure all fish is refrigerated properly.</p>
+                            </li>
+                          </ul>
+                          <p style="margin-bottom: 0;">&nbsp;</p>
+                          <p style="margin-top:0;">Eating shellfish also increases your chance of catching other food and water spread infections, particularly <a href="../../pro/factsheets/hep_a.htm">Hepatitis A</a>. </p>
+                          <p>Many developed countries follow strict recommendations for harvesting and preparing fish and shellfish. Warnings are given when fish poisoning is predicted, for instance when large amounts of algae blooms, often called &ldquo;red tides&rdquo; appear in the sea. Less developed countries may not always have such guidelines and warning systems.</p>
+                          <h4 style="margin-bottom: 0;">Links</h4>
+                          <p style="margin-top:0;"><a href="http://www.cdc.gov/nceh/ciguatera/default.htm" target="_blank">US Centers for Disease Control: Ciguatera Fish Poisoning</a>.<span style="font-family:verdana;font-size:13px;"></span></p>
+                        <!-- InstanceEndEditable --></div>
+                        <div class="center_panel_footer"> </div>
+                      </div>
+                      <!-- Single Center Panel End -->
+                      <!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
+                      <div id="disclaimer">
+						  
+							<p><a href="/travel/disclaimer.htm">Disclaimer</a> | <a href="/travel/copyright.htm">Copyright</a> | <a href="/travel/privacy.htm">Privacy</a> | <a href="/travel/sitemap.htm">Sitemap</a> | <a href="/travel/access.htm">Accessibility</a></p>
+  
+					  </div>
+						  
+					</div><!-- Close Column 2 -->
+							
+				</div><!-- Close Float -->
+			
+				<!-- *************************************************	-->
+				<!-- MAIN CONTENT ENDS									-->
+				<!-- ************************************************* 	-->
+
+				<div id="column3">
+				
+					<!-- Right side panel includes go here -->
+					
+						
+					
+						
+						
+						
+						
+						        
+											
+		
+				</div><!-- Close Column 3 -->
+
+		</div><!-- Close Content -->
+		
+	</div><!-- Close Main Wrapper -->
+
+</div><!-- Close Centerfix -->
+
+<!-- google_analytics.htm Start-->
+	<!-- code for non-HTML GA tracking -->
+	<script src="/scripts/taglinks.js" type="text/javascript"></script>
+	<!-- code for HTML GA tracking -->
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-5260331-1");
+	pageTracker._trackPageview();
+	</script>
+<!-- google_analytics.htm End-->
+</body><!-- InstanceEnd -->
+</html>
+

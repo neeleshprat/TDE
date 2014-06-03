@@ -1,0 +1,1075 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>World Chess Links - FIDE Grand Prix - Women - 2010 Nalchik</title>
+<!-- World Chess Links - FIDE Grand Prix - Women - 2010 Nalchik -->
+      <meta name="description" content="World Chess Links - FIDE Grand Prix - Women - 2010 Nalchik">
+      <meta name="keywords" content="World Chess Links - FIDE Grand Prix - Women - 2010 Nalchik">
+      <meta name="language" content="eng">
+      <meta name="copyright" content="www.worldchesslinks.net">
+      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+      <link rel="shortcut icon" href="http://www.worldchesslinks.net/favicon.ico">
+      <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.worldchesslinks.net/rss2.xml">
+      <link href="base_1250b.css" rel="stylesheet" title="World Chess Links">
+<!-- Inizio Jquery -->
+      <script type="text/javascript" src="menu/jquery-1.5.2.min.js"></script>
+      <script type="text/javascript">    //no conflict jquery    jQuery.noConflict();    //jquery stuff    (function($) {      $('p').css('color','#ff0000');    })(jQuery);  </script>
+      <script type="text/javascript">
+      jQuery(document).ready(function(){
+
+      jQuery("ul.subnav").parent().append("<span></span>"); //Only shows drop down trigger when js is enabled (Adds empty span tag after ul.subnav*)
+
+      jQuery("ul.topnav li span").click(function() { //When trigger is clicked...
+
+       //Following events are applied to the subnav itself (moving subnav up and down)
+        jQuery(this).parent().find("ul.subnav").slideDown('fast').show(); //Drop down the subnav on click
+
+       jQuery(this).parent().hover(function() {
+       }, function(){
+            jQuery(this).parent().find("ul.subnav").slideUp('slow'); //When the mouse hovers out of the subnav, move it back up
+        });
+
+        //Following events are applied to the trigger (Hover events for the trigger)
+        }).hover(function() {
+           jQuery(this).addClass("subhover"); //On hover over, add class "subhover"
+       }, function(){  //On Hover Out
+            jQuery(this).removeClass("subhover"); //On hover out, remove class "subhover"
+    });
+
+    });
+
+      </script>
+      <style type="text/css">
+      body {
+      	margin: 0; padding: 0;
+      	font: 10px normal Arial, Helvetica, sans-serif;
+      }
+      #header .disclaimer {
+      	color: #999;
+      	padding: 100px 0 7px 0;
+      	text-align: right;
+      	display: block;
+      	position: absolute;
+      	top: 0; right: 0;
+      }
+      #header .disclaimer a {	color: #ccc;}
+      ul.topnav {
+      	list-style: none;
+      	padding: 0 20px;
+      	margin: 0;
+      	float: left;
+      	width: 1210px;
+      	background: #222;
+      	font-size: 1.2em;
+      	background: url(menu/topnav_bg.png) repeat-x;
+      }
+      ul.topnav li {
+      	float: left;
+      	margin: 0;	
+      	padding: 0 15px 0 0;
+      	position: relative; /*--Declare X and Y axis base--*/
+      }
+      ul.topnav li a{
+      	padding: 10px 5px;
+      	color: #fff;
+      	text-decoration: none;
+      	float: left;
+      }
+      ul.topnav li a:hover{
+      	background: url(menu/topnav_hover.gif) no-repeat center top;
+      }
+      ul.topnav li span { /*--Drop down trigger styles--*/
+      	width: 10px;
+      	height: 35px;
+      	float: left;
+      	background: url(menu/subnav_btn.gif) no-repeat center top;
+      }
+      ul.topnav li span.subhover {background-position: center bottom; cursor: pointer;} /*--Hover effect for trigger--*/
+      ul.topnav li ul.subnav {
+      	list-style: none;
+      	position: absolute; /*--Important - Keeps subnav from affecting main navigation flow--*/
+      	left: 0; top: 35px;
+      	background: #333;
+      	margin: 0; padding: 0;
+      	display: none;
+      	float: left;
+      	width: 180px;
+      	-moz-border-radius-bottomleft: 5px;
+      	-moz-border-radius-bottomright: 5px;
+      	-webkit-border-bottom-left-radius: 5px;
+      	-webkit-border-bottom-right-radius: 5px;
+      	border: 1px solid #111;
+      }
+      ul.topnav li ul.subnav li{
+      	margin: 0; padding: 0;
+      	border-top: 1px solid #252525; /*--Create bevel effect--*/
+      	border-bottom: 1px solid #444; /*--Create bevel effect--*/
+      	clear: both;
+      	width: 180px;
+      }
+      html ul.topnav li ul.subnav li a {
+      	float: left;
+      	width: 155px;
+      	background: #333 url(menu/dropdown_linkbg.gif) no-repeat 10px center;
+      	padding-left: 20px;
+      }
+      html ul.topnav li ul.subnav li a:hover { /*--Hover effect for subnav links--*/
+      	background: #222 url(menu/dropdown_linkbg.gif) no-repeat 10px center;
+      }
+      #header img {
+      	margin: 0px 0 10px;
+      }
+      </style>
+<!-- Fine Jquery -->
+<!-- Inizio Google News -->
+
+      <style type="text/css">
+      body {
+        font-family: verdana, sans-serif;
+      }
+      </style>
+
+
+    <script src="../../?key=internal-sample" type="text/javascript"></script>
+<!-- Fine Google News -->
+<!-- Inizio mootools -->
+     <script type="text/javascript" src="js/mootools.js" charset="utf-8"></script>
+     <script type="text/javascript" src="js/moo-smooth.js" charset="utf-8"></script>
+
+    <script type="text/javascript" src="mootools.svn.js"></script>
+    <script type="text/javascript">
+    window.addEvent('domready', function(){
+    	var mySlide = new Fx.Slide('top-panel');
+    	mySlide.hide(); 
+    
+    	$('toggle').addEvent('click', function(e){
+    		e = new Event(e);
+    		mySlide.toggle();
+    		e.stop();
+    	});
+    });
+    
+    </script>
+    
+    <style type="text/css">
+    
+    #top-panel{
+    	background:#ffffff;
+    }
+
+    #sub-panel a{
+        text-align: center;
+    	width:1250px;
+    	color:#FFFFFF;
+    	text-decoration:none;
+    	margin-right:px;
+    	font-weight:bold;
+    }
+
+    </style>
+<!-- Fine mootools -->
+
+</head>
+<body>
+<div id="top"></div>
+
+<!-- Inizio Container -->
+<div id="container">
+
+<!-- Inizio Header -->
+        <div id="header_a">
+             <img src="testata_1250_c.jpg" usemap="#testata_1250_c.jpg" border="0" alt="">
+             <map name="testata_1250_c.jpg">
+             <area shape=rect coords="14,0,268,23" href="http://www.worldchesslinks.net/rss2.xml" alt=""><area shape=rect coords="5,73,80,107" href="index.html" alt="">
+             <area shape=rect coords="988,24,1228,49" href="mailto:infotiscali@worldchesslinks.net?subject=Contact%20Us" alt="">
+             </map>
+    	 <ul class="topnav">
+            <li><a href="s_index.html">Home</a></li>
+            <li>
+                <a href="s0000.html">Ajedrez Online</a>
+                <ul class="subnav">
+                    <li><a href="s0000.html">Servidores de Ajedrez</a></li>
+                    <li><a href="s0006.html">Clientes Windows</a></li>
+                    <li><a href="s0001.html">Clientes Linux</a></li>
+                    <li><a href="s0005.html">Clientes Unix</a></li>
+                    <li><a href="s0002.html">Clientes Mac OS Classic</a></li>
+                    <li><a href="s0003.html">Clientes Mac OS X</a></li>
+                    <li><a href="s0004.html">Clientes Pocket PC</a></li>
+                    <li><a href="s0007.html">Palm</a></li>
+                    <li><a href="s0008.html">iPad</a></li>
+                    <li><a href="s0009.html">iPhone</a></li>
+                    <li><a href="s0010.html">Mobile Phone</a></li>
+                    <li><a href="s0011.html">Android</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="s00a11.html">Software</a>
+                <ul class="subnav">
+                    <li><a href="s00a11.html">Interfaces Gr?ficas</a></li>
+                    <li><a href="s00a10.html">Motores de Ajedrez</a></li>
+                    <li><a href="s00a0.html">Programas Gratuitos</a></li>
+                    <li><a href="s00a1.html">Programas Comerciales</a></li>
+                    <li><a href="s00a2.html">Database</a></li>
+                    <li><a href="s00a12.html">Entrenamiento</a></li>
+                    <li><a href="s00a8.html">Portable Game Notation</a></li>
+                    <li><a href="s00a3.html">Correspondencia y Email</a></li>
+                    <li><a href="s00a7.html">Relojes de Ajedrez</a></li>
+                    <li><a href="s00a4.html">Problemas de Ajedrez</a></li>
+                    <li><a href="s00a5.html">Programas de Torneos</a></li>
+                    <li><a href="s00a6.html">Webmaster Resources</a></li>
+                    <li><a href="s00a9.html">Dispositivo M?vil</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="s00b0.html">Teor?a</a>
+                <ul class="subnav">
+                    <li><a href="s00b0.html">General</a></li>
+                    <li><a href="s00b1.html">Aperturas [A00 - A99]</a></li>
+                    <li><a href="s00b2.html">Aperturas [B00 - B99]</a></li>
+                    <li><a href="s00b3.html">Aperturas [C00 - C99]</a></li>
+                    <li><a href="s00b4.html">Aperturas [D00 - D99]</a></li>
+                    <li><a href="s00b5.html">Aperturas [E00 - E99]</a></li>
+                    <li><a href="s00b6.html">Medio Juego</a></li>
+                    <li><a href="s00b7.html">Finales</a></li>
+                    <li><a href="s00b7.html">Archivo Problemas</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="sza00.html">Archivo</a>
+                <ul class="subnav">
+                    <li><a href="sza00.html">Campeonato del Mundo</a></li>
+                    <li><a href="szg00.html">Camp. del Mundo Femen.</a></li>
+                    <li><a href="szz00.html">Camp. del Mundo Rel?m.</a></li>
+                    <li><a href="szf00.html">FIDE Grand Prix</a></li>
+                    <li><a href="szr00.html">Torneos de Ajedrez</a></li>
+                    <li><a href="szs00.html">Curiosidades del Ajedrez</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="sza00.html">Arch. Online</a>
+                <ul class="subnav">
+                    <li><a href="szma0.html">Los Sitios Mejores</a></li>
+                    <li><a href="szmb0.html">Archives Nationales</a></li>
+                    <li><a href="szmc0.html">Jugadores</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="szia0.html">Arqueolog?a</a>
+                <ul class="subnav">
+                    <li><a href="szia0.html">Personajes y Autores</a></li>
+                    <li><a href="szib0.html">Libros Antiguos Online</a></li>
+                    <li><a href="szif0.html">The Saturday Magazine</a></li>
+                    <li><a href="szie0.html">Database - Libros</a></li>
+                    <li><a href="szic0.html">Database - Jugadores</a></li>
+                    <li><a href="szid0.html">Database - Torneos</a></li>
+                    <li><a href="sziea00.html">Chess Gems</a></li>
+                    <li><a href="szig0.html">Eventos Hist?ricos</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="szna0.html">Enlaces</a>
+                <ul class="subnav">
+                    <li><a href="szna0.html">Sitios Oficiales</a></li>
+                    <li><a href="sznb0.html">Enlaces Eseciales</a></li>
+                    <li><a href="sznr0.html">Ajedrez Online</a></li>
+                    <li><a href="sznu0.html">Bases de Datos Online</a></li>
+                    <li><a href="sznc0.html">Sitios de Jugadores</a></li>
+                    <li><a href="sznp0.html">Noticias de Ajedrez</a></li>
+                    <li><a href="sznl0.html">Blogs de Ajedrez</a></li>
+                    <li><a href="szno0.html">Forums de Ajedrez</a></li>
+                    <li><a href="sznh0.html">Clubs de Ajedrez</a></li>
+                    <li><a href="sznt0.html">Torneos de Ajedrez</a></li>
+                    <li><a href="sznw0.html">Problemas de Ajedrez</a></li>
+                    <li><a href="sznq0.html">Entrena Ajedrez</a></li>
+                    <li><a href="sznx0.html">Historia del Ajedrez</a></li>
+                    <li><a href="szns0.html">Revistas</a></li>
+                    <li><a href="szni0.html">Sitios Comerciales</a></li>
+                    <li><a href="szne0.html">Sitios Personales</a></li>
+                    <li><a href="sznd0.html">Colecciones de Enlaces</a></li>
+                    <li><a href="szny0.html">Foto</a></li>
+                    <li><a href="sznz0.html">Variantes de Ajedrez</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="szox0.html">Libros</a>
+                <ul class="subnav">
+                    <li><a href="szox0.html">Publicados Recientemente</a></li>
+                    <li><a href="szox0b.html">Coming Soon!</a></li>
+                    <li><a href="szoa0.html">Batsford</a></li>
+                    <li><a href="szot0.html">Cardoza</a></li>
+                    <li><a href="szoi0.html">Chesscafe</a></li>
+                    <li><a href="szor0.html">Chess Information</a></li>
+                    <li><a href="szog0.html">Chess Stars Publishing</a></li>
+                    <li><a href="szop0.html">Dover Publications</a></li>
+                    <li><a href="szoo0.html">Edition Olms</a></li>
+                    <li><a href="szoh0.html">Editorial Chessy</a></li>
+                    <li><a href="szob0.html">Everyman Chess</a></li>
+                    <li><a href="szoc0.html">Gambit Chess Books</a></li>
+                    <li><a href="szod0.html">Hardinge Simpole</a></li>
+                    <li><a href="szoe0.html">McFarland Publishing</a></li>
+                    <li><a href="szoq0.html">New in Chess</a></li>
+                    <li><a href="szof0.html">Quality Chess Books</a></li>
+                    <li><a href="szol0.html">Running Press</a></li>
+                    <li><a href="szom0.html">Russell Enterprises</a></li>
+                    <li><a href="szon0.html">Kasparov's Books</a></li>
+                    <li><a href="szoy0.html">Various Books</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="s_news_0001.html">News</a>
+            </li>
+            <li>
+                <a href="szpa0.html">Eventos</a>
+            </li>
+            <li>
+                <a href="szpa0b.html">Play</a>
+                <ul class="subnav">
+                    <li><a href="szpa0p.html">Computer</a></li>
+                    <li><a href="szpa0d2.html">Daily Chess Puzzles</a></li>
+                    <li><a href="szpa0f.html">Games Viewer</a></li>
+                    <li><a href="szpa0b.html">Play Online</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="s_index_y.html">Ratings</a>
+                <ul class="subnav">
+                    <li><a href="s_index_y.html">Top 100 Players</a></li>
+                    <li><a href="s_fide_w.html">Top 100 Women</a></li>
+                    <li><a href="s_fide_j.html">Top 20 Juniors</a></li>
+                    <li><a href="s_fide_g.html">Top 20 Girls</a></li>
+                    <li><a href="s_fide_z.html">Ratings Archive</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="s_downloads_00.html">Downloads</a>
+                <ul class="subnav">
+                    <li><a href="s_downloads_00.html">?ltimas Entradas</a></li>
+                    <li><a href="s_downloads_01.html">Campeonato del Mundo</a></li>
+                    <li><a href="s_downloads_02.html">Camp. del Mundo Femen.</a></li>
+                    <li><a href="s_downloads_03.html">Camp. del Mundo Rel?m.</a></li>
+                    <li><a href="s_downloads_04.html">Fide Grand Prix</a></li>
+                    <li><a href="s_downloads_05.html">Torneos</a></li>
+                </ul>
+            </li>
+            </ul>
+        <img src="testata_1250b.jpg" border="0" alt="">
+    </div>
+
+<!-- Fine Header -->
+<!-- Inizio Content -->
+        <div id="contend">
+        <div id="contend_l">
+        <div id="contend_r">
+        <table align="center" cellPadding="0" width="1250" border="0">
+             <tr>
+             <td width="915" height="20">
+                 <br>
+                 <span class="menu1"><a href="s_index.html"><span style="color: #0000ff">Home</span></a>&nbsp;&nbsp;<img src="a0004.png" border="0" alt="">&nbsp;&nbsp;<a href="sza00.html"><span style="color: #0000ff">Archivo Partidas</span></a>&nbsp;&nbsp;<img src="a0004.png" border="0" alt="">&nbsp;&nbsp;<a href="szf00.html"><span style="color: #0000ff">FIDE Grand Prix</span></a>&nbsp;&nbsp;<img src="a0004.png" border="0" alt="">&nbsp;&nbsp;<a href="szf00b.html"><span style="color: #0000ff">Women</span></a>&nbsp;&nbsp;<img src="a0004.png" border="0" alt="">&nbsp;&nbsp;2010 Nalchik<br><br>
+                 </span>
+             </td>
+             <td  width="20"><a href="ezfb03.html"><img src="f0002b.png" border="0" alt=""></a>
+             </td>
+             <td width="5">&nbsp;
+             </td>
+             <td  width="20"><img src="f0003b.png" border="0" alt="">
+             </td>
+             <td width="5">&nbsp;
+             </td>
+             <td width="20"><a href="izfb03.html"><img src="f0001b.png" border="0" alt=""></a>
+             </td>
+             <td width="10">&nbsp;
+             </td>
+             </tr>
+        </table>
+        <table align="center" cellPadding="0" width="1250" border="0">
+             <tr>
+             <td>
+                 &nbsp;
+             </td>
+             </tr>
+        </table>
+        <table align="center" cellPadding="0" width="1250" border="0">
+             <tr>
+             <td width="10">&nbsp;
+             </td>
+             <td width="230" valign="top">
+                 <table cellSpacing="0" cellPadding="0" border="0" width="230">
+                        <tr><td class="menu" background="xzx.png" height="30"><span style="color: #ffffff"><span style="font-size: 12px; font-family: Verdana"><b>&nbsp;&nbsp;Menu Principal</b></span></span></td></tr>
+                        <tr><td class="menu5"><a href="s_index.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Home</span></a></td></tr>
+                        <tr><td class="menu5"><a href="s0000.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Ajedrez Online</span></a></td></tr>
+                        <tr><td class="menu5"><a href="s00a11.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Programas de Ajedrez</span></a></td></tr>
+                        <tr><td class="menu5"><a href="s00b0.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Teor?a</span></a></td></tr>
+                        <tr><td class="menu5"><a href="sza00.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Archivo de Partidas</span></a></td></tr>
+                        <tr><td class="menu5"><a href="sza00.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Campeonato del Mundo</span></a></td></tr>
+                        <tr><td class="menu5"><a href="szg00.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Camp. del Mundo Femenino</span></a></td></tr>
+                        <tr><td class="menu5"><a href="szz00.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Camp. del Mundo Rel?mpago</span></a></td></tr>
+                        <tr><td class="menu5"><a href="szf00.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">FIDE Grand Prix</span></a></td></tr>
+                        <tr><td class="menu5"><a href="szf00.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Abierto</span></a></td></tr>
+                        <tr><td class="menu5" style="background-color: #00003E"><a href="szf00b.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Femenino</span></a></td></tr>
+                        <tr><td class="menu5"><a href="szr00.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Torneos de Ajedrez</span></a></td></tr>
+                        <tr><td class="menu5"><a href="szs00.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Curiosidades del Ajedrez</span></a></td></tr>
+                        <tr><td class="menu5"><a href="szma0.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Bases de Datos Online</span></a></td></tr>
+                        <tr><td class="menu5"><a href="szia0.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Arqueolog?a del Ajedrez</span></a></td></tr>
+                        <tr><td class="menu5"><a href="szna0.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Enlaces de Ajedrez</span></a></td></tr>
+                        <tr><td class="menu5"><a href="szox0.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Libros de Ajedrez</span></a></td></tr>
+                        <tr><td class="menu5"><a href="s_news_0001.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Noticias Internacionales</span></a></td></tr>
+                        <tr><td class="menu5"><a href="szpa0.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Eventos de Ajedrez</span></a></td></tr>
+                        <tr><td class="menu5"><a href="szpa0b.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Play Chess</span></a></td></tr>
+                        <tr><td class="menu5"><a href="s_index_y.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Fide Ratings</span></a></td></tr>
+                        <tr><td class="menu5"><a href="s_downloads_00.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Downloads</span></a></td></tr>
+                        <tr><td class="menu5"><a href="sh001.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Banners</span></a></td></tr>
+                        <tr><td class="menu5"><a href="s_ebay_us_0001.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Ajedrez en eBay</span></a></td></tr>
+                        <tr><td class="menu5"><a href="s_google_search.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Buscar en el Sitio</span></a></td></tr>
+                        <tr><td class="menu5"><a href="s_google_friend_a.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Community</span></a></td></tr>
+                        <tr><td class="menu" background="xzx_b.png" height="20"></td></tr>
+                 </table>
+                 <table cellSpacing="0" cellPadding="0" border="0" width="100%">
+                        <tr>
+                        <td class="titolomenu">
+                           <br><br>FIDE Women Grand Prix
+                           <br>Nalchik 2010
+                        </td>
+                        </tr>
+                           <tr>
+                           <td class="menu3" align="left">
+                               <br>
+                               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="f0034.png" alt="Russia" border="0">&nbsp;&nbsp;&nbsp;<a href="szfb07.html"><font color="0000FF"><b>2011&nbsp;&nbsp;Rostov - VII</b></font></a><br>
+                               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="f0056.png" alt="Qatar" border="0">&nbsp;&nbsp;&nbsp;<a href="szfb06.html"><font color="0000FF"><b>2011&nbsp;&nbsp;Doha - VI</b></font></a><br>
+                               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="f0095.png" alt="Mongolia" border="0">&nbsp;&nbsp;&nbsp;<a href="szfb05.html"><font color="0000FF"><b>2010&nbsp;&nbsp;Ulaanbaatar - V</b></font></a><br>
+                               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="f0053.png" alt="Armenia" border="0">&nbsp;&nbsp;&nbsp;<a href="szfb04.html"><font color="0000FF"><b>2010&nbsp;&nbsp;Jermuk - IV</b></font></a><br>
+                               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="f0034.png" alt="Russia" border="0">&nbsp;&nbsp;&nbsp;<a href="szfb03.html"><font color="0000FF"><b>2010&nbsp;&nbsp;Nalchik - III</b></font></a><br>
+                               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="f0081.png" alt="China" border="0">&nbsp;&nbsp;&nbsp;<a href="szfb02.html"><font color="0000FF"><b>2009&nbsp;&nbsp;Nanjing - II</b></font></a><br>
+                               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="f0052.png" alt="Turkey" border="0">&nbsp;&nbsp;&nbsp;<a href="szfb01.html"><font color="0000FF"><b>2009&nbsp;&nbsp;Istanbul - I</b></font></a><br>
+                           </td>
+                           </tr>
+                 </table>
+                 <table cellSpacing="0" cellPadding="0" border="0" width="100%">
+                        <tr>
+                        <td class="menu3" align="center">
+                           <br><br><br>
+                           <a href="http://nalchik2010.fide.com/"><img src="web_nalchik_2010.jpg" alt="FIDE Women Grand Prix - Nalchik 2010" border="0"></a>
+                           <br><br>
+                           <a href="http://nalchik2010.fide.com/"><img src="web_grand_prix_nalchik_b.jpg" alt="FIDE Women Grand Prix - Nalchik 2010" border="0"></a>
+                           <br><br>
+                           <a href="http://nalchik2010.fide.com/"><img src="web_grand_prix_nalchik_c.jpg" alt="FIDE Women Grand Prix - Nalchik 2010" border="0"></a>
+                        </td>
+                        </tr>
+                 </table>
+             </td>
+             <td width="25">
+             </td>
+             <td width="800" valign="top">
+                  <div align="center">
+                  <table cellSpacing="0" cellPadding="0" border="0" width="100%">
+                        <tr>
+                        <td valign="top">
+                            <img src="a0005f.png" alt="" align="middle">
+                        </td>
+                        <td class="font5">
+                            &nbsp;&nbsp;&nbsp;<font class="titolo_news">FIDE Women Grand Prix</font>
+                            <br>
+                            &nbsp;&nbsp;&nbsp;<font class="scheda9">2010 Nalchik - Russia</font>
+                        </td>
+                        <td valign="top">
+                            <br><br><br><br><a href="2010_nalchik_w.zip"><img src="a0007.png" alt="" border="0"></a>
+                        </td>
+                        </tr>
+                  </table>
+                  <table cellSpacing="0" cellPadding="0" border="0" width="100%">
+                        <tr>
+                        <td class="main4">
+                            <br><br><img src="b0006x.png" alt=""><br><br>
+                        </td>
+                        </tr>
+                  </table>
+                  <table cellSpacing="0" cellPadding="0" border="0" width="100%">
+                        <tr>
+                        <td class="main4">
+                            <br>
+                            <table align="center" cellSpacing="0" cellPadding="0" border="0">
+                                   <tr>
+                                   <td>
+                                       <img src="2010_nalchik_a.jpg" usemap="#2010_nalchik_a.jpg" border="0" alt="" align="middle">
+                                       <map name="2010_nalchik_a.jpg">
+                                       <area shape=rect coords="14,14,98,130"   href="http://en.wikipedia.org/wiki/Tatiana_Kosintseva" alt="Tatiana Kosintseva">
+                                       <area shape=rect coords="140,14,224,130" href="http://en.wikipedia.org/wiki/Hou_Yifan" alt="Hou Yifan">
+                                       <area shape=rect coords="267,14,351,130" href="http://en.wikipedia.org/wiki/Nana_Dzagnidze" alt="Nana Dzagnidze">
+                                       <area shape=rect coords="393,14,477,130" href="http://en.wikipedia.org/wiki/Pia_Cramling" alt="Pia Cramling">
+                                       <area shape=rect coords="520,14,604,130" href="http://en.wikipedia.org/wiki/Humpy_Koneru" alt="Humpy Koneru">
+                                       <area shape=rect coords="646,14,730,130" href="http://en.wikipedia.org/wiki/Batkhuyag_Munguntuul" alt="Batkhuyag Munguntuul">
+                                       </map>
+                                   </td>
+                                   </tr>
+                            </table>
+                            <br>
+                            <table align="center" cellSpacing="0" cellPadding="0" border="0">
+                                   <tr>
+                                   <td>
+                                       <img src="2010_nalchik_b.jpg" usemap="#2010_nalchik_b.jpg" border="0" alt="" align="middle">
+                                       <map name="2010_nalchik_b.jpg">
+                                       <area shape=rect coords="14,14,98,130"   href="http://en.wikipedia.org/wiki/Zhu_Chen" alt="Zhu Chen">
+                                       <area shape=rect coords="140,14,224,130" href="http://ratings.fide.com/card.phtml?event=4164083" alt="Baira Kovanova">
+                                       <area shape=rect coords="267,14,351,130" href="http://en.wikipedia.org/wiki/Lilit_Mkrtchian" alt="Lilit Mkrtchian">
+                                       <area shape=rect coords="393,14,477,130" href="http://en.wikipedia.org/wiki/Zhao_Xue" alt="Zhao Xue">
+                                       <area shape=rect coords="520,14,604,130" href="http://en.wikipedia.org/wiki/Betul_Cemre_Yildiz" alt="Betul Cemre Yildiz">
+                                       <area shape=rect coords="646,14,730,130" href="http://en.wikipedia.org/wiki/Elina_Danielian" alt="Elina Danielian">
+                                       </map>
+                                   </td>
+                                   </tr>
+                            </table>
+                        </td>
+                        </tr>
+                  </table>
+                  <br><br>
+                  <table>
+                        <tr>
+                        <td class="back1">
+                            <table cellSpacing="0" cellPadding="0" border="1" class="table4">
+                                   <tr>
+                                   <td width="50" class="table3"><b>N?</b></td>
+                                   <td width="50" class="table3"><b>FLAG</b></td>
+                                   <td width="50" class="table3"><b>FED</b></td>
+                                   <td width="50" class="table3"><b>FIDE</b></td>
+                                   <td align="left" class="table3"><b>&nbsp;NAME</b></td>
+                                   <td width="20" class="table3"><b>01</b></td>
+                                   <td width="20" class="table3"><b>02</b></td>
+                                   <td width="20" class="table3"><b>03</b></td>
+                                   <td width="20" class="table3"><b>04</b></td>
+                                   <td width="20" class="table3"><b>05</b></td>
+                                   <td width="20" class="table3"><b>06</b></td>
+                                   <td width="20" class="table3"><b>07</b></td>
+                                   <td width="20" class="table3"><b>08</b></td>
+                                   <td width="20" class="table3"><b>09</b></td>
+                                   <td width="20" class="table3"><b>10</b></td>
+                                   <td width="20" class="table3"><b>11</b></td>
+                                   <td width="20" class="table3"><b>12</b></td>
+                                   <td align="right" width="50" class="table3"><b>TOTAL&nbsp;</b></td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3" align="center"><b>01</b></td>
+                                   <td width="50" class="table4"><img src="fr0034.gif" align="top" alt="Russia"></td>
+                                   <td width="50" class="table4"><b>RUS</b></td>
+                                   <td width="50" class="table4"><b>2524</b></td>
+                                   <td width="215" class="table5">&nbsp;<a href="http://en.wikipedia.org/wiki/Tatiana_Kosintseva"><span style="color: #0000ff"><b>GM Tatiana Kosintseva</b></span></td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table3" align="right"><b>9.0/11&nbsp;</b></td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3" align="center"><b>02</b></td>
+                                   <td width="50" class="table4"><img src="fr0081.gif" align="top" alt="China"></td>
+                                   <td width="50" class="table4"><b>CHN</b></td>
+                                   <td width="50" class="table4"><b>2570</b></td>
+                                   <td width="215" class="table5">&nbsp;<a href="http://en.wikipedia.org/wiki/Hou_Yifan"><span style="color: #0000ff"><b>GM Hou Yifan</b></span></td>
+                                   <td class="table4">0</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table3" align="right"><b>7.5/11&nbsp;</b></td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3" align="center"><b>03</b></td>
+                                   <td width="50" class="table4"><img src="fr0199.gif" align="top" alt="Georgia"></td>
+                                   <td width="50" class="table4"><b>GEO</b></td>
+                                   <td width="50" class="table4"><b>2479</b></td>
+                                   <td width="215" class="table5">&nbsp;<a href="http://en.wikipedia.org/wiki/Nana_Dzagnidze"><span style="color: #0000ff"><b>GM Nana Dzagnidze</b></span></td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table3" align="right"><b>7.0/11&nbsp;</b></td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3" align="center"><b>04</b></td>
+                                   <td width="50" class="table4"><img src="fr0033.gif" align="top" alt="Sweden"></td>
+                                   <td width="50" class="table4"><b>SWE</b></td>
+                                   <td width="50" class="table4"><b>2523</b></td>
+                                   <td width="215" class="table5">&nbsp;<a href="http://en.wikipedia.org/wiki/Pia_Cramling"><span style="color: #0000ff"><b>GM Pia Cramling</b></span></td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table3" align="right"><b>7.0/11&nbsp;</b></td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3" align="center"><b>05</b></td>
+                                   <td width="50" class="table4"><img src="fr0013.gif" align="top" alt="India"></td>
+                                   <td width="50" class="table4"><b>IND</b></td>
+                                   <td width="50" class="table4"><b>2622</b></td>
+                                   <td width="215" class="table5">&nbsp;<a href="http://en.wikipedia.org/wiki/Humpy_Koneru"><span style="color: #0000ff"><b>GM Humpy Koneru</b></span></td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table3" align="right"><b>5.5/11&nbsp;</b></td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3" align="center"><b>06</b></td>
+                                   <td width="50" class="table4"><img src="fr0095.gif" align="top" alt="Mongolia"></td>
+                                   <td width="50" class="table4"><b>MGL</b></td>
+                                   <td width="50" class="table4"><b>2428</b></td>
+                                   <td width="215" class="table5">&nbsp;<a href="http://en.wikipedia.org/wiki/Batkhuyag_Munguntuul"><span style="color: #0000ff"><b>WGM Batkhuyagiin M?ng?ntuul</b></span></td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table3" align="right"><b>5.5/11&nbsp;</b></td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3" align="center"><b>07</b></td>
+                                   <td width="50" class="table4"><img src="fr0056.gif" align="top" alt="Quatar"></td>
+                                   <td width="50" class="table4"><b>QTR</b></td>
+                                   <td width="50" class="table4"><b>2476</b></td>
+                                   <td width="215" class="table5">&nbsp;<a href="http://en.wikipedia.org/wiki/Zhu_Chen"><span style="color: #0000ff"><b>GM Zhu Chen</b></span></td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table3" align="right"><b>5.5/11&nbsp;</b></td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3" align="center"><b>08</b></td>
+                                   <td width="50" class="table4"><img src="fr0034.gif" align="top" alt="Russia"></td>
+                                   <td width="50" class="table4"><b>RUS</b></td>
+                                   <td width="50" class="table4"><b>2385</b></td>
+                                   <td width="215" class="table5">&nbsp;<a href="http://ratings.fide.com/card.phtml?event=4164083"><span style="color: #0000ff"><b>WGM Baira Kovanova</b></span></td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table3" align="right"><b>5.0/11&nbsp;</b></td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3" align="center"><b>09</b></td>
+                                   <td width="50" class="table4"><img src="fr0053.gif" align="top" alt="Armenia"></td>
+                                   <td width="50" class="table4"><b>ARM</b></td>
+                                   <td width="50" class="table4"><b>2503</b></td>
+                                   <td width="215" class="table5">&nbsp;<a href="http://en.wikipedia.org/wiki/Lilit_Mkrtchian"><span style="color: #0000ff"><b>IM Lilit Mkrtchian</b></span></td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table3" align="right"><b>5.0/11&nbsp;</b></td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3" align="center"><b>10</b></td>
+                                   <td width="50" class="table4"><img src="fr0081.gif" align="top" alt="China"></td>
+                                   <td width="50" class="table4"><b>CHN</b></td>
+                                   <td width="50" class="table4"><b>2490</b></td>
+                                   <td width="215" class="table5">&nbsp;<a href="http://en.wikipedia.org/wiki/Zhao_Xue"><span style="color: #0000ff"><b>GM Zhao Xue</b></span></td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table3" align="right"><b>5.0/11&nbsp;</b></td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3" align="center"><b>11</b></td>
+                                   <td width="50" class="table4"><img src="fr0052.gif" align="top" alt="Turkey"></td>
+                                   <td width="50" class="table4"><b>TUR</b></td>
+                                   <td width="50" class="table4"><b>2244</b></td>
+                                   <td width="215" class="table5">&nbsp;<a href="http://en.wikipedia.org/wiki/Betul_Cemre_Yildiz"><span style="color: #0000ff"><b>WIM Betul Cemre Yildiz</b></span></td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">1</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table3" align="right"><b>2.5/11&nbsp;</b></td>
+                                   </tr>
+                                   <tr>
+                                   <td class="table3" align="center"><b>12</b></td>
+                                   <td width="50" class="table4"><img src="fr0053.gif" align="top" alt="Armenia"></td>
+                                   <td width="50" class="table4"><b>ARM</b></td>
+                                   <td width="50" class="table4"><b>2491</b></td>
+                                   <td width="215" class="table5">&nbsp;<a href="http://en.wikipedia.org/wiki/Elina_Danielian"><span style="color: #0000ff"><b>IM Elina Danielian</b></span></td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4">0</td>
+                                   <td class="table4">&#189;</td>
+                                   <td class="table4"><img src="square_01.png" alt=""></td>
+                                   <td class="table3" align="right"><b>1.5/11&nbsp;</b></td>
+                                   </tr>
+                            </table>
+                        </td>
+                        </tr>
+                  </table>
+                  <br>
+                  <table cellSpacing="0" cellPadding="0" border="0" width="80%">
+                           <tr>
+                           <td>
+                               <table cellSpacing="0" cellPadding="0" border="0" width="100%">
+                                      <tr>
+                                      <td align="left"><br>
+                                          <applet code="ChessBoard.class" align="bottom" width="630" height="560">
+                                          <param name="pgngamefile" value="2010_nalchik_w.zip">
+                                          <param name=lightsquares value="BAD3F3">
+                                          <param name=darksquares value="1761F9">
+                                          <param name=background value="064FE3">
+                                          </applet>
+                                      </td>
+                                      </tr>
+                               </table>
+                           </td>
+                           </tr>
+                    </table>
+             </div>
+             </td>
+             <td width="5">
+             </td>
+             <td width="180" valign="top">
+                 <table cellSpacing="0" cellPadding="0" border="0" width="180">
+                           <tr>
+                           <td class="menu1">
+                               <img src="a0004b.png" alt="">&nbsp;&nbsp;
+                               <a href="javascript:addbookmark()"><span style="color: #0040ff"><b>Agrega a tus Favoritos</b></span></a>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu1">
+                               <img src="a0004b.png" alt="" border="0">&nbsp;&nbsp;
+                               <a href="mailto:infotiscali@worldchesslinks.net?subject=Contact%20World%20Chess%20Links" class="mail"><span style="color: #0040FF">Cont?ctanos</span></a>
+                               <br>
+                               <img src="a0004b.png" alt="" border="0">&nbsp;&nbsp;
+                               <a href="mailto:infotiscali@worldchesslinks.net?subject=Submit%20a%20Link" class="mail"><span style="color: #0040FF">Se?ala un Sitio</span></a>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu1">
+                               <img src="a0004b.png" alt="">&nbsp;&nbsp;
+                               <a href="s_google_search.html"><span style="color: #FC4C00">Buscar en el Sitio</span></a>
+                           </td>               
+                           </tr>
+                           <tr>
+                           <td class="menu1">
+                               <br><img src="b00044_180.png" alt=""><br>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="titolomenu">
+                               <br>World Chess News
+                               <br><br>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu3" align="center">
+                               <a href="s_news_0001.html"><img src="chess_news.jpg" border="0" alt="World Chess News"></a>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="titolomenu">
+                               <br>World Chess Events
+                               <br><br>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu3b" align="center">
+                               <a href="szpa0.html"><img src="chess_events.jpg" border="0" alt="World Chess Events"></a>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="titolomenu">
+                               <br>Essential Links<br><br>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu3b" align="center">
+                               <a href="sznb0.html"><img src="chess_links.jpg" border="0" alt="World Chess Links"></a>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="titolomenu">
+                               <br>FIDE Ratings
+                               <br><br>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu3b" align="center">
+                               <a href="s_index_y.html"><img src="fide_ratings.jpg" border="0" alt="FIDE Ratings"></a>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="titolomenu">
+                               <br>Chess Books<br><br>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu3b" align="center">
+                               <a href="szox0.html"><img src="chess_books.jpg" border="0" alt="Chess Books"></a>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="titolomenu">
+                               <br>World Chess Links<br>on Facebook
+                               <br><br>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu3b" align="center">
+                               <a href="http://www.facebook.com/pages/World-Chess-Links/355223653734"><img src="facebook_c.jpg" border="0" alt="World Chess Links on Facebook"></a>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="titolomenu">
+                               <br>WCL on Twitter
+                               <br><br>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu3b" align="center">
+                               <a href="http://twitter.com/Mario_Ciani#"><img src="twitter_c.jpg" border="0" alt="World Chess Links on Twitter"></a>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="titolomenu">
+                               <br>World Chess Friends<br><br>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu3b" align="center">
+                               <a href="s_google_friend_c.html"><img src="chess_friends.jpg" border="0" alt="World Chess Friends"></a>
+                           </td>
+                           </tr>
+                 </table>
+             </td>
+             <td width="10">
+             </td>
+             </tr>
+        </table>
+        <table align="center" cellSpacing="0" cellPadding="0" width="1210" border="0">
+                <tr>
+                <td class="font6" align="justify">
+                    <br><br><h3><span style="font-size: 35px"><span style="color: #001100"><b>FIDE Women Grand Prix - External Links</b></span></span></h3>
+                </td>
+                </tr>
+                <tr>
+                <td align="left">
+                    <br>
+                    <a href="http://nalchik2010.fide.com/"><img src="web_fide_women_grand_prix_03.gif" border="0" alt=""></a>
+                    <br><br>
+                </td>
+                </tr>
+                <tr>
+                <td class="scheda3">
+                    <img src="zzz_57.gif" alt="">&nbsp;&nbsp;&nbsp;<a href="http://nalchik2010.fide.com/"><span style="color: #0000ff"><b>FIDE Women Grand Prix - 3rd Women GP Nalchik 2010 (Nalchik RUS) - Official Website</b></span></a><br>
+                    <br>
+                    &nbsp;&nbsp;<img src="zzz_55.gif" alt="">&nbsp;&nbsp;&nbsp;<a href="tournaments/2010_nalchik_w/dgt_chesstheatre.htm"><span style="color: #0040ff"><b>FIDE Women Grand Prix - Nalchik, Russia 2010 - View all games in full screen</b></span></a><br>
+                    &nbsp;&nbsp;<img src="disk.gif" alt="">&nbsp;&nbsp;&nbsp;<a href="2010_nalchik_w.zip"><span style="color: #0040ff"><b>FIDE Women Grand Prix - Nalchik, Russia 2010 - All the Games</b></span></a><br>
+                    <br>
+                    &nbsp;&nbsp;<a href="http://www.chessbase.com/"><img src="mini_01.gif" border="0" alt="Chessbase"></a><br>
+                    <br>
+                    &nbsp;&nbsp;<img src="zzz_02.gif" alt="Chessbase">&nbsp;&nbsp;&nbsp;<a href="http://www.chessbase.com/newsdetail.asp?newsid=6310"><span style="color: #0040ff"><b>Chessbase - Nalchik GP: Kosintseva leads, Hou and Cramling follow</b></span></a><br>
+                    &nbsp;&nbsp;<img src="zzz_02.gif" alt="Chessbase">&nbsp;&nbsp;&nbsp;<a href="http://www.chessbase.com/newsdetail.asp?newsid=6304"><span style="color: #0040ff"><b>Chessbase - Nalchik GP: Kosintseva leads with a 2800+ performance</b></span></a><br>
+                    &nbsp;&nbsp;<img src="zzz_02.gif" alt="Chessbase">&nbsp;&nbsp;&nbsp;<a href="http://www.chessbase.com/newsdetail.asp?newsid=6289"><span style="color: #0040ff"><b>Chessbase - Third Women's Chess Grand Prix in Nalchik</b></span></a><br>
+                    &nbsp;&nbsp;<img src="zzz_02.gif" alt="Chessbase">&nbsp;&nbsp;&nbsp;<a href="http://www.chessbase.com/"><span style="color: #009900"><b>Chessbase - Homepage</b></span></a><br>
+                    <br>
+                    &nbsp;&nbsp;<a href="http://www.chessdom.com/"><img src="mini_04.gif" border="0" alt="Chessdom"></a><br>
+                    <br>
+                    &nbsp;&nbsp;<img src="zzz_04.gif" alt="Chessdom">&nbsp;&nbsp;&nbsp;<a href="http://www.chessdom.com/news-2010/tatiana-kosintseva-nalchik-grand-prix"><span style="color: #0040ff"><b>Chessdom - Tatiana Kosintseva with crushing score in Nalchik</b></span></a><br>
+                    &nbsp;&nbsp;<img src="zzz_04.gif" alt="Chessdom">&nbsp;&nbsp;&nbsp;<a href="http://www.chessdom.com/"><span style="color: #0040ff"><b>Chessdom - Homepage</b></span></a><br>
+                    <br>
+                    &nbsp;&nbsp;<a href="http://www.chessvibes.com/"><img src="mini_03.gif" border="0" alt="ChessVibes"></a><br>
+                    <br>
+                    &nbsp;&nbsp;<img src="zzz_03.gif" alt="Chessvibes">&nbsp;&nbsp;&nbsp;<a href="http://www.chessvibes.com/reports/tatiana-kosintseva-on-a-roll-in-nalchik/"><span style="color: #0040ff"><b>ChessVibes - Tatiana Kosintseva on a roll in Nalchik</b></span></a><br>
+                    &nbsp;&nbsp;<img src="zzz_03.gif" alt="Chessvibes">&nbsp;&nbsp;&nbsp;<a href="http://www.chessvibes.com/"><span style="color: #009900"><b>ChessVibes - Homepage</b></span></a><br>
+                    <br>
+                    &nbsp;&nbsp;<a href="http://www.chess.co.uk/twic/"><img src="mini_07.gif" border="0" alt="The Week in Chess"></a><br>
+                    <br>
+                    &nbsp;&nbsp;<img src="zzz_07.gif" alt="The Week in Chess">&nbsp;&nbsp;&nbsp;<a href="http://www.chess.co.uk/twic/chessnews/events/3rd-womens-chess-grand-prix-nalchik-2010"><span style="color: #0040ff"><b>The Week in Chess - 3rd Women's Chess Grand Prix Nalchik 2010</b></span></a><br>
+                    &nbsp;&nbsp;<img src="zzz_07.gif" alt="The Week in Chess">&nbsp;&nbsp;&nbsp;<a href="http://www.chess.co.uk/twic/twic.html"><span style="color: #009900"><b>The Week in Chess - Homepage</b></span></a><br>
+                    <br>
+                    &nbsp;&nbsp;<img src="mini_00.gif" border="0" alt="World Chess Links"><br>
+                    <br>
+                    &nbsp;&nbsp;<img src="zzz_01.gif">&nbsp;&nbsp;&nbsp;<a href="szfb09.html"><font color="001100"><b>2011</b></font><font color="0000FF"><b>&nbsp;&nbsp;FIDE Women Grand Prix - <img src="fr0034.gif" alt="Russia" border="0">&nbsp;&nbsp;Nalchik - IX</b></font></a><br>
+                    &nbsp;&nbsp;<img src="zzz_01.gif">&nbsp;&nbsp;&nbsp;<a href="szfb08.html"><font color="001100"><b>2011</b></font><font color="0000FF"><b>&nbsp;&nbsp;FIDE Women Grand Prix - <img src="fr0081.gif" alt="China" border="0">&nbsp;&nbsp;Shenzhen - VIII</b></font></a><br>
+                    &nbsp;&nbsp;<img src="zzz_01.gif">&nbsp;&nbsp;&nbsp;<a href="szfb07.html"><font color="001100"><b>2011</b></font><font color="0000FF"><b>&nbsp;&nbsp;FIDE Women Grand Prix - <img src="fr0034.gif" alt="Russia" border="0">&nbsp;&nbsp;Rostov - VII</b></font></a><br>
+                    &nbsp;&nbsp;<img src="zzz_01.gif">&nbsp;&nbsp;&nbsp;<a href="szfb06.html"><font color="001100"><b>2011</b></font><font color="0000FF"><b>&nbsp;&nbsp;FIDE Women Grand Prix - <img src="fr0056.gif" alt="Qatar" border="0">&nbsp;&nbsp;Doha - VI</b></font></a><br>
+                    &nbsp;&nbsp;<img src="zzz_01.gif">&nbsp;&nbsp;&nbsp;<a href="szfb05.html"><font color="001100"><b>2010</b></font><font color="0000FF"><b>&nbsp;&nbsp;FIDE Women Grand Prix - <img src="fr0095.gif" alt="Mongolia" border="0">&nbsp;&nbsp;Ulaanbaatar - V</b></font></a><br>
+                    &nbsp;&nbsp;<img src="zzz_01.gif">&nbsp;&nbsp;&nbsp;<a href="szfb04.html"><font color="001100"><b>2010</b></font><font color="0000FF"><b>&nbsp;&nbsp;FIDE Women Grand Prix - <img src="fr0053.gif" alt="Armenia" border="0">&nbsp;&nbsp;Jermuk - IV</b></font></a><br>
+                    &nbsp;&nbsp;<img src="zzz_01.gif">&nbsp;&nbsp;&nbsp;<a href="szfb03.html"><font color="001100"><b>2010</b></font><font color="0000FF"><b>&nbsp;&nbsp;FIDE Women Grand Prix - <img src="fr0034.gif" alt="Russia" border="0">&nbsp;&nbsp;Nalchik - III</b></font></a><br>
+                    &nbsp;&nbsp;<img src="zzz_01.gif">&nbsp;&nbsp;&nbsp;<a href="szfb02.html"><font color="001100"><b>2009</b></font><font color="0000FF"><b>&nbsp;&nbsp;FIDE Women Grand Prix - <img src="fr0081.gif" alt="China" border="0">&nbsp;&nbsp;Nanjing - II</b></font></a><br>
+                    &nbsp;&nbsp;<img src="zzz_01.gif">&nbsp;&nbsp;&nbsp;<a href="szfb01.html"><font color="001100"><b>2009</b></font><font color="0000FF"><b>&nbsp;&nbsp;FIDE Women Grand Prix - <img src="fr0052.gif" alt="Turkey" border="0">&nbsp;&nbsp;Istanbul - I</b></font></a><br>
+                </td>
+                </tr>
+        </table>
+        <table align="center" cellSpacing="0" cellPadding="0" width="1250" border="0">
+               <tr>
+               <td align="left">
+                   <br><br><br><br><br>
+                   &nbsp;&nbsp;&nbsp;&nbsp;<span class='st_sharethis_large' ></span><span class='st_facebook_large' ></span><span class='st_twitter_large' ></span><span class='st_yahoo_large' ></span><span class='st_stumbleupon_large' ></span><span class='st_delicious_large' ></span><span class='st_blogger_large' ></span><span class='st_wordpress_large' ></span><span class='st_gbuzz_large' ></span><span class='st_email_large' ></span>
+                   <script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'ed54abe9-c475-4edf-a188-fc8e45ba816f'});</script>
+               </td>
+               </tr>
+        </table>
+        <table align="center" cellSpacing="0" cellPadding="0" width="1250" border="0">
+             <tr>
+             <td align="right">
+                 <a href="http://validator.w3.org/check?uri=referer"><img src="validazione_html40.gif" alt="Valid HTML 4.0 Transitional" height="31" width="88" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+             </td>
+             <td align="left">
+                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://jigsaw.w3.org/css-validator/validator?uri=http://www.worldchesslinks.net/worldchesslinks.css"><img src="validazione_html40_b.gif" alt="Valid CSS!" border="0" height="31" width="88" ></a>
+             </td>
+             </tr>
+       </table>
+       <table align="center" cellSpacing="0" cellPadding="0" width="1250" border="0">
+             <tr>
+             <td class="coda3">
+                 <br><br><br>&nbsp;&nbsp;&nbsp;<a href="#top"><img src="up.png" border="0" align="right" alt=""></a>
+             </td>
+             </tr>
+       </table>
+        </div>
+        </div>
+        </div>
+<!-- Fine Content -->
+
+</div>
+<!-- Fine Container -->
+<!-- Inizio Footer -->
+        <div id="footer">
+        <div id="footer_l">
+        <div id="footer_r">
+        <div id="footer_a">
+        <table align="center" cellSpacing="0" cellPadding="0" width="1250" border="0">
+               <tr>
+               <td align="left" class="coda4">
+                   &nbsp;<br>&nbsp;
+               </td>
+               <td align="right" class="coda4">
+                   &nbsp;<br>&nbsp;
+               </td>
+               </tr>
+               <tr>
+               <td align="left"class="coda2">
+                   &nbsp;&nbsp;&nbsp;? www.worldchesslinks.net all rights reserved
+               </td>
+               <td align="right" class="coda2">
+                   <a href="http://www.agenziavalbelluna.it"><span style="color: #13468E">Official Sponsor</span></a>&nbsp;&nbsp;&nbsp;
+               </td>
+               </tr>
+        </table>
+        </div>
+        </div>
+        </div>
+        </div>
+
+      <script language="JavaScript1.2" type="text/JavaScript">
+      <!--
+      var bookmarkurl="http://www.worldchesslinks.net"
+      var bookmarktitle="World Chess Links"
+      function addbookmark(){
+      if (document.all)
+      window.external.AddFavorite(bookmarkurl,bookmarktitle)
+      }
+      //-->
+      </script>
+
+<!-- start of Google Analytics Code -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-241540-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+<!-- End of Google Analytics Code -->
+
+</body>
+</html>

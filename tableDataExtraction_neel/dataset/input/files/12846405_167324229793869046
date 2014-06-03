@@ -1,0 +1,1020 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://opengraphprotocol.org/schema/">
+<head>
+<title>the world&#39;s largest collaborative climbing database | theCrag</title>
+<meta property="fb:app_id" content="141410435911098"/>
+<meta property="og:site_name" content="theCrag"/>
+<meta property="og:title" content="the world&#39;s largest collaborative climbing database" />
+<meta property="og:type" content="landmark" />
+<meta property="og:image" content="http://www.thecrag.com/image/photo/00001/fixedheightmedium/25190962.jpg" />
+<meta property="og:image" content="http://static.thecrag.com/cids/images/logo-159x50-1.1.0.png" />
+<meta property="og:description" content="Welcome to www.thecrag.com, a project to collect and distribute climbing information to the climbing community.
+The site was founded in 1999 by Simon Dale and Campbell Gome, two Australian climbers. In 2010 Brendan Heywood joined the team bringing new skills, ideas and energy.
+We are currently implementing a major redesign.
+Use the links on the left and in the table below to explore and add to the index. The more you and your friends use and contribute to the site, the better it becomes for all climbers." />
+<meta property="og:latitude"  content="12.54687205" />
+<meta property="og:longitude" content="5.75150000000001" />
+<link rel="shortcut icon" href="http://static.thecrag.com/cids/images/favicon-1.1.0.ico" type="image/x-icon" />
+<meta name="viewport" content="width=980" />
+<link rel="apple-touch-icon-precomposed" href="http://static.thecrag.com/cids/images/logo-129-1.1.0.png"/>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="content-language" content="en" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="cache-control" content="no-cache" />
+<link rel="canonical" href="/area/7546063" />
+<meta name="copyright" content="&copy; thecrag.com" />
+<link rel="stylesheet" type="text/css" media="all"   href="http://static.thecrag.com/cids/portal-1.1.11.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://static.thecrag.com/cids/print-1.0.2.css" /> 
+<link rel="search" type="application/opensearchdescription+xml" href="/open-search.xml" title="Search theCrag" /> 
+<link title="Recent ascents in World" href="/feed/ascents/node/7546063" rel="alternate" type="application/atom+xml" />
+<link title="Recent updates in World" href="/feed/activity/node/7546063" rel="alternate" type="application/atom+xml" />
+<script src="http://static.thecrag.com/jquery/jquery-1.6.4.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+var _gaq = [['_setAccount', 'UA-18400027-1'], ['_setDomainName', 'none'], ['_trackPageview'], ['_trackPageLoadTime']];
+(function() {var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();
+</script>
+</head>
+<body id="default">
+
+
+  <div id="wrapper">
+    <div id="header"><div class="inner">
+      <div id="headerlogo">
+         <a href="/"><img src="http://static.thecrag.com/cids/images/logo-159x50-1.1.0.png" class="logo" width="159" height="50" alt="" /></a> 
+<span class="strapline" title="the world's biggest collaborative climbing database">collaborative climbing</span>
+      </div>
+      <div id="headercontrol">
+<a href="/processmap/login?return=/area/7546063">Login</a>
+ | 
+<a href="/processmap/signup?return=/area/7546063">Sign up</a>
+      </div>
+
+
+      <div id="headersearch">
+        <form id="searchForm" action="/search/7546063" method="get">
+          <input type="text" name="S" value="" />
+          <select name="ST" size="1" onchange="document.searchForm.submit()">
+            <option value="w" selected="selected">Search</option>
+            <option value="w">World</option>
+            <option value="a">World</option>
+            <option value="p">Climbers</option>
+          </select>
+          <input type="submit" class="go" value="Go" />
+        </form>
+      </div>
+ <div id="headerusage">
+	<p><a href="/article/ContactUs/">Got an idea? Found a bug! All feedback is welcome...</a>
+<span id="contacts">
+ <a href="mailto:support@thecrag.com"><img src="http://static.thecrag.com/silk/email.png" width="16" height="16" alt="Email" title="Our support email" /></a>
+ <a href="http://www.facebook.com/thecragcom"><img src="http://static.thecrag.com/cids/images/fb-1.1.0.png" width="14" height="14" alt="Facebook" title="Our facebook page" /></a>
+ <a href="/article/issues"><img src="http://static.thecrag.com/silk/bug.png" width="16" height="16" alt="Github" title="Our bugs and feature requests list" /></a>
+</span>
+</p>
+      </div>
+
+    </div></div>
+    <!-- close header -->
+
+
+
+
+
+
+
+<div id="primary-navigation"><div class="inner">
+<h2 class="structure-label">Site navigation</h2>
+
+<ul>
+<li><a class='selected' href='/'>World Routes</a></li>
+<li><a href='/maps'>Map <img src="http://static.thecrag.com/cids/images/beta-small-1.1.0.png" alt="" width="29" height="13" /></a></li>
+  <li><a href="/processmap/login">Login</a></li>
+  <li><a href="/processmap/signup">Signup</a></li>
+
+<li><a href='http://thecrag.tumblr.com/'>Blog</a></li>
+<li><a href='/article/ContactUs'>Help</a></li>
+</ul>
+
+
+
+</div></div><!-- end primary-navigation -->
+<ul id="favs">
+</ul>
+<script type="text/javascript">
+$(function(){
+	$('#climber').mouseover(function(){
+		var cl = $('#climber')
+		var pos = cl.offset();
+		$('#favs').css({ top: pos.top + cl.outerHeight()+1, left: pos.left+2 }).show();
+	});
+	$('#favs').mouseleave(function(){
+		$('#favs').hide();
+	});
+});
+</script>
+
+
+
+
+
+<div class="page-content">
+
+
+
+
+
+<div id="secondary-navigation"><div class="inner">
+	<h2 class="structure-label">Section navigation</h2>
+
+
+
+
+
+
+<ul>
+	<li class="group">World</li>
+
+
+<li><a title="Region - with 4,761 routes and 4,838 ascents " href="/area/11737843">Africa</a></li>
+<li><a title="Region - with 2 routes and 1 ascents " href="/area/11737915">Arctic Region</a></li>
+<li><a title="Region - with 2,911 routes and 12,251 ascents " href="/area/11737747">Asia</a></li>
+<li><a title="Region - with 43,625 routes and 287,852 ascents " href="/area/11737699">Australia</a></li>
+<li><a title="Region - with 229 routes and 60 ascents " href="/area/11737795">Central America</a></li>
+<li><a title="Region - with 58,660 routes and 22,347 ascents " href="/area/11737771">Europe</a></li>
+<li><a title="Region - with 441 routes and 246 ascents " href="/area/11737867">Middle East</a></li>
+<li><a title="Region - with 8,001 routes and 9,431 ascents " href="/area/11737723">New Zealand</a></li>
+<li><a title="Region - with 68,774 routes and 100,574 ascents " href="/area/11737675">North America</a></li>
+<li><a title="Region - with 1 routes and 0 ascents " href="/area/11737891">Pacific Islands</a></li>
+<li><a title="Region - with 676 routes and 579 ascents " href="/area/11737819">South America</a></li>
+<li><a title="Region - with 204 routes and 253 ascents " href="/area/11737939">test area</a></li>
+
+</ul>
+
+</div></div><!-- end secondary-navigation -->
+
+
+
+<div id="content">
+
+
+<div class="inner">
+
+      
+
+
+<style>
+h1 {
+
+	text-align: center;
+	border: none;
+	margin: 0;
+}
+.tagline {
+	text-align: center;
+	font-size: 160%;
+}
+
+.blurb {
+	/* color: black; */
+	font-size: 115%;
+	text-align: center;
+}
+.blurb em {
+	font-weight: bold;
+	font-style: normal;
+}
+</style>
+<h1>Welcome to theCrag.com</h1>
+<p class="tagline">the world's largest collaborative climbing database</p>
+
+<p class="blurb">Explore an index of <em>188,546&nbsp;routes</em>.
+
+Climbers have already logged <br /> <em>438,004&nbsp;ascents</em>.
+
+Climbers made <em>6,047&nbsp;updates</em> to the index in Jan 2012</p>
+<p class="blurb"><a href="/article/Vision">Our Vision</a></p>
+
+
+<p style="text-align: center;">Use the links on the left and in the table below to explore and add to the index.<br />
+ The more you and your friends use and contribute to the site, the better it becomes for all climbers.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+$(function(){
+	$('.routetable tr').hover(
+		function(){
+			$('body').trigger('node.over', {id: $(this).attr('id') });
+   		},
+   		function(){
+			$('body').trigger('node.out', {id: $(this).attr('id') });
+		}
+	);
+});
+</script>
+
+
+<script type="text/javascript">
+function clickHandlerFactory(area, topo){
+	return function(route){
+		if (route){
+			//window.location.hash = '#'+route.id;
+			window.location = '/route/'+route.id;
+		} else {
+			window.location = '/area/7546063/topo#t'+topo;
+		}
+	}
+}
+</script>
+
+
+
+
+
+
+
+<div style="clear: both"></div>
+
+
+
+
+
+  <h2>Areas
+</h2>
+
+
+
+
+<table class="routetable">
+      <tr>
+        <th scope="col"><img src="http://static.thecrag.com/silk/map.png" alt="Map" title="Has location data" width="16" height="16" /></th>
+<th scope="col">Name</th>
+<th scope="col">Style</th>
+<th scope="col" class="num">Climbs</th>
+        <th scope="col" class="num">Ascents</th>
+        <th scope="col" class="num">Height</th>
+        <th scope="col">Grade Band</th>
+        <th scope="col" class="num"><img src="http://static.thecrag.com/silk/pictures.png" alt="Topos" title="Number of phototopos" width="16" height="16" /></th>
+      </tr>
+      <tr id="11737675">
+        <td>
+<a href="/area/11737675/locate" title="Located"><img src="https://chart.googleapis.com/chart?chst=d_map_pin_letter_withshadow&chld=|ff8375" height="16" width="17" alt="" /></a>
+</td>
+        <td class="at_name"><a href="/area/11737675">North America</a> <span class="type">Region</span></td>
+        <td>
+
+
+
+	?,Boulder
+ and other styles
+
+
+
+
+</td>
+        <td class="num">68,774</td>
+        <td class="num">100,574</td>
+        <td class="num">
+41m
+       </td>
+        <td>
+<span class="dbthin gb5"><span class="gb1" style="width: 4.81960272059817%" title="3210 Beginner routes"></span><span class="gb2" style="width: 40.7233908382505%" title="27123 Intermediate routes"></span><span class="gb3" style="width: 43.8673933606594%" title="29217 Experienced routes"></span><span class="gb4" style="width: 10.4079395823011%" title="6932 Expert routes"></span><span class="gb5" style="width: 0.181673498190772%" title="121 Elite routes"></span></span>
+
+</td>
+        <td class="num">68</td>
+      </tr>
+      <tr id="11737699">
+        <td>
+<a href="/area/11737699/locate" title="Located"><img src="https://chart.googleapis.com/chart?chst=d_map_pin_letter_withshadow&chld=|ff8375" height="16" width="17" alt="" /></a>
+</td>
+        <td class="at_name"><a href="/area/11737699">Australia</a> <span class="type">Region</span></td>
+        <td>
+
+
+
+	?,Trad
+ and other styles
+
+
+
+
+</td>
+        <td class="num">43,625</td>
+        <td class="num">287,852</td>
+        <td class="num">
+29m
+       </td>
+        <td>
+<span class="dbthin gb5"><span class="gb1" style="width: 12.3379695335415%" title="5216 Beginner routes"></span><span class="gb2" style="width: 36.5289999053837%" title="15443 Intermediate routes"></span><span class="gb3" style="width: 41.2574510360488%" title="17442 Experienced routes"></span><span class="gb4" style="width: 9.61301920711515%" title="4064 Expert routes"></span><span class="gb5" style="width: 0.262560317910871%" title="111 Elite routes"></span></span>
+
+</td>
+        <td class="num">1,071</td>
+      </tr>
+      <tr id="11737723">
+        <td>
+<a href="/area/11737723/locate" title="Located"><img src="https://chart.googleapis.com/chart?chst=d_map_pin_letter_withshadow&chld=|ff8375" height="16" width="17" alt="" /></a>
+</td>
+        <td class="at_name"><a href="/area/11737723">New Zealand</a> <span class="type">Region</span></td>
+        <td>
+
+
+
+	?,Boulder
+ and other styles
+
+
+
+
+</td>
+        <td class="num">8,001</td>
+        <td class="num">9,431</td>
+        <td class="num">
+36m
+       </td>
+        <td>
+<span class="dbthin gb5"><span class="gb1" style="width: 3.33021265213321%" title="249 Beginner routes"></span><span class="gb2" style="width: 36.6858365654674%" title="2743 Intermediate routes"></span><span class="gb3" style="width: 47.224822789889%" title="3531 Experienced routes"></span><span class="gb4" style="width: 12.6788819045072%" title="948 Expert routes"></span><span class="gb5" style="width: 0.0802460880032098%" title="6 Elite routes"></span></span>
+
+</td>
+        <td class="num">5</td>
+      </tr>
+      <tr id="11737747">
+        <td>
+<a href="/area/11737747/locate" title="Located"><img src="https://chart.googleapis.com/chart?chst=d_map_pin_letter_withshadow&chld=|ff8375" height="16" width="17" alt="" /></a>
+</td>
+        <td class="at_name"><a href="/area/11737747">Asia</a> <span class="type">Region</span></td>
+        <td>
+
+
+
+	?,Sport
+ and other styles
+
+
+
+
+</td>
+        <td class="num">2,911</td>
+        <td class="num">12,251</td>
+        <td class="num">
+29m
+       </td>
+        <td>
+<span class="dbthin gb5"><span class="gb1" style="width: 1.96767392832045%" title="56 Beginner routes"></span><span class="gb2" style="width: 29.7610681658468%" title="847 Intermediate routes"></span><span class="gb3" style="width: 50.6324666198173%" title="1441 Experienced routes"></span><span class="gb4" style="width: 17.1820098383696%" title="489 Expert routes"></span><span class="gb5" style="width: 0.456781447645819%" title="13 Elite routes"></span></span>
+
+</td>
+        <td class="num">34</td>
+      </tr>
+      <tr id="11737771">
+        <td>
+<a href="/area/11737771/locate" title="Located"><img src="https://chart.googleapis.com/chart?chst=d_map_pin_letter_withshadow&chld=|ff8375" height="16" width="17" alt="" /></a>
+</td>
+        <td class="at_name"><a href="/area/11737771">Europe</a> <span class="type">Region</span></td>
+        <td>
+
+
+
+	?,Sport
+ and other styles
+
+
+
+
+</td>
+        <td class="num">58,660</td>
+        <td class="num">22,347</td>
+        <td class="num">
+32m
+       </td>
+        <td>
+<span class="dbthin gb5"><span class="gb1" style="width: 6.7806157475048%" title="3852 Beginner routes"></span><span class="gb2" style="width: 38.3161118836804%" title="21767 Intermediate routes"></span><span class="gb3" style="width: 40.6308859511697%" title="23082 Experienced routes"></span><span class="gb4" style="width: 13.8164727419951%" title="7849 Expert routes"></span><span class="gb5" style="width: 0.455913675649985%" title="259 Elite routes"></span></span>
+
+</td>
+        <td class="num">17</td>
+      </tr>
+      <tr id="11737795">
+        <td>
+<a href="/area/11737795/locate" title="Located"><img src="https://chart.googleapis.com/chart?chst=d_map_pin_letter_withshadow&chld=|ff8375" height="16" width="17" alt="" /></a>
+</td>
+        <td class="at_name"><a href="/area/11737795">Central America</a> <span class="type">Region</span></td>
+        <td>
+
+
+
+	Mostly Trad or Sport
+
+
+
+
+</td>
+        <td class="num">229</td>
+        <td class="num">60</td>
+        <td class="num">
+30m
+       </td>
+        <td>
+<span class="dbthin gb4"><span class="gb1" style="width: 10.2941176470588%" title="21 Beginner routes"></span><span class="gb2" style="width: 15.6862745098039%" title="32 Intermediate routes"></span><span class="gb3" style="width: 56.8627450980392%" title="116 Experienced routes"></span><span class="gb4" style="width: 17.156862745098%" title="35 Expert routes"></span></span>
+
+</td>
+        <td class="num"></td>
+      </tr>
+      <tr id="11737819">
+        <td>
+<a href="/area/11737819/locate" title="Located"><img src="https://chart.googleapis.com/chart?chst=d_map_pin_letter_withshadow&chld=|ff8375" height="16" width="17" alt="" /></a>
+</td>
+        <td class="at_name"><a href="/area/11737819">South America</a> <span class="type">Region</span></td>
+        <td>
+
+
+
+	Mostly Trad or Sport
+
+
+
+
+</td>
+        <td class="num">676</td>
+        <td class="num">579</td>
+        <td class="num">
+82m
+       </td>
+        <td>
+<span class="dbthin gb4"><span class="gb1" style="width: 1.60513643659711%" title="10 Beginner routes"></span><span class="gb2" style="width: 39.1653290529695%" title="244 Intermediate routes"></span><span class="gb3" style="width: 49.5987158908507%" title="309 Experienced routes"></span><span class="gb4" style="width: 9.63081861958267%" title="60 Expert routes"></span></span>
+
+</td>
+        <td class="num"></td>
+      </tr>
+      <tr id="11737843">
+        <td>
+<a href="/area/11737843/locate" title="Located"><img src="https://chart.googleapis.com/chart?chst=d_map_pin_letter_withshadow&chld=|ff8375" height="16" width="17" alt="" /></a>
+</td>
+        <td class="at_name"><a href="/area/11737843">Africa</a> <span class="type">Region</span></td>
+        <td>
+
+
+
+	Mostly Trad or Sport
+
+
+
+
+</td>
+        <td class="num">4,761</td>
+        <td class="num">4,838</td>
+        <td class="num">
+61m
+       </td>
+        <td>
+<span class="dbthin gb5"><span class="gb1" style="width: 9.7524219590958%" title="453 Beginner routes"></span><span class="gb2" style="width: 44.5209903121636%" title="2068 Intermediate routes"></span><span class="gb3" style="width: 37.0505920344456%" title="1721 Experienced routes"></span><span class="gb4" style="width: 8.48223896663078%" title="394 Expert routes"></span><span class="gb5" style="width: 0.193756727664155%" title="9 Elite routes"></span></span>
+
+</td>
+        <td class="num"></td>
+      </tr>
+      <tr id="11737867">
+        <td>
+<a href="/area/11737867/locate" title="Located"><img src="https://chart.googleapis.com/chart?chst=d_map_pin_letter_withshadow&chld=|ff8375" height="16" width="17" alt="" /></a>
+</td>
+        <td class="at_name"><a href="/area/11737867">Middle East</a> <span class="type">Region</span></td>
+        <td>
+
+
+
+	Sport,?
+ and  Trad
+
+
+
+
+</td>
+        <td class="num">441</td>
+        <td class="num">246</td>
+        <td class="num">
+45m
+       </td>
+        <td>
+<span class="dbthin gb5"><span class="gb1" style="width: 1.19617224880383%" title="5 Beginner routes"></span><span class="gb2" style="width: 33.9712918660287%" title="142 Intermediate routes"></span><span class="gb3" style="width: 52.6315789473684%" title="220 Experienced routes"></span><span class="gb4" style="width: 11.9617224880383%" title="50 Expert routes"></span><span class="gb5" style="width: 0.239234449760766%" title="1 Elite route"></span></span>
+
+</td>
+        <td class="num">3</td>
+      </tr>
+      <tr id="11737891">
+        <td>
+<a href="/area/11737891/locate" title="Partially located"><img src="https://chart.googleapis.com/chart?chst=d_map_pin_letter_withshadow&chld=|eeeeee" height="16" width="17" alt="" /></a>
+</td>
+        <td class="at_name"><a href="/area/11737891">Pacific Islands</a> <span class="type">Region</span></td>
+        <td>
+
+
+
+	All Sport
+
+
+
+
+</td>
+        <td class="num">1</td>
+        <td class="num">0</td>
+        <td class="num">
+55m
+       </td>
+        <td>
+<span class="dbthin gb3"><span class="gb3" style="width: 100%" title="1 Experienced route"></span></span>
+
+</td>
+        <td class="num"></td>
+      </tr>
+      <tr id="11737915">
+        <td>
+<a href="/area/11737915/locate" title="Partially located"><img src="https://chart.googleapis.com/chart?chst=d_map_pin_letter_withshadow&chld=|eeeeee" height="16" width="17" alt="" /></a>
+</td>
+        <td class="at_name"><a href="/area/11737915">Arctic Region</a> <span class="type">Region</span></td>
+        <td>
+
+
+
+	Alpine,Ice
+
+
+
+
+</td>
+        <td class="num">2</td>
+        <td class="num">1</td>
+        <td class="num">
+25m
+       </td>
+        <td>
+<span class="dbthin gb-1"></span>
+
+</td>
+        <td class="num"></td>
+      </tr>
+      <tr id="11737939">
+        <td>
+</td>
+        <td class="at_name"><a href="/area/11737939">test area</a> <span class="type">Region</span></td>
+        <td>
+
+
+
+	Mostly Trad or Sport
+
+
+
+
+</td>
+        <td class="num">204</td>
+        <td class="num">253</td>
+        <td class="num">
+280m
+       </td>
+        <td>
+<span class="dbthin gb4"><span class="gb1" style="width: 33.1288343558282%" title="54 Beginner routes"></span><span class="gb2" style="width: 31.9018404907975%" title="52 Intermediate routes"></span><span class="gb3" style="width: 26.3803680981595%" title="43 Experienced routes"></span><span class="gb4" style="width: 8.58895705521472%" title="14 Expert routes"></span></span>
+
+</td>
+        <td class="num">10</td>
+      </tr>
+</table>
+
+
+
+
+
+<div class="simple-tabs"><span id="ascents_tab" class="selected"><a>Recent ascents</a> <a href="/feed/ascents/node/7546063" title="A feed of recent ascents"><img src="http://static.thecrag.com/silk/feed.png" width="16" height="16" alt="" /></a>
+</span><span id="activity_tab" style="display:none"><a>Recent updates</a> <a href="/feed/activity/node/7546063" title="A feed of recent updates"><img src="http://static.thecrag.com/silk/feed.png" width="16" height="16" alt="" /></a>
+</div>
+<div id="ascents">
+  
+<div class="comments">
+
+<div class="account">
+<span class="climber"><a class=" avatar" href="/climber/9280489" title="Andrew Clark  - Country: Australia - Ascents: 391"><img alt="" src="/avatar/9280489" width="50" height="50" /></a></span>
+
+
+<span class="climber"><a class="" href="/climber/9280489" title="Andrew Clark  - Country: Australia - Ascents: 391">Andrew Clark</a></span>
+
+
+
+
+
+<p>
+  <span class="tick_toproperest" title="Top rope with rest"></span>
+  <span class="gb3">22</span>
+  <span class="route"><a title="World &amp;#8250;&amp;nbsp;Australia &amp;#8250;&amp;nbsp;Victoria &amp;#8250;&amp;nbsp;North&amp;nbsp;West &amp;#8250;&amp;nbsp;Grampians &amp;#8250;&amp;nbsp;Central&amp;nbsp;Grampians &amp;#8250;&amp;nbsp;Bundaleer&amp;nbsp;Area &amp;#8250;&amp;nbsp;Bundaleer
+" href="/route/15065107"> Enter Sandman</a></span>
+  <span class="date">about 6 hours ago</span>
+</p>
+<div class="comment markdown">
+  <p>Getting my draws back off. <a href="/ascent/163936548">...</a></p>
+
+</div>
+
+
+
+<p>
+  <span class="tick_redpoint" title="Red point"></span>
+  <span class="gb3">22</span>
+  <span class="route"><a title="World &amp;#8250;&amp;nbsp;Australia &amp;#8250;&amp;nbsp;Victoria &amp;#8250;&amp;nbsp;North&amp;nbsp;West &amp;#8250;&amp;nbsp;Grampians &amp;#8250;&amp;nbsp;Central&amp;nbsp;Grampians &amp;#8250;&amp;nbsp;Bundaleer&amp;nbsp;Area &amp;#8250;&amp;nbsp;Bundaleer
+" href="/route/15065107"> Enter Sandman</a></span>
+  <span class="date">about 6 hours ago</span>
+</p>
+<div class="comment markdown">
+  <p><em class="enjoyable">Stoked</em>.  Probably the easiest 22 in the Grampians but I'm not complaining. <a href="/ascent/163935363">...</a></p>
+
+</div>
+
+
+
+<p>
+  <span class="tick_dog" title="Dog"></span>
+  <span class="gb3">22</span>
+  <span class="route"><a title="World &amp;#8250;&amp;nbsp;Australia &amp;#8250;&amp;nbsp;Victoria &amp;#8250;&amp;nbsp;North&amp;nbsp;West &amp;#8250;&amp;nbsp;Grampians &amp;#8250;&amp;nbsp;Central&amp;nbsp;Grampians &amp;#8250;&amp;nbsp;Bundaleer&amp;nbsp;Area &amp;#8250;&amp;nbsp;Bundaleer
+" href="/route/15065107"> Enter Sandman</a></span>
+  <span class="date">about 6 hours ago</span>
+</p>
+<div class="comment markdown">
+  <p>Warm up attempt.  Took two rests while figuring out the start of the <em class="tag">traverse</em>. <a href="/ascent/163934676">...</a></p>
+
+</div>
+
+</div>
+<div class="account">
+<span class="climber"><a class=" avatar" href="/climber/119349363" title="Sean Barnes  - Country: Australia - Ascents: 53"><img alt="" src="/avatar/119349363" width="50" height="50" /></a></span>
+
+
+<span class="climber"><a class="" href="/climber/119349363" title="Sean Barnes  - Country: Australia - Ascents: 53">Sean Barnes</a></span>
+
+
+
+
+
+<p>
+  <span class="tick_onsight" title="Onsight"></span>
+  <span class="gb3">19</span>
+  <span class="route"><a title="World &amp;#8250;&amp;nbsp;Australia &amp;#8250;&amp;nbsp;New&amp;nbsp;South&amp;nbsp;Wales&amp;nbsp;and&amp;nbsp;ACT &amp;#8250;&amp;nbsp;Sydney&amp;nbsp;Metropolitan &amp;#8250;&amp;nbsp;North&amp;nbsp;Shore &amp;#8250;&amp;nbsp;West&amp;nbsp;Roseville
+" href="/route/13111021"> Flame Trees</a></span>
+  <span class="date">12 days ago</span>
+</p>
+<div class="comment markdown">
+  <p>Descent.  Pretty <em class="tag">short</em> though, and dont bother with the top out.  There's a <em class="enjoyable">good</em> tree on top to rap off to clean it <a href="/ascent/163933593">...</a></p>
+
+</div>
+
+
+
+<p>
+  <span class="tick_attempt" title="Attempt"></span>
+  <span class="gb3">22</span>
+  <span class="route"><a title="World &amp;#8250;&amp;nbsp;Australia &amp;#8250;&amp;nbsp;New&amp;nbsp;South&amp;nbsp;Wales&amp;nbsp;and&amp;nbsp;ACT &amp;#8250;&amp;nbsp;Sydney&amp;nbsp;Metropolitan &amp;#8250;&amp;nbsp;North&amp;nbsp;Shore &amp;#8250;&amp;nbsp;West&amp;nbsp;Roseville
+" href="/route/13110967"><img alt="*" src="http://static.thecrag.com/cids/images/mini-star-1.1.0.png" width="10" height="10" /><img alt="*" src="http://static.thecrag.com/cids/images/mini-star-1.1.0.png" width="10" height="10" /> Deal With It</a></span>
+  <span class="date">12 days ago</span>
+</p>
+<div class="comment markdown">
+  <p>Will try another time when the rock isnt damp, its not 95% humidity, and im not having to flick funnel webs out of the holds <a href="/ascent/163933587">...</a></p>
+
+</div>
+
+</div>
+<div class="account">
+<span class="climber"><a class=" avatar" href="/climber/8148811" title="Luke Peterson  - Country: Australia - Ascents: 94"><img alt="" src="/avatar/8148811" width="50" height="50" /></a></span>
+
+
+<span class="climber"><a class="" href="/climber/8148811" title="Luke Peterson  - Country: Australia - Ascents: 94">Luke Peterson</a></span>
+
+
+
+
+
+<p>
+  <span class="tick_redpoint" title="Red point"></span>
+  <span class="gb3">22</span>
+  <span class="route"><a title="World &amp;#8250;&amp;nbsp;Australia &amp;#8250;&amp;nbsp;South&amp;nbsp;Australia &amp;#8250;&amp;nbsp;Adelaide &amp;#8250;&amp;nbsp;Morialta &amp;#8250;&amp;nbsp;Far&amp;nbsp;Crag
+" href="/route/13532593"><img alt="*" src="http://static.thecrag.com/cids/images/mini-star-1.1.0.png" width="10" height="10" /><img alt="*" src="http://static.thecrag.com/cids/images/mini-star-1.1.0.png" width="10" height="10" /><img alt="*" src="http://static.thecrag.com/cids/images/mini-star-1.1.0.png" width="10" height="10" /> Barad Dur</a></span>
+  <span class="date">about 6 hours ago</span>
+</p>
+<div class="comment markdown">
+  <p>Finally the lead! Gear in hand and it went <em class="enjoyable">nice</em> and <em class="tag">smooth</em>. <em class="enjoyable">Good</em> protection, <em class="enjoyable">great</em> <em class="enjoyable">fun</em>! <a href="/ascent/163932789">...</a></p>
+
+</div>
+
+
+
+<p>
+  <span class="tick_topropeclean" title="Top rope clean"></span>
+  <span class="gb2">17</span>
+  <span class="route"><a title="World &amp;#8250;&amp;nbsp;Australia &amp;#8250;&amp;nbsp;South&amp;nbsp;Australia &amp;#8250;&amp;nbsp;Adelaide &amp;#8250;&amp;nbsp;Morialta &amp;#8250;&amp;nbsp;Far&amp;nbsp;Crag
+" href="/route/13533319"><img alt="*" src="http://static.thecrag.com/cids/images/mini-star-1.1.0.png" width="10" height="10" /><img alt="*" src="http://static.thecrag.com/cids/images/mini-star-1.1.0.png" width="10" height="10" /> Resurrection</a></span>
+  <span class="date">about 6 hours ago</span>
+</p>
+<div class="comment markdown">
+  <p><em class="enjoyable">fun</em> as usual <a href="/ascent/163931823">...</a></p>
+
+</div>
+
+
+
+<p>
+  <span class="tick_toproperest" title="Top rope with rest"></span>
+  <span class="gb3">23</span>
+  <span class="route"><a title="World &amp;#8250;&amp;nbsp;Australia &amp;#8250;&amp;nbsp;South&amp;nbsp;Australia &amp;#8250;&amp;nbsp;Adelaide &amp;#8250;&amp;nbsp;Morialta &amp;#8250;&amp;nbsp;Far&amp;nbsp;Crag
+" href="/route/13532491"><img alt="*" src="http://static.thecrag.com/cids/images/mini-star-1.1.0.png" width="10" height="10" /><img alt="*" src="http://static.thecrag.com/cids/images/mini-star-1.1.0.png" width="10" height="10" /> Pizzazz</a></span>
+  <span class="date">about 6 hours ago</span>
+</p>
+<div class="comment markdown">
+  <p>feeling way <em class="strenuous">hard</em>! Need to learn sequence and most importantly the footers! <a href="/ascent/163931817">...</a></p>
+
+</div>
+
+
+
+<p>
+  <span class="tick_topropeclean" title="Top rope clean"></span>
+  <span class="gb2">17</span>
+  <span class="route"><a title="World &amp;#8250;&amp;nbsp;Australia &amp;#8250;&amp;nbsp;South&amp;nbsp;Australia &amp;#8250;&amp;nbsp;Adelaide &amp;#8250;&amp;nbsp;Morialta &amp;#8250;&amp;nbsp;Far&amp;nbsp;Crag
+" href="/route/13533319"><img alt="*" src="http://static.thecrag.com/cids/images/mini-star-1.1.0.png" width="10" height="10" /><img alt="*" src="http://static.thecrag.com/cids/images/mini-star-1.1.0.png" width="10" height="10" /> Resurrection</a></span>
+  <span class="date">about 6 hours ago</span>
+</p>
+<div class="comment markdown">
+  <p><em class="enjoyable">fun</em> as usual <a href="/ascent/163931739">...</a></p>
+
+</div>
+
+
+
+<p>
+  <span class="tick_toproperest" title="Top rope with rest"></span>
+  <span class="gb3">23</span>
+  <span class="route"><a title="World &amp;#8250;&amp;nbsp;Australia &amp;#8250;&amp;nbsp;South&amp;nbsp;Australia &amp;#8250;&amp;nbsp;Adelaide &amp;#8250;&amp;nbsp;Morialta &amp;#8250;&amp;nbsp;Far&amp;nbsp;Crag
+" href="/route/13532491"><img alt="*" src="http://static.thecrag.com/cids/images/mini-star-1.1.0.png" width="10" height="10" /><img alt="*" src="http://static.thecrag.com/cids/images/mini-star-1.1.0.png" width="10" height="10" /> Pizzazz</a></span>
+  <span class="date">about 6 hours ago</span>
+</p>
+<div class="comment markdown">
+  <p>feeling way <em class="strenuous">hard</em>! Need to learn sequence and most importantly the footers! <a href="/ascent/163931733">...</a></p>
+
+</div>
+
+</div>
+<div class="account">
+<span class="climber"><a class=" avatar" href="/climber/163908858" title="Jonathan R Pennypacker  - Country: Australia - Ascents: 39"><img alt="" src="/avatar/163908858" width="50" height="50" /></a></span>
+
+
+<span class="climber"><a class="" href="/climber/163908858" title="Jonathan R Pennypacker  - Country: Australia - Ascents: 39">Jonathan R Pennypacker</a></span>
+
+
+
+
+
+<p>
+  <span class="tick_tick" title="Tick"></span>
+  <span class="gb2">14</span>
+  <span class="route"><a title="World &amp;#8250;&amp;nbsp;Australia &amp;#8250;&amp;nbsp;Queensland &amp;#8250;&amp;nbsp;Brisbane &amp;#8250;&amp;nbsp;Indooroopilly&amp;nbsp;Bridge
+" href="/route/12226963"> Ummagumas Layback</a></span>
+  <span class="date">about 6 hours ago</span>
+</p>
+
+
+
+<p>
+  <span class="tick_tick" title="Tick"></span>
+  <span class="gb2">18</span>
+  <span class="route"><a title="World &amp;#8250;&amp;nbsp;Australia &amp;#8250;&amp;nbsp;Queensland &amp;#8250;&amp;nbsp;Brisbane &amp;#8250;&amp;nbsp;Indooroopilly&amp;nbsp;Bridge
+" href="/route/12226819"> Deceased Solution</a></span>
+  <span class="date">about 6 hours ago</span>
+</p>
+
+
+
+<p>
+  <span class="tick_tick" title="Tick"></span>
+  <span class="gb2">18</span>
+  <span class="route"><a title="World &amp;#8250;&amp;nbsp;Australia &amp;#8250;&amp;nbsp;Queensland &amp;#8250;&amp;nbsp;Brisbane &amp;#8250;&amp;nbsp;Indooroopilly&amp;nbsp;Bridge
+" href="/route/12226771"> Inside Solution</a></span>
+  <span class="date">about 6 hours ago</span>
+</p>
+
+
+
+<p>
+  <span class="tick_tick" title="Tick"></span>
+  <span class="gb3">19</span>
+  <span class="route"><a title="World &amp;#8250;&amp;nbsp;Australia &amp;#8250;&amp;nbsp;Queensland &amp;#8250;&amp;nbsp;Brisbane &amp;#8250;&amp;nbsp;Indooroopilly&amp;nbsp;Bridge
+" href="/route/12226723"> Parsley</a></span>
+  <span class="date">about 6 hours ago</span>
+</p>
+
+
+
+<p>
+  <span class="tick_tick" title="Tick"></span>
+  <span class="gb3">20</span>
+  <span class="route"><a title="World &amp;#8250;&amp;nbsp;Australia &amp;#8250;&amp;nbsp;Queensland &amp;#8250;&amp;nbsp;Brisbane &amp;#8250;&amp;nbsp;Indooroopilly&amp;nbsp;Bridge
+" href="/route/12226627"> Gummy Bears Arete</a></span>
+  <span class="date">about 6 hours ago</span>
+</p>
+
+</div>
+<div class="account">
+<span class="climber"><a class=" avatar" href="/climber/10278979" title="jjobrien  - Country: Australia - Ascents: 145"><img alt="" src="/avatar/10278979" width="50" height="50" /></a></span>
+
+
+<span class="climber"><a class="" href="/climber/10278979" title="jjobrien  - Country: Australia - Ascents: 145">jjobrien</a></span>
+
+
+
+
+
+<p>
+  <span class="tick_flash" title="Flash"></span>
+  <span class="gb3">21</span>
+  <span class="route"><a title="World &amp;#8250;&amp;nbsp;Australia &amp;#8250;&amp;nbsp;Queensland &amp;#8250;&amp;nbsp;Mt&amp;nbsp;Ninderry
+" href="/route/161025249"><img alt="*" src="http://static.thecrag.com/cids/images/mini-star-1.1.0.png" width="10" height="10" /> Dontworry.com</a></span>
+  <span class="date">5 days ago</span>
+</p>
+<div class="comment markdown">
+  <p>Quality. I got scared at the second bolt. w/Sam Cujes <a href="/ascent/163908264">...</a></p>
+
+</div>
+
+
+
+<p>
+  <span class="tick_tick" title="Tick"></span>
+  <span class="gb3">22</span>
+  <span class="route"><a title="World &amp;#8250;&amp;nbsp;Australia &amp;#8250;&amp;nbsp;Queensland &amp;#8250;&amp;nbsp;Mt&amp;nbsp;Ninderry
+" href="/route/161025495"> Scream Like A Man</a></span>
+  <span class="date">4 days ago</span>
+</p>
+<div class="comment markdown">
+  <p>Shit rock, loose, <em class="scary">dangerous</em>. I quite liked it.
+w/Knighty <a href="/ascent/163907997">...</a></p>
+
+</div>
+
+
+
+<p>
+  <span class="tick_dog" title="Dog"></span>
+  <span class="gb3">22</span>
+  <span class="route"><a title="World &amp;#8250;&amp;nbsp;Australia &amp;#8250;&amp;nbsp;Queensland &amp;#8250;&amp;nbsp;Mt&amp;nbsp;Ninderry
+" href="/route/161025495"> Scream Like A Man</a></span>
+  <span class="date">4 days ago</span>
+</p>
+<div class="comment markdown">
+  <p>w/Knighty <a href="/ascent/163907568">...</a></p>
+
+</div>
+
+
+
+<p>
+  <span class="tick_tick" title="Tick"></span>
+  <span class="gb3">24</span>
+  <span class="route"><a title="World &amp;#8250;&amp;nbsp;Australia &amp;#8250;&amp;nbsp;Queensland &amp;#8250;&amp;nbsp;Mt&amp;nbsp;Ninderry
+" href="/route/163670853"> Ninderry Air</a></span>
+  <span class="date">5 days ago</span>
+</p>
+<div class="comment markdown">
+  <p>Big and roofy <a href="/ascent/163907289">...</a></p>
+
+</div>
+
+
+
+<p>
+  <span class="tick_dog" title="Dog"></span>
+  <span class="gb3">24</span>
+  <span class="route"><a title="World &amp;#8250;&amp;nbsp;Australia &amp;#8250;&amp;nbsp;Queensland &amp;#8250;&amp;nbsp;Mt&amp;nbsp;Ninderry
+" href="/route/163670853"> Ninderry Air</a></span>
+  <span class="date">5 days ago</span>
+</p>
+
+</div>
+
+</div>
+
+</div>
+<script type="text/javascript">
+function grouper(j,b,a){var n=-1,f="",o,k,i,m,g,e,l,h;if(!j){return""}g=b(j[0]);n=g.length;e=(n+1)/2;l=1;h=e;for(k=0;k<j.length;k++){o=j[k];g=b(o);if(m){h=0;for(i=0;i<=e;i++){if(m[i]===g[i]){h++}}}if(h>e){h=e}else{if(m&&h<l){f+=m.slice(n-l+1,n-h+1).join("");f+=g.slice(h-1,e).join("");h=e}else{f+=g.slice(l-1,h).join("")}}m=g;l=h}f+=g.slice(h,n).join("");return f};
+
+function getTrail(ancestors){
+	var trail = '';
+	var c=0;
+	for(c=0; c<ancestors.length; c++){
+		trail += ' > ' + ancestors[c].name;
+	}
+	return trail.substring(3);
+}
+
+$(function(){
+	$('#activity_tab').show();
+	$('#activity_tab a:first-child').click(function(){
+		$('#activity_tab').addClass('selected');
+		$('#ascents_tab').removeClass('selected');
+		$('#ascents').hide();
+		if ($('#activity').length == 0){
+			$('#ascents').after('<div id="activity"><div class="waiting" style="height: 5em;margin-bottom: 400px"></div></div>');
+			$.ajax({
+				dataType: 'json',
+				url: "/feed/activity/node/7546063/json?size=30",
+				success: function(json){
+					var html = '';
+					html = grouper(json.activity, function(i){
+var a = i.account, p = i.primary.target;
+ return Array(
+'<div class="account">'+
+('1' == a.anonymous
+	 ? '<span class="climber"><span class="avatar"><img height="50" width="50" src="/avatar"></span></span> <span class="climber">Someone anonymous</span>'
+	 : '<span class="climber">' + ((typeof(a.id) == 'undefined') ? '' : ('<a title="'+a.name+' - Country: '+a.country+' - Ascents: '+a.routesTicked+'" href="/climber/'+a.id+'" class="avatar">')) + '<img height="50" width="50" src="/avatar/'+a.id+'">' + ((typeof(a.id) == 'undefined') ? '' : '</a>') + '</span> <span class="climber">' + ((typeof(a.id) == 'undefined') ? '' : ('<a title="'+a.name+' - Country: '+a.country+' - Ascents: '+a.routesTicked+'" href="/climber/'+a.id+'" >')) + ((typeof(a.name) == 'undefined') ? a.login : a.name) + ((typeof(a.id) == 'undefined') ? '' : '</a>') + '</span>')
+,
+	'<p>'+
+        (typeof(p.type) == 'undefined' ? p.name :
+	(p.type == 'route' ? '<span class="gb'+p.gradeBand+'">'+(p.grade || '?')+'</span> ' :'') +
+	' <a href="/'+p.type+'/'+p.id+'"'+((typeof(p.ancestors)=='undefined')?'':(' title="'+getTrail(p.ancestors)+'"'))+'>'+
+	(p.type == 'route' ? Array(p.stars ? p.stars*1+1 : 0).join('<img src="/static/cids/images/mini-star-1.1.0.png" alt="" />') : '')+
+	' '+p.name+'</a> '
+//	(p.type == 'area' ? p.subType :'') +
+        ) +
+	'</p>',
+		'<p class="comment">'+i.primary.verbPhrase +' '+p.name+
+		(i.secondary ? ' '+i.secondary.verbPhrase +' '+i.secondary.target.name : '')+
+		'</p>',
+	'',
+'</div>'
+					)});
+					$('#activity').html('<div class="comments">'+html+'</div>');
+					$("#activity *[title]").tooltip({ track:true,delay:0,showURL:false,showBody:" - ",fade:250,opacity:1} );
+				}
+			});
+		}
+		$('#activity').show();
+		return false;
+	});
+	$('#ascents_tab a:first-child').click(function(){
+		$('#activity_tab').removeClass('selected');
+		$('#ascents_tab').addClass('selected');
+		$('#ascents').show();
+		$('#activity').hide();
+		return false;
+	});
+});
+</script>
+
+
+
+
+
+
+
+
+</div></div>
+
+
+<div id="related"><div class="inner world">
+<script type="text/javascript">
+$(function(){
+	$('#related .inner').html('<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fthecragcom&amp;width=250&amp;colorscheme=light&amp;connections=0&amp;stream=true&amp;header=true&amp;height=427" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:427px;" allowTransparency="true"></iframe>');
+});
+</script>
+
+</div></div>
+
+
+
+</div>
+
+
+<div id="footer"><div class="inner">
+	<div class="links">
+	<a href="/article/ContactUs">Contact Us</a>
+	<a href="/processmap/copyright">&#169; Copyright</a>
+	<a href="/processmap/siteusagepolicy">Site Usage Policy</a>
+	<a href="/article/Vision">Our Vision</a>
+	</div>
+</div></div><!-- close footer -->
+<div id="tip"></div>
+
+
+<script src="http://static.thecrag.com/bheywood/jquery-keepvisible-1.0.0/jquery-keepvisible.js" type="text/javascript"></script>
+<script src="http://static.thecrag.com/jquery/poshytip-1.1/jquery.poshytip.local.min.js" type="text/javascript"></script>
+<script src="http://static.thecrag.com/cids/common-1.1.3.js" type="text/javascript"></script>
+
+
+</div><!-- close wrapper -->
+</body>
+</html>
+
+
+

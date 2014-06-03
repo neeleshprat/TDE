@@ -1,0 +1,3161 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<Title>Campionato del Mondo: 1990 - Manila - Torneo Interzonale</Title>
+      <meta name="description" content="Campionato del Mondo: 1990 - Manila - Torneo Interzonale">
+      <meta name="keywords" content="Campionato del Mondo: 1990 - Manila - Torneo Interzonale">
+      <meta name="copyright" content="copyright.www.worldchesslinks.net">
+      <meta name="language" content="eng">
+      <meta name="copyright" content="www.worldchesslinks.net">
+      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+      <link rel="shortcut icon" href="http://www.worldchesslinks.net/favicon.ico">
+      <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.worldchesslinks.net/rss2.xml">
+      <link href="base_1250b.css" rel="stylesheet" title="World Chess Links">
+<!-- Inizio Jquery -->
+      <script type="text/javascript" src="menu/jquery-1.5.2.min.js"></script>
+      <script type="text/javascript">    //no conflict jquery    jQuery.noConflict();    //jquery stuff    (function($) {      $('p').css('color','#ff0000');    })(jQuery);  </script>
+      <script type="text/javascript">
+      jQuery(document).ready(function(){
+
+      jQuery("ul.subnav").parent().append("<span></span>"); //Only shows drop down trigger when js is enabled (Adds empty span tag after ul.subnav*)
+
+      jQuery("ul.topnav li span").click(function() { //When trigger is clicked...
+
+       //Following events are applied to the subnav itself (moving subnav up and down)
+        jQuery(this).parent().find("ul.subnav").slideDown('fast').show(); //Drop down the subnav on click
+
+       jQuery(this).parent().hover(function() {
+       }, function(){
+            jQuery(this).parent().find("ul.subnav").slideUp('slow'); //When the mouse hovers out of the subnav, move it back up
+        });
+
+        //Following events are applied to the trigger (Hover events for the trigger)
+        }).hover(function() {
+           jQuery(this).addClass("subhover"); //On hover over, add class "subhover"
+       }, function(){  //On Hover Out
+            jQuery(this).removeClass("subhover"); //On hover out, remove class "subhover"
+    });
+
+    });
+
+      </script>
+      <style type="text/css">
+      body {
+      	margin: 0; padding: 0;
+      	font: 10px normal Arial, Helvetica, sans-serif;
+      }
+      #header .disclaimer {
+      	color: #999;
+      	padding: 100px 0 7px 0;
+      	text-align: right;
+      	display: block;
+      	position: absolute;
+      	top: 0; right: 0;
+      }
+      #header .disclaimer a {	color: #ccc;}
+      ul.topnav {
+      	list-style: none;
+      	padding: 0 20px;
+      	margin: 0;
+      	float: left;
+      	width: 1210px;
+      	background: #222;
+      	font-size: 1.2em;
+      	background: url(menu/topnav_bg.png) repeat-x;
+      }
+      ul.topnav li {
+      	float: left;
+      	margin: 0;	
+      	padding: 0 15px 0 0;
+      	position: relative; /*--Declare X and Y axis base--*/
+      }
+      ul.topnav li a{
+      	padding: 10px 5px;
+      	color: #fff;
+      	text-decoration: none;
+      	float: left;
+      }
+      ul.topnav li a:hover{
+      	background: url(menu/topnav_hover.gif) no-repeat center top;
+      }
+      ul.topnav li span { /*--Drop down trigger styles--*/
+      	width: 10px;
+      	height: 35px;
+      	float: left;
+      	background: url(menu/subnav_btn.gif) no-repeat center top;
+      }
+      ul.topnav li span.subhover {background-position: center bottom; cursor: pointer;} /*--Hover effect for trigger--*/
+      ul.topnav li ul.subnav {
+      	list-style: none;
+      	position: absolute; /*--Important - Keeps subnav from affecting main navigation flow--*/
+      	left: 0; top: 35px;
+      	background: #333;
+      	margin: 0; padding: 0;
+      	display: none;
+      	float: left;
+      	width: 180px;
+      	-moz-border-radius-bottomleft: 5px;
+      	-moz-border-radius-bottomright: 5px;
+      	-webkit-border-bottom-left-radius: 5px;
+      	-webkit-border-bottom-right-radius: 5px;
+      	border: 1px solid #111;
+      }
+      ul.topnav li ul.subnav li{
+      	margin: 0; padding: 0;
+      	border-top: 1px solid #252525; /*--Create bevel effect--*/
+      	border-bottom: 1px solid #444; /*--Create bevel effect--*/
+      	clear: both;
+      	width: 180px;
+      }
+      html ul.topnav li ul.subnav li a {
+      	float: left;
+      	width: 155px;
+      	background: #333 url(menu/dropdown_linkbg.gif) no-repeat 10px center;
+      	padding-left: 20px;
+      }
+      html ul.topnav li ul.subnav li a:hover { /*--Hover effect for subnav links--*/
+      	background: #222 url(menu/dropdown_linkbg.gif) no-repeat 10px center;
+      }
+      #header img {
+      	margin: 0px 0 10px;
+      }
+      </style>
+<!-- Fine Jquery -->
+<!-- Inizio Google News -->
+
+      <style type="text/css">
+      body {
+        font-family: verdana, sans-serif;
+      }
+      </style>
+
+
+    <script src="../../?key=internal-sample" type="text/javascript"></script>
+<!-- Fine Google News -->
+<!-- Inizio mootools -->
+     <script type="text/javascript" src="js/mootools.js" charset="utf-8"></script>
+     <script type="text/javascript" src="js/moo-smooth.js" charset="utf-8"></script>
+
+    <script type="text/javascript" src="mootools.svn.js"></script>
+    <script type="text/javascript">
+    window.addEvent('domready', function(){
+    	var mySlide = new Fx.Slide('top-panel');
+    	mySlide.hide(); 
+    
+    	$('toggle').addEvent('click', function(e){
+    		e = new Event(e);
+    		mySlide.toggle();
+    		e.stop();
+    	});
+    });
+    
+    </script>
+    
+    <style type="text/css">
+    
+    #top-panel{
+    	background:#ffffff;
+    }
+
+    #sub-panel a{
+        text-align: center;
+    	width:1250px;
+    	color:#FFFFFF;
+    	text-decoration:none;
+    	margin-right:px;
+    	font-weight:bold;
+    }
+
+    </style>
+<!-- Fine mootools -->
+
+</head>
+<body>
+<div id="top"></div>
+
+<!-- Inizio Container -->
+<div id="container">
+
+<!-- Inizio Header -->
+        <div id="header_a">
+             <img src="testata_1250_c.jpg" usemap="#testata_1250_c.jpg" border="0" alt="">
+             <map name="testata_1250_c.jpg">
+             <area shape=rect coords="14,0,268,23" href="http://www.worldchesslinks.net/rss2.xml" alt=""><area shape=rect coords="5,73,80,107" href="index.html" alt="">
+             <area shape=rect coords="988,24,1228,49" href="mailto:infotiscali@worldchesslinks.net?subject=Contact%20Us" alt="">
+             </map>
+    	 <ul class="topnav">
+            <li><a href="index.html">Home</a></li>
+            <li>
+                <a href="i0000.html">Scacchi Online</a>
+                <ul class="subnav">
+                    <li><a href="i0000.html">Chess Servers</a></li>
+                    <li><a href="i0006.html">Clients Windows</a></li>
+                    <li><a href="i0001.html">Clients Linux</a></li>
+                    <li><a href="i0005.html">Clients Unix</a></li>
+                    <li><a href="i0002.html">Clients Mac OS Classic</a></li>
+                    <li><a href="i0003.html">Clients Mac OS X</a></li>
+                    <li><a href="i0004.html">Clients Pocket PC</a></li>
+                    <li><a href="i0007.html">Palm</a></li>
+                    <li><a href="i0008.html">iPad</a></li>
+                    <li><a href="i0009.html">iPhone</a></li>
+                    <li><a href="i0010.html">Mobile Phone</a></li>
+                    <li><a href="i0011.html">Android</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="i00a11.html">Programmi</a>
+                <ul class="subnav">
+                    <li><a href="i00a11.html">Graphical User Interfaces</a></li>
+                    <li><a href="i00a10.html">Chess Engines</a></li>
+                    <li><a href="i00a0.html">Programmi Gratuiti</a></li>
+                    <li><a href="i00a1.html">Programmi Commerciali</a></li>
+                    <li><a href="i00a2.html">Database</a></li>
+                    <li><a href="i00a12.html">Training Programs</a></li>
+                    <li><a href="i00a8.html">Portable Game Notation</a></li>
+                    <li><a href="i00a3.html">Corrispondenza & Email</a></li>
+                    <li><a href="i00a7.html">Orologi</a></li>
+                    <li><a href="i00a4.html">Soluzione Problemi</a></li>
+                    <li><a href="i00a5.html">Gestione Tornei</a></li>
+                    <li><a href="i00a6.html">Webmaster Resources</a></li>
+                    <li><a href="i00a9.html">Mobile Device</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="i00b0.html">Teoria</a>
+                <ul class="subnav">
+                    <li><a href="i00b0.html">Siti Generali</a></li>
+                    <li><a href="i00b1.html">Aperture [A00 - A99]</a></li>
+                    <li><a href="i00b2.html">Aperture [B00 - B99]</a></li>
+                    <li><a href="i00b3.html">Aperture [C00 - C99]</a></li>
+                    <li><a href="i00b4.html">Aperture [D00 - D99]</a></li>
+                    <li><a href="i00b5.html">Aperture [E00 - E99]</a></li>
+                    <li><a href="i00b6.html">Mediogioco</a></li>
+                    <li><a href="i00b7.html">Finali</a></li>
+                    <li><a href="i00b7.html">Archivio Problemi</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="iza00.html">Database</a>
+                <ul class="subnav">
+                    <li><a href="iza00.html">Campionato del Mondo</a></li>
+                    <li><a href="izg00.html">Camp. del Mondo Femm.</a></li>
+                    <li><a href="izz00.html">Camp. del Mondo Lampo</a></li>
+                    <li><a href="izf00.html">FIDE Grand Prix</a></li>
+                    <li><a href="izr00.html">Tornei di Scacchi</a></li>
+                    <li><a href="izs00.html">Curiosit?</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="iza00.html">Database Online</a>
+                <ul class="subnav">
+                    <li><a href="izma0.html">I Siti Migliori</a></li>
+                    <li><a href="izmb0.html">Siti Nazionali</a></li>
+                    <li><a href="izmc0.html">Giocatori</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="izia0.html">Archeologia</a>
+                <ul class="subnav">
+                    <li><a href="izia0.html">Personaggi e Autori</a></li>
+                    <li><a href="izib0.html">Libri Antichi Online</a></li>
+                    <li><a href="izif0.html">The Saturday Magazine</a></li>
+                    <li><a href="izie0.html">Database - Libri</a></li>
+                    <li><a href="izic0.html">Database - Giocatori</a></li>
+                    <li><a href="izid0.html">Database - Tornei</a></li>
+                    <li><a href="iziea00.html">Chess Gems</a></li>
+                    <li><a href="izig0.html">Eventi Storici</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="izna0.html">Links</a>
+                <ul class="subnav">
+                    <li><a href="izna0.html">Siti Ufficiali</a></li>
+                    <li><a href="iznb0.html">Links Essenziali</a></li>
+                    <li><a href="iznr0.html">Gioca Online</a></li>
+                    <li><a href="iznc0.html">Siti Giocatori</a></li>
+                    <li><a href="iznp0.html">Notizie Internazionali</a></li>
+                    <li><a href="iznl0.html">Blog Scacchistici</a></li>
+                    <li><a href="izno0.html">Forum Scacchistici</a></li>
+                    <li><a href="iznh0.html">Circoli Scacchistici</a></li>
+                    <li><a href="iznt0.html">Siti Tornei</a></li>
+                    <li><a href="iznw0.html">Siti Problemi</a></li>
+                    <li><a href="iznq0.html">Formazione Scacchistica</a></li>
+                    <li><a href="iznx0.html">Storia degli Scacchi</a></li>
+                    <li><a href="izns0.html">Riviste</a></li>
+                    <li><a href="izni0.html">Siti Commerciali</a></li>
+                    <li><a href="izne0.html">Siti Personali</a></li>
+                    <li><a href="iznd0.html">Links to Links</a></li>
+                    <li><a href="izny0.html">Foto</a></li>
+                    <li><a href="iznz0.html">Varianti degli Scacchi</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="izox0.html">Libri</a>
+                <ul class="subnav">
+                    <li><a href="izox0.html">Novit? in Libreria!</a></li>
+                    <li><a href="izox0b.html">Coming Soon!</a></li>
+                    <li><a href="izoa0.html">Batsford</a></li>
+                    <li><a href="izot0.html">Cardoza</a></li>
+                    <li><a href="izoi0.html">Chesscafe</a></li>
+                    <li><a href="izor0.html">Chess Information</a></li>
+                    <li><a href="izog0.html">Chess Stars Publishing</a></li>
+                    <li><a href="izop0.html">Dover Publications</a></li>
+                    <li><a href="izoo0.html">Edition Olms</a></li>
+                    <li><a href="izoh0.html">Editorial Chessy</a></li>
+                    <li><a href="izob0.html">Everyman Chess</a></li>
+                    <li><a href="izoc0.html">Gambit Chess Books</a></li>
+                    <li><a href="izod0.html">Hardinge Simpole</a></li>
+                    <li><a href="izoe0.html">McFarland Publishing</a></li>
+                    <li><a href="izoq0.html">New in Chess</a></li>
+                    <li><a href="izof0.html">Quality Chess Books</a></li>
+                    <li><a href="izol0.html">Running Press</a></li>
+                    <li><a href="izom0.html">Russell Enterprises</a></li>
+                    <li><a href="izon0.html">Kasparov's Books</a></li>
+                    <li><a href="izoy0.html">Various Books</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="i_news_0001.html">News</a>
+            </li>
+            <li>
+                <a href="izpa0.html">Eventi</a>
+            </li>
+            <li>
+                <a href="izpa0b.html">Play</a>
+                <ul class="subnav">
+                    <li><a href="izpa0p.html">Computer</a></li>
+                    <li><a href="izpa0d2.html">Daily Chess Puzzles</a></li>
+                    <li><a href="izpa0f.html">Games Viewer</a></li>
+                    <li><a href="izpa0b.html">Play Online</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="i_index_y.html">Ratings</a>
+                <ul class="subnav">
+                    <li><a href="i_index_y.html">Top 100 Players</a></li>
+                    <li><a href="i_fide_w.html">Top 100 Women</a></li>
+                    <li><a href="i_fide_j.html">Top 20 Juniors</a></li>
+                    <li><a href="i_fide_g.html">Top 20 Girls</a></li>
+                    <li><a href="i_fide_z.html">Archivio Ratings</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="i_downloads_00.html">Downloads</a>
+                <ul class="subnav">
+                    <li><a href="i_downloads_00.html">Ultimi Inserimenti</a></li>
+                    <li><a href="i_downloads_01.html">Campionato del Mondo</a></li>
+                    <li><a href="i_downloads_02.html">Camp. del Mondo Femm.</a></li>
+                    <li><a href="i_downloads_03.html">Camp. del Mondo Lampo</a></li>
+                    <li><a href="i_downloads_04.html">Fide Grand Prix</a></li>
+                    <li><a href="i_downloads_05.html">Tornei</a></li>
+                </ul>
+            </li>
+            </ul>
+        <img src="testata_1250b.jpg" border="0" alt="">
+    </div>
+
+<!-- Fine Header -->
+<!-- Inizio Content -->
+        <div id="contend">
+        <div id="contend_l">
+        <div id="contend_r">
+        <table align="center" cellPadding="0" width="1250" border="0">
+             <tr>
+             <td width="915" height="20">
+	          <br>
+                  <span class="menu1"><a href="i_index.html"><span style="color: #0000ff">Home</span></a>&nbsp;&nbsp;<img src="a0004.png" border="0" alt="">&nbsp;&nbsp;<a href="iza00.html"><span style="color: #0000ff">Archivio Partite</span></a>&nbsp;&nbsp;<img src="a0004.png" border="0" alt="">&nbsp;&nbsp;<a href="iza00.html"><span style="color: #0000ff">Campionato del Mondo</span></a>&nbsp;&nbsp;<img src="a0004.png" border="0" alt="">&nbsp;&nbsp;<a href="iza00.html"><span style="color: #0000ff">1990-2012&nbsp;&nbsp;Fide/Pca</span></a>&nbsp;&nbsp;<img src="a0004.png" border="0" alt="">&nbsp;&nbsp;1990 - Manila - Torneo Interzonale<br><br>
+                  </span>
+             </td>
+             <td  width="20"><a href="ezea3.html"><img src="f0002b.png" border="0" alt=""></a>
+             </td>
+             <td width="5">&nbsp;
+             </td>
+             <td  width="20"><a href="szea3.html"><img src="f0003b.png" border="0" alt=""></a>
+             </td>
+             <td width="5">&nbsp;
+             </td>
+             <td width="20"><img src="f0001b.png" border="0" alt="">
+             </td>
+             <td width="10">&nbsp;
+             </td>
+             </tr>
+        </table>
+        <table align="center" cellPadding="0" width="1250" border="0">
+             <tr>
+             <td>
+                 &nbsp;
+             </td>
+             </tr>
+        </table>
+        <table align="center" cellPadding="0" width="1250" border="0">
+             <tr>
+             <td width="10">&nbsp;
+             </td>
+             <td width="230" valign="top">
+                 <table cellSpacing="0" cellPadding="0" border="0" width="230">
+                        <tr><td class="menu" background="xzx.png" height="30"><span style="color: #ffffff"><span style="font-size: 12px; font-family: Verdana"><b>&nbsp;&nbsp;Menu Principale</b></span></span></td></tr>
+                        <tr><td class="menu5"><a href="i_index.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Home</span></a></td></tr>
+                        <tr><td class="menu5"><a href="i0000.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Scacchi Online</span></a></td></tr>
+                        <tr><td class="menu5"><a href="i00a11.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Programmi Scacchistici</span></a></td></tr>
+                        <tr><td class="menu5"><a href="i00b0.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Teoria</span></a></td></tr>
+                        <tr><td class="menu5"><a href="iza00.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Archivio Partite</span></a></td></tr>
+                        <tr><td class="menu5"><a href="iza00.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Campionato del Mondo</span></a></td></tr>
+                        <tr><td class="menu5" style="background-color: #00003E"><a href="iza00.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1990-2012 Fide/Pca</span></a></td></tr>
+                        <tr><td class="menu5"><a href="iza01.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1948-1990 Fide</span></a></td></tr>
+                        <tr><td class="menu5"><a href="iza02.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">1866-1948 Pre-Fide</span></a></td></tr>
+                        <tr><td class="menu5"><a href="iza03.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Eventi non Ufficiali</span></a></td></tr>
+                        <tr><td class="menu5"><a href="izg00.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Camp. del Mondo Femminile</span></a></td></tr>
+                        <tr><td class="menu5"><a href="izz00.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Camp. del Mondo Lampo</span></a></td></tr>
+                        <tr><td class="menu5"><a href="izf00.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">FIDE Grand Prix</span></a></td></tr>
+                        <tr><td class="menu5"><a href="izr00.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Tornei di Scacchi</span></a></td></tr>
+                        <tr><td class="menu5"><a href="izs00.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Curiosit? Scacchistiche</span></a></td></tr>
+                        <tr><td class="menu5"><a href="izma0.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Database Online</span></a></td></tr>
+                        <tr><td class="menu5"><a href="izia0.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Archeologia Scacchistica</span></a></td></tr>
+                        <tr><td class="menu5"><a href="izna0.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Links Mondiali</span></a></td></tr>
+                        <tr><td class="menu5"><a href="izox0.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Libri di Scacchi</span></a></td></tr>
+                        <tr><td class="menu5"><a href="i_news_0001.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">World Chess News</span></a></td></tr>
+                        <tr><td class="menu5"><a href="izpa0.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Eventi Scacchistici</span></a></td></tr>
+                        <tr><td class="menu5"><a href="izpa0b.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Play Chess</span></a></td></tr>
+                        <tr><td class="menu5"><a href="i_index_y.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Fide Ratings</span></a></td></tr>
+                        <tr><td class="menu5"><a href="i_downloads_00.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Downloads</span></a></td></tr>
+                        <tr><td class="menu5"><a href="ih001.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Banners</span></a></td></tr>
+                        <tr><td class="menu5"><a href="i_ebay_us_0001.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Scacchi su eBay</span></a></td></tr>
+                        <tr><td class="menu5"><a href="i_google_search.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Cerca nel Sito</span></a></td></tr>
+                        <tr><td class="menu5"><a href="i_google_friend_a.html"><img src="a0004_c.png" alt="">&nbsp;&nbsp;<span style="color: #ffffff">Comunit?</span></a></td></tr>
+                        <tr><td class="menu" background="xzx_b.png" height="20"></td></tr>
+                 </table>
+                 <table cellSpacing="0" cellPadding="0" border="0" width="230">
+                        <tr>
+                        <td>
+                            <br><br><img src="b0004.png" alt="">
+                        </td>
+                        </tr>
+                 </table>
+                 <table cellSpacing="0" cellPadding="0" border="0" width="230">
+                         <tr>
+                         <td class="titolomenu">
+                             <br>World Chess Federation
+                             <br><br>
+                         </td>
+                         </tr>
+                         <tr>
+                         <td class="menu3" align="center">
+                             <a href="http://www.fide.com/"><img src="fide_sito.jpg" border="0" alt=""></a>
+                            <br><br>&nbsp;
+                            <img src="b0004.png" alt="">
+                        </td>
+                        </tr>
+                 </table>
+                 <table cellSpacing="0" cellPadding="0" border="0" width="230">
+                          <tr>
+                          <td class="titolomenu">
+                             <br>World Chess Championship
+                             <br>1990-2012 FIDE/PCA<br>
+                          </td>
+                          </tr>
+                          <tr>
+                          <td class="menu3" align="left">
+                              <br>
+                              &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izem1.html"><span style="color: #001100"><b>2004</b></span><span style="color: #0000ff">&nbsp;Kasimdzhanov</span></a><br>
+                              &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izel1.html"><span style="color: #001100"><b>2004</b></span><span style="color: #0000ff">&nbsp;Kramnik - Leko BGN</span></a><br>
+                              &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izei1.html"><span style="color: #001100"><b>2002</b></span><span style="color: #0000ff">&nbsp;Ponomariov</span></a><br>
+                              &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izeh1.html"><span style="color: #001100"><b>2000</b></span><span style="color: #0000ff">&nbsp;Anand</span></a><br>
+                              &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izeg1.html"><span style="color: #001100"><b>2000</b></span><span style="color: #0000ff">&nbsp;Kasparov Kramnik</span></a><br>
+                              &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izef1.html"><span style="color: #001100"><b>1999</b></span><span style="color: #0000ff">&nbsp;Khalifman</span></a><br>
+                              &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izee1.html"><span style="color: #001100"><b>1998</b></span><span style="color: #0000ff">&nbsp;Karpov Anand</span></a><br>
+                          </td>
+                          </tr>
+                          <tr>
+                          <td class="menu3" align="left" background="tab_230.png">
+                              &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="ized1.html"><span style="color: #001100"><b>1996</b></span><span style="color: #0000ff">&nbsp;Karpov - Kamsky</span></a><br>
+                              &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="ized2.html"><span style="color: #001100"><b>1994-95</b></span><span style="color: #0000ff">&nbsp;Candidates Matches</span></a><br>
+                              &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="ized3.html"><span style="color: #001100"><b>1993</b></span><span style="color: #0000ff">&nbsp;Biel</span></a><br>
+                              &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izec1.html"><span style="color: #001100"><b>1995</b></span><span style="color: #0000ff">&nbsp;Kasparov - Anand PCA</span></a><br>
+                              &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izec2.html"><span style="color: #001100"><b>1994</b></span><span style="color: #0000ff">&nbsp;Candidates Matches</span></a><br>
+                              &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izec3.html"><span style="color: #001100"><b>1993</b></span><span style="color: #0000ff">&nbsp;Groningen</span></a><br>
+                              &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izeb1.html"><span style="color: #001100"><b>1993</b></span><span style="color: #ff0000">&nbsp;Kasparov - Short PCA</span></a><br>
+                              &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izea1.html"><span style="color: #001100"><b>1993</b></span><span style="color: #ff0000">&nbsp;Karpov - Timman FIDE</span></a><br>
+                              &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izea2.html"><span style="color: #001100"><b>1991-93</b></span><span style="color: #ff0000">&nbsp;Candidates Matches</span></a><br>
+                              &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izea3.html"><span style="color: #001100"><b>1990</b></span><span style="color: #ff0000">&nbsp;Manila</span></a><br>
+                              &nbsp;&nbsp;&nbsp;<br>
+                              &nbsp;&nbsp;&nbsp;<br>
+                              &nbsp;&nbsp;&nbsp;<br>
+                          </td>
+                          </tr>
+                   </table>
+                 <table cellSpacing="0" cellPadding="0" border="0" width="230">
+                        <tr>
+                        <td class="titolomenu">
+                           World Chess Championship
+                           <br>1948-1990 FIDE<br>
+                        </td>
+                        </tr>
+                        <tr>
+                        <td class="menu3" align="left">
+                            <br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdr1.html"><span style="color: #001100"><b>1990</b></span><span style="color: #0000ff">&nbsp;Kasparov - Karpov (V)</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdr2.html"><span style="color: #001100"><b>1988</b></span><span style="color: #0000ff">&nbsp;Candidates Matches</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdr3.html"><span style="color: #001100"><b>1987</b></span><span style="color: #0000ff">&nbsp;Subotica</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdr4.html"><span style="color: #001100"><b>1987</b></span><span style="color: #0000ff">&nbsp;Szirak</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdr5.html"><span style="color: #001100"><b>1987</b></span><span style="color: #0000ff">&nbsp;Zagreb</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdq1.html"><span style="color: #001100"><b>1987</b></span><span style="color: #0000ff">&nbsp;Kasparov - Karpov (IV)</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdq2.html"><span style="color: #001100"><b>1986</b></span><span style="color: #0000ff">&nbsp;Candidates Matches</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdq3.html"><span style="color: #001100"><b>1985</b></span><span style="color: #0000ff">&nbsp;Montpellier</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdq4.html"><span style="color: #001100"><b>1985</b></span><span style="color: #0000ff">&nbsp;Biel</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdq5.html"><span style="color: #001100"><b>1985</b></span><span style="color: #0000ff">&nbsp;Taxco</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdq6.html"><span style="color: #001100"><b>1985</b></span><span style="color: #0000ff">&nbsp;Tunis</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdp3.html"><span style="color: #001100"><b>1986</b></span><span style="color: #0000ff">&nbsp;Karpov - Kasparov (III)</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdp2.html"><span style="color: #001100"><b>1985</b></span><span style="color: #0000ff">&nbsp;Karpov - Kasparov (II)</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdp1.html"><span style="color: #001100"><b>1984</b></span><span style="color: #0000ff">&nbsp;Karpov - Kasparov (I)</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdp4.html"><span style="color: #001100"><b>1983</b></span><span style="color: #0000ff">&nbsp;Candidates Matches</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdp7.html"><span style="color: #001100"><b>1982</b></span><span style="color: #0000ff">&nbsp;Las Palmas</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdp5b.html"><span style="color: #001100"><b>1983</b></span><span style="color: #0000ff">&nbsp;Malm? - Playoff</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdp5.html"><span style="color: #001100"><b>1982</b></span><span style="color: #0000ff">&nbsp;Moscow</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdp6.html"><span style="color: #001100"><b>1982</b></span><span style="color: #0000ff">&nbsp;Toluca</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdw1.html"><span style="color: #001100"><b>1981</b></span><span style="color: #0000ff">&nbsp;Karpov - Korchnoi</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdw2.html"><span style="color: #001100"><b>1980</b></span><span style="color: #0000ff">&nbsp;Candidates Matches</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdw3b.html"><span style="color: #001100"><b>1979</b></span><span style="color: #0000ff">&nbsp;Budapest - Playoff</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdw3.html"><span style="color: #001100"><b>1979</b></span><span style="color: #0000ff">&nbsp;Riga</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdw4.html"><span style="color: #001100"><b>1979</b></span><span style="color: #0000ff">&nbsp;Rio de Janeiro</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdo1.html"><span style="color: #001100"><b>1978</b></span><span style="color: #0000ff">&nbsp;Karpov - Korchnoi</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdo2.html"><span style="color: #001100"><b>1977</b></span><span style="color: #0000ff">&nbsp;Candidates Matches</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdo3.html"><span style="color: #001100"><b>1976</b></span><span style="color: #0000ff">&nbsp;Biel</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdo4.html"><span style="color: #001100"><b>1976</b></span><span style="color: #0000ff">&nbsp;Manila</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdn1.html"><span style="color: #001100"><b>1975</b></span><span style="color: #0000ff">&nbsp;Karpov - Korchnoi</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdn2.html"><span style="color: #001100"><b>1973</b></span><span style="color: #0000ff">&nbsp;Leningrad</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdn3.html"><span style="color: #001100"><b>1973</b></span><span style="color: #0000ff">&nbsp;Petropolis</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdm1.html"><span style="color: #001100"><b>1972</b></span><span style="color: #0000ff">&nbsp;Spassky - Fischer</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdm2.html"><span style="color: #001100"><b>1971</b></span><span style="color: #0000ff">&nbsp;Candidates Matches</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdm3.html"><span style="color: #001100"><b>1970</b></span><span style="color: #0000ff">&nbsp;Palma de Mallorca</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdi1.html"><span style="color: #001100"><b>1969</b></span><span style="color: #0000ff">&nbsp;Petrosian - Spassky</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdi2.html"><span style="color: #001100"><b>1968</b></span><span style="color: #0000ff">&nbsp;Candidates Matches</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdi3.html"><span style="color: #001100"><b>1967</b></span><span style="color: #0000ff">&nbsp;Sousse</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdh1.html"><span style="color: #001100"><b>1966</b></span><span style="color: #0000ff">&nbsp;Petrosian - Spassky</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdh2.html"><span style="color: #001100"><b>1965</b></span><span style="color: #0000ff">&nbsp;Candidates Matches</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdh3.html"><span style="color: #001100"><b>1964</b></span><span style="color: #0000ff">&nbsp;Amsterdam</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdg1.html"><span style="color: #001100"><b>1963</b></span><span style="color: #0000ff">&nbsp;Botvinnik - Petrosian</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdg2.html"><span style="color: #001100"><b>1962</b></span><span style="color: #0000ff">&nbsp;Cura&#231;ao</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdg3.html"><span style="color: #001100"><b>1962</b></span><span style="color: #0000ff">&nbsp;Stockholm</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdf1.html"><span style="color: #001100"><b>1961</b></span><span style="color: #0000ff">&nbsp;Tal - Botvinnik</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izde1.html"><span style="color: #001100"><b>1960</b></span><span style="color: #0000ff">&nbsp;Botvinnik - Tal</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izde2.html"><span style="color: #001100"><b>1959</b></span><span style="color: #0000ff">&nbsp;Yugoslavia</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izde3.html"><span style="color: #001100"><b>1958</b></span><span style="color: #0000ff">&nbsp;Portoroz</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdd1.html"><span style="color: #001100"><b>1958</b></span><span style="color: #0000ff">&nbsp;Smyslov - Botvinnik</span></a><br>
+                        </td>
+                        </tr>
+                        <tr>
+                        <td class="menu3" align="left" background="tab_230.png">
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdc1.html"><span style="color: #001100"><b>1957</b></span><span style="color: #0000ff">&nbsp;Botvinnik - Smyslov</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdc2.html"><span style="color: #001100"><b>1956</b></span><span style="color: #0000ff">&nbsp;Amsterdam</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdc3.html"><span style="color: #001100"><b>1955</b></span><span style="color: #0000ff">&nbsp;Gothemburg</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdb1.html"><span style="color: #001100"><b>1954</b></span><span style="color: #0000ff">&nbsp;Botvinnik - Smyslov</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdb2.html"><span style="color: #001100"><b>1953</b></span><span style="color: #0000ff">&nbsp;Zurich</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izdb3.html"><span style="color: #001100"><b>1952</b></span><span style="color: #0000ff">&nbsp;Saltsj?baden</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izda1.html"><span style="color: #001100"><b>1951</b></span><span style="color: #0000ff">&nbsp;Botvinnik - Bronstein</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izda2.html"><span style="color: #001100"><b>1950</b></span><span style="color: #0000ff">&nbsp;Budapest</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izda3.html"><span style="color: #001100"><b>1948</b></span><span style="color: #0000ff">&nbsp;Saltsj?baden</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<img src="zzz_01b.gif" alt="">&nbsp;<a href="izd00.html"><span style="color: #001100"><b>1948</b></span><span style="color: #0000ff">&nbsp;FIDE Title Tournament</span></a><br>
+                            &nbsp;&nbsp;&nbsp;<br>
+                            &nbsp;&nbsp;&nbsp;<br>
+                            &nbsp;&nbsp;&nbsp;<br>
+                        </td>
+                        </tr>
+                 </table>
+             </td>
+             <td width="45">
+             </td>
+             <td width="750" valign="top">
+                  <div align="center">
+                  <table cellSpacing="0" cellPadding="0" border="0" width="100%">
+                        <tr>
+                        <td valign="top">
+                            <img src="a0005f2.png" alt="" align="middle">
+                        </td>
+                        <td class="font5">
+                            &nbsp;&nbsp;&nbsp;<font class="titolo_news"><span style="font-size: 35px">Campionato del Mondo</span></font>
+                              <br>
+                            &nbsp;&nbsp;&nbsp;<font class="scheda9">1990&nbsp;&nbsp;Manila - Torneo Interzonale</font>
+                        </td>
+                          <td valign="top">
+                          <br><br><br><br><a href="zip_wcc0a83.zip"><img src="a0007.png" alt="" border="0"></a>
+                          </td>
+                          </tr>
+                    </table>
+                    <table cellSpacing="0" cellPadding="0" border="0" width="100%">
+                          <tr>
+                          <td class="scheda3">
+                              <br><br><img src="b0006x_750.png" alt=""><br><br>
+                          </td>
+                          </tr>
+                    </table>
+                    <table cellSpacing="0" cellPadding="0" border="0" width="100%">
+                        <tr>
+                        <td class="main4">
+                            <br>
+                            <table align="center" cellSpacing="0" cellPadding="0" border="0">
+                                   <tr>
+                                   <td>
+                                       <img src="1990_manila_interzonal.jpg" usemap="#1990_manila_interzonal.jpg" border="0" alt="" align="middle">
+                                       <map name="1990_manila_interzonal.jpg">
+                                       <area shape=rect coords="14,14,98,130"   href="http://en.wikipedia.org/wiki/Boris_Gelfand" alt="Boris Gelfand">
+                                       <area shape=rect coords="140,14,224,130" href="http://en.wikipedia.org/wiki/Vassily_Ivanchuk" alt="Vassily Ivanchuk">
+                                       <area shape=rect coords="267,14,351,130" href="http://en.wikipedia.org/wiki/Viswanathan_Anand" alt="Viswanathan Anand">
+                                       <area shape=rect coords="393,14,477,130" href="http://en.wikipedia.org/wiki/Nigel_Short" alt="Nigel Short">
+                                       <area shape=rect coords="520,14,604,130" href="http://en.wikipedia.org/wiki/Gyula_Sax" alt="Gyula Sax">
+                                       <area shape=rect coords="646,14,730,130" href="http://en.wikipedia.org/wiki/Viktor_Korchnoi" alt="Viktor Korchnoi">
+                                       </map>
+                                   </td>
+                                   </tr>
+                            </table>
+                        </td>
+                        </tr>
+                  <table>
+                  <br><br>
+                    <table cellSpacing="0" cellPadding="0" border="0" width="100%">
+                          <tr>
+                          <td class="back1">
+                              <table cellSpacing="0" cellPadding="0" border="1" class="table4">
+                                  <tr>
+                                  <td width="40" class="table3"><b>N?</b></td>
+                                  <td width="40" class="table3" align="center"><b>FLAG</b></td>
+                                  <td width="40" class="table3" align="center"><b>FIDE</b></td>
+                                  <td align="left" class="table3"><b>&nbsp;NAME</b></td>
+                                  <td width="30" class="table3" align="center"><b>01</b></td>
+                                  <td width="30" class="table3" align="center"><b>02</b></td>
+                                  <td width="30" class="table3" align="center"><b>03</b></td>
+                                  <td width="30" class="table3" align="center"><b>04</b></td>
+                                  <td width="30" class="table3" align="center"><b>05</b></td>
+                                  <td width="30" class="table3" align="center"><b>06</b></td>
+                                  <td width="30" class="table3" align="center"><b>07</b></td>
+                                  <td width="30" class="table3" align="center"><b>08</b></td>
+                                  <td width="30" class="table3" align="center"><b>09</b></td>
+                                  <td width="30" class="table3" align="center"><b>10</b></td>
+                                  <td width="30" class="table3" align="center"><b>11</b></td>
+                                  <td width="30" class="table3" align="center"><b>12</b></td>
+                                  <td width="30" class="table3" align="center"><b>13</b></td>
+                                  <td align="right" width="55" class="table3"><b>TOTAL</b>&nbsp;</td>
+                                  </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>01</b></td>
+                                  <td width="40" class="table4"><img src="f0075.png" alt="Israel">
+                                  <td width="40" class="table4"><b>2680</b>
+                                  </td>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Boris_Gelfand"><span style="color: #0000ff"><b>GM Boris Gelfand</b></span></a>
+                                  </td>
+                                  <td class="table4">=26
+                                  </td>
+                                  <td class="table4">+42
+                                  </td>
+                                  <td class="table4">+03
+                                  </td>
+                                  <td class="table4">=14
+                                  </td>
+                                  <td class="table4">+29
+                                  </td>
+                                  <td class="table4">=05
+                                  </td>
+                                  <td class="table4">=02
+                                  </td>
+                                  <td class="table4">=11
+                                  </td>
+                                  <td class="table4">+08
+                                  </td>
+                                  <td class="table4">=12
+                                  </td>
+                                  <td class="table4">=06
+                                  </td>
+                                  <td class="table4">=09
+                                  </td>
+                                  <td class="table4">+16
+                                  </td>
+                                  <td class="table3" align="right"><b>9.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>02</b></td>
+                                  <td class="table4" width="40"><img src="f0041.png" alt="Ukraine">
+                                  <td class="table4" width="40"><b>2680</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Ivanchuk"><span style="color: #0000ff"><b>GM Vassily Ivanchuk</b></span></a>
+                                  </td>
+                                  <td class="table4">-54
+                                  </td>
+                                  <td class="table4">+41
+                                  </td>
+                                  <td class="table4">+43
+                                  </td>
+                                  <td class="table4">+21
+                                  </td>
+                                  <td class="table4">+08
+                                  </td>
+                                  <td class="table4">+48
+                                  </td>
+                                  <td class="table4">=01
+                                  </td>
+                                  <td class="table4">=06
+                                  </td>
+                                  <td class="table4">=12
+                                  </td>
+                                  <td class="table4">=10
+                                  </td>
+                                  <td class="table4">=05
+                                  </td>
+                                  <td class="table4">+17
+                                  </td>
+                                  <td class="table4">=03
+                                  </td>
+                                  <td class="table3" align="right"><b>9.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>03</b></td>
+                                  <td class="table4" width="40"><img src="f0013.png" alt="India">
+                                  <td class="table4" width="40"><b>2610</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Viswanathan_Anand"><span style="color: #0000ff"><b>GM Viswanathan Anand</b></span></a>
+                                  </td>
+                                  <td class="table4">=32
+                                  </td>
+                                  <td class="table4">+44
+                                  </td>
+                                  <td class="table4">-01
+                                  </td>
+                                  <td class="table4">+49
+                                  </td>
+                                  <td class="table4">-13
+                                  </td>
+                                  <td class="table4">=54
+                                  </td>
+                                  <td class="table4">+47
+                                  </td>
+                                  <td class="table4">=18
+                                  </td>
+                                  <td class="table4">=14
+                                  </td>
+                                  <td class="table4">+29
+                                  </td>
+                                  <td class="table4">+37
+                                  </td>
+                                  <td class="table4">+12
+                                  </td>
+                                  <td class="table4">=02
+                                  </td>
+                                  <td class="table3" align="right"><b>8.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>04</b></td>
+                                  <td class="table4" width="40"><img src="f0002.png" alt="United Kingdom">
+                                  <td class="table4" width="40"><b>2610</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Nigel_Short"><span style="color: #0000ff"><b>GM Nigel Short</b></span></a>
+                                  </td>
+                                  <td class="table4">+20
+                                  </td>
+                                  <td class="table4">-21
+                                  </td>
+                                  <td class="table4">-13
+                                  </td>
+                                  <td class="table4">=46
+                                  </td>
+                                  <td class="table4">+33
+                                  </td>
+                                  <td class="table4">+24
+                                  </td>
+                                  <td class="table4">+07
+                                  </td>
+                                  <td class="table4">-08
+                                  </td>
+                                  <td class="table4">+30
+                                  </td>
+                                  <td class="table4">+18
+                                  </td>
+                                  <td class="table4">=11
+                                  </td>
+                                  <td class="table4">=06
+                                  </td>
+                                  <td class="table4">+12
+                                  </td>
+                                  <td class="table3" align="right"><b>8.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>05</b></td>
+                                  <td class="table4" width="40"><img src="f0031.png" alt="Hungary">
+                                  <td class="table4" width="40"><b>2600</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Gyula_Sax"><span style="color: #0000ff"><b>GM Gyula Sax</b></span></a>
+                                  </td>
+                                  <td class="table4">=22
+                                  </td>
+                                  <td class="table4">+64
+                                  </td>
+                                  <td class="table4">+51
+                                  </td>
+                                  <td class="table4">+08
+                                  </td>
+                                  <td class="table4">=48
+                                  </td>
+                                  <td class="table4">=01
+                                  </td>
+                                  <td class="table4">=12
+                                  </td>
+                                  <td class="table4">=09
+                                  </td>
+                                  <td class="table4">=13
+                                  </td>
+                                  <td class="table4">=11
+                                  </td>
+                                  <td class="table4">=02
+                                  </td>
+                                  <td class="table4">=10
+                                  </td>
+                                  <td class="table4">=07
+                                  </td>
+                                  <td class="table3" align="right"><b>8.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>06</b></td>
+                                  <td class="table4" width="40"><img src="f0025.png" alt="Switzerland">
+                                  <td class="table4" width="40"><b>2630</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Viktor_Korchnoi"><span style="color: #0000ff"><b>GM Viktor Korchnoi</b></span></a>
+                                  </td>
+                                  <td class="table4">=31
+                                  </td>
+                                  <td class="table4">+33
+                                  </td>
+                                  <td class="table4">=07
+                                  </td>
+                                  <td class="table4">=15
+                                  </td>
+                                  <td class="table4">+28
+                                  </td>
+                                  <td class="table4">=30
+                                  </td>
+                                  <td class="table4">+29
+                                  </td>
+                                  <td class="table4">=02
+                                  </td>
+                                  <td class="table4">=11
+                                  </td>
+                                  <td class="table4">=13
+                                  </td>
+                                  <td class="table4">=01
+                                  </td>
+                                  <td class="table4">=04
+                                  </td>
+                                  <td class="table4">=10
+                                  </td>
+                                  <td class="table3" align="right"><b>8.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>07</b></td>
+                                  <td class="table4" width="40"><img src="f0019.png" alt="Germany">
+                                  <td class="table4" width="40"><b>2585</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Robert_H%C3%BCbner"><span style="color: #0000ff"><b>GM Robert H?bner</b></span></a>
+                                  </td>
+                                  <td class="table4">=38
+                                  </td>
+                                  <td class="table4">+62
+                                  </td>
+                                  <td class="table4">=06
+                                  </td>
+                                  <td class="table4">=16
+                                  </td>
+                                  <td class="table4">=17
+                                  </td>
+                                  <td class="table4">=18
+                                  </td>
+                                  <td class="table4">-04
+                                  </td>
+                                  <td class="table4">+19
+                                  </td>
+                                  <td class="table4">+48
+                                  </td>
+                                  <td class="table4">+21
+                                  </td>
+                                  <td class="table4">=10
+                                  </td>
+                                  <td class="table4">=11
+                                  </td>
+                                  <td class="table4">=05
+                                  </td>
+                                  <td class="table3" align="right"><b>8.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>08</b></td>
+                                  <td class="table4" width="40"><img src="f0037.png" alt="Bosnia and Herzegovina">
+                                  <td class="table4" width="40"><b>2600</b>
+                                  </td>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Predrag_Nikoli%C4%87"><span style="color: #0000ff"><b>GM Pedrag Nikolic</b></span></a>
+                                  <td class="table4">+13
+                                  </td>
+                                  <td class="table4">+58
+                                  </td>
+                                  <td class="table4">+12
+                                  </td>
+                                  <td class="table4">-05
+                                  </td>
+                                  <td class="table4">-02
+                                  </td>
+                                  <td class="table4">=19
+                                  </td>
+                                  <td class="table4">+40
+                                  </td>
+                                  <td class="table4">+04
+                                  </td>
+                                  <td class="table4">-01
+                                  </td>
+                                  <td class="table4">=17
+                                  </td>
+                                  <td class="table4">=21
+                                  </td>
+                                  <td class="table4">=14
+                                  </td>
+                                  <td class="table4">+25
+                                  </td>
+                                  <td class="table3" align="right"><b>8.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>09</b></td>
+                                  <td class="table4" width="40"><img src="f0075.png" alt="Israel">
+                                  <td class="table4" width="40"><b>2615</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Leonid_Yudasin"><span style="color: #0000ff"><b>GM Leonid Yudasin</b></span></a>
+                                  </td>
+                                  <td class="table4">=45
+                                  </td>
+                                  <td class="table4">+49
+                                  </td>
+                                  <td class="table4">-29
+                                  </td>
+                                  <td class="table4">+55
+                                  </td>
+                                  <td class="table4">+25
+                                  </td>
+                                  <td class="table4">=14
+                                  </td>
+                                  <td class="table4">+48
+                                  </td>
+                                  <td class="table4">=05
+                                  </td>
+                                  <td class="table4">-21
+                                  </td>
+                                  <td class="table4">+16
+                                  </td>
+                                  <td class="table4">=12
+                                  </td>
+                                  <td class="table4">=01
+                                  </td>
+                                  <td class="table4">=11
+                                  </td>
+                                  <td class="table3" align="right"><b>8.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>10</b></td>
+                                  <td class="table4" width="40"><img src="f0034.png" alt="Russia">
+                                  <td class="table4" width="40"><b>2615</b>
+                                  </td>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Sergey_Dolmatov"><span style="color: #0000ff"><b>GM Sergey Dolmatov</b></span></a>
+                                  <td class="table4">=24
+                                  </td>
+                                  <td class="table4">=23
+                                  </td>
+                                  <td class="table4">+27
+                                  </td>
+                                  <td class="table4">=11
+                                  </td>
+                                  <td class="table4">+39
+                                  </td>
+                                  <td class="table4">=29
+                                  </td>
+                                  <td class="table4">+30
+                                  </td>
+                                  <td class="table4">-12
+                                  </td>
+                                  <td class="table4">+15
+                                  </td>
+                                  <td class="table4">-02
+                                  </td>
+                                  <td class="table4">=07
+                                  </td>
+                                  <td class="table4">=05
+                                  </td>
+                                  <td class="table4">=06
+                                  </td>
+                                  <td class="table3" align="right"><b>8.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>11</b></td>
+                                  <td class="table4" width="40"><img src="f0034.png" alt="Russia">
+                                  <td class="table4" width="40"><b>2615</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Alexei_Dreev"><span style="color: #0000ff"><b>GM Alexei Dreev</b></span></a>
+                                  </td>
+                                  <td class="table4">=44
+                                  </td>
+                                  <td class="table4">=32
+                                  </td>
+                                  <td class="table4">+22
+                                  </td>
+                                  <td class="table4">=10
+                                  </td>
+                                  <td class="table4">=21
+                                  </td>
+                                  <td class="table4">+13
+                                  </td>
+                                  <td class="table4">+14
+                                  </td>
+                                  <td class="table4">=01
+                                  </td>
+                                  <td class="table4">=06
+                                  </td>
+                                  <td class="table4">=05
+                                  </td>
+                                  <td class="table4">=04
+                                  </td>
+                                  <td class="table4">=07
+                                  </td>
+                                  <td class="table4">=09
+                                  </td>
+                                  <td class="table3" align="right"><b>8.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>12</b></td>
+                                  <td class="table4" width="40"><img src="f0076.png" alt="Belgium">
+                                  <td class="table4" width="40"><b>2640</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Mikhail_Gurevich_(chess_player)"><span style="color: #0000ff"><b>GM Mikhail Gurevich</b></span></a>
+                                  </td>
+                                  <td class="table4">+43
+                                  </td>
+                                  <td class="table4">+36
+                                  </td>
+                                  <td class="table4">-08
+                                  </td>
+                                  <td class="table4">+37
+                                  </td>
+                                  <td class="table4">=14
+                                  </td>
+                                  <td class="table4">+34
+                                  </td>
+                                  <td class="table4">=05
+                                  </td>
+                                  <td class="table4">+10
+                                  </td>
+                                  <td class="table4">=02
+                                  </td>
+                                  <td class="table4">=01
+                                  </td>
+                                  <td class="table4">=09
+                                  </td>
+                                  <td class="table4">-03
+                                  </td>
+                                  <td class="table4">-04
+                                  </td>
+                                  <td class="table3" align="right"><b>7.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>13</b></td>
+                                  <td class="table4" width="40"><img src="f0038.png" alt="Serbia"></td>
+                                  <td class="table4" width="40"><b>2640</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<span style="color: #001100"><b>GM Branko Damljanovic</b></span>
+                                  </td>
+                                  <td class="table4">-08
+                                  </td>
+                                  <td class="table4">+53
+                                  </td>
+                                  <td class="table4">+04
+                                  </td>
+                                  <td class="table4">=51
+                                  </td>
+                                  <td class="table4">+03
+                                  </td>
+                                  <td class="table4">-11
+                                  </td>
+                                  <td class="table4">+34
+                                  </td>
+                                  <td class="table4">+16
+                                  </td>
+                                  <td class="table4">=05
+                                  </td>
+                                  <td class="table4">=06
+                                  </td>
+                                  <td class="table4">-17
+                                  </td>
+                                  <td class="table4">=19
+                                  </td>
+                                  <td class="table4">=15
+                                  </td>
+                                  <td class="table3" align="right"><b>7.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>14</b></td>
+                                  <td class="table4" width="40"><img src="f0039.png" alt="Bulgaria">
+                                  <td class="table4" width="40"><b>2580</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Kiril_Georgiev"><span style="color: #0000ff"><b>GM Kiril Georgiev</b></span></a>
+                                  </td>
+                                  <td class="table4">-08
+                                  </td>
+                                  <td class="table4">+53
+                                  </td>
+                                  <td class="table4">+04
+                                  </td>
+                                  <td class="table4">=51
+                                  </td>
+                                  <td class="table4">+03
+                                  </td>
+                                  <td class="table4">-11
+                                  </td>
+                                  <td class="table4">+34
+                                  </td>
+                                  <td class="table4">+16
+                                  </td>
+                                  <td class="table4">=05
+                                  </td>
+                                  <td class="table4">=06
+                                  </td>
+                                  <td class="table4">-17
+                                  </td>
+                                  <td class="table4">=19
+                                  </td>
+                                  <td class="table4">=15
+                                  </td>
+                                  <td class="table3" align="right"><b>7.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>15</b></td>
+                                  <td class="table4" width="40"><img src="f0038.png" alt="Serbia">
+                                  <td class="table4" width="40"><b>2600</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Ljubomir_Ljubojevic"><span style="color: #0000ff"><b>GM Ljubomir Ljubojevic</b></span></a>
+                                  </td>
+                                  <td class="table4">+40
+                                  </td>
+                                  <td class="table4">=29
+                                  </td>
+                                  <td class="table4">=16
+                                  </td>
+                                  <td class="table4">=06
+                                  </td>
+                                  <td class="table4">=18
+                                  </td>
+                                  <td class="table4">=17
+                                  </td>
+                                  <td class="table4">=21
+                                  </td>
+                                  <td class="table4">+22
+                                  </td>
+                                  <td class="table4">-10
+                                  </td>
+                                  <td class="table4">=14
+                                  </td>
+                                  <td class="table4">+36
+                                  </td>
+                                  <td class="table4">=25
+                                  </td>
+                                  <td class="table4">=13
+                                  </td>
+                                  <td class="table3" align="right"><b>7.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>16</b></td>
+                                  <td class="table4" width="40"><img src="f0018.png" alt="Estonia">
+                                  <td class="table4" width="40"><b>2655</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Jaan_Ehlvest"><span style="color: #0000ff"><b>GM Jaan Ehlvest</b></span></a>
+                                  </td>
+                                  <td class="table4">+56
+                                  </td>
+                                  <td class="table4">=14
+                                  </td>
+                                  <td class="table4">=15
+                                  </td>
+                                  <td class="table4">=07
+                                  </td>
+                                  <td class="table4">=30
+                                  </td>
+                                  <td class="table4">=23
+                                  </td>
+                                  <td class="table4">+19
+                                  </td>
+                                  <td class="table4">-13
+                                  </td>
+                                  <td class="table4">+31
+                                  </td>
+                                  <td class="table4">-09
+                                  </td>
+                                  <td class="table4">+22
+                                  </td>
+                                  <td class="table4">+21
+                                  </td>
+                                  <td class="table4">-01
+                                  </td>
+                                  <td class="table3" align="right"><b>7.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>17</b></td>
+                                  <td class="table4" width="40"><img src="f0034.png" alt="Russia">
+                                  <td class="table4" width="40"><b>2615</b>
+                                  </td>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Alexander_Khalifman"><span style="color: #0000ff"><b>GM Alex. Khalifman</b></span></a>
+                                  </td>
+                                  <td class="table4">=33
+                                  </td>
+                                  <td class="table4">+31
+                                  </td>
+                                  <td class="table4">-14
+                                  </td>
+                                  <td class="table4">+24
+                                  </td>
+                                  <td class="table4">=07
+                                  </td>
+                                  <td class="table4">=15
+                                  </td>
+                                  <td class="table4">+23
+                                  </td>
+                                  <td class="table4">=21
+                                  </td>
+                                  <td class="table4">=29
+                                  </td>
+                                  <td class="table4">=08
+                                  </td>
+                                  <td class="table4">+13
+                                  </td>
+                                  <td class="table4">-02
+                                  </td>
+                                  <td class="table4">=19
+                                  </td>
+                                  <td class="table3" align="right"><b>7.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>18</b></td>
+                                  <td class="table4" width="40"><img src="f0046.png" alt="United States">
+                                  <td class="table4" width="40"><b>2635</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Yasser_Seirawan"><span style="color: #0000ff"><b>GM Yasser Seirawan</b></span></a>
+                                  </td>
+                                  <td class="table4">=42
+                                  </td>
+                                  <td class="table4">=26
+                                  </td>
+                                  <td class="table4">=30
+                                  </td>
+                                  <td class="table4">+56
+                                  </td>
+                                  <td class="table4">=15
+                                  </td>
+                                  <td class="table4">=07
+                                  </td>
+                                  <td class="table4">=31
+                                  </td>
+                                  <td class="table4">=03
+                                  </td>
+                                  <td class="table4">+40
+                                  </td>
+                                  <td class="table4">-04
+                                  </td>
+                                  <td class="table4">=27
+                                  </td>
+                                  <td class="table4">=24
+                                  </td>
+                                  <td class="table4">+22
+                                  </td>
+                                  <td class="table3" align="right"><b>7.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>19</b></td>
+                                  <td class="table4" width="40"><img src="f0003.png" alt="Spain">
+                                  <td class="table4" width="40"><b>2580</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Alexei_Shirov"><span style="color: #0000ff"><b>GM Alexei Shirov</b></span></a>
+                                  </td>
+                                  <td class="table4">=55
+                                  </td>
+                                  <td class="table4">=35
+                                  </td>
+                                  <td class="table4">=23
+                                  </td>
+                                  <td class="table4">=33
+                                  </td>
+                                  <td class="table4">+42
+                                  </td>
+                                  <td class="table4">=08
+                                  </td>
+                                  <td class="table4">-16
+                                  </td>
+                                  <td class="table4">-07
+                                  </td>
+                                  <td class="table4">+32
+                                  </td>
+                                  <td class="table4">+50
+                                  </td>
+                                  <td class="table4">+29
+                                  </td>
+                                  <td class="table4">=13
+                                  </td>
+                                  <td class="table4">=17
+                                  </td>
+                                  <td class="table3" align="right"><b>7.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>20</b></td>
+                                  <td class="table4" width="40"><img src="f0082.png" alt="Iceland">
+                                  <td class="table4" width="40"><b>2520</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Johann_Hjartarson"><span style="color: #0000ff"><b>GM J?hann Hjartarson</b></span></a>
+                                  </td>
+                                  <td class="table4">-04
+                                  </td>
+                                  <td class="table4">+61
+                                  </td>
+                                  <td class="table4">-37
+                                  </td>
+                                  <td class="table4">-40
+                                  </td>
+                                  <td class="table4">+38
+                                  </td>
+                                  <td class="table4">-36
+                                  </td>
+                                  <td class="table4">+45
+                                  </td>
+                                  <td class="table4">=47
+                                  </td>
+                                  <td class="table4">+54
+                                  </td>
+                                  <td class="table4">=39
+                                  </td>
+                                  <td class="table4">+42
+                                  </td>
+                                  <td class="table4">+34
+                                  </td>
+                                  <td class="table4">=14
+                                  </td>
+                                  <td class="table3" align="right"><b>7.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>21</b></td>
+                                  <td class="table4" width="40"><img src="f0046.png" alt="United States">
+                                  <td class="table4" width="40"><b>2560</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Nick_De_Firmian"><span style="color: #0000ff"><b>GM Nick De Firmian</b></span></a>
+                                  </td>
+                                  <td class="table4">+61
+                                  </td>
+                                  <td class="table4">+04
+                                  </td>
+                                  <td class="table4">=48
+                                  </td>
+                                  <td class="table4">-02
+                                  </td>
+                                  <td class="table4">=11
+                                  </td>
+                                  <td class="table4">+37
+                                  </td>
+                                  <td class="table4">=15
+                                  </td>
+                                  <td class="table4">=17
+                                  </td>
+                                  <td class="table4">+09
+                                  </td>
+                                  <td class="table4">-07
+                                  </td>
+                                  <td class="table4">=08
+                                  </td>
+                                  <td class="table4">-16
+                                  </td>
+                                  <td class="table4">=28
+                                  </td>
+                                  <td class="table3" align="right"><b>7.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>22</b></td>
+                                  <td class="table4" width="40"><img src="f0075.png" alt="Israel">
+                                  <td class="table4" width="40"><b>2505</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<span style="color: #001100"><b>GM Gad Rechlis</b></span>
+                                  </td>
+                                  <td class="table4">=05
+                                  </td>
+                                  <td class="table4">=28
+                                  </td>
+                                  <td class="table4">-11
+                                  </td>
+                                  <td class="table4">+27
+                                  </td>
+                                  <td class="table4">=47
+                                  </td>
+                                  <td class="table4">=25
+                                  </td>
+                                  <td class="table4">+46
+                                  </td>
+                                  <td class="table4">-15
+                                  </td>
+                                  <td class="table4">+41
+                                  </td>
+                                  <td class="table4">+48
+                                  </td>
+                                  <td class="table4">-16
+                                  </td>
+                                  <td class="table4">+37
+                                  </td>
+                                  <td class="table4">-18
+                                  </td>
+                                  <td class="table3" align="right"><b>7.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>23</b></td>
+                                  <td class="table4" width="40"><img src="f0039.png" alt="Bulgaria">
+                                  <td class="table4" width="40"><b>2495</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Vasil_Spasov"><span style="color: #0000ff"><b>IM Vasil Spasov</b></span></a>
+                                  </td>
+                                  <td class="table4">=34
+                                  </td>
+                                  <td class="table4">=10
+                                  </td>
+                                  <td class="table4">=19
+                                  </td>
+                                  <td class="table4">+36
+                                  </td>
+                                  <td class="table4">=51
+                                  </td>
+                                  <td class="table4">=16
+                                  </td>
+                                  <td class="table4">-17
+                                  </td>
+                                  <td class="table4">=44
+                                  </td>
+                                  <td class="table4">-39
+                                  </td>
+                                  <td class="table4">+43
+                                  </td>
+                                  <td class="table4">=35
+                                  </td>
+                                  <td class="table4">=26
+                                  </td>
+                                  <td class="table4">+49
+                                  </td>
+                                  <td class="table3" align="right"><b>7.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>24</b></td>
+                                  <td class="table4" width="40"><img src="f0032.png" alt="Slovakia">
+                                  <td class="table4" width="40"><b>2525</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<span style="color: #0000ff"><b>IM Igor Stohl</b></span>
+                                   </td>
+                                  <td class="table4">=10
+                                  </td>
+                                  <td class="table4">-34
+                                  </td>
+                                  <td class="table4">+45
+                                  </td>
+                                  <td class="table4">-17
+                                  </td>
+                                  <td class="table4">+58
+                                  </td>
+                                  <td class="table4">-04
+                                  </td>
+                                  <td class="table4">+43
+                                  </td>
+                                  <td class="table4">+39
+                                  </td>
+                                  <td class="table4">=50
+                                  </td>
+                                  <td class="table4">-37
+                                  </td>
+                                  <td class="table4">+44
+                                  </td>
+                                  <td class="table4">=18
+                                  </td>
+                                  <td class="table4">=27
+                                  </td>
+                                  <td class="table3" align="right"><b>7.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>25</b></td>
+                                  <td class="table4" width="40"><img src="f0002.png" alt="United Kingdom">
+                                  <td class="table4" width="40"><b>2590</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Michael_Adams"><span style="color: #0000ff"><b>GM Michael Adams</b></span></a>
+                                  </td>
+                                  <td class="table4">+46
+                                  </td>
+                                  <td class="table4">=63
+                                  </td>
+                                  <td class="table4">+50
+                                  </td>
+                                  <td class="table4">-29
+                                  </td>
+                                  <td class="table4">-09
+                                  </td>
+                                  <td class="table4">=22
+                                  </td>
+                                  <td class="table4">=39
+                                  </td>
+                                  <td class="table4">=49
+                                  </td>
+                                  <td class="table4">+44
+                                  </td>
+                                  <td class="table4">=27
+                                  </td>
+                                  <td class="table4">+30
+                                  </td>
+                                  <td class="table4">=15
+                                  </td>
+                                  <td class="table4">-08
+                                  </td>
+                                  <td class="table3" align="right"><b>7.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>26</b></td>
+                                  <td class="table4" width="40"><img src="f0046.png" alt="United States">
+                                  <td class="table4" width="40"><b>2560</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<span style="color: #001100"><b>GM R. Dzindzichashvili</b></span>
+                                  </td>
+                                  <td class="table4">=01
+                                  </td>
+                                  <td class="table4">=18
+                                  </td>
+                                  <td class="table4">+38
+                                  </td>
+                                  <td class="table4">-30
+                                  </td>
+                                  <td class="table4">=31
+                                  </td>
+                                  <td class="table4">=46
+                                  </td>
+                                  <td class="table4">=63
+                                  </td>
+                                  <td class="table4">=34
+                                  </td>
+                                  <td class="table4">=36
+                                  </td>
+                                  <td class="table4">=42
+                                  </td>
+                                  <td class="table4">=39
+                                  </td>
+                                  <td class="table4">=23
+                                  </td>
+                                  <td class="table4">+41
+                                  </td>
+                                  <td class="table3" align="right"><b>7.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>27</b></td>
+                                  <td class="table4" width="40"><img src="f0032.png" alt="Slovakia">
+                                  <td class="table4" width="40"><b>2550</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Lubomir_Ftacnik"><span style="color: #0000ff"><b>GM Lubom?r Ft?cnik</b></span></a>
+                                  </td>
+                                  <td class="table4">-51
+                                  </td>
+                                  <td class="table4">+59
+                                  </td>
+                                  <td class="table4">-10
+                                  </td>
+                                  <td class="table4">-22
+                                  </td>
+                                  <td class="table4">+64
+                                  </td>
+                                  <td class="table4">=32
+                                  </td>
+                                  <td class="table4">+57
+                                  </td>
+                                  <td class="table4">=37
+                                  </td>
+                                  <td class="table4">+34
+                                  </td>
+                                  <td class="table4">=25
+                                  </td>
+                                  <td class="table4">=18
+                                  </td>
+                                  <td class="table4">=36
+                                  </td>
+                                  <td class="table4">=24
+                                  </td>
+                                  <td class="table3" align="right"><b>7.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>28</b></td>
+                                  <td class="table4" width="40"><img src="f0046.png" alt="United States">
+                                  <td class="table4" width="40"><b>2570</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Boris_Gulko"><span style="color: #0000ff"><b>GM Boris Gulko</b></span></a>
+                                  </td>
+                                  <td class="table4">=64
+                                  </td>
+                                  <td class="table4">=22
+                                  </td>
+                                  <td class="table4">=32
+                                  </td>
+                                  <td class="table4">+58
+                                  </td>
+                                  <td class="table4">-06
+                                  </td>
+                                  <td class="table4">=47
+                                  </td>
+                                  <td class="table4">=41
+                                  </td>
+                                  <td class="table4">=36
+                                  </td>
+                                  <td class="table4">=33
+                                  </td>
+                                  <td class="table4">+31
+                                  </td>
+                                  <td class="table4">-14
+                                  </td>
+                                  <td class="table4">+45
+                                  </td>
+                                  <td class="table4">=21
+                                  </td>
+                                  <td class="table3" align="right"><b>6.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>29</b></td>
+                                  <td class="table4" width="40"><img src="f0011.png" alt="France">
+                                  <td class="table4" width="40"><b>2570</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Joel_Lautier"><span style="color: #0000ff"><b>GM Jo?l Lautier</b></span></a>
+                                  </td>
+                                  <td class="table4">+60
+                                  </td>
+                                  <td class="table4">=15
+                                  </td>
+                                  <td class="table4">+09
+                                  </td>
+                                  <td class="table4">+25
+                                  </td>
+                                  <td class="table4">-01
+                                  </td>
+                                  <td class="table4">=10
+                                  </td>
+                                  <td class="table4">-06
+                                  </td>
+                                  <td class="table4">+50
+                                  </td>
+                                  <td class="table4">=17
+                                  </td>
+                                  <td class="table4">-03
+                                  </td>
+                                  <td class="table4">-19
+                                  </td>
+                                  <td class="table4">=39
+                                  </td>
+                                  <td class="table4">=35
+                                  </td>
+                                  <td class="table3" align="right"><b>6.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>30</b></td>
+                                  <td class="table4" width="40"><img src="f0053.png" alt="Armenia">
+                                  <td class="table4" width="40"><b>2575</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Smbat_Lputian"><span style="color: #0000ff"><b>GM Smbat Lputian</b></span></a>
+                                  </td>
+                                  <td class="table4">+59
+                                  </td>
+                                  <td class="table4">=51
+                                  </td>
+                                  <td class="table4">=18
+                                  </td>
+                                  <td class="table4">+26
+                                  </td>
+                                  <td class="table4">=16
+                                  </td>
+                                  <td class="table4">=06
+                                  </td>
+                                  <td class="table4">-10
+                                  </td>
+                                  <td class="table4">=48
+                                  </td>
+                                  <td class="table4">-04
+                                  </td>
+                                  <td class="table4">+33
+                                  </td>
+                                  <td class="table4">-25
+                                  </td>
+                                  <td class="table4">=41
+                                  </td>
+                                  <td class="table4">=36
+                                  </td>
+                                  <td class="table3" align="right"><b>6.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>31</b></td>
+                                  <td class="table4" width="40"><img src="f0003.png" alt="Spain">
+                                  <td class="table4" width="40"><b>2535</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Miguel_Illescas_Cordoba"><span style="color: #0000ff"><b>GM Miguel Illescas</b></span></a>
+                                  </td>
+                                  <td class="table4">=06
+                                  </td>
+                                  <td class="table4">-17
+                                  </td>
+                                  <td class="table4">=64
+                                  </td>
+                                  <td class="table4">+38
+                                  </td>
+                                  <td class="table4">=26
+                                  </td>
+                                  <td class="table4">+51
+                                  </td>
+                                  <td class="table4">=18
+                                  </td>
+                                  <td class="table4">=14
+                                  </td>
+                                  <td class="table4">-16
+                                  </td>
+                                  <td class="table4">-28
+                                  </td>
+                                  <td class="table4">=32
+                                  </td>
+                                  <td class="table4">+44
+                                  </td>
+                                  <td class="table4">=37
+                                  </td>
+                                  <td class="table3" align="right"><b>6.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>32</b></td>
+                                  <td class="table4" width="40"><img src="f0038.png" alt="Serbia">
+                                  <td class="table4" width="40"><b>2520</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Bozidar_Ivanovic"><span style="color: #0000ff"><b>GM Bozidar Ivanovic</b></span></a>
+                                  </td>
+                                  <td class="table4">=03
+                                  </td>
+                                  <td class="table4">=11
+                                  </td>
+                                  <td class="table4">=28
+                                  </td>
+                                  <td class="table4">-50
+                                  </td>
+                                  <td class="table4">=36
+                                  </td>
+                                  <td class="table4">=27
+                                  </td>
+                                  <td class="table4">=53
+                                  </td>
+                                  <td class="table4">=54
+                                  </td>
+                                  <td class="table4">-19
+                                  </td>
+                                  <td class="table4">+55
+                                  </td>
+                                  <td class="table4">=31
+                                  </td>
+                                  <td class="table4">=48
+                                  </td>
+                                  <td class="table4">+56
+                                  </td>
+                                  <td class="table3" align="right"><b>6.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>33</b></td>
+                                  <td class="table4" width="40"><img src="f0087.png" alt="Philippines">
+                                  <td class="table4" width="40"><b>2530</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Eugenio_Torre"><span style="color: #0000ff"><b>GM Eugenio Torre</b></span></a>
+                                  </td>
+                                  <td class="table4">=17
+                                  </td>
+                                  <td class="table4">-06
+                                  </td>
+                                  <td class="table4">+62
+                                  </td>
+                                  <td class="table4">=19
+                                  </td>
+                                  <td class="table4">-04
+                                  </td>
+                                  <td class="table4">=49
+                                  </td>
+                                  <td class="table4">=42
+                                  </td>
+                                  <td class="table4">+46
+                                  </td>
+                                  <td class="table4">=28
+                                  </td>
+                                  <td class="table4">-30
+                                  </td>
+                                  <td class="table4">-45
+                                  </td>
+                                  <td class="table4">+51
+                                  </td>
+                                  <td class="table4">+48
+                                  </td>
+                                  <td class="table3" align="right"><b>6.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>34</b></td>
+                                  <td class="table4" width="40"><img src="f0014.png" alt="Norway">
+                                  <td class="table4" width="40"><b>2600</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Simen_Agdestein"><span style="color: #0000ff"><b>GM Simen Agdestein</b></span></a>
+                                  </td>
+                                  <td class="table4">=23
+                                  </td>
+                                  <td class="table4">+24
+                                  </td>
+                                  <td class="table4">+63
+                                  </td>
+                                  <td class="table4">-48
+                                  </td>
+                                  <td class="table4">+50
+                                  </td>
+                                  <td class="table4">-12
+                                  </td>
+                                  <td class="table4">-13
+                                  </td>
+                                  <td class="table4">=26
+                                  </td>
+                                  <td class="table4">-27
+                                  </td>
+                                  <td class="table4">+52
+                                  </td>
+                                  <td class="table4">+40
+                                  </td>
+                                  <td class="table4">-20
+                                  </td>
+                                  <td class="table4">=39
+                                  </td>
+                                  <td class="table3" align="right"><b>6.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>35</b></td>
+                                  <td class="table4" width="40"><img src="f0040.png" alt="Romania">
+                                  <td class="table4" width="40"><b>2485</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Mihail_Marin"><span style="color: #0000ff"><b>IM Mihail Marin</b></span></a>
+                                  </td>
+                                  <td class="table4">=37
+                                  </td>
+                                  <td class="table4">=19
+                                  </td>
+                                  <td class="table4">=36
+                                  </td>
+                                  <td class="table4">-39
+                                  </td>
+                                  <td class="table4">=49
+                                  </td>
+                                  <td class="table4">=42
+                                  </td>
+                                  <td class="table4">-56
+                                  </td>
+                                  <td class="table4">+55
+                                  </td>
+                                  <td class="table4">+47
+                                  </td>
+                                  <td class="table4">=40
+                                  </td>
+                                  <td class="table4">=23
+                                  </td>
+                                  <td class="table4">=50
+                                  </td>
+                                  <td class="table4">=29
+                                  </td>
+                                  <td class="table3" align="right"><b>6.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>36</b></td>
+                                  <td class="table4" width="40"><img src="f0088.png" alt="Latvia">
+                                  <td class="table4" width="40"><b>2580</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Mikhail_Tal"><span style="color: #0000ff"><b>GM Mikhail Tal</b></span></a>
+                                  </td>
+                                  <td class="table4">+52
+                                  </td>
+                                  <td class="table4">-12
+                                  </td>
+                                  <td class="table4">=35
+                                  </td>
+                                  <td class="table4">-23
+                                  </td>
+                                  <td class="table4">=32
+                                  </td>
+                                  <td class="table4">+20
+                                  </td>
+                                  <td class="table4">=37
+                                  </td>
+                                  <td class="table4">=28
+                                  </td>
+                                  <td class="table4">=26
+                                  </td>
+                                  <td class="table4">+56
+                                  </td>
+                                  <td class="table4">-15
+                                  </td>
+                                  <td class="table4">=27
+                                  </td>
+                                  <td class="table4">=30
+                                  </td>
+                                  <td class="table3" align="right"><b>6.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>37</b></td>
+                                  <td class="table4" width="40"><img src="f0002.png" alt="United Kingdom">
+                                  <td class="table4" width="40"><b>2595</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Anthony_Miles"><span style="color: #0000ff"><b>GM Anthony Miles</b></span></a>
+                                  </td>
+                                  <td class="table4">=35
+                                  </td>
+                                  <td class="table4">=55
+                                  </td>
+                                  <td class="table4">+20
+                                  </td>
+                                  <td class="table4">-12
+                                  </td>
+                                  <td class="table4">+43
+                                  </td>
+                                  <td class="table4">-21
+                                  </td>
+                                  <td class="table4">=36
+                                  </td>
+                                  <td class="table4">=27
+                                  </td>
+                                  <td class="table4">+49
+                                  </td>
+                                  <td class="table4">+24
+                                  </td>
+                                  <td class="table4">-03
+                                  </td>
+                                  <td class="table4">-22
+                                  </td>
+                                  <td class="table4">=31
+                                  </td>
+                                  <td class="table3" align="right"><b>6.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>38</b></td>
+                                  <td class="table4" width="40"><img src="f0004.png" alt="Brazil">
+                                  <td class="table4" width="40"><b>2465</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Jaime_Sunye_Neto"><span style="color: #0000ff"><b>GM Jaime Sunye Neto</b></span></a>
+                                  </td>
+                                  <td class="table4">=07
+                                  </td>
+                                  <td class="table4">=39
+                                  </td>
+                                  <td class="table4">-26
+                                  </td>
+                                  <td class="table4">-31
+                                  </td>
+                                  <td class="table4">-20
+                                  </td>
+                                  <td class="table4">=60
+                                  </td>
+                                  <td class="table4">=59
+                                  </td>
+                                  <td class="table4">+58
+                                  </td>
+                                  <td class="table4">=53
+                                  </td>
+                                  <td class="table4">+47
+                                  </td>
+                                  <td class="table4">=48
+                                  </td>
+                                  <td class="table4">=42
+                                  </td>
+                                  <td class="table4">+50
+                                  </td>
+                                  <td class="table3" align="right"><b>6.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>39</b></td>
+                                  <td class="table4" width="40"><img src="f0034.png" alt="Russia">
+                                  <td class="table4" width="40"><b>2570</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Andrei_Sokolov"><span style="color: #0000ff"><b>GM Andrei Sokolov</b></span></a>
+                                  </td>
+                                  <td class="table4">=62
+                                  </td>
+                                  <td class="table4">=38
+                                  </td>
+                                  <td class="table4">=54
+                                  </td>
+                                  <td class="table4">+35
+                                  </td>
+                                  <td class="table4">-10
+                                  </td>
+                                  <td class="table4">=41
+                                  </td>
+                                  <td class="table4">=25
+                                  </td>
+                                  <td class="table4">-24
+                                  </td>
+                                  <td class="table4">+23
+                                  </td>
+                                  <td class="table4">=20
+                                  </td>
+                                  <td class="table4">=26
+                                  </td>
+                                  <td class="table4">=29
+                                  </td>
+                                  <td class="table4">=34
+                                  </td>
+                                  <td class="table3" align="right"><b>6.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>40</b></td>
+                                  <td class="table4" width="40"><img src="f0038.png" alt="Serbia">
+                                  <td class="table4" width="40"><b>2520</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Petar_Popovic"><span style="color: #0000ff"><b>GM Petar Popovic</b></span></a>
+                                  </td>
+                                  <td class="table4">-15
+                                  </td>
+                                  <td class="table4">=60
+                                  </td>
+                                  <td class="table4">=42
+                                  </td>
+                                  <td class="table4">+20
+                                  </td>
+                                  <td class="table4">+63
+                                  </td>
+                                  <td class="table4">=50
+                                  </td>
+                                  <td class="table4">-08
+                                  </td>
+                                  <td class="table4">+56
+                                  </td>
+                                  <td class="table4">-18
+                                  </td>
+                                  <td class="table4">=35
+                                  </td>
+                                  <td class="table4">-34
+                                  </td>
+                                  <td class="table4">=49
+                                  </td>
+                                  <td class="table4">=45
+                                  </td>
+                                  <td class="table3" align="right"><b>6.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>41</b></td>
+                                  <td class="table4" width="40"><img src="f0038.png" alt="Serbia">
+                                  <td class="table4" width="40"><b>2485</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<span style="color: #0000ff"><b>IM Goran Cabrilo</b></span>
+                                  </td>
+                                  <td class="table4">-48
+                                  </td>
+                                  <td class="table4">-02
+                                  </td>
+                                  <td class="table4">=59
+                                  </td>
+                                  <td class="table4">+60
+                                  </td>
+                                  <td class="table4">+56
+                                  </td>
+                                  <td class="table4">=39
+                                  </td>
+                                  <td class="table4">=28
+                                  </td>
+                                  <td class="table4">=42
+                                  </td>
+                                  <td class="table4">-22
+                                  </td>
+                                  <td class="table4">+49
+                                  </td>
+                                  <td class="table4">=50
+                                  </td>
+                                  <td class="table4">=30
+                                  </td>
+                                  <td class="table4">-26
+                                  </td>
+                                  <td class="table3" align="right"><b>6.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>42</b></td>
+                                  <td class="table4" width="40"><img src="f0045.png" alt="Canada">
+                                  <td class="table4" width="40"><b>2540</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Kevin_Spraggett"><span style="color: #0000ff"><b>GM Kevin Spraggett</b></span></a>
+                                  </td>
+                                  <td class="table4">=18
+                                  </td>
+                                  <td class="table4">-01
+                                  </td>
+                                  <td class="table4">=40
+                                  </td>
+                                  <td class="table4">+64
+                                  </td>
+                                  <td class="table4">-19
+                                  </td>
+                                  <td class="table4">=35
+                                  </td>
+                                  <td class="table4">=33
+                                  </td>
+                                  <td class="table4">=41
+                                  </td>
+                                  <td class="table4">+51
+                                  </td>
+                                  <td class="table4">=26
+                                  </td>
+                                  <td class="table4">-20
+                                  </td>
+                                  <td class="table4">=38
+                                  </td>
+                                  <td class="table4">=46
+                                  </td>
+                                  <td class="table3" align="right"><b>6.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>43</b></td>
+                                  <td class="table4" width="40"><img src="f0089.png" alt="Colombia">
+                                  <td class="table4" width="40"><b>2545</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Alonso_Zapata"><span style="color: #0000ff"><b>GM Alonso Zapata</b></span></a>
+                                  </td>
+                                  <td class="table4">-12
+                                  </td>
+                                  <td class="table4">+52
+                                  </td>
+                                  <td class="table4">-02
+                                  </td>
+                                  <td class="table4">+53
+                                  </td>
+                                  <td class="table4">-37
+                                  </td>
+                                  <td class="table4">=57
+                                  </td>
+                                  <td class="table4">-24
+                                  </td>
+                                  <td class="table4">-51
+                                  </td>
+                                  <td class="table4">+61
+                                  </td>
+                                  <td class="table4">-23
+                                  </td>
+                                  <td class="table4">+58
+                                  </td>
+                                  <td class="table4">=54
+                                  </td>
+                                  <td class="table4">+55
+                                  </td>
+                                  <td class="table3" align="right"><b>6.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>44</b></td>
+                                  <td class="table4" width="40"><img src="f0081.png" alt="China">
+                                  <td class="table4" width="40"><b>2525</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Ye_Rongguang"><span style="color: #0000ff"><b>GM Ye Rongguang</b></span></a>
+                                  </td>
+                                  <td class="table4">=11
+                                  </td>
+                                  <td class="table4">-03
+                                  </td>
+                                  <td class="table4">-49
+                                  </td>
+                                  <td class="table4">+62
+                                  </td>
+                                  <td class="table4">-55
+                                  </td>
+                                  <td class="table4">+58
+                                  </td>
+                                  <td class="table4">+51
+                                  </td>
+                                  <td class="table4">=23
+                                  </td>
+                                  <td class="table4">-25
+                                  </td>
+                                  <td class="table4">+57
+                                  </td>
+                                  <td class="table4">-24
+                                  </td>
+                                  <td class="table4">-31
+                                  </td>
+                                  <td class="table4">+54
+                                  </td>
+                                  <td class="table3" align="right"><b>6.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>45</b></td>
+                                  <td class="table4" width="40"><img src="f0019.png" alt="Germany">
+                                  <td class="table4" width="40"><b>2535</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Eric_Lobron"><span style="color: #0000ff"><b>GM Eric Lobron</b></span></a>
+                                  </td>
+                                  <td class="table4">=09
+                                  </td>
+                                  <td class="table4">-50
+                                  </td>
+                                  <td class="table4">-24
+                                  </td>
+                                  <td class="table4">=59
+                                  </td>
+                                  <td class="table4">+52
+                                  </td>
+                                  <td class="table4">-56
+                                  </td>
+                                  <td class="table4">-20
+                                  </td>
+                                  <td class="table4">=57
+                                  </td>
+                                  <td class="table4">+60
+                                  </td>
+                                  <td class="table4">+54
+                                  </td>
+                                  <td class="table4">+33
+                                  </td>
+                                  <td class="table4">-28
+                                  </td>
+                                  <td class="table4">=40
+                                  </td>
+                                  <td class="table3" align="right"><b>6.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>46</b></td>
+                                  <td class="table4" width="40"><img src="f0046.png" alt="United States">
+                                  <td class="table4" width="40"><b>2475</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Stuart_Rachels"><span style="color: #0000ff"><b>IM Stuart Rachels</b></span></a>
+                                  </td>
+                                  <td class="table4">-25
+                                  </td>
+                                  <td class="table4">+47
+                                  </td>
+                                  <td class="table4">=58
+                                  </td>
+                                  <td class="table4">=04
+                                  </td>
+                                  <td class="table4">=54
+                                  </td>
+                                  <td class="table4">=26
+                                  </td>
+                                  <td class="table4">-22
+                                  </td>
+                                  <td class="table4">-33
+                                  </td>
+                                  <td class="table4">-57
+                                  </td>
+                                  <td class="table4">+62
+                                  </td>
+                                  <td class="table4">=56
+                                  </td>
+                                  <td class="table4">+52
+                                  </td>
+                                  <td class="table4">=42
+                                  </td>
+                                  <td class="table3" align="right"><b>6.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>47</b></td>
+                                  <td class="table4" width="40"><img src="f0082.png" alt="Iceland">
+                                  <td class="table4" width="40"><b>2550</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://de.wikipedia.org/wiki/Margeir_P%C3%A9tursson"><span style="color: #0000ff"><b>GM Margeir P?tursson</b></span></a>
+                                  </td>
+                                  <td class="table4">-63
+                                  </td>
+                                  <td class="table4">-46
+                                  </td>
+                                  <td class="table4">+57
+                                  </td>
+                                  <td class="table4">+52
+                                  </td>
+                                  <td class="table4">=22
+                                  </td>
+                                  <td class="table4">=28
+                                  </td>
+                                  <td class="table4">-03
+                                  </td>
+                                  <td class="table4">=20
+                                  </td>
+                                  <td class="table4">-35
+                                  </td>
+                                  <td class="table4">-38
+                                  </td>
+                                  <td class="table4">+60
+                                  </td>
+                                  <td class="table4">=56
+                                  </td>
+                                  <td class="table4">+59
+                                  </td>
+                                  <td class="table3" align="right"><b>6.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>48</b></td>
+                                  <td class="table4" width="40"><img src="f0031.png" alt="Hungary">
+                                  <td class="table4" width="40"><b>2590</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Lajos_Portisch"><span style="color: #0000ff"><b>GM Lajos Portisch</b></span></a>
+                                  </td>
+                                  <td class="table4">+41
+                                  </td>
+                                  <td class="table4">+54
+                                  </td>
+                                  <td class="table4">=21
+                                  </td>
+                                  <td class="table4">+34
+                                  </td>
+                                  <td class="table4">=05
+                                  </td>
+                                  <td class="table4">-02
+                                  </td>
+                                  <td class="table4">-09
+                                  </td>
+                                  <td class="table4">=30
+                                  </td>
+                                  <td class="table4">-07
+                                  </td>
+                                  <td class="table4">-22
+                                  </td>
+                                  <td class="table4">=38
+                                  </td>
+                                  <td class="table4">=32
+                                  </td>
+                                  <td class="table4">-33
+                                  </td>
+                                  <td class="table3" align="right"><b>5.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>49</b></td>
+                                  <td class="table4" width="40"><img src="f0010.png" alt="Australia">
+                                  <td class="table4" width="40"><b>2535</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Ian_Rogers"><span style="color: #0000ff"><b>GM Ian Rogers</b></span></a>
+                                  </td>
+                                  <td class="table4">=50
+                                  </td>
+                                  <td class="table4">-09
+                                  </td>
+                                  <td class="table4">+44
+                                  </td>
+                                  <td class="table4">-03
+                                  </td>
+                                  <td class="table4">=35
+                                  </td>
+                                  <td class="table4">=33
+                                  </td>
+                                  <td class="table4">+55
+                                  </td>
+                                  <td class="table4">=25
+                                  </td>
+                                  <td class="table4">-37
+                                  </td>
+                                  <td class="table4">-41
+                                  </td>
+                                  <td class="table4">+53
+                                  </td>
+                                  <td class="table4">=40
+                                  </td>
+                                  <td class="table4">-23
+                                  </td>
+                                  <td class="table3" align="right"><b>5.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>50</b></td>
+                                  <td class="table4" width="40"><img src="f0053.png" alt="Armenia">
+                                  <td class="table4" width="40"><b>2630</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Rafael_Vaganian"><span style="color: #0000ff"><b>GM Rafael Vaganian</b></span></a>
+                                  </td>
+                                  <td class="table4">=49
+                                  </td>
+                                  <td class="table4">+45
+                                  </td>
+                                  <td class="table4">-25
+                                  </td>
+                                  <td class="table4">+32
+                                  </td>
+                                  <td class="table4">-34
+                                  </td>
+                                  <td class="table4">=40
+                                  </td>
+                                  <td class="table4">+54
+                                  </td>
+                                  <td class="table4">-29
+                                  </td>
+                                  <td class="table4">=24
+                                  </td>
+                                  <td class="table4">-19
+                                  </td>
+                                  <td class="table4">=41
+                                  </td>
+                                  <td class="table4">=35
+                                  </td>
+                                  <td class="table4">-38
+                                  </td>
+                                  <td class="table3" align="right"><b>5.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>51</b></td>
+                                  <td class="table4" width="40"><img src="f0046.png" alt="United States">
+                                  <td class="table4" width="40"><b>2650</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Gata_Kamsky"><span style="color: #0000ff"><b>GM Gata Kamsky</b></span></a>
+                                  </td>
+                                  <td class="table4">+27
+                                  </td>
+                                  <td class="table4">=30
+                                  </td>
+                                  <td class="table4">-05
+                                  </td>
+                                  <td class="table4">=13
+                                  </td>
+                                  <td class="table4">=23
+                                  </td>
+                                  <td class="table4">-31
+                                  </td>
+                                  <td class="table4">-44
+                                  </td>
+                                  <td class="table4">+43
+                                  </td>
+                                  <td class="table4">-42
+                                  </td>
+                                  <td class="table4">=53
+                                  </td>
+                                  <td class="table4">=52
+                                  </td>
+                                  <td class="table4">-33
+                                  </td>
+                                  <td class="table4">+60
+                                  </td>
+                                  <td class="table3" align="right"><b>5.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>52</b></td>
+                                  <td class="table4" width="40"><img src="f0081.png" alt="China">
+                                  <td class="table4" width="40"><b>2435</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Lin_Ta"><span style="color: #0000ff"><b>IM Lin Ta</b></span></a>
+                                  </td>
+                                  <td class="table4">-36
+                                  </td>
+                                  <td class="table4">-43
+                                  </td>
+                                  <td class="table4">+61
+                                  </td>
+                                  <td class="table4">-47
+                                  </td>
+                                  <td class="table4">-45
+                                  </td>
+                                  <td class="table4">+64
+                                  </td>
+                                  <td class="table4">+62
+                                  </td>
+                                  <td class="table4">=53
+                                  </td>
+                                  <td class="table4">=56
+                                  </td>
+                                  <td class="table4">-34
+                                  </td>
+                                  <td class="table4">=51
+                                  </td>
+                                  <td class="table4">-46
+                                  </td>
+                                  <td class="table4">+58
+                                  </td>
+                                  <td class="table3" align="right"><b>5.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>53</b></td>
+                                  <td class="table4" width="40"><img src="f0034.png" alt="Russia">
+                                  <td class="table4" width="40"><b>2570</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Vasily_Smyslov"><span style="color: #0000ff"><b>GM Vasily Smyslov</b></span></a>
+                                  </td>
+                                  <td class="table4">-58
+                                  </td>
+                                  <td class="table4">-13
+                                  </td>
+                                  <td class="table4">+60
+                                  </td>
+                                  <td class="table4">-43
+                                  </td>
+                                  <td class="table4">-57
+                                  </td>
+                                  <td class="table4">+59
+                                  </td>
+                                  <td class="table4">=32
+                                  </td>
+                                  <td class="table4">=52
+                                  </td>
+                                  <td class="table4">=38
+                                  </td>
+                                  <td class="table4">=51
+                                  </td>
+                                  <td class="table4">-49
+                                  </td>
+                                  <td class="table4">=62
+                                  </td>
+                                  <td class="table4">+61
+                                  </td>
+                                  <td class="table3" align="right"><b>5.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>54</b></td>
+                                  <td class="table4" width="40"><img src="f0059.png" alt="New Zealant">
+                                  <td class="table4" width="40"><b>2560</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Murray_Chandler"><span style="color: #0000ff"><b>GM Murray Chandler</b></span></a>
+                                  </td>
+                                  <td class="table4">+02
+                                  </td>
+                                  <td class="table4">-48
+                                  </td>
+                                  <td class="table4">=39
+                                  </td>
+                                  <td class="table4">=63
+                                  </td>
+                                  <td class="table4">=46
+                                  </td>
+                                  <td class="table4">=03
+                                  </td>
+                                  <td class="table4">-50
+                                  </td>
+                                  <td class="table4">=32
+                                  </td>
+                                  <td class="table4">-20
+                                  </td>
+                                  <td class="table4">-45
+                                  </td>
+                                  <td class="table4">+61
+                                  </td>
+                                  <td class="table4">=43
+                                  </td>
+                                  <td class="table4">-44
+                                  </td>
+                                  <td class="table3" align="right"><b>5.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>55</b></td>
+                                  <td class="table4" width="40"><img src="f0087.png" alt="Philippines">
+                                  <td class="table4" width="40"><b>2465</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Rico_Mascarinas"><span style="color: #0000ff"><b>IM Rico Mascari?as</b></span></a>
+                                  </td>
+                                  <td class="table4">=19
+                                  </td>
+                                  <td class="table4">=37
+                                  </td>
+                                  <td class="table4">=56
+                                  </td>
+                                  <td class="table4">-09
+                                  </td>
+                                  <td class="table4">+44
+                                  </td>
+                                  <td class="table4">-63
+                                  </td>
+                                  <td class="table4">-49
+                                  </td>
+                                  <td class="table4">-35
+                                  </td>
+                                  <td class="table4">+59
+                                  </td>
+                                  <td class="table4">-32
+                                  </td>
+                                  <td class="table4">+62
+                                  </td>
+                                  <td class="table4">=61
+                                  </td>
+                                  <td class="table4">-43
+                                  </td>
+                                  <td class="table3" align="right"><b>5.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>56</b></td>
+                                  <td class="table4" width="40"><img src="f0060.png" alt="Cuba">
+                                  <td class="table4" width="40"><b>2555</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Walter_Arencibia"><span style="color: #0000ff"><b>IM Walter Arencibia</b></span></a>
+                                  </td>
+                                  <td class="table4">-16
+                                  </td>
+                                  <td class="table4">+57
+                                  </td>
+                                  <td class="table4">=55
+                                  </td>
+                                  <td class="table4">-18
+                                  </td>
+                                  <td class="table4">-41
+                                  </td>
+                                  <td class="table4">+45
+                                  </td>
+                                  <td class="table4">+35
+                                  </td>
+                                  <td class="table4">-40
+                                  </td>
+                                  <td class="table4">=52
+                                  </td>
+                                  <td class="table4">-36
+                                  </td>
+                                  <td class="table4">=46
+                                  </td>
+                                  <td class="table4">=47
+                                  </td>
+                                  <td class="table4">-32
+                                  </td>
+                                  <td class="table3" align="right"><b>5.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>57</b></td>
+                                  <td class="table4" width="40"><img src="f0004.png" alt="Brazil">
+                                  <td class="table4" width="40"><b>2440</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Herman_Claudius_van_Riemsdijk"><span style="color: #0000ff"><b>IM H.C. van Riemsdijk</b></span></a>
+                                  </td>
+                                  <td class="table4">-14
+                                  </td>
+                                  <td class="table4">-56
+                                  </td>
+                                  <td class="table4">-47
+                                  </td>
+                                  <td class="table4">+61
+                                  </td>
+                                  <td class="table4">+53
+                                  </td>
+                                  <td class="table4">=43
+                                  </td>
+                                  <td class="table4">-27
+                                  </td>
+                                  <td class="table4">=45
+                                  </td>
+                                  <td class="table4">+46
+                                  </td>
+                                  <td class="table4">-44
+                                  </td>
+                                  <td class="table4">=59
+                                  </td>
+                                  <td class="table4">-60
+                                  </td>
+                                  <td class="table4">=62
+                                  </td>
+                                  <td class="table3" align="right"><b>5.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>58</b></td>
+                                  <td class="table4" width="40"><img src="f0086.png" alt="Egypt">
+                                  <td class="table4" width="40"><b>2375</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<span style="color: #001100"><b>IM Fouad El Taher</b></span>
+                                  </td>
+                                  <td class="table4">+53
+                                  </td>
+                                  <td class="table4">-08
+                                  </td>
+                                  <td class="table4">=46
+                                  </td>
+                                  <td class="table4">-28
+                                  </td>
+                                  <td class="table4">-24
+                                  </td>
+                                  <td class="table4">-44
+                                  </td>
+                                  <td class="table4">=60
+                                  </td>
+                                  <td class="table4">-38
+                                  </td>
+                                  <td class="table4">=62
+                                  </td>
+                                  <td class="table4">=61
+                                  </td>
+                                  <td class="table4">-43
+                                  </td>
+                                  <td class="table4">+59
+                                  </td>
+                                  <td class="table4">-52
+                                  </td>
+                                  <td class="table3" align="right"><b>4.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>59</b></td>
+                                  <td class="table4" width="40"><img src="f0090.png" alt="Guatemala">
+                                  <td class="table4" width="40"><b>2425</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<span style="color: #001100"><b>IM Carlos Ju?rez Flores</b></span>
+                                  </td>
+                                  <td class="table4">-30
+                                  </td>
+                                  <td class="table4">-27
+                                  </td>
+                                  <td class="table4">=41
+                                  </td>
+                                  <td class="table4">=45
+                                  </td>
+                                  <td class="table4">=62
+                                  </td>
+                                  <td class="table4">-53
+                                  </td>
+                                  <td class="table4">=38
+                                  </td>
+                                  <td class="table4">=61
+                                  </td>
+                                  <td class="table4">-55
+                                  </td>
+                                  <td class="table4">+60
+                                  </td>
+                                  <td class="table4">=57
+                                  </td>
+                                  <td class="table4">-58
+                                  </td>
+                                  <td class="table4">-47
+                                  </td>
+                                  <td class="table3" align="right"><b>4.0/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>60</b></td>
+                                  <td class="table4" width="40"><img src="f0045.png" alt="Canada">
+                                  <td class="table4" width="40"><b>2410</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<span style="color: #001100"><b>IM Leon Piasetski</b></span>
+                                  </td>
+                                  <td class="table4">-29
+                                  </td>
+                                  <td class="table4">=40
+                                  </td>
+                                  <td class="table4">-53
+                                  </td>
+                                  <td class="table4">-41
+                                  </td>
+                                  <td class="table4">=61
+                                  </td>
+                                  <td class="table4">=38
+                                  </td>
+                                  <td class="table4">=58
+                                  </td>
+                                  <td class="table4">=62
+                                  </td>
+                                  <td class="table4">-45
+                                  </td>
+                                  <td class="table4">-59
+                                  </td>
+                                  <td class="table4">-47
+                                  </td>
+                                  <td class="table4">+57
+                                  </td>
+                                  <td class="table4">-51
+                                  </td>
+                                  <td class="table3" align="right"><b>3.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>61</b></td>
+                                  <td class="table4" width="40"><img src="f0091.png" alt="Tunisia">
+                                  <td class="table4" width="40"><b>2335</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<span style="color: #001100"><b>IM S. Hmadi</b></span>
+                                  </td>
+                                  <td class="table4">-21
+                                  </td>
+                                  <td class="table4">-20
+                                  </td>
+                                  <td class="table4">-52
+                                  </td>
+                                  <td class="table4">-57
+                                  </td>
+                                  <td class="table4">=60
+                                  </td>
+                                  <td class="table4">=62
+                                  </td>
+                                  <td class="table4">+64
+                                  </td>
+                                  <td class="table4">=59
+                                  </td>
+                                  <td class="table4">-43
+                                  </td>
+                                  <td class="table4">=58
+                                  </td>
+                                  <td class="table4">-54
+                                  </td>
+                                  <td class="table4">=55
+                                  </td>
+                                  <td class="table4">-53
+                                  </td>
+                                  <td class="table3" align="right"><b>3.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>62</b></td>
+                                  <td class="table4" width="40"><img src="f0086.png" alt="Egypt">
+                                  <td class="table4" width="40"><b>2400</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<span style="color: #001100"><b>IM Assem Afifi</b></span>
+                                  </td>
+                                  <td class="table4">=39
+                                  </td>
+                                  <td class="table4">-07
+                                  </td>
+                                  <td class="table4">-33
+                                  </td>
+                                  <td class="table4">-44
+                                  </td>
+                                  <td class="table4">=59
+                                  </td>
+                                  <td class="table4">=61
+                                  </td>
+                                  <td class="table4">-52
+                                  </td>
+                                  <td class="table4">=60
+                                  </td>
+                                  <td class="table4">=58
+                                  </td>
+                                  <td class="table4">-46
+                                  </td>
+                                  <td class="table4">-55
+                                  </td>
+                                  <td class="table4">=53
+                                  </td>
+                                  <td class="table4">=57
+                                  </td>
+                                  <td class="table3" align="right"><b>3.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>63</b></td>
+                                  <td class="table4" width="40"><img src="f0034.png" alt="Russia">
+                                  <td class="table4" width="40"><b>2655</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<a href="http://en.wikipedia.org/wiki/Valery_Salov"><span style="color: #0000ff"><b>GM Valery Salov</b></span></a>
+                                  </td>
+                                  <td class="table4">+47
+                                  </td>
+                                  <td class="table4">=25
+                                  </td>
+                                  <td class="table4">-34
+                                  </td>
+                                  <td class="table4">=54
+                                  </td>
+                                  <td class="table4">-40
+                                  </td>
+                                  <td class="table4">+55
+                                  </td>
+                                  <td class="table4">=26
+                                  </td>
+                                  <td class="table4">-
+                                  </td>
+                                  <td class="table4">-
+                                  </td>
+                                  <td class="table4">-
+                                  </td>
+                                  <td class="table4">-
+                                  </td>
+                                  <td class="table4">-
+                                  </td>
+                                  <td class="table4">-
+                                  </td>
+                                  <td class="table3" align="right"><b>3.5/13</b>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="40" class="table3"><b>64</b></td>
+                                  <td class="table4" width="40"><img src="f0013.png" alt="India">
+                                  <td class="table4" width="40"><b>2490</b>
+                                  <td class="table5" width="164" align="left">&nbsp;<span style="color: #001100"><b>IM Praven Thipsay</b></span>
+                                  </td>
+                                  <td class="table4">=28
+                                  </td>
+                                  <td class="table4">-05
+                                  </td>
+                                  <td class="table4">=31
+                                  </td>
+                                  <td class="table4">-42
+                                  </td>
+                                  <td class="table4">-27
+                                  </td>
+                                  <td class="table4">-52
+                                  </td>
+                                  <td class="table4">-61
+                                  </td>
+                                  <td class="table4">-
+                                  </td>
+                                  <td class="table4">-
+                                  </td>
+                                  <td class="table4">-
+                                  </td>
+                                  <td class="table4">-
+                                  </td>
+                                  <td class="table4">-
+                                  </td>
+                                  <td class="table4">-
+                                  </td>
+                                  <td class="table3" align="right"><b>1.0/13</b>&nbsp;</td>
+                                </tr>
+                              </table>
+                          </td>
+                          </tr>
+                    </table>
+                    <br>
+                    <table cellSpacing="0" cellPadding="0" border="0" width="80%">
+                             <tr>
+                             <td>
+                                 <table cellSpacing="0" cellPadding="0" border="0" width="100%">
+                                        <tr>
+                                        <td align="left"><br>
+                                            <applet code="ChessBoard.class" align="bottom" width="630" height="560">
+                                            <param name="pgngamefile" value="zip_wcc0a83.zip">
+                                            <param name=lightsquares value="BAD3F3">
+                                            <param name=darksquares value="1761F9">
+                                            <param name=background value="064FE3">
+                                            </applet>
+                                        </td>
+                                        </tr>
+                                 </table>
+                             </td>
+                             </tr>
+                      </table>
+                  </div>
+             </td>
+             <td width="25">
+             </td>
+             <td width="180" valign="top">
+                 <table cellSpacing="0" cellPadding="0" border="0" width="230">
+                           <tr>
+                           <td class="menu1">
+                               <img src="a0004b.png" alt="">&nbsp;&nbsp;
+                               <a href="javascript:addbookmark()"><span style="color: #0040ff"><b>Aggiungi ai Favoriti!</b></span></a>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu1">
+                               <img src="a0004b.png" alt="" border="0">&nbsp;&nbsp;
+                               <a href="mailto:infotiscali@worldchesslinks.net?subject=Contact%20World%20Chess%20Links" class="mail"><span style="color: #0040ff">Contattaci</span></a>
+                               <br>
+                               <img src="a0004b.png" alt="" border="0">&nbsp;&nbsp;
+                               <a href="mailto:infotiscali@worldchesslinks.net?subject=Submit%20a%20Link" class="mail"><span style="color: #0040ff">Segnala un Sito</span></a>
+                           </td>
+                           </tr>                           
+                           <tr>
+                           <td class="menu1">
+                               <img src="a0004b.png" alt="">&nbsp;&nbsp;
+                               <a href="i_google_search.html"><span style="color: #FC4C00">Cerca nel Sito</span></a>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu1">
+                               <br><br><img src="b00044_180.png" alt="">
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="titolomenu">
+                               <br>World Chess Links
+                               <br>Essential Links<br><br>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu3b" align="center">
+                               <a href="iznb0.html"><img src="chess_links.jpg" border="0" alt="World Chess Links"></a>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="titolomenu">
+                               <br>World Chess Events
+                               <br><br>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu3b" align="center">
+                               <a href="izpa0.html"><img src="chess_events.jpg" border="0" alt="World Chess Events"></a>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="titolomenu">
+                               <br>World Chess News
+                               <br><br>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu3" align="center">
+                               <a href="i_news_0001.html"><img src="chess_news.jpg" border="0" alt="World Chess News"></a>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="titolomenu">
+                               <br>FIDE Ratings
+                               <br><br>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu3b" align="center">
+                               <a href="i_index_y.html"><img src="fide_ratings.jpg" border="0" alt="FIDE Ratings"></a>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="titolomenu">
+                               <br>Chess Books<br><br>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu3b" align="center">
+                               <a href="izox0.html"><img src="chess_books.jpg" border="0" alt="Chess Books"></a>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="titolomenu">
+                               <br>World Chess Links
+                               <br>on Facebook
+                               <br><br>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu3b" align="center">
+                               <a href="http://www.facebook.com/pages/World-Chess-Links/355223653734"><img src="facebook_c.jpg" border="0" alt="World Chess Links on Facebook"></a>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="titolomenu">
+                               <br>World Chess Links
+                               <br>on Twitter
+                               <br><br>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu3b" align="center">
+                               <a href="http://twitter.com/Mario_Ciani#"><img src="twitter_c.jpg" border="0" alt="World Chess Links on Twitter"></a>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="titolomenu">
+                               <br>World Chess Friends<br><br>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu3b" align="center">
+                               <a href="i_google_friend_c.html"><img src="chess_friends.jpg" border="0" alt="World Chess Friends"></a>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu3" align="center">
+                               <br><span style="color: #001100">FIDE Chess Ratings</span><br><span style="color: #ff0000">Top 100 Players</span>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu3" align="center">
+                               <br><a href="http://ratings.fide.com/top.phtml?list=men"><img src="web_fide_ratings.jpg" alt="FIDE Chess Ratings - Top 100 Players" border="0"></a>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu3" align="center">
+                               <br><span style="color: #001100">FIDE Chess Ratings</span><br><span style="color: #ff0000">Top 100 Women</span>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu3" align="center">
+                               <br><a href="http://ratings.fide.com/top.phtml?list=women"><img src="web_fide_ratings.jpg" alt="FIDE Chess Ratings - Top 100 Women" border="0"></a>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu3" align="center">
+                               <br><span style="color: #001100">FIDE Chess Ratings</span><br><span style="color: #ff0000">Top 20 Juniors</span>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu3" align="center">
+                               <br><a href="http://ratings.fide.com/top.phtml?list=juniors"><img src="web_fide_ratings.jpg" alt="FIDE Chess Ratings - Top 20 Juniors" border="0"></a>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu3" align="center">
+                               <br><span style="color: #001100">FIDE Chess Ratings</span><br><span style="color: #ff0000">Top 20 Girls</span>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu3" align="center">
+                               <br><a href="http://ratings.fide.com/top.phtml?list=girls"><img src="web_fide_ratings.jpg" alt="FIDE Chess Ratings - Top 20 Girls" border="0"></a>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu3" align="center">
+                               <br><a href="http://ratings.fide.com/"><span style="color: #001100">FIDE Search Ratings</span></a>
+                           </td>
+                           </tr>
+                           <tr>
+                           <td class="menu3" align="center">
+                               <br>
+                               <a href="http://ratings.fide.com/"><img src="web_fide_ratings_b.jpg" alt="FIDE Search Ratings" border="0"></a>
+                           </td>
+                           </tr>
+                 </table>
+             </td>
+             <td width="10">
+             </td>
+             </tr>
+        </table>
+        <table align="center" cellSpacing="0" cellPadding="0" width="1210" border="0">
+                <tr>
+                <td class="font6" align="justify">
+                    <br><h3><span style="font-size: 35px"><span style="color: #001100"><b>World Chess Championship 1993 - External Links</b></span></span></h3>
+                </td>
+                </tr>
+                <tr>
+                <td class="scheda3">
+                    <img src="zzz_10.gif" alt="">&nbsp;&nbsp;&nbsp;<a href="http://www.mark-weeks.com/chess/9193fwix.htm"><span style="color: #0040ff"><b>Mark Weeks' Chess Pages - World Chess Championship - 1993 Karpov - Timman FIDE Title Match</b></span></a><br>
+                    <img src="zzz_10.gif" alt="">&nbsp;&nbsp;&nbsp;<a href="http://www.mark-weeks.com/chess/9193pwix.htm"><span style="color: #0040ff"><b>Mark Weeks' Chess Pages - World Chess Championship - 1993 Kasparov - Short PCA Title Match</b></span></a><br>
+                    <img src="zzz_10.gif" alt="">&nbsp;&nbsp;&nbsp;<a href="http://www.mark-weeks.com/chess/zip_wcc-$pca.htm"><span style="color: #0040ff"><b>Mark Weeks' Chess Pages - World Chess Championship - FIDE/PCA Chronology</b></span></a><br>
+                    <img src="zzz_10.gif" alt="">&nbsp;&nbsp;&nbsp;<a href="http://www.mark-weeks.com/chess/9193$cix.htm"><span style="color: #0040ff"><b>Mark Weeks' Chess Pages - World Chess Championship - 1991-93 Candidates Matches</b></span></a><br>
+                    <img src="zzz_10.gif" alt="">&nbsp;&nbsp;&nbsp;<a href="http://www.mark-weeks.com/chess/9193$iix.htm"><span style="color: #0040ff"><b>Mark Weeks' Chess Pages - World Chess Championship - 1990 Manila Interzonal Tournament</b></span></a><br>
+                    <img src="zzz_10.gif" alt="">&nbsp;&nbsp;&nbsp;<a href="http://en.wikipedia.org/wiki/World_chess_champion"><span style="color: #0040ff"><b>Wikipedia - World Chess Championship</b></span></a><br>
+                    <br>
+                    <img src="fr0039.gif" alt="Bulgaria">&nbsp;&nbsp;&nbsp;<a href="http://bg.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%82%D0%BE%D0%B2%D0%BD%D0%BE_%D0%BF%D1%8A%D1%80%D0%B2%D0%B5%D0%BD%D1%81%D1%82%D0%B2%D0%BE_%D0%BF%D0%BE_%D1%88%D0%B0%D1%85%D0%BC%D0%B0%D1%82_1993"><span style="color: #0040ff"><b>Wikipedia - World Chess Championship 1993</b></span></a><br>
+                    <img src="fr0006.gif" alt="Denmark">&nbsp;&nbsp;&nbsp;<a href="http://da.wikipedia.org/wiki/VM_i_skak_1993_(FIDE)"><span style="color: #0040ff"><b>Wikipedia, the free encyclopedia - VM i skak 1993 (FIDE)</b></span></a><br>
+                    <img src="fr0019.gif" alt="Germany">&nbsp;&nbsp;&nbsp;<a href="http://de.wikipedia.org/wiki/Schachweltmeisterschaft_1993"><span style="color: #0040ff"><b>Wikipedia, the free encyclopedia - Schachweltmeisterschaft 1993</b></span></a><br>
+                    <img src="fr0002.gif" alt="United Kingdom">&nbsp;&nbsp;&nbsp;<a href="http://en.wikipedia.org/wiki/World_Chess_Championship_1993"><span style="color: #0040ff"><b>Wikipedia - World Chess Championship 1993</b></span></a><br>
+                    <img src="fr0011.gif" alt="France">&nbsp;&nbsp;&nbsp;<a href="http://fr.wikipedia.org/wiki/Championnat_du_monde_d%27%C3%A9checs_1993"><span style="color: #0040ff"><b>Wikipedia, the free encyclopedia - Championnat du monde d'?checs 1993</b></span></a><br>
+                    <img src="fr0001.gif" alt="Italy">&nbsp;&nbsp;&nbsp;<a href="http://it.wikipedia.org/wiki/Campionato_del_mondo_di_scacchi_1993"><span style="color: #0040ff"><b>Wikipedia, the free encyclopedia - Campionato del mondo di scacchi 1993</b></span></a><br>
+                    <img src="fr0003.gif" alt="Spain">&nbsp;&nbsp;&nbsp;<a href="http://ca.wikipedia.org/wiki/Campionat_del_m%C3%B3n_d%27escacs_de_1993_(cl%C3%A0ssic)"><span style="color: #0040ff"><b>Wikipedia, the free encyclopedia - Campionat del m?n d'escacs de 1993 (cl?ssic)</b></span></a><br>
+                </td>
+                </tr>
+       </table>
+       <table align="center" cellSpacing="0" cellPadding="0" width="1210" border="0">
+              <tr>
+              <td class="font6" align="justify">
+                  <br><h3><span style="font-size: 35px"><span style="color: #001100"><b>World Chess Championship 1993</b></span></span></h3>
+              </td>
+              </tr>
+              <tr>
+              <td class="font5b" align="justify">
+                  <br>The World Chess Championship 1993 was held from 1990 to 1993. It was one of the most controversial in history, with incumbent World Chess Champion Garry Kasparov, and official challenger Nigel Short, splitting from FIDE, the official world governing body of chess, and playing their title match under the auspices of the Professional Chess Association. In response, FIDE stripped Kasparov of his title, and instead held a title match between Anatoly Karpov and Jan Timman.
+                  <br><br>The matches were won by Kasparov and Karpov respectively. For the first time in history, there were two rival World Chess Champions, a situation which persisted until the World Chess Championship 2006.
+                  <br><br><span style="font-size: 14px"><span style="color: #001100"><b>Qualification</b></span></span>
+                  <br><br>The final four players from the 1988-90 Candidates tournament - Karpov, Timman, Yusupov and Speelman - were seeded directly into the Candidates. They were joined by the top 11 finishers from the Interzonal, which was held as a 64-player Swiss system tournament.
+                  <br><br>These 15 players played a series of Candidates matches. If matches were tied after the allotted games, extra pairs of rapid chess games were played until one player had the lead.
+                  <br><br><img src="1993_wcc_pca.png" alt="">
+                  <br><br><span style="font-size: 14px"><span style="color: #001100"><b>PCA match</b></span></span>
+                  <br><br>The Kasparov-Short final was a best of 24, played in London, England between September and October 1993.
+                  <br><br><img src="1993_wcc_pca_b.png" alt="">
+                  <br><br><span style="font-size: 14px"><span style="color: #001100"><b>FIDE match</b></span></span>
+                  <br><br>Karpov won the best-of-24 match 12.5 to 8.5 (six wins to two, with thirteen draws).
+                  <h3><span style="color: #0000ff"><b>&nbsp;</b></span></h3>
+              </td>
+              </tr>
+       </table>
+       <table align="center" cellSpacing="0" cellPadding="0" width="1210" border="0">
+              <tr>
+              <td>
+                  &nbsp;<img src="wiki_5.jpg" alt="">
+              </td>
+              <td class="font3">
+                  &nbsp;&nbsp;&nbsp;<i>World Chess Championship 1993. (15 August 2011 at 17:45). In Wikipedia, The Free Encyclopedia. Retrieved 2 November 2009, at 19.10, from</i>
+                  <br>
+                  &nbsp;&nbsp;&nbsp;<a href="http://en.wikipedia.org/wiki/World_Chess_Championship_1993"><span style="color: #393E5B"><i><u>http://en.wikipedia.org/wiki/World_Chess_Championship_1993</u></i></span></a>
+              </td>
+              </tr>
+       </table>
+        <table align="center" cellSpacing="0" cellPadding="0" width="1250" border="0">
+               <tr>
+               <td align="left">
+                   <br><br><br><br><br><br><br>
+                   &nbsp;&nbsp;&nbsp;<span class='st_sharethis_large' ></span><span class='st_facebook_large' ></span><span class='st_twitter_large' ></span><span class='st_yahoo_large' ></span><span class='st_stumbleupon_large' ></span><span class='st_delicious_large' ></span><span class='st_blogger_large' ></span><span class='st_wordpress_large' ></span><span class='st_gbuzz_large' ></span><span class='st_email_large' ></span>
+                   <script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'ed54abe9-c475-4edf-a188-fc8e45ba816f'});</script>
+               </td>
+               </tr>
+        </table>
+        <table align="center" cellSpacing="0" cellPadding="0" width="1250" border="0">
+             <tr>
+             <td align="right">
+                 <a href="http://validator.w3.org/check?uri=referer"><img src="validazione_html40.gif" alt="Valid HTML 4.0 Transitional" height="31" width="88" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+             </td>
+             <td align="left">
+                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://jigsaw.w3.org/css-validator/validator?uri=http://www.worldchesslinks.net/worldchesslinks.css"><img src="validazione_html40_b.gif" alt="Valid CSS!" border="0" height="31" width="88" ></a>
+             </td>
+             </tr>
+       </table>
+       <table align="center" cellSpacing="0" cellPadding="0" width="1250" border="0">
+             <tr>
+             <td class="coda3">
+                 <br><br><br>&nbsp;&nbsp;&nbsp;<a href="#top"><img src="up.png" border="0" align="right" alt=""></a>
+             </td>
+             </tr>
+       </table>
+        </div>
+        </div>
+        </div>
+<!-- Fine Content -->
+
+</div>
+<!-- Fine Container -->
+<!-- Inizio Footer -->
+        <div id="footer">
+        <div id="footer_l">
+        <div id="footer_r">
+        <div id="footer_a">
+        <table align="center" cellSpacing="0" cellPadding="0" width="1250" border="0">
+               <tr>
+               <td align="left" class="coda4">
+                   &nbsp;<br>&nbsp;
+               </td>
+               <td align="right" class="coda4">
+                   &nbsp;<br>&nbsp;
+               </td>
+               </tr>
+               <tr>
+               <td align="left"class="coda2">
+                   &nbsp;&nbsp;&nbsp;? www.worldchesslinks.net all rights reserved
+               </td>
+               <td align="right" class="coda2">
+                   <a href="http://www.agenziavalbelluna.it"><span style="color: #13468E">Official Sponsor</span></a>&nbsp;&nbsp;&nbsp;
+               </td>
+               </tr>
+        </table>
+        </div>
+        </div>
+        </div>
+        </div>
+
+      <script language="JavaScript1.2" type="text/JavaScript">
+      <!--
+      var bookmarkurl="http://www.worldchesslinks.net"
+      var bookmarktitle="World Chess Links"
+      function addbookmark(){
+      if (document.all)
+      window.external.AddFavorite(bookmarkurl,bookmarktitle)
+      }
+      //-->
+      </script>
+
+<!-- start of Google Analytics Code -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-241540-7");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+<!-- End of Google Analytics Code -->
+
+</body>
+</html>

@@ -1,0 +1,2920 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8" />
+<title>Import/Catalogue - OpenStreetMap Wiki</title>
+<meta name="generator" content="MediaWiki 1.17.1" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="OpenStreetMap Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.openstreetmap.org/w/api.php?action=rsd" />
+<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=Import/Catalogue&amp;action=creativecommons" rel="meta" />
+<link rel="copyright" href="/wiki/OpenStreetMap_License" />
+<link rel="alternate" type="application/atom+xml" title="OpenStreetMap Wiki Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" /><link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr ns-0 ns-subject page-Import_Catalogue skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><script type="text/javascript">
+/* <![CDATA[ */
+document.writeln("\x3cdiv id=\"localNotice\"\x3e\x3cdiv style=\"margin-top: 2px; background-color:#E0EEE0; border-color:#666666; border-width:1px; border-style:solid;padding:1px;font-weight:bold\"\x3e\x3ca href=\"http://www.osmfoundation.org/wiki/License/We_Are_Changing_The_License\" class=\"extiw\" title=\"osmf:License/We Are Changing The License\"\x3eFind out more about OpenStreetMap\'s upcoming license change\x3c/a\x3e (\x3ca href=\"/wiki/ODbL/We_Are_Changing_The_License\" title=\"ODbL/We Are Changing The License\"\x3etranslations\x3c/a\x3e) (\x3ca href=\"/wiki/Talk:ODbL/Upcoming\" title=\"Talk:ODbL/Upcoming\"\x3ediscussion\x3c/a\x3e)\x3c/div\x3e\n\x3c/div\x3e");
+/* ]]> */
+</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">Import/Catalogue</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+				<!-- tagline -->
+				<div id="siteSub">From OpenStreetMap Wiki</div>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub"><span class="subpages">&lt; <a href="/wiki/Import" title="Import">Import</a></span></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Jump to: <a href="#mw-head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<table class="metadata plainlinks ambox" style="margin: 0px 10%;border: 1px #aaa solid;border-left: 10px #f28500 solid;background-color: #ffffaa;"><tr>
+<td class="mbox-image" style="border: none;padding: 2px 0 2px 0.9em;text-align: center;"><div style="width: 52px;">
+  <a href="/wiki/File:Ambox_important.svg" class="image"><img alt="Ambox important.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" /></a></div></td>
+<td class="mbox-text" style="border: none;padding: 0.25em 0.9em;width: 100%;text-align: center;"> This page has been suggested for clean-up. Please <a href="/wiki/Talk:Import/Catalogue#Cleanup_Request" title="Talk:Import/Catalogue">Discuss</a>. </td>
+<td class="mbox-imageright" style="border: none;padding: 2px 0.9em 2px 0;text-align: center;"><div style="width: 52px;"> <a href="/wiki/File:Broom_icon.svg" class="image"><img alt="Broom icon.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Broom_icon.svg/40px-Broom_icon.svg.png" width="40" height="40" /></a> </div></td>
+</tr>
+</table>
+<p><br />
+</p>
+<table class="metadata plainlinks ambox" style="margin: 0px 10%;border: 1px #aaa solid;border-left: 10px #b22222 solid;background-color: #ffdddd;"><tr>
+<td class="mbox-image" style="border: none;padding: 2px 0 2px 0.9em;text-align: center;"><div style="width: 52px;">
+  <a href="/wiki/File:Ambox_warning_pn.svg" class="image"><img alt="Ambox warning pn.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ambox_warning_pn.svg/40px-Ambox_warning_pn.svg.png" width="40" height="34" /></a></div></td>
+<td class="mbox-text" style="border: none;padding: 0.25em 0.9em;width: 100%;text-align: center;"> Scripted imports and automated edits should only be carried out by those with experience and understanding of the way the OpenStreetMap community create maps, and only with careful <b>planning</b> and <b>consultation</b>.<br /><br />See <a href="/wiki/Import/Guidelines" title="Import/Guidelines">Import/Guidelines</a> and <a href="/wiki/Automated_Edits/Code_of_Conduct" title="Automated Edits/Code of Conduct" class="mw-redirect">Automated Edits/Code of Conduct</a> </td>
+</tr>
+</table>
+<p><br />
+This is a list of large-scale imports of external data (i.e. data not
+collected by OSM members) into the OSM database.
+</p><p>"Large-scale" means more than a few hundred nodes or for a larger area
+like a whole country. Just think about whether information about your
+import might be interesting to other people. If yes, it probably belongs
+here.
+</p><p>Those interested in uploading bulk data to OpenStreetMap should consider <a href="/wiki/Automated_Edits/Code_of_Conduct" title="Automated Edits/Code of Conduct" class="mw-redirect">Automated_Edits/Code_of_Conduct</a>
+</p><p>Only add planned imports if the planning has reached a concrete state.
+If you only have an idea or vague plan, add it to <a href="/wiki/Potential_Datasources" title="Potential Datasources">Potential Datasources</a>.
+</p><p>Please order table by start date.
+</p>
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Community_Imports"><span class="tocnumber">1</span> <span class="toctext">Community Imports</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#One-Time_Imports"><span class="tocnumber">2</span> <span class="toctext">One-Time Imports</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Ongoing_Imports.2C_Semi-Automated"><span class="tocnumber">3</span> <span class="toctext">Ongoing Imports, Semi-Automated</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Ongoing_Imports.2C_Fully_Scripted"><span class="tocnumber">4</span> <span class="toctext">Ongoing Imports, Fully Scripted</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Digital_Orthophotos"><span class="tocnumber">5</span> <span class="toctext">Digital Orthophotos</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Digital_Rectified_Maps"><span class="tocnumber">6</span> <span class="toctext">Digital Rectified Maps</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Problematic_imports"><span class="tocnumber">7</span> <span class="toctext">Problematic imports</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Description_of_table_contents"><span class="tocnumber">8</span> <span class="toctext">Description of table contents</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Community_Imports"> Community Imports </span></h2>
+<table class="wikitable sortable">
+<tr>
+<th>Name (link to import documentation page)</th>
+<th>Data source</th>
+<th>Area</th>
+<th>License</th>
+<th>Source tag</th>
+<th>Tag prefix</th>
+<th>Status</th>
+<th>Start date</th>
+<th>End date</th>
+<th>Contact</th>
+<th>Notes</th>
+<th><a href="/wiki/ODbL" title="ODbL" class="mw-redirect">ODbL</a> OK Status</th>
+<th><a href="/wiki/Open_Database_License/Contributor_Terms" title="Open Database License/Contributor Terms">Contributor Terms</a> compatibility
+</th></tr>
+<tr>
+<td> (wheelchair) accessible toilets <a href="/wiki/Import/CBF" title="Import/CBF">Import/CBF</a></td>
+<td> <a href="http://www.cbf-da.de" class="external text" rel="nofollow">CFB Darmstadt</a> </td>
+<td> German speaking countries  </td>
+<td> Donation of data owner </td>
+<td> <tt style="background-color:#e0e0f0; white-space:pre;" dir="ltr"><a href="/wiki/Key:amenity" title="Key:amenity">amenity</a>=<a href="/w/index.php?title=Tag:amenity%3Dtoilet&amp;action=edit&amp;redlink=1" class="new" title="Tag:amenity=toilet (page does not exist)">toilet</a></tt>+<br /><tt style="background-color:#e0e0f0; white-space:pre;" dir="ltr"><a href="/wiki/Key:wheelchair" title="Key:wheelchair">wheelchair</a>=<a href="/wiki/Tag:wheelchair%3Dyes" title="Tag:wheelchair=yes" class="mw-redirect">yes</a></tt>+<br /><tt style="background-color:#e0e0f0; white-space:pre;" dir="ltr"><a href="/wiki/Key:centralkey" title="Key:centralkey">centralkey</a>=<a href="/wiki/Tag:centralkey%3Deurokey" title="Tag:centralkey=eurokey" class="mw-redirect">eurokey</a></tt>,<br /><tt style="background-color:#e0e0f0; white-space:pre;" dir="ltr"><a href="/wiki/Key:source" title="Key:source">source</a>=<a href="/w/index.php?title=Tag:source%3DCFB_Darmstadt%2B%27%27date%27%27&amp;action=edit&amp;redlink=1" class="new" title="Tag:source=CFB Darmstadt+''date'' (page does not exist)">CFB Darmstadt+<i>date</i></a></tt>,<br /><tt style="background-color:#e0e0f0; white-space:pre;" dir="ltr"><a href="/wiki/Key:website" title="Key:website">website</a>=<a href="/w/index.php?title=Tag:website%3Dhttp://www.cbf-da.de/presse/Toilettenschluessel.htm&amp;action=edit&amp;redlink=1" class="new" title="Tag:website=http://www.cbf-da.de/presse/Toilettenschluessel.htm (page does not exist)">http://www.cbf-da.de/presse/Toilettenschluessel.htm</a></tt>,<br /><tt style="background-color:#e0e0f0; white-space:pre;" dir="ltr"><a href="/w/index.php?title=Key:importID&amp;action=edit&amp;redlink=1" class="new" title="Key:importID (page does not exist)">importID</a>=<a href="/w/index.php?title=Tag:importID%3D%27%27ID%27%27&amp;action=edit&amp;redlink=1" class="new" title="Tag:importID=''ID'' (page does not exist)"><i>ID</i></a></tt>  </td>
+<td>&#160;? </td>
+<td> waiting for data </td>
+<td> Nov 2011 </td>
+<td> yearly updates </td>
+<td> <a href="/wiki/User:Lulu-Ann" title="User:Lulu-Ann">User:Lulu-Ann</a> </td>
+<td> addresses, no coordinates </td>
+<td>align=center style='background-color:lime; font-weight:bold;'| OK <span style="font-weight:normal">(own dataset)</span> </td>
+<td>&#160;?
+</td></tr>
+<tr>
+<td><a href="/wiki/Running_the_coastline_upload" title="Running the coastline upload">Coastlines</a> </td>
+<td> PGS coastlines </td>
+<td> World </td>
+<td align="center" style="background-color:#FF6666; font-weight:bold;">&#160;? </td>
+<td> PGS </td>
+<td>&#160;? </td>
+<td> in progress </td>
+<td>&#160;? </td>
+<td> (open) </td>
+<td>&#160;? </td>
+<td>- </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td><a href="/wiki/WikiProject_Import_WDB" title="WikiProject Import WDB">WDB</a></td>
+<td>CIA World Databank</td>
+<td>World</td>
+<td>PD</td>
+<td>CIA World DataBank II*</td>
+<td>?</td>
+<td>in progress</td>
+<td>?</td>
+<td>?</td>
+<td>?</td>
+<td> - </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td><a href="/wiki/Import/Catalogue/Strassen_NRW" title="Import/Catalogue/Strassen NRW">Strassen NRW</a></td>
+<td><a href="http://www.strassen.nrw.de" class="external text" rel="nofollow">Stra?en.NRW</a></td>
+<td>North Rhine-Westphalia, Germany</td>
+<td>CC-BY-SA</td>
+<td><a href="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Strassen_NRW" class="external free" rel="nofollow">http://wiki.openstreetmap.org/wiki/Import/Catalogue/Strassen_NRW</a></td>
+<td>strassen-nrw</td>
+<td>in progress</td>
+<td>2008-12-18</td>
+<td>?</td>
+<td><a href="/wiki/User:Joto" title="User:Joto">Jochen Topf</a></td>
+<td> </td>
+<td> </td>
+<td>
+</td></tr>
+<tr>
+<td>DECC Import</td>
+<td> <a href="https://www.og.berr.gov.uk/information/maps_offshore.htm" class="external text" rel="nofollow">DECC oilwells shapefile</a></td>
+<td>UK</td>
+<td>Public Domain</td>
+<td>DECC</td>
+<td>man_made=petroleum_well</td>
+<td>Finished</td>
+<td>2009-01-28</td>
+<td>2009-01-28</td>
+<td>Kaerast</td>
+<td>Worth considering updating occasionaly as licenses are revoked/created </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td><a href="/wiki/UMP2OSM_Importing" title="UMP2OSM Importing" class="mw-redirect">UMP pcPL</a></td>
+<td><a href="http://ump.waw.pl/" class="external text" rel="nofollow">UMP project</a></td>
+<td>Poland</td>
+<td>CC-BY-SA</td>
+<td><a href="http://ump.waw.pl/" class="external free" rel="nofollow">http://ump.waw.pl/</a> retrieved $date ($filename)</td>
+<td>*</td>
+<td>in progress</td>
+<td>early 2007</td>
+<td>?</td>
+<td><a href="http://forum.openstreetmap.org/viewforum.php?id=23" class="external text" rel="nofollow">forums (polish)</a></td>
+<td>Wiki (outdated): <a href="/wiki/UMP2OSM" title="UMP2OSM">1</a>, <a href="/wiki/UMP2OSM_Importing" title="UMP2OSM Importing" class="mw-redirect">2</a>  </td>
+<td align="center" style="background-color:#FF6666; font-weight:bold;"> Incompatible </td>
+<td align="center" style="background-color:#FF6666; font-weight:bold;"> Incompatible
+</td></tr>
+<tr>
+<td><a href="/wiki/Import/Catalogue/Houses_Rostock" title="Import/Catalogue/Houses Rostock">Houses of Rostock</a> </td>
+<td> Kataster-, Vermessungs- und Liegenschaftsamt Rostock </td>
+<td> Rostock, Mecklenburg-Vorpommern,Germany</td>
+<td>CC-BY-SA</td>
+<td><a href="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Houses_Rostock" class="external free" rel="nofollow">http://wiki.openstreetmap.org/wiki/Import/Catalogue/Houses_Rostock</a></td>
+<td>klv_hro</td>
+<td>finished</td>
+<td>April 2009</td>
+<td>May 2009</td>
+<td><a href="https://lists.openstreetmap.de/pipermail/meckpomm/" class="external text" rel="nofollow">Mailinglist meckpomm</a> </td>
+<td> - </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK  </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK
+</td></tr>
+<tr>
+<td><a href="/wiki/Import/Catalogue/usfo" title="Import/Catalogue/usfo">Umhv?rvisstovan</a></td>
+<td><a href="http://www.us.fo" class="external free" rel="nofollow">http://www.us.fo</a></td>
+<td>Faroe Islands</td>
+<td>PD</td>
+<td>Umhv?rvisstovan www.us.fo<br />(wrongly: Unhv?rvisstovan www.us.fo)</td>
+<td>us.fo</td>
+<td>in progress</td>
+<td>2009-07-10</td>
+<td>updated regulary</td>
+<td><a href="/w/index.php?title=User_talk:LiFo&amp;action=edit&amp;redlink=1" class="new" title="User talk:LiFo (page does not exist)">LiFo</a></td>
+<td>only Addresses</td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span></td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td> Selbstbestimmt Leben e.V. </td>
+<td> Selbstbestimmt Leben e.V. </td>
+<td> <a href="/wiki/Hannover" title="Hannover">Hannover</a> </td>
+<td> Data owner permission</td>
+<td> many </td>
+<td>  id planned <a href="/wiki/User:Kartograefin" title="User:Kartograefin">Kartograefin</a> </td>
+<td> Step 1 finished </td>
+<td> 2010-10-06 </td>
+<td> ongoing </td>
+<td> <a href="/wiki/User:Lulu-Ann" title="User:Lulu-Ann">Lulu-Ann</a> </td>
+<td> Info about accessibility in public, partly no coordinates! </td>
+<td> OK </td>
+<td>
+</td></tr>
+<tr>
+<td>Wahlbezirke Niedersachsen</td>
+<td>Accessible CD-ROM, published for blind people</td>
+<td>Niedersachsen, Germany</td>
+<td align="center" style="background-color:#FF6666; font-weight:bold;"> must be published by law (Wahlgesetz)</td>
+<td>tbd</td>
+<td>tbd</td>
+<td>planned</td>
+<td>tbd</td>
+<td>tbd</td>
+<td><a href="/wiki/User:Lulu-Ann" title="User:Lulu-Ann">User:Lulu-Ann</a></td>
+<td>If successful, CD-ROMs for other federal are available </td>
+<td> Public by voting law </td>
+<td>
+</td></tr>
+<tr>
+<td> QLD DCDB-lite </td>
+<td> Queensland Castradal boundaries. roads can be derived </td>
+<td> Victoria, Australia </td>
+<td> <a href="http://creativecommons.org/licenses/by/2.5/au/" class="external text" rel="nofollow">CC-BY 2.5 Australia</a> </td>
+<td> au.qld.dcdb_lite </td>
+<td> - </td>
+<td> as-needed  </td>
+<td> - </td>
+<td> - </td>
+<td> talk-au </td>
+<td> <a href="http://data.australia.gov.au/152" class="external text" rel="nofollow">authoratative info</a> </td>
+<td> </td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Ordnance_Survey_Opendata#VectorMap_District" title="Ordnance Survey Opendata">OS VectorMap District</a> </td>
+<td>  </td>
+<td> UK </td>
+<td> <a href="http://www.ordnancesurvey.co.uk/oswebsite/opendata/licence/docs/licence.pdf" class="external text" rel="nofollow">OS Opendata Licence</a> or <a href="http://creativecommons.org/licenses/by/3.0/" class="external text" rel="nofollow">CC-BY 3.0</a></td>
+<td> OS_OpenData_VectorMapDistrict </td>
+<td> - </td>
+<td> as-needed  </td>
+<td> - </td>
+<td> - </td>
+<td>  </td>
+<td> <a href="http://article.gmane.org/gmane.comp.gis.openstreetmap.region.gb/6516" class="external text" rel="nofollow">LWG statement on ODbL compatibility</a> <a href="https://docs.google.com/View?id=dd9g3qjp_121dzjmk5c5" class="external text" rel="nofollow">Draft LWG statement on CT compatibility</a> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(Explicit permission)</span> </td>
+<td align="center" style="background-color:YELLOW; font-weight:bold;"> Pending LWG clarification of CTs
+</td></tr>
+<tr>
+<td> GADM </td>
+<td>-  </td>
+<td> Antartica coastline, <a href="/wiki/WikiProject_Ecuador#GADM_Import" title="WikiProject Ecuador">Ecuador</a>, and others </td>
+<td align="center" style="background-color:#FF6666; font-weight:bold;">&#160;?</td>
+<td>  GADM  </td>
+<td> - </td>
+<td> -   </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td>  </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Resistenzatoscana" title="Resistenzatoscana">resistenzatoscana</a> </td>
+<td>-  </td>
+<td> <a href="/wiki/Toscana" title="Toscana">Tuscany, Italy</a> </td>
+<td> Data owner permission </td>
+<td> - </td>
+<td> -   </td>
+<td> planned </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Corine_Land_Cover_2006_%2B_GMES_Urban_Atlas_Spain" title="Corine Land Cover 2006 + GMES Urban Atlas Spain">Corine Land Cover 2006 + GMES Urban Atlas Spain</a> </td>
+<td> <a href="http://www.eea.europa.eu/data-and-maps/data/clc-2006-vector-data-version" class="external text" rel="nofollow">Corine Land Cover 2006 version 13</a>, <a href="http://www.eea.europa.eu/data-and-maps/data/urban-atlas" class="external text" rel="nofollow">GMES Urban Atlas</a> </td>
+<td> Spain </td>
+<td> <a href="http://www.eea.europa.eu/legal/copyright" class="external autonumber" rel="nofollow">[1]</a> </td>
+<td> EEA Corine Land Cover 2006; EEA GMES Urban Atlas </td>
+<td> CLC:; UA: </td>
+<td> Preliminary stages </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Four_Corine_layers_Spain_2011" title="Four Corine layers Spain 2011">Four CORINE 2006 layers for Spain</a> </td>
+<td> CORINE land cover 2006 version 13 </td>
+<td> Spain </td>
+<td> CORINE has OSM-compatible license </td>
+<td> - </td>
+<td> -   </td>
+<td> In progress</td>
+<td> 03/01/2011 </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="http://wiki.openstreetmap.org/wiki/ES:NGBE" class="external text" rel="nofollow">Nomencl?tor Geogr?fico B?sico de Espa?a, NGBE</a>  </td>
+<td> <a href="http://centrodedescargas.cnig.es/CentroDescargas/equipamiento.do?method=mostrarEquipamiento" class="external text" rel="nofollow">IGN</a> </td>
+<td> <a href="/wiki/Spain" title="Spain" class="mw-redirect">Spain</a>  </td>
+<td> <a href="http://centrodedescargas.cnig.es/CentroDescargas/documentos/FOM_956_2008.pdf" class="external text" rel="nofollow">orden FOM 956/2008.</a> </td>
+<td> source=Instituto Geogr?fico Nacional </td>
+<td> ngbe: </td>
+<td> In progress  </td>
+<td> 8 March 2011 </td>
+<td>&#160;? </td>
+<td> <a href="http://www.openstreetmap.org/user/egrn" class="external text">egrn</a> </td>
+<td> Data is licensed under a custom attribution-only license </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span></td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/ES:NGMEP" title="ES:NGMEP"> Nomencl?tor Geogr?fico de Municipios y Entidades de Poblaci?n, NGMEP</a>  </td>
+<td> <a href="http://centrodedescargas.cnig.es/CentroDescargas/equipamiento.do?method=mostrarEquipamiento" class="external text" rel="nofollow">IGN</a> </td>
+<td> <a href="/wiki/Spain" title="Spain" class="mw-redirect">Spain</a>  </td>
+<td> <a href="http://centrodedescargas.cnig.es/CentroDescargas/documentos/FOM_956_2008.pdf" class="external text" rel="nofollow">orden FOM 956/2008.</a> </td>
+<td> source=Instituto Geogr?fico Nacional </td>
+<td> none </td>
+<td> In progress  </td>
+<td> 8 September 2011 </td>
+<td>&#160;? </td>
+<td> <a href="http://www.openstreetmap.org/user/egrn" class="external text">egrn</a> </td>
+<td> Data is licensed under a custom attribution-only license </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span></td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Canada:British_Columbia:Vancouver/Imports/Surrey" title="Canada:British Columbia:Vancouver/Imports/Surrey">Surrey BC</a> </td>
+<td> <a href="http://www.surrey.ca/city-services/658.aspx" class="external text" rel="nofollow">Surrey GIS data</a> </td>
+<td> Surrey <a href="/wiki/Canada:British_Columbia" title="Canada:British Columbia">BC</a></td>
+<td>PDDL</td>
+<td><tt style="background-color:#e0e0f0; white-space:pre;" dir="ltr"><a href="/wiki/Key:source" title="Key:source">source</a>=<a href="/w/index.php?title=Tag:source%3DCity_of_Surrey_2011_GIS_data&amp;action=edit&amp;redlink=1" class="new" title="Tag:source=City of Surrey 2011 GIS data (page does not exist)">City of Surrey 2011 GIS data</a></tt> (as applicable)</td>
+<td> <tt style="background-color:#e0e0f0; white-space:pre;" dir="ltr"><a href="/w/index.php?title=Key:surrey:*&amp;action=edit&amp;redlink=1" class="new" title="Key:surrey:* (page does not exist)">surrey:*</a>=<a href="/w/index.php?title=Tag:surrey:*%3D*&amp;action=edit&amp;redlink=1" class="new" title="Tag:surrey:*=* (page does not exist)">*</a></tt> </td>
+<td> Ongoing as needed </td>
+<td> 2010 </td>
+<td> Ongoing </td>
+<td> <a href="/wiki/User:Pnorman" title="User:Pnorman">pnorman</a> </td>
+<td> Orthos also available, contact <a href="/wiki/User:Pnorman" title="User:Pnorman">pnorman</a> for more info </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PDDL Dataset)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PDDL Dataset)</span>
+</td></tr></table>
+<h2> <span class="mw-headline" id="One-Time_Imports"> One-Time Imports </span></h2>
+<table class="wikitable sortable">
+<tr>
+<th>Name</th>
+<th>Data source</th>
+<th>Area</th>
+<th>License</th>
+<th>Source tag</th>
+<th>Tag prefix</th>
+<th>Status</th>
+<th>Start date</th>
+<th>End date</th>
+<th>Contact</th>
+<th>Notes </th>
+<th> <a href="/wiki/ODbL" title="ODbL" class="mw-redirect">ODbL</a> OK Status </th>
+<th> <a href="/wiki/Open_Database_License/Contributor_Terms" title="Open Database License/Contributor Terms">Contributor Terms</a> compatibility
+</th></tr>
+<tr>
+<td><a href="/wiki/AND_Data" title="AND Data">AND</a></td>
+<td>Geodata from <a href="http://www.and.com" class="external text" rel="nofollow">AND company</a></td>
+<td><a href="/wiki/Netherlands" title="Netherlands" class="mw-redirect">Netherlands</a></td>
+<td>Explicitly donated to us to release with <a href="/wiki/OpenStreetMap_License" title="OpenStreetMap License">OpenStreetMap License</a></td>
+<td>AND</td>
+<td>AND:</td>
+<td>done</td>
+<td>July 2007</td>
+<td>Aug 2007</td>
+<td>?</td>
+<td>-</td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/TIGER" title="TIGER">TIGER</a></td>
+<td>US census bureau TIGER data</td>
+<td><a href="/wiki/WikiProject_United_States" title="WikiProject United States">USA</a></td>
+<td>Public Domain</td>
+<td>tiger_import_*</td>
+<td>tiger:</td>
+<td>done</td>
+<td>Sep 2007?</td>
+<td> </td>
+<td> </td>
+<td> Some counties already containing partial data were not uploaded</td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span></td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td><s><a href="/wiki/AND_Data" title="AND Data">AND</a></td>
+<td>Geodata from <a href="http://www.and.com" class="external text" rel="nofollow">AND company</a></td>
+<td><a href="/wiki/China" title="China" class="mw-redirect">China</a></s></td>
+<td><s>Explicitly donated to us to release with <a href="/wiki/OpenStreetMap_License" title="OpenStreetMap License">OpenStreetMap License</a></s></td>
+<td>AND</td>
+<td>AND:</td>
+<td>preupload</td>
+<td>?</td>
+<td>Not Imported</td>
+<td>?</td>
+<td> Preview at <a href="http://tile.openstreetmap.nl/" class="external autonumber" rel="nofollow">[2]</a>. Decided data too out of date. </td>
+<td style="background:#90ff90; color:black;" class="table-yes" align="center"> Not Imported </td>
+<td style="background:#90ff90; color:black;" class="table-yes" align="center"> Not Imported
+</td></tr>
+<tr>
+<td><a href="/wiki/AND_Data" title="AND Data">AND</a></td>
+<td>Geodata from <a href="http://www.and.com" class="external text" rel="nofollow">AND company</a></td>
+<td><a href="/wiki/India" title="India" class="mw-redirect">India</a></td>
+<td>Explicitly donated to us to release with <a href="/wiki/OpenStreetMap_License" title="OpenStreetMap License">OpenStreetMap License</a></td>
+<td>AND</td>
+<td>AND:</td>
+<td>done</td>
+<td>5 Feb 2007 7pm</td>
+<td>5 Feb 2007 9pm</td>
+<td>?</td>
+<td> Done</td>
+<td align="center" style="background-color:YELLOW; font-weight:bold;"> Formal Discussion Required</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/MassGIS" title="MassGIS">MassGIS</a></td>
+<td><a href="http://www.mass.gov/mgis/laylist.htm" class="external text" rel="nofollow">Commonwealth of Massachusetts</a></td>
+<td>Massachusetts, USA</td>
+<td>Attribution</td>
+<td>massgis_import_*</td>
+<td>massgis:</td>
+<td>See <a href="/wiki/MassGIS" title="MassGIS">MassGIS</a>. Some layers done.</td>
+<td>?</td>
+<td>2007?</td>
+<td>?</td>
+<td> A few areas seem to be missing.</td>
+<td align="center" style="background-color:YELLOW; font-weight:bold;"> Formal Discussion Required</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/MGC" title="MGC">MGC</a></td>
+<td><a href="http://www.gis.ms.gov/Portal/" class="external text" rel="nofollow">Mississippi Geospatial Clearinghouse</a></td>
+<td>Mississippi, USA</td>
+<td>Public Domain</td>
+<td>mgc_import_*</td>
+<td>mgc:</td>
+<td>See <a href="/wiki/MGC" title="MGC">MGC</a>. </td>
+<td>2010</td>
+<td>2011?</td>
+<td>?</td>
+<td>?</td>
+<td align="center" style="background-color:YELLOW; font-weight:bold;"> Formal Discussion Required</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/WikiProject_Austria/Import_plan.at" title="WikiProject Austria/Import plan.at">plan.at</a> </td>
+<td> <a href="http://www.compass.at/" class="external text" rel="nofollow">Compass Verlag</a> </td>
+<td> Austria </td>
+<td> CC-by-sa or oDBL </td>
+<td> plan.at </td>
+<td> inconsistent </td>
+<td>in progress </td>
+<td> December 2008 </td>
+<td> April 2009 </td>
+<td> <a href="/wiki/User:Mikel" title="User:Mikel">Mikel</a>, <a href="/wiki/User:Wolfgang_Wasserburger" title="User:Wolfgang Wasserburger">Wolfgang Wasserburger</a> </td>
+<td> unfortunately changed because of insufficient renderers see <a href="/wiki/WikiProject_Austria/plan.at" title="WikiProject Austria/plan.at">plan.at namespace</a> (in german) </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td><a href="/wiki/Frida" title="Frida">Frida</a></td>
+<td>City of Osnabr?ck data collected by Intevation</td>
+<td>Osnabr?ck, <a href="/wiki/Germany" title="Germany" class="mw-redirect">Germany</a></td>
+<td>Explicitly relicensed from GPL to CC-BY-SA for OSM release</td>
+<td>frida</td>
+<td>frida:</td>
+<td>done</td>
+<td>?</td>
+<td>?</td>
+<td><a href="/wiki/User:Ulfl" title="User:Ulfl" class="mw-redirect">Ulfl</a></td>
+<td></td>
+<td align="center" style="background-color:YELLOW; font-weight:bold;"> Formal Discussion Required</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/WikiProject_Falkland_Islands/Converting_Government-supplied_data" title="WikiProject Falkland Islands/Converting Government-supplied data">Falkland Islands</a></td>
+<td>Falkland Islands Government (Public Works Department)</td>
+<td>Falkland Islands</td>
+<td>Copyrighted, permission granted to import into OSM</td>
+<td>Falkland Islands Government (Public Works Department)</td>
+<td> </td>
+<td>done</td>
+<td>?</td>
+<td>?</td>
+<td><a href="/wiki/User:Avantman42" title="User:Avantman42">Avantman42</a></td>
+<td></td>
+<td align="center" style="background-color:YELLOW; font-weight:bold;"> Formal Discussion Required</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/REGENTE" title="REGENTE">REGENTE</a></td>
+<td>Spanish network of land surveying fixed points</td>
+<td><a href="/wiki/Spain" title="Spain" class="mw-redirect">Spain</a></td>
+<td align="center" style="background-color:#FF6666; font-weight:bold;">&#160;?</td>
+<td>IDEE</td>
+<td>ideewfs:</td>
+<td>done</td>
+<td>late 2007</td>
+<td>?</td>
+<td><a href="/wiki/User:Ivansanchez" title="User:Ivansanchez">Ivansanchez</a></td>
+<td>Data is licensed under a custom attribution-only license</td>
+<td> </td>
+<td>
+</td></tr>
+<tr>
+<td>HSRS</td>
+<td>HELPSERVICE - REMOTE SENSING spol. s r.o. <a href="http://www.bnhelp.cz" class="external free" rel="nofollow">http://www.bnhelp.cz</a></td>
+<td><a href="/wiki/Czech_Republic" title="Czech Republic" class="mw-redirect">Czech Republic</a></td>
+<td>CC-BY-SA, data explicitly given to OSM <a href="http://lists.openstreetmap.org/pipermail/talk-cz/2011-September/006826.html" class="external autonumber" rel="nofollow">[3]</a></td>
+<td>HELPSERVICE - REMOTE SENSING spol. s r.o. <a href="http://www.bnhelp.cz" class="external free" rel="nofollow">http://www.bnhelp.cz</a></td>
+<td>none</td>
+<td>done</td>
+<td>?</td>
+<td>18/10/2007</td>
+<td>?</td>
+<td></td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK  </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK
+</td></tr>
+<tr>
+<td><a href="/wiki/Merano" title="Merano">Merano</a></td>
+<td>Municipality of Merano, Italy</td>
+<td><a href="/wiki/Merano" title="Merano">Merano</a></td>
+<td><a href="/w/images/6/62/MeranoCityDataLicense.doc" class="internal" title="MeranoCityDataLicense.doc">Attribution</a></td>
+<td>merano:</td>
+<td>merano:</td>
+<td>L9 Street layer done, more to be imported</td>
+<td>Jan 2008</td>
+<td>Jan 2008</td>
+<td><a href="/wiki/User:Giovand" title="User:Giovand">giovand</a></td>
+<td></td>
+<td align="center" style="background-color:YELLOW; font-weight:bold;"> Formal Discussion Required</td>
+<td>
+</td></tr>
+<tr>
+<td>Southern <a href="/wiki/Sudan" title="Sudan" class="mw-redirect">Sudan</a></td>
+<td>Data provided by UN JLC to Mikel Maron </td>
+<td>Southern Sudan </td>
+<td>Public Domain</td>
+<td>UN JLC </td>
+<td> </td>
+<td>done </td>
+<td>10/1/08</td>
+<td>30/01/08</td>
+<td><a href="/wiki/User:Ianaf4you" title="User:Ianaf4you">ianaf4you</a></td>
+<td> </td>
+<td> </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Import/Catalogue/Japan_KSJ2_Import" title="Import/Catalogue/Japan KSJ2 Import">KSJ2</a></td>
+<td>National-Land Numerical Information</td>
+<td><a href="/wiki/WikiProject_Japan" title="WikiProject Japan">Japan</a></td>
+<td>Attribution</td>
+<td>KSJ2</td>
+<td>KSJ2:</td>
+<td>in progress</td>
+<td>Mar 2008</td>
+<td>?</td>
+<td><a href="/wiki/User:Tatata" title="User:Tatata">Tatata</a></td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD)</span>
+</td></tr>
+<tr>
+<td><a href="/wiki/Import/Catalogue/auto_gns_ar_Import" title="Import/Catalogue/auto gns ar Import">auto_gns_ar</a></td>
+<td>NGA GEOnet Names Server</td>
+<td><a href="/wiki/WikiProject_Argentina" title="WikiProject Argentina">Argentina</a></td>
+<td>Public Domain</td>
+<td>link]</td>
+<td>none</td>
+<td>done</td>
+<td>31/12/2007</td>
+<td>31/12/2007</td>
+<td><a href="/wiki/User:Zorko" title="User:Zorko">Zorko</a></td>
+<td> </td>
+<td> </td>
+<td>
+</td></tr>
+<tr>
+<td>Educamadrid</td>
+<td>Consejer?a de Educaci?n de la Comunidad de Madrid</td>
+<td><a href="/wiki/Madrid" title="Madrid">Madrid</a></td>
+<td>Attribution</td>
+<td>source:url = <a href="http://educa.madrid.org" class="external free" rel="nofollow">http://educa.madrid.org</a></td>
+<td>educamadrid:</td>
+<td>done</td>
+<td>20/05/2008</td>
+<td>21/05/2008</td>
+<td>fjamorga at madrid dot org,<a href="/wiki/User:Ivansanchez" title="User:Ivansanchez">Ivansanchez</a></td>
+<td>- </td>
+<td> </td>
+<td>
+</td></tr>
+<tr>
+<td>UHUL lesy</td>
+<td> www.uhul.cz</td>
+<td> cz</td>
+<td>Public Domain</td>
+<td> uhul:wms </td>
+<td>none (only landuse:forest) </td>
+<td>finished</td>
+<td> 6/8/08</td>
+<td>7/8/08</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Italian_Borders" title="Italian Borders">Italian Borders</a></td>
+<td>Istat - Itituto Nazionale di Statistica</td>
+<td>Italy</td>
+<td>Attribution</td>
+<td>source=Based on ISTAT data - 2001 Italian Census</td>
+<td>none</td>
+<td>done</td>
+<td>20081024</td>
+<td>20081025</td>
+<td><a href="/wiki/User:Simone" title="User:Simone">Simone</a></td>
+<td> - </td>
+<td align="center" style="background-color:YELLOW; font-weight:bold;"> Formal Discussion Required </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005" title="Import/Catalogue/Kreisgrenzen Deutschland 2005">Kreisgrenzen Deutschland 2005</a></td>
+<td>infas GEOdaten/Geofabrik</td>
+<td>Germany</td>
+<td>CC-BY-SA</td>
+<td>URL from column 1</td>
+<td>none</td>
+<td>done</td>
+<td>2008-12-30</td>
+<td>2008-12-31</td>
+<td><a href="/wiki/User:Joto" title="User:Joto">Jochen Topf</a></td>
+<td> - </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(Data explicitly given to OSM)</span> </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/IBGE_Import" title="IBGE Import">IBGE (Brazilian Geographic Office)</a></td>
+<td>IBGE</td>
+<td>Brazil</td>
+<td>Public Domain, but source citation needed (IBGE) </td>
+<td>IBGE</td>
+<td>IBGE:</td>
+<td>Finished</td>
+<td>jan - dec 2009</td>
+<td> - </td>
+<td><a href="/wiki/User:Vgeorge" title="User:Vgeorge">User:Vgeorge</a>, <a href="/wiki/User:Britoboy" title="User:Britoboy">User:britoboy</a></td>
+<td> - </td>
+<td align="center" style="background-color:YELLOW; font-weight:bold;"> PD With Conditions? </td>
+<td>
+</td></tr>
+<tr>
+<td>Goi?nia Import</td>
+<td><a href="http://www.goiania.go.gov.br/html/comdata/form_geo_mubdg.htm" class="external text" rel="nofollow">COMDATA</a></td>
+<td>Brazil - Goi?s Estate's Capital</td>
+<td>Public Domain, but source citation needed (MUBDG v2.1) </td>
+<td>MUBDG v. 21 (jul 2008) - Prefeitura de Goi?nia</td>
+<td>MUBDG:</td>
+<td>Planning conversion</td>
+<td>2010 jun</td>
+<td> - </td>
+<td><a href="/w/index.php?title=User:Yoshimit&amp;action=edit&amp;redlink=1" class="new" title="User:Yoshimit (page does not exist)">User:Yoshimit</a></td>
+<td> - </td>
+<td>  </td>
+<td> should be OK (?)
+</td></tr>
+<tr>
+<td>Tartu streets, buildings, land cover</td>
+<td>Tartu City Government, city planning agency contribution</td>
+<td><a href="http://www.openstreetmap.org/index.html?lat=58.366&amp;lon=26.722&amp;zoom=13" class="external text">Tartu city</a>, <a href="/wiki/Estonia" title="Estonia" class="mw-redirect">Estonia</a></td>
+<td>Public Domain </td>
+<td> Tartu City Government</td>
+<td>none</td>
+<td>done</td>
+<td>Jan 2009</td>
+<td> 18.01.2009 </td>
+<td><a href="/wiki/User:Jaakl" title="User:Jaakl">User:Jaakl</a> </td>
+<td> - </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td><a href="/wiki/CTRN_Friuli_Venezia_Giulia" title="CTRN Friuli Venezia Giulia">CTRN Friuli Venezia Giulia</a></td>
+<td>Amministrazione Regionale Friuli-Venezia-Giulia</td>
+<td>Italy</td>
+<td>Attribution</td>
+<td>source=Regione_Friuli-Venezia-Giulia_17620_2.100_17576</td>
+<td>none</td>
+<td>conversion to osm done, ready to upload</td>
+<td>?</td>
+<td>?</td>
+<td><a href="/wiki/User:Simone" title="User:Simone">Simone</a></td>
+<td> </td>
+<td> </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/GeoBase_Import" title="GeoBase Import">GeoBase Import</a></td>
+<td><a href="http://www.geobase.ca" class="external text" rel="nofollow">GeoBase</a></td>
+<td><a href="/wiki/Canada" title="Canada" class="mw-redirect">Canada</a></td>
+<td>Attribution</td>
+<td>source = Geobase_Import_2009</td>
+<td>geobase:</td>
+<td>In Progress</td>
+<td>Jan 2009 </td>
+<td> </td>
+<td>talk-ca@openstreetmap.org</td>
+<td> - </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(wiki/Attribution is sufficient)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(Accepted per NRCan email)</span>
+</td></tr>
+<tr>
+<td><a href="/wiki/SanGIS" title="SanGIS">SanGIS</a></td>
+<td><a href="http://www.sangis.org" class="external text" rel="nofollow">SanGIS</a></td>
+<td>San Diego County, CA, USA</td>
+<td>Public Domain </td>
+<td>SanGIS layer_name_SD public domain (<a href="http://www.sangis.org/" class="external free" rel="nofollow">http://www.sangis.org/</a>)</td>
+<td>sangis:</td>
+<td>See <a href="/wiki/SanGIS" title="SanGIS">SanGIS</a>. </td>
+<td>4/5/09</td>
+<td></td>
+<td><a href="/wiki/User:Ageitgey" title="User:Ageitgey">ageitgey</a></td>
+<td> <a href="http://www.opendataconsortium.org/newsbdy.htm" class="external text" rel="nofollow">licnse</a> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td><a href="http://wiki.openstreetmap.org/wiki/CanVec_OSM_Map_Features" class="external text" rel="nofollow">CanVec Import</a></td>
+<td><a href="http://geogratis.gc.ca/geogratis/en/product/search.do?id=28954" class="external text" rel="nofollow">Geogratis.gc.ca</a></td>
+<td><a href="/wiki/Canada" title="Canada" class="mw-redirect">Canada</a></td>
+<td>Attribution</td>
+<td>source=CanVec_Import_2009</td>
+<td>geobase:</td>
+<td>In Progress</td>
+<td>TBA </td>
+<td> est December 2009 </td>
+<td> <a href="/w/index.php?title=User:Acrosscanadatrails&amp;action=edit&amp;redlink=1" class="new" title="User:Acrosscanadatrails (page does not exist)">Acrosscanadatrails</a> &amp; talk-ca@openstreetmap.org</td>
+<td> - </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(wiki/Attribution is sufficient)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(Accepted per NRCan email)</span>
+</td></tr>
+<tr>
+<td>Canadian Protected Areas</td>
+<td><a href="http://geogratis.gc.ca/" class="external text" rel="nofollow">geogratis.gc.ca</a></td>
+<td><a href="/wiki/Canada" title="Canada" class="mw-redirect">Canada</a></td>
+<td>In Progress</td>
+<td>source=geogratis_protected </td>
+<td> geogratis_protected: </td>
+<td> In progress </td>
+<td> Jun 11 2009 </td>
+<td> July 01 2009 </td>
+<td> <a href="/w/index.php?title=User:Trafx&amp;action=edit&amp;redlink=1" class="new" title="User:Trafx (page does not exist)">trafx</a></td>
+<td> - </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(wiki/Attribution is sufficient)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(Accepted per NRCan email)</span>
+</td></tr>
+<tr>
+<td>Cape Town Street Import</td>
+<td>City of Cape Town</td>
+<td><a href="/wiki/Cape_Town" title="Cape Town">Cape Town</a></td>
+<td>Attribution</td>
+<td>source=City of Cape Town</td>
+<td>CoCT:</td>
+<td>In Progress</td>
+<td>Jan 2009 </td>
+<td> </td>
+<td> <a href="/wiki/User:Htonl" title="User:Htonl">Htonl</a>, <a href="/wiki/User:Firefishy" title="User:Firefishy">Firefishy</a> </td>
+<td> - </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK  </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK
+</td></tr>
+<tr>
+<td><a href="/wiki/Import/Catalogue/KMS" title="Import/Catalogue/KMS">KMS</a></td>
+<td>Danish National Survey and Cadastre</td>
+<td><a href="/wiki/Denmark" title="Denmark" class="mw-redirect">Denmark</a></td>
+<td>Public Domain</td>
+<td>source=KMS (2002)</td>
+<td>kms:</td>
+<td>done</td>
+<td>Feb 2009 </td>
+<td> Feb 2009 </td>
+<td> <a href="/wiki/User:Findvej" title="User:Findvej">Findvej</a></td>
+<td>addr only </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td><a href="/wiki/Import/Catalogue/ABS_Data" title="Import/Catalogue/ABS Data">ABS</a></td>
+<td>Australian Bureau of Statistics</td>
+<td><a href="/wiki/Australia" title="Australia" class="mw-redirect">Australia</a></td>
+<td>CC-BY 2.5 AU</td>
+<td>source=ABS (2006)</td>
+<td>au.gov.bs</td>
+<td>done</td>
+<td>Feb 2009 </td>
+<td> </td>
+<td> <a href="/wiki/User:Franc" title="User:Franc">Franc</a> </td>
+<td> </td>
+<td> </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/NHD" title="NHD" class="mw-redirect">NHD</a></td>
+<td>National Hydrography Dataset</td>
+<td><a href="/wiki/USA" title="USA" class="mw-redirect">USA</a></td>
+<td>Public Domain</td>
+<td>source= NHD</td>
+<td> </td>
+<td>In Progress - Selected Areas done manually</td>
+<td>Feb 2009</td>
+<td> </td>
+<td> </td>
+<td> - </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td>Stockholm borders</td>
+<td><a href="http://sbk.stockholm.se/" class="external text" rel="nofollow">Stadsbyggnadskontoret</a></td>
+<td>Sweden</td>
+<td align="center" style="background-color:#FF6666; font-weight:bold;">&#160;?</td>
+<td>?</td>
+<td>none</td>
+<td>done</td>
+<td>2008</td>
+<td>2008</td>
+<td>AxelM</td>
+<td>Phone contact with the head of SBK</td>
+<td> </td>
+<td>
+</td></tr>
+<tr>
+<td>GSM, UMTS masts</td>
+<td>Dutch <a href="http://www.antennebureau.nl" class="external text" rel="nofollow">Antennebureau</a></td>
+<td><a href="/wiki/Netherlands" title="Netherlands" class="mw-redirect">Netherlands</a></td>
+<td>Public Domain?</td>
+<td>source=Antennebureau</td>
+<td> </td>
+<td>done</td>
+<td>2008</td>
+<td> </td>
+<td> <a href="/wiki/User:Skinkie" title="User:Skinkie">Skinkie</a> </td>
+<td> </td>
+<td> </td>
+<td>
+</td></tr>
+<tr>
+<td>TERYT</td>
+<td> TERYT (official registry of Polish administrative division units)</td>
+<td> Poland  </td>
+<td> public domain </td>
+<td> </td>
+<td> teryt: </td>
+<td> in progress </td>
+<td> 2009-04-24 </td>
+<td>  </td>
+<td> <a href="/wiki/User:Jajcus" title="User:Jajcus">Jajcus</a> </td>
+<td> Meta-data for places only </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td>Airports</td>
+<td><a href="http://en.wikipedia.org" class="external text" rel="nofollow">Wikipedia</a> via <a href="http://infochimps.org" class="external text" rel="nofollow">infochimps.org</a></td>
+<td>World</td>
+<td>Wikipedia CC-BY-SA</td>
+<td>source=wikipedia</td>
+<td>none</td>
+<td>done</td>
+<td>May 2009</td>
+<td>July 2009</td>
+<td><a href="/wiki/User:Amillar" title="User:Amillar">Amillar</a></td>
+<td>Automation-assisted manual edits (not simple bulk import).  Merged with existing airport items, including GNIS points in US.  Manually aligned runways with Yahoo or Landsat photos.</td>
+<td align="center" style="background-color:YELLOW; font-weight:bold;"> Formal Discussion Required&#160;? </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Cityracks" title="Cityracks">Cityracks</a></td>
+<td> Cityracks (New York City Bicycle Parking) </td>
+<td> <a href="/wiki/New_York" title="New York">New York</a> </td>
+<td align="center" style="background-color:#FF6666; font-weight:bold;"> Creative Commons WHICH? </td>
+<td> </td>
+<td> cityracks </td>
+<td> finished </td>
+<td> Jun 2009 </td>
+<td> </td>
+<td> <a href="/wiki/User:RussNelson" title="User:RussNelson">RussNelson</a> </td>
+<td> </td>
+<td> </td>
+<td>
+</td></tr>
+<tr>
+<td> JumpStart Palestine </td>
+<td> <a href="http://palestine.maps.jsintl.org/" class="external text" rel="nofollow">JumpStart International</a> </td>
+<td> <a href="/wiki/Palestine" title="Palestine" class="mw-redirect">Palestine</a> </td>
+<td> public domain </td>
+<td> none </td>
+<td> none </td>
+<td> finished </td>
+<td> July 2009 </td>
+<td> July 2009 </td>
+<td> <a href="/wiki/User:Mikel" title="User:Mikel">Mikel</a> </td>
+<td> - </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td><a href="/wiki/Rostocker_Geb%C3%A4udeh%C3%B6hen_Import_2009" title="Rostocker Geb?udeh?hen Import 2009">Heights of houses in Rostock</a> </td>
+<td> Kataster-, Vermessungs- und Liegenschaftsamt Rostock </td>
+<td> Rostock, Mecklenburg-Vorpommern,Germany</td>
+<td>CC-BY-SA</td>
+<td> </td>
+<td>building:height</td>
+<td>finished</td>
+<td>August 2009</td>
+<td>August 2009</td>
+<td><a href="https://lists.openstreetmap.de/pipermail/meckpomm/" class="external text" rel="nofollow">Mailinglist meckpomm</a> </td>
+<td> - </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK  </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK
+</td></tr>
+<tr>
+<td><a href="/wiki/WikiProject_Nigeria#Imports" title="WikiProject Nigeria">GNS Nigeria</a> </td>
+<td> <a href="/wiki/GEOnet_Names_Server" title="GEOnet Names Server">GEONet Names Server</a> </td>
+<td> <a href="/wiki/WikiProject_Nigeria" title="WikiProject Nigeria">Nigeria</a> </td>
+<td> public domain </td>
+<td> source=GNS </td>
+<td> GNS: </td>
+<td> done </td>
+<td> Sept 2009 </td>
+<td> Sept 2009 </td>
+<td> <a href="/w/index.php?title=User:DanHomerick&amp;action=edit&amp;redlink=1" class="new" title="User:DanHomerick (page does not exist)">DanHomerick</a> </td>
+<td> - </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td><a href="/wiki/WikiProject_Corine_Land_Cover" title="WikiProject Corine Land Cover">Corine Land Cover France 06</a></td>
+<td> <a href="http://www.ifen.fr/index.php?id=88" class="external text" rel="nofollow">French ecology ministry</a> </td>
+<td> France </td>
+<td> Attribution ( archived contacts with autorities: <a href="http://lists.openstreetmap.org/pipermail/talk-fr/2009-May/009070.html" class="external autonumber" rel="nofollow">[4]</a>) </td>
+<td> Union europ?enne - SOeS, CORINE Land Cover, 2006. </td>
+<td> CLC: </td>
+<td> done </td>
+<td> 27 Sep 2009 </td>
+<td> 9 Oct 2009 </td>
+<td> pieren3@gmail.com </td>
+<td> Going further manually for overlapping polygones. </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK
+</td></tr>
+<tr>
+<td><a href="/wiki/WikiProject_Cadastre_Fran%C3%A7ais" title="WikiProject Cadastre Fran?ais" class="mw-redirect">French Cadastre</a> </td>
+<td> <a href="http://www.cadastre.gouv.fr/" class="external text" rel="nofollow">French Cadastre</a> </td>
+<td> <a href="/w/index.php?title=Landerneau&amp;action=edit&amp;redlink=1" class="new" title="Landerneau (page does not exist)">Landerneau</a> and its surroundings, France </td>
+<td> <a href="/wiki/WikiProject_Cadastre_Fran%C3%A7ais/Conditions_d%27utilisation" title="WikiProject Cadastre Fran?ais/Conditions d'utilisation">Licence Agreement</a> </td>
+<td> source=Direction g?n?rales des finances publiques -  </td>
+<td> cadastre: </td>
+<td> <a href="http://osm.le-roux.info/landerneau.html" class="external autonumber" rel="nofollow">[5]</a> </td>
+<td> October 2009 15th </td>
+<td> October 2009 16th </td>
+<td> <a href="/wiki/User:StevenLeRoux" title="User:StevenLeRoux">Steven Le Roux</a> </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK
+</td></tr>
+<tr>
+<td><a href="/wiki/BMO" title="BMO">BMO</a> </td>
+<td> Brest M?tropole Oc?ane <a href="http://www.brest-metropole-oceane.fr/" class="external text" rel="nofollow">BMO</a> </td>
+<td> <a href="/wiki/Brest" title="Brest">Brest</a> and its surroundings, France </td>
+<td> CC-by-sa </td>
+<td> source=Brest Metropole Oceane </td>
+<td> bmo: </td>
+<td> done </td>
+<td> mid-october 2009 </td>
+<td> may 2010 </td>
+<td> <a href="/wiki/User:Vdb" title="User:Vdb">vdb</a> </td>
+<td> </td>
+<td> </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/WikiProject_Cadastre_Fran%C3%A7ais" title="WikiProject Cadastre Fran?ais" class="mw-redirect">French Cadastre</a> </td>
+<td> <a href="http://www.cadastre.gouv.fr/" class="external text" rel="nofollow">French Cadastre</a> </td>
+<td> <a href="/wiki/Plouarzel" title="Plouarzel">Plouarzel</a> and its surroundings </td>
+<td> <a href="/wiki/WikiProject_Cadastre_Fran%C3%A7ais/Conditions_d%27utilisation" title="WikiProject Cadastre Fran?ais/Conditions d'utilisation"> Licence Agreement</a> </td>
+<td> source=cadastre-dgi-fr source&#160;: BMO - 20091021 </td>
+<td> cadastre: </td>
+<td> <a href="http://osm.le-roux.info/plouarzel.html" class="external autonumber" rel="nofollow">[6]</a> </td>
+<td> October 2009 21th </td>
+<td> October 2009 21th </td>
+<td> <a href="/wiki/User:StevenLeRoux" title="User:StevenLeRoux">Steven Le Roux</a> </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK
+</td></tr>
+<tr>
+<td><a href="/wiki/WikiProject_France/Rep%C3%A8res_G%C3%A9od%C3%A9siques" title="WikiProject France/Rep?res G?od?siques">French Geodesic Points</a> </td>
+<td> <a href="http://geodesie.ign.fr/" class="external text" rel="nofollow">French Geodesic Points</a> </td>
+<td> France </td>
+<td> <a href="/wiki/WikiProject_France/Rep%C3%A8res_G%C3%A9od%C3%A9siques/Autorisation" title="WikiProject France/Rep?res G?od?siques/Autorisation"> Licence Agreement</a> </td>
+<td> source=Institut G?ographique National -  </td>
+<td> none </td>
+<td> done </td>
+<td> March 2010 19th </td>
+<td> March 2010 20th </td>
+<td> <a href="/wiki/User:Eric_S" title="User:Eric S">Eric S</a> </td>
+<td> - </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td>Corine Land Cover Estonia 2006</td>
+<td> Eesti Keskkonnaministeerium (Ecology Ministry) </td>
+<td> Estonia </td>
+<td> Attribution ( archived contacts with autorities: <a href="http://lists.openstreetmap.org/pipermail/talk-fr/2009-May/009070.html" class="external autonumber" rel="nofollow">[7]</a>) </td>
+<td> Corine Land Cover Estonia import, data:2006 </td>
+<td> clc: </td>
+<td> done </td>
+<td> 02 Dec 2009 </td>
+<td> 06 Dec 2009 </td>
+<td> <a href="/wiki/User:Jaakl" title="User:Jaakl">Jaak Laineste</a> </td>
+<td> </td>
+<td>
+</td></tr>
+<tr>
+<td>Administrative borders Estonia 2006</td>
+<td> <a href="http://www.maaamet.ee/index.php?lang_id=1&amp;page_id=272&amp;menu_id=36" class="external text" rel="nofollow">Eesti Maa-amet (Estonian Land Board)</a> </td>
+<td> Estonia </td>
+<td> Attribution </td>
+<td> Maa-amet 01.06.2009 </td>
+<td> EHAK: </td>
+<td> done </td>
+<td> 02 Dec 2009 </td>
+<td> 04 Dec 2009 </td>
+<td> <a href="/wiki/User:Jaakl" title="User:Jaakl">Jaak Laineste</a> </td>
+<td> Shapefile boundaries converted to relations </td>
+<td> </td>
+<td>
+</td></tr>
+<tr>
+<td>Spanish administrative borders</td>
+<td> <a href="http://www.idee.es/" class="external text" rel="nofollow">EGRN BDLL25 dataset</a> of <a href="http://www.ign.es/" class="external text" rel="nofollow">IGN</a> </td>
+<td> Spain </td>
+<td> Attribution </td>
+<td>source=BDLL25, EGRN, Instituto Geogr?fico Nacional</td>
+<td> none </td>
+<td> done </td>
+<td> 30 Nov 2009 </td>
+<td> 31 Nov 2009 </td>
+<td> <a href="/wiki/User:Balrog" title="User:Balrog">balrog-kun</a> </td>
+<td> Shapefile boundaries converted to relations </td>
+<td> </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/NVS_Bus_stop_Import_2009" title="NVS Bus stop Import 2009">Schwerin Busstops</a> </td>
+<td> <a href="http://www.nahverkehr-schwerin.de" class="external text" rel="nofollow">NVS</a></td>
+<td> <a href="/wiki/Schwerin" title="Schwerin">Schwerin</a> (Germany) </td>
+<td> donation </td>
+<td>source=NVS</td>
+<td> none </td>
+<td> converting </td>
+<td> 15. Dec 2009 </td>
+<td>  </td>
+<td> <a href="/wiki/User:!i!" title="User:!i!">!i!</a> </td>
+<td> </td>
+<td> </td>
+<td>
+</td></tr>
+<tr>
+<td> Map Kibera </td>
+<td> <a href="http://mapkibera.org/" class="external text" rel="nofollow">Map Kibera</a> </td>
+<td> <a href="/wiki/Kenya" title="Kenya" class="mw-redirect">Kenya</a> </td>
+<td> public domain </td>
+<td> <a href="http://www.openstreetmap.org/user/Map%20Kibera" class="external autonumber">[8]</a> </td>
+<td> none </td>
+<td> complete </td>
+<td> January 11, 2009 </td>
+<td> January 11, 2009 </td>
+<td> <a href="/wiki/User:Mikel" title="User:Mikel">Mikel</a> </td>
+<td> - </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td>Aids to Navigation in Estonia.</td>
+<td> <a href="http://195.50.203.61/SLAID1EN.HTM" class="external text" rel="nofollow">Eesti Veeteede Amet (Estonian Maritime Administration)</a> </td>
+<td> Estonia </td>
+<td> Public domain </td>
+<td> Estonian Maritime Administration, 24.03.2010 </td>
+<td> none </td>
+<td> done </td>
+<td> March 2010 </td>
+<td> March 2010 </td>
+<td> <a href="/wiki/User:WikedKentaur" title="User:WikedKentaur">WikedKentaur</a> </td>
+<td> - </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Corine_Land_Cover_Romania_2006" title="Corine Land Cover Romania 2006">Corine Land Cover Romania 2006</a> </td>
+<td> European Environment Agency </td>
+<td> Romania </td>
+<td> Written permission from EEA / public domain </td>
+<td> EEA CORINE Land Cover 2006, (C) EEA, Copenhagen, 2007 </td>
+<td> CLC: </td>
+<td> In progress <a href="http://wiki.openstreetmap.org/wiki/Romania_CLC_Import" class="external text" rel="nofollow">see here</a> </td>
+<td> 01 May 2010 </td>
+<td> - </td>
+<td> <a href="/wiki/User:Stefanu" title="User:Stefanu">stefanu</a> </td>
+<td> - </td>
+<td align="center" style="background-color:YELLOW; font-weight:bold;"> Formal Discussion Required </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/CC_Presqu_Ile_de_Crozon" title="CC Presqu Ile de Crozon">Communaut? de Commune de la Presqu'?le de Crozon</a></td>
+<td>Hand made digitization over French Cadastre</td>
+<td>Presqu'?le de Crozon, Bretagne, France</td>
+<td>Compatible with OSM (CC-BY-SA/ODbL)</td>
+<td>source: Communaut? de Commune de la Presqu'?le de Crozon, 2010</td>
+<td>none</td>
+<td>done</td>
+<td> 29 may 2010</td>
+<td> 30 may 2010 </td>
+<td> <a href="/wiki/User:Vdb" title="User:Vdb">vdb</a> </td>
+<td> - </td>
+<td align="center" style="background-color:YELLOW; font-weight:bold;"> According to Contributor </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=CC_Landerneau&amp;action=edit&amp;redlink=1" class="new" title="CC Landerneau (page does not exist)">Communaut? de Communes de Landerneau</a></td>
+<td>Hand made digitization over French Cadastre (resulting changeset <a href="http://api.openstreetmap.org/api/0.6/changeset/5048886" class="external text" rel="nofollow">here</a>)</td>
+<td>Landerneau, Bretagne, France</td>
+<td>Compatible with OSM (CC-BY-SA/ODbL)</td>
+<td>source: Communaut? de Communes de Landerneau, mai 2010</td>
+<td>none</td>
+<td>done</td>
+<td> 29 may 2010</td>
+<td> 22 june 2010 </td>
+<td> <a href="/wiki/User:Pedrov" title="User:Pedrov">Pedrov</a> </td>
+<td> - </td>
+<td align="center" style="background-color:YELLOW; font-weight:bold;"> According to Contributor </td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/WikiProject_Hungary/Import%C3%A1l%C3%A1s#Corine_Land_Cover_2006" title="WikiProject Hungary/Import?l?s">Corine Land Cover Hungary 2006</a> </td>
+<td> <a href="http://www.kvvm.hu/index.php?pid=9&amp;sid=50&amp;cid=291" class="external text" rel="nofollow">K?rnyezetv?delmi ?s V?z?gyi Miniszt?rium</a> </td>
+<td> Hungary </td>
+<td> Attribution </td>
+<td> ? EEA, Koppenh?ga (2009); K?sz?tette a F?MI?a KvVM megb?z?s?b?l (2009) </td>
+<td> CLC: </td>
+<td> Preliminary stages </td>
+<td> 01 Jun 2010 </td>
+<td> - </td>
+<td> <a href="/wiki/User:Flaktack" title="User:Flaktack">flaktack</a> </td>
+<td> - </td>
+<td align="center" style="background-color:YELLOW; font-weight:bold;"> Formal Discussion Required </td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/WikiProject_Hungary/Import%C3%A1l%C3%A1s#Magyarorsz.C3.A1gi_k.C3.B6zigazgat.C3.A1si_hat.C3.A1rok" title="WikiProject Hungary/Import?l?s">Hungarian Administrative Borders</a> </td>
+<td> <a href="http://www.terport.hu/main.php?folderID=2682" class="external text" rel="nofollow">Orsz?gos Ter?letrendez?si Terv</a> - <a href="http://www.terport.hu/download.php?ctag=download&amp;docID=7830" class="external text" rel="nofollow">2. sz?m? mell?klet</a> </td>
+<td> Hungary </td>
+<td> Public Domain </td>
+<td> Orsz?gos Ter?letrendez?si Terv (2003. ?vi XXVI. t?rv?ny, m?dos?tva 2008), T?rszerkezet mell?klet (imported: 2010.01.25) </td>
+<td> - </td>
+<td> In progress </td>
+<td> 25 Jan 2010 </td>
+<td> - </td>
+<td> <a href="/wiki/User:Hunsly" title="User:Hunsly">hunsly</a> </td>
+<td> - </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td><a href="/wiki/US_National_Park_Service_Data" title="US National Park Service Data">NPS</a></td>
+<td>National Park Service</td>
+<td><a href="/wiki/USA" title="USA" class="mw-redirect">USA</a></td>
+<td>Public Domain</td>
+<td>source= NPS Data Store</td>
+<td> </td>
+<td>In Progress - Selected Areas done manually</td>
+<td>???</td>
+<td> </td>
+<td> </td>
+<td> - </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td>Girona</td>
+<td><a href="http://www.girona.cat" class="external text" rel="nofollow">Girona townhall</a></td>
+<td><a href="/wiki/Girona" title="Girona">Girona</a>, <a href="/wiki/Spain" title="Spain" class="mw-redirect">Spain</a></td>
+<td>Agreement with Spanish OSMF chapter, explicitly allows usage under ODbL</td>
+<td>source = Ajuntament de Girona</td>
+<td> </td>
+<td>In Progress - Roads done, other datasets pending</td>
+<td>June 2010</td>
+<td> </td>
+<td> <a href="/wiki/User:Ivansanchez" title="User:Ivansanchez">Ivansanchez</a> </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK </td>
+<td>?
+</td></tr>
+<tr>
+<td>Andalusia roads</td>
+<td><a href="http://www.juntadeandalucia.es" class="external text" rel="nofollow">Junta de Andaluc?a</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Andalusia" class="extiw" title="wikipedia:Andalusia">wikipedia:Andalusia</a>, <a href="/wiki/Spain" title="Spain" class="mw-redirect">Spain</a></td>
+<td>Agreement with Spanish OSMF chapter, explicitly allows usage under ODbL</td>
+<td> - </td>
+<td> </td>
+<td>In Progress - Pending import scripts customized to the amount of data</td>
+<td>Feb 2010</td>
+<td> </td>
+<td> <a href="/wiki/User:Ivansanchez" title="User:Ivansanchez">Ivansanchez</a> </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK </td>
+<td>?
+</td></tr>
+<tr>
+<td><a href="/wiki/SC_GIS_Import" title="SC GIS Import">SC GIS</a></td>
+<td> South Carolina Landmarks </td>
+<td> <a href="/wiki/South_Carolina" title="South Carolina">South Carolina</a> </td>
+<td> Public Domain </td>
+<td> </td>
+<td> scgis-shp: </td>
+<td> in progress </td>
+<td>  </td>
+<td> </td>
+<td> <a href="/wiki/User:MikeN" title="User:MikeN">MikeN</a> </td>
+<td> - </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td><a href="/wiki/Import/Catalogue/Naturbase" title="Import/Catalogue/Naturbase">Naturbase</a> </td>
+<td> Direktoratet for naturforvaltning </td>
+<td> <a href="/wiki/Norway" title="Norway" class="mw-redirect">Norway</a> </td>
+<td> Attribution </td>
+<td> Naturbase </td>
+<td> naturbase:</td>
+<td> planning </td>
+<td> Not yet </td>
+<td> </td>
+<td> <a href="/wiki/User:Gustavf" title="User:Gustavf">GustavF</a> </td>
+<td> </td>
+<td> </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Metropolitan_Council" title="Metropolitan Council">Metropolitan Council</a></td>
+<td>Metropolitan Council</td>
+<td>Twin Cities Region - Minneapolis St Paul, Minnesota, USA</td>
+<td>public domain, recommends attribution</td>
+<td>metc_import_*</td>
+<td>metcouncil:</td>
+<td>See <a href="/w/index.php?title=MetroGIS&amp;action=edit&amp;redlink=1" class="new" title="MetroGIS (page does not exist)">MetroGIS</a>. Not Started</td>
+<td>?</td>
+<td>?</td>
+<td><a href="/wiki/User:Mcguirmm" title="User:Mcguirmm">Matt McGuire</a></td>
+<td> - </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td>Veneto</td>
+<td>Amministrazione Regionale del Veneto</td>
+<td>Italy</td>
+<td>Attribution</td>
+<td>source=<br />Regione_del_Veneto_<br />LR28_16.7.1976_<br />Formazione_CTR_auth_<br />39164-5700-1100_23.01.2009</td>
+<td>none</td>
+<td>planning conversion</td>
+<td>?</td>
+<td>?</td>
+<td><a href="/wiki/User:Simone" title="User:Simone">Simone</a> </td>
+<td> </td>
+<td> </td>
+<td>
+</td></tr>
+<tr>
+<td>Lombardia</td>
+<td>Amministrazione Regionale della Lombardia</td>
+<td>Italy</td>
+<td>Attribution</td>
+<td>source=TBA</td>
+<td>none</td>
+<td>planning</td>
+<td>?</td>
+<td>?</td>
+<td><a href="/wiki/User:Simone" title="User:Simone">Simone</a></td>
+<td> </td>
+<td> </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Zenbu" title="Zenbu">Zenbu</a></td>
+<td><a href="http://www.zenbu.co.nz/about.html" class="external text" rel="nofollow">Zenbu</a> business search engine</td>
+<td><a href="/wiki/New_Zealand" title="New Zealand" class="mw-redirect">New Zealand</a></td>
+<td><a href="http://creativecommons.org/licenses/by/3.0/nz/" class="external text" rel="nofollow">CC-BY 3.0 (New Zealand)</a></td>
+<td>not decided</td>
+<td>none</td>
+<td>developing import process</td>
+<td>?</td>
+<td>?</td>
+<td><a href="/wiki/User_talk:Myfanwy" title="User talk:Myfanwy">User_talk:Myfanwy</a> </td>
+<td> </td>
+<td> </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Manawatu_District_Council&amp;action=edit&amp;redlink=1" class="new" title="Manawatu District Council (page does not exist)">Manawatu District Council</a></td>
+<td><a href="http://www.mdc.govt.nz" class="external text" rel="nofollow">Manawatu District Council</a> </td>
+<td><a href="/wiki/New_Zealand" title="New Zealand" class="mw-redirect">New Zealand</a></td>
+<td><a href="http://creativecommons.org/licenses/by/3.0/nz/" class="external text" rel="nofollow">CC-BY 3.0 (New Zealand)</a></td>
+<td>not decided</td>
+<td>none</td>
+<td>import layers from Koordinates</td>
+<td>?</td>
+<td>?</td>
+<td><a href="/w/index.php?title=User_talk:Barnaclebarnes&amp;action=edit&amp;redlink=1" class="new" title="User talk:Barnaclebarnes (page does not exist)">User_talk:barnaclebarnes</a> </td>
+<td> </td>
+<td> </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/LINZ" title="LINZ">LINZ</a></td>
+<td><a href="http://linz.govt.nz" class="external text" rel="nofollow">Land Information New Zealand</a></td>
+<td><a href="/wiki/New_Zealand" title="New Zealand" class="mw-redirect">New Zealand</a></td>
+<td>crown copyright/attribution</td>
+<td>not decided</td>
+<td>none</td>
+<td>devising method of attributing data</td>
+<td>?</td>
+<td><a href="/wiki/User_talk:Myfanwy" title="User talk:Myfanwy">User_talk:Myfanwy</a></td>
+<td><a href="/wiki/User_talk:Myfanwy" title="User talk:Myfanwy">User_talk:Myfanwy</a> </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK  </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK
+</td></tr>
+<tr>
+<td>Slovenia - mountain peaks</td>
+<td><a href="http://www.globalvision.si/" class="external text" rel="nofollow">Globalvision d.o.o.</a></td>
+<td><a href="/wiki/Slovenia" title="Slovenia" class="mw-redirect">Slovenia</a></td>
+<td>Explicitly donated to us to release with <a href="/wiki/OpenStreetMap_License" title="OpenStreetMap License">OpenStreetMap License</a></td>
+<td>Globalvision.si</td>
+<td>none</td>
+<td>planned</td>
+<td>?</td>
+<td>?</td>
+<td><a href="/wiki/User:Stefanb" title="User:Stefanb">User:Stefanb</a></td>
+<td> 9345 peaks with name and height </td>
+<td> </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/NaPTAN" title="NaPTAN">NaPTAN</a> - UK public transport points</td>
+<td>Department for Transport</td>
+<td><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td>
+<td>A one-time CC-BY-SA export for OpenStreetMap</td>
+<td>naptan_import_*</td>
+<td>naptan:</td>
+<td>Preliminary stages</td>
+<td></td>
+<td></td>
+<td>See wiki pages</td>
+<td> - </td>
+<td align="center" style="background-color:YELLOW; font-weight:bold;"> Formal Discussion Required </td>
+<td>
+</td></tr>
+<tr>
+<td>Arezzo</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>?</td>
+<td>?</td>
+<td>?</td>
+<td> </td>
+<td> </td>
+<td>
+</td></tr>
+<tr>
+<td>Sk?neleden</td>
+<td><a href="http://www.skane.se/" class="external text" rel="nofollow">Region Sk?ne</a></td>
+<td>Sweden</td>
+<td>CC-BY-SA</td>
+<td>source=Region Sk?ne</td>
+<td>none</td>
+<td>Finished</td>
+<td>Jan 2010</td>
+<td>Feb 2010</td>
+<td><a href="/wiki/User:Rycee" title="User:Rycee">User:Rycee</a></td>
+<td> - </td>
+<td align="center" style="background-color:YELLOW; font-weight:bold;"> Formal Discussion Required</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Dutch_Busstops&amp;action=edit&amp;redlink=1" class="new" title="Dutch Busstops (page does not exist)">Dutch Busstops</a>  </td>
+<td> CXX </td>
+<td> The Netherlands </td>
+<td> CC-BY-SA </td>
+<td> source=cxx </td>
+<td> cxx: </td>
+<td> Finished  </td>
+<td> 2010 </td>
+<td>  </td>
+<td> <a href="/wiki/User:Skinkie" title="User:Skinkie">Skinkie</a> </td>
+<td> </td>
+<td>&#160;? </td>
+<td>
+</td></tr>
+<tr>
+<td>Dracos postboxes</td>
+<td>Postbox locations from dracos.co.uk</td>
+<td>UK</td>
+<td>In the public domain</td>
+<td></td>
+<td></td>
+<td>Imported for only two postcode areas</td>
+<td>2009</td>
+<td>2009</td>
+<td>?</td>
+<td>-</td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td>QLD Parks  </td>
+<td> Queensland national parks, state forests and conservation areas </td>
+<td> Queensland, Australia </td>
+<td> CC-BY </td>
+<td> dds.qld.gov.au No such URL perhaps dds.information.qld.gov.au/dds </td>
+<td> - </td>
+<td> In progress  </td>
+<td> July 2010 </td>
+<td> - </td>
+<td> <a href="/wiki/User:Doctau" title="User:Doctau">James Livingston</a> </td>
+<td> </td>
+<td>&#160;? </td>
+<td>
+</td></tr>
+<tr>
+<td>SA Parks  </td>
+<td> <a href="http://data.australia.gov.au/589" class="external text" rel="nofollow">South Australia National parks and Conservation Areas</a> </td>
+<td> South Australia, Australia </td>
+<td> <a href="http://creativecommons.org/licenses/by/2.5/au/" class="external text" rel="nofollow">CC-BY 2.5 (Australia)</a> </td>
+<td> source_ref = data.australia.gov.au/589 <br /> attribution = www.naturemaps.sa.gov.au </td>
+<td> - </td>
+<td> Done        </td>
+<td> March 2010 </td>
+<td> October 2010 </td>
+<td> <a href="/wiki/User:Doctau" title="User:Doctau">Markus_g</a> </td>
+<td> </td>
+<td>&#160;? </td>
+<td>
+</td></tr>
+<tr>
+<td>QLD Police  </td>
+<td> Queensland police stations </td>
+<td> Queensland, Australia </td>
+<td align="center" style="background-color:#FF6666; font-weight:bold;">&#160;? </td>
+<td>&#160;? </td>
+<td>&#160;? </td>
+<td> Done  </td>
+<td> December 2009 </td>
+<td> December 2009 </td>
+<td>&#160;? </td>
+<td> </td>
+<td>&#160;? </td>
+<td>
+</td></tr>
+<tr>
+<td>BP Australia  </td>
+<td> BP service stations </td>
+<td> Australia </td>
+<td align="center" style="background-color:#FF6666; font-weight:bold;"> Unknown </td>
+<td>&#160;? </td>
+<td>&#160;? </td>
+<td> Done  </td>
+<td> December 2009 </td>
+<td> December 2009 </td>
+<td> <a href="/wiki/User:JohnSmith" title="User:JohnSmith">John Smith</a> </td>
+<td> Data source seem to be <a href="http://www.bp.com/iframe.do?categoryId=9026935&amp;contentId=7049357" class="external text" rel="nofollow">here</a>.  </td>
+<td align="center" style="background-color:#FF6666; font-weight:bold;"> Importer will not reveal source or license </td>
+<td align="center" style="background-color:#FF6666; font-weight:bold;"> Importer will not reveal source or license
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Import/BP_Australia&amp;action=edit&amp;redlink=1" class="new" title="Import/BP Australia (page does not exist)">BP Australia</a> </td>
+<td> <a href="http://www.bp.com/iframe.do?categoryId=9026935&amp;contentId=7049357" class="external text" rel="nofollow">BP service stations</a> </td>
+<td> Australia </td>
+<td> Explicit permission to use without any restriction </td>
+<td> bp_au </td>
+<td> none </td>
+<td> Not yet imported  </td>
+<td> January 2012 </td>
+<td> - </td>
+<td> <a href="/wiki/User:Ewmjc" title="User:Ewmjc">Michael Collinson</a> </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(no restrictions)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(no restrictions)</span>
+</td></tr>
+<tr>
+<td>Caltex Australia  </td>
+<td> Caltex service stations </td>
+<td> Australia </td>
+<td align="center" style="background-color:#FF6666; font-weight:bold;"> Unknown </td>
+<td>&#160;? </td>
+<td>&#160;? </td>
+<td> Done  </td>
+<td> February 2010 </td>
+<td> February 2010 </td>
+<td> <a href="/wiki/User:JohnSmith" title="User:JohnSmith">John Smith</a> </td>
+<td> </td>
+<td align="center" style="background-color:#FF6666; font-weight:bold;"> Importer will not reveal source or license </td>
+<td align="center" style="background-color:#FF6666; font-weight:bold;"> Importer will not reveal source or license
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Import/Caltex_Australia&amp;action=edit&amp;redlink=1" class="new" title="Import/Caltex Australia (page does not exist)">Caltex Australia</a> </td>
+<td> <a href="http://www.caltex.com.au/HelpCentre/SiteLocator/Pages/FindAServiceStation.aspx" class="external text" rel="nofollow">Caltex service stations</a> </td>
+<td> Australia </td>
+<td align="center" style="background-color:YELLOW; font-weight:bold;"> Being checked </td>
+<td> caltex_au </td>
+<td> none </td>
+<td> License enquiry  </td>
+<td> January 2012 </td>
+<td> - </td>
+<td> <a href="/wiki/User:Ewmjc" title="User:Ewmjc">Michael Collinson</a> </td>
+<td> </td>
+<td align="center" style="background-color:YELLOW; font-weight:bold;"> Being checked </td>
+<td align="center" style="background-color:YELLOW; font-weight:bold;"> Being checked
+</td></tr>
+<tr>
+<td><a href="http://www.gnb.nsw.gov.au/" class="external text" rel="nofollow">NSW Geographic Names Board</a>  </td>
+<td> <a href="http://www.gnb.nsw.gov.au/name_search" class="external text" rel="nofollow">Geographic Names Board places</a> </td>
+<td> NSW, Australia </td>
+<td align="center" style="background-color:YELLOW; font-weight:bold;">  <a href="http://www.gnb.nsw.gov.au/copyright" class="external text" rel="nofollow">(NSW?)Copyright Act 1968</a> </td>
+<td>? </td>
+<td>&#160;? </td>
+<td> Done  </td>
+<td> November 2007 </td>
+<td> November 2008 </td>
+<td> <a href="/wiki/User:Swampwallaby" title="User:Swampwallaby">Brent Easton</a> </td>
+<td> </td>
+<td align="center" style="background-color:YELLOW; font-weight:bold;"> non-commercial use being checked with NSW GNB </td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Australian_Bureau_Of_Meteorology/ImportBureau_of_Meteorology" title="Australian Bureau Of Meteorology/ImportBureau of Meteorology" class="mw-redirect">Bureau of Meteorology</a>  </td>
+<td> <a href="ftp://ftp.bom.gov.au/anon2/home/ncc/metadata/sitelists/" class="external text" rel="nofollow">GWeather stations</a> </td>
+<td> Australia </td>
+<td> <a href="http://www.bom.gov.au/other/copyright.shtml" class="external text" rel="nofollow">Copyright Page</a> Possibly meaning <a href="http://creativecommons.org/licenses/by/2.5/au/" class="external text" rel="nofollow">CC-BY 2.5 (Australia)</a> </td>
+<td>&#160;? </td>
+<td>&#160;? </td>
+<td> Done  </td>
+<td> May 2010 </td>
+<td> June 2010 </td>
+<td> <a href="/wiki/User:JohnSmith" title="User:JohnSmith">John Smith</a> </td>
+<td>  </td>
+<td>&#160;? </td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Data.gov.au/ACT&amp;action=edit&amp;redlink=1" class="new" title="Data.gov.au/ACT (page does not exist)">ACT Schools</a>  </td>
+<td> <a href="http://data.australia.gov.au/21" class="external text" rel="nofollow">ACT schools</a> </td>
+<td> ACT, Australia </td>
+<td> <a href="http://creativecommons.org/licenses/by/2.5/au/" class="external text" rel="nofollow">CC-BY 2.5 (Australia)</a> </td>
+<td>&#160;? </td>
+<td>&#160;? </td>
+<td> Done  </td>
+<td> November 2009 </td>
+<td> November 2009 </td>
+<td> &#160;? </td>
+<td> </td>
+<td>&#160;? </td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Data.gov.au/ACT&amp;action=edit&amp;redlink=1" class="new" title="Data.gov.au/ACT (page does not exist)">ACT Toilets</a>  </td>
+<td> <a href="http://data.australia.gov.au/55" class="external text" rel="nofollow">TOLT ? Public Toilets (ACT)</a> </td>
+<td> ACT, Australia </td>
+<td> <a href="http://creativecommons.org/licenses/by/2.5/au/" class="external text" rel="nofollow">CC-BY 2.5 (Australia)</a> </td>
+<td>&#160;? </td>
+<td>&#160;? </td>
+<td> Done  </td>
+<td> November 2009 </td>
+<td> November 2009 </td>
+<td>&#160;? </td>
+<td> </td>
+<td>&#160;? </td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Data.australia.gov.au/ACT" title="Data.australia.gov.au/ACT">ACT BBQs</a>  </td>
+<td> <a href="http://data.australia.gov.au/18" class="external text" rel="nofollow">ACT barbecues</a> </td>
+<td> ACT, Australia </td>
+<td> <a href="http://creativecommons.org/licenses/by/2.5/au/" class="external text" rel="nofollow">CC-BY 2.5 (Australia)</a> </td>
+<td>&#160;? </td>
+<td>&#160;? </td>
+<td> Done  </td>
+<td> November 2009 </td>
+<td> November 2009 </td>
+<td> &#160;? </td>
+<td> </td>
+<td>&#160;? </td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Data.australia.gov.au/Victoria" title="Data.australia.gov.au/Victoria">Victoria Police</a>  </td>
+<td> <a href="http://data.australia.gov.au/406" class="external text" rel="nofollow">Victorian police stations</a> </td>
+<td> Victoria, Australia </td>
+<td> <a href="http://creativecommons.org/licenses/by/2.5/au/" class="external text" rel="nofollow">CC-BY 2.5 (Australia)</a> </td>
+<td>&#160;? </td>
+<td>&#160;? </td>
+<td> Done  </td>
+<td> December 2009 </td>
+<td> December 2009 </td>
+<td>&#160;? </td>
+<td>  </td>
+<td>&#160;? </td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Wilderness.net" title="Wilderness.net">Wilderness.net</a>  </td>
+<td> US Designated Wilderness Areas </td>
+<td> <a href="/wiki/USA" title="USA" class="mw-redirect">USA</a>  </td>
+<td> Public Domain </td>
+<td> Wilderness.net </td>
+<td> uswilderness: </td>
+<td> Trial  </td>
+<td> July 2010 </td>
+<td>&#160;? </td>
+<td> <a href="/wiki/User:Eburrows" title="User:Eburrows">User:Eburrows</a> </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td> [<a href="http://www.aims.org.af/" class="external text" rel="nofollow">| AIMS</a>]  </td>
+<td> Afghanistan Roads </td>
+<td> <a href="/w/index.php?title=Afghanistan&amp;action=edit&amp;redlink=1" class="new" title="Afghanistan (page does not exist)">Afghanistan</a>  </td>
+<td> ODbl (and permission from AIMS) </td>
+<td> AIMS </td>
+<td> AIMS </td>
+<td> ongoing  </td>
+<td> September 2010 </td>
+<td> October 2010 </td>
+<td> <a href="/wiki/User:Wonderchook" title="User:Wonderchook">User:wonderchook</a> </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(ODbl Dataset)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(ODbl)</span>
+</td></tr>
+<tr>
+<td> Administrative boundaries Kanton Z?rich  </td>
+<td> Baudirektion Kanton Z?rich, ARV, GIS-Zentrum </td>
+<td> Switzerland </td>
+<td> Verbal indication that attribution is sufficient </td>
+<td> Baudirektion Kanton Z?rich, ARV, GIS-Zentrum  </td>
+<td>&#160;? </td>
+<td> Done </td>
+<td> April 2009 </td>
+<td> April 2009 </td>
+<td> <a href="/w/index.php?title=User:Mcdmx&amp;action=edit&amp;redlink=1" class="new" title="User:Mcdmx (page does not exist)">User:mcdmx</a>  </td>
+<td> 2nd hand info </td>
+<td>&#160;? </td>
+<td>&#160;?
+</td></tr>
+<tr>
+<td><a href="/wiki/Montevideo_GIS" title="Montevideo GIS">Montevideo GIS</a> </td>
+<td> <a href="http://intgis.montevideo.gub.uy/" class="external text" rel="nofollow">Montevideo GIS</a> </td>
+<td> Montevideo, Uruguay </td>
+<td> Public domain </td>
+<td> <a href="http://intgis.montevideo.gub.uy" class="external free" rel="nofollow">http://intgis.montevideo.gub.uy</a> </td>
+<td> mvdgis: </td>
+<td> Conversion done, planning merge with current data </td>
+<td> August 2010 </td>
+<td>&#160;?</td>
+<td><a href="/wiki/User:MaxMz" title="User:MaxMz">Maximo Martinez</a></td>
+<td> - </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td>Manitoba Lands Initiative Buildings </td>
+<td> <a href="https://mli2.gov.mb.ca/" class="external text" rel="nofollow">MLI Website</a> </td>
+<td> Manitoba, Canada </td>
+<td> <a href="https://mli2.gov.mb.ca/disclaimer/index_terms_register.html" class="external text" rel="nofollow">License </a> Free to use, royalty free, but needs to be attributed. </td>
+<td>Conversion complete, merging in with data as I import Canvec </td>
+<td> Source:Manitoba Lands Initiative </td>
+<td>&#160;? </td>
+<td> September 2010 </td>
+<td> Ongoing </td>
+<td> <a href="/wiki/User:Tygunn" title="User:Tygunn">User:tygunn</a> </td>
+<td> Manitoba Lands Initiative Dataset </td>
+<td> </td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="http://www.ourairports.com" class="external free" rel="nofollow">http://www.ourairports.com</a>  </td>
+<td> ourairports.com </td>
+<td> World  </td>
+<td> Public Domain (see <a href="http://www.ourairports.com/data" class="external free" rel="nofollow">http://www.ourairports.com/data</a>) </td>
+<td> ourairports.com </td>
+<td>  </td>
+<td> Complete  </td>
+<td> Dec 2010 </td>
+<td> Dec 2010 </td>
+<td> <a href="/wiki/User:Bcrosby" title="User:Bcrosby">User:bcrosby</a> </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td> Rybinsk, Russia  </td>
+<td> Administration of Rybinsk </td>
+<td> Rybinsk, Russia  </td>
+<td>&#160;? </td>
+<td>&#160;? </td>
+<td>  </td>
+<td> done  </td>
+<td>&#160;? </td>
+<td>&#160;? </td>
+<td>&#160;? </td>
+<td> </td>
+<td>&#160;? </td>
+<td>&#160;?
+</td></tr>
+<tr>
+<td><a href="/wiki/Openseamap/List_of_Lights_Import" title="Openseamap/List of Lights Import" class="mw-redirect">List of Lights</a></td>
+<td><a href="http://www.nga.mil/maritime/" class="external text" rel="nofollow">US NGA</a></td>
+<td>World</td>
+<td>Public Domain</td>
+<td>LOL</td>
+<td><a href="/wiki/OpenSeaMap/Lights_Data_Model" title="OpenSeaMap/Lights Data Model">seamark:*=*</a></td>
+<td>in progress</td>
+<td>asap</td>
+<td>tbd.</td>
+<td><a href="/wiki/User:Rahra" title="User:Rahra">Rahra</a></td>
+<td>see <a href="/wiki/Openseamap/List_of_Lights_Import" title="Openseamap/List of Lights Import" class="mw-redirect">LoL import page</a> for details. </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span></td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td> <a href="http://www.openstreetmap.org/browse/changeset/7225623" class="external text">ATMs of Saratov, Russia</a>  </td>
+<td> <a href="http://bankomat.sarmarket.com" class="external text" rel="nofollow">bankomat.sarmarket.com</a>, owner - <a href="http://wersoo.habrahabr.ru/" class="external text" rel="nofollow">wersoo</a> </td>
+<td> Saratov, Russia  </td>
+<td> CC-BY-SA </td>
+<td>&#160;? </td>
+<td>  </td>
+<td> done  </td>
+<td> 8 february 2011 </td>
+<td> 8 february 2011 </td>
+<td>&#160;? </td>
+<td> </td>
+<td>&#160;? </td>
+<td>&#160;?
+</td></tr>
+<tr>
+<td> Charging stations for electric vehicles by RWE  </td>
+<td> <a href="/wiki/DE:Kommunikation/RWE/e-mobility" title="DE:Kommunikation/RWE/e-mobility">DE:Kommunikation/RWE/e-mobility</a> </td>
+<td> Germany and Central Europe  </td>
+<td> CC-BY-SA 2.0, ODBL 1.0 </td>
+<td> source = RWE Effizienz GmbH, Dortmund </td>
+<td>  </td>
+<td> done  </td>
+<td> 03.05.2011 </td>
+<td> 05.05.2011 </td>
+<td> via <a href="http://www.openstreetmap.org/user/eladestationen" class="external text">User:eladestationen</a> </td>
+<td> Regular import planned </td>
+<td>&#160;? </td>
+<td>&#160;?
+</td></tr>
+<tr>
+<td> <a href="/wiki/MOL_group_fuel_station_import" title="MOL group fuel station import">MOL group fuel station POI-s</a> </td>
+<td> MOL group Retail division</td>
+<td> Central Europe  </td>
+<td>&#160;?</td>
+<td> MOL </td>
+<td>  </td>
+<td> planned</td>
+<td> 19.May.2011 </td>
+<td> - </td>
+<td> User:MOL Group service stations </td>
+<td> Regular import planned </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/EN:Switzerland/DIDOK" title="EN:Switzerland/DIDOK">Swiss public transport stops</a>  </td>
+<td> <a href="http://www.bav.admin.ch/dokumentation/publikationen/00475/01497/index.html" class="external text" rel="nofollow">BAV</a> </td>
+<td> Switzerland </td>
+<td> written agreement from BAV </td>
+<td> Bundesamt f?r Verkehr (BAV), DIDOK 2009 </td>
+<td> </td>
+<td> Done </td>
+<td> 2010 </td>
+<td> 2010 </td>
+<td> <a href="/wiki/User:Datendelphin" title="User:Datendelphin">User:datendelphin</a> </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK  </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK
+</td></tr>
+<tr>
+<td> <a href="/wiki/VRS/Haltestellenimport" title="VRS/Haltestellenimport">VRS public transport stops</a> </td>
+<td> <a href="http://www.vrsinfo.de" class="external text" rel="nofollow">Verkehrsverbund Rhein-Sieg</a> </td>
+<td> Germany (area Cologne/Bonn) </td>
+<td> published by VRS explicitly for import into OSM </td>
+<td> </td>
+<td> VRS: </td>
+<td> ongoing </td>
+<td> April 2011 </td>
+<td> August 2011 </td>
+<td> <a href="/wiki/User:Lonvia" title="User:Lonvia">User:lonvia</a> </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK  </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK
+</td></tr>
+<tr>
+<td> <a href="http://forum.openstreetmap.org/viewtopic.php?id=12981" class="external text" rel="nofollow">Dzerzhinsk, Russia</a> </td>
+<td> ScanEx </td>
+<td> Dzerzhinsk, Russia </td>
+<td>&#160;? </td>
+<td>&#160;? </td>
+<td>&#160;? </td>
+<td> done </td>
+<td> July 2011 </td>
+<td> August 2011 </td>
+<td> desilex? </td>
+<td> </td>
+<td>&#160;? </td>
+<td>&#160;?
+</td></tr></table>
+<h2> <span class="mw-headline" id="Ongoing_Imports.2C_Semi-Automated"> Ongoing Imports, Semi-Automated </span></h2>
+<p>These imports have been manually prepared or partially scripted:
+</p>
+<table class="wikitable sortable">
+<tr>
+<th>Name </th>
+<th> Data source </th>
+<th> Area </th>
+<th> License </th>
+<th> Source tag </th>
+<th> Tag prefix </th>
+<th> Status </th>
+<th> Start date </th>
+<th> End date </th>
+<th> Contact </th>
+<th> Notes </th>
+<th> <a href="/wiki/Open_Database_License/Contributor_Terms" title="Open Database License/Contributor Terms">Contributor Terms</a> compatibility
+</th></tr>
+<tr>
+<td><a href="/wiki/YahooJapanALPS_Data" title="YahooJapanALPS Data">Yahoo!Japan Alps</a></td>
+<td> Yahoo! Japan Alps Map data </td>
+<td> Japan </td>
+<td> Explicitly donated to OSMFJ, and permit OSMFJ to import in terms of CC-BY-SA/ODbL </td>
+<td> YahooJapan/ALPSMAP </td>
+<td> yh: </td>
+<td> ongoing </td>
+<td> March 2011 </td>
+<td> No end date planned </td>
+<td> <a href="/wiki/User:Miurahr" title="User:Miurahr">Hiroshi Miura(OSM Foundation Japan)</a>, info@osmf.jp </td>
+<td> Yahoo!Japan announce 6th, March, 2011 they provide their ex-used map data that is originally owned by Alps Corporation(merged into Y!J). There were Steve and Hurricane when Y!J pressed it in Tokyo. </td>
+<td> Yes
+</td></tr>
+<tr>
+<td><a href="/wiki/DC/GIS" title="DC/GIS" class="mw-redirect">DC/GIS</a></td>
+<td>Washington DC GIS</td>
+<td>DC GIS Department</td>
+<td>Opened Copyright</td>
+<td>DC_GIS:*</td>
+<td>DC_GIS:</td>
+<td>ongoing</td>
+<td>August 2009</td>
+<td>No end date planned</td>
+<td><a href="/wiki/User:AndrewTurner" title="User:AndrewTurner">Andrew Turner</a>, <a href="/w/index.php?title=User:KateChapman&amp;action=edit&amp;redlink=1" class="new" title="User:KateChapman (page does not exist)">Kate Chapman</a></td>
+<td> Talking with the DC GIS department about how to maintain updates.</td>
+<td>?
+</td></tr>
+<tr>
+<td><a href="/wiki/NYS_DEC_Lands" title="NYS DEC Lands">NYS DEC Lands</a></td>
+<td>NYS DEC Lands</td>
+<td></td>
+<td>Not copyrightable</td>
+<td>NYSDEC_Lands:*</td>
+<td>NYSDEC_Lands:</td>
+<td>ongoing</td>
+<td>March 2009</td>
+<td>No end date planned</td>
+<td><a href="/wiki/User:RussNelson" title="User:RussNelson">RussNelson</a></td>
+<td> Positional data comes from surveying; probably only metadata should be changed.</td>
+<td>? (PD?)
+</td></tr>
+<tr>
+<td><a href="/wiki/USGS_GNIS" title="USGS GNIS">USGS_GNIS</a></td>
+<td> USGS </td>
+<td> US for now </td>
+<td> ... </td>
+<td> </td>
+<td> GNIS: </td>
+<td> Ongoing?</td>
+<td> </td>
+<td> US finished </td>
+<td> Ian Dees </td>
+<td> The lead plans on feeding changes back to GNIS, making this nominally a two-way connection</td>
+<td>&#160;?
+</td></tr>
+<tr>
+<td><a href="/wiki/TMC/TMC_Import_Germany" title="TMC/TMC Import Germany">TMC/TMC_Import_Germany</a></td>
+<td> TMC LCL of Germany </td>
+<td> DE, later Europe </td>
+<td> ... </td>
+<td> </td>
+<td> TMC:* </td>
+<td> Preparation </td>
+<td> 2009-04-01 </td>
+<td>  </td>
+<td> <a href="/wiki/User:MarcusWolschon" title="User:MarcusWolschon">Marcus Wolschon</a> </td>
+<td> import of TMC location-codes into OSM and search for missing roads </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK
+</td></tr>
+<tr>
+<td><a href="/wiki/Africover/DEPHA" title="Africover/DEPHA">Africover/DEPHA</a></td>
+<td> <a href="http://africover.org" class="external text" rel="nofollow">Africover</a>/<a href="http://depha.org" class="external text" rel="nofollow">DEPHA</a> </td>
+<td> 11 countries in Africa </td>
+<td>Explicitly donated to us to release with <a href="/wiki/OpenStreetMap_License" title="OpenStreetMap License">OpenStreetMap License</a></td>
+<td>Africover or DEPHA </td>
+<td> </td>
+<td> Ongoing </td>
+<td> April 2009 </td>
+<td> </td>
+<td><a href="/wiki/User:Rsoden" title="User:Rsoden">rsoden</a></td>
+<td> Primarily Roads and Rivers </td>
+<td>&#160;?
+</td></tr>
+<tr>
+<td><a href="/wiki/California/Import" title="California/Import">California/Import</a></td>
+<td> <a href="http://casil.ucdavis.edu/casil/" class="external text" rel="nofollow">CASIL</a> </td>
+<td> California </td>
+<td> PD </td>
+<td> csp: </td>
+<td> </td>
+<td>  </td>
+<td> Jul 2009 </td>
+<td> Done </td>
+<td> <a href="/wiki/User:Apo42" title="User:Apo42">Apo42</a></td>
+<td> Done </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td><a href="/wiki/California/MROSD" title="California/MROSD">California/MROSD</a></td>
+<td> <a href="http://openspace.org/" class="external text" rel="nofollow">MROSD</a> </td>
+<td> California </td>
+<td> donated by MROSD </td>
+<td> mrosd </td>
+<td>  </td>
+<td>  </td>
+<td> Aug 2009 </td>
+<td> Done </td>
+<td> <a href="/wiki/User:Apo42" title="User:Apo42">Apo42</a></td>
+<td> done </td>
+<td>&#160;?
+</td></tr>
+<tr>
+<td><a href="/wiki/GURS" title="GURS" class="mw-redirect">GURS</a></td>
+<td> <a href="http://www.gu.gov.si/" class="external text" rel="nofollow">Geodetska uprava Republike Slovenije</a> </td>
+<td> Slovenia </td>
+<td> Attribution (got explicit permission for import of public information to OSM with Attribution) </td>
+<td> GURS (note:Javne informacije Slovenije, Geodetska uprava Republike Slovenije, Dr?avna meja, stanje 2008 </td>
+<td> gurs: (unless data can be mapped to standard tags) </td>
+<td> Planning stage</td>
+<td> Aug 2009 </td>
+<td>&#160;? </td>
+<td> <a href="http://lists.openstreetmap.org/pipermail/talk-si/2009-August/thread.html" class="external text" rel="nofollow">talk-si@</a> </td>
+<td> preparing data </td>
+<td> (OK?)
+</td></tr>
+<tr>
+<td><a href="/wiki/Dracos_import" title="Dracos import">Dracos_import</a></td>
+<td><a href="http://www.dracos.co.uk/play/locating-postboxes/" class="external text" rel="nofollow">Dracos</a></td>
+<td>United Kingdom</td>
+<td>Public domain (see [<a href="http://thread.gmane.org/gmane.comp.gis.openstreetmap.legal/2544" class="external autonumber" rel="nofollow">[9]</a>]) </td>
+<td> dracos </td>
+<td> dracos </td>
+<td> Testing E10 and E17 postcodes </td>
+<td> 2009-11-08 </td>
+<td> ... </td>
+<td> Ed Avis eda@waniasset.com </td>
+<td> code at [<a href="http://github.com/epa/osm_postboxes" class="external autonumber" rel="nofollow">[10]</a>] </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td><a href="/wiki/3dShapes" title="3dShapes">3dShapes</a></td>
+<td> <a href="http://www.objectvision.nl/" class="external text" rel="nofollow">ObjectVision</a> </td>
+<td> The Netherlands </td>
+<td> CC-BY-SA </td>
+<td> source=3dShapes </td>
+<td>  </td>
+<td> Ongoing  </td>
+<td> 2009 </td>
+<td>  </td>
+<td> <a href="/wiki/User:Skinkie" title="User:Skinkie">Skinkie</a> </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD Dataset)</span>
+</td></tr>
+<tr>
+<td>  </td>
+<td>  </td>
+<td> Wake County, North Carolina </td>
+<td>  </td>
+<td> source=wakegis </td>
+<td>  </td>
+<td> Ongoing  </td>
+<td> 2010 </td>
+<td>  </td>
+<td> jimbanho </td>
+<td> </td>
+<td>&#160;?
+</td></tr>
+<tr>
+<td><a href="/wiki/Kosovo_iMMAP_Import" title="Kosovo iMMAP Import">Kosovo_iMMAP_Import</a>  </td>
+<td> <a href="http://www.immap.org" class="external text" rel="nofollow">iMMAP</a> </td>
+<td> Kosovo and Albania </td>
+<td> <a href="http://creativecommons.org/licenses/by-sa/3.0/us/" class="external text" rel="nofollow">CC-BY-SA 3.0 US</a> </td>
+<td> source=various </td>
+<td>  </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(complete)</span>  </td>
+<td> 2010 </td>
+<td>  </td>
+<td> <a href="/wiki/User:H4ck3rm1k3" title="User:H4ck3rm1k3">h4ck3rm1k3</a> and team </td>
+<td> </td>
+<td>&#160;?
+</td></tr>
+<tr>
+<td><a href="/wiki/Import/Catalogue/Postleitzahlen_Deutschland_2010" title="Import/Catalogue/Postleitzahlen Deutschland 2010">Post codes Germany</a> </td>
+<td> <a href="http://arnulf.us/PLZ" class="external autonumber" rel="nofollow">[11]</a> </td>
+<td> Germany </td>
+<td> Public domain </td>
+<td> </td>
+<td> </td>
+<td> Ongoing </td>
+<td> 2010 </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD)</span>
+</td></tr>
+<tr>
+<td> <a href="/wiki/WikiProject_France/Parcs_nationaux_et_r%C3%A9gionaux,_r%C3%A9serves_naturelles/Import_des_donn%C3%A9es_INPN" title="WikiProject France/Parcs nationaux et r?gionaux, r?serves naturelles/Import des donn?es INPN">Import des donn?es INPN</a> </td>
+<td> <a href="http://inpn.mnhn.fr/isb/download/fr/maps.jsp" class="external text" rel="nofollow">INPN</a> </td>
+<td> France and overseas </td>
+<td>  </td>
+<td> Inventaire National du Patrimoine Naturel 2010 </td>
+<td>  </td>
+<td> Ongoing  </td>
+<td> 2010 </td>
+<td>  </td>
+<td> Damouns, sletuffe </td>
+<td> </td>
+<td>
+</td></tr>
+
+<tr>
+<td> <a href="/wiki/Ordnance_Survey_Opendata" title="Ordnance Survey Opendata"> Ordnance Survey OpenData</a> (excludes Code-Point Open (postcode) data) </td>
+<td>  Ordnance Survey </td>
+<td> UK </td>
+<td> <a href="http://www.ordnancesurvey.co.uk/oswebsite/docs/licences/os-opendata-licence.pdf" class="external text" rel="nofollow">OpenData License Terms and Conditions</a> + clarifiation </td>
+<td> various starting with "OS_OpenData" </td>
+<td> none </td>
+<td> Ongoing  </td>
+<td> 2010 </td>
+<td> Open-ended </td>
+<td>  </td>
+<td> <a href="http://article.gmane.org/gmane.comp.gis.openstreetmap.region.gb/6516" class="external text" rel="nofollow">LWG statement on ODbL compatibility</a> <a href="https://docs.google.com/View?id=dd9g3qjp_121dzjmk5c5" class="external text" rel="nofollow">Draft LWG statement on CT compatibility</a> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK
+</td></tr>
+<tr>
+<td> <a href="/wiki/Ordnance_Survey_Opendata" title="Ordnance Survey Opendata"> Ordnance Survey OpenData</a> Code-Point Open (postcode) data</td>
+<td> Ordnance Survey  </td>
+<td> UK </td>
+<td> <a href="http://www.ordnancesurvey.co.uk/oswebsite/docs/licences/os-opendata-licence.pdf" class="external text" rel="nofollow">OpenData License Terms and Conditions</a> </td>
+<td> - </td>
+<td> - </td>
+<td> Not used  </td>
+<td> - </td>
+<td> - </td>
+<td> LWG </td>
+<td align="center" style="background-color:#FF6666; font-weight:bold;"> <a href="https://www.mail-archive.com/talk-gb@openstreetmap.org/msg07192.html" class="external text" rel="nofollow">LWG statement</a> </td>
+<td align="center" style="background-color:#FF6666; font-weight:bold;"> Not ODbL compatible - Requires map makers to always attribute Royal Mail
+</td></tr>
+
+<tr>
+<td> Christchurch - Damaged roads and bridges </td>
+<td> Christchurch City Council  </td>
+<td> Christchurch, NZ </td>
+<td> CC-BY </td>
+<td> not decided yet </td>
+<td> not decided yet </td>
+<td> Ongoing  </td>
+<td> 2011-03 </td>
+<td>  </td>
+<td> <a href="/wiki/User:Myfanwy" title="User:Myfanwy">User:Myfanwy</a> </td>
+<td>  </td>
+<td>
+</td></tr>
+
+<tr>
+<td> <a href="/wiki/Georgia_JumpStart_Import" title="Georgia JumpStart Import">Georgia JumpStart Import</a> </td>
+<td> <a href="http://www.openmapscaucasus.org/" class="external text" rel="nofollow">Open Map Caucasus (OMC)</a> of <a href="http://jumpstartinternational.org/" class="external text" rel="nofollow">JumpStart International</a>  </td>
+<td> Georgia </td>
+<td> No license, reqire only attribution </td>
+<td>&#160;? </td>
+<td>&#160;? </td>
+<td> Ongoing  </td>
+<td> December 2010? </td>
+<td>  </td>
+<td> </td>
+<td>  </td>
+<td>
+</td></tr>
+
+<tr>
+<td> <a href="/wiki/%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2/%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82_%D0%B4%D0%BE%D0%BC%D0%BE%D0%B2" title="???????/?????? ?????" class="mw-redirect">Saratov Buildings</a> </td>
+<td> artem (it's name of man)  </td>
+<td> Saratov, RU </td>
+<td>&#160;? </td>
+<td> "source=bing;artem" </td>
+<td>&#160;? </td>
+<td> Ongoing  </td>
+<td> 2 march 2011? </td>
+<td>  </td>
+<td> </td>
+<td>  </td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Fairfax_Connector" title="Fairfax Connector">Fairfax Connector</a></td>
+<td>Fairfax Connector</td>
+<td><a href="/wiki/Fairfax_County,_Virginia" title="Fairfax County, Virginia">Fairfax County, Virginia</a></td>
+<td>Attribution in source tags and on wiki</td>
+<td>ffx_conn:*?</td>
+<td>ffx_conn:*?</td>
+<td>Planning</td>
+<td>2011</td>
+<td>No end date planned</td>
+<td><a href="/wiki/User:Joshdoe" title="User:Joshdoe">Josh Doe</a></td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK
+</td></tr>
+<tr>
+<td><a href="/wiki/Import_Rossmann_Filialen" title="Import Rossmann Filialen">Import Rossmann Filialen</a></td>
+<td>Dirk Rossmann GmbH</td>
+<td>Germany</td>
+<td>Explicitly donated to us to release with <a href="/wiki/OpenStreetMap_License" title="OpenStreetMap License">OpenStreetMap License</a>, CC-BY-SA 2.0 and OdBL</td>
+<td>rossmann</td>
+<td> </td>
+<td>ongoing</td>
+<td>June 2011</td>
+<td>in progress</td>
+<td><a href="/w/index.php?title=User:DWD_wiki&amp;action=edit&amp;redlink=1" class="new" title="User:DWD wiki (page does not exist)">Detlev Reiners</a></td>
+<td>currently only in german</td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK
+</td></tr>
+<tr>
+<td><a href="/wiki/Cycle_network_in_Oslo" title="Cycle network in Oslo">Cycle network in Oslo</a></td>
+<td>Oslo kommune</td>
+<td>Norway: Oslo</td>
+<td>PDDL/NLOD</td>
+<td>Bymilj?etaten</td>
+<td> </td>
+<td>ongoing</td>
+<td>June 2011</td>
+<td>in progress</td>
+<td><a href="/wiki/User:Vibrog" title="User:Vibrog">Vidar Gundersen</a></td>
+<td></td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK
+</td></tr>
+<tr>
+<td><a href="/wiki/Te_Araroa_import" title="Te Araroa import">Te Araroa import</a></td>
+<td><a href="http://teararoa.org.nz" class="external text" rel="nofollow">Te Araroa Trust</a></td>
+<td><a href="/wiki/New_Zealand" title="New Zealand" class="mw-redirect">New Zealand</a></td>
+<td>TBC</td>
+<td>TBC</td>
+<td> </td>
+<td>ongoing</td>
+<td>June 2011</td>
+<td>in progress</td>
+<td><a href="/wiki/User:Myfanwy" title="User:Myfanwy">Robin Paulson</a></td>
+<td>Discussing process with TA trust, and deciding license</td>
+<td>?
+</td></tr>
+<tr>
+<td> <a href="/wiki/Arrondissements_Montreal_import" title="Arrondissements Montreal import">Arrondissements Montreal import</a></td>
+<td><a href="http://donnees.ville.montreal.qc.ca/archives/fiche-donnees/polygones-arrondissements" class="external text" rel="nofollow">Montreal City</a> </td>
+<td> <a href="/wiki/Montr%C3%A9al" title="Montr?al" class="mw-redirect">Montr?al</a> </td>
+<td> <a href="http://donnees.ville.montreal.qc.ca/licence" class="external text" rel="nofollow">Custom CC-BY-SA</a></td>
+<td>unsure</td>
+<td>unsure</td>
+<td>planned</td>
+<td></td>
+<td></td>
+<td>TheAnarcat</td>
+<td></td>
+<td>Unknown
+</td></tr>
+<tr>
+<td> Smolensk oblast <a href="/wiki/RU:%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C/%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82_%D1%83%D0%BB%D0%B8%D1%86" title="RU:?????????? ???????/?????? ????">streets</a> and <a href="/wiki/RU:%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C/%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82_%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D0%BF%D1%83%D0%BD%D0%BA%D1%82%D0%BE%D0%B2" title="RU:?????????? ???????/?????? ?????????? ???????">places</a> </td>
+<td> Smolensk oblast GIS  </td>
+<td> Smolensk oblast, RU </td>
+<td>&#160;? </td>
+<td>&#160;? </td>
+<td>&#160;? </td>
+<td> Ongoing  </td>
+<td> December 2011? </td>
+<td>  </td>
+<td> </td>
+<td>  </td>
+<td>&#160;?
+</td></tr>
+</table>
+<h2> <span class="mw-headline" id="Ongoing_Imports.2C_Fully_Scripted"> Ongoing Imports, Fully Scripted </span></h2>
+<p>These imports have been prepared by a script or computer program, typically checked into source control (e.g. <a href="/wiki/SVN" title="SVN" class="mw-redirect">SVN</a>).  Thus these imports can readily be refreshed or examined by persons other than the original importers.  Typically these imports compare an external dataset to osm, and prepare either a one-way or two-way difference file to be applied manually:
+</p>
+<table class="wikitable sortable">
+<tr>
+<th>Data Source </th>
+<th> Tool </th>
+<th> License
+</th></tr>
+<tr>
+<td>City CarShare, San Francisco </td>
+<td> <a href="/wiki/Osmsync" title="Osmsync">Osmsync</a> </td>
+<td> Explicit permission
+</td></tr>
+<tr>
+<td>USGS Stream Gauges </td>
+<td> <a href="/wiki/Osmsync" title="Osmsync">Osmsync</a> </td>
+<td> US Government Data
+</td></tr>
+<tr>
+<td>NEXRAD Radar Stations  </td>
+<td> <a href="/wiki/Osmsync" title="Osmsync">Osmsync</a> </td>
+<td> US Government Data
+</td></tr></table>
+<h2> <span class="mw-headline" id="Digital_Orthophotos"> Digital Orthophotos </span></h2>
+<table class="wikitable sortable">
+<tr>
+<th>Name</th>
+<th>Data source</th>
+<th>Area</th>
+<th>License</th>
+<th>Source tag</th>
+<th>Start date</th>
+<th>End date</th>
+<th>Contact</th>
+<th>Notes</th>
+<th> <a href="/wiki/Open_Database_License/Contributor_Terms" title="Open Database License/Contributor Terms">Contributor Terms</a> compatibility of derived data
+</th></tr>
+<tr>
+<td> <a href="/wiki/Landsat" title="Landsat">Landsat</a> </td>
+<td> </td>
+<td> world-wide </td>
+<td> PD </td>
+<td> landsat </td>
+<td></td>
+<td> Ongoing </td>
+<td> </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(PD)</span>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Yahoo" title="Yahoo" class="mw-redirect">Yahoo</a> Imagery </td>
+<td> <a href="http://www.yahoo.com" class="external autonumber" rel="nofollow">[12]</a> </td>
+<td> Partial coverage of globe </td>
+<td> <a href="/wiki/Yahoo#Legalities" title="Yahoo" class="mw-redirect">Yahoo terms of use</a> </td>
+<td> yahoo </td>
+<td>  </td>
+<td> Ongoing </td>
+<td> </td>
+<td>  </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK
+</td></tr>
+<tr>
+<td> <a href="/wiki/DE:Luftbilder_aus_Bayern" title="DE:Luftbilder aus Bayern">DOP from Bayern/Germany</a> </td>
+<td> DOP </td>
+<td> <a href="http://osm.m0nty.de/" class="external text" rel="nofollow">Oberpfalz 10.000 m?</a> </td>
+<td> <a href="/wiki/DE:Luftbilder_aus_Bayern#Rechtliche_Bedingungen" title="DE:Luftbilder aus Bayern">special</a> </td>
+<td> DOP_LVA_BY_01 </td>
+<td> 2008-12-12  </td>
+<td> 2009-03-31 </td>
+<td> <a href="/wiki/User:Markus_B" title="User:Markus B">Markus</a> </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(<a href="/wiki/DE:Luftbilder_aus_Bayern#Rechtliche_Bedingungen" title="DE:Luftbilder aus Bayern">link</a>)</span>
+</td></tr>
+<tr>
+<td> <a href="/wiki/DE:Luftbilder_Witten" title="DE:Luftbilder Witten">DE:Luftbilder Witten</a> </td>
+<td> Stadtwerke Witten </td>
+<td> City of Witten (Germany) </td>
+<td align="center" style="background-color:YELLOW; font-weight:bold;"> special </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK
+</td></tr>
+<tr>
+<td> <a href="/wiki/Luftbilder_aus_Dortmund" title="Luftbilder aus Dortmund">Luftbilder_aus_Dortmund</a> </td>
+<td> Aerowest </td>
+<td> City of Dortmund (Germany) </td>
+<td align="center" style="background-color:YELLOW; font-weight:bold;"> special </td>
+<td> <a href="/wiki/Luftbilder_aus_Dortmund#Tags" title="Luftbilder aus Dortmund">none</a> </td>
+<td> 2010-03-19 </td>
+<td> 2010-06-30 </td>
+<td> <a href="/wiki/Dortmund/Luftbilder#Kommunikation" title="Dortmund/Luftbilder">link</a> </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(<a href="/wiki/DE:Luftbilder_aus_Dortmund#Rechtliches_.2F_Contributor_Terms" title="DE:Luftbilder aus Dortmund">link</a>)</span>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Surrey_Air_Survey" title="Surrey Air Survey">Surrey Air Survey</a> </td>
+<td>  </td>
+<td> Surrey, UK </td>
+<td> DbCL/ODbL </td>
+<td> sas </td>
+<td>  </td>
+<td> Ongoing </td>
+<td> <a href="http://www.openstreetmap.org/user/Chobhamonian1" class="external autonumber">[13]</a> </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK
+</td></tr>
+<tr>
+<td> <a href="/wiki/WikiProject_Haiti/Imagery_and_data_sources#NOAA" title="WikiProject Haiti/Imagery and data sources"> NOAA</a> </td>
+<td>  </td>
+<td> Haiti </td>
+<td align="center" style="background-color:#FF6666; font-weight:bold;">&#160;? </td>
+<td>    </td>
+<td>  </td>
+<td> Ongoing </td>
+<td>    </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(Considered OK, Derived as new work. No ToS issue)</span>
+</td></tr>
+<tr>
+<td> <a href="/wiki/WikiProject_Haiti/Imagery_and_data_sources#GeoEye" title="WikiProject Haiti/Imagery and data sources"> GeoEye</a> </td>
+<td>  </td>
+<td> Haiti </td>
+<td align="center" style="background-color:#FF6666; font-weight:bold;">&#160;?    </td>
+<td>    </td>
+<td>  </td>
+<td> Ongoing </td>
+<td>    </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(Considered OK, Derived as new work. No ToS issue)</span>
+</td></tr>
+<tr>
+<td> <a href="/wiki/WikiProject_Haiti/Imagery_and_data_sources#DigitalGlobe" title="WikiProject Haiti/Imagery and data sources"> DigitalGlobe</a> </td>
+<td>  </td>
+<td> Haiti </td>
+<td align="center" style="background-color:#FF6666; font-weight:bold;">&#160;? </td>
+<td>    </td>
+<td>  </td>
+<td> Ongoing </td>
+<td>    </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(Considered OK, Derived as new work. No ToS issue)</span>
+</td></tr>
+<tr>
+<td> <a href="/wiki/WikiProject_Haiti/Imagery_and_data_sources#ErosB" title="WikiProject Haiti/Imagery and data sources"> ErosB</a> </td>
+<td>  </td>
+<td> Haiti </td>
+<td align="center" style="background-color:#FF6666; font-weight:bold;">&#160;? </td>
+<td>    </td>
+<td>  </td>
+<td> Ongoing </td>
+<td>    </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(Considered OK, Derived as new work. No ToS issue)</span>
+</td></tr>
+<tr>
+<td> <a href="/wiki/WikiProject_Haiti/Imagery_and_data_sources#CNES_.2F_Spot_Image" title="WikiProject Haiti/Imagery and data sources"> CNES_.2F_Spot_Image</a> </td>
+<td>  </td>
+<td> Haiti </td>
+<td align="center" style="background-color:#FF6666; font-weight:bold;">&#160;? </td>
+<td>    </td>
+<td>  </td>
+<td> Ongoing </td>
+<td>    </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(Considered OK, Derived as new work. No ToS issue)</span>
+</td></tr>
+<tr>
+<td> <a href="/wiki/WikiProject_Haiti/Imagery_and_data_sources#JAXA.2FALOS_satellite_Imagery" title="WikiProject Haiti/Imagery and data sources"> JAXA.2FALOS_satellite_Imagery</a> </td>
+<td>  </td>
+<td> Haiti </td>
+<td align="center" style="background-color:#FF6666; font-weight:bold;">&#160;? </td>
+<td>    </td>
+<td>  </td>
+<td> Ongoing </td>
+<td>    </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(Considered OK, Derived as new work. No ToS issue)</span>
+</td></tr>
+<tr>
+<td> <a href="/wiki/WikiProject_Haiti/Imagery_and_data_sources#Google_Imagery" title="WikiProject Haiti/Imagery and data sources">Specially released Google Imagery for Haiti</a> </td>
+<td>  </td>
+<td> Haiti </td>
+<td align="center" style="background-color:#FF6666; font-weight:bold;">&#160;? </td>
+<td>    </td>
+<td>  </td>
+<td> Ongoing </td>
+<td>    </td>
+<td> Specific Imagery that was provided, not general Google Maps imagery </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(Assumed OK)</span>
+</td></tr>
+<tr>
+<td> <a href="/wiki/WikiProject_Haiti/Imagery_and_data_sources#WorldBank_Imagery" title="WikiProject Haiti/Imagery and data sources">WorldBank Imagery</a> </td>
+<td>  </td>
+<td> Haiti </td>
+<td align="center" style="background-color:#FF6666; font-weight:bold;">&#160;? </td>
+<td>    </td>
+<td>  </td>
+<td> Ongoing </td>
+<td>    </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(Considered OK, Derived as new work. No ToS issue)</span>
+</td></tr>
+<tr>
+<td> <a href="http://gis.638310.n2.nabble.com/Realtime-satellite-imagery-access-for-OpenStreetMap-granted-Russian-Fires-td5422936.html#a5422936" class="external text" rel="nofollow">ScanEx </a> </td>
+<td>  </td>
+<td> Russia </td>
+<td align="center" style="background-color:#FF6666; font-weight:bold;">&#160;? </td>
+<td>    </td>
+<td>  </td>
+<td> Ongoing </td>
+<td>    </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(Spot + Landsat)</span>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Nearmap" title="Nearmap" class="mw-redirect">Nearmap</a> </td>
+<td>  </td>
+<td> Australia </td>
+<td> <a href="http://www.nearmap.com/products/licence" class="external text" rel="nofollow">Nearmap terms</a> <a href="http://creativecommons.org/licenses/by-sa/3.0/" class="external text" rel="nofollow">CC-BY-SA 3.0</a> </td>
+<td> nearmap </td>
+<td>  </td>
+<td> Ongoing </td>
+<td>    </td>
+<td> - </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(<a href="http://lists.openstreetmap.org/pipermail/talk-au/2011-June/008098.html" class="external text" rel="nofollow">All data prior to 18 June 2011</a>)</span>
+</td></tr>
+<tr>
+<td> <a href="/wiki/WikiProject_Italy/PCN" title="WikiProject Italy/PCN"> PCN</a> </td>
+<td> Portale Cartografico Nazionale </td>
+<td> Italy</td>
+<td> <a href="http://wiki.openstreetmap.org/w/images/f/fe/ITALY_Auth_portale_cartografico_nazionale.png" class="external autonumber" rel="nofollow">[14]</a>  </td>
+<td> <a href="/wiki/WikiProject_Italy/PCN#Domande_frequenti" title="WikiProject Italy/PCN">none</a>  </td>
+<td> 2010-04-30 </td>
+<td> Ongoing </td>
+<td>    </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(Considered OK, Derived as new work. No ToS issue)</span>
+</td></tr>
+<tr>
+<td> <a href="/wiki/2010_07_Pakistan_Floods/Imagery_and_data_sources#SPOT" title="2010 07 Pakistan Floods/Imagery and data sources"> SPOT</a> </td>
+<td> Spotmaps </td>
+<td> Pakistan</td>
+<td> <a href="http://www.youmapps.org/licenses/EULA-OSM-EN.html" class="external text" rel="nofollow">CC-BY-SA &amp; ODbL</a>  </td>
+<td>   </td>
+<td> 2010-08-19 </td>
+<td> Ongoing </td>
+<td>    </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK
+</td></tr>
+<tr>
+<td> <a href="/wiki/SOGIS_WMS" title="SOGIS WMS">SOGIS WMS</a> </td>
+<td>  </td>
+<td> Kanton Solothun, Switzerland </td>
+<td> attribution </td>
+<td>    </td>
+<td>  </td>
+<td> Ongoing </td>
+<td>    </td>
+<td> 2nd hand info, tracing is supposedly ok based on verbal and e-mail communication with the SOGIS manager</td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(Considered OK, Derived as new work. No ToS issue)</span>
+</td></tr>
+<tr>
+<td> AGIS WMS </td>
+<td>  </td>
+<td> Kanton Aargau, Switzerland </td>
+<td align="center" style="background-color:#FF6666; font-weight:bold;">&#160;? </td>
+<td>    </td>
+<td>  </td>
+<td> Ongoing </td>
+<td> <a href="/wiki/User:Teeser" title="User:Teeser">User: Teeser</a>   </td>
+<td> current status unknown, a substantial amount of tracing has been done by various users</td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(Assumed OK)</span>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Talk:WikiProject_Estonia#Maaameti_Eesti_haldus-_ja_asustusjaotuse_failid_ja_WMS_serveri_kasutamine" title="Talk:WikiProject Estonia">Estonian Landboard WMS</a> </td>
+<td>  </td>
+<td> Estonia  </td>
+<td>  attribution  </td>
+<td>  </td>
+<td> Ongoing </td>
+<td>    </td>
+<td>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Digital_Rectified_Maps"> Digital Rectified Maps </span></h2>
+<table class="wikitable sortable">
+<tr>
+<th>Name</th>
+<th>Data source</th>
+<th>Area</th>
+<th>License</th>
+<th>Source tag</th>
+<th>Start date</th>
+<th>End date</th>
+<th>Contact</th>
+<th>Notes</th>
+<th> <a href="/wiki/Open_Database_License/Contributor_Terms" title="Open Database License/Contributor Terms">Contributor Terms</a> compatibility of derived data
+</th></tr>
+<tr>
+<td> <a href="/wiki/NPE" title="NPE" class="mw-redirect">NPE</a> </td>
+<td>Paper Maps </td>
+<td> UK </td>
+<td>Out of Copyright  </td>
+<td>     </td>
+<td>   </td>
+<td> ongoing  </td>
+<td>  </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(Out of Copyright)</span>
+</td></tr>
+<tr>
+<td> <a href="/wiki/7th_Series" title="7th Series">7th_Series</a> </td>
+<td>Paper Maps </td>
+<td> UK </td>
+<td>Out of Copyright  </td>
+<td>     </td>
+<td>   </td>
+<td>ongoing </td>
+<td>    </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(Out of Copyright)</span>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Provisional/First_Edition" title="Provisional/First Edition">Provisional/First_Edition</a> </td>
+<td>Paper Maps </td>
+<td> UK </td>
+<td>Out of Copyright  </td>
+<td>  </td>
+<td>   </td>
+<td>ongoing</td>
+<td>     </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(Out of Copyright)</span>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Provisional/First_Edition" title="Provisional/First Edition">Provisional/First_Edition</a> </td>
+<td>Paper Maps </td>
+<td> UK </td>
+<td>Out of Copyright  </td>
+<td>  </td>
+<td>   </td>
+<td>ongoing</td>
+<td>     </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">(Out of Copyright)</span>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Ordnance_Survey_Opendata#OS_StreetView_OS_StreetView" title="Ordnance Survey Opendata">OS StreetView</a> </td>
+<td><a href="http://www.ordnancesurvey.co.uk" class="external text" rel="nofollow">Ordnance Survey</a> </td>
+<td> UK </td>
+<td><a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/open-government-licence.htm" class="external text" rel="nofollow">Open Government Licence</a> with additional (downstream) attribution requirements <a href="http://www.ordnancesurvey.co.uk/oswebsite/opendata/docs/os-opendata-licence.pdf" class="external autonumber" rel="nofollow">[15]</a></td>
+<td>  </td>
+<td>   </td>
+<td>ongoing</td>
+<td>     </td>
+<td> </td>
+<td align="center" style="background-color:lime; font-weight:bold;"> OK <span style="font-weight:normal">((<a href="http://article.gmane.org/gmane.comp.gis.openstreetmap.region.gb/6516" class="external text" rel="nofollow">Statement from Licensing Working Group</a>))</span>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Problematic_imports"> Problematic imports </span></h2>
+<p>Imports causing problems due to licence, data errors, lack of documentation. This table has the same structure. Move the entries into the above list if you can fill in the details.
+</p>
+<table class="wikitable sortable">
+<tr>
+<th>Name</th>
+<th>Data source</th>
+<th>Area</th>
+<th>License</th>
+<th>Source tag</th>
+<th>Tag prefix</th>
+<th>Status</th>
+<th>Start date</th>
+<th>End date</th>
+<th>Contact</th>
+<th>Notes
+</th></tr>
+<tr>
+<td> <a href="/wiki/Koreaimport09" title="Koreaimport09">Koreaimport09</a> </td>
+<td> <a href="http://kr.open.gugi.yahoo.com/" class="external text" rel="nofollow">Yahoo</a>&#160;?  </td>
+<td> Korea </td>
+<td> could not be found   </td>
+<td> <a href="http://kr.open.gugi.yahoo.com/" class="external free" rel="nofollow">http://kr.open.gugi.yahoo.com/</a> </td>
+<td>  none </td>
+<td> needs check </td>
+<td>   Thu, 02 Apr 2009  </td>
+<td>  </td>
+<td> <a href="/wiki/User:Cyana" title="User:Cyana">User:cyana</a> </td>
+<td>  <a href="/wiki/Koreaimport09" title="Koreaimport09">see discussion here</a>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Description_of_table_contents"> Description of table contents </span></h2>
+<table class="wikitable">
+<tr>
+<th>Field</th>
+<th>Description
+</th></tr>
+<tr>
+<td><b>Name</b></td>
+<td>Name of import. If available link to your info page about this import.
+</td></tr>
+<tr>
+<td><b>Data source</b></td>
+<td>Short description of the data imported. If available link to the website of the source
+</td></tr>
+<tr>
+<td><b>Area</b></td>
+<td>Area your imports was for. This can be "World" or a country name or latitude, longitude bounding box or whatever describes the area best.
+</td></tr>
+<tr>
+<td><b>License</b></td>
+<td>License of this data (probably Public Domain or CC) and copyright holder.
+</td></tr>
+<tr>
+<td><b>Source tag</b></td>
+<td>Source tag used for this import.
+</td></tr>
+<tr>
+<td><b>Tag prefix</b></td>
+<td>The prefix used for special tags in this import.
+</td></tr>
+<tr>
+<td><b>Status</b></td>
+<td>State of your import: <i>planned</i>, <i>in progress</i> or <i>done</i>.
+</td></tr>
+<tr>
+<td><b>Start date</b></td>
+<td>First date when data was imported. Leave empty if the import hasn't started yet.
+</td></tr>
+<tr>
+<td><b>End date</b></td>
+<td>Last date when data was imported. If all was done on one day, same as start date. Leave empty if the import is still going on.
+</td></tr>
+<tr>
+<td><b>Contact</b></td>
+<td>Names and links to people responsible for this import.
+</td></tr>
+<tr>
+<td><b>Notes</b></td>
+<td>Any other important notes for the import. Keep this short. Put longer notes on extra page.
+</td></tr>
+<tr>
+<td><b><a href="/wiki/Contributor_Terms" title="Contributor Terms" class="mw-redirect">Contributor Terms</a></b></td>
+<td>Important for the license change: When agreeing to the Contributor Terms you first have to check all imports that you have participated. If an import is not compatible, you must not accept the CT.
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 1984/1000000
+Post-expand include size: 31516/2097152 bytes
+Template argument size: 7295/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key wiki:pcache:idhash:10945-0!*!0!!en!2!edit=0 and timestamp 20120209014747 -->
+<div class="printfooter">
+Retrieved from "<a href="http://wiki.openstreetmap.org/wiki/Import/Catalogue">http://wiki.openstreetmap.org/wiki/Import/Catalogue</a>"</div>
+				<!-- /bodytext -->
+								<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <span dir='ltr'><a href="/wiki/Category:Cleaning_Request" title="Category:Cleaning Request">Cleaning Request</a></span> | <span dir='ltr'><a href="/wiki/Category:New_York" title="Category:New York">New York</a></span> | <span dir='ltr'><a href="/wiki/Category:Import" title="Category:Import">Import</a></span> | <span dir='ltr'><a href="/wiki/Category:Open_Data_Licence" title="Category:Open Data Licence">Open Data Licence</a></span> | <span dir='ltr'><a href="/wiki/Category:Data_sources" title="Category:Data sources">Data sources</a></span></div><div id="mw-hidden-catlinks" class="mw-hidden-cats-hidden">Hidden category: <span dir='ltr'><a href="/wiki/Category:Ambox_Derived_Works" title="Category:Ambox Derived Works">Ambox Derived Works</a></span></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+					<li  id="pt-login"><a href="https://wiki.openstreetmap.org/wiki/Special:UserLogin?returnto=Import/Catalogue" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o" class="link-https">Log in / create account</a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Import/Catalogue"  title="View the content page [c]" accesskey="c">Page</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Import/Catalogue"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Import/Catalogue" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=Import/Catalogue&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible "><span><a href="/w/index.php?title=Import/Catalogue&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+		<input type='hidden' name="title" value="Special:Search"/>
+				<div id="simpleSearch">
+						<input id="searchInput" name="search" type="text"  title="Search OpenStreetMap Wiki [f]" accesskey="f"  value="" />
+						<button id="searchButton" type='submit' name='button'  title="Search the pages for this text"><img src="/w/skins/vector/images/search-ltr.png?301" alt="Search" /></button>
+					</div>
+			</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(/osm_logo_wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- site -->
+<div class="portal" id='p-site'>
+	<h5>site</h5>
+	<div class="body">
+				<ul>
+					<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+					<li id="n-The-map"><a href="http://www.openstreetmap.org/">The map</a></li>
+					<li id="n-portal"><a href="/wiki/Mapping_projects" title="About the project, what you can do, where to find things">Mapping projects</a></li>
+					<li id="n-Map-Features"><a href="/wiki/Map_Features">Map Features</a></li>
+					<li id="n-Contributors"><a href="/wiki/Contributors">Contributors</a></li>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+					<li id="n-Blog"><a href="/wiki/OSM_Blogs">Blog</a></li>
+					<li id="n-Shop"><a href="/wiki/Merchandise">Shop</a></li>
+					<li id="n-Donations"><a href="/wiki/Donations">Donations</a></li>
+					<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /site -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- TOOLBOX -->
+<div class="portal" id="p-tb">
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Import/Catalogue" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+						<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Import/Catalogue" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+																																										<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+									<li id="t-print"><a href="/w/index.php?title=Import/Catalogue&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+						<li id="t-permalink"><a href="/w/index.php?title=Import/Catalogue&amp;oldid=727664" title="Permanent link to this revision of the page">Permanent link</a></li>
+				<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Import/Catalogue&amp;id=727664" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+											<ul id="footer-info">
+																	<li id="footer-info-lastmod"> This page was last modified on 24 January 2012, at 18:11.</li>
+																							<li id="footer-info-copyright">Content is available under <a href="/wiki/OpenStreetMap_License" title="OpenStreetMap License">Creative Commons Attribution-ShareAlike 2.0 license</a>.</li>
+															</ul>
+															<ul id="footer-places">
+																	<li id="footer-places-privacy"><a href="/wiki/Privacy_Policy" title="Privacy Policy">Privacy policy</a></li>
+																							<li id="footer-places-about"><a href="/wiki/About" title="About">About OpenStreetMap Wiki</a></li>
+																							<li id="footer-places-disclaimer"><a href="/wiki/OpenStreetMap:General_disclaimer" title="OpenStreetMap:General disclaimer">Disclaimers</a></li>
+															</ul>
+											<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by-sa/2.0/"><img src="/cc-wiki.png" alt="Creative Commons Attribution-ShareAlike 2.0 license" width="88" height="31" /></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		
+<script src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if ( window.mediaWiki ) {
+	mediaWiki.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Import/Catalogue", "wgTitle": "Import/Catalogue", "wgAction": "view", "wgArticleId": 10945, "wgIsArticle": true, "wgUserName": null, "wgUserGroups": ["*"], "wgCurRevisionId": 727664, "wgCategories": ["Ambox Derived Works", "Cleaning Request", "New York", "Import", "Open Data Licence", "Data sources"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgSearchNamespaces": [0, 200, 202, 204, 206, 208, 210, 212], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "simplesearch": true}, "wgWikiEditorEnabledModules": {"toolbar": false, "dialogs": false, "templateEditor": false, "templates": false, "addMediaWizard": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}});
+}
+</script>
+<script>if ( window.mediaWiki ) {
+	mediaWiki.loader.load(["mediawiki.util", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax", "mediawiki.legacy.mwsuggest", "ext.vector.collapsibleNav", "ext.vector.collapsibleTabs", "ext.vector.simpleSearch"]);
+	mediaWiki.loader.go();
+}
+</script>
+
+<script src="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if ( window.mediaWiki ) {
+	mediaWiki.user.options.set({"ccmeonemails":0,"cols":80,"contextchars":50,"contextlines":5,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,
+	"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs200":true,"searchNs201":false,"searchNs202":true,"searchNs203":false,"searchNs204":true,"searchNs205":false,"searchNs206":true,"searchNs207":false,"searchNs208":true,"searchNs209":false,"searchNs210":true,"searchNs211":false,"searchNs212":true,"searchNs213":false});;mediaWiki.loader.state({"user.options":"ready"});
+}
+</script>		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+		<!-- Served in 2.154 secs. -->			</body>
+</html>
+

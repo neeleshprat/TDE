@@ -1,0 +1,312 @@
+  
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Soccer Betting Guides, Picks, Tips, Advice, Best Soccer Prediction, Free Daily Picks</title>
+<meta name="keywords" content=
+"soccer betting analysis, best soccer prediction,soccer pick and tips,asian handicap,betting guide, free ,bookies,bookmakers,hot picks" />
+<meta name="description" content="The Best Soccer Picks, Tips and Predictions - provides high winning prediction, daily free picks from expert and professional soccer analysis" />
+<link href="library/styles.css" type="text/css" rel="STYLESHEET" />
+<link href="library/seaglass.css" type="text/css" rel="stylesheet" />
+<link href="library/pagination.css" type="text/css" rel="stylesheet" />
+
+
+<script src="library/mozxpath.js" type="text/javascript"></script>
+<script src="library/cookies.js" type="text/javascript"></script>
+<script src="library/functions.js" type="text/javascript"></script>
+<script src="library/md5.js" type="text/javascript"></script>
+<script src="library/yahoo-dom-event.js"></script>
+<script src="library/connection-min.js"></script>
+<script src="library/history-beta-min.js"></script>
+
+</head>
+<body>
+<script>
+    var bookmarkedSection = YAHOO.util.History.getBookmarkedState( "app" );
+    var querySection = YAHOO.util.History.getQueryStringParameter( "section" );
+    var initSection = bookmarkedSection || querySection || "home";
+
+    // Register our only module. Module registration MUST take
+    // place before calling YAHOO.util.History.initialize.
+    YAHOO.util.History.register( "app", initSection, function( state ) {
+        // This is called after calling YAHOO.util.History.navigate, or after the user
+        // has trigerred the back/forward button. We cannot discrminate between
+        // these two situations.
+        loadSection( state );
+    } );
+				
+    // This function does an XHR call to load and
+    // display the specified section in the page.
+    function loadSection( section ) {
+        var url = section + ".php";
+				requestPage(url);
+				navAllInactive();
+				
+				var currentSelection = document.getElementById(section);
+				currentSelection.className="current"
+    }
+
+    function initializeNavigationBar() {
+        // Process links
+        var anchors = YAHOO.util.Dom.get( "nav" ).getElementsByTagName( "a" );
+        for ( var i=0, len=anchors.length ; i<len ; i++ ) {
+            var anchor = anchors[i];
+            YAHOO.util.Event.addListener( anchor, "click", function( evt ) {
+                var href = this.getAttribute( "href" );
+                var section = YAHOO.util.History.getQueryStringParameter( "section", href ) || "home";
+                // If the Browser History Manager was not successfuly initialized,
+                // the following call to YAHOO.util.History.navigate will throw an
+                // exception. We need to catch it and update the UI. The only
+                // problem is that this new state will not be added to the browser
+                // history.
+                //
+                // Another solution is to make sure this is an A-grade browser.
+                // In that case, under normal circumstances, no exception should
+                // be thrown here.
+                try {
+                    YAHOO.util.History.navigate( "app", section );
+                } catch ( e ) {
+                    loadSection( section );
+                }
+                YAHOO.util.Event.preventDefault( evt );
+            } );
+        }
+
+        // This is the tricky part... The window's onload handler is called when the
+        // user comes back to your page using the back button. In this case, the
+        // actual section that needs to be loaded corresponds to the last section
+        // visited before leaving the page, and not the initial section. This can
+        // be retrieved using getCurrentState:
+        var currentSection = YAHOO.util.History.getCurrentState( "app" );
+        if ( location.hash.substr(1).length > 0 ) {
+            // If the section requested in the URL fragment is different from
+            // the section loaded in index.php, we have an unpleasant refresh
+            // effect because we do an asynchronous XHR call. Instead of doing
+            // a synchronous XHR call, we can fix this by erasing the initial
+            // content of bd:
+            if ( currentSection != querySection )
+                YAHOO.util.Dom.get( "divAjaxInfo" ).innerHTML = "";
+            loadSection( currentSection );
+        }
+    }
+
+
+    // Subscribe to this event before calling YAHOO.util.History.initialize,
+    // or it may never get fired! Note that this is guaranteed to be fired
+    // after the window's onload event.
+    YAHOO.util.History.onLoadEvent.subscribe( function() {
+        initializeNavigationBar();
+    } );
+
+    // The call to YAHOO.util.History.initialize should ALWAYS be from within
+    // a script block located RIGHT AFTER the opening body tag (this seems to prevent
+    // an edge case bug on IE - IE seems to sometimes forget the history when
+    // coming back to a page, and the back - or forward button depending on the
+    // situation - is disabled...)
+    try {
+        YAHOO.util.History.initialize();
+    } catch ( e ) {
+        // The only exception that gets thrown here is when the browser is not A-grade.
+        // Since scripting is enabled, we still try to provide the user with a better
+        // experience using AJAX. The only caveat is that the browser history will not work.
+        initializeNavigationBar();
+    }
+;
+</script>
+
+<!-- branding start -->
+<div id="branding">
+  <div id="slogan"><p><br />
+    <font size="4" >The Best Online Soccer Betting Guides</font>
+    </p>
+  </div>
+  <div id="spacer"></div>
+  <!-- <div id="brandingheader"></div> -->
+  <div id="nav" >
+    <ul>
+      <li id="home" class="current"> <a href='index.php' ><span>Hot Picks</span></a> </li>
+      <li id="getLastResult" > <a href='getLastResult.php?section=getLastResult' ><span>Last Result</span></a> </li>
+      <li id="getLogin" > <a href='getLogin.php?section=getLogin' ><span>Login</span></a> </li>
+      <li id="getRegister" > <a href='getRegister.php?section=getRegister' ><span>Register</span></a> </li>
+      <li id="getFeedback" > <a href='getFeedback.php?section=getFeedback' ><span>Contact Us</span></a> </li>
+      <li id="asianhandicap" > <a href='asianhandicap.php?section=asianhandicap' ><span>Asian Handicap</span></a> </li>
+    </ul>
+  </div>
+</div>
+<!-- wrapper end -->
+<div id="spacer"></div>
+<!-- wrapper start -->
+<div id="wrapper" >
+  <!-- leftNews start -->
+  <div id="leftNews">
+<!--  	<button id="btlogout" name="btLogout" onclick="javascript:logout();" >logout</button>
+  	<button id="btlogout" name="btChangePassword" onClick="javascript:openCenteredWindow('changePassword.php'); ">change password</button><br />
+-->    
+		<div id="loginInfoDiv" name="loginInfoDiv">
+        </div><br />
+
+    <h2 class="slat-title">soccer betting analysis</h2>
+    <p>Fortune Soccer teams working 24/7 to collecting soccer or football data, statistical analysis, motivational and psychological factors from the players, suspensions, injuries, players financial, <strong>betting rate and odds</strong> from bookmakers and bookies, information from <strong>insider.</strong> FortuneSoccer teams always keep an eye to bookmaker's line which can be influenced by several large wagers made on a soccer or football match.</p>
+    <h2 class="slat-title">soccer is business</h2>
+    <p>Fortune Soccer consider soccer as a business and understand that <strong>information is important</strong> for all members, not only because soccer or football is widely considered to be the most popular sport in the world, but also every big soccer events always <strong>involved bookmakers and bookies</strong>.</p>
+    <h2 class="slat-title">best soccer prediction</h2>
+    <p>Fortune Soccer teams use every information sources to increase the <strong>winning prediction</strong> and that makes FortuneSoccer.com <b>the best soccer prediction</b> website you've ever found </p>
+    <h2 class="slat-title">benefits</h2>
+    <p style="margin-top:0px;"><ul>
+    <li><strong>Free</strong> limited picks, tips and predictions for all members</li>
+    <li>Seriously <strong>low price</strong> for Premium Membership</li>
+    <li>Increasing confidence and winning percentage</li>
+    <li>All picks, tips and predictions will be updated frequently, 2 - 3 hours before soccer match kick-off.</li>
+    <li>Fortune Soccer teams always set a high value on every members and only advice the best soccer picks, the best soccer betting tips and the best soccer predictions</li>
+		</ul></p>
+
+  </div>
+  <!-- leftNews end -->
+  <!-- content start -->
+  <div id="content" >
+
+		<div id="subcontent">
+      <div class="hidden" id="loadpanel" style="font-weight:bold"></div>
+      <!-- divAjaxInfo start -->
+      <div id="divAjaxInfo">		
+      <center>
+        <h3 style="color: #CC6600">Free registration, free quality picks!</h3>
+      </center>      
+        <h2 align="center" style="color: #333333" >Hot Picks</h2>
+
+        <div class='styletable'><table border=1 style='margin:0px auto; text-align:center' >
+				<th width='80px' >DATE</th>
+				<th width='66px' >LEAGUE</th>
+				<th width='260px'>TEAM</th>
+				<th width='90px' >HANDICAP</th>
+				<th width='60px' >O/U</th>
+				<th width='70px' >MEMBER</th>
+				<th width='88px' >RATING</th>
+				<colgroup style='font-size:11px'>
+				<colgroup>
+				<colgroup>
+				<colgroup style='font-size:11px'>
+				<colgroup style='font-size:11px'>
+				<colgroup style='font-size:11px'>
+				<tr   class='odd'>
+						<td> 2012-02-08</td>
+						<td> AfrCup</td>
+						<td> Ghana - Zambia
+							<td> 0 - 1/2</td>
+							<td> </td>
+							<td> <font color='green'>Reguler</font> </td>
+							<td ><img src='library/stars3.png'/></td>
+							</tr><tr   class='even'>
+						<td> 2012-02-08</td>
+						<td> AfrCup</td>
+						<td> Ivory Coast - Mali
+							<td> 0 - 1 1/4</td>
+							<td> </td>
+							<td> <font color='blue'>Gold</font> </td>
+							<td ><img src='library/stars4.png'/></td>
+							</tr><tr   class='odd'>
+						<td> 2012-02-08</td>
+						<td> FAcup</td>
+						<td> Middlesbrough - Sunderland
+							<td> 1/4 - 0</td>
+							<td> </td>
+							<td> <font color='black'>Platinum</font> </td>
+							<td ><img src='library/stars5.png'/></td>
+							</tr><tr   class='even'>
+						<td> 2012-02-08</td>
+						<td> GerCup</td>
+						<td> Hoffenheim - Greuther Furth
+							<td> 0 - 1/2</td>
+							<td> </td>
+							<td> <font color='black'>Platinum</font> </td>
+							<td ><img src='library/stars5.png'/></td>
+							</tr><tr   class='odd'>
+						<td> 2012-02-08</td>
+						<td> GerCup</td>
+						<td> Stuttgart - Bayern Munich
+							<td> 1 - 0</td>
+							<td> </td>
+							<td> <font color='red'>Free</font> </td>
+							<td ><img src='library/stars2.png'/></td>
+							</tr><tr   class='even'>
+						<td> 2012-02-08</td>
+						<td> ITAC</td>
+						<td> AC Milan - Juventus
+							<td> 0 - 1/4</td>
+							<td> </td>
+							<td> <font color='green'>Reguler</font> </td>
+							<td ><img src='library/stars3.png'/></td>
+							</tr><tr   class='odd'>
+						<td> 2012-02-08</td>
+						<td> SpaC</td>
+						<td> Barcelona - Valencia
+							<td> 0 - 1 1/2</td>
+							<td> </td>
+							<td> <font color='blue'>Gold</font> </td>
+							<td ><img src='library/stars4.png'/></td>
+							</tr></table></div>          <p align="center">Notes : <font color="red">Red Team is our picks</font></p>
+        <br>
+        <h5  align="center">You must <a href='javascript:requestPage("getLogin.php");'>Login</a> to see the predictions</h5>
+        <br />
+        <p align="center">Picks and Predictions based on <strong>Asian Handicap</strong> with Total Goals - over/under.</p>
+
+                 
+        
+      </div>
+      <!-- divAjaxInfo end -->
+		
+<!--    <div id="subcontent" style="background-color: #ddddca; color:#333333; "  > -->
+			<div id="spacer"></div>
+      <br />
+    <hr width="100%" />
+      <p align="left"><span class="fortunestyle">Fortune Soccer</span> expert only provide <strong>high quality</strong> soccer predictions to maintain a high winning percentage. Fortune Soccer did not guarantee 100% accurate predictions, but with Fortune Soccer teams guide and advice, you can increase your winning probability to the top level, a very <strong>high profit</strong> for all members. Enjoy.</p>
+      <p align="left"><a href='javascript:requestPage("getRegister.php")' onClick="javascript:doShow(this);"><strong>Register now</strong></a> for <strong>free</strong> and enjoy our<strong> free quality soccer predictions </strong>. </p>
+			<p align="left">If you have any comments or suggestions, you are welcome to send an e-mail at
+        <script language="JavaScript">
+					showEmail();
+				</script>
+        . Thanks for visiting <span class="fortunestyle">us</span>. All Match Fixtures, tips, picks and predictions will updated daily, come often to see the updated picks in our website. Good luck! </p>
+    <center>
+      <blockquote style="width:600px; background-color: #E0E2BA; text-align:center; padding:10px; font-size:10px"> FortuneSoccer.com is not gaming or gambling website. However, it is important to check the laws and regulation in your own country regarding gambling, sports betting, soccer betting tips, soccer pick or soccer prediction. Please leave FortuneSoccer.com if your country prohibits online gambling and researching on soccer tips. We are not responsible for any legal matters arising from the use of our services. </blockquote>
+    </center>
+    <br />
+    
+    
+    
+    <p>&nbsp;</p>
+    
+    <center>
+        <br />
+		<h5 >Partner Sites</h5>
+
+<table cellspacing="10px">
+    <tr>
+    <td>
+    <A HREF='http://www.uranking.com/vote.asp?member=48439' target='_blank'><IMG SRC='banners/sp_topsite_1.gif' border="0"></A>
+    </td>
+</tr>
+		<tr>
+    <td colspan="3">
+		&nbsp;
+    </td>
+    </tr>
+    </table>
+		</center>
+
+    </div>
+  </div>  
+  <!-- content end -->
+  <!-- footer start -->
+  <div class="footer"> <span style="float:left"> &copy; Copyright 2007 FortuneSoccer. All rights reserved </span> <span style="float:right; ">        Link to our website in BAHASA : <a href="http://www.bolauntung.com/" >www.bolauntung.com</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="termsandconditions.php" onClick="javascript:openCenteredWindow('termsandconditions.php');return(false);">Terms and Conditions</a>&nbsp;&nbsp;<a href="disclaimer.php" onClick="javascript:openCenteredWindow('disclaimer.php'); return(false);">Disclaimer</a> </span> </div>
+  <!-- footer end -->
+</div>
+<!-- wrapper end -->
+<!--<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2531365-1";
+urchinTracker();
+</script>-->
+</body>
+</html>  

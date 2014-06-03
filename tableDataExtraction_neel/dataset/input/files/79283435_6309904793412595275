@@ -1,0 +1,513 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+	<meta name="description" content="Staff Roster" />
+	<meta name="robots" content="noindex" />
+	<meta name="keywords" content="Prince Caspian, Caspian, Narnia, LWW, PC, Pevensie, Aslan, Roleplay, Role play, RPG, RP, Chronicles of Narnia, game, PBB, play by board, play by forum, PBF, Play by post, PBP, into narnia" />
+	<script language="JavaScript" type="text/javascript" src="http://intonarnia.com/Themes/default/script.js?fin11"></script>
+	<script language="JavaScript" type="text/javascript"><!-- // --><![CDATA[
+		var smf_theme_url = "http://intonarnia.com/Themes/OutlineNarnia_tp";
+		var smf_images_url = "http://intonarnia.com/Themes/OutlineNarnia_tp/images";
+		var smf_scripturl = "http://intonarnia.com/index.php";
+		var smf_iso_case_folding = false;
+		var smf_charset = "ISO-8859-1";
+	// ]]></script>
+  <link rel="icon" type="image/ico" href="favicon.ico">
+	<title>Staff Roster</title>
+	<link rel="stylesheet" type="text/css" href="http://intonarnia.com/Themes/OutlineNarnia_tp/style.css?fin11" />
+	<link rel="stylesheet" type="text/css" href="http://intonarnia.com/Themes/default/print.css?fin11" media="print" />
+	<link rel="help" href="http://intonarnia.com/index.php?action=help" target="_blank" />
+	<link rel="search" href="http://intonarnia.com/index.php?action=search" />
+	<link rel="contents" href="http://intonarnia.com/index.php" />
+	<link rel="alternate" type="application/rss+xml" title="Into Narnia - RSS" href="http://intonarnia.com/index.php?type=rss;action=.xml" />
+	<link rel="prev" href="http://intonarnia.com/index.php/topic,63.0/prev_next,prev.html" />
+	<link rel="next" href="http://intonarnia.com/index.php/topic,63.0/prev_next,next.html" />
+	<link rel="index" href="http://intonarnia.com/index.php/board,4.0.html" />
+				<link rel="icon" href="http://intonarnia.com/favicon.ico" type="image/vnd.microsoft.icon" />
+	<script language="javascript" type="text/javascript">
+		var currentSwapArticle = true;
+		function swapOptionsArticle(one)
+		{
+				document.getElementById(one).style.display = currentSwapArticle ? "" : "none";
+                 document.getElementById("articleUpshrink").src = smf_images_url + ( currentSwapArticle ? "/upshrink.gif" : "/upshrink2.gif");
+				currentSwapArticle = !currentSwapArticle;
+		}
+	</script>
+		  <script language="JavaScript" type="text/javascript"><!-- // --><![CDATA[
+					 var current_leftbar = false;
+
+					 function shrinkHeaderLeftbar(mode)
+					 {
+								document.cookie = "upshrink=" + (mode ? 1 : 0);
+								document.getElementById("upshrinkLeftbar").src = smf_images_url + (mode ? "/upshrink2.gif" : "/upshrink.gif");
+
+								document.getElementById("leftbarHeader").style.display = mode ? "none" : "";
+
+								current_leftbar = mode;
+					 }
+			 // ]]></script>
+		 <script language="JavaScript" type="text/javascript"><!-- // --><![CDATA[
+					 var current_rightbar = false;
+
+					 function shrinkHeaderRightbar(mode)
+					 {
+								document.cookie = "upshrink=" + (mode ? 1 : 0);
+								document.getElementById("upshrinkRightbar").src = smf_images_url + (mode ? "/upshrink2.gif" : "/upshrink.gif");
+
+								document.getElementById("rightbarHeader").style.display = mode ? "none" : "";
+
+								current_rightbar = mode;
+					 }
+		  // ]]></script>
+
+	<script language="JavaScript" type="text/javascript"><!-- // --><![CDATA[
+		var current_header = false;
+
+		function shrinkHeader(mode)
+		{
+			document.cookie = "upshrink=" + (mode ? 1 : 0);
+			document.getElementById("upshrink").src = smf_images_url + (mode ? "/upshrink2.gif" : "/upshrink.gif");
+
+			document.getElementById("upshrinkHeader").style.display = mode ? "none" : "";
+			document.getElementById("upshrinkHeader2").style.display = mode ? "none" : "";
+
+			current_header = mode;
+		}
+	// ]]></script>
+		<script language="JavaScript" type="text/javascript"><!-- // --><![CDATA[
+			var current_header_ic = false;
+
+			function shrinkHeaderIC(mode)
+			{
+				document.cookie = "upshrinkIC=" + (mode ? 1 : 0);
+				document.getElementById("upshrink_ic").src = smf_images_url + (mode ? "/expand.gif" : "/collapse.gif");
+
+				document.getElementById("upshrinkHeaderIC").style.display = mode ? "none" : "";
+
+				current_header_ic = mode;
+			}
+		// ]]></script>
+</head>
+ <body>
+  <div id="wrapper">
+	<div id="shad-l">
+	 <div id="shad-r">
+	  <div id="header">
+	<div id="head-l">
+	 <div id="head-r">
+	  <div id="userarea">				
+		Welcome, <b>Guest</b>. Please <a href="http://intonarnia.com/index.php?action=login">login</a> or <a href="http://intonarnia.com/index.php?action=register">register</a>.
+		<script language="JavaScript" type="text/javascript" src="http://intonarnia.com/Themes/default/sha1.js"></script>
+		<form action="http://intonarnia.com/index.php?action=login2" method="post" accept-charset="ISO-8859-1" style="margin: 4px 0;" onsubmit="hashLoginPassword(this, '53b3e947ad7897adb76af7888122686c');">
+			<input type="text" name="user"  size="10" />
+			<input type="password" name="passwrd"  size="10" />
+			<input type="submit" value="Login" />
+			<input type="hidden" name="hash_passwrd" value="" />
+		</form>February 08, 2012, 09:39:25 PM<br />
+	</div>
+	<div id="searcharea">
+		<form action="http://intonarnia.com/index.php?action=search2" method="post" accept-charset="ISO-8859-1">
+			<input type="text" name="search" value="Search..." onfocus="this.value = '';" onblur="if(this.value=='') this.value='Search...';" /> 
+			<input type="hidden" name="topic" value="63" />
+		</form>
+	</div>
+		<a href="http://intonarnia.com/index.php" title=""><span id="logo">&nbsp;</span></a>
+	  </div>		 
+	 </div>
+	</div>
+	  <div id="toolbar">
+		
+		  <div id="topmenu">
+			  <ul><li><a href="http://intonarnia.com/index.php"><span>Home</span></a></li><li><a href="http://intonarnia.com/index.php?action=help"><span>Help</span></a></li><li><a href="http://intonarnia.com/index.php?action=search"><span>Search</span></a></li><li><a href="http://intonarnia.com/index.php?action=calendar"><span>Calendar</span></a></li><li><a  href="http://intonarnia.com/index.php?action=login"><span>Login</span></a></li><li><a  href="http://intonarnia.com/index.php?action=register"><span>Register</span></a></li>
+		</ul>
+		  </div>
+		  <div id="upshrinks"> <a href="javascript:void(0);" onclick="shrinkHeaderLeftbar(!current_leftbar); return false;"><img id="upshrinkLeftbar" src="http://intonarnia.com/Themes/OutlineNarnia_tp/images/upshrink.gif" alt="*" title="Shrink or expand the header." style="margin: 0 1ex;" border="0" /></a><img id="upshrinkTempLeftbar" src="http://intonarnia.com/Themes/OutlineNarnia_tp/images/blank.gif" alt="" style="margin-right: 0ex;" />
+		  </div>
+	  </div>
+	  <div id="bodyarea">
+	<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td width="170" style="padding: 4px; padding-top: 4px;padding-right: 1ex;" valign="top">
+					  <div id="leftbarHeader" style="padding-top: 5px; width: 170px;"><div class="tborder" style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;"><a href="javascript: void(0); return false" onclick="toggle('1'); return false"><img id="blockcollapse1" style="margin: 0;" align="right" src="http://intonarnia.com/Themes/OutlineNarnia_tp/images/collapse.gif" border="0" alt="" /></a><a href="http://intonarnia.com/index.php?action=login">User</a>
+		</div>
+		<div class="windowbg" style="padding:4px; " id="block1">
+	<div class="smalltext">
+	Welcome, <b>Guest</b>. Please <a href="http://intonarnia.com/index.php?action=login">login</a> or <a href="http://intonarnia.com/index.php?action=register">register</a>.<br />
+	February 08, 2012, 09:39:25 PM<br />
+	<form action="http://intonarnia.com/index.php?action=login2" method="post" >
+		<input type="text" name="user" size="10" /> <input type="password" name="passwrd" size="10" />
+        <select name="cookielength">
+			<option value="60">1 Hour</option>
+			<option value="1440">1 Day</option>
+			<option value="10080">1 Week</option>
+			<option value="302400">1 Month</option>
+			<option value="-1" selected="selected">Forever</option>
+		</select>
+        <input type="submit" value="Login" /><br />
+        Login with username, password and session length
+	</form></div></div></div><div class="tborder" style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;"><a href="javascript: void(0); return false" onclick="toggle('12'); return false"><img id="blockcollapse12" style="margin: 0;" align="right" src="http://intonarnia.com/Themes/OutlineNarnia_tp/images/collapse.gif" border="0" alt="" /></a>Quick Links
+		</div>
+		<div class="windowbg" style="padding:4px; " id="block12">
+	<div class="tborder">
+		<ul style="margin: 0; padding: 0; list-style: none;" class="sitemap"><li><a class="sitemap_header" href="http://intonarnia.com/index.php/topic,6.0.html"><img src="http://intonarnia.com/Themes/OutlineNarnia_tp/images/TPdivider.gif" border="0" alt="" /> Storyline</a></li><li><a class="sitemap_header" href="http://intonarnia.com/index.php/topic,3.0.html"><img src="http://intonarnia.com/Themes/OutlineNarnia_tp/images/TPdivider.gif" border="0" alt="" /> Rules</a></li><li><a class="sitemap_header" href="http://intonarnia.com/index.php/topic,63.0.html"><img src="http://intonarnia.com/Themes/OutlineNarnia_tp/images/TPdivider.gif" border="0" alt="" /> Staff Roster</a></li><li><a class="sitemap_header" href="http://intonarnia.com/index.php/topic,792.0.html"><img src="http://intonarnia.com/Themes/OutlineNarnia_tp/images/TPdivider.gif" border="0" alt="" /> Canon List</a></li><li><a class="sitemap_header" href="http://intonarnia.com/index.php/topic,4.0.html"><img src="http://intonarnia.com/Themes/OutlineNarnia_tp/images/TPdivider.gif" border="0" alt="" /> Character Application</a></li><li><a class="sitemap_header" href="http://intonarnia.com/index.php/topic,26.0.html"><img src="http://intonarnia.com/Themes/OutlineNarnia_tp/images/TPdivider.gif" border="0" alt="" /> Available Creatures</a></li></ul></div></div></div><div class="tborder" style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;"><a href="javascript: void(0); return false" onclick="toggle('25'); return false"><img id="blockcollapse25" style="margin: 0;" align="right" src="http://intonarnia.com/Themes/OutlineNarnia_tp/images/collapse.gif" border="0" alt="" /></a>CotM - Mar. 2010
+		</div>
+		<div class="windowbg" style="padding:4px; " id="block25"><b>Character of the Month</b><br /><a href="http://intonarnia.com/index.php?action=profile;u=7" target="_blank"><font size="3" style="line-height: 1.3em;">Prince Caspian</font></a><br /><div style="float: left; margin: .5ex 1ex 1ex 1ex;"><img src="http://i2.photobucket.com/albums/y24/Jennifu/Images/Narnia/Into%20Narnia/index-3.png" alt="" width="80" border="0" /></div> <br /><a href="http://intonarnia.com/index.php/topic,35.0.html" target="_blank">Read the Application</a><br /><i>Played by Cara</i><br /><br /><i>"Cara has managed to...create a character that is both mythical and life-like. Impulsive, moody, and yet kind and good-hearted, Caspian is just beginning to show the makings of a true leader."</i><br /><a href="http://intonarnia.com/index.php?page=11">Character of the Month Archive</a></div></div><div class="tborder" style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;"><a href="javascript: void(0); return false" onclick="toggle('6'); return false"><img id="blockcollapse6" style="margin: 0;" align="right" src="http://intonarnia.com/Themes/OutlineNarnia_tp/images/collapse.gif" border="0" alt="" /></a><a href="http://intonarnia.com/index.php?action=tpmod;sa=shoutbox">IC Chat</a>
+		</div>
+		<div class="windowbg" style="padding:4px; " id="block6">
+				<table cellpadding="0" align="center" width="100%" cellspacing="0" style="table-layout: fixed;">
+					<tr><td><div class="smalltext" style="width: 99%; height: 350px; overflow: auto;">Last 15 Shouts:<hr /><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://intonarnia.com/index.php?action=profile;u=220" style="color: #348017">Edmund Pevensie</a></b></div><div style="padding: 2px;"> April 11, 2010, 09:07:48 PM</div><div style="padding: 4px;">*wanders in an away-from-them-wardly direction*</div></div><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://intonarnia.com/index.php?action=profile;u=51" style="color: #348017">Arina Penley Carison</a></b></div><div style="padding: 2px;"> April 06, 2010, 07:38:36 PM</div><div style="padding: 4px;">Irritations indeed... *growls and sits on the ground, holding her head*</div></div><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://intonarnia.com/index.php?action=profile;u=7" style="color: purple">Prince Caspian</a></b></div><div style="padding: 2px;"> April 04, 2010, 08:10:18 PM</div><div style="padding: 4px;">Alright, let's avoid fighting among ourselves. Save those irritations for the battlefield. </div></div><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://intonarnia.com/index.php?action=profile;u=51" style="color: #348017">Arina Penley Carison</a></b></div><div style="padding: 2px;"> April 02, 2010, 11:25:42 PM</div><div style="padding: 4px;">*grabs at the throbbing ache in her head* You! This hasn't a thing to do with you unless you're about ready to hand over my weapon! *groans cause it REALLY hurt* You... *slouches against a tree*</div></div><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://intonarnia.com/index.php?action=profile;u=148" style="color: #348017">Lord Killian De La Braose</a></b></div><div style="padding: 2px;"> April 02, 2010, 11:24:35 PM</div><div style="padding: 4px;"><img src="http://intonarnia.com/Smileys/default/angry.gif" alt="Angry" border="0" /> It was just a little fun, lighten up. (rubs his cheek) You're lucky you're a lady, else I'd have boxed your ears.</div></div><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://intonarnia.com/index.php?action=profile;u=152" style="color: #348017">Dzuna</a></b></div><div style="padding: 2px;"> April 02, 2010, 11:23:03 PM</div><div style="padding: 4px;">D:< (swats Arina upside the head)</div></div><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://intonarnia.com/index.php?action=profile;u=51" style="color: #348017">Arina Penley Carison</a></b></div><div style="padding: 2px;"> April 02, 2010, 11:20:46 PM</div><div style="padding: 4px;">I do believe I was well within my rights, making unfounded accusations! And I could have very well hit him with something else if some feathered maiden hadn't snatched away my bow!</div></div><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://intonarnia.com/index.php?action=profile;u=144" style="color: #348017">Lord Sephen De La Braose</a></b></div><div style="padding: 2px;"> April 02, 2010, 11:19:11 PM</div><div style="padding: 4px;">>:/ That was completely uncalled for.</div></div><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://intonarnia.com/index.php?action=profile;u=148" style="color: #348017">Lord Killian De La Braose</a></b></div><div style="padding: 2px;"> April 02, 2010, 11:18:42 PM</div><div style="padding: 4px;">:O</div></div><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://intonarnia.com/index.php?action=profile;u=51" style="color: #348017">Arina Penley Carison</a></b></div><div style="padding: 2px;"> April 02, 2010, 11:18:21 PM</div><div style="padding: 4px;">*slaps the despicable de la Braose man*</div></div><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://intonarnia.com/index.php?action=profile;u=148" style="color: #348017">Lord Killian De La Braose</a></b></div><div style="padding: 2px;"> April 02, 2010, 11:15:48 PM</div><div style="padding: 4px;">XD</div></div><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://intonarnia.com/index.php?action=profile;u=51" style="color: #348017">Arina Penley Carison</a></b></div><div style="padding: 2px;"> April 02, 2010, 11:12:38 PM</div><div style="padding: 4px;">Young WHAT?! *please imagine a rather screechy voice as she thinks of a way to kill person*</div></div><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://intonarnia.com/index.php?action=profile;u=148" style="color: #348017">Lord Killian De La Braose</a></b></div><div style="padding: 2px;"> April 02, 2010, 11:07:17 PM</div><div style="padding: 4px;">Ahh, young love <img src="http://intonarnia.com/Smileys/default/grin.gif" alt="Grin" border="0" /></div></div><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://intonarnia.com/index.php?action=profile;u=7" style="color: purple">Prince Caspian</a></b></div><div style="padding: 2px;"> April 02, 2010, 10:26:40 PM</div><div style="padding: 4px;">-grins-</div></div><div style="margin: 4px;"><div style="border: dotted 1px; padding: 2px 4px 2px 4px;" class="windowbg2"><b><a href="http://intonarnia.com/index.php?action=profile;u=51" style="color: #348017">Arina Penley Carison</a></b></div><div style="padding: 2px;"> April 02, 2010, 10:08:49 PM</div><div style="padding: 4px;">*scowls and says through clenched teeth* I believe I disagree.</div></div></div></td>
+					</tr>
+				</table>
+			<div style="text-align: center; margin-top: 5px; " class="smalltext"><a href="http://intonarnia.com/index.php?action=tpmod;sa=shoutbox;shouts=500">Show last 500</a></div>
+       <form  accept-charset="ISO-8859-1" class="smalltext" style="padding: 0; margin: 0; margin-top: 8px; text-align: center;" name="tp-shoutbox" action="http://intonarnia.com/index.php?action=tpmod;id=shout" method="post"><input type="hidden" name="tp-shout-name" value="">
+             <input name="tp-shout-url" type="hidden" value=""><input type="hidden" name="sc" value="53b3e947ad7897adb76af7888122686c" />
+       </form></div></div><div class="tborder" style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;"><a href="javascript: void(0); return false" onclick="toggle('19'); return false"><img id="blockcollapse19" style="margin: 0;" align="right" src="http://intonarnia.com/Themes/OutlineNarnia_tp/images/collapse.gif" border="0" alt="" /></a>Affiliates
+		</div>
+		<div class="windowbg" style="padding:4px; " id="block19"><center><img src="http://i2.photobucket.com/albums/y24/Jennifu/Images/Narnia/IntoNarniaAffiliateBadge.png" border="no"><br><hr><a href="http://corus.ipbfree.com/" target="_blank"><img src="http://img.photobucket.com/albums/v623/L05tP3rf3ct10n/Corus/corbut.png" alt="Corus: A Tortallan Roleplay" border="0"></a><br><a href="http://z10.invisionfree.com/asinkingfeeling%20" target="_blank"><img src="http://i610.photobucket.com/albums/tt182/graphicsshoppe/affilonecopy.png" alt="A Sinking Feeling"></a><br><a href="http://z3.invisionfree.com/sithspawn/" target="_blank"><img src="http://img.photobucket.com/albums/v407/Myklebust/Buttons/SS2.png" border="0"></a><br><a href="http://s15.invisionfree.com/RPG_Directory" target="_blank"><img src="http://img.photobucket.com/albums/v231/ShinLi/RPG%20Life/RPGDirectoryMiniBanner2.gif" border="0"></a><br><a href="Http://www.Forumwar.net/"><img src="http://www.forumwar.net/images/Forumwar-RPG.PNG" alt="Forumwar Roleplay" border="0" height="31" width="88"></a><hr><form><textarea rows="4" cols="18" readonly="readonly">&lt;a href="http://intonarnia.com/index.php" target="_blank"&gt;&lt;img src="http://i2.photobucket.com/albums/y24/Jennifu/Images/Narnia/IntoNarniaAffiliateBadge.png"&gt;&lt;/a&gt;</textarea></form></center></div></div><div class="tborder" style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;"><a href="javascript: void(0); return false" onclick="toggle('8'); return false"><img id="blockcollapse8" style="margin: 0;" align="right" src="http://intonarnia.com/Themes/OutlineNarnia_tp/images/collapse.gif" border="0" alt="" /></a>Recent Topics
+		</div>
+		<div class="windowbg" style="padding:4px; " id="block8">
+	<div style="width: 100%; ">
+		<div class="smalltext"><a href="http://intonarnia.com/index.php/topic,1556.msg6160/topicseen.html#new">We're Ready to Move!</a></div>
+		<div class="smalltext">by <b><a href="http://intonarnia.com/index.php?action=profile;u=5">Lucy Pevensie</a></b></div>
+		<div class="smalltext">[May 28, 2010, 01:43:15 AM]
+		</div><hr />
+		<div class="smalltext"><a href="http://intonarnia.com/index.php/topic,1554.msg6157/topicseen.html#new">Camp outskirts. (Open)</a></div>
+		<div class="smalltext">by <b><a href="http://intonarnia.com/index.php?action=profile;u=245">Cain Corrino</a></b></div>
+		<div class="smalltext">[May 18, 2010, 09:19:46 PM]
+		</div><hr />
+		<div class="smalltext"><a href="http://intonarnia.com/index.php/topic,820.msg6156/topicseen.html#new">[A] Alone</a></div>
+		<div class="smalltext">by <b><a href="http://intonarnia.com/index.php?action=profile;u=169">Trumpkin</a></b></div>
+		<div class="smalltext">[May 16, 2010, 09:32:30 PM]
+		</div><hr />
+		<div class="smalltext"><a href="http://intonarnia.com/index.php/topic,1553.msg6155/topicseen.html#new">Hola, mi amigos!</a></div>
+		<div class="smalltext">by <b><a href="http://intonarnia.com/index.php?action=profile;u=51">Arina Penley Carison</a></b></div>
+		<div class="smalltext">[May 12, 2010, 07:01:10 PM]
+		</div>
+	</div></div></div><div class="tborder" style="margin-bottom: 2px;">
+		<div class="titlebg" style="padding: 4px; font-weight: bold;"><a href="javascript: void(0); return false" onclick="toggle('9'); return false"><img id="blockcollapse9" style="margin: 0;" align="right" src="http://intonarnia.com/Themes/OutlineNarnia_tp/images/collapse.gif" border="0" alt="" /></a><a href="http://intonarnia.com/index.php?action=stats">Stats</a>
+		</div>
+		<div class="windowbg" style="padding:4px; " id="block9"><div class="smalltext" style="font-family: verdana, arial, sans-serif;"><hr /><img src="http://intonarnia.com/Themes/OutlineNarnia_tp/images/icons/online.gif" style="margin: 0;" align="bottom" alt="" />
+                 <a href="http://intonarnia.com/index.php?action=who"><b>Users Online</b></a><br /><img src="http://intonarnia.com/Themes/OutlineNarnia_tp/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Users: 0<br /><img src="http://intonarnia.com/Themes/OutlineNarnia_tp/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Guests: 11<br /><img src="http://intonarnia.com/Themes/OutlineNarnia_tp/images/TPdivider.gif" alt="" border="0" style="margin:0 2px 0 0;" />Total: 11<hr />
+			<div style="width: 100%; "></div></div></div></div>
+			<script language="Javascript" type="text/javascript">
+				function toggle( targetId )
+				{
+					var state = 0;
+					var blockname = "block" + targetId;
+					var blockimage = "blockcollapse" + targetId;
+
+					if ( document.getElementById ) {
+						target = document.getElementById( blockname );
+						if ( target.style.display == "none" ) {
+							target.style.display = "";
+							state = 1;
+						}
+						else {
+							target.style.display = "none";
+							state = 0;
+						}
+
+						document.getElementById( blockimage ).src = smf_images_url + (state ? "/collapse.gif" : "/expand.gif");
+						var tempImage = new Image();
+						tempImage.src = "http://intonarnia.com/index.php?action=tpmod;upshrink=" + targetId + ";state=" + state + ";" + (new Date().getTime());
+
+					}
+				}
+			</script></div></td><td width="100%" align="left" valign="top" style="padding-top: 5px; padding-bottom: 10px;"><div><div class="tborder" style="margin-bottom: 2px;">
+		<div class="windowbg" style="padding:4px; " id="block21"> <div style="padding: 5px;" ><div align="center"><font size="7" style="line-height: 1.3em;"><a href="http://z7.invisionfree.com/intonarnia/" target="_blank"><b>We've moved!</b></a></font></div></div></div></div>
+			<script language="Javascript" type="text/javascript">
+				function toggle( targetId )
+				{
+					var state = 0;
+					var blockname = "block" + targetId;
+					var blockimage = "blockcollapse" + targetId;
+
+					if ( document.getElementById ) {
+						target = document.getElementById( blockname );
+						if ( target.style.display == "none" ) {
+							target.style.display = "";
+							state = 1;
+						}
+						else {
+							target.style.display = "none";
+							state = 0;
+						}
+
+						document.getElementById( blockimage ).src = smf_images_url + (state ? "/collapse.gif" : "/expand.gif");
+						var tempImage = new Image();
+						tempImage.src = "http://intonarnia.com/index.php?action=tpmod;upshrink=" + targetId + ";state=" + state + ";" + (new Date().getTime());
+
+					}
+				}
+			</script></div>
+<a name="top"></a>
+<a name="msg301"></a><a name="new"></a>
+<div><div class="nav" style="font-size: smaller; margin-bottom: 2ex; margin-top: 2ex;"><b><a href="http://intonarnia.com/index.php" class="nav">Into Narnia</a></b>&nbsp;>&nbsp;<b><a href="http://intonarnia.com/index.php?action=forum;f=3" class="nav">Beyond the Lamppost</a></b>&nbsp;>&nbsp;<b><a href="http://intonarnia.com/index.php/board,4.0.html" class="nav">Susan's Horn</a></b>&nbsp;>&nbsp;Topic: <b><a href="http://intonarnia.com/index.php/topic,63.0.html" class="nav">Staff Roster</a></b></div></div>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td class="middletext" valign="bottom" style="padding-bottom: 4px;">Pages: [<b>1</b>]   &nbsp;&nbsp;<a href="#lastPost"><b>Go Down</b></a></td>
+		<td align="right" style="padding-right: 1ex;">
+			<div class="nav" style="margin-bottom: 2px;"> <a href="http://intonarnia.com/index.php/topic,63.0/prev_next,prev.html#new">&laquo; previous</a> <a href="http://intonarnia.com/index.php/topic,63.0/prev_next,next.html#new">next &raquo;</a></div>
+			<table cellpadding="0" cellspacing="0">
+				<tr>
+					
+		<td class="mirrortab_first">&nbsp;</td>
+		<td class="mirrortab_back"><a href="http://intonarnia.com/index.php?action=printpage;topic=63.0" target="_blank">Print</a></td>
+		<td class="mirrortab_last">&nbsp;</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<table width="100%" cellpadding="3" cellspacing="0" border="0" class="tborder" style="border-bottom: 0;">
+		<tr class="catbg3">
+				<td valign="middle" width="2%" style="padding-left: 6px;">
+						<img src="http://intonarnia.com/Themes/OutlineNarnia_tp/images/topic/normal_post_locked_sticky.gif" align="bottom" alt="" />
+				</td>
+				<td width="13%"> Author</td>
+				<td valign="middle" width="85%" style="padding-left: 6px;" id="top_subject">
+						Topic: Staff Roster &nbsp;(Read 4857 times)
+				</td>
+		</tr>
+		<tr>
+				<td colspan="3" class="smalltext">0 Members and 1 Guest are viewing this topic.
+				</td>
+		</tr>
+</table>
+<form action="http://intonarnia.com/index.php?action=quickmod2;topic=63.0" method="post" accept-charset="ISO-8859-1" name="quickModForm" id="quickModForm" style="margin: 0;" onsubmit="return in_edit_mode == 1 ? modify_save('53b3e947ad7897adb76af7888122686c') : confirm('Are you sure you want to do this?');">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="bordercolor" id="postTable">
+	<tr><td style="padding: 1px 1px 0 1px;">
+		<table width="100%" cellpadding="3" cellspacing="0" border="0">
+			<tr><td class="windowbg">
+				<table width="100%" cellpadding="5" cellspacing="0" style="table-layout: fixed;">
+					<tr>
+						<td valign="top" width="140" rowspan="2" style="overflow: hidden;">
+							<b><a href="http://intonarnia.com/index.php?action=profile;u=2" title="View the profile of Aslan"><span style="color:#FF0000;">Aslan</span></a></b>
+							<div class="smalltext">
+								The Lion<br />
+								Global Moderator<br />
+								Salacious Satyr<br />
+								<img src="http://intonarnia.com/Themes/OutlineNarnia_tp/images/staffemblem3.png" alt="*" border="0" /><br /> <br />
+								<div style="overflow: auto; width: 100%;"><img src="http://img.photobucket.com/albums/v380/tamerin/behold.jpg" alt="" class="avatar" border="0" /></div><br />
+								Not a Tame Lion<br />
+								<br />
+								Narnian Magic: 1<br />
+								<img src="http://intonarnia.com/Themes/OutlineNarnia_tp/images/useroff.gif" alt="Offline" border="0" style="margin-top: 2px;" /><span class="smalltext"> Offline</span><br /><br />
+	<script type="text/javascript"><!--
+		function offsetTop(pos) 
+		{
+			var x = pos.offsetTop, parent = pos.offsetParent;
+				while(parent && !parent.cbe) {
+					x += parent.offsetTop;
+					parent = parent.offsetParent;
+				}
+			return x;
+		}
+
+		function offsetLeft(pos) 
+		{
+			var x = pos.offsetLeft, parent = pos.offsetParent;
+				while(parent && !parent.cbe) {
+					x += parent.offsetLeft;
+					parent = parent.offsetParent;
+				}
+			return x;
+		}
+
+		function showPopup(hoveritem, hoverpopup)
+		{
+			hp = document.getElementById(hoverpopup);
+
+			hp.style.top = offsetTop(hoveritem) + hoveritem.offsetHeight + 2 + "px";
+			hp.style.left = offsetLeft(hoveritem) + "px";
+
+			hp.style.display = "block";
+		}
+
+		function hidePopup(hoverpopup)
+		{
+			hp = document.getElementById(hoverpopup);
+			hp.style.display = "none";	
+		}
+	--></script>Affiliation: Neutral<br />
+								Posts: 10<br />
+								Referrals: 0<br />
+								<br />
+								
+								
+								
+								<br />
+							</div>
+						</td>
+						<td valign="top" width="85%" height="100%">
+							<table width="100%" border="0"><tr>
+								<td valign="middle"><a href="http://intonarnia.com/index.php/topic,63.msg301.html#msg301"><img src="http://intonarnia.com/Themes/OutlineNarnia_tp/images/post/xx.gif" alt="" border="0" /></a></td>
+								<td valign="middle">
+									<div style="font-weight: bold;" id="subject_301">
+										<a href="http://intonarnia.com/index.php/topic,63.msg301.html#msg301">Staff Roster</a>
+									</div>
+									<div class="smalltext">&#171; <b> on:</b> February 28, 2008, 10:11:47 PM &#187;</div></td>
+								<td align="right" valign="bottom" height="20" style="font-size: smaller;">
+								</td>
+							</tr></table>
+							<hr width="100%" size="1" class="hrcolor" />
+							<div class="post">A listing of the staff and their areas of specialty. You may also see the automated <a href="http://intonarnia.devira.info/index.php?action=staff" target="_blank">Staff Roster</a> for more information on each staff member&#39;s account. Visit the <a href="http://intonarnia.com/index.php/topic,699.0.html" target="_blank">Active Members List</a> to see the any other characters played by the staff members.<br /><br /><table style="font: inherit; color: inherit;"><tr><td valign="top" style="font: inherit; color: inherit;"><b>Real Name</b></td><td valign="top" style="font: inherit; color: inherit;"><b>Position</b></td><td valign="top" style="font: inherit; color: inherit;"><b>Specialty</b></td><td valign="top" style="font: inherit; color: inherit;"><b>Primary Account</b></td><td valign="top" style="font: inherit; color: inherit;"><b>Location</b></td></tr><tr><td valign="top" style="font: inherit; color: inherit;">Cara</td><td valign="top" style="font: inherit; color: inherit;">Admin</td><td valign="top" style="font: inherit; color: inherit;">Plots/Subplots/Plot Shakeups</td><td valign="top" style="font: inherit; color: inherit;"><a href="http://intonarnia.com/index.php?action=profile;u=7" target="_blank">Prince Caspian</a></td><td valign="top" style="font: inherit; color: inherit;">MB, CAN (GMT-6)</td></tr><tr><td valign="top" style="font: inherit; color: inherit;">Misha</td><td valign="top" style="font: inherit; color: inherit;">Admin</td><td valign="top" style="font: inherit; color: inherit;">Reviewing Profiles, Player Relations</td><td valign="top" style="font: inherit; color: inherit;"><a href="http://intonarnia.com/index.php?action=profile;u=5" target="_blank">Lucy Pevensie</a></td><td valign="top" style="font: inherit; color: inherit;">Netherlands (GMT+1)</td></tr><tr><td valign="top" style="font: inherit; color: inherit;">Julie</td><td valign="top" style="font: inherit; color: inherit;">Global Moderator</td><td valign="top" style="font: inherit; color: inherit;">Advertising</td><td valign="top" style="font: inherit; color: inherit;"><a href="http://intonarnia.com/index.php?action=profile;u=213" target="_blank">Peter Pevensie</a></td><td valign="top" style="font: inherit; color: inherit;">CA, USA (GMT-8)</td></tr><tr><td valign="top" style="font: inherit; color: inherit;">Melissa</td><td valign="top" style="font: inherit; color: inherit;">Global Moderator</td><td valign="top" style="font: inherit; color: inherit;">Reviewing Profiles, Plots/Subplots/Plot Shakeups</td><td valign="top" style="font: inherit; color: inherit;"><a href="http://intonarnia.com/index.php?action=profile;u=115" target="_blank">Lord Drinian</a></td><td valign="top" style="font: inherit; color: inherit;">DC, USA (GMT-5)</td></tr><tr><td valign="top" style="font: inherit; color: inherit;"><del>Jordan</del>*</td><td valign="top" style="font: inherit; color: inherit;"><del>Admin</del></td><td valign="top" style="font: inherit; color: inherit;"><del>Site Enhancements</del></td><td valign="top" style="font: inherit; color: inherit;"><del><a href="http://intonarnia.com/index.php?action=profile;u=1" target="_blank">Susan Pevensie</a></del></td><td valign="top" style="font: inherit; color: inherit;"><del>MN, USA (GMT-6)</del></td></tr><tr><td valign="top" style="font: inherit; color: inherit;"><hr /></td><td valign="top" style="font: inherit; color: inherit;"><hr /></td><td valign="top" style="font: inherit; color: inherit;"><hr /></td><td valign="top" style="font: inherit; color: inherit;"><hr /></td><td valign="top" style="font: inherit; color: inherit;"><hr /></td></tr><tr><td valign="top" style="font: inherit; color: inherit;">Staff NPC</td><td valign="top" style="font: inherit; color: inherit;">Global Moderator</td><td valign="top" style="font: inherit; color: inherit;">NPCing, Anonymous anouncements/decisions</td><td valign="top" style="font: inherit; color: inherit;">Aslan</td><td valign="top" style="font: inherit; color: inherit;">Omnipresent</td></tr></table><br /><b>Tasks of all staff (in no specific order):</b><br />-Dispute Resolution<br />-Moderation/Rules Enforcement<br />-Reviewing Profiles<br />-Advertising<br />-Player relations<br /><br />You see a few overlapping areas. That&#39;s because, although any staff member can deal with those areas, we have specific ones for which that is their focus. <br /><br /><font size="1" style="line-height: 1.3em;">*While Jordan, as the creator/owner of the board, is still technically an administrator, she hasn&#39;t been around much lately, for various reasons. We suggest that you try contacting one of the other staff members first should you have any questions or concerns.</font></div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="bottom" class="smalltext" width="85%">
+							<table width="100%" border="0" style="table-layout: fixed;"><tr>
+								<td colspan="2" class="smalltext" width="100%">
+								</td>
+							</tr><tr>
+								<td valign="bottom" class="smalltext" id="modified_301">
+									&#171; <i>Last Edit: February 24, 2010, 08:49:11 PM by Lucy Pevensie</i> &#187;
+								</td>
+								<td align="right" valign="bottom" class="smalltext">
+									<img src="http://intonarnia.com/Themes/OutlineNarnia_tp/images/ip.gif" alt="" border="0" />
+									Logged
+								</td>
+							</tr></table>
+						</td>
+					</tr>
+				</table>
+			</td></tr>
+		</table>
+
+	</td></tr><tr><td class="titlebg" style="padding: 3px 0px;">&nbsp;</td></tr>
+	<tr><td style="padding: 0 0 1px 0;"></td></tr>
+</table>
+<a name="lastPost"></a>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td class="middletext">Pages: [<b>1</b>]   &nbsp;&nbsp;<a href="#top"><b>Go Up</b></a></td>
+		<td align="right" style="padding-right: 1ex;">
+			<table cellpadding="0" cellspacing="0">
+				<tr>
+					
+		<td class="maintab_first">&nbsp;</td>
+		<td class="maintab_back"><a href="http://intonarnia.com/index.php?action=printpage;topic=63.0" target="_blank">Print</a></td>
+		<td class="maintab_last">&nbsp;</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<script language="JavaScript" type="text/javascript" src="http://intonarnia.com/Themes/default/xml_topic.js"></script>
+<script language="JavaScript" type="text/javascript"><!-- // --><![CDATA[
+	quickReplyCollapsed = false;
+	var view_newest_first = 0
+
+	smf_topic = 63;
+	smf_start = 0;
+	smf_show_modify = 1;
+
+	// On quick modify, this is what the body will look like.
+	var smf_template_body_edit = '<div id="error_box" style="padding: 4px; color: red;"></div><textarea class="editor" name="message" rows="12" style="width: 94%; margin-bottom: 10px;">%body%</textarea><br /><input type="hidden" name="sc" value="53b3e947ad7897adb76af7888122686c" /><input type="hidden" name="topic" value="63" /><input type="hidden" name="msg" value="%msg_id%" /><div style="text-align: center;"><input type="submit" name="post" value="Save" onclick="return modify_save(\'53b3e947ad7897adb76af7888122686c\');" accesskey="s" />&nbsp;&nbsp;<input type="submit" name="cancel" value="Cancel" onclick="return modify_cancel();" /></div>';
+
+	// And this is the replacement for the subject.
+	var smf_template_subject_edit = '<input type="text" name="subject" value="%subject%" size="60" style="width: 99%;"  maxlength="80" />';
+
+	// Restore the message to this after editing.
+	var smf_template_body_normal = '%body%';
+	var smf_template_subject_normal = '<a href="http://intonarnia.com/index.php/topic,63.msg%msg_id%.html#msg%msg_id%">%subject%</a>';
+	var smf_template_top_subject = "Topic: %subject% &nbsp;(Read 4857 times)"
+
+	if (window.XMLHttpRequest)
+		showModifyButtons();
+// ]]></script>
+<table border="0" width="100%" cellpadding="0" cellspacing="0" style="margin-bottom: 1ex;">
+		<tr>
+				<td valign="top"><div class="nav" style="font-size: smaller; margin-bottom: 2ex; margin-top: 2ex;"><b><a href="http://intonarnia.com/index.php" class="nav">Into Narnia</a></b>&nbsp;>&nbsp;<b><a href="http://intonarnia.com/index.php?action=forum;f=3" class="nav">Beyond the Lamppost</a></b>&nbsp;>&nbsp;<b><a href="http://intonarnia.com/index.php/board,4.0.html" class="nav">Susan's Horn</a></b>&nbsp;>&nbsp;Topic: <b><a href="http://intonarnia.com/index.php/topic,63.0.html" class="nav">Staff Roster</a></b></div></td> 
+				<td valign="top" align="right" class="nav"> <a href="http://intonarnia.com/index.php/topic,63.0/prev_next,prev.html#new">&laquo; previous</a> <a href="http://intonarnia.com/index.php/topic,63.0/prev_next,next.html#new">next &raquo;</a></td>
+		</tr>
+</table>
+	<table cellpadding="0" cellspacing="0" border="0" style="margin-left: 1ex;">
+		<tr>
+			<td>&nbsp;</td>
+		</tr>
+	</table>
+</form>
+<div class="tborder"><div class="titlebg2" style="padding: 4px;" align="right">
+	<form action="http://intonarnia.com/index.php" method="get" accept-charset="ISO-8859-1" style="padding:0; margin: 0;">
+		<span class="smalltext">Jump to:</span>
+		<select name="jumpto" id="jumpto" onchange="if (this.selectedIndex > 0 &amp;&amp; this.options[this.selectedIndex].value) window.location.href = smf_scripturl + this.options[this.selectedIndex].value.substr(smf_scripturl.indexOf('?') == -1 || this.options[this.selectedIndex].value.substr(0, 1) != '?' ? 0 : 1);">
+			<option value="">Please select a destination:</option>
+			<option value="" disabled="disabled">-----------------------------</option>
+			<option value="?action=forum;f=3">Beyond the Lamppost</option>
+			<option value="" disabled="disabled">-----------------------------</option>
+			<option value="?board=4.0" selected="selected"> => Susan's Horn</option>
+			<option value="?board=36.0"> => Through the Wardrobe</option>
+			<option value="?board=3.0"> => Aslan's How</option>
+			<option value="?board=6.0"> ===> Accepted Characters</option>
+			<option value="?board=5.0"> ===> Inactive Characters</option>
+			<option value="?board=17.0"> ===> Member Requests</option>
+			<option value="?board=2.0"> => Plots and Schemes</option>
+			<option value="?board=44.0"> => Written Communication</option>
+			<option value="?board=45.0"> ===> Journals</option>
+			<option value="?board=46.0"> ===> Correspondence</option>
+			<option value="?board=47.0"> => Pre-Timeline Threads</option>
+			<option value="" disabled="disabled">-----------------------------</option>
+			<option value="?action=forum;f=2">Into Narnia</option>
+			<option value="" disabled="disabled">-----------------------------</option>
+			<option value="?board=15.0"> => Ruins on an Island</option>
+			<option value="?board=14.0"> => Stone Table/Aslan's How</option>
+			<option value="?board=39.0"> => Miraz' Camp</option>
+			<option value="?board=13.0"> => Bridge of Beruna</option>
+			<option value="?board=12.0"> => Dancing Lawn</option>
+			<option value="?board=9.0"> => Castle of Miraz</option>
+			<option value="?board=31.0"> => Lantern Wastelands</option>
+			<option value="?board=40.0"> => Other Places</option>
+			<option value="" disabled="disabled">-----------------------------</option>
+			<option value="?action=forum;f=4">The Land Beyond</option>
+			<option value="" disabled="disabled">-----------------------------</option>
+			<option value="?board=41.0"> => Archenland</option>
+			<option value="?board=42.0"> => Calormen</option>
+			<option value="?board=43.0"> => Other Places</option>
+			<option value="" disabled="disabled">-----------------------------</option>
+			<option value="?action=forum;f=1">Into a New World</option>
+			<option value="" disabled="disabled">-----------------------------</option>
+			<option value="?board=1.0"> => General Discussion</option>
+			<option value="?board=8.0"> ===> Train Platform</option>
+			<option value="?board=33.0"> ===> Introductions</option>
+			<option value="?board=27.0"> ===> Games and Entertainment</option>
+			<option value="?board=37.0"> ===> Graphics</option>
+			<option value="?board=34.0"> ===> Absences</option>
+			<option value="?board=30.0"> => Feedback</option>
+			<option value="?board=18.0"> => Aslan's Country</option>
+			<option value="?board=19.0"> ===> Dead Characters</option>
+			<option value="?board=20.0"> ===> Inactive/Finished RPs</option>
+			<option value="?board=21.0"> ===> Irrelevant Information</option>
+			<option value="?board=38.0"> ===> Activity Checks </option>
+			<option value="?board=49.0"> => Advertisements</option>
+			<option value="?board=32.0"> ===> Affiliates</option>
+			<option value="?board=22.0"> ===> Approved Ads</option>
+		</select>&nbsp;
+		<input type="button" value="go" onclick="if (this.form.jumpto.options[this.form.jumpto.selectedIndex].value) window.location.href = 'http://intonarnia.com/index.php' + this.form.jumpto.options[this.form.jumpto.selectedIndex].value;" />
+	</form>
+</div></div><br /></td></tr></table></div>
+		<div id="footer">
+	 <div id="foot-l">
+	  <div id="foot-r">
+			<div id="footerarea">
+				<span class="smalltext">
+		<span class="smalltext" style="display: inline; visibility: visible; font-family: Verdana, Arial, sans-serif;"><a href="http://www.simplemachines.org/" title="Simple Machines Forum" target="_blank">Powered by SMF 1.1.6</a> | 
+<a href="http://www.simplemachines.org/about/copyright.php" title="Free Forum Software" target="_blank">SMF &copy; 2006-2008, Simple Machines LLC</a>
+		</span>
+				<br />TinyPortal v0.9.8 &copy; <a href="http://www.tinyportal.net" target="_blank">Bloc</a> | Theme by <a href="http://www.dzinerstudio.com"><b>DzinerStudio</b></a>
+				<br /><a href="index.php?page=6" target="_self">Disclaimer</a>
+				&nbsp;&nbsp;|&nbsp;&nbsp;
+				Copyright &copy; 2008 Into Narnia
+				&nbsp;&nbsp;|&nbsp;&nbsp;
+				<a href="index.php?page=7" target="_self">Credits</a></span>
+			</div>
+	  </div>
+		 </div>
+		</div>
+	<div id="ajax_in_progress" style="display: none;">Loading...</div>
+</div></div></div>
+</body></html>

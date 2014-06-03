@@ -1,0 +1,98 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	Status of Station Dictionary Data 
+</title></head>
+<body>
+    <form name="form1" method="post" action="StationDictionary.aspx" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+    <div>
+        <br />
+        <center>
+            <strong style="text-align: center">Status of Station Dictionary Data&nbsp;</strong><p
+                align="center" class="MsoNormal" style="text-align: center">
+                <table style="width: 100%">
+                    <tr>
+                        <td >
+                        </td>
+                        <td style="width: 90%">
+                        </td>
+                        <td >
+                        </td>
+                    </tr>
+                    <tr>
+                        <td >
+                        </td>
+                        <td style="width: 90%">
+                        </td>
+                        <td >
+                        </td>
+                    </tr>
+                    <tr>
+                        <td >
+                        </td>
+                        <td style="width: 90%">
+                            <div>
+	<table cellspacing="2" cellpadding="4" border="0" id="GridView1" width="100%">
+		<tr bgcolor="#507CD1">
+			<th scope="col"><font color="White"><b><a href="javascript:__doPostBack('GridView1','Sort$Country')"><font color="White">Country</font></a></b></font></th><th scope="col"><font color="White"><b><a href="javascript:__doPostBack('GridView1','Sort$Accession_description')"><font color="White">Accession_description</font></a></b></font></th><th scope="col"><font color="White"><b><a href="javascript:__doPostBack('GridView1','Sort$Status')"><font color="White">Status</font></a></b></font></th><th scope="col"><font color="White"><b><a href="javascript:__doPostBack('GridView1','Sort$Last_submission')"><font color="White">Last_submission</font></a></b></font></th><th scope="col"><font color="White"><b><a href="javascript:__doPostBack('GridView1','Sort$AcessionID')"><font color="White">Acession ID</font></a></b></font></th>
+		</tr><tr bgcolor="#EFF3FB">
+			<td align="left" width="150"><font color="#333333">France</font></td><td align="left"><font color="#333333">Station dictionary - France - contaminants and eutrophication stations</font></td><td align="left" width="150"><font color="#333333">Completed</font></td><td align="left" width="150"><font color="#333333">2010/11/03</font></td><td align="left" width="100"><font color="#333333">20060144</font></td>
+		</tr><tr bgcolor="White">
+			<td align="left" width="150"><font color="#333333">Spain</font></td><td align="left"><font color="#333333">Station dictionary - Spain - contaminants &amp; nutrients/eutrophication effects</font></td><td align="left" width="150"><font color="#333333">Completed</font></td><td align="left" width="150"><font color="#333333">2012/01/25</font></td><td align="left" width="100"><font color="#333333">20060160</font></td>
+		</tr><tr bgcolor="#EFF3FB">
+			<td align="left" width="150"><font color="#333333">Netherlands</font></td><td align="left"><font color="#333333">Station dictionary - Netherlands  - contaminants &amp; nutrients/eutrophication effects</font></td><td align="left" width="150"><font color="#333333">Completed</font></td><td align="left" width="150"><font color="#333333">2011/07/12</font></td><td align="left" width="100"><font color="#333333">20060178</font></td>
+		</tr><tr bgcolor="White">
+			<td align="left" width="150"><font color="#333333">Sweden</font></td><td align="left"><font color="#333333">Station dictionary - Sweden - contaminants &amp; nutrients/eutrophication effects</font></td><td align="left" width="150"><font color="#333333">Pending ICES</font></td><td align="left" width="150"><font color="#333333">2011/12/02</font></td><td align="left" width="100"><font color="#333333">20060180</font></td>
+		</tr><tr bgcolor="#EFF3FB">
+			<td align="left" width="150"><font color="#333333">Denmark</font></td><td align="left"><font color="#333333">Station Dictionary - Denmark - contaminants &amp; nutrients/eutrophication effects</font></td><td align="left" width="150"><font color="#333333">Validated &amp; Completed</font></td><td align="left" width="150"><font color="#333333">2012/01/27</font></td><td align="left" width="100"><font color="#333333">20060181</font></td>
+		</tr><tr bgcolor="White">
+			<td align="left" width="150"><font color="#333333">Faroe Islands</font></td><td align="left"><font color="#333333">Station Dictionary - Faroe Islands - contaminants</font></td><td align="left" width="150"><font color="#333333">Completed</font></td><td align="left" width="150"><font color="#333333">2012/01/12</font></td><td align="left" width="100"><font color="#333333">20060185</font></td>
+		</tr><tr bgcolor="#EFF3FB">
+			<td align="left" width="150"><font color="#333333">Germany</font></td><td align="left"><font color="#333333">Station Dictionary - Germany - contaminants &amp; nutrients/eutrophication effects</font></td><td align="left" width="150"><font color="#333333">Completed</font></td><td align="left" width="150"><font color="#333333">2012/01/17</font></td><td align="left" width="100"><font color="#333333">20060191</font></td>
+		</tr><tr bgcolor="White">
+			<td align="left" width="150"><font color="#333333">United Kingdom</font></td><td align="left"><font color="#333333">Station dictionary - UK - contaminants &amp; eutrophication data</font></td><td align="left" width="150"><font color="#333333">Validated &amp; Completed</font></td><td align="left" width="150"><font color="#333333">2011/11/16</font></td><td align="left" width="100"><font color="#333333">20060198</font></td>
+		</tr><tr bgcolor="#EFF3FB">
+			<td align="left" width="150"><font color="#333333">Norway</font></td><td align="left"><font color="#333333">Station Dictionary - Norway - contaminant and eutrophication stations</font></td><td align="left" width="150"><font color="#333333">Completed</font></td><td align="left" width="150"><font color="#333333">2010/09/23</font></td><td align="left" width="100"><font color="#333333">20060201</font></td>
+		</tr><tr bgcolor="White">
+			<td align="left" width="150"><font color="#333333">Ireland</font></td><td align="left"><font color="#333333">Station Dictionary - Ireland - contaminants &amp; nutrients</font></td><td align="left" width="150"><font color="#333333">Validated &amp; Completed</font></td><td align="left" width="150"><font color="#333333">2011/12/12</font></td><td align="left" width="100"><font color="#333333">20060202</font></td>
+		</tr><tr bgcolor="#EFF3FB">
+			<td align="left" width="150"><font color="#333333">Iceland</font></td><td align="left"><font color="#333333">Station Dictionary - Iceland - contaminants. No eutrophication stations will be defined.</font></td><td align="left" width="150"><font color="#333333">Completed</font></td><td align="left" width="150"><font color="#333333">2006/11/09</font></td><td align="left" width="100"><font color="#333333">20060240</font></td>
+		</tr><tr bgcolor="White">
+			<td align="left" width="150"><font color="#333333">Belgium</font></td><td align="left"><font color="#333333">Station dictionary - Belgium contaminants &amp; nutrients/eutrophication effects</font></td><td align="left" width="150"><font color="#333333">Completed</font></td><td align="left" width="150"><font color="#333333">2010/07/09</font></td><td align="left" width="100"><font color="#333333">20060243</font></td>
+		</tr><tr bgcolor="#EFF3FB">
+			<td align="left" width="150"><font color="#333333">Poland</font></td><td align="left"><font color="#333333">Station dictionary - Poland</font></td><td align="left" width="150"><font color="#333333">Completed</font></td><td align="left" width="150"><font color="#333333">2011/10/11</font></td><td align="left" width="100"><font color="#333333">20080064</font></td>
+		</tr><tr bgcolor="White">
+			<td align="left" width="150"><font color="#333333">Lithuania</font></td><td align="left"><font color="#333333">Station dictionary - Lithuania</font></td><td align="left" width="150"><font color="#333333">Pending Submitter</font></td><td align="left" width="150"><font color="#333333">2011/04/21</font></td><td align="left" width="100"><font color="#333333">20090005</font></td>
+		</tr><tr bgcolor="#EFF3FB">
+			<td align="left" width="150"><font color="#333333">Finland</font></td><td align="left"><font color="#333333">Station dictionary - Finland</font></td><td align="left" width="150"><font color="#333333">Completed</font></td><td align="left" width="150"><font color="#333333">2012/02/03</font></td><td align="left" width="100"><font color="#333333">20090093</font></td>
+		</tr><tr bgcolor="White">
+			<td align="left" width="150"><font color="#333333">Portugal</font></td><td align="left"><font color="#333333">Station dictionary - Portugal</font></td><td align="left" width="150"><font color="#333333">Completed</font></td><td align="left" width="150"><font color="#333333">2010/08/27</font></td><td align="left" width="100"><font color="#333333">20100144</font></td>
+		</tr><tr bgcolor="#EFF3FB">
+			<td align="left" width="150"><font color="#333333">Estonia</font></td><td align="left"><font color="#333333">Station Dictionary - Estonia</font></td><td align="left" width="150"><font color="#333333">Completed</font></td><td align="left" width="150"><font color="#333333">2011/03/31</font></td><td align="left" width="100"><font color="#333333">20110094</font></td>
+		</tr><tr bgcolor="White">
+			<td align="left" width="150"><font color="#333333">Russia</font></td><td align="left"><font color="#333333">Station Dictionary - Russia</font></td><td align="left" width="150"><font color="#333333">Pending Submitter</font></td><td align="left" width="150"><font color="#333333">2011/03/31</font></td><td align="left" width="100"><font color="#333333">20110110</font></td>
+		</tr><tr bgcolor="#EFF3FB">
+			<td align="left" width="150"><font color="#333333">Latvia</font></td><td align="left"><font color="#333333">Station Dictionary - Latvia</font></td><td align="left" width="150"><font color="#333333">Completed</font></td><td align="left" width="150"><font color="#333333">2011/03/30</font></td><td align="left" width="100"><font color="#333333">20110113</font></td>
+		</tr>
+	</table>
+</div>
+                            
+                        </td>
+                        <td>
+                        </td>
+                    </tr>
+                </table>
+            </p>
+        </center>
+    
+    </div>
+    
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgKh/v27CQLRrLuOCQL81oXKCAKh3fLNCQLxuMXFBQLPp+HGDR15Q57olkrvXf6tP3Nagi1cLwWi" /></form>
+</body>
+</html>
+

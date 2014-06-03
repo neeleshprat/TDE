@@ -1,0 +1,502 @@
+<!DOCTYPE html
+     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2008 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.com/ and http://typo3.org/
+-->
+
+	<base href="http://www.infrontsports.com/" />
+	<link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_930241a921.css" />
+	<link rel="stylesheet" type="text/css" href="fileadmin/template/main/res/stylesheet.css" />
+	<link rel="stylesheet" type="text/css" href="fileadmin/template/main/res/corporate_blue.css" />
+	<link rel="stylesheet" type="text/css" href="fileadmin/template/main/res/datepicker.css" />
+	<link rel="stylesheet" type="text/css" href="fileadmin/template/main/res/css_styled_images.css" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<style type="text/css">
+<!--
+.norm_content .boxWrap .box  { height: 450px; }
+-->
+</style>
+<script type="text/javascript" src="fileadmin/media/scripts/tablesort.js"></script>
+<script type="text/javascript" src="fileadmin/media/scripts/datepicker.js"></script>
+<script type="text/javascript">
+/*
+   An example custom sort function. This is a direct copy of the sortNumeric method bundled with
+   the fdTableSort Object but you can go wild with your own creations...
+   
+   This custom sort function has been associated with the TH node by giving the TH node a className
+   of "sortable-customSort"
+
+   N.B: The values passed to the function are the TR nodes themselves, it is imperative that you call
+        the method fdTableSort.getInnerText as is shown below in order to get the relevant TD node
+        innerText!
+*/
+function customSort(a, b) {
+        // Get the innerText of the TR nodes
+        aa = parseFloat(fdTableSort.getInnerText(a.getElementsByTagName('td')[fdTableSort.pos]));
+        bb = parseFloat(fdTableSort.getInnerText(b.getElementsByTagName('td')[fdTableSort.pos]));
+
+        // Sort
+        if((isNaN(aa) || aa == "") && !isNaN(bb)) return -1;
+        else if((isNaN(bb) || bb == "") && !isNaN(aa)) return 1;
+
+        if(isNaN(aa) || aa == "") aa = 0;
+        if(isNaN(bb) || bb == "") bb = 0;
+
+        // Always return an integer from your custom sort function...
+        return aa-bb;
+}
+</script><script type="text/javascript" src="fileadmin/media/scripts/mootools-1.2.3-core.js"></script><script type="text/javascript" src="fileadmin/media/scripts/swfobject.js"></script><script type="text/javascript" src="fileadmin/media/scripts/videobox-1.1.js"></script><script type="text/javascript">	
+	var playerCache = '';
+	var playerReference = '';
+	
+	function showVideoBox(playerId, vidboxUrl, vidboxTitle, aspectRatio){
+		var vidboxHeight = Math.round(608/aspectRatio);
+		var vidboxSize = "vidbox 608 "+vidboxHeight;
+		var player = $(playerId);
+		if(typeof player!="undefined" && typeof player.sendEvent!="undefined"){
+			player.sendEvent('STOP');
+			Videobox.open(vidboxUrl, vidboxTitle, vidboxSize);
+		}
+	}
+	
+	function hideVideoBox() {
+		Videobox.close();
+	};
+	
+</script><link rel="stylesheet" type="text/css" href="fileadmin/template/main/res/videobox.css" /><script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script></script><script type="text/javascript">try { var pageTracker = _gat._getTracker("UA-8222705-1"); pageTracker._trackPageview(); } catch(err) {}</script>
+<link rel="schema.dc" href="http://purl.org/metadata/dublin_core_elements" />
+<style type="text/css" media="all">
+/* <![CDATA[ */
+	/***************************************************************
+	 * Styles added by plugin "tx_cssselect_pi1"
+	 * 
+	 * Index:
+	 * 1) presscenter.css (page ID: 115)
+	 ***************************************************************/
+	@import url( "fileadmin/template/main/res/presscenter.css" );
+/* ]]> */
+</style>
+
+	<title>Infront Sports &amp; Media: Newsdetail</title>
+	<meta name="generator" content="TYPO3 4.2 CMS" />
+	<script type="text/javascript" src="typo3temp/javascript_92bc0eb2aa.js"></script>
+
+</head>
+<body>
+<script type="text/javascript" src="fileadmin/media/scripts/wz_tooltip.js"></script><a name="top"></a>
+<div id="outerColwrap"><!--###outerColwrap### begin -->
+	<div id="col_1"><!--###col_1### begin -->
+		<div class="logo"><!--###logo### begin --><a href="/"><img src="fileadmin/template/main/images/logo.gif" width="127" height="60" border="0" alt="" /></a><!--###logo### end --></div>
+		<div id="menu"><div class="menuwrap"><div class="menu_no"><a href="about-us/" target="_self" onfocus="blurLink(this);">About us</a></div><div class="menu_no"><a href="mediarights/" target="_self" onfocus="blurLink(this);">Media Rights</a></div><div class="menu_no"><a href="marketingrights/" target="_self" onfocus="blurLink(this);">Marketing Rights</a></div><div class="menu_no"><a href="production/" target="_self" onfocus="blurLink(this);">Media Production</a></div><div class="menu_no"><a href="sportsservices/" target="_self" onfocus="blurLink(this);">Sports Services</a></div></div></div>
+		<div id="submenu"><h1>Press Centre - Topics</h1><div class="subitem"><a href="presscenter/news/" target="_self" onfocus="blurLink(this);">News</a></div></div>
+		<div id="rel_infos"><!--###rel_infos### begin -->
+			<div class="subitems"><!--###subitems### begin --><div class="item_wrap"><a name="c591" href="nc/presscenter/newsdetail/browse/2/article/ehf-and-infr/114/#"></a><div class="item_wrap"><a name="c89" href="nc/presscenter/newsdetail/browse/2/article/ehf-and-infr/114/#"></a><h1>Media Relations Contact</h1><p style="margin:0 0 0 0;">Joerg Polzer<br />Associate Director<br />Corporate Communication<br /><br />Nike M?hle<br />Assistant<br />Corporate Communication<br /><br />Tel. +41 41 723 17 18<br />Fax. +41-41-723-15-16<br />Email:<a href="javascript:linkTo_UnCryptMailto('kygjrm8npcqqYgldpmlrqnmprq,amk');">press<span class="at">&nbsp;</span>infrontsports.com</a><i><br /><br />NOTE: E-Mails will be checked on work days during office hours<br />(9am-5pm CET)</i></p></div></div><!--###subitems### end --></div>	
+		<!--###rel_infos### end --></div>
+		<div id="media_infos"><!--###media_infos### begin -->
+			<div class="subitems"><!--###subitems### begin --><div class="item_wrap"><a name="c591" href="nc/presscenter/newsdetail/browse/2/article/ehf-and-infr/114/#"></a><div class="item_wrap"><a name="c89" href="nc/presscenter/newsdetail/browse/2/article/ehf-and-infr/114/#"></a><h1>Media Relations Contact</h1><p style="margin:0 0 0 0;">Joerg Polzer<br />Associate Director<br />Corporate Communication<br /><br />Nike M?hle<br />Assistant<br />Corporate Communication<br /><br />Tel. +41 41 723 17 18<br />Fax. +41-41-723-15-16<br />Email:<a href="javascript:linkTo_UnCryptMailto('kygjrm8npcqqYgldpmlrqnmprq,amk');">press<span class="at">&nbsp;</span>infrontsports.com</a><i><br /><br />NOTE: E-Mails will be checked on work days during office hours<br />(9am-5pm CET)</i></p></div></div><!--###subitems### end --></div>
+		<!--###media_infos### end --></div>
+			
+		<div id="around_world"><!--###around_world### begin -->
+			<div class="item_wrap"><a name="c50" href="nc/presscenter/newsdetail/browse/2/article/ehf-and-infr/114/#"></a><h1><a href="/contacts/">Infront around the  world</a></h1>
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td><a href="/contacts/offices/#c387">Austria</a></td>
+<td><a href="/contacts/offices/#c877">Italy</a></td>
+</tr>
+<tr>
+<td><a href="/contacts/offices/#c393">China</a></td>
+<td><a href="/contacts/offices/#c394">Singapore</a></td>
+</tr>
+<tr>
+<td><a href="/contacts/offices/#c385">Finland</a></td>
+<td><a href="/contacts/offices/#c386">Sweden</a></td>
+</tr>
+<tr>
+<td><a href="/contacts/offices/#c652">France</a></td>
+<td><a href="/contacts/offices/#c395">Switzerland</a></td>
+</tr>
+<tr>
+<td><a href="/contacts/offices/#c1286">Germany</a></td>
+
+</tr>
+</table></div>
+		<!--###around_world### end --></div>
+	<!--###col_1### end --></div>
+	<div id="innerColwrap"><!--###innerColwrap### begin -->
+		<!-- 2 right cols start -->
+		<div id="col_2"><!--###col_2### begin -->
+			<div id="metamenu"><!--###metamenu### begin --><span class="meta_no"><a href="newsletter/" target="_self" onfocus="blurLink(this);">Newsletter</a></span><span class="meta_act"><a href="presscenter/" target="_self" onfocus="blurLink(this);">Press Centre</a></span><span class="meta_no"><a href="careers/" target="_self" onfocus="blurLink(this);">Careers</a></span><span class="meta_no"><a href="contacts/offices/" target="_self" onfocus="blurLink(this);">Contacts</a></span><span class="meta_no"><a href="downloads/" target="_self" onfocus="blurLink(this);">Downloads</a></span><span class="meta_no"><a href="sitemap/" target="_self" onfocus="blurLink(this);">Sitemap</a></span><span class="meta_no"><a href="imprintdisclaimer/" target="_self" onfocus="blurLink(this);">Imprint/Disclaimer</a></span>&nbsp;<!--###metamenu### end --></div>
+			<div id="flash"><!--###flash### begin --><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="608" height="141">
+		  <param name="movie" value="fileadmin/user_upload/flash_static/head/head.swf" />
+		  <param name="menu" value="false" />
+		  <param name="quality" value="high" />
+		  <embed src="fileadmin/user_upload/flash_static/head/head.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="608" height="141"></embed>
+		</object><!--###flash### end --></div>
+			
+<div class="norm_content"><!--###norm_content### begin -->
+<!--TYPO3SEARCH_begin-->
+<table cellpadding="0" cellspacing="0" class="boxWrap"><!--###boxWrap### begin -->
+		<tr>
+			<td valign="top" class="box"><!--###box### begin --><div class="item_wrap"><a name="c92" href="nc/presscenter/newsdetail/browse/2/article/ehf-and-infr/114/#"></a><h1>News Detail</h1>&nbsp;
+<form name="news_search" action="nc/presscenter/newsdetail/" method="post" class="news-search">
+<input type="hidden" name="tx_ttnews[limit]" id="news-limit" value="" />
+<fieldset>
+	<h2 class="news-search">Search</h2>
+	<div class="news-formfield formfield-text-medium">
+		<label for="news-search-swords">Keyword</label>
+		<input name="tx_ttnews[swords]" id="news-search-swords" type="text" maxlength="40" value="" />
+		<p>e.g. fifa helsinki</p>
+	</div>
+	<div class="news-formfield formfield-text-small">
+		<label for="news-search-sports">Sports</label>
+		<select name="tx_ttnews[cat]" id="news-search-sports"><option selected="selected" value="">All Categories</option><option value="2">Golf</option><option value="3">Football</option><option value="4">Ski</option><option value="5">Motorsport</option><option value="6">Ice Hockey</option><option value="7">Bobsleigh</option><option value="8">Basketball</option><option value="9">Handball</option><option value="10">Luge</option><option value="11">Sailing</option><option value="18">Formula</option><option value="53">Volleyball</option><option value="54">Curling</option><option value="55">Biathlon</option><option value="56">Empire of Sports</option></select>
+		<p></p>
+	</div>
+	<div class="news-formfield formfield-text-extrasmall">
+		<label for="news-search-start">Date</label>
+		<input name="tx_ttnews[pS]" id="news-search-start" class="highlight-days-67 divider-dot split-date no-transparency no-locale" type="text" maxlength="40" value="" />
+		<p>e.g. 28.08.2008</p>
+	</div>
+	<div class="news-formfield formfield-text-extrasmall">
+		<label for="news-search-end">&nbsp;</label>
+		<input name="tx_ttnews[pE]" id="news-search-end" class="highlight-days-67 divider-dot split-date no-transparency no-locale" type="text" maxlength="40" value="" />
+		<p>&nbsp;</p>
+	</div>
+	<div class="news-formfield formfield-submit">
+		<label>&nbsp;</label>
+		<input type="image" src="fileadmin/template/main/images/news/input_submit.gif" class="search-submit" />
+	</div>
+</fieldset>
+<div class="clear"><!-- clear --></div>
+</form>
+
+<h3 class="news-resulttitle">Search Results</h3>
+
+<div class="news-resultcount"><p style="padding-left: 15px;"><b>50-75</b> of 417</p></div>
+<div class="news-resultbrowser"><!--
+			List browsing box:
+		-->
+		<div class="tx-ttnews-browsebox"><a href="nc/presscenter/newsdetail/browse/1/article/ehf-and-infr/114/" target="_self"><span class="previous">&nbsp;</span></a>
+<a href="nc/presscenter/newsdetail/article/ehf-and-infr/114/" target="_self">1</a>
+<a href="nc/presscenter/newsdetail/browse/1/article/ehf-and-infr/114/" target="_self">2</a>
+<strong>3</strong>
+<a href="nc/presscenter/newsdetail/browse/3/article/ehf-and-infr/114/" target="_self">4</a>
+<a href="nc/presscenter/newsdetail/browse/4/article/ehf-and-infr/114/" target="_self">5</a>
+<a href="nc/presscenter/newsdetail/browse/5/article/ehf-and-infr/114/" target="_self">6</a>
+<a href="nc/presscenter/newsdetail/browse/6/article/ehf-and-infr/114/" target="_self">7</a>
+<a href="nc/presscenter/newsdetail/browse/3/article/ehf-and-infr/114/" target="_self"><span class="next">&nbsp;</span></a></div></div>
+<div class="news-resultlimit">
+<label for="news-select-limit">Show</label>
+<select name="limit" id="news-select-limit" onchange="document.getElementById('news-limit').value=this.options[this.selectedIndex].value;document.news_search.submit();">
+	<option value="25" selected="">25 per page &nbsp;&nbsp;</option>
+	<option value="50">50 per page &nbsp;&nbsp;</option>
+	<option value="100">100 per page &nbsp;&nbsp;</option>
+	<option value="999">show all &nbsp;&nbsp;</option>
+</select>
+</div>
+<div class="clear"><!-- clear --></div>
+
+
+<div class="newsResults">
+    <table border="0" cellpadding="0" cellspacing="0" class="rowstyle-alternate sortable-onload-6 onload-zebra news-resultlist"> 
+	<thead>
+	<tr>
+		<th class="sortable th-date">Date</th>
+		<th class="sortable th-sports">Sports</th>
+		<th class="sortable th-news">Title</th>
+	</tr>
+	</thead>
+	<tbody>
+	
+	<tr class="">
+		<td class="news-item first"><span class="hidden">1309425240</span> 30.06.2011</td>
+	 	<td class="news-item news-item-sports sports-" onmouseover="Tip('', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()"><span class="hidden"></span></td>
+		<td class="news-item" onmouseover="Tip('Zug, Switzerland, 30 June 2011 - Infront Ringier Sports &amp;  Entertainment Switzerland AG has now embarked on business operations  with Armin Meier taking the position of Managing Director from 1 July  2011 at the company headquarters in Zug, Switzerland. The 50/50 joint  venture between the international sports marketing company Infront  Sports &amp; Media and the largest Swiss media group Ringier will  provide federations, top athletes and organisers of sports events with  comprehensive marketing and consulting services. ', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px', WIDTH, 310)" onmouseout="UnTip()"><a href="presscenter/newsdetail/browse/2/article/infrontringier-takes-position/114/" target="_self" title="InfrontRingier takes position in Swiss sports market forging its first partnerships">InfrontRingier takes position in Swiss... ?</a></td>
+	</tr>
+		
+	<tr class="">
+		<td class="news-item first"><span class="hidden">1309185600</span> 27.06.2011</td>
+	 	<td class="news-item news-item-sports sports-" onmouseover="Tip('', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()"><span class="hidden"></span></td>
+		<td class="news-item" onmouseover="Tip('Zug, Switzerland, 27 June 2011 ? The American media network Universal Sports and the international sports marketing company Infront Sports &amp; Media have announced an exclusive media rights agreement for a comprehensive number of FIS World Cup events through to 2015/16. It covers all the FIS Alpine Skiing, Ski Jumping, Cross Country, Nordic Combined, Snowboard and Freestyle World Cup races where Infront handles the media rights collectively ? almost 200 events per season ? and starts 2011/12.', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px', WIDTH, 310)" onmouseout="UnTip()"><a href="presscenter/newsdetail/browse/2/article/infront-seals-exclusive-media/114/" target="_self" title="Infront seals exclusive media rights deal with Universal Sports for FIS World Cup events">Infront seals exclusive media rights deal... ?</a></td>
+	</tr>
+		
+	<tr class="">
+		<td class="news-item first"><span class="hidden">1309161600</span> 27.06.2011</td>
+	 	<td class="news-item news-item-sports sports-" onmouseover="Tip('', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()"><span class="hidden"></span></td>
+		<td class="news-item" onmouseover="Tip('Iffezheim, Germany / Saint-Imier, Switzerland, 27 June 2011 ? Longines, a Swiss brand with a long tradition in watchmaking, is the new title sponsor of the Grosser Preis von Baden, Germany?s most prestigious and internationally renowned flat race. As part of the multi-year agreement, Longines will also act as the official timekeeper at the Iffezheim/Baden-Baden racecourse.', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px', WIDTH, 310)" onmouseout="UnTip()"><a href="presscenter/newsdetail/browse/2/article/longines-new-title-sponsor-of/114/" target="_self" title="Longines: new title sponsor of the Grosser Preis von Baden">Longines: new title sponsor of the Grosser... ?</a></td>
+	</tr>
+		
+	<tr class="">
+		<td class="news-item first"><span class="hidden">1308736440</span> 22.06.2011</td>
+	 	<td class="news-item news-item-sports sports-football" onmouseover="Tip('Football', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()"><span class="hidden">Football</span></td>
+		<td class="news-item" onmouseover="Tip('Dusseldorf, Germany, 22 June 2011 - Fortuna Duesseldorf is to enter the upcoming 2011/2012 season with a new main and shirt sponsor - specialist workshop, house and garden company BAUHAUS. The contract was concluded in close cooperation with Fortunas marketing partner Infront Sports &amp; Media. It includes the shirt sponsorship of the 2nd Bundesliga team (a traditional club from  North Rhine-Westphalias state capital) and is initially valid for the 2011/12 season with a further extension option available. For BAUHAUS this is their first commitment as a main sponsor in German professional football. All parties agreed to keep financial details confidential.', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px', WIDTH, 310)" onmouseout="UnTip()"><a href="presscenter/newsdetail/browse/2/article/bauhaus-is-the-new-main-and-sh/114/" target="_self" title="BAUHAUS is the new main and shirt sponsor of Fortuna Dusseldorf">BAUHAUS is the new main and shirt sponsor of... ?</a></td>
+	</tr>
+		
+	<tr class="">
+		<td class="news-item first"><span class="hidden">1308060180</span> 14.06.2011</td>
+	 	<td class="news-item news-item-sports sports-football" onmouseover="Tip('Football', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()"><span class="hidden">Football</span></td>
+		<td class="news-item" onmouseover="Tip('Milan, Italy, 14 June 2011 ? Infront Sports &amp; Media, one of the leading international sports marketing companies, has been named the Official Corporate Hospitality Sales Agent serving Italy for the 2012 UEFA European Football Championship in Poland and Ukraine. The rights will be distributed through its Milan-based subsidiary Infront Italy.', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px', WIDTH, 310)" onmouseout="UnTip()"><a href="presscenter/newsdetail/browse/2/article/infront-appointed-as-the-offic/114/" target="_self" title="Infront appointed as the Official Sales agent in Italy for Club Prestige ? UEFA's Corporate Hospitality Programme for UEFA EURO 2012?">Infront appointed as the Official Sales... ?</a></td>
+	</tr>
+		
+	<tr class="">
+		<td class="news-item first"><span class="hidden">1307789400</span> 11.06.2011</td>
+	 	<td class="news-item news-item-sports sports-motorsport" onmouseover="Tip('Motorsport', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()"><span class="hidden">Motorsport</span></td>
+		<td class="news-item" onmouseover="Tip('Rome, Italy / Zug, Switzerland, 11 June 2011 ? The rapid expansion of the media coverage of the FIM Superbike World Championship continues with the announcement today of an agreement between Infront Sports &amp; Media and ESPN Brazil for the distribution of the series on ESPN?s HD service. The agreement is non-exclusive and commences with the current Misano round in Italy. It runs for two seasons.', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px', WIDTH, 310)" onmouseout="UnTip()"><a href="presscenter/newsdetail/browse/2/article/infront-secures-agreement-with/114/" target="_self" title="Infront secures agreement with ESPN Brazil for HD coverage of FIM Superbike World Championship">Infront secures agreement with ESPN Brazil... ?</a></td>
+	</tr>
+		
+	<tr class="">
+		<td class="news-item first"><span class="hidden">1307524980</span> 08.06.2011</td>
+	 	<td class="news-item news-item-sports sports-" onmouseover="Tip('', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()"><span class="hidden"></span></td>
+		<td class="news-item" onmouseover="Tip('Zug, Switzerland / Frankfurt, Germany, 8 June 2011 ? Infront  Sports &amp; Media today announced the appointment of Ralf Koslowski as  joint Managing Director of its subsidiary company Infront Germany. As of  1 July 2011, he will share Managing Director responsibilities with  Reinhardt Weinberger, taking over leadership for the sales function. ', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px', WIDTH, 310)" onmouseout="UnTip()"><a href="presscenter/newsdetail/browse/2/article/ralf-koslowski-joins-infront-g/114/" target="_self" title="Ralf Koslowski enters Infront Germany as joint Managing Director">Ralf Koslowski enters Infront Germany as... ?</a></td>
+	</tr>
+		
+	<tr class="">
+		<td class="news-item first"><span class="hidden">1307113680</span> 03.06.2011</td>
+	 	<td class="news-item news-item-sports sports-" onmouseover="Tip('', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()"><span class="hidden"></span></td>
+		<td class="news-item" onmouseover="Tip('Zug, Switzerland,&nbsp;3 June 2011 - In light of the number of reports circulating in the media recently, Infront wishes to refer to its press release of 28 February 2011 and confirms that the strategic review to search for a new strategic investor to take Infront to the next level of success and foster future growth is still ongoing. At this point in time, no decision has been taken including to what extent the shareholding structure might change. The shareholders remain committed to Infront and prepared to remain shareholders of the company.', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px', WIDTH, 310)" onmouseout="UnTip()"><a href="presscenter/newsdetail/browse/2/article/the-strategic-review-to-take-i/114/" target="_self" title="The strategic review to take Infront to the next level of success and foster future growth is still ongoing - No decision has been taken">The strategic review to take Infront to the... ?</a></td>
+	</tr>
+		
+	<tr class="">
+		<td class="news-item first"><span class="hidden">1306504800</span> 27.05.2011</td>
+	 	<td class="news-item news-item-sports sports-" onmouseover="Tip('', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()"><span class="hidden"></span></td>
+		<td class="news-item" onmouseover="Tip('Iffezheim, Germany / Zug, Switzerland, 27 May 2011 - From 28 May to 5 June some of Europes best horseracing talent takes to the tracks of Iffezheim racecourse as the 2011 season gets underway with the Spring Festival. Now in its second year as operator of the race track, Baden Racing ? where Infront Sports &amp; Media acts as majority shareholder ? has further increased media exposure and created an attractive sponsorship concept. A high-calibre starting field, attractive betting offers and diverse entertainment opportunities together with the racing will make the Spring Meeting an appealing event for all kinds of visitors.', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px', WIDTH, 310)" onmouseout="UnTip()"><a href="presscenter/newsdetail/browse/2/article/2011-spring-festival-starts-ho/114/" target="_self" title="2011 Spring Festival starts horse racing season for Baden Racing with enhancements all round">2011 Spring Festival starts horse racing... ?</a></td>
+	</tr>
+		
+	<tr class="">
+		<td class="news-item first"><span class="hidden">1306412400</span> 26.05.2011</td>
+	 	<td class="news-item news-item-sports sports-" onmouseover="Tip('', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()"><span class="hidden"></span></td>
+		<td class="news-item" onmouseover="Tip('Shanghai, China/Zug, Switzerland, 26 May 2011 ? In a close and long-term collaboration with Art on Ice Production AG (Carr? Event AG), Infront Sports &amp; Media brings ?Art on Ice? to China. The popular European show will be staged for the very first time on 18 and 19 June 2011 at the Mercedes-Benz Arena in Shanghai. The famous Chinese pianist Lang Lang and a line-up of successful ice skaters (including four World Champions) are expected to draw in the attention of the Chinese public ? making the event an attractive sponsorship opportunity and offering brands access to the appealing Chinese market.', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px', WIDTH, 310)" onmouseout="UnTip()"><a href="presscenter/newsdetail/browse/2/article/infront-takes-art-on-ice/114/" target="_self" title="Infront takes ?Art on Ice? to China ? with famous pianist Lang Lang as main act">Infront takes ?Art on Ice? to China ? with... ?</a></td>
+	</tr>
+		
+	<tr class="">
+		<td class="news-item first"><span class="hidden">1306143300</span> 23.05.2011</td>
+	 	<td class="news-item news-item-sports sports-motorsport" onmouseover="Tip('Motorsport', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()"><span class="hidden">Motorsport</span></td>
+		<td class="news-item" onmouseover="Tip('Rome, Italy, 23 May 2011 - In a packed press conference on Friday at the Russian National TV centre in Moscow, Paolo Flammini, CEO of Infront Motor Sports and Alexander Yakhnich, CEO of Yakhnich Motorsport announced that a partnership agreement had been reached between the two companies.', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px', WIDTH, 310)" onmouseout="UnTip()"><a href="presscenter/newsdetail/browse/2/article/world-superbike-arrives-in-rus/114/" target="_self" title="World Superbike arrives in Russia">World Superbike arrives in Russia ?</a></td>
+	</tr>
+		
+	<tr class="">
+		<td class="news-item first"><span class="hidden">1305878400</span> 20.05.2011</td>
+	 	<td class="news-item news-item-sports sports-football" onmouseover="Tip('Football', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()"><span class="hidden">Football</span></td>
+		<td class="news-item" onmouseover="Tip('Berlin, Germany / Zug, Switzerland, 20 May 2011 - The Berlin Olympic Stadium again takes center stage for German football this weekend when FC Schalke 04 and MSV Duisburg come head to head to establish the&nbsp; 68th DFB Cup winner. Together with the German Football Association (DFB), Infront Sports &amp; Media ensures that the finals will be a seasonal highlight not only for fans, but also for commercial partners.&nbsp; The state-of-the-art LED board advertising system in the stadium as well as the expanded DFB Fan Village allow for the most effective connection with the fans. Also, for the first time, Infront Hospitality Management will provide around 3,000 VIP guests on site with premier catering and culinary delights.', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px', WIDTH, 310)" onmouseout="UnTip()"><a href="presscenter/newsdetail/browse/2/article/dfb-cup-final-in-its-68th-year/114/" target="_self" title="DFB Cup final in its 68th year significantly enhanced for fans and commercial partners">DFB Cup final in its 68th year significantly... ?</a></td>
+	</tr>
+		
+	<tr class="">
+		<td class="news-item first"><span class="hidden">1305281460</span> 13.05.2011</td>
+	 	<td class="news-item news-item-sports sports-ice_hockey" onmouseover="Tip('Ice Hockey', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()"><span class="hidden">Ice Hockey</span></td>
+		<td class="news-item" onmouseover="Tip('Bratislava, Slovakia / Zug, Switzerland, 13 May 2011 ? ?koda and Infront Sports &amp; Media, official media and marketing partner of the IIHF for the annual IIHF World Championship, have prolonged the Official Main Sponsor contract for the tournament with a new agreement covering 2012 through to 2017. This was announced at the 2011 IIHF World Championship in Bratislava today in a joint press conference by representatives of ?koda, the IIHF and Infront. The contract is a continuation not only of the main sponsorship, but also of ?koda?s role as Official Car Partner.', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px', WIDTH, 310)" onmouseout="UnTip()"><a href="presscenter/newsdetail/browse/2/article/skoda-remains-official-main-s/114/" target="_self" title="?koda remains Official Main Sponsor of the IIHF World Championship until 2017">?koda remains Official Main Sponsor of the... ?</a></td>
+	</tr>
+		
+	<tr class="">
+		<td class="news-item first"><span class="hidden">1304666340</span> 06.05.2011</td>
+	 	<td class="news-item news-item-sports sports-" onmouseover="Tip('', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()"><span class="hidden"></span></td>
+		<td class="news-item" onmouseover="Tip('Iffezheim, Germany / Zug, Switzerland, 6 May 2011 - Baden Racing has signed Infront Hospitality Management as catering and hospitality partner of the racetrack Iffezheim, close to Baden-Baden. The contract has a term of three years and includes all horse race meetings as well as numerous third-party events. The Zug-based company covers a full spectrum of catering and hospitality services, working closely with local partners and suppliers.', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px', WIDTH, 310)" onmouseout="UnTip()"><a href="presscenter/newsdetail/browse/2/article/baden-racing-signs-three-year/114/" target="_self" title="Baden Racing signs three-year contract with Infront Hospitality Management">Baden Racing signs three-year contract with... ?</a></td>
+	</tr>
+		
+	<tr class="">
+		<td class="news-item first"><span class="hidden">1304612580</span> 05.05.2011</td>
+	 	<td class="news-item news-item-sports sports-motorsport" onmouseover="Tip('Motorsport', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()"><span class="hidden">Motorsport</span></td>
+		<td class="news-item" onmouseover="Tip('Monza, Italy, 5 May 2011 ? Wind, Italys third-largest mobile phone operator, will be the Title Event Sponsor to the Monza round of the FIM Superbike World Championship ? promoted by Infront Motor Sports. As one of the few European companies to offer integrated mobile, fixed and Internet services, Wind will be teaming up with this week-end?s Superbike event, now called the ?Wind Italian Round ? Monza 2011?.', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px', WIDTH, 310)" onmouseout="UnTip()"><a href="presscenter/newsdetail/browse/2/article/wind-becomes-title-event-spons/114/" target="_self" title="Wind becomes Title Event Sponsor for Monza round of 2011 FIM Superbike World Championship">Wind becomes Title Event Sponsor for Monza... ?</a></td>
+	</tr>
+		
+	<tr class="">
+		<td class="news-item first"><span class="hidden">1304063400</span> 29.04.2011</td>
+	 	<td class="news-item news-item-sports sports-ice_hockey" onmouseover="Tip('Ice Hockey', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()"><span class="hidden">Ice Hockey</span></td>
+		<td class="news-item" onmouseover="Tip('Bratislava, Slovakia / Zug, Switzerland, 29 April 2011 ? The 2011 IIHF World Championship faces off today in Bratislava and Ko?ice, Slovakia. Until 15 May 2011, 16 teams will play a tournament of 56 games to establish this year?s world champion. ', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px', WIDTH, 310)" onmouseout="UnTip()"><a href="presscenter/newsdetail/browse/2/article/2011-iihf-world-championship-i/114/" target="_self" title="2011 IIHF World Championship is set to become a global television and marketing success">2011 IIHF World Championship is set to... ?</a></td>
+	</tr>
+		
+	<tr class="">
+		<td class="news-item first"><span class="hidden">1302871020</span> 15.04.2011</td>
+	 	<td class="news-item news-item-sports sports-football" onmouseover="Tip('Football', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()"><span class="hidden">Football</span></td>
+		<td class="news-item" onmouseover="Tip('Bremen, Germany, 15 April 2011 - SiG Solar, specialist in distributing photovoltaic products, has become the Official Partner of SV Werder Bremen, commencing with the 2011/2012 season. The sponsorship was arranged by Infront Sports &amp; Media and includes a strong advertising presence in the Weser Stadium. SiG Solar will benefit from the wide reach and popularity of the German Bundesliga.', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px', WIDTH, 310)" onmouseout="UnTip()"><a href="presscenter/newsdetail/browse/2/article/sv-werder-bremen-presents-sig/114/" target="_self" title="SV Werder Bremen presents SiG Solar as a new Official Partner">SV Werder Bremen presents SiG Solar as a new... ?</a></td>
+	</tr>
+		
+	<tr class="">
+		<td class="news-item first"><span class="hidden">1302782820</span> 14.04.2011</td>
+	 	<td class="news-item news-item-sports sports-motorsport" onmouseover="Tip('Motorsport', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()"><span class="hidden">Motorsport</span></td>
+		<td class="news-item" onmouseover="Tip('Zug / Le Locle, Switzerland, 14 April 2011 - Infront Sports &amp; Media has secured Tissot as Official Timekeeper and Sponsor of the FIM Superbike World Championship ? the international road racing series organized and promoted by Infront Motor Sports (the Rome-based subsidiary of Infront). The comprehensive sponsorship agreement over several years will start immediately. Tissot will have its first appearance at the upcoming Superbike round in Assen, Netherlands (15-17 April 2011). ', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px', WIDTH, 310)" onmouseout="UnTip()"><a href="presscenter/newsdetail/browse/2/article/tissot-makes-move-into-superbi/114/" target="_self" title="Tissot makes move into Superbike as Official Timekeeper">Tissot makes move into Superbike as Official... ?</a></td>
+	</tr>
+		
+	<tr class="">
+		<td class="news-item first"><span class="hidden">1302506280</span> 11.04.2011</td>
+	 	<td class="news-item news-item-sports sports-ice_hockey" onmouseover="Tip('Ice Hockey', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()"><span class="hidden">Ice Hockey</span></td>
+		<td class="news-item" onmouseover="Tip('Stockholm, Sweden,&nbsp;11 April 2011 ? Infront Sports &amp; Media, the commercial partner of the Swedish Ice Hockey Association (SIF), has secured three important sponsorship deals for the Swedish National Ice Hockey Team, universally known as the ?Tre Kronor?. Top international brands ?koda (cars), Bauhaus (improvement stores) and Carlsberg Sweden (beer) will each become Main Sponsors for the 2011 season. The brands will benefit from the appeal of international ice hockey ? in Sweden and beyond whilst supporting the team in the important build-up phase for the 2012 and 2013 IIHF World Championships. ', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px', WIDTH, 310)" onmouseout="UnTip()"><a href="presscenter/newsdetail/browse/2/article/infront-secures-major-brands-f/114/" target="_self" title="Infront secures major brands for Sweden?s national ice hockey team">Infront secures major brands for Sweden?s... ?</a></td>
+	</tr>
+		
+	<tr class="">
+		<td class="news-item first"><span class="hidden">1301641740</span> 01.04.2011</td>
+	 	<td class="news-item news-item-sports sports-ice_hockey" onmouseover="Tip('Ice Hockey', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()"><span class="hidden">Ice Hockey</span></td>
+		<td class="news-item" onmouseover="Tip('Zug, Switzerland/Linz, Austria, 1 April&nbsp;2011 ? Infront Sports &amp; Media, the&nbsp;long-term marketing partner to the International Ice Hockey Federation (IIHF), has inked a new agreement with bet-at-home.com as new Official Sponsor of the 2011 IIHF World Championship. The agreement marks the end of a successful marketing and sales period for the tournament, resulting in a line up of 13 international top sponsors.', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px', WIDTH, 310)" onmouseout="UnTip()"><a href="presscenter/newsdetail/browse/2/article/infront-announces-bet-at-home/114/" target="_self" title="Infront announces bet-at-home.com as final Official Sponsor of 2011 IIHF World Championship">Infront announces bet-at-home.com as final... ?</a></td>
+	</tr>
+		
+	<tr class="">
+		<td class="news-item first"><span class="hidden">1301325180</span> 28.03.2011</td>
+	 	<td class="news-item news-item-sports sports-basketball" onmouseover="Tip('Basketball', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()"><span class="hidden">Basketball</span></td>
+		<td class="news-item" onmouseover="Tip('Beijing, China / Zug, Switzerland, 29 March 2011 - The 2011 CBA All-Star Game, which took place on 20 March at the MasterCard Centre in Beijing, has achieved a record television audience. It has more than fulfilled its promise to its commercial partners and is now clearly established as a highlight of China?s sporting year and one of the top sports media platforms in China.', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px', WIDTH, 310)" onmouseout="UnTip()"><a href="presscenter/newsdetail/browse/2/article/2011-cba-all-star-game-deliver/114/" target="_self" title="2011 CBA All-Star Game delivers record TV audience">2011 CBA All-Star Game delivers record TV... ?</a></td>
+	</tr>
+		
+	<tr class="">
+		<td class="news-item first"><span class="hidden">1300953900</span> 24.03.2011</td>
+	 	<td class="news-item news-item-sports sports-football" onmouseover="Tip('Football', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()"><span class="hidden">Football</span></td>
+		<td class="news-item" onmouseover="Tip('Zug, Switzerland / Munich, Germany, 24 March 2011 ? Infront Sports &amp; Media has been appointed by FC Bayern M?nchen to market the friendly game between Germany?s most successful football club and the Dutch national team, which will take place on 22 May 2012 at the Allianz Arena in Munich, Germany. Infront exclusively handles all media, marketing, ticketing and hospitality rights for the football event, which features two of the world?s top teams in their respective competition formats (club versus national team championships).', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px', WIDTH, 310)" onmouseout="UnTip()"><a href="presscenter/newsdetail/browse/2/article/infront-to-market-all-rights-f/114/" target="_self" title="Infront to market all rights for the friendly game FC Bayern M?nchen versus Dutch National Team">Infront to market all rights for the... ?</a></td>
+	</tr>
+		
+	<tr class="">
+		<td class="news-item first"><span class="hidden">1300863600</span> 23.03.2011</td>
+	 	<td class="news-item news-item-sports sports-motorsport" onmouseover="Tip('Motorsport', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()"><span class="hidden">Motorsport</span></td>
+		<td class="news-item" onmouseover="Tip('Zug, Switzerland, 23 March 2011 - Infront Sports &amp; Media has extended broadcast agreements with ESPN/STAR, Al Jazeera and J Sport for television coverage of the FIM Superbike World Championship. They will provide full live coverage, as well as delayed and highlights coverage of the events starting from the next round on 27 March 2011 held at Donington Park, United Kingdom.', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px', WIDTH, 310)" onmouseout="UnTip()"><a href="presscenter/newsdetail/browse/2/article/infront-extends-major-broadcas/114/" target="_self" title="Infront extends major broadcast agreements for FIM Superbike World Championship">Infront extends major broadcast agreements... ?</a></td>
+	</tr>
+		
+	<tr class="">
+		<td class="news-item first"><span class="hidden">1300449600</span> 18.03.2011</td>
+	 	<td class="news-item news-item-sports sports-ski" onmouseover="Tip('Ski', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()"><span class="hidden">Ski</span></td>
+		<td class="news-item" onmouseover="Tip('Zug/Bern, Switzerland, 18 March 2011 ? Infront Sports &amp; Media, Swiss-Ski and the Swiss public broadcaster SRG SSR have renewed their successful triangular partnership, covering the production, broadcast and marketing of the FIS World Cup events in Switzerland. The extended agreements cover the FIS disciplines of alpine skiing, ski jumping, cross country, freestyle, ski cross and snowboard and will run to the end of the 2015/16 season.', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px', WIDTH, 310)" onmouseout="UnTip()"><a href="presscenter/newsdetail/browse/2/article/winter-sports-swiss-ski-srg/114/" target="_self" title="Winter Sports: Swiss-Ski, SRG SSR and Infront renew partnership">Winter Sports: Swiss-Ski, SRG SSR and... ?</a></td>
+	</tr>
+		
+	<tr class="">
+		<td class="news-item first"><span class="hidden">1300442400</span> 18.03.2011</td>
+	 	<td class="news-item news-item-sports sports-basketball" onmouseover="Tip('Basketball', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()"><span class="hidden">Basketball</span></td>
+		<td class="news-item" onmouseover="Tip('Zug, Switzerland / Beijing, China, 18 March 2011 ? Infront Sports &amp; Media has extended its agreement with the China Basketball Association (CBA) as the exclusive global marketing partner of the country?s national basketball teams for another eight years.', BGCOLOR, '#fafcfe', BORDERCOLOR, '#cbddec', FONTCOLOR, '#3574b1', PADDING, 6, FONTSIZE, '10px', WIDTH, 310)" onmouseout="UnTip()"><a href="presscenter/newsdetail/browse/2/article/infront-renews-with-team-china/114/" target="_self" title="Infront renews with Team China Basketball for another eight years">Infront renews with Team China Basketball... ?</a></td>
+	</tr>
+		
+	</tbody>
+	</table>
+</div>
+<div class="news-resultend">&nbsp;</div>
+
+<div class="news-resultcount"><p style="padding-left: 15px;"><b>50-75</b> of 417</p></div>
+<div class="news-resultbrowser"><!--
+			List browsing box:
+		-->
+		<div class="tx-ttnews-browsebox"><a href="nc/presscenter/newsdetail/browse/1/article/ehf-and-infr/114/" target="_self"><span class="previous">&nbsp;</span></a>
+<a href="nc/presscenter/newsdetail/article/ehf-and-infr/114/" target="_self">1</a>
+<a href="nc/presscenter/newsdetail/browse/1/article/ehf-and-infr/114/" target="_self">2</a>
+<strong>3</strong>
+<a href="nc/presscenter/newsdetail/browse/3/article/ehf-and-infr/114/" target="_self">4</a>
+<a href="nc/presscenter/newsdetail/browse/4/article/ehf-and-infr/114/" target="_self">5</a>
+<a href="nc/presscenter/newsdetail/browse/5/article/ehf-and-infr/114/" target="_self">6</a>
+<a href="nc/presscenter/newsdetail/browse/6/article/ehf-and-infr/114/" target="_self">7</a>
+<a href="nc/presscenter/newsdetail/browse/3/article/ehf-and-infr/114/" target="_self"><span class="next">&nbsp;</span></a></div></div>
+<div class="news-resultlimit">
+<label for="news-select-limit">Show</label>
+<select name="limit" id="news-select-limit">
+	<option value="25" selected="">25 per page &nbsp;&nbsp;</option>
+	<option value="50">50 per page &nbsp;&nbsp;</option>
+	<option value="100">100 per page &nbsp;&nbsp;</option>
+	<option value="999">show all &nbsp;&nbsp;</option>
+</select>
+</div>
+<div class="clear"><!-- clear --></div>
+
+
+</div><!--###box### end --></td>
+		</tr>
+	<!--###boxWrap### end --></table>
+<!--TYPO3SEARCH_end-->
+<!--###norm_content### end --></div>
+
+			<div id="printlinkWrap"><!--###printlinkWrap### begin -->
+				<div id="copyright"><!--###copyright### begin --><!--###copyright### end --></div>
+				<div id="printlink"><!--###printlink### begin --><a href="tools/send/send.html?tipUrl=http%3A%2F%2Fwww.infrontsports.com%2Fnc%2Fpresscenter%2Fnewsdetail%2Fbrowse%2F2%2Farticle%2Fehf-and-infr%2F114%2F" target="FEopenLink" onclick="vHWin=window.open('http://www.infrontsports.com/tools/send/send.html?tipUrl=http%3A%2F%2Fwww.infrontsports.com%2Fnc%2Fpresscenter%2Fnewsdetail%2Fbrowse%2F2%2Farticle%2Fehf-and-infr%2F114%2F','FEopenLink','width=350,height=550');vHWin.focus();return false;">send</a>&nbsp;&nbsp; <a href="presscenter/newsdetail/article/ehf-and-infr/114/print.html" target="_blank">print this page</a><!--###printlink### end --></div>
+			<!--###printlinkWrap### end --></div>
+		<!--###col_2### end --></div>
+	<div id="col_3"><!--###col_3### begin -->
+		<div id="search"><!--###search### begin --><div class="tx-macinasearchbox-pi1">
+		
+<span class="searchword">SEARCH</span>
+<form action="en/search/" method="post" name="searchform" id="searchform">
+	<div id="sfield"><input name="tx_indexedsearch[sword]" type="text" /></div>
+	<div id="sbutton"><input name="tx_indexedsearch[submit_button]" type="submit" value="search" />
+	<input type="hidden" name="tx_indexedsearch[_sections]" value="0" />
+	<input type="hidden" name="tx_indexedsearch[pointer]" value="0" />
+	<input type="hidden" name="tx_indexedsearch[ext]" value="0" />
+	<input type="hidden" name="tx_indexedsearch[lang]" value="0" /></div>
+</form>
+
+	</div>
+	<!--###search### end --></div>
+		<div id="specialevent"><!--###specialevent### begin --><div class="tx-onetrandomcontent-pi1">
+		<div class="item_wrap"><a name="c7513" href="nc/presscenter/newsdetail/browse/2/article/ehf-and-infr/114/#"></a></div>
+	</div>
+	<!--###specialevent### end --></div>
+		<div class="eventcalendar">
+		
+<div id="upcoming_events">
+	<h1><a href="upcoming-events" />Upcoming Events </a></p></h1>
+	
+		
+	
+	
+		<!-- ###NEWS### begin 
+			Template for a list item 
+		-->
+		<div class="upcomming_events-item">
+			<div class="events-item-daystogo"><p>| TODAY  </p></div>
+			<div class="events-item-sports sports-basketball" onmouseover="Tip('Basketball', BGCOLOR, '#fcfcfc', BORDERCOLOR, '#dbdbdb', FONTCOLOR, '#737373', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()">&nbsp;</div>
+			<p  onmouseover="Tip('<b>CBA League 2011/12 (Regular matches)</b><br />China<br /><dl><dt>Date:</dt><dd>20 Nov - 14 Feb 12  </dd><dt>Location:</dt><dd>China</dd><dt>Infront\'s Role:</dt><dd>Media, Stadium Advertising</dd></dl>', BGCOLOR, '#fcfcfc', BORDERCOLOR, '#dbdbdb', FONTCOLOR, '#737373', PADDING, 6, FONTSIZE, '10px', WIDTH, 245)" onmouseout="UnTip()"><b>CBA League 2011/12 (Regular matches)</b>, China, <nobr>20 Nov - 14 Feb 12</nobr></p>
+			<p>Role: Media, Stadium...</p>
+		</div>	
+		<!-- ###NEWS### end-->
+	
+		<!-- ###NEWS### begin 
+			Template for a list item 
+		-->
+		<div class="upcomming_events-item">
+			<div class="events-item-daystogo"><p>| TODAY  </p></div>
+			<div class="events-item-sports sports-bobsleigh-skeleton" onmouseover="Tip('Bobsleigh &amp; Skeleton', BGCOLOR, '#fcfcfc', BORDERCOLOR, '#dbdbdb', FONTCOLOR, '#737373', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()">&nbsp;</div>
+			<p  onmouseover="Tip('<b>Viessmann FIBT World Cup</b><br />Canada, Calgary<br /><dl><dt>Date:</dt><dd>09 Feb - 11 Feb 12  </dd><dt>Location:</dt><dd>Canada, Calgary</dd><dt>Infront\'s Role:</dt><dd>Marketing, Media</dd></dl>', BGCOLOR, '#fcfcfc', BORDERCOLOR, '#dbdbdb', FONTCOLOR, '#737373', PADDING, 6, FONTSIZE, '10px', WIDTH, 245)" onmouseout="UnTip()"><b>Viessmann FIBT World Cup</b>, Canada, <nobr>09 Feb - 11 Feb 12</nobr></p>
+			<p>Role: Marketing, Media</p>
+		</div>	
+		<!-- ###NEWS### end-->
+	
+		<!-- ###NEWS### begin 
+			Template for a list item 
+		-->
+		<div class="upcomming_events-item">
+			<div class="events-item-daystogo"><p>| 1 Day to go </p></div>
+			<div class="events-item-sports sports-ski" onmouseover="Tip('Ski', BGCOLOR, '#fcfcfc', BORDERCOLOR, '#dbdbdb', FONTCOLOR, '#737373', PADDING, 6, FONTSIZE, '10px')" onmouseout="UnTip()">&nbsp;</div>
+			<p  onmouseover="Tip('<b>FIS Snowboard World Cup</b><br />Canada, Blue Mountain<br /><dl><dt>Date:</dt><dd>10 Feb 12  </dd><dt>Location:</dt><dd>Canada, Blue Mountain</dd><dt>Infront\'s Role:</dt><dd>Media</dd></dl>', BGCOLOR, '#fcfcfc', BORDERCOLOR, '#dbdbdb', FONTCOLOR, '#737373', PADDING, 6, FONTSIZE, '10px', WIDTH, 245)" onmouseout="UnTip()"><b><a href="http://www.fis-ski.com" target="_blank">FIS Snowboard World Cup</a></b>, Canada, <nobr>10 Feb 12</nobr></p>
+			<p>Role: Media</p>
+		</div>	
+		<!-- ###NEWS### end-->
+	
+	<div class="upcomming_events-more">
+		<div class="t_whole"><p><a href="upcoming-events" />More Events ...</a></p></div>
+	</div>
+</div>
+
+	</div>
+	<div id="right_block_video"><div class="tx-onetrandomcontent-pi1">
+		
+	</div>
+	</div>
+		<div id="right_block"><!--###right_block### begin -->
+			<div class="teaser_item"><!--###teaser_item### begin -->
+				<div class="t_whole"><!--###t_whole### begin --><div class="item_wrap"><a name="c770" href="nc/presscenter/newsdetail/browse/2/article/ehf-and-infr/114/#"></a><h1>Portfolio Highlights</h1></div><div class="tx-onetrandomcontent-pi1">
+		<div class="item_wrap"><a name="c8912" href="nc/presscenter/newsdetail/browse/2/article/ehf-and-infr/114/#"></a><div style="text-align:center;"><table width="160" border="0" cellspacing="0" cellpadding="0" style="margin-left: auto; margin-right: auto" class="imgtext-table"><tr><td colspan="1"><img src="clear.gif" width="160" height="1" alt="" /></td></tr><tr><td valign="top"><a href="mediarights/basketball/cba-league/" target="_self"><img src="uploads/pics/Logo_CBA_160x85_01.jpg" width="160" height="85" border="0" align="top" alt="" title="" /></a><br /></td></tr></table></div><img src="clear.gif" width="1" height="6" border="0" class="spacer-gif" alt="" title="" /><br /><p style="margin:0 0 0 0;"> <b>China Basketball Association</b></p>
+<p style="margin:0 0 0 0;"><a href="mediarights/basketball/cba-league/" title="Opens internal link in current window" target="_self" class="internal-link">Media Rights</a></p>
+<p style="margin:0 0 0 0;"><a href="marketingrights/basketball/chinese-basketball-league/" title="Opens internal link in current window" target="_self" class="internal-link">Marketing Rights</a></p></div><div class="item_wrap"><a name="c7621" href="nc/presscenter/newsdetail/browse/2/article/ehf-and-infr/114/#"></a><div style="text-align:center;"><table width="160" border="0" cellspacing="0" cellpadding="0" style="margin-left: auto; margin-right: auto" class="imgtext-table"><tr><td colspan="1"><img src="clear.gif" width="160" height="1" alt="" /></td></tr><tr><td valign="top"><a href="mediarights/bobsleigh-and-skeleton/" title="Link" target="_self"><img src="uploads/pics/Logo_FIBT_160x85.jpg" width="160" height="85" border="0" align="top" alt="" title="" /></a><br /></td></tr></table></div><img src="clear.gif" width="1" height="6" border="0" class="spacer-gif" alt="" title="" /><br /><p style="margin:0 0 0 0;"> <b>International Bobsleigh and Tobogganing Federation</b></p>
+<p style="margin:0 0 0 0;"><a href="mediarights/bobsleigh-and-skeleton/" title="Opens internal link in current window" target="_self" class="internal-link">Media Rights</a></p>
+<p style="margin:0 0 0 0;"><a href="marketingrights/bobsleigh-and-skeleton/" title="Opens internal link in current window" target="_self" class="internal-link">Marketing Rights</a></p></div>
+	</div>
+	<div class="item_wrap"><a name="c769" href="nc/presscenter/newsdetail/browse/2/article/ehf-and-infr/114/#"></a><p style="margin:0 0 0 0;"><a href="mediarights/" target="Link to the page Media Rights">More Media Properties</a></p>
+<p style="margin:0 0 0 0;"><a href="marketingrights/" target="Link to the page Marketing Rights">More Marketing Properties</a></p></div><!--###t_whole### end --></div>
+			<!--###teaser_item### end --></div>
+		<!--###right_block### end --></div>
+	<!--###col_3### end --></div>
+<!-- 2 right cols end -->
+<!--###innerColwrap### end --></div>
+<!--###outerColwrap### end --></div>
+
+</body>
+</html>

@@ -1,0 +1,971 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<!-- served from 188.121.60.209 @ 1328771137 -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="description" content="The biggest independent Eurovision Song Contest website - The most visited, independent Eurovision Song Contest website, with news, background information, forum, games, and everything about all national selections. " />
+	<meta name="keywords" content="alexander,rybak, fairytale,eurovision,2010,oslo,norway, song, contest, eurovision 2009, 2010, 2012, dusseldorf, satellite, eurovision 2008, eurovision song contest, music, eurovision, music, ebu,  esc, eurosong, melodi, grand prix, melodifestivalen, songfestival, Televoting, decision-making theory, schema theory, audience activity, heuristics, international communication, Europe, European Broadcasting Union, music, popular culture" />
+	<meta name="author" content="esctoday.com" />
+	<meta name="copyright" content="Copyright 2000-2012 Content: esctoday.com | your daily independent Eurovision centre, technology: Interlize.NET: Danny Mekic, Wouter van Vliet and Arnoud Vermeer" />
+
+		<title>Eurovision Song Contest - Baku 2012 | News - This is how the Hungarian jury voted</title>
+
+	<script type="text/javascript" src='/js/combined.js'></script>
+
+	<!-- rss feed -->
+	<link rel="alternate" href="/news/feed-news.rss" type="application/rss+xml" title="esctoday.com" />
+	<link rel="stylesheet" href="/styles/combined/css.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/tmp.css" type="text/css" />
+
+	<style type="text/css">
+	/* Dynamically generated styles */
+	#main_news_container {
+		height: 1050px;
+	}
+	</style>
+	<!--[if lte IE 6]>
+	<style type="text/css">
+	div.tabbed_block {
+		margin-bottom: 45px;
+	}
+	div.block ul.bl_tabs {
+		margin-bottom: 20px;
+	}
+	</style>
+	<![endif]-->
+	<!--[if IE 7]>
+	<style type="text/css">
+	#main_news_container {
+		height: 1133px;
+	}
+	#main ul.features li h3 {
+		margin-left: 0px;
+	}
+	div.reaction_author .date {
+		width: 440px;
+	}
+	div.reaction_author .member {
+		width: 440px;
+	}
+
+	</style>
+	<![endif]-->
+		<script type="text/javascript">
+	<!--
+	var win = null;
+
+	function poll_TestFrontrPagePollForm(thisForm) {
+
+		alert('Login or register to vote on a poll'); return false;
+		oneChecked = false;
+
+		for(i=0;e=thisForm.elements[i];i++) {
+			if (e.name == 'polloption' && e.checked == true) {
+				oneChecked = true;
+				break;
+			};
+		};
+
+		if (oneChecked) {
+			return true;
+		} else {
+			alert('Please select an option to vote on.');
+			return false;
+		};
+	}
+	//-->
+	</script>
+</head>
+<body onload="webticker_start(); Behaviour.apply();">
+
+		
+<!-- need table to center the site -->
+<table id="centerer" border="0"><tr class="centerer"><td class="centerer">
+<!-- everything else starts below this -->
+	
+
+<div id="container">
+	<h1 id="head"><span>News - This is how the Hungarian jury voted | Eurovision Song Contest News - Azerbaijan 2012</span>&nbsp;</h1>
+	<div id="members">
+		<div class="user_options">
+
+
+		
+		<form method="post" action="/">
+			
+			<fieldset>
+			<legend>member login (<a href="/members/password.php">forgot password?</a>)</legend>
+
+			<label accesskey="e" for="login_form_email">email:</label>
+				<span id="s_login_form_email"><input id="login_form_email" name="loginform_email" type="text" class="login" size="20" /></span>
+
+			<label accesskey="p" for="login_form_password">password:</label>
+				<span id="s_login_form_password"><input id="login_form_password" name="loginform_password" type="password" class="login" size="20" /></span>
+
+			<input type="image" src="/ui_images/header/login-submit.gif" alt="Login" id="login_submit" name="submit" value="login" />
+			<a href="/members/index.php" id="login_subscribe"><span>subscribe (free!)</span></a>
+<br /><p>
+<a href="http://www.facebook.com/esctoday" target="_blank"><img src="/ui_images2/FaceBook.png" alt="Become Esctoday fan on Facebook" width="16" height="16"></img></a>
+<a href="http://www.twitter.com/esctoday" target="_blank"><img src="/ui_images2/Twitter.png" alt="Follow us on Twitter" width="16" height="16"></img></a>
+<a href="http://www.youtube.com/esctodayTV" target="_blank"><img src="/ui_images2/Youtube.png" alt="Visit our Youtube Official channel" width="16" height="16"></img></a>
+<a href="http://www.myspace.com/esctoday" target="_blank"><img src="/ui_images2/MySpace.png" alt="Check our Myspace!" width="16" height="16"></img></a>
+</p>
+
+			<div class="notices">
+							</div>
+			</fieldset>
+		</form>
+
+
+				</div>
+	</div>
+
+	
+			<div id="ticker_holder">
+			<div id="ticker" onmouseover="TICKER_PAUSED=true" onmouseout="TICKER_PAUSED=false">
+						<a href="/news/read/18277" class="more">Finland: Ville Eetvartti wants to touch people with his stadium pop</a> (<a class="react" href="/news/read/18277#react">1</a>) | 
+			<a href="/news/read/18276" class="more">Ireland: RT&Eacute; announces song titles</a> (<a class="react" href="/news/read/18276#react">34</a>) | 
+			<a href="/news/read/18274" class="more">Albania: Aurela Ga&ccedil;e releases new videosong</a> (<a class="react" href="/news/read/18274#react">10</a>) | 
+			<a href="/news/read/18273" class="more">Azerbaijan: Preparations for national final in full swing!</a> (<a class="react" href="/news/read/18273#react">16</a>) | 
+			<a href="/news/read/18272" class="more">Finland: this Lioness wants you to break your patterns</a> (<a class="react" href="/news/read/18272#react">15</a>) | 
+			<a href="/news/read/18271" class="more">Finland: Kaisa Vala plans to give a visual performance</a> (<a class="react" href="/news/read/18271#react">8</a>) | 
+			<a href="/news/read/18270" class="more">Latvia: Eirodziesma 2012 running order</a> (<a class="react" href="/news/read/18270#react">24</a>) | 
+			<a href="/news/read/18269" class="more">Iceland: Running order for the national final determined</a> (<a class="react" href="/news/read/18269#react">68</a>) | 
+			<a href="/news/read/18267" class="more">Azerbaijan: Ell & Nikki receive 'Person of the Year Award'</a> (<a class="react" href="/news/read/18267#react">186</a>) | 
+			<a href="/news/read/18266" class="more">Malta: Claudia Faniello tops itunes</a> (<a class="react" href="/news/read/18266#react">30</a>) | 
+			<a href="/news/read/18265" class="more">Group Izabo to represent Israel in Baku!</a> (<a class="react" href="/news/read/18265#react">71</a>) | 
+			<a href="/news/read/18263" class="more">Belarus: Eurofest countdown begins!</a> (<a class="react" href="/news/read/18263#react">16</a>) | 
+			<a href="/news/read/18262" class="more">Israel: Representative to be announced tomorrow</a> (<a class="react" href="/news/read/18262#react">17</a>) | 
+			<a href="/news/read/18260" class="more">Ireland: Veteran conductor Noel Kelehan dies at 76</a> (<a class="react" href="/news/read/18260#react">25</a>) | 
+			<a href="/news/read/18261" class="more">Finland: Megalomaniac plans to lead Iconcrash to victory?</a> (<a class="react" href="/news/read/18261#react">8</a>) | 
+			<a href="/news/read/18259" class="more">Tonight: Third elimination round in Germany</a> (<a class="react" href="/news/read/18259#react">49</a>) | 
+			<a href="/news/read/18258" class="more">Romania : TVR reveals artist wishlist</a> (<a class="react" href="/news/read/18258#react">36</a>) | 
+			<a href="/news/read/18257" class="more">Finland: pop veteran Freeman enchanted by magic powers</a> (<a class="react" href="/news/read/18257#react">5</a>) | 
+			<a href="/news/read/18256" class="more">Anggun prepares a strong act in Baku</a> (<a class="react" href="/news/read/18256#react">26</a>) | 
+			<a href="/news/read/18255" class="more">Serbia: Song presentation on March 10th</a> (<a class="react" href="/news/read/18255#react">19</a>) | 
+				</div>
+
+			<br /><!-- LocalAd: 728x90, country: US -->
+<!--- Found: 24 -->
+<script type="text/javascript"><!--
+google_ad_client = "pub-9026560490291275";
+google_alternate_ad_url = "http://www.esctoday.com/banners/leaderboard.php";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "D4AC66";
+google_color_bg = "F0DFC8";
+google_color_link = "013161";
+google_color_text = "FFFFFF";
+google_color_url = "013161";
+//-->
+</script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+		</div>
+	
+<div id="subcontainer">
+
+	<div id="main">
+		<style type="text/css">
+<!--
+.style1 {color: #F9F9F9}
+-->
+</style>
+<div class="block">
+	<div class="right_flapped">
+
+		<div class="flap">
+			<h2>Credits</h2>
+			<div>
+				<h3 class="author">Written by</h3>
+				<div><small><!-- Author Start -->Marcus Klier<!-- Author End --></small></div>
+
+				<h3 class="date">Published</h3>
+				<div><small>28/May 2009 at 21:01</small></div>
+
+				<h3 class="source">Source(s)</h3>
+				<div align="left"><small>esctoday.com</small></div>
+				<!-- AddThis Button BEGIN -->
+				<div class="addthis_toolbox addthis_default_style">
+				<a class="addthis_button_facebook"></a>
+				<a class="addthis_button_twitter"></a>
+				<a class="addthis_button_google"></a>
+				<a class="addthis_button_delicious"></a>
+				<a href="http://www.addthis.com/bookmark.php?v=250&amp;username=esctoday" class="addthis_button_expanded">More</a>
+				</div>
+				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=esctoday"></script>
+<!-- AddThis Button END -->
+
+							</div>
+
+		</div>
+
+		<h2>News</h2>
+		<div class="news_head">
+			<div class="item">
+				<p class="image">
+					<img alt="Flag of Hungary" class="pic" title="Flag of Hungary" src="/images/flags/28_big.jpg" width="140" height="105" /><br />
+									</p>
+				<div style="position: absolute; top: 0px; left: 150px; width: 215px; height: 110px;" class="centre">
+											<h4>12 points to Norway</h4>
+						<h3 class="image" style="padding-right:10px;">This is how the Hungarian jury voted</h3>
+									</div>
+			</div>
+		</div>
+	</div>
+	<div class="item">
+		<!-- Article Start -->
+						<div class="news_part" id="news_part_0">
+			Another country has revealed how its jury voted in the 2009 Eurovision Song Contest: Hungary's jury agreed with the top three in the grand final giving 12 points to Norway, 10 points to Iceland and 8 points to Azerbaijan. 		</div>
+						<div class="news_part" id="news_part_1">
+			<p>This was the voting in the second semi final (the juries in the semi final were backup-juries and only chose the tenth qualifer): </p><p><table border="0"><tbody><tr><td>&nbsp;</td><td><strong>Jury&nbsp;</strong></td><td><strong>Televoting</strong>&nbsp;</td></tr><tr><td><strong>12</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>Azerbaijan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td><td>Azerbaijan&nbsp;</td></tr><tr><td><strong>10</strong>&nbsp;</td><td>Norway&nbsp;</td><td>Norway&nbsp;</td></tr><tr><td><strong>8&nbsp;</strong></td><td>Denmark&nbsp;</td><td>Ukraine&nbsp;</td></tr><tr><td><strong>7&nbsp;</strong></td><td>Ukraine&nbsp;</td><td>Estonia</td></tr><tr><td><strong>6</strong>&nbsp;</td><td>Poland&nbsp;</td><td>Greece&nbsp;</td></tr><tr><td><strong>5&nbsp;</strong></td><td>Moldova&nbsp;</td><td>Moldova</td></tr><tr><td><strong>4&nbsp;</strong></td><td>Estonia&nbsp;</td><td>Albania&nbsp;</td></tr><tr><td><strong>3&nbsp;</strong></td><td>Lithuania&nbsp;</td><td>Denmark</td></tr><tr><td><strong>2&nbsp;</strong></td><td>Ireland&nbsp;</td><td>Serbia&nbsp;</td></tr><tr><td><strong>1&nbsp;</strong></td><td>Slovenia&nbsp;</td><td>Croatia&nbsp;</td></tr></tbody></table></p><p>The jury would have given the same top two marks as the televoting did in the final. Ramarkably, Croatia would have got no points from the jury but got one point in the televoting although Croatia was the country that qualified for the final as the jury wildcard. The jury winner in the semi final was Azerbaijan and Azerbaijan was also the country that gave Hungary its highest mark - 8 out of 16 in total. </p><p>This was the voting in the final:</p><p><table border="0"><tbody><tr><td>&nbsp;</td><td><strong>Jury vote&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></td><td><strong>Total vote including televoting</strong>&nbsp;</td></tr><tr><td><strong>12</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td><td>Norway&nbsp;</td><td>Norway&nbsp;</td></tr><tr><td><strong>10</strong>&nbsp;</td><td>Iceland&nbsp;</td><td>Azerbaijan&nbsp;</td></tr><tr><td><strong>8&nbsp;</strong></td><td>Azerbaijan&nbsp;</td><td>Ukraine&nbsp;</td></tr><tr><td><strong>7&nbsp;</strong></td><td>Estonia&nbsp;</td><td>Iceland&nbsp;</td></tr><tr><td><strong>6</strong>&nbsp;</td><td>Denmark&nbsp;</td><td>Estonia&nbsp;</td></tr><tr><td><strong>5&nbsp;</strong></td><td>Ukraine&nbsp;</td><td>Turkey&nbsp;</td></tr><tr><td><strong>4&nbsp;</strong></td><td>Malta&nbsp;</td><td>Greece&nbsp;</td></tr><tr><td><strong>3</strong>&nbsp;</td><td>Germany&nbsp;</td><td>Denmark&nbsp;</td></tr><tr><td><strong>2&nbsp;</strong></td><td>United Kingdom&nbsp;</td><td>Albania&nbsp;</td></tr><tr><td><strong>1&nbsp;</strong></td><td>Moldova&nbsp;</td><td>United Kingdom&nbsp;</td></tr></tbody></table></p><p>The top three of the jury voting were identical to actual outcome in the Eurovision Song Contest final. However, due to the televoting the Icelandic entry dropped to fourth place in the Hungarian vote while the Ukrainian entry managed to raise to third place. Remarkably, only two countries that competed in the first semi final - Iceland and Malta - got points from the Hungarian jury. </p><p>Hungary took part in the second semi final and was represented by Zoli &Aacute;dok with the song <em>Dance with me</em>. He finished 15th with 16 points thus not making it to the final. </p>		</div>
+				<!-- Article End -->
+						<hr />
+		<h3>Related polls</h3>
+		<br />
+		<div style="float: right; margin-left: 8px;">
+		<!-- LocalAd: 300x250, country: US -->
+<!--- Found: 27 -->
+<script type="text/javascript"><!--
+google_ad_client = "pub-9026560490291275";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_format = "300x250_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "D4AC66";
+google_color_bg = "F0DFC8";
+google_color_link = "013161";
+google_color_text = "FFFFFF";
+google_color_url = "013161";
+//-->
+</script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+		</div>
+		<ul style="padding: 0px; margin: 0px;">
+						<li style="margin-left: 20px; padding: 0px;"><a href="/vote/poll.php?id=1321">Norway: Vote for your favourite song in the final of Melodi Grand Prix</a></li>
+						<li style="margin-left: 20px; padding: 0px;"><a href="/vote/poll.php?id=1320">Azerbaijan: Vote for your favourite act in the final of Milli Se?im Turu</a></li>
+						<li style="margin-left: 20px; padding: 0px;"><a href="/vote/poll.php?id=1319">Hungary: Vote for your favourite act in the final of A Dal</a></li>
+						<li style="margin-left: 20px; padding: 0px;"><a href="/vote/poll.php?id=1318">Iceland: Vote for your favourite song in the final of Songvakeppni Sjonvarpsins</a></li>
+						<li style="margin-left: 20px; padding: 0px;"><a href="/vote/poll.php?id=1317">Malta: Vote for your favourite act in the final of Malta Eurovision Song Contest 2012</a></li>
+						<li style="margin-left: 20px; padding: 0px;"><a href="/vote/poll.php?id=1316">Hungary: Vote for your favourite act in the second semifinal of A Dal</a></li>
+						<li style="margin-left: 20px; padding: 0px;"><a href="/vote/poll.php?id=1315">Norway: Vote for your favourite song in the third semifinal of Melodi Grand Prix</a></li>
+						<li style="margin-left: 20px; padding: 0px;"><a href="/vote/poll.php?id=1314">Sweden: Vote for your favourite act in the first semifinal of Melodifestivalen</a></li>
+						<li style="margin-left: 20px; padding: 0px;"><a href="/vote/poll.php?id=1313">Malta: Vote for your favourite act in the semifinal of Malta Eurovision Song Contest 2012</a></li>
+						<li style="margin-left: 20px; padding: 0px;"><a href="/vote/poll.php?id=1306">Bulgaria: Vote for your favourite act in the Bulgarian national final 2012</a></li>
+						<li style="margin-left: 20px; padding: 0px;"><a href="/vote/poll.php?id=1305">Latvia: Vote for your favourite act in the final of Eirodziesma 2012</a></li>
+						<li style="margin-left: 20px; padding: 0px;"><a href="/vote/poll.php?id=1299">Belarus: Vote for your favourite act in the final of EuroFest 2012</a></li>
+					</ul>
+		<br  clear="both"/>
+				<br style="clear: both" />
+				<a class="more" href="#reactions">Go directly to the reactions</a>
+			</div>
+</div>
+	
+
+<div class="block">
+	<div class="item">
+		<h2>Recent news about Hungary</h2>
+		<ul class="features">
+		 
+			
+			<li><h3><a href="/news/read/18245">Hungary: Four more acts qualify for the final</a> <a href="/news/read/18245#react" class="react">25</a></h3>
+				<p class="image"><a href="/news/read/18245"><img alt="A Dal, Hungary 2012 - &copy; MTV" class="pic" title="A Dal, Hungary 2012 - &copy; MTV" src="/images/logos/adal.jpg" width="140" height="105" /></a></p>
+				<p class="teaser"> 4/Feb at 22:50 - <a href="/news/read/18245">The last set of four qualifyers have been decided tonight in Hungary as the second semifinal of A Dal has been held. The...</a></p>
+			</li>
+		 
+			
+			<li><h3><a href="/news/read/18235">Watch now: Second  semifinal in Hungary</a> <a href="/news/read/18235#react" class="react">21</a></h3>
+				<p class="image"><a href="/news/read/18235"><img alt="A Dal, Hungary 2012 - &copy; MTV" class="pic" title="A Dal, Hungary 2012 - &copy; MTV" src="/images/logos/adal.jpg" width="140" height="105" /></a></p>
+				<p class="teaser"> 4/Feb at 20:35 - <a href="/news/read/18235">A Dal, the Hungarian national selection for the 2012 Eurovision Song Contest continues tonight with its second semifinal...</a></p>
+			</li>
+		 
+			
+			<li><h3><a href="/news/read/18192">Hungary: Four acts proceed to the final</a> <a href="/news/read/18192#react" class="react">34</a></h3>
+				<p class="image"><a href="/news/read/18192"><img alt="A Dal, Hungary 2012 - &copy; MTV" class="pic" title="A Dal, Hungary 2012 - &copy; MTV" src="/images/logos/adal.jpg" width="140" height="105" /></a></p>
+				<p class="teaser">28/Jan at 22:08 - <a href="/news/read/18192">The first semifinal of the Hungarian national selection for the Eurovision Song Contest took place tonight. Three acts h...</a></p>
+			</li>
+		 
+			
+			<li><h3><a href="/news/read/18181">Watch now: First semifinal in Hungary</a> <a href="/news/read/18181#react" class="react">81</a></h3>
+				<p class="image"><a href="/news/read/18181"><img alt="A Dal, Hungary 2012 - &copy; MTV" class="pic" title="A Dal, Hungary 2012 - &copy; MTV" src="/images/logos/adal.jpg" width="140" height="105" /></a></p>
+				<p class="teaser">28/Jan at 20:04 - <a href="/news/read/18181">A Dal, the Hungarian national selection for the 2012 Eurovision Song Contest, will commence tonight with the first semif...</a></p>
+			</li>
+		 
+			
+			<li><h3><a href="/news/read/18170">Hungary: Running order for semifinals announced</a> <a href="/news/read/18170#react" class="react">13</a></h3>
+				<p class="image"><a href="/news/read/18170"><img alt="A Dal, Hungary 2012 - &copy; MTV" class="pic" title="A Dal, Hungary 2012 - &copy; MTV" src="/images/logos/adal.jpg" width="140" height="105" /></a></p>
+				<p class="teaser">26/Jan at 15:48 - <a href="/news/read/18170">The running order for the two semifinals of A Dal, the Hungarian selection for Eurovision 2012, has been announced. A to...</a></p>
+			</li>
+				</ul>
+		<a class="more" href="/news/?country=28">Click here for Hungary news archive ...</a><br />
+	</div>
+</div>
+
+
+<a name="reactions"></a>
+<a name="react"></a>
+<div class="block">
+	<h2>Reactions</h2>
+	<div class="item">
+		<p class="noheader">When reacting to a news item, please stick to the topic.
+		Inappropriate messages (swearing, racism, hate, etc.), messages in other languages than <b>English</b> and spam (which includes URL advertising) will be deleted and you risk your account being <b>removed</b>. Reacting on newsitems
+		is only possible when logged in as a member. Still don't have
+		member account?</p>
+
+		<p>
+		<a href="#form" class="react">Click here to react</a>&nbsp;
+		<a href="/members/index.php" class="member">Click here to become a member (free!)</a>
+		</p>
+<hr />
+		
+			<div class="reaction" id="reaction626967">
+				<div class="odd">
+				<div class="reaction_author">
+					<div class="avatar"><span><img alt="" class="pic" title="" src="/images/aboutus/emblem.jpg" width="140" height="105" /></span></div>
+
+										<a class="member" href="http://escfans.esctoday.com/58940">Michalpa PL [58940]</a>
+					
+					<div class="date">Sat 30 May 2009 16:14:32</div>
+				   				</div>
+			
+				<p class="reaction_body" id="reaction_body626967">
+					Thanks hungarian jury. 6 points for Poland! Im very happy!				</p>
+				</div>
+				<hr />
+			</div>
+			
+			<div class="reaction" id="reaction626931">
+				<div class="even">
+				<div class="reaction_author">
+					<div class="avatar"><span><img alt="" class="pic" title="" src="/images/aboutus/emblem.jpg" width="140" height="105" /></span></div>
+
+										<span class="member">Sabina - Gordon R. Ocks [57097]</span>
+					
+					<div class="date">Sat 30 May 2009 03:10:57</div>
+				   				</div>
+			
+				<p class="reaction_body" id="reaction_body626931">
+					thank you Hungary for 10 points!!!				</p>
+				</div>
+				<hr />
+			</div>
+			
+			<div class="reaction" id="reaction626892">
+				<div class="odd">
+				<div class="reaction_author">
+					<div class="avatar"><span><img alt="" class="pic" title="" src="/images/aboutus/emblem.jpg" width="140" height="105" /></span></div>
+
+										<span class="member">Malte Abapinavi [58120]</span>
+					
+					<div class="date">Fri 29 May 2009 16:19:17</div>
+				   				</div>
+			
+				<p class="reaction_body" id="reaction_body626892">
+					Both ladies are blonde anyway.				</p>
+				</div>
+				<hr />
+			</div>
+			
+			<div class="reaction" id="reaction626889">
+				<div class="even">
+				<div class="reaction_author">
+					<div class="avatar"><span><img alt="" class="pic" title="" src="/images/aboutus/emblem.jpg" width="140" height="105" /></span></div>
+
+										<span class="member">Malte Abapinavi [58120]</span>
+					
+					<div class="date">Fri 29 May 2009 16:12:18</div>
+				   				</div>
+			
+				<p class="reaction_body" id="reaction_body626889">
+					Is there any newish law of nature being implemented on here that loving France and hating Ukraine are mutually dependent?				</p>
+				</div>
+				<hr />
+			</div>
+			
+			<div class="reaction" id="reaction626822">
+				<div class="odd">
+				<div class="reaction_author">
+					<div class="avatar"><span><img alt="" class="pic" title="" src="/images/profile_images/kanan.jpg" width="140" height="105" /></span></div>
+
+										<a class="member" href="http://escfans.esctoday.com/52697">Kanan Abdullayev [52697]</a>
+					
+					<div class="date">Fri 29 May 2009 12:18:42</div>
+				   				</div>
+			
+				<p class="reaction_body" id="reaction_body626822">
+					THANKSSS FROM AZERBAIJAN				</p>
+				</div>
+				<hr />
+			</div>
+			
+			<div class="reaction" id="reaction626818">
+				<div class="even">
+				<div class="reaction_author">
+					<div class="avatar"><span><img alt="" class="pic" title="" src="/images/profile_images/unitedkingdom_1.jpg" width="140" height="105" /></span></div>
+
+										<a class="member" href="http://escfans.esctoday.com/52645">Jack Sargeson [52645]</a>
+					
+					<div class="date">Fri 29 May 2009 11:28:44</div>
+				   				</div>
+			
+				<p class="reaction_body" id="reaction_body626818">
+					Germany &amp; Malta got more than UK from the jury, but UK got points in the total when Germany &amp; Malta didn&#039;t, so UK must have done well in the SMS vote. Yay  <img alt=":D" src="/images/smileys/bigsmile.gif" />				</p>
+				</div>
+				<hr />
+			</div>
+			
+			<div class="reaction" id="reaction626812">
+				<div class="odd">
+				<div class="reaction_author">
+					<div class="avatar"><span><img alt="" class="pic" title="" src="/images/profile_images/IMG_2338.JPG" width="140" height="105" /></span></div>
+
+										<a class="member" href="http://escfans.esctoday.com/20644">Andrew Berlin [20644]</a>
+					
+					<div class="date">Fri 29 May 2009 10:51:50</div>
+				   				</div>
+			
+				<p class="reaction_body" id="reaction_body626812">
+					Turkey got probably 10 points from televoting in the final and hence received the 5 points in the end.				</p>
+				</div>
+				<hr />
+			</div>
+			
+			<div class="reaction" id="reaction626806">
+				<div class="even">
+				<div class="reaction_author">
+					<div class="avatar"><span><img alt="" class="pic" title="" src="/images/profile_images/Finland_flag.gif" width="140" height="105" /></span></div>
+
+										<a class="member" href="http://escfans.esctoday.com/32912">Marcus Serola [32912]</a>
+					
+					<div class="date">Fri 29 May 2009 09:58:22</div>
+				   				</div>
+			
+				<p class="reaction_body" id="reaction_body626806">
+					I think there is mistake! it seems Turkey is not on the televoting board neither jury but in total vote?				</p>
+				</div>
+				<hr />
+			</div>
+			
+			<div class="reaction" id="reaction626800">
+				<div class="odd">
+				<div class="reaction_author">
+					<div class="avatar"><span><img alt="" class="pic" title="" src="/images/aboutus/emblem.jpg" width="140" height="105" /></span></div>
+
+										<a class="member" href="http://escfans.esctoday.com/10190">Greg Dunn [10190]</a>
+					
+					<div class="date">Fri 29 May 2009 08:51:21</div>
+				   				</div>
+			
+				<p class="reaction_body" id="reaction_body626800">
+					Er... Iceland was in the first semi, not just Malta.				</p>
+				</div>
+				<hr />
+			</div>
+			
+			<div class="reaction" id="reaction626797">
+				<div class="even">
+				<div class="reaction_author">
+					<div class="avatar"><span><img alt="" class="pic" title="" src="/images/profile_images/Finland_flag.gif" width="140" height="105" /></span></div>
+
+										<a class="member" href="http://escfans.esctoday.com/32912">Marcus Serola [32912]</a>
+					
+					<div class="date">Fri 29 May 2009 07:30:30</div>
+				   				</div>
+			
+				<p class="reaction_body" id="reaction_body626797">
+					Ukraine got the points from Hungarian jury? oh this is unbelievable! just look at the Turkey&#039;s opition on the mix voting! This means Turkey really got high points from the public! <strong>Jury sucks!</strong>				</p>
+				</div>
+				<hr />
+			</div>
+			<br /><center><!-- LocalAd: 300x250, country: US -->
+<!--- Found: 28 -->
+<script type="text/javascript"><!--
+google_ad_client = "pub-9026560490291275";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_format = "300x250_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "D4AC66";
+google_color_bg = "F0DFC8";
+google_color_link = "013161";
+google_color_text = "FFFFFF";
+google_color_url = "013161";
+//-->
+</script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center><br />
+			<div class="reaction" id="reaction626793">
+				<div class="odd">
+				<div class="reaction_author">
+					<div class="avatar"><span><img alt="" class="pic" title="" src="/images/profile_images/msn1.jpg" width="140" height="105" /></span></div>
+
+										<a class="member" href="http://escfans.esctoday.com/42521">Will T [42521]</a>
+					
+					<div class="date">Fri 29 May 2009 03:06:04</div>
+				   				</div>
+			
+				<p class="reaction_body" id="reaction_body626793">
+					sorry its off-topic but does anyone know how much tickets for the final were for Moscow and are likely to be for Oslo? like for average seats not VIP  <img alt=":P" src="/images/smileys/tong.gif" />				</p>
+				</div>
+				<hr />
+			</div>
+			
+			<div class="reaction" id="reaction626787">
+				<div class="even">
+				<div class="reaction_author">
+					<div class="avatar"><span><img alt="" class="pic" title="" src="/images/profile_images/al-bundy.jpg" width="140" height="105" /></span></div>
+
+										<a class="member" href="http://escfans.esctoday.com/23983">Neal Widmer [23983]</a>
+					
+					<div class="date">Fri 29 May 2009 01:33:43</div>
+				   				</div>
+			
+				<p class="reaction_body" id="reaction_body626787">
+					Remarkably, only one country that competed in the first semi final - Malta - got points from the Hungarian jury. &uml;<br />
+------------------<br />
+And what about Iceland?<br />
+Semifinal 3 or what?				</p>
+				</div>
+				<hr />
+			</div>
+			
+			<div class="reaction" id="reaction626760">
+				<div class="odd">
+				<div class="reaction_author">
+					<div class="avatar"><span><img alt="" class="pic" title="" src="/images/aboutus/emblem.jpg" width="140" height="105" /></span></div>
+
+										<span class="member">Yavoda Minskaja [21885]</span>
+					
+					<div class="date">Thu 28 May 2009 22:37:53</div>
+				   				</div>
+			
+				<p class="reaction_body" id="reaction_body626760">
+					No points for France from the jury? Nor from the televoters... Shame!				</p>
+				</div>
+				<hr />
+			</div>
+			
+			<div class="reaction" id="reaction626759">
+				<div class="even">
+				<div class="reaction_author">
+					<div class="avatar"><span><img alt="" class="pic" title="" src="/images/profile_images/morg_morg_morg_0.jpg" width="140" height="105" /></span></div>
+
+										<a class="member" href="http://escfans.esctoday.com/10463">Morgan S. Trouillet [10463]</a>
+					
+					<div class="date">Thu 28 May 2009 22:32:09</div>
+				   				</div>
+			
+				<p class="reaction_body" id="reaction_body626759">
+					a jury that voted for poland or ukraine is ridiculous and worth a laugh				</p>
+				</div>
+				<hr />
+			</div>
+			
+			<div class="reaction" id="reaction626755">
+				<div class="odd">
+				<div class="reaction_author">
+					<div class="avatar"><span><img alt="" class="pic" title="" src="/images/profile_images/discobal_0.JPG" width="140" height="105" /></span></div>
+
+										<a class="member" href="http://escfans.esctoday.com/29866">B M [29866]</a>
+					
+					<div class="date">Thu 28 May 2009 22:24:52</div>
+				   				</div>
+			
+				<p class="reaction_body" id="reaction_body626755">
+					lol this is ridiculous..a jury voting for that horror from poland, lol!				</p>
+				</div>
+				<hr />
+			</div>
+			
+			<div class="reaction" id="reaction626750">
+				<div class="even">
+				<div class="reaction_author">
+					<div class="avatar"><span><img alt="" class="pic" title="" src="/images/profile_images/90euro21_gallery__470x313_1.jpg" width="140" height="105" /></span></div>
+
+										<a class="member" href="http://escfans.esctoday.com/59905">Stine Mendez VI [59905]</a>
+					
+					<div class="date">Thu 28 May 2009 22:04:54</div>
+				   				</div>
+			
+				<p class="reaction_body" id="reaction_body626750">
+					Thank you, Hungary..!!  <img alt="(L)" src="/images/smileys/hartje.gif" /><br />
+Your entry was a disaster, but I&acute;m loving your 12 points.  <img alt=":D" src="/images/smileys/bigsmile.gif" />				</p>
+				</div>
+				<hr />
+			</div>
+			
+			<div class="reaction" id="reaction626732">
+				<div class="odd">
+				<div class="reaction_author">
+					<div class="avatar"><span><img alt="" class="pic" title="" src="/images/profile_images/Sept_03_2.JPG" width="140" height="105" /></span></div>
+
+										<a class="member" href="http://escfans.esctoday.com/25456">Brendan Bonner [25456]</a>
+					
+					<div class="date">Thu 28 May 2009 21:59:38</div>
+				   				</div>
+			
+				<p class="reaction_body" id="reaction_body626732">
+					The hungarian jury liked the Irish entry - bloody hell and there was me delighted the won worse dressed - auk well thanks to the jury for the possible 2pts lol				</p>
+				</div>
+				<hr />
+			</div>
+			
+			<div class="reaction" id="reaction626731">
+				<div class="even">
+				<div class="reaction_author">
+					<div class="avatar"><span><img alt="" class="pic" title="" src="/images/profile_images/489526907_3842fdc097.jpg" width="140" height="105" /></span></div>
+
+										<a class="member" href="http://escfans.esctoday.com/52814">Purple Cow [52814]</a>
+					
+					<div class="date">Thu 28 May 2009 21:57:55</div>
+				   				</div>
+			
+				<p class="reaction_body" id="reaction_body626731">
+					I actually expected more points for the UK from Hungary..? I don&#039;t know why exactly..				</p>
+				</div>
+				<hr />
+			</div>
+			
+			<div class="reaction" id="reaction626724">
+				<div class="odd">
+				<div class="reaction_author">
+					<div class="avatar"><span><img alt="" class="pic" title="" src="/images/profile_images/lefki_076.jpg" width="140" height="105" /></span></div>
+
+										<a class="member" href="http://escfans.esctoday.com/44567">greek boy [44567]</a>
+					
+					<div class="date">Thu 28 May 2009 21:29:41</div>
+				   				</div>
+			
+				<p class="reaction_body" id="reaction_body626724">
+					it&#039;s hard to believe that juries gave even one point to ukraine!!!!!				</p>
+				</div>
+				<hr />
+			</div>
+			
+			<div class="reaction" id="reaction626723">
+				<div class="even">
+				<div class="reaction_author">
+					<div class="avatar"><span><img alt="" class="pic" title="" src="/images/aboutus/emblem.jpg" width="140" height="105" /></span></div>
+
+										<span class="member">Angelic  B [59883]</span>
+					
+					<div class="date">Thu 28 May 2009 21:28:08</div>
+				   				</div>
+			
+				<p class="reaction_body" id="reaction_body626723">
+					not shocking it makes sense  <img alt=":)" src="/images/smileys/smile.gif" />				</p>
+				</div>
+				<hr />
+			</div>
+			
+			<div class="reaction" id="reaction626722">
+				<div class="odd">
+				<div class="reaction_author">
+					<div class="avatar"><span><img alt="" class="pic" title="" src="/images/profile_images/azerbaijan_6.jpg" width="140" height="105" /></span></div>
+
+										<a class="member" href="http://escfans.esctoday.com/55796">Orkhan Ibrahimov [55796]</a>
+					
+					<div class="date">Thu 28 May 2009 21:25:57</div>
+				   				</div>
+			
+				<p class="reaction_body" id="reaction_body626722">
+					thanks hungary.i love you.the best wishes from azerbaijan				</p>
+				</div>
+				<hr />
+			</div>
+			
+			<div class="reaction" id="reaction626720">
+				<div class="even">
+				<div class="reaction_author">
+					<div class="avatar"><span><img alt="" class="pic" title="" src="/images/aboutus/emblem.jpg" width="140" height="105" /></span></div>
+
+										<a class="member" href="http://escfans.esctoday.com/54294">Alex Papar. [54294]</a>
+					
+					<div class="date">Thu 28 May 2009 21:20:55</div>
+				   				</div>
+			
+				<p class="reaction_body" id="reaction_body626720">
+					Turkey have 7 Points in the Televoting i know , wow Turkey is much better with the Televotings...				</p>
+				</div>
+				<hr />
+			</div>
+			
+			<div class="reaction" id="reaction626717">
+				<div class="odd">
+				<div class="reaction_author">
+					<div class="avatar"><span><img alt="" class="pic" title="" src="/images/profile_images/S__cak_Resimleri.JPG" width="140" height="105" /></span></div>
+
+										<a class="member" href="http://escfans.esctoday.com/45505">TurQuality  Fire [45505]</a>
+					
+					<div class="date">Thu 28 May 2009 21:15:30</div>
+				   				</div>
+			
+				<p class="reaction_body" id="reaction_body626717">
+					televoting results becoming clear :<br />
+1.Norway<br />
+2.Azerbaijan<br />
+3.Turkey<br />
+...				</p>
+				</div>
+				<hr />
+			</div>
+			
+			<div class="reaction" id="reaction626714">
+				<div class="even">
+				<div class="reaction_author">
+					<div class="avatar"><span><img alt="" class="pic" title="" src="/images/profile_images/firefly2.gif" width="140" height="105" /></span></div>
+
+										<a class="member" href="http://escfans.esctoday.com/56410">Lina love cats  [56410]</a>
+					
+					<div class="date">Thu 28 May 2009 21:12:56</div>
+				   				</div>
+			
+				<p class="reaction_body" id="reaction_body626714">
+					5 points to Ukraine from one expert jury , whell... thats why i dont trust some countreys jurys  <img alt=":)" src="/images/smileys/smile.gif" />				</p>
+				</div>
+				<hr />
+			</div>
+				</div>
+</div>
+
+<a name="form"></a>
+<div class="block">
+	<div class="right_flapped">
+		<div class="flap" style="background-color: transparent; padding-top: 50px;">
+
+			<!-- LocalAd: 160x600, country: US -->
+
+		</div>
+		<h2>React yourself</h2>
+		<div class="item">
+				<strong>Closed for reactions</strong><br />
+		This news article is older than one week. Reacting to articles is only possible in the first week after publication.
+		<br /> <br /> <br /> <br /> <br /> <br />
+		<br /> <br /> <br /> <br /> <br /> <br />
+		<br /> <br /> <br /> <br /> <br /> <br />
+		<br /> <br /> <br /> <br /> <br /> <br />
+		<br /> <br /> 
+				<br /> <br /> <br /> <br /> <br /> <br />
+	  </div>
+  </div>
+</div>
+
+			 		<div class="block" style="width: 731px">
+
+			<div class="un_flapped">
+			  <p><br /><br /><!-- LocalAd: 728x90, country: US -->
+<!--- Found: 29 -->
+<script type="text/javascript"><!--
+google_ad_client = "pub-9026560490291275";
+google_alternate_ad_url = "http://www.esctoday.com/banners/leaderboard.php";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "D4AC66";
+google_color_bg = "F0DFC8";
+google_color_link = "013161";
+google_color_text = "FFFFFF";
+google_color_url = "013161";
+//-->
+</script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</p>
+			</div>
+		</div>
+					  	</div>
+		</div>
+	<div id="columnright">
+		<br /><center><!-- LocalAd: right, country: US -->
+<!--- Found: 22 -->
+</center>		<h2>09/Feb/2012</h2>
+		<div class="stats">
+		<p class="on_visitors"><strong>262</strong> visitors online</p>
+	<p class="on_members"><strong>6</strong> members online</p>
+		<p class="membercount"><strong>42434</strong> members</p>
+			<p class="reactions"><strong>13</strong> reactions today</p>
+<!--	<p class="reactions"><strong></strong> <a href="/vote/bigpoll.php">BigPoll 2008</a> predictions</p>
+
+<p class="reactions"><strong>16008</strong> <a href="/vote/awards2008.php">Awards 2008</a> votes</p>
+-->
+</div>
+		
+			<h2>Become a fan</h2>
+		<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" type="text/javascript"></script><script type="text/javascript">FB.init("cb2c9a853813ea41f33f91205d94258f");</script><fb:fan profile_id="12622425949" stream="0" connections="2" logobar="0" width="150"></fb:fan><div style="font-size:8px; padding-left:10px">
+		
+<a href="http://www.esctoday.com" title="Set as home page!" onclick="this.style.behavior='url(#default#homepage)';
+this.setHomePage('http://www.esctoday.com');">Set as home page!</a>
+
+
+				<h2>Search news</h2>
+		<form method="post" id="news_search" action="/news/index.php">
+			<label id="l_ns_string" for="ns_string">Search for</label>
+			<input type="text" name="string" id="ns_string" value="" /><br />
+			
+			<label for="ns_section" id="l_ns_section">In news section:</label>
+			<select name="section" id="ns_section">
+				<option value="news"> -- all sections --</option>
+				<option value="thisyear">Eurovision</option>
+				<option value="junior">Junior ESC</option>
+				<option value="history">History</option>
+			</select>
+<p><br />
+			<input type="submit" name="ns_submit" value="Search" />
+</p>
+		</form>
+				
+<h2>Tools</h2>
+	<script type="text/javascript">
+		digg_skin = 'compact';
+		digg_title = 'This is how the Hungarian jury voted';
+		digg_topic = 'television';
+		digg_bodytext = 'Another country has revealed how its jury voted in the 2009 Eurovision Song Contest: Hungary\'s jury agreed with the top three in the grand final giving 12 points to Norway, 10 points to Iceland and 8 points to Azerbaijan. ';
+	</script>
+
+	<script src="http://digg.com/tools/diggthis.js" type="text/javascript"></script>
+	<br />
+<ul class="tools">
+	<li><a href="?print=true" class="print">Print this article</a></li>
+	<!-- <li><a href="?send=true" class="send">Send to a friend</a></li> -->
+	<li><a href="#react" class="react">React on this story</a></li>
+	<li><a href='/news/feed-news.rss' class="rss">Subscribe to RSS feed</a></li>
+	<li>
+		<a href="http://www.google.com/coop/trust/add?user=013893927827913893480&sig=__varwiVpxg8WUKUccVcIxbcMg_0A="><img width="140" src="/images/aboutus/addourexpertisebadge.gif" class="subscribe-button" border="0" alt="Add our expertise to your Google search results"/></a></li>
+</ul>
+
+<h2>More news</h2>
+<ul>
+<li><a href="/news/?section=44">2009 ESC</a></li><li><a href="/news/?country=28">Hungary</a></li></ul>
+<h2>Country pages</h2>
+<ul>
+	<li><a href="/annual/2012/page/28">Hungary</a></li></ul>
+
+<h2>Share!</h2>
+<p>Do you have news for esctoday.com? Please let us know! 
+You can submit your newsitem in our <a href="/aboutus/contact.php?concerning=newspost">contact centre</a>!
+</p>
+<!--
+<h2>Play your music!</h2>
+<script language="JavaScript" src="http://pf.tradedoubler.com/pf/pf?a=379163&tid=9117&categoryId=321&programs=1470&exclProductIds=10105433,16829949,16829953,24302083,26303235,53341577,53341579,58066005,58066007,58066009,58066011,58066017&description=(Apple iPod)&maxResults=100&firstResult=0&oe=&js=true" charset=""></script>
+-->
+
+				<br />
+	<h2>Tip!</h2>
+	<center>
+
+	<!-- LocalAd: 160x600, country: US -->
+
+	</center>
+	</div>
+	</div>
+
+	
+<div id="navigation">
+	<span class="logo">&nbsp;</span>
+		<ul class="root"> 		<li class="cat" id="current"><a href="/?section=news" title="General Eurovision Song Contest"><span class="tab">Eurovision Square</span></a>
+		<ul>
+					<li><a href="/?section=home">Home</a></li>	
+					<li><a href="/news/?section=news">News</a></li>	
+					<li><a href="/events/">Events</a></li>	
+					<li><a href="/news/?section=ogae">OGAE</a></li>	
+					<li><a href="/review/">Reviews</a></li>	
+					<li><a href="/multimedia">Multimedia</a></li>	
+					<li><a href="/specials">Specials</a></li>	
+					<li><a href="/annual/2012/participants.php">Participants</a></li>	
+					<li><a href="/chat/">Chat</a></li>	
+					<li><a href="/blogs">Blogs</a></li>	
+					<li><a href="http://www.escforums.com">Forum</a></li>	
+					<li><a href="/links">Links</a></li>	
+					<li><a href="/aboutus">About us</a></li>	
+					<li><a href="/support">Support us</a></li>	
+				</ul>
+		</li> 
+			<li class="cat"><a href="/annual/esc/2012/home.php?section=thisyear" title="Eurovision Song Contest 2012, Baku"><span class="tab">Eurovision 2012 Baku</span></a>
+		<ul>
+					<li><a href="/annual/esc/2012/home.php">Home</a></li>	
+					<li><a href="/news/?section=thisyear">News</a></li>	
+					<li><a href="/annual/2012/participants.php">Participants</a></li>	
+					<li><a href="http://en.wikipedia.org/wiki/Baku">Host city</a></li>	
+					<li><a href="/annual/esc/2012/venue.php">Venue</a></li>	
+				</ul>
+		</li> 
+			<li class="cat"><a href="/annual/contests.php?section=history" title="Extensive Eurovision Song Contest History"><span class="tab">History</span></a>
+		<ul>
+					<li><a href="/annual/contests.php">Home</a></li>	
+					<li><a href="/news?section=history">News</a></li>	
+					<li><a href="/annual/congratulations.php">Congratulations</a></li>	
+				</ul>
+		</li> 
+			<li class="cat"><a href="/vote?section=vote" title="Various Eurovision Polls"><span class="tab">Polls</span></a>
+		<ul>
+					<li><a href="/vote">More Polls</a></li>	
+				</ul>
+		</li> 
+			<li class="cat" style="float: right"><a href="/members/?section=members" title="Things to do, members only"><span class="tab">Members</span></a>
+		<ul>
+					<li><a href="/members/">Home</a></li>	
+					<li><a href="/news/?section=esctoday">esctoday.com News</a></li>	
+					<li><a href="/members/editprofile.php">Edit Profile</a></li>	
+					<li><a href="/vote">Vote</a></li>	
+					<li><a href="/?r=logout&amp;p=true">Logout</a></li>	
+				</ul>
+		</li> 
+			<li class="cat" style="float: right"><a href="/press/?section=press" title="The esctoday.com press centre"><span class="tab">Press</span></a>
+		<ul>
+					<li><a href="/press/">Home</a></li>	
+				</ul>
+		</li> 
+		</ul> 
+</div>
+
+<br style="clear: both" />
+<div id="footer">
+
+	<div class="rel">
+		<div class="left">
+			<strong>Copyright esctoday.com 2000-2012. All rights reserved</strong><br />
+			<a href="/aboutus/terms.php">terms of use</a> | <a href="/aboutus/contact.php" title="Contact the esctoday.com team">contact us</a> |
+			<a href="/support/" title="Advertise on esctoday.com">advertise</a>
+		</div>
+		<div class="right">
+			<br />
+			<a href="http://www.spreadfirefox.com/?q=affiliates&amp;id=123201&amp;t=70" target="_blank" title="Download Firefox">we recommend FireFox</a>
+		</div>
+	</div>
+</div>
+
+</div>
+</td></tr> </table>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28910909-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>
+

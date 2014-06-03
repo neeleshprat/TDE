@@ -1,0 +1,735 @@
+<html>
+<head>
+<title>F&Oacute;RUM CULTURAL MUNDIAL</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<link rel="stylesheet" href="../estilos.css" type="text/css">
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages('images/apresentacao_over.gif','images/noticias_over.gif','images/previas_over.gif','images/forum_over.gif','images/programacao_over.gif','images/participe_over.gif','images/local_over.gif','images/contato_over.gif')">
+<a name="top"></a><table width="780" border="0" cellspacing="0" cellpadding="0"> 
+<tr> 
+    <td>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="142" valign="top" bgcolor="#CCCCCC" background="images/cinza.gif"> 
+            <script language="JavaScript">
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+<script language="JavaScript">
+<!--
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
+
+//-->
+</script>
+<script language="JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+MM_preloadImages('images/apresentacao_over.gif','images/noticias_over.gif','images/forum_over.gif','images/previas_over.gif','images/programacao_over.gif','images/participe_over.gif','images/local_over.gif','images/contato_over.gif');
+</script>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_showHideLayers() { //v6.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('images/apresentacao_over.gif','images/noticias_over.gif','images/previas_over.gif','images/forum_over.gif','images/programacao_over.gif','images/participe_over.gif','images/local_over.gif','images/contato_over.gif','images/galeria_over.gif')">
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td><a href="default.php"><img src="images/logo.gif" width="142" height="212" border="0"></a></td>
+  </tr>
+  <tr> 
+    <td><a href="#" onMouseOver="MM_showHideLayers('apresentacao','','show')" onMouseOut="MM_showHideLayers('apresentacao','','hide')"><img src="images/apresentacao.gif" width="142" height="22" border="0" name="Image1" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image1','','images/apresentacao_over.gif',1)"></a></td>
+  </tr>
+  <tr> 
+    <td><a href="noticias.php"><img src="images/noticias.gif" width="142" height="22" border="0" name="Image2" onMouseOver="MM_swapImage('Image2','','images/noticias_over.gif',1)" onMouseOut="MM_swapImgRestore()"></a></td>
+  </tr>
+  <tr> 
+    <td><a href="previas.php"><img src="images/previas.gif" width="142" height="22" border="0" name="Image3" onMouseOver="MM_swapImage('Image3','','images/previas_over.gif',1);MM_showHideLayers('previas','','show')" onMouseOut="MM_swapImgRestore();MM_showHideLayers('previas','','hide')"></a></td>
+  </tr>
+  <tr> 
+    <td><a href="forum.php"><img src="images/forum.gif" width="142" height="22" border="0" name="Image4" onMouseOver="MM_swapImage('Image4','','images/forum_over.gif',1)" onMouseOut="MM_swapImgRestore()"></a></td>
+  </tr>
+  <tr> 
+    <td><a href="#"><img src="images/programacao.gif" width="142" height="22" border="0" name="Image5" onMouseOver="MM_swapImage('Image5','','images/programacao_over.gif',1);MM_showHideLayers('programacao','','show')" onMouseOut="MM_swapImgRestore();MM_showHideLayers('programacao','','hide')"></a></td>
+  </tr>
+  <tr> 
+    <td><a href="galeria.php"><img src="images/galeria.gif" name="Image9" width="142" height="22" border="0" id="Image9" onMouseOver="MM_swapImage('Image9','','images/galeria_over.gif',1)" onMouseOut="MM_swapImgRestore()"></a></td>
+  </tr>
+  <tr> 
+    <td><a href="local.php"><img src="images/local.gif" width="142" height="22" border="0" name="Image7" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image7','','images/local_over.gif',1)"></a></td>
+  </tr>
+  <tr> 
+    <td><a href="contato.php"><img src="images/contato.gif" width="142" height="22" border="0" name="Image8" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image8','','images/contato_over.gif',1)"></a></td>
+  </tr>
+  <tr> 
+    <td><img src="images/cinza.gif" width="142" height="29"></td>
+  </tr>
+  <tr> 
+    <td> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td><a href="../espanol/default.php"><img src="../images/bot-espanhol.gif" width="47" height="20" border="0"></a></td>
+          <td><a href="../default.php"><img src="../images/bot-portugues.gif" width="47" height="20" border="0"></a></td>
+          <td><a href="../francais/default.php"><img src="../images/bot-frances.gif" width="47" height="20" border="0"></a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr> 
+    <td><img src="images/cinza_arte.gif" width="142" height="177"></td>
+  </tr>
+</table>
+<div id="apresentacao" style="position:absolute; left:139; top:210; width:220; height:10; z-index:1; visibility: hidden" onMouseOver="MM_showHideLayers('apresentacao','','show');MM_swapImage('Image1','','images/apresentacao_over.gif',1);" onMouseOut="MM_showHideLayers('apresentacao','','hide');MM_swapImgRestore();"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td width="2"><img src="images/spacer.gif" width="2" height="30"></td>
+      <td bgcolor="494B7A">
+        <table width="100%" border="1" cellspacing="0" cellpadding="4" bordercolor="#FFFFFF">
+          <tr>
+            <td height="22" valign="middle"><a href="apresentacao.php"><img src="images/apresentacao-menu1.gif" width="67" height="9" border="0"></a></td>
+          </tr>
+          <tr> 
+            <td height="22" valign="middle"><a href="apresentacao_conceito.php"><img src="images/apresentacao-menu2.gif" width="41" height="9" border="0"></a></td>
+          </tr>
+          <tr> 
+            <td height="22" valign="middle"><a href="apresentacao_objetivos.php"><img src="images/apresentacao-menu3.gif" width="77" height="9" border="0"></a></td>
+          </tr>
+          <tr> 
+            <td height="22" valign="middle"><a href="apresentacao_antecedentes.php"><img src="images/apresentacao-menu4.gif" width="84" height="9" border="0"></a></td>
+          </tr>
+          <tr> 
+            <td height="22" valign="middle"><a href="apresentacao_processo.php"><img src="images/apresentacao-menu5.gif" width="38" height="9" border="0"></a></td>
+          </tr>
+          <tr> 
+            <td height="22" valign="middle"><a href="apresentacao_evento.php"><img src="images/apresentacao-menu6.gif" width="29" height="7" border="0"></a></td>
+          </tr>
+          <tr> 
+            <td height="22" valign="middle"><a href="apresentacao_realizadores.php"><img src="images/apresentacao-menu7.gif" width="125" height="9" border="0"></a></td>
+          </tr>
+          <tr> 
+            <td height="22" valign="middle"><a href="apresentacao_quem.php"><img src="images/apresentacao-menu8.gif" width="60" height="9" border="0"></a></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="previas" style="position:absolute; left:139; top:254; width:220; height:10; z-index:2; visibility: hidden" onMouseOver="MM_swapImage('Image3','','images/previas_over.gif',1);MM_showHideLayers('previas','','show')" onMouseOut="MM_swapImgRestore();MM_showHideLayers('previas','','hide')"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td width="2"><img src="images/spacer.gif" width="2" height="30"></td>
+      <td bgcolor="E3544A"> 
+        <table width="100%" border="1" cellspacing="0" cellpadding="4" bordercolor="#FFFFFF">
+          <tr> 
+            <td height="22" valign="middle"><a href="previas_realizados.php"><img src="images/previas-menu1.gif" width="92" height="9" border="0"></a></td>
+          </tr>
+          <tr> 
+            <td height="22" valign="middle"><a href="previas_proximos.php"><img src="images/previas-menu2.gif" width="24" height="7" border="0"></a></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="forum" style="position:absolute; left:139; top:276; width:220; height:10; z-index:1; visibility: hidden" onMouseOver="MM_showHideLayers('forum','','show');MM_swapImage('Image4','','images/forum_over.gif',1);" onMouseOut="MM_showHideLayers('forum','','hide');MM_swapImgRestore();"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td width="2"><img src="images/spacer.gif" width="2" height="30"></td>
+      <td bgcolor="FF9736"> 
+        <table width="100%" border="1" cellspacing="0" cellpadding="4" bordercolor="#FFFFFF">
+          <tr> 
+            <td height="22" valign="middle"><a href="javascript:MM_openBrWindow('http://www.viamagia.org/forum/site2004/index.php?c=2','','scrollbars=yes,width=800,height=500');"><img src="images/forum-menu1.gif" width="164" height="9" border="0"></a></td>
+          </tr>
+          <tr> 
+            <td height="22" valign="middle"><a href="javascript:MM_openBrWindow('http://www.viamagia.org/forum/site2004/index.php?c=3','','scrollbars=yes,width=800,height=500');"><img src="images/forum-menu2.gif" width="120" height="9" border="0"></a></td>
+          </tr>
+          <tr> 
+            <td height="22" valign="middle"><a href="javascript:MM_openBrWindow('http://www.viamagia.org/forum/site2004/index.php?c=4','','scrollbars=yes,width=800,height=500');"><img src="images/forum-menu3.gif" width="193" height="10" border="0"></a></td>
+          </tr>
+          <tr> 
+            <td height="22" valign="middle"><a href="javascript:MM_openBrWindow('http://www.viamagia.org/forum/site2004/index.php?c=5','','scrollbars=yes,width=800,height=500');"><img src="images/forum-menu4.gif" width="179" height="9" border="0"></a></td>
+          </tr>
+          <tr> 
+            <td height="22" valign="middle"><a href="javascript:MM_openBrWindow('http://www.viamagia.org/forum/site2004/index.php?c=6','','scrollbars=yes,width=800,height=500');"><img src="images/forum-menu5.gif" width="118" height="9" border="0"></a></td>
+          </tr>
+          <tr> 
+            <td height="22" valign="middle"><a href="javascript:MM_openBrWindow('http://www.viamagia.org/forum/site2004/index.php?c=7','','scrollbars=yes,width=800,height=500');"><img src="images/forum-menu6.gif" width="138" height="9" border="0"></a></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div id="programacao" style="position:absolute; left:139; top:298; width:220; height:10; z-index:2; visibility: hidden" onMouseOver="MM_swapImage('Image5','','images/programacao_over.gif',1);MM_showHideLayers('programacao','','show')" onMouseOut="MM_swapImgRestore();MM_showHideLayers('programacao','','hide')"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td width="2"><img src="images/spacer.gif" width="2" height="30"></td>
+      <td bgcolor="9C8E90"> 
+        <table width="100%" border="1" cellspacing="0" cellpadding="4" bordercolor="#FFFFFF">
+          <tr> 
+            <td height="22" valign="middle"><a href="programacao_convencao.php"><img src="images/programacao-menu1.gif" width="116" height="9" border="0"></a></td>
+          </tr>
+          <tr> 
+            <td height="22" valign="middle"><a href="programacao_mercado.php"><img src="images/programacao-menu2.gif" width="172" height="9" border="0"></a></td>
+          </tr>
+          <tr>
+            <td height="22" valign="middle"><a href="programacao_mostra.php"><img src="images/programacao-menu3.gif" width="100" height="9" border="0"></a></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="participe" style="position:absolute; left:139; top:320; width:220; height:10; z-index:2; visibility: hidden" onMouseOver="MM_swapImage('Image6','','images/participe_over.gif',1);MM_showHideLayers('participe','','show')" onMouseOut="MM_swapImgRestore();MM_showHideLayers('participe','','hide')"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td width="2"><img src="images/spacer.gif" width="2" height="30"></td>
+      <td bgcolor="156FC2"> 
+        <table width="100%" border="1" cellspacing="0" cellpadding="4" bordercolor="#FFFFFF">
+          <tr> 
+            <td height="22" valign="middle"><a href="participe_convencao.php"><img src="images/participe-menu1.gif" width="116" height="9" border="0"></a></td>
+          </tr>
+          <tr> 
+            <td height="22" valign="middle"><a href="participe_mercado.php"><img src="images/participe-menu2.gif" width="172" height="9" border="0"></a></td>
+          </tr>
+          <tr> 
+            <td height="22" valign="middle"><a href="participe_mostra.php"><img src="images/participe-menu3.gif" width="100" height="9" border="0"></a></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div></td>
+          <td valign="top" class="fundo_tab"> 
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                
+          <td align="right" valign="top"> 
+            <table width="636" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="636" height="152">
+                    <param name=movie value="flash/flash.swf">
+                    <param name=quality value=high>
+                    <param name=wmode value=transparent>
+                    <embed src="flash/flash.swf" quality=high value=transparent pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="636" height="152">
+                    </embed> 
+                  </object></td>
+              </tr>
+              <tr> 
+                <td height="22"><img src="images/ani-data.gif" width="636" height="22"></td>
+              </tr>
+            </table>
+          </td>
+              
+              </tr>
+              <tr>
+                <td> 
+                  <table width="100%" border="0" cellspacing="2" cellpadding="2">
+                    <tr>
+                      <td >                        <br>
+                        <table border="0" cellspacing="4" cellpadding="4" align="center" width="600">
+                          <tr> 
+                            <td><img src="images/programacao-tit.gif" width="600" height="24"></td>
+                          </tr>
+                          <tr> 
+                            <td class="titulos"> 
+                              <p><b><font color="#494B7A"><font color="9C8E90">Global 
+                                Convention</font></font><font color="9C8E90"></font><font color="9C8E90"> 
+                                - Conferences<br>
+                                <img src="images/programacao-linha.gif" width="600" height="3"></font></b></p>
+                            </td>
+                          </tr>
+                          <tr> 
+                            <td class="textos"> 
+                              <blockquote> 
+                                <p><br>
+                                  Check the programme:</p>
+                              </blockquote>
+                              <table border="0" cellspacing="0" cellpadding="5">
+                                <tr> 
+                                  <td class="textos" valign="top" width="26">&nbsp;</td>
+                                  <td class="textos" valign="top" align="right"><b><font color="#000000"><img src="images/dot-verde_m.gif" width="4" height="40" vspace="0" hspace="0"></font></b></td>
+                                  <td class="textos" valign="top" width="110"> 
+                                    <p class="textos"><font color="#666666">thursday</font><br>
+                                      <b><font size="3"><font color="#666666"> 
+                                      july, 1st</font></font></b></p>
+                                  </td>
+                                  <td class="textos" valign="top"><b><font color="#000000"><img src="images/dot-azul_m.gif" width="4" height="40" hspace="0" vspace="0"></font></b></td>
+                                  <td class="textos" valign="top" width="110"><font color="#BFBFBF">wednesday</font><br>
+                                    <b><font size="3"><a href="programacao_convencao_30.php"><font color="#BFBFBF">june, 
+                                    30th</font></a></font></b></td>
+                                  <td class="textos" valign="top"><b><font color="#000000"><img src="images/dot-vermelho_m.gif" width="4" height="40" vspace="0" hspace="0"></font></b></td>
+                                  <td class="textos" valign="top" width="110"><font color="#BFBFBF">fryday</font><br>
+                                    <b><font size="3"><a href="programacao_convencao_2.php"><font color="#BFBFBF">july, 
+                                    2nd</font></a></font></b></td>
+                                  <td class="textos" valign="top" width="4"><b><font color="#000000"><img src="images/dot-laranja_m.gif" width="4" height="40" vspace="0" hspace="0"></font></b></td>
+                                  <td class="textos" valign="top" width="110"><font color="#BFBFBF">saturday</font><br>
+                                    <b><font size="3"><a href="programacao_convencao_3.php"><font color="#666666"> 
+                                    <font color="#BFBFBF">july, 3rd</font></font></a></font></b></td>
+                                </tr>
+                              </table>
+                              <br>
+                              <table cellspacing="2" cellpadding="5">
+                                <tr> 
+                                  <td width="26" class="textos">&nbsp;</td>
+                                  <td width="75" class="textos" bgcolor="#307060"><font color="#FFFFFF">t</font><font color="#FFFFFF">ime<br>
+                                    </font></td>
+                                  <td  width="114" class="textos" bgcolor="#307060"><font color="#FFFFFF">r</font><font color="#FFFFFF">oom<br>
+                                    </font></td>
+                                  <td  width="357" class="textos" bgcolor="#307060"><font color="#FFFFFF">events</font></td>
+                                  <td  width="357" class="textos" bgcolor="#307060"><font color="#FFFFFF">speaker</font></td>
+                                </tr>
+                                <tr>
+                                  <td rowspan="9" class="textos"   width="26">&nbsp;</td>
+                                  <td rowspan="9" class="textos" bgcolor="#CCCCCC"   width="75"> 
+                                    <div align="center"><font color="#FFFFFF">9am 
+                                        - 10:30am </font></div>
+                                  </td>
+                                    <td class="textos" bgcolor="#F4F4F4">Grand Auditorium </td>
+                                    <td class="textos" bgcolor="#F4F4F4"><b>3rd Conference</b> - Knowledge, Education And Solidarity: Cultural Dimensions of A New Time</td>
+                                    <td class="textos" bgcolor="#F4F4F4"><font size="1"><b>Gilberto Dimenstein moderator (BRA) </b><br>
+                                    Journalist / Educator<br>
+                                    <b>Sibusiso Bengu (DELPHIC) (South Africa) </b><br>
+                                    Scientist, Historian, South Africa and Germany<br>
+                                    <b>Wolfgang Schneider (Germany) </b><br>
+                                    Professor of Cultural Policies - President of ASSITEJ</font></td>
+                                </tr>
+                                <tr> 
+                                  <td   width="114" class="textos">Elis Regina 
+                                    Auditorium <br>
+                                  </td>
+                                  <td   width="357" class="textos"><b>Film Programme</b></td>
+                                  <td   width="357" class="textos">&nbsp;</td>
+                                </tr>
+                                <tr> 
+                                  <td   width="114" class="textos" bgcolor="#F4F4F4">Auditorium 
+                                    A <br>
+                                  </td>
+                                  <td   width="357" class="textos" bgcolor="#F4F4F4"><b>Open Meeting with the European Theatre Network</b></td>
+                                  <td   width="357" class="textos" bgcolor="#F4F4F4">&nbsp;</td>
+                                </tr>
+                                <tr> 
+                                  <td   width="114" class="textos">Auditorium B <br>
+                                  </td>
+                                  <td   width="357" class="textos"><b>Associated Activity</b><br>
+                                  Latin-American Thematic Forum </td>
+                                  <td   width="357" class="textos">&nbsp;</td>
+                                </tr>
+                                <tr> 
+                                  <td   width="114" class="textos" bgcolor="#F4F4F4">Auditorium                                    C <br>
+                                  </td>
+                                  <td   width="357" class="textos" bgcolor="#F4F4F4"><b>Associated Activity</b><br>
+                                  Encontro National Meeting of Cultural Producers educators</td>
+                                  <td   width="357" class="textos" bgcolor="#F4F4F4">&nbsp;</td>
+                                </tr>
+                                <tr> 
+                                  <td   width="114" class="textos">Auditorium D <br>
+                                  </td>
+                                  <td   width="357" class="textos"><b>Associated Activity</b><br>
+                                  S&atilde;o Paulo&acute;s Meeting on Culture-Culture and Technological Mediations</td>
+                                  <td   width="357" class="textos">&nbsp;</td>
+                                </tr>
+                                <tr> 
+                                  <td   width="114" class="textos" bgcolor="#F4F4F4">Auditorium 
+                                    F <br>
+                                  </td>
+                                  <td   width="357" class="textos" bgcolor="#F4F4F4"><b>Associated Activity</b><br>
+                                  Capoeira as Social Inclusion de Produ&ccedil;&atilde;o Cultural</td>
+                                  <td   width="357" class="textos" bgcolor="#F4F4F4">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td class="textos">Auditorium E <br>
+                                  </td>
+                                  <td class="textos"><b>Associated Activity</b><br>
+                                  Fonds Sud of Cinema</td>
+                                  <td class="textos">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td class="textos" bgcolor="#F4F4F4">Meeting Room<br>                                  </td>
+                                  <td class="textos" bgcolor="#F4F4F4"><b>Associated Activity</b><br>
+                                  The south american Dance network <br></td>
+                                  <td class="textos" bgcolor="#F4F4F4">&nbsp;</td> 
+                                </tr>
+                                <tr> 
+                                  <td   width="26" class="textos">&nbsp;</td>
+                                  <td   width="75" class="textos" bgcolor="#CCCCCC"> 
+                                    <div align="center"><font color="#FFFFFF">10:30am 
+                                      - 11pm</font></div>
+                                  </td>
+                                  <td colspan="3" class="textos" bgcolor="#CCCCCC"> 
+                                    <div align="center"><font color="#FFFFFF">Break 
+                                      </font></div>
+                                  </td>
+                                </tr>
+                                <tr> 
+                                  <td rowspan="8" class="textos" width="26">&nbsp;</td>
+                                  <td rowspan="8" class="textos" bgcolor="#CCCCCC" width="75"> 
+                                    <div align="center"> 
+                                      <p><font color="#FFFFFF">11am -</font><font color="#FFFFFF">1pm</font> </p>
+                                    </div>
+                                  </td>
+                                  <td   width="114" class="textos">Elis Regina 
+                                    Auditorium <br>
+                                  </td>
+                                  <td   width="357" class="textos"><b>Film Programme </b></td>
+                                  <td   width="357" class="textos">&nbsp;</td>
+                                </tr>
+                                <tr> 
+                                  <td   width="114" class="textos" bgcolor="#F4F4F4">Auditorium 
+                                    A <br>
+                                  </td>
+                                  <td   width="357" class="textos" bgcolor="#F4F4F4"> <b>&Aacute;ndres Bello Foundation (Barcelona)</b></td>
+                                  <td   width="357" class="textos" bgcolor="#F4F4F4">&nbsp;</td>
+                                </tr>
+                                <tr> 
+                                  <td   width="114" class="textos">Auditorium B <br>
+                                  </td>
+                                  <td   width="357" class="textos"><b>Debate - 3.1</b><br>
+                                  Democracy, Education, Cultural Participation</td>
+                                  <td   width="357" class="textos"><font size="1"><b>Cl&aacute;udio Ant&ocirc;nio de Mauro moderator (BRA) </b><br>
+                                    Mayor of Rio Claro / SP<br>
+                                    <b>Rosa Maria Torres (Ecuador) <br>
+                                    Ken Bartlett (England) </b><br>
+                                    Director of Foundation for Community Dance<br>
+                                    <b>Peter Friese (Denmark) </b><br>
+                                    Professor, Specialist in Educational Projects<br>
+                                    <b>Maria Teresa Leal (BRA) <br>
+                                    Reynaldo Bautista (DELPHIC) (The Philippines) </b><br>
+                                  President of the Universidade of Baggio City</font></td>
+                                </tr>
+                                <tr> 
+                                  <td   width="114" class="textos" bgcolor="#F4F4F4">Auditorium 
+                                    C <br>
+                                  </td>
+                                  <td   width="357" class="textos" bgcolor="#F4F4F4"><p><b>Debate - 3.2</b><br>
+                                  Preventing the erosion of cultural memory (WCFA)</p>                                  </td>
+                                  <td   width="357" class="textos" bgcolor="#F4F4F4"><b><font size="1">Kifah Fakhouri (Jordan)<br>
+                                    Cheng Kaiming (Hong Kong)<br>
+                                    Ousmane Sow Huchard<br>
+                                    Sarah Miller (Australia)<br>
+                                    Ama Dadson (Ghana)<br>
+                                    Mitch Yomishoto (Japan)<br>
+                                  Victorino M. Manalo (PH)</font></b></td>
+                                </tr>
+                                <tr> 
+                                  <td   width="114" class="textos">Auditorium D <br>
+                                  </td>
+                                  <td   width="357" class="textos"><b>Special theme</b><br>
+                                  Authorial Rights and Piracy- The crisis in the music industry </td>
+                                  <td   width="357" class="textos"><font size="1"><b>Damien Pwono moderator (Congo / USA) </b><br>
+  Secret&aacute;rio Geral do IMC - International Music Council<br>
+  <b>Peter Rantasa (&Aacute;ustria) </b><br>
+                                    WCFA<br>
+                                    <b>Eliane Abr&atilde;o (BRA) </b><br>
+                                    Lawyer<br>
+                                    <b>Mario L&uacute;cio(Cape Verde)</b><br>
+                                    Musician<br>
+                                    <b>Bruno Boulay (France) </b><br>
+                                    French music writer<br>
+                                    <b>Eduardo Pimenta (BRA)</b><br>
+                                  MG State</font></td>
+                                </tr>
+                                <tr> 
+                                  <td   width="114" class="textos" bgcolor="#F4F4F4">Auditorium 
+                                    E<br>
+                                  </td>
+                                  <td   width="357" class="textos" bgcolor="#F4F4F4"><b>Associated Activity</b><br>
+                                  Mobility for Artists (IETM) </td>
+                                  <td   width="357" class="textos" bgcolor="#F4F4F4">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td class="textos">Auditorium F </td>
+                                  <td class="textos"><b>Associated Activity</b><br>
+                                  Artists and Education</td>
+                                  <td class="textos">&nbsp;</td>
+                                </tr>
+                                <tr> 
+                                  <td   width="114" bgcolor="#F4F4F4" class="textos">Meeting Room<br>
+                                  </td>
+                                  <td   width="357" bgcolor="#F4F4F4" class="textos"><b>Associated Activity</b><br>
+                                  Delphic Council </td>
+                                  <td   width="357" bgcolor="#F4F4F4" class="textos">&nbsp;</td>
+                                </tr>
+                                <tr> 
+                                  <td   width="26" class="textos">&nbsp;</td>
+                                  <td   width="75" class="textos" bgcolor="#CCCCCC"> 
+                                    <div align="center"><font color="#FFFFFF">1pm 
+                                      - 2:30pm</font></div>
+                                  </td>
+                                  <td colspan="3" class="textos" bgcolor="#CCCCCC"> 
+                                    <div align="center"><font color="#FFFFFF">Lunch 
+                                      Break </font></div>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td rowspan="10" class="textos" width="26">&nbsp;</td>
+                                  <td rowspan="10" class="textos" bgcolor="#CCCCCC" width="75"> 
+                                    <div align="center"><font color="#FFFFFF">2:30pm - 4pm<br>
+                                      </font></div>
+                                  </td>
+                                    <td class="textos">Grand Auditorium<br>
+                                    </td>
+                                    <td class="textos"><b>4th Conference</b> <br>
+                                    Cultural Diversity: Patrimonies And Paradigms of Humanity</td>
+                                    <td class="textos"><font size="1"><b>Ant&ocirc;nio Arantes moderator (BRA) </b><br>
+                                    President of the Institute of Historical Patrimony<br>
+                                    <b>Amos Gitai (Israel)</b><br>
+                                    Filmmaker<br>
+                                    <b>Mauro Maldonato (Italy)</b><br>
+                                    Psychiatrist, philosopher and writer </font></td>
+                                </tr>
+                                <tr> 
+                                  <td   width="114" class="textos" bgcolor="#F4F4F4">Elis 
+                                    Regina Auditorium <br>
+                                  </td>
+                                  <td   width="357" class="textos" bgcolor="#F4F4F4"><b>Film Programme </b></td>
+                                  <td   width="357" class="textos" bgcolor="#F4F4F4">&nbsp;</td>
+                                </tr>
+                                <tr> 
+                                  <td   width="114" class="textos">Auditorium 
+                                    A <br>
+                                  </td>
+                                  <td   width="357" class="textos"><b>Associated Activity</b><br>
+                                  National Students Organization </td>
+                                  <td   width="357" class="textos">&nbsp;</td>
+                                </tr>
+                                <tr> 
+                                  <td   width="114" class="textos" bgcolor="#F4F4F4">Auditorium 
+                                    B <br>
+                                  </td>
+                                  <td   width="357" class="textos" bgcolor="#F4F4F4"><b>Associated Activity</b><br>
+                                  New Art Territories </td>
+                                  <td   width="357" class="textos" bgcolor="#F4F4F4">&nbsp;</td>
+                                </tr>
+                                <tr> 
+                                  <td   width="114" class="textos">Auditorium C <br>
+                                  </td>
+                                  <td   width="357" class="textos"><b>Associated Activity</b><br>
+                                  Indigenous Participation at the WCF</td>
+                                  <td   width="357" class="textos">&nbsp;</td>
+                                </tr>
+                                <tr> 
+                                  <td   width="114" class="textos" bgcolor="#F4F4F4">Auditorium 
+                                    D <br>
+                                  </td>
+                                  <td   width="357" class="textos" bgcolor="#F4F4F4"><b>Associated Activity</b><br>                                    Cultural Diversity Institute</td>
+                                  <td   width="357" class="textos" bgcolor="#F4F4F4">&nbsp;</td>
+                                </tr>
+                                <tr> 
+                                  <td   width="114" class="textos" height="37">Auditorium 
+                                    F <br>
+                                  </td>
+                                  <td   width="357" class="textos" height="37"><b>Associated Activity</b><br>
+                                  Biodiversity and Amazon Culture (SEBRAE)</td>
+                                  <td   width="357" class="textos">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td class="textos" bgcolor="#F4F4F4">Auditorium E <br>
+                                  </td>
+                                  <td class="textos" bgcolor="#F4F4F4"><b>Associated Activity</b><br>
+                                  Dancing what is ours -a joint exchange- Portugal and Africa</td>
+                                  <td class="textos" bgcolor="#F4F4F4">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td class="textos">Meeting Room</td>
+                                  <td class="textos"><b>Associated Activity</b><br>
+                                  Delphic Council</td>
+                                  <td class="textos">&nbsp;</td>
+                                </tr>
+                                <tr> 
+                                  <td   width="114" class="textos" bgcolor="#F4F4F4">Meeting Room<br>
+                                  </td>
+                                  <td   width="357" class="textos" bgcolor="#F4F4F4"><b>Associated Activity</b><br>
+                                  The south american Dance network </td>
+                                  <td   width="357" class="textos" bgcolor="#F4F4F4">&nbsp;</td>
+                                </tr>
+                                <tr> 
+                                  <td   width="26" class="textos">&nbsp;</td>
+                                  <td   width="75" class="textos" bgcolor="#CCCCCC"> 
+                                    <div align="center"><font color="#FFFFFF">4pm-4:30pm</font></div>
+                                  </td>
+                                  <td colspan="3" class="textos" bgcolor="#CCCCCC"> 
+                                    <div align="center"><font color="#FFFFFF">Break 
+                                      </font></div>
+                                  </td>
+                                </tr>
+                                <tr> 
+                                  <td rowspan="9" class="textos" width="26">&nbsp;</td>
+                                  <td rowspan="9" class="textos" bgcolor="#CCCCCC" width="75"> 
+                                    <div align="center"><font color="#FFFFFF">4:30pm-6:30pm 
+                                      </font> </div>
+                                    <p align="center"></p>
+                                    <p align="center"></p>
+                                    <p align="center"><font color="#FFFFFF"><br>
+                                      </font></p>
+                                  </td>
+                                  <td   width="114" class="textos">Elis Regina 
+                                    Auditorium <br>
+                                  </td>
+                                  <td   width="357" class="textos"><b>Official Event - Meeting</b><br>
+                                  Social Forum - World Ccultural Forum</td>
+                                  <td   width="357" class="textos">&nbsp;</td>
+                                </tr>
+                                <tr> 
+                                  <td   width="114" class="textos" bgcolor="#F4F4F4">Auditorium 
+                                    A <br>
+                                  </td>
+                                  <td   width="357" class="textos" bgcolor="#F4F4F4"><b>Debate 4.1</b><br>
+                                  Cultural diversity, Globalization and Pluralism</td>
+                                  <td   width="357" class="textos" bgcolor="#F4F4F4"><font size="1"><b>Regina Moura Tavares moderatorA (BRA) <br>
+  Laurent H&eacute;au (Gabon)</b><br>
+  Coordinator of the EU Cultural Programme for Central Africa&quot;Proculture&quot;<br>
+                                    <b>Garry Neil (Canada)</b><br>
+                                    Coordinator - International Network for Cultural Diversity<br>
+                                    <b>Jo&atilde;o de Jesus Paes Loureiro (BRA)</b><br>
+                                    Poet, Professor of Aesthetic - UFPA<br>
+                                    <b>Louise Beaudoin (Canada) <br>
+                                    Peter Seitel (USA)</b><br>
+                                  Smithsonian Institute</font></td>
+                                </tr>
+                                <tr> 
+                                  <td   width="114" class="textos" height="22">Auditorium 
+                                    B <br>
+                                  </td>
+                                  <td   width="357" class="textos" height="22"><b>Debate 4.2</b><br>
+                                  Minority cultures &ndash; Human right and Wealth of humanity</td>
+                                  <td   width="357" class="textos"><font size="1"><b>Marcelo Tas moderator (BRA)</b><br>
+                                    Journalist- Cultura TV<br>
+                                    <b>Richard Price (USA / Martinica)</b><br>
+                                    Antrop&oacute;logo<br>
+                                    <b>Maria Helena Taberna Ayerra (The Basc Country / Spain)</b><br>
+                                    Filmmaker- Producer<br>
+                                    <b>Karen Worcman (BRA)</b><br>
+                                    Anthropologist, Director of Museu da Pessoa<br>
+                                    <b>Nicolau Sevcenko (BRA)</b><br>
+                                    Historian, Writer, Intelectual, Professor<br>
+                                    <b>Darlene Taukane (BRA)</b><br>
+                                  Kura Bakairi Indigenous Representative</font></td>
+                                </tr>
+                                <tr> 
+                                  <td   width="114" class="textos" bgcolor="#F4F4F4">Auditorium 
+                                    C <br>
+                                  </td>
+                                  <td   width="357" class="textos" bgcolor="#F4F4F4"><b>Debate 4.3</b><br>
+                                    Religiosity and 
+                                  Culture</td>
+                                  <td   width="357" class="textos" bgcolor="#F4F4F4"><font size="1"><b>Mario Sergio Cortella moderator (BRA)</b><br>
+                                    Theologist and Professor of PUC/SP<br>
+                                    <b>Ubiratan de Castro (BRA)</b><br>
+                                    President of Palmares Cultural Foundation<br>
+                                    <b>Padre Jurandyr Azevedo de Ara&uacute;jo (BRA) </b><br>
+                                    Afro-Brazilian Pastoral of CNBB<br>
+                                    <b>Adel Sidarus (Portugal/ Egypt) </b><br>
+                                    Carries out studies on Islam and Christianity / University of Evora<br>
+                                    <b>M&atilde;e Silvia (BRA)</b><br>
+                                    Mother of Saint<br>
+                                    <b>Abdul Aziz M'Baye (Senegal)</b><br>
+                                  WCFA</font></td>
+                                </tr>
+                                <tr> 
+                                  <td height="22" class="textos"   width="114">Auditorium 
+                                    D <br>
+                                  </td>
+                                  <td height="22" class="textos"   width="357"><b>Debate</b><br>
+                                  Cultural evolution and the dynamics of identity and tradition (WCFA)</td>
+                                  <td class="textos"   width="357"><b><font size="1">Danny Yung (Hong Kong)<br>
+                                    Krishen Jit <br>
+                                    D.E. Durand <br>
+                                    Andr&eacute; Lemos (BRA)<br>
+                                    Cherif Khaznadar<br>
+                                  Nalini Rajan (India)</font></b></td>
+                                </tr>
+                                <tr> 
+                                  <td   width="114" class="textos" bgcolor="#F4F4F4">Auditorium 
+                                    F <br>
+                                  </td>
+                                  <td   width="357" class="textos" bgcolor="#F4F4F4"><b>Associated Activity</b><br>
+                                  Cultural Globalization and Aesthetic Uniformity</td>
+                                  <td   width="357" class="textos" bgcolor="#F4F4F4">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td class="textos">Auditorium E </td>
+                                  <td class="textos"><b>Associated Activity</b><br>
+                                  Ubuntu - African thoughts for the World (Casa ViaMagia) </td>
+                                  <td class="textos">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td bgcolor="#F4F4F4" class="textos">Meeting Room</td>
+                                  <td bgcolor="#F4F4F4" class="textos"><b>Associated Activity</b><br>
+                                  Encontro Dance Universities from Latin America</td>
+                                  <td bgcolor="#F4F4F4" class="textos">&nbsp;</td>
+                                </tr>
+                                <tr> 
+                                  <td   width="114" class="textos">Meeting Room<br>
+                                  </td>
+                                  <td   width="357" class="textos"><b>Associated Activity</b><br>
+                                  Conclusions of the Latin- American Forum</td>
+                                  <td   width="357" class="textos">&nbsp;</td>
+                                </tr>
+                              </table>
+                              <p>&nbsp;</p>
+                              <blockquote> 
+                                <p>&nbsp;</p>
+                              </blockquote>
+                            </td>
+                          </tr>
+                          <tr> 
+                            <td><img src="images/programacao-linha.gif" width="600" height="3"></td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr> 
+    <td bgcolor="#CCCCCC"><img src="images/spacer.gif" width="300" height="8"></td>
+  </tr>
+</table>
+</body>
+</html>
+
+

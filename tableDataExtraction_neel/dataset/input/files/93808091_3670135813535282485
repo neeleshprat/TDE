@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+  
+<head>
+<title>The Daily Law - Your source for legal news.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="description" content="The Daily Law presents headlines from legal and law news resources." />
+<meta name="hover" content="The Daily Law" />
+<meta name="keywords" content="law, legal, news" />
+<meta name="netinsert" content="0.0.1.6.3.1" />
+<meta name="email" content="info@thedailylaw.com" />
+<meta name="news" content="Palestinian rights advanced in 2009, still need improvement: report" />
+<meta name="author" content="The Daily Law" />
+<link href="styles.css" rel="stylesheet" type="text/css" />
+<link rel="alternate" title="The Daily Law " href="http://www.thedailylaw.com/index.xml" type="application/rss+xml" />
+</head>
+
+<body class="mainBody">
+<div id="wrapper">
+<table class="tableHeader">
+  <tbody>
+  <tr><td> 
+    <a href="http://www.thedailylaw.com/"><img alt="The Daily Law" src="images/logga.png" class="imgLogo" /></a>
+  </td><td>
+<div class="headerSearchDiv">  <p style="margin: 5px 5px 5px 1px; text-align: left;" class="HeadlineSmall"> Search News</p>
+  <form style="margin: 0px 0px 0px 0px;width: 230px;" action="/" method="get">
+  <input type="text" name="s" size="11" style="width:60px;" value="" />
+  <select style="width:120px;" name="s2">
+  <option selected="selected">All sources</option>
+      <option value="12" >About Crime/Punishment</option>
+      <option value="16" >FindLaw</option>
+      <option value="8" >Inside Opinions</option>
+      <option value="11" >JURIST - Paper Chase</option>
+      <option value="3" >Law.com Buisness</option>
+      <option value="4" >Law.com Employment</option>
+      <option value="6" >Law.com Litigation</option>
+      <option value="7" >Law.com Tech</option>
+      <option value="5" >Law.com IP</option>
+      <option value="2" >Law.com Technology</option>
+      <option value="1" >Law.com</option>
+      <option value="10" >Legal News Watch</option>
+      <option value="15" >Legal Week</option>
+      <option value="9" >Managing Partner</option>
+      <option value="13" >Patton Boggs</option>
+      <option value="14" >The Lawyer</option>
+    </select>
+  <input type="submit" value="Go" />
+  </form>
+</div>
+  </td></tr>
+  </tbody>
+</table> <!-- tableHeader // -->
+
+	<div id="nacontainer">
+	<ul id="navlist">
+	<li id="active"><a href="/" id="current">Start</a></li>
+	<li><a href="archive.php">Archive</a></li>
+	<li><a href="services.php">Services</a></li>
+	<li><a href="links.php">Links</a></li>
+	<li><a href="about.php">About Us</a></li>
+	<li><a href="contact.php">Contact</a></li>
+	</ul>
+	</div>
+
+<table class="mainTable">
+<tr>
+<td style="vertical-align:top; padding: 1px 3px 1px 0px;">
+<table style="width:99%" class="artiklar" >
+<tr class="papername">
+<td style="width: 80px;">Date</td>
+<td style="width: 19%">Source</td>
+<td id="third-td">Headline</td>
+</tr>
+  <tr onmouseover="this.bgColor='#cad1da'"  onmouseout="this.bgColor='#f5f6f7'" bgcolor="#f5f6f7">
+  <td>14/06/10 19:47</td>
+  <td><a class="palt" title="JURIST - Paper Chase" href="/t11.html" target="_blank">JURIST - Paper ...</a></td>
+    <td><a class="altb" title="[JURIST] Israeli human rights group B'Tselem [advocacy website] on   Monday released its annual report [text, PDF; press release], noting   an advancement in the rights of Palestinians in the Occupied   Territories [UNICEF backgrounder] but calling for greater improvement.   The report, examining the human rights situation of Palestinians since   the conclusion of Israel's Operation Cast Lead [GlobalSecurity   backgrounder; JURIST news archive] in January 2009, found that   fatalities had declined by 80 percent compared to the previous year,   excluding fatalities from the military operation, and the quality of   life had improved in the West Bank. This was due to the reduction of   checkpoints,..." href="/palestinian-rights-advanced-in-2009-still-need-improvement-report,61552.html" target="_blank">Palestinian rights advanced in 2009, still need improvement: report</a></td>
+    </tr>
+    <tr onmouseover="this.bgColor='#cad1da'"  onmouseout="this.bgColor='#e4e7e9'" bgcolor="#e4e7e9">
+  <td>14/06/10 18:47</td>
+  <td><a class="palt" title="JURIST - Paper Chase" href="/t11.html" target="_blank">JURIST - Paper ...</a></td>
+    <td><a class="altb" title="[JURIST] An anti-constitution rally in Nairobi's Uhuru Park turned   deadly on Sunday after two explosions caused a stampede [video]   leaving five dead and more than 70 injured. The rally was organized by   Christian groups [Africa Review report] opposed to Kenya's draft   constitution [text, PDF] because it retains recognition of existing   Islamic courts and includes a clause on abortion. Kenyan Prime   Minister Raila Odinga [BBC backgrounder] confirmed after a security   meeting on Monday that the explosions, which occurred 15 minutes   apart, were caused by small grenades. President Mwai Kibaki [official   website] condemned that actions of those responsible for Sunday's   turmoil and..." href="/five-killed-in-stampede-at-kenya-anti-constitution-rally,61551.html" target="_blank">Five killed in stampede at Kenya anti-constitution rally</a></td>
+    </tr>
+    <tr onmouseover="this.bgColor='#cad1da'"  onmouseout="this.bgColor='#f5f6f7'" bgcolor="#f5f6f7">
+  <td>14/06/10 18:47</td>
+  <td><a class="palt" title="JURIST - Paper Chase" href="/t11.html" target="_blank">JURIST - Paper ...</a></td>
+    <td><a class="altb" title="[JURIST] The Barcelona city council [official website, in Catalan] on   Monday announced the banning of all face coverings, including the   burqa [JURIST news archive], in public areas administered by the city.   Barcelona Mayor Jordi Hereu indicated that the ban was put in place   out of a concern for public safety [El Pais report, in Spanish], and   was not aimed at any particular religious group. He contends that it   is common sense to require people entering public buildings to show   their faces, and that someone wearing a motorcycle helmet will be   required to follow the same regulations as someone wearing a..." href="/barcelona-to-ban-full-face-veil-in-public-areas,61550.html" target="_blank">Barcelona to ban full face veil in public areas</a></td>
+    </tr>
+    <tr onmouseover="this.bgColor='#cad1da'"  onmouseout="this.bgColor='#e4e7e9'" bgcolor="#e4e7e9">
+  <td>14/06/10 18:47</td>
+  <td><a class="palt" title="JURIST - Paper Chase" href="/t11.html" target="_blank">JURIST - Paper ...</a></td>
+    <td><a class="altb" title="[JURIST] The US State Department (DOS) [official website] on Monday   released its annual report [text, PDF] on human trafficking conditions   across the globe, finding that the US adequately complies with   international regulations but still has a 'serious problem with   human trafficking, both for labor and commercial sexual   exploitation. The report also listed 13 countries with the worst   records on human trafficking issues. The countries cited for not   complying with the US Trafficking Victims Protection Act (TVPA) [22   USC ? 78 text] are not considered to be taking significant actions   to comply with the TVPA and include Burma, the Democratic Republic..." href="/human-trafficking-a-serious-problem-in-us-state-department-report,61549.html" target="_blank">Human trafficking a 'serious problem' in US: State Department report</a></td>
+    </tr>
+    <tr onmouseover="this.bgColor='#cad1da'"  onmouseout="this.bgColor='#f5f6f7'" bgcolor="#f5f6f7">
+  <td>14/06/10 17:48</td>
+  <td><a class="palt" title="JURIST - Paper Chase" href="/t11.html" target="_blank">JURIST - Paper ...</a></td>
+    <td><a class="altb" title="[JURIST] Canadian police reported a 35 percent increase in hate crimes   [materials] from 2007 to 2008, according to a report released Monday.   During 2008, police reported 1,036 total hate crimes, with 55 percent   motivated by race, 26 percent motivated by religion and 16 percent   motivated by sexual orientation. That is up from the 785 total hate   crimes reported [materials] for 2007. Increases occurred among all   groups, with the number of hate crimes related to sexual orientation   more than doubling. In addition to the increase in the number of hate   crimes motivated by sexual orientation, the report also found that   almost..." href="/canada-police-report-35-percent-increase-in-hate-crimes,61548.html" target="_blank">Canada police report 35 percent increase in hate crimes</a></td>
+    </tr>
+    <tr onmouseover="this.bgColor='#cad1da'"  onmouseout="this.bgColor='#e4e7e9'" bgcolor="#e4e7e9">
+  <td>14/06/10 16:49</td>
+  <td><a class="palt" title="JURIST - Paper Chase" href="/t11.html" target="_blank">JURIST - Paper ...</a></td>
+    <td><a class="altb" title="[JURIST] The US Supreme Court [official website; JURIST news archive] on   Monday ruled [opinion, PDF] unanimously in Astrue v. Ratliff [Cornell   LII backgrounder; JURIST report] that an award of attorney's fees and   expenses under the Equal Access to Justice Act (EAJA) [28 USC ? 2412]   is payable to the prevailing party rather than to the party's   attorneys and can therefore be used to satisfy a preexisting debt owed   to the government. The US Court of Appeals for the Eighth Circuit   ruled [opinion, PDF] that the fees are awarded to the attorneys,   shielding them from government debt offset. Justice Clarence   Thomas,..." href="/supreme-court-upholds-use-of-attorney-s-fees-to-offset-debt-to-government,61547.html" target="_blank">Supreme Court upholds use of attorney's fees to offset debt to   government</a></td>
+    </tr>
+    <tr onmouseover="this.bgColor='#cad1da'"  onmouseout="this.bgColor='#f5f6f7'" bgcolor="#f5f6f7">
+  <td>14/06/10 16:49</td>
+  <td><a class="palt" title="JURIST - Paper Chase" href="/t11.html" target="_blank">JURIST - Paper ...</a></td>
+    <td><a class="altb" title="[JURIST] The International Committee of the Red Cross (ICRC) [official   website] on Monday called for an end [press release] to the Israeli   blockade of the Gaza Strip [BBC backgrounder], which it labeled a   violation of international humanitarian law. The organization   described the blockade as collective punishment, a war crime under the   Article 33 of the Geneva Conventions [text; ICRC backgrounder], and   called on the international community to work to persuade Israel to   lift the closure. The ICRC, which has been given a mandate under the   Geneva Conventions to protect the victims of armed conflict,   traditionally remains neutral [Al Jazeera report],..." href="/gaza-blockade-violates-international-law-icrc,61546.html" target="_blank">Gaza blockade violates international law: ICRC</a></td>
+    </tr>
+    <tr onmouseover="this.bgColor='#cad1da'"  onmouseout="this.bgColor='#e4e7e9'" bgcolor="#e4e7e9">
+  <td>14/06/10 15:48</td>
+  <td><a class="palt" title="Patton Boggs" href="/t13.html" target="_blank">Patton Boggs</a></td>
+    <td><a class="altb" title="" href="/energy-environmental-law-alert-potential-criminal-liability-awaits-chief-executive-officers-of-oil-and-gas-operators-on-the-outer-continental-shelf,61544.html" target="_blank">ENERGY/ENVIRONMENTAL LAW ALERT: Potential Criminal Liability Awaits Chief   Executive Officers of Oil and Gas Operators on the Outer Contine...</a></td>
+    </tr>
+    <tr onmouseover="this.bgColor='#cad1da'"  onmouseout="this.bgColor='#f5f6f7'" bgcolor="#f5f6f7">
+  <td>14/06/10 15:47</td>
+  <td><a class="palt" title="JURIST - Paper Chase" href="/t11.html" target="_blank">JURIST - Paper ...</a></td>
+    <td><a class="altb" title="[JURIST] The US Supreme Court [official website; JURIST news archive] on   Monday ruled [opinion, PDF] 7-2 in Holland v. Florida [Cornell LII   backgrounder] that the statute of limitations for a federal habeas   corpus petition can be tolled where a state-appointed attorney fails   to file in time despite repeated instructions from the client. The   court held the one-year time limit for filing a habeas petition under   the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA) [28   USC ? 2244(d) text] was subject to equitable tolling in appropriate   cases. These cases include those where the petitioner has pursued his   rights diligently..." href="/supreme-court-rules-deadline-for-habeas-appeal-may-be-tolled,61543.html" target="_blank">Supreme Court rules deadline for habeas appeal may be tolled</a></td>
+    </tr>
+    <tr onmouseover="this.bgColor='#cad1da'"  onmouseout="this.bgColor='#e4e7e9'" bgcolor="#e4e7e9">
+  <td>14/06/10 15:47</td>
+  <td><a class="palt" title="JURIST - Paper Chase" href="/t11.html" target="_blank">JURIST - Paper ...</a></td>
+    <td><a class="altb" title="[JURIST] The US Supreme Court [official website; JURIST news archive] on   Monday ruled [opinion, PDF] in Carachuri-Rosendo v. Holder [Cornell   LII backgrounder; JURIST report] that a person convicted under state   law for simple drug possession, a federal law misdemeanor, has not   been convicted of an aggravated felony for immigration removal   purposes. Under the Immigration and Nationality Act (INA) [text], a   lawful permanent resident who has been convicted of an   aggravated felony is ineligible to seek cancellation of removal.   The petitioner, Jose Angel Carachuri-Rosendo, was convicted in state   court on two separate occasions of misdemeanor drug charges. The state   prosecutor was..." href="/supreme-court-rules-on-aggravated-felony-in-immigration-case,61542.html" target="_blank">Supreme Court rules on 'aggravated felony' in immigration case</a></td>
+    </tr>
+    <tr onmouseover="this.bgColor='#cad1da'"  onmouseout="this.bgColor='#f5f6f7'" bgcolor="#f5f6f7">
+  <td>14/06/10 14:47</td>
+  <td><a class="palt" title="JURIST - Paper Chase" href="/t11.html" target="_blank">JURIST - Paper ...</a></td>
+    <td><a class="altb" title="[JURIST] The US Supreme Court [official website; JURIST news archive] on   Monday agreed to hear [order list, PDF] an appeal of an order to   reduce the California prison population [JURIST news archive]. The   court postponed consideration of the question of jurisdiction in   Schwarzenegger v. Plata [docket; jurisdictional statement, PDF] to   hear the case on its merits. In August, a special panel of federal   judges ordered [opinion, PDF; JURIST report] California to reduce its   prison population by about 46,000 inmates, finding that the prisons   are overcrowded. The panel approved [order, PDF; JURIST report] a   revised prison reduction plan [text, PDF] in..." href="/supreme-court-to-rule-on-california-prison-population-reduction-order,61540.html" target="_blank">Supreme Court to rule on California prison population reduction order</a></td>
+    </tr>
+    <tr onmouseover="this.bgColor='#cad1da'"  onmouseout="this.bgColor='#e4e7e9'" bgcolor="#e4e7e9">
+  <td>14/06/10 14:47</td>
+  <td><a class="palt" title="JURIST - Paper Chase" href="/t11.html" target="_blank">JURIST - Paper ...</a></td>
+    <td><a class="altb" title="[JURIST] The US Supreme Court [official website; JURIST news archive] on   Monday ruled [opinion, PDF] 5-4 in Dolan v. United States [Cornell LII   backgrounder; JURIST report] that a district court may enter a   restitution order beyond the time limit prescribed in 18 USC ?   3664(d)(5) [text] if the sentencing court made clear prior to the   deadline that restitution would be ordered. The petitioner, Brian   Dolan, attacked a hitchhiker and was ordered to pay restitution to his   victim 209 days after sentencing. He argued that the court's   restitution order came after the deadline imposed by the Mandatory   Victims Restitution Act and..." href="/supreme-court-rules-on-restitution-order-deadlines,61539.html" target="_blank">Supreme Court rules on restitution order deadlines</a></td>
+    </tr>
+    <tr onmouseover="this.bgColor='#cad1da'"  onmouseout="this.bgColor='#f5f6f7'" bgcolor="#f5f6f7">
+  <td>14/06/10 12:47</td>
+  <td><a class="palt" title="JURIST - Paper Chase" href="/t11.html" target="_blank">JURIST - Paper ...</a></td>
+    <td><a class="altb" title="[JURIST] Kyrgyzstan interim President Roza Otunbayeva [Telegraph profile]   on Sunday issued shoot to kill orders to the nation's military as   ethnic violence continued against ethnic Uzbeks. The orders were   issued [LAT report] after the reservists were activated and sent to   quell the ethnic conflict [Guardian backgrounder] that has been   primarily focused in the southern cities of Osh and Jalal'abad. The   reserves were activated after the Russian government refused a request   by the interim government to send peacekeeping troops, instead opting   to send a few hundred paratroops to protect a Russian military base in   the country. Additionally on Sunday, Otunbayeva declared..." href="/kyrgyzstan-president-issues-shoot-to-kill-order-as-ethnic-violence-continues,61534.html" target="_blank">Kyrgyzstan president issues shoot to kill order as ethnic violence   continues</a></td>
+    </tr>
+    <tr onmouseover="this.bgColor='#cad1da'"  onmouseout="this.bgColor='#e4e7e9'" bgcolor="#e4e7e9">
+  <td>14/06/10 12:47</td>
+  <td><a class="palt" title="JURIST - Paper Chase" href="/t11.html" target="_blank">JURIST - Paper ...</a></td>
+    <td><a class="altb" title="[JURIST] The US Supreme Court [official website; JURIST news archive] on   Monday denied certiorari [order list, PDF] in Arar v. Ashcroft   [docket; cert. petition, PDF], a case concerning the US government's   extraordinary rendition [JURIST news archive] policy. Canadian citizen   Maher Arar [advocacy website; JURIST news archive] asked the court in   February to overturn a lower court ruling [JURIST report] that he   cannot sue the US government for damages based on his detention in the   US and his detention, interrogation and torture in Syria after he was   mistakenly identified as a terrorist. Arar was attempting to challenge   the government's extraordinary rendition..." href="/supreme-court-declines-to-rule-on-arar-rendition-suit,61533.html" target="_blank">Supreme Court declines to rule on Arar rendition suit</a></td>
+    </tr>
+    <tr onmouseover="this.bgColor='#cad1da'"  onmouseout="this.bgColor='#f5f6f7'" bgcolor="#f5f6f7">
+  <td>14/06/10 12:47</td>
+  <td><a class="palt" title="FindLaw" href="/t16.html" target="_blank">FindLaw</a></td>
+    <td><a class="altb" title="By MIKE CORDER and DEREK GATOPOULOS Associated Press Writers" href="/riot-police-break-up-world-cup-wages-demonstration,61530.html" target="_blank">Riot police break up World Cup wages demonstration</a></td>
+    </tr>
+    <tr onmouseover="this.bgColor='#cad1da'"  onmouseout="this.bgColor='#e4e7e9'" bgcolor="#e4e7e9">
+  <td>14/06/10 12:47</td>
+  <td><a class="palt" title="FindLaw" href="/t16.html" target="_blank">FindLaw</a></td>
+    <td><a class="altb" title="NIGEL DUARA Associated Press Writer PORTLAND, Ore. (AP) - Ten days after   a 7-year-old Portland boy disappeared, Multnomah County Sheriff Dan   Staton fought back tears while announcing the search has been   reclassified as a criminal investigation." href="/ore-boy-s-disappearance-now-a-criminal-case,61529.html" target="_blank">Ore. boy's disappearance now a criminal case</a></td>
+    </tr>
+    <tr onmouseover="this.bgColor='#cad1da'"  onmouseout="this.bgColor='#f5f6f7'" bgcolor="#f5f6f7">
+  <td>14/06/10 12:47</td>
+  <td><a class="palt" title="FindLaw" href="/t16.html" target="_blank">FindLaw</a></td>
+    <td><a class="altb" title="LONDON (AP) - The board of BP PLC will on Monday discuss U.S. demands to   suspend dividend payments to shareholders until the British company   pays for the cleanup of the Gulf of Mexico oil spill." href="/bp-board-discusses-dividend-suspension,61528.html" target="_blank">BP board discusses dividend suspension</a></td>
+    </tr>
+    <tr onmouseover="this.bgColor='#cad1da'"  onmouseout="this.bgColor='#e4e7e9'" bgcolor="#e4e7e9">
+  <td>14/06/10 12:47</td>
+  <td><a class="palt" title="FindLaw" href="/t16.html" target="_blank">FindLaw</a></td>
+    <td><a class="altb" title="By FRANK JORDANS Associated Press Writer GENEVA (AP) - Swiss lawmakers   have signalled their willingness to compromise in a long-running   dispute over whether to give the United States files on thousands of   suspected American tax cheats." href="/swiss-parties-edge-closer-to-ratifying-us-tax-deal,61527.html" target="_blank">Swiss parties edge closer to ratifying US tax deal</a></td>
+    </tr>
+    <tr onmouseover="this.bgColor='#cad1da'"  onmouseout="this.bgColor='#f5f6f7'" bgcolor="#f5f6f7">
+  <td>14/06/10 11:47</td>
+  <td><a class="palt" title="JURIST - Paper Chase" href="/t11.html" target="_blank">JURIST - Paper ...</a></td>
+    <td><a class="altb" title="[JURIST] The Florida Fish and Wildlife Conservation Commission (FWC)   [official website] on Sunday announced the closure [executive order,   PDF] of approximately 23 miles of the state's coastline to commercial   harvesting of saltwater fish, crabs and shrimp out of concern for   possible health risks associated with fish from oil-contaminated   water. The order went into effect Monday and was issued due to the   presence of oil in the water following the BP Deepwater Horizon oil   spill [BBC backgrounder; JURIST news archive]. The affected area   begins at the Alabama-Florida border and includes the waters nine   nautical miles into the Gulf of Mexico. A..." href="/florida-officials-partially-close-coastline-to-commercial-fishing-following-oil-spill,61526.html" target="_blank">Florida officials partially close coastline to commercial fishing   following oil spill</a></td>
+    </tr>
+    <tr onmouseover="this.bgColor='#cad1da'"  onmouseout="this.bgColor='#e4e7e9'" bgcolor="#e4e7e9">
+  <td>14/06/10 00:46</td>
+  <td><a class="palt" title="JURIST - Paper Chase" href="/t11.html" target="_blank">JURIST - Paper ...</a></td>
+    <td><a class="altb" title="[JURIST] Israeli Prime Minister Benjamin Netanyahu [official website; BBC   profile] on Sunday announced [press release] the composition of an   internal probe into the May 31 Israeli raid on several Turkish ships   bound for the blockaded Gaza Strip [BBC backgrounder]. To head the   probe, Netanyahu appointed former Israeli Supreme Court [official   website] Justice Yakov Tirkel, along with Shabbtai Rosen, an   international law professor and former Israeli diplomat, and retired   Major General Amos Horev, a former Israeli army leader. Due to the   exceptional circumstances of the events in question, the   commission will also be overseen by two international observers, Nobel   Prize laureate..." href="/israel-pm-appoints-former-supreme-court-judge-to-head-flotilla-raid-probe,61524.html" target="_blank">Israel PM appoints former Supreme Court judge to head flotilla raid probe</a></td>
+    </tr>
+  </table>
+<!-- sorry god :/ -->
+</td>
+<td style="vertical-align: top;width:31%;" class="hoegerSpaltDiv">
+<table style="width:100%;">
+<tr class="arkivDiv">
+<td class="arkivDiv">
+<span class="HeadlineSmall">Userlogin (<em>not logged in</em>)</span>
+<form method="post" action="" style="margin: 0px; padding: 0px;">
+<p style="margin: 0px; padding: 0px;"><input type="text" name="e" style="width: 150px;" value="" /> <input type="submit" value="Login" /></p>
+<span class="brodtextMedium">Enter your email to configure <em>your</em> The Daily Law.</span>
+<a href="services.php" class="linkSmaller">Read more ...</a>
+</form>
+</td>
+</tr>
+<tr class="arkivDiv">
+<td class="arkivDiv">
+<!-- <div style="height: 100%;" class="arkivDiv">--> <!-- arkivet //-->
+<span class="HeadlineSmall">Archive</span>
+<form style="margin: 0px 0px 0px 0px" name="a" method="get" action="/">
+<select name="a">
+<option>&gt;&gt; Archive &lt;&lt;</option>
+<option value="2012-02-09">February 9, 2012</option>
+<option value="2012-02-08">February 8, 2012</option>
+<option value="2012-02-07">February 7, 2012</option>
+<option value="2012-02-06">February 6, 2012</option>
+<option value="2012-02-05">February 5, 2012</option>
+<option value="2012-02-04">February 4, 2012</option>
+<option value="2012-02-03">February 3, 2012</option>
+<option value="2012-02-02">February 2, 2012</option>
+<option value="2012-02-01">February 1, 2012</option>
+<option value="2012-01-31">January 31, 2012</option>
+<option value="2012-01-30">January 30, 2012</option>
+<option value="2012-01-29">January 29, 2012</option>
+<option value="2012-01-28">January 28, 2012</option>
+<option value="2012-01-27">January 27, 2012</option>
+<option value="2012-01-26">January 26, 2012</option>
+<option value="more">... more news</option>
+</select> <input type="submit" value="Go" />
+</form>
+</td>
+</tr>
+<tr>
+<td>
+<!-- </div>--> <!-- arkivet //-->
+<!--  	<div>--> <!-- popular news // -->
+<p style="margin: 10px 0px 5px 0px; " class="brodtextMediumItalic">Popular <span class="colorer">News</span></p>
+<!-- </div> --><!-- popular news //-->
+<!-- </div> --><!-- h?ger kolumn //-->
+</td>
+</tr>
+<tr class="arkivDiv" style="margin-top: 15px;">
+<td class="" style="padding-top: 15px; width: 200px;">
+<span class="HeadlineSmall">Syndicate</span>
+<p style="margin: 3px 1px 5px 1px;"><a href="http://add.my.yahoo.com/rss?url=http://www.thedailylaw.com/index.xml"><img src="http://www.harwester.com/images/yr.gif" alt="Add The Daily Law to My Yahoo!" title="Add The Daily Law to My Yahoo!" border="0" /></a>&nbsp;
+<a href="http://www.bloglines.com/sub/http://www.thedailylaw.com/index.xml"><img src="http://www.harwester.com/images/sb.gif" border="0" alt="Add The Daily Law to Bloglines" title="Add The Daily Law to Bloglines" /></a>&nbsp;
+<!--
+<a href="http://www.thedailylaw.com/index.xml"><img src="http://www.harwester.com/images/rss_mymsn.gif" border="0" alt="Syndicate The Daily Law with My MSN" title="" />Syndicate The Daily Law with My MSN</a>
+//-->
+<a href="http://www.thedailylaw.com/index.xml"><img src="http://www.harwester.com/images/x.gif" border="0" alt="Syndicate The Daily Law with your own RSS-reader" title="Syndicate The Daily Law with your own RSS-reader" /></a></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+  <div class="tableFooter">
+  <div style="margin-top: 0px; clear:both; padding-top: 0px;" class="footerContent">
+  <p style="margin: 0px 0px 0px 0px; font-size: 13px; font-style:italic;" class="brodtextSmall">Legal news</p>
+  <p style="margin: 0px 0px 0px 0px; padding-bottom:10px;"><a class="brodtextSmall" href="http://www.harwester.com/">The Daily Law is a member of the HarWester Network.</a></p>
+ <span id="ads">
+ 
+ </span>
+  </div>
+
+ </div>
+
+  </div>
+</body>
+</html>
+

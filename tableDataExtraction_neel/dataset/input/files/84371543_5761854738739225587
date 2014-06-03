@@ -1,0 +1,3099 @@
+
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/paginas_texto_en.dwt.asp" codeOutsideHTMLIsLocked="false" -->
+<head>
+
+<!--<script language="JavaScript">--><!--
+var random = Math.floor(Math.random() * 1000000000);
+
+// N?O TEM PREDICTA NESSAS SE??ES!
+
+document.write('<SCR'+'IPT LANGUAGE="JavaScript1.1" src="http://mfp1.adnetwork.com.br/mfp/ad/mscript/$d=218$pl=1,2,3$vf=3$s=14$br=1"><\/SCR'+'IPT>'
+)
+
+//
+
+</script>-->
+
+<!--****************************************************************************************************************** -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>teleco.com.br</title>
+<!-- InstanceEndEditable -->
+ <SCRIPT LANGUAGE="JavaScript">
+<!--
+function Entrar(src) {	src.style.cursor = 'hand';}
+	function Sair(src) 	{ src.style.cursor = 'hand';}
+	function Clicar(src) { src.children.tags('a')[0].click(); }
+
+	function Entrar2(src) {	src.style.cursor = 'hand'; src.bgColor='#999999'; src.children.tags('a')[0].style.color='#ffffff';}
+	function Sair2(src) 	{ src.style.cursor = 'hand'; src.bgColor='#ffffff'; src.children.tags('a')[0].style.color='#666666';}
+	function Clicar2(src) { src.children.tags('a')[0].click(); }
+	
+  function data_de_hoje()
+  {
+        hoje = new Date()
+        dia = hoje.getDate()
+        dias = hoje.getDay()
+        mes = hoje.getMonth()
+        ano = hoje.getYear()
+        if (dia < 10) dia = "0" + dia
+        if (ano < 2000) ano = "19" + ano
+        function CriaArray (n) { this.length = n }
+        NomeDia = new CriaArray(7)
+        NomeDia[0] = "Domingo"
+        NomeDia[1] = "Segunda-feira"
+        NomeDia[2] = "Ter?a-feira"
+        NomeDia[3] = "Quarta-feira"
+        NomeDia[4] = "Quinta-feira"
+        NomeDia[5] = "Sexta-feira"
+        NomeDia[6] = "S?bado"
+        //
+        NomeMes = new CriaArray(12)
+        NomeMes[0] = "Janeiro"
+        NomeMes[1] = "Fevereiro"
+        NomeMes[2] = "Mar?o"
+        NomeMes[3] = "Abril"
+        NomeMes[4] = "Maio"
+        NomeMes[5] = "Junho"
+        NomeMes[6] = "Julho"
+        NomeMes[7] = "Agosto"
+        NomeMes[8] = "Setembro"
+        NomeMes[9] = "Outubro"
+        NomeMes[10] = "Novembro"
+        NomeMes[11] = "Dezembro"
+
+        document.write (" " + NomeDia[dias] + ", " + dia + " de " + NomeMes[mes] + " de " + ano + ". ")
+}
+
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+<link href="../../teleco.css" rel="stylesheet" type="text/css">
+<link href="../../css/tlcLayout.css" rel="stylesheet" type="text/css" />
+<!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+<!--
+.style8 {color: #000000}
+-->
+</style>
+<!-- InstanceEndEditable -->
+</head>
+<body>
+<div id="pagewidth" >
+	<div id="header" >			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td height="2" colspan="4" bgcolor="#999999" class="textodata"></td>
+            </tr>
+			<tr>
+              <td height="90" width="50" bgcolor="#999999" class="textodata"><img src="http://www.teleco.com.br/imagens/lateral_esquerda_2005.gif" width="50" height="90"></td>
+              
+							<td width="189" valign="middle"><span class="textodata"><a href="http://www.teleco.com.br/"><img src="http://www.teleco.com.br/imagens/logo_teleco_2009v2.gif" width="180" height="70" border="0" /></a></span></td>
+					
+			  <td width="679" valign="middle" align="center" class="lateral"><style type="text/css">
+  .style2 { color: #FFFFFF; }
+#margem{
+position:relative;
+}
+#Layer1 {
+	position:absolute;
+	left:40px;
+	top:-30px;
+	width:468px;
+	height:160px;
+	z-index:0;
+}
+ </style>
+<!--[if IE]>
+<style type="text/css">  
+#Layer1 { left:-470px; }
+</style>
+<![endif]-->
+<script language="javascript">
+function limpa()
+{
+	if (document.form1.email.value=="Cadastre seu email")
+	{
+	document.form1.email.value="";
+	}
+}
+</script>
+<script language="javascript" src="/banner.js"></script>
+<script language="javascript">
+function showbanner(a, b, c)
+{
+c = c.replace("?", "!");
+c = c.replace("&", "`");
+t1 = "<a target=\"_blank\" href='http://216.194.98.212/site5/fly_banner/click_fly.php?a=" + a + "&b=" + b + "&c=" + c + "&d=" + "" + "&e=" + "" + "' >";
+t2 = "<img style=\"max-height=60px;\" src='http://216.194.98.212/site5/fly_banner/show_fly.php?a=" + a + "&b=" + b + "&c=" + c + "&d=" + "" + "&e=" + "" + "' border=\"0\" />";
+t3 = "</a>";
+document.write(t1+t2+t3);
+}
+function showbannersame(a, b, c)
+{
+c = c.replace("?", "!");
+c = c.replace("&", "`");
+t1 = "<a href='http://216.194.98.212/site5/fly_banner/click_fly.php?a=" + a + "&b=" + b + "&c=" + c + "&d=" + "" + "&e=" + "" + "' >";
+t2 = "<img style=\"max-height=60px;\" src='http://216.194.98.212/site5/fly_banner/show_fly.php?a=" + a + "&b=" + b + "&c=" + c + "&d=" + "" + "&e=" + "" + "' border=\"0\" />";
+t3 = "</a>";
+document.write(t1+t2+t3);
+}
+function showflash(a, b, c, wid, hei)
+{
+	showflash_error(a,b,c,wid,hei,'14','/en/en_operadoras/FranceT.asp');
+}
+/*
+AGORA EST? EXTERNO, NO ARQUIVO banner.js
+*/
+
+function motrabanner_flash(nome,largura,altura){
+
+document.write('<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"'+ 
+' codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0"'+
+' width="'+largura+'" height="'+altura+'" id="'+nome+'" align="middle">');
+
+document.write('<param name="allowScriptAccess" value="sameDomain" />');
+
+document.write('<param name="movie" value="'+nome+'.swf" />');
+
+document.write('<param name="quality" value="high" />');
+			
+document.write('<param name="wmode" value="transparent" />');
+
+document.write('<embed src="'+nome+'.swf" quality="high" bgcolor="#ffffff"'+
+' width="'+largura+'" height="'+altura+'" name="'+nome+'" align="middle"'+
+' allowScriptAccess="sameDomain" type="application/x-shockwave-flash"'+
+' pluginspage="http://www.macromedia.com/go/getflashplayer" wmode="transparent" />');
+
+document.write('</object>');
+
+}
+</script>
+
+ <!-- DEMAIS P?GINAS -->
+
+		<!-- Banner dos tutoriais 3G -->
+		
+		<table><tr><td width="510" valign="top" align="right">		
+		<!--BANNER NATAL--><!-- <script language="javascript">showflash('natal','banner_natal12c.swf','',468,60);</script> -->
+		<!--BANNER rel_fixa<script language="javascript">showbannersame('Relatorio10_fixa','banner_relatorios10fixa_full.gif','http://www.teleco.com.br/relatoriof.asp');</script>-->
+		 <script language="javascript">showbannersame('Prod_Teleco_out','banner_prod_outsourcing.gif','http://www.teleco.com.br/ateleco.asp');</script>
+		</td></tr></table>
+	 <!-- IF do tutoriais 3G-->		
+		
+		
+</td>
+			  <td width="105" class="lateral"><a href="http://www.teleco.com.br/"><img src="/include/Brasil_flag.jpg" alt="pt-br" width="24" height="24" border="0" align="absmiddle" /><span class="textobaseboldmenor">Portugu&ecirc;s</span></a><br />
+		      <a href="http://www.teleco.com.br/en/"><img src="/include/UK_flag.jpg" alt="En" width="24" height="24" border="0" align="absmiddle" /><span class="textobaseboldmenor">English</span></a><br />
+		      <a href="http://www.teleco.com.br/es/"><img src="/include/spain_flag.jpg" alt="Es" width="24" height="24" border="0" align="absmiddle" /><span class="textobaseboldmenor">Espa&ntilde;ol</span></a></td>
+			</tr>
+			            <tr>
+              <td height="18" colspan="4" bgcolor="#999999">			  
+		      <link href="../teleco.css" rel="stylesheet" type="text/css">
+<!--********** menu para o Teleco INGLES ********** -->
+
+<table width="1000" height="20"  border="0" cellpadding="0" cellspacing="0" bordercolor="#FF0000" bgcolor="#999999">
+  <tr>
+    <td height="25"><div align="center"><a href="http://www.teleco.com.br/en/default.asp" class="branco">Home</a></div></td>
+	<td ><div align="center"><a href="http://www.teleco.com.br/en/en_coment.asp" class="branco">Commentaries</a></div></td>
+	<td><div align="center"><a href="http://www.teleco.com.br/en/en_tutoriais.asp" class="branco">Tutorials</a></div></td>
+    <td><div align="left"><a href="http://www.teleco.com.br/en/en_imprensa.asp" class="branco">Press</a></div></td>
+    <td><div align="center"><a href="http://www.teleco.com.br/en/en_guiasites.asp" class="branco">Site Guide</a></div></td>
+    <td><div align="center"><a href="http://www.teleco.com.br/en/en_calendario.asp" class="branco">Calendar</a></div></td>
+    <td><div align="center"><a href="http://www.teleco.com.br/en/en_quemsomos.asp" class="branco">About US</a></div></td>
+	
+    <form name="form2" method="get" action="http://www.teleco.com.br/glossario.asp">
+	  <td  width="200" style="align=right"><span class="linkmenutop">Glossary</span>
+<input onFocus="javascript: this.value='';" style="height=16" name="termo" type="text" id="termo4" size="14" value="Type term">
+	    <input style="height=16" type="submit" name="Submit" value="OK">
+  &nbsp;</td>
+    </form>
+<form name="form1" method="post" action="http://www.teleco.com.br/en/en_cadastrese.asp">
+    <td width="190" style="align=right"><span class="linkmenutop">Newsletter</span>
+      <input onFocus="limpa();" name="email" type="text" id="email" value="Type your email" size="18">
+      <input type="submit" name="Submit2" value="OK"></td><td >
+        <div align="center"><a href="http://www.teleco.com.br/en/en_newsletter.asp" class="branco" >Previous<br />News</a></div></td>    
+</form>
+  </tr>
+</table>
+</td>
+            </tr>
+          </table>
+</div>
+			<div id="wrapper" class="clearfix" > 
+			<div id="twocols" class="clearfix"> 
+			  <div id="maincol" >
+				<table width="100%" border="0" cellpadding="0" cellspacing="0">
+				<tr bgcolor="ffffff">
+                        <td width="64%">
+&nbsp;
+						
+                        <p class="textobasemenor"><!-- InstanceBeginEditable name="dataatualizacao" -->11/25/2011<!-- InstanceEndEditable --></p>
+						</td>
+                        <td width="36%"><div align="right">
+ </div> </td>
+			      </tr>
+			    </table>
+				<!-- InstanceBeginEditable name="XAMBRISZ" -->
+			    <!-- InstanceEndEditable -->
+				<br/ >
+			  <!-- InstanceBeginEditable name="Texto" --> 
+                        <p class="titulo">France Telecom </p>
+                        <p class="textobasemenor">&nbsp;</p>
+                        <p class="textobase">Founded in 1941, <B>France
+                            Telecom</B> is the main  telecommunication company of  France.
+                           France Telecom has around 230,000 employees and about
+                          103 million users in the whole world,
+                          including french overseas departments.</p>
+                        <p class="textobase">&nbsp;</p>
+                        <p class="textobase">In 2006, launched 
+                            Orange brand in the following countries:  United Kingdom, Spain,
+                            Poland and Holland. </p>
+                        <p class="textobase">&nbsp;</p>
+                        <p class="textobase">&nbsp;</p>
+                        <table width="35%" border="0" align="center" cellpadding="2" cellspacing="0">
+                          <tr>
+                            <td width="16%"><img src="../../imagens/website.jpg" width="50" height="50"></td>
+                            <td width="84%"><p class="textobase"><a href="http://www.francetelecom.com" target="_blank">www.francetelecom.com</a></p>
+                                <p class="textobase"></p></td>
+                          </tr>
+                        </table>
+                        <p class="slogan1">&nbsp;</p>
+                        <p class="slogan1">Quarter Results</p>
+                        <p class="slogan1">&nbsp;</p>
+                        <p class="slogan1">Operational Performance</p>
+                        <p class="slogan1">&nbsp;</p>
+                        <p class="slogan1"><span class="textobaseboldvermelho">Consolidated</span></p>
+                        <p>&nbsp;</p>
+                        <table width="95%" border="1" align="center" cellpadding="5" cellspacing="0">
+                          <tr class="textobasebold">
+                            <td>Thousands</td>
+                            <td><div align="center">1Q10</div></td>
+                            <td><div align="center">2Q10</div></td>
+                            <td align="center">3Q10</td>
+                            <td align="center">4Q10</td>
+                            <td align="center">1Q11</td>
+                            <td align="center">2Q11</td>
+                            <td align="center" bgcolor="#CCFFFF">3Q11</td>
+                            <td><div align="center">&#8710;Qter</div></td>
+                            <td><div align="center">&#8710;Year</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Mobile Accesses </td>
+                            <td><div align="center">138,239</div></td>
+                            <td align="right"><div align="center">139,706</div></td>
+                            <td align="right"><div align="center">144,524</div></td>
+                            <td align="right"><div align="center">150,433</div></td>
+                            <td align="right"><div align="center">156,733</div></td>
+                            <td align="right"><div align="center">158,363</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">162,063</div></td>
+                            <td align="center"><div align="center">2.3%</div></td>
+                            <td align="center"><div align="center">12.2%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Net Adds </td>
+                            <td><div align="center">460</div></td>
+                            <td align="right"><div align="center">1,467</div></td>
+                            <td align="right"><div align="center">4,818</div></td>
+                            <td><div align="center">6,030</div></td>
+                            <td align="right"><div align="center">6,300</div></td>
+                            <td align="right"><div align="center">1,630</div></td>
+                            <td align="center" bgcolor="#CCFFFF">
+                              <div align="center">3,700</div></td>
+                            <td align="center"><div align="center">127.0%</div></td>
+                            <td align="center">
+                              <div align="center">(19.5%)</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Prepaid</td>
+                            <td><div align="center">64.9%</div></td>
+                            <td align="right"><div align="center">64.7%</div></td>
+                            <td align="right"><div align="center">65.3%</div></td>
+                            <td align="right"><div align="center">66.0%</div></td>
+                            <td align="right"><div align="center">67.0%</div></td>
+                            <td align="right"><div align="center">66.9%</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">67.2%</div></td>
+                            <td align="center"><div align="center">-</div></td>
+                            <td align="center"><div align="center">-</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>MVNO's</td>
+                            <td><div align="center">3,879</div></td>
+                            <td align="right"><div align="center">4,199</div></td>
+                            <td align="right"><div align="center">4,373</div></td>
+                            <td align="right"><div align="center">4,629</div></td>
+                            <td align="right"><div align="center">4,936</div></td>
+                            <td align="right"><div align="center">5,177</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">5,138</div></td>
+                            <td align="center"><div align="center">(0.8%)</div></td>
+                            <td align="center"><div align="center">17.5%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>3G</td>
+                            <td><div align="center">29,207</div></td>
+                            <td align="right"><div align="center">30,961</div></td>
+                            <td align="right"><div align="center">33,465</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">-</div></td>
+                            <td align="center"><div align="center">-</div></td>
+                            <td align="center"><div align="center">-</div></td>
+                          </tr>
+                        </table>
+                        <p class="slogan1">&nbsp;</p>
+                        <p class="slogan1">&nbsp;</p>
+                        <p class="textobaseboldvermelho">Mobile Accesses* </p>
+                        <p class="textobasebold">&nbsp;</p>
+                        <table width="95%" border="1" align="center" cellpadding="5" cellspacing="0">
+                          <tr class="textobasebold">
+                            <td><div align="left">Thousands</div></td>
+                            <td align="center">1Q10</td>
+                            <td align="center">2Q10</td>
+                            <td align="center">3Q10</td>
+                            <td align="center">4Q10</td>
+                            <td align="center">1Q11</td>
+                            <td align="center">2Q11</td>
+                            <td align="center" bgcolor="#CCFFFF">3Q11</td>
+                            <td><div align="center">&#8710;Qter</div></td>
+                            <td><div align="center">&#8710;Year</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>France</td>
+                            <td align="right"><div align="center">26,161</div></td>
+                            <td align="right"><div align="center">26,187</div></td>
+                            <td align="right"><div align="center">26,265</div></td>
+                            <td align="right"><div align="center">26,929</div></td>
+                            <td align="right"><div align="center">26,668</div></td>
+                            <td align="right" bgcolor="#FFFFFF"><div align="center">26,656</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">26,588</div></td>
+                            <td align="center">
+                              <div align="center">(0.3%)</div></td>
+                            <td align="center"><div align="center">1.2%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Spain</td>
+                            <td align="right"><div align="center">11,552</div></td>
+                            <td align="right"><div align="center">11,294</div></td>
+                            <td align="right"><div align="center">11,620</div></td>
+                            <td align="right"><div align="center">11,940</div></td>
+                            <td align="right"><div align="center">12,059</div></td>
+                            <td align="right" bgcolor="#FFFFFF"><div align="center">12,221</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">12,339</div></td>
+                            <td align="center"><div align="center">1.0%</div></td>
+                            <td align="center"><div align="center">6.2%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Poland</td>
+                            <td align="right"><div align="center">13,774</div></td>
+                            <td align="right"><div align="center">14,029</div></td>
+                            <td align="right"><div align="center">14,141</div></td>
+                            <td align="right"><div align="center">14,332</div></td>
+                            <td align="right"><div align="center">14,420</div></td>
+                            <td align="right" bgcolor="#FFFFFF"><div align="center">14,535</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">14,614</div></td>
+                            <td align="center"><div align="center">0.5%</div></td>
+                            <td align="center"><div align="center">3.3%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>UK</td>
+                            <td align="right"><div align="center">16,442</div></td>
+                            <td align="center"><div align="center">13,546</div></td>
+                            <td align="center"><div align="center">13,551</div></td>
+                            <td align="center"><div align="center">13,606</div></td>
+                            <td align="center"><div align="center">13,489</div></td>
+                            <td align="center"><div align="center">13,402</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">13,381</div></td>
+                            <td align="center"><div align="center">(0.2)</div></td>
+                            <td align="center"><div align="center">(1.3)</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td align="left">Rest of the World</td>
+                            <td align="right"><div align="center">73,327</div></td>
+                            <td align="right"><div align="center">74,737</div></td>
+                            <td align="right"><div align="center">78,948</div></td>
+                            <td align="right"><div align="center">83,626</div></td>
+                            <td align="right"><div align="center">90,097</div></td>
+                            <td align="right" bgcolor="#FFFFFF"><div align="center">91,550</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">95,141</div></td>
+                            <td align="center"><div align="center">3.9%</div></td>
+                            <td align="center"><div align="center">20.7%</div></td>
+                          </tr>
+                          <tr class="textobasebold">
+                            <td>Group Total</td>
+                            <td align="right"><div align="center">138,239</div></td>
+                            <td align="right"><div align="center">139,706</div></td>
+                            <td align="right"><div align="center">144,524</div></td>
+                            <td align="right"><div align="center">150,433</div></td>
+                            <td align="right"><div align="center">156,733</div></td>
+                            <td align="right" bgcolor="#FFFFFF"><div align="center">158,363</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">162,063</div></td>
+                            <td align="center"><div align="center">2.3%</div></td>
+                            <td align="center"><div align="center">12.2%</div></td>
+                          </tr>
+                        </table>
+                        <p class="textobasemenor">* without MVNO </p>
+                        <p class="textobasebold">&nbsp;</p>
+                        <p class="textobasebold">&nbsp;</p>
+                        <p class="textobasebold"><span class="textobaseboldvermelho">Net Adds * </span></p>
+                        <p class="textobasebold">&nbsp;</p>
+                        <table width="90%" border="1" align="center" cellpadding="5" cellspacing="0">
+                          <tr class="textobasebold">
+                            <td>Thousands</td>
+                            <td><div align="center">1Q10</div></td>
+                            <td><div align="center">2Q10</div></td>
+                            <td><div align="center">3Q10</div></td>
+                            <td><div align="center">4Q10</div></td>
+                            <td align="center">1Q11</td>
+                            <td align="center">2Q11</td>
+                            <td align="center" bgcolor="#CCFFFF">3Q11</td>
+                            <td><div align="center">&#8710;Qter</div></td>
+                            <td><div align="center">&#8710;Year</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>France</td>
+                            <td align="right"><div align="center">(173)</div></td>
+                            <td align="right"><div align="center">26 </div></td>
+                            <td align="right"><div align="center">78 </div></td>
+                            <td align="right"><div align="center">664 </div></td>
+                            <td align="right"><div align="center">(261)</div></td>
+                            <td align="right"><div align="center">(12)</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">(68)</div></td>
+                            <td align="center"><div align="center">(466.7%)</div></td>
+                            <td align="center"><div align="center">(187.2%)</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Spain</td>
+                            <td align="right"><div align="center">(327)</div></td>
+                            <td align="right"><div align="center">(258)</div></td>
+                            <td align="right"><div align="center">326 </div></td>
+                            <td align="right"><div align="center">320 </div></td>
+                            <td align="right"><div align="center">119 </div></td>
+                            <td align="right"><div align="center">162 </div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">118</div></td>
+                            <td align="center"><div align="center">(27.2%)</div></td>
+                            <td align="center"><div align="center">(63.8%)</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Poland</td>
+                            <td align="right"><div align="center">60 </div></td>
+                            <td align="right"><div align="center">255 </div></td>
+                            <td align="right"><div align="center">112 </div></td>
+                            <td align="right"><div align="center">191 </div></td>
+                            <td align="right"><div align="center">88 </div></td>
+                            <td align="right"><div align="center">115 </div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">79</div></td>
+                            <td align="center"><div align="center">(31.3%)</div></td>
+                            <td align="center"><div align="center">29.5%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>UK</td>
+                            <td align="right"><div align="center">(72)</div></td>
+                            <td align="center"><div align="center">(2,896)</div></td>
+                            <td align="center"><div align="center">5 </div></td>
+                            <td align="center"><div align="center">55 </div></td>
+                            <td align="center"><div align="center">(117)</div></td>
+                            <td align="center"><div align="center">(87)</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">(21)</div></td>
+                            <td align="center"><div align="center">75.9%</div></td>
+                            <td align="center"><div align="center">(520.0%)</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td align="left">Rest of the World</td>
+                            <td align="right"><div align="center">1,003 </div></td>
+                            <td align="right"><div align="center">1,410 </div></td>
+                            <td align="right"><div align="center">4,211 </div></td>
+                            <td align="right"><div align="center">4,799 </div></td>
+                            <td align="right"><div align="center">6,471 </div></td>
+                            <td align="right"><div align="center">1,453</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">3,591</div></td>
+                            <td align="center"><div align="center">147.1%</div></td>
+                            <td align="center"><div align="center">(12.0%)</div></td>
+                          </tr>
+                          <tr class="textobasebold">
+                            <td>Group Total</td>
+                            <td align="right"><div align="center">460 </div></td>
+                            <td align="right"><div align="center">1,467 </div></td>
+                            <td align="right"><div align="center">4,818 </div></td>
+                            <td align="right"><div align="center">6,030 </div></td>
+                            <td align="right"><div align="center">6,300 </div></td>
+                            <td align="right"><div align="center">1,630</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">3,700 </div></td>
+                            <td align="center"><div align="center">127.0%</div></td>
+                            <td align="center"><div align="center">(19.5%)</div></td>
+                          </tr>
+                        </table>
+                        <p class="textobase"><span class="textobasemenor">* without MVNO </span></p>
+                        <p class="textobasebold">&nbsp;</p>
+                        <p class="textobasebold">&nbsp;</p>
+                        <p class="textobaseboldvermelho">Prepaid Percentage</p>
+                        <p class="textobasebold">&nbsp;</p>
+                        <table width="90%" border="1" align="center" cellpadding="5" cellspacing="0">
+                          <tr class="textobasebold">
+                            <td>Thousands</td>
+                            <td><div align="center">1Q10</div></td>
+                            <td><div align="center">2Q10</div></td>
+                            <td align="center">3Q10</td>
+                            <td><div align="center">4Q10</div></td>
+                            <td><div align="center">1Q11</div></td>
+                            <td><div align="center">2Q11</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">3Q11</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>France</td>
+                            <td align="right"><div align="center">30.9%</div></td>
+                            <td align="right"><div align="center">30.2%</div></td>
+                            <td align="right"><div align="center">29.1%</div></td>
+                            <td align="right"><div align="center">29.5%</div></td>
+                            <td align="right"><div align="center">29.1%</div></td>
+                            <td align="right"><div align="center">28.6%</div></td>
+                            <td align="center" bgcolor="#CCFFFF">27.6%</td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Spain</td>
+                            <td align="right"><div align="center">41.6%</div></td>
+                            <td align="right"><div align="center">39.6%</div></td>
+                            <td align="right"><div align="center">40.3%</div></td>
+                            <td align="right"><div align="center">40.2%</div></td>
+                            <td align="right"><div align="center">39.9%</div></td>
+                            <td align="right"><div align="center">40.1%</div></td>
+                            <td align="center" bgcolor="#CCFFFF">39.7%</td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Poland</td>
+                            <td align="right"><div align="center">51.3%</div></td>
+                            <td align="right"><div align="center">51.6%</div></td>
+                            <td align="right"><div align="center">51.7%</div></td>
+                            <td align="right"><div align="center">51.5%</div></td>
+                            <td align="right"><div align="center">51.7%</div></td>
+                            <td align="right"><div align="center">52.1%</div></td>
+                            <td align="center" bgcolor="#CCFFFF">52.3%</td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>UK</td>
+                            <td align="right"><div align="center">56.7%</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td bgcolor="#ccffff"><div align="center">-</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Rest of the World</td>
+                            <td align="right"><div align="center">85.9%</div></td>
+                            <td align="right"><div align="center">85.1%</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td bgcolor="#ccffff"><div align="center">-</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td> Group Total</td>
+                            <td align="right"><div align="center">64.9%</div></td>
+                            <td align="right"><div align="center">64.7%</div></td>
+                            <td align="right"><div align="center">65.3%</div></td>
+                            <td align="right"><div align="center">66.0%</div></td>
+                            <td align="right"><div align="center">67.0%</div></td>
+                            <td align="right"><div align="center">66.9%</div></td>
+                            <td align="center" bgcolor="#CCFFFF">67.2%</td>
+                          </tr>
+              </table>
+                        <p class="textobasemenor">*Excludes MVNOs</p>
+                        <p class="textobasebold">&nbsp;</p>
+                        <p class="textobasebold">&nbsp;</p>
+                        <p class="textobaseboldvermelho">ARPU </p>
+                        <p class="textobase">&nbsp;</p>
+                        <table width="90%" border="1" align="center" cellpadding="5" cellspacing="0">
+                          <tr class="textobasebold">
+                            <td>Euros </td>
+                            <td><div align="center">1Q10</div></td>
+                            <td align="center">2Q10</td>
+                            <td align="center">3Q10</td>
+                            <td align="center">4Q10</td>
+                            <td align="center">1Q11</td>
+                            <td align="center">2Q11</td>
+                            <td align="center" bgcolor="#CCFFFF">3Q11</td>
+                            <td class="textobasebold"><div align="center">&#8710;Qter</div></td>
+                            <td class="textobasebold"><div align="center">&#8710;Year</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>France</td>
+                            <td align="right"><div align="center">33.1</div></td>
+                            <td align="right"><div align="center">32.6</div></td>
+                            <td align="right"><div align="center">32.4</div></td>
+                            <td align="right"><div align="center">32.3 </div></td>
+                            <td align="right"><div align="center">32.0 </div></td>
+                            <td align="right"><div align="center">31.9 </div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">31.6</div></td>
+                            <td align="center"><div align="center">(1.0%)</div></td>
+                            <td align="center"><div align="center">(2.6%)</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Spain</td>
+                            <td align="right"><div align="center">22.2</div></td>
+                            <td align="right"><div align="center">22.1</div></td>
+                            <td align="right"><div align="center">21.9</div></td>
+                            <td align="right"><div align="center">21.9 </div></td>
+                            <td align="right"><div align="center">21.9 </div></td>
+                            <td align="right"><div align="center">21.8 </div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">21.5</div></td>
+                            <td align="center"><div align="center">(1.1%)</div></td>
+                            <td align="center"><div align="center">(1.9%)</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Poland</td>
+                            <td align="right"><div align="center">10.8</div></td>
+                            <td align="right"><div align="center">10.8</div></td>
+                            <td align="right"><div align="center">10.8</div></td>
+                            <td align="right"><div align="center">10.8 </div></td>
+                            <td align="right"><div align="center">10.8 </div></td>
+                            <td align="right"><div align="center">10.6 </div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">10.3</div></td>
+                            <td align="center"><div align="center">(2.4%)</div></td>
+                            <td align="center"><div align="center">(3.9%)</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>UK</td>
+                            <td align="right"><div align="center">23.8</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">-</div></td>
+                            <td align="center"><div align="center">-</div></td>
+                            <td align="center"><div align="center">-</div></td>
+                          </tr>
+                        </table>
+                        <p class="textobasebold">&nbsp;</p>
+                        <p class="textobasebold">&nbsp;</p>
+                        <p class="textobasebold"><span class="textobaseboldvermelho">MOU</span></p>
+                        <p class="textobase">&nbsp;</p>
+                        <table width="90%" border="1" align="center" cellpadding="5" cellspacing="0">
+                          <tr class="textobasebold">
+                            <td>Euros </td>
+                            <td><div align="center">1Q10</div></td>
+                            <td align="center">2Q10</td>
+                            <td align="center">3Q10</td>
+                            <td align="center">4Q10</td>
+                            <td align="center">1Q11</td>
+                            <td align="center">2Q11</td>
+                            <td align="center" bgcolor="#CCFFFF">3Q11</td>
+                            <td><div align="center">&#8710;Qter</div></td>
+                            <td><div align="center">&#8710;Year</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>France</td>
+                            <td align="right"><div align="center">193</div></td>
+                            <td align="right"><div align="center">191</div></td>
+                            <td align="right"><div align="center">189</div></td>
+                            <td align="right"><div align="center">188 </div></td>
+                            <td align="right"><div align="center">189 </div></td>
+                            <td align="right"><div align="center">190 </div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">192</div></td>
+                            <td align="center"><div align="center">1.1%</div></td>
+                            <td align="center"><div align="center">1.6%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Spain</td>
+                            <td align="right"><div align="center">150</div></td>
+                            <td align="right"><div align="center">152</div></td>
+                            <td align="right"><div align="center">156</div></td>
+                            <td align="right"><div align="center">162 </div></td>
+                            <td align="right"><div align="center">162 </div></td>
+                            <td align="right"><div align="center">164 </div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">164</div></td>
+                            <td align="center"><div align="center">0.0%</div></td>
+                            <td align="center"><div align="center">3.4%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Poland</td>
+                            <td align="right"><div align="center">141</div></td>
+                            <td align="right"><div align="center">147</div></td>
+                            <td align="right"><div align="center">153</div></td>
+                            <td align="right"><div align="center">161 </div></td>
+                            <td align="right"><div align="center">164 </div></td>
+                            <td align="right"><div align="center">165 </div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">164</div></td>
+                            <td align="center"><div align="center">(0.6%)</div></td>
+                            <td align="center"><div align="center">7.2%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>UK</td>
+                            <td align="right"><div align="center">184</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td bgcolor="#CCFFFF"><div align="center">-</div></td>
+                            <td align="center"><div align="center">-</div></td>
+                            <td align="center"><div align="center">-</div></td>
+                          </tr>
+                        </table>
+                        <p class="textobasebold">&nbsp;</p>
+                        <p class="textobasebold">&nbsp;</p>
+                        <p class="textobasebold"><span class="textobaseboldvermelho">3G Mobile Accesses*</span></p>
+                        <p class="textobasebold">&nbsp;</p>
+                        <table width="90%" border="1" align="center" cellpadding="5" cellspacing="0">
+                          <tr class="textobasebold">
+                            <td>Thousands</td>
+                            <td><div align="center">1Q10</div></td>
+                            <td align="center">2Q10</td>
+                            <td align="center">3Q10</td>
+                            <td align="center">4Q10</td>
+                            <td align="center">1Q11</td>
+                            <td align="center">2Q11</td>
+                            <td align="center" bgcolor="#CCFFFF">3Q11</td>
+                            <td><div align="center">&#8710;Qter</div></td>
+                            <td><div align="center">&#8710;Year</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>France</td>
+                            <td align="right"><div align="center">7,896</div></td>
+                            <td align="right"><div align="center">8,430</div></td>
+                            <td align="right"><div align="center">8,905</div></td>
+                            <td align="right"><div align="center">9,395 </div></td>
+                            <td align="right"><div align="center">9,722</div></td>
+                            <td align="right"><div align="center">10,103</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">10,464</div></td>
+                            <td align="center"><div align="center">3.6%</div></td>
+                            <td align="center"><div align="center">17.5%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Spain</td>
+                            <td align="right"><div align="center">5,519</div></td>
+                            <td align="right"><div align="center">5,779</div></td>
+                            <td align="right"><div align="center">6,040</div></td>
+                            <td align="right"><div align="center">6,312 </div></td>
+                            <td align="right"><div align="center">6,557 </div></td>
+                            <td align="right"><div align="center">6,724 </div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">6,985</div></td>
+                            <td align="center"><div align="center">3.9%</div></td>
+                            <td align="center"><div align="center">15.6%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Poland</td>
+                            <td align="right"><div align="center">6,572</div></td>
+                            <td align="right"><div align="center">6,448</div></td>
+                            <td align="right"><div align="center">7,076</div></td>
+                            <td align="right"><div align="center">7,395 </div></td>
+                            <td align="right"><div align="center">7,542 </div></td>
+                            <td align="right"><div align="center">7,656 </div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">7,870</div></td>
+                            <td align="center"><div align="center">2.8%</div></td>
+                            <td align="center"><div align="center">11.2%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>UK</td>
+                            <td align="right"><div align="center">5,892</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td bgcolor="#ccffff"><div align="center">-</div></td>
+                            <td align="center"><div align="center">-</div></td>
+                            <td align="center"><div align="center">-</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td align="left">Rest of the World</td>
+                            <td align="right"><div align="center">3,328</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td bgcolor="#ccffff"><div align="center">-</div></td>
+                            <td align="center"><div align="center">-</div></td>
+                            <td align="center"><div align="center">-</div></td>
+                          </tr>
+                          <tr class="textobasebold">
+                            <td>Group Total</td>
+                            <td align="right"><div align="center">29,207</div></td>
+                            <td><div align="center">30,961</div></td>
+                            <td align="right"><div align="center">33,465</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td bgcolor="#ccffff"><div align="center">-</div></td>
+                            <td align="center"><div align="center">-</div></td>
+                            <td align="center"><div align="center">-</div></td>
+                          </tr>
+                        </table>
+                        <p><span class="textobase"><span class="textobasemenor">* without MVNO </span></span></p>
+                        <p class="textobasebold">&nbsp;</p>
+                        <p class="textobasebold">&nbsp;</p>
+                        <p class="textobasebold"><span class="textobaseboldvermelho">MVNO</span></p>
+                        <p class="textobase">&nbsp;</p>
+                        <table width="90%" border="1" align="center" cellpadding="5" cellspacing="0">
+                          <tr class="textobasebold">
+                            <td>Thousands</td>
+                            <td><div align="center">1Q10</div></td>
+                            <td><div align="center">2Q10</div></td>
+                            <td align="center">3Q10</td>
+                            <td align="center">4Q10</td>
+                            <td align="center">1Q11</td>
+                            <td align="center">2Q11</td>
+                            <td align="center" bgcolor="#CCFFFF">3Q11</td>
+                            <td><div align="center">&#8710;Qter</div></td>
+                            <td><div align="center">&#8710;Year</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>France</td>
+                            <td align="right"><div align="center">2,499</div></td>
+                            <td align="right"><div align="center">2,583</div></td>
+                            <td align="right"><div align="center">2,606</div></td>
+                            <td align="right"><div align="center">2,792 </div></td>
+                            <td align="right"><div align="center">3,066 </div></td>
+                            <td align="right" bgcolor="#FFFFFF"><div align="center">3,309 </div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">3,235 </div></td>
+                            <td align="center"><div align="center">(2.2%) </div></td>
+                            <td align="center"><div align="center">24.1%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Spain</td>
+                            <td align="right"><div align="center">828</div></td>
+                            <td align="right"><div align="center">1,003</div></td>
+                            <td align="right"><div align="center">1,141</div></td>
+                            <td align="right"><div align="center">1,195 </div></td>
+                            <td align="right"><div align="center">1,287 </div></td>
+                            <td align="right" bgcolor="#FFFFFF"><div align="center">1,336 </div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">1,405 </div></td>
+                            <td align="center"><div align="center">5.2%</div></td>
+                            <td align="center"><div align="center">23.1%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Poland</td>
+                            <td align="right"><div align="center">55</div></td>
+                            <td align="right"><div align="center">56</div></td>
+                            <td align="right"><div align="center">52</div></td>
+                            <td align="right"><div align="center">70 </div></td>
+                            <td align="right"><div align="center">73 </div></td>
+                            <td align="right" bgcolor="#FFFFFF"><div align="center">78 </div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">83</div></td>
+                            <td align="center"><div align="center">6.4%</div></td>
+                            <td align="center"><div align="center">59.6%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>UK</td>
+                            <td align="right"><div align="center">260</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                            <td bgcolor="#FFFFFF"><div align="center">-</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">-</div></td>
+                            <td align="center"><div align="center">-</div></td>
+                            <td align="center"><div align="center">-</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Rest of the World</td>
+                            <td align="right"><div align="center">496</div></td>
+                            <td align="right"><div align="center">558</div></td>
+                            <td align="right"><div align="center">574</div></td>
+                            <td align="right"><div align="center">572 </div></td>
+                            <td align="right"><div align="center">510 </div></td>
+                            <td align="right" bgcolor="#FFFFFF"><div align="center">454 </div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">415</div></td>
+                            <td align="center"><div align="center">(8.6%) </div></td>
+                            <td align="center"><div align="center">(27.7%)</div></td>
+                          </tr>
+                          <tr class="textobasebold">
+                            <td>Group Total</td>
+                            <td align="right"><strong>3,879 </strong></td>
+                            <td align="right"><strong>4,199 </strong></td>
+                            <td align="right"><strong>4,373 </strong></td>
+                            <td align="right"><strong>4,629 </strong></td>
+                            <td align="right"><strong>4,936 </strong></td>
+                            <td align="right"><strong>5,177 </strong></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center"><strong>5,138 </strong></div></td>
+                            <td align="center"><div align="center">(0.8%) </div></td>
+                            <td align="center"><div align="center">17.5%</div></td>
+                          </tr>
+                        </table>
+                        <p class="textobasebold">&nbsp;</p>
+                        <p class="textobasebold">&nbsp;</p>
+                        <p class="textobaseboldvermelho">Broadband Users  </p>
+                        <p class="textobasebold">&nbsp;</p>
+                        <table width="90%" border="1" align="center" cellpadding="5" cellspacing="0">
+                          <tr class="textobasebold">
+                            <td>Thousands</td>
+                            <td align="center">1Q10</td>
+                            <td align="center">2Q10</td>
+                            <td align="center">3Q10</td>
+                            <td align="center">4Q10</td>
+                            <td align="center">1Q11</td>
+                            <td align="center">2Q11</td>
+                            <td align="center" bgcolor="#CCFFFF">3Q11</td>
+                            <td><div align="center">&#8710;Qter</div></td>
+                            <td><div align="center">&#8710;Year</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>France</td>
+                            <td align="center"><div align="center">8,937</div></td>
+                            <td align="center"><div align="center">8,989</div></td>
+                            <td align="center"><div align="center">9,086</div></td>
+                            <td align="center"><div align="center">9,207</div></td>
+                            <td align="center"><div align="center">9,308</div></td>
+                            <td align="center"><div align="center">9,371</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">9,478</div></td>
+                            <td align="center"><div align="center">1.1%</div></td>
+                            <td align="center"><div align="center">4.3%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td><div align="left">Spain</div></td>
+                            <td align="center"><div align="center">1,086</div></td>
+                            <td align="center"><div align="center">1,083</div></td>
+                            <td align="center"><div align="center">1,090</div></td>
+                            <td align="center"><div align="center">1,115</div></td>
+                            <td align="center"><div align="center">1,150</div></td>
+                            <td align="center"><div align="center">1,187</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">1,225</div></td>
+                            <td align="center"><div align="center">3.2%</div></td>
+                            <td align="center"><div align="center">12.4%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td><div align="left">Poland</div></td>
+                            <td align="center"><div align="center">2,262</div></td>
+                            <td align="center"><div align="center">2,261</div></td>
+                            <td align="center"><div align="center">2,269</div></td>
+                            <td align="center"><div align="center">2,287</div></td>
+                            <td align="center"><div align="center">2,297</div></td>
+                            <td align="center"><div align="center">2,311</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">2,332</div></td>
+                            <td align="center"><div align="center">0.9%</div></td>
+                            <td align="center"><div align="center">2.8%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td><div align="left">Others</div></td>
+                            <td align="center"><div align="center">1,014</div></td>
+                            <td align="center"><div align="center">1,034</div></td>
+                            <td align="center"><div align="center">1,039</div></td>
+                            <td align="center"><div align="center">1,125</div></td>
+                            <td align="center"><div align="center">1,150</div></td>
+                            <td align="center"><div align="center">1,163</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">1,180</div></td>
+                            <td align="center"><div align="center">1.5%</div></td>
+                            <td align="center"><div align="center">13.6%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td class="textobasebold">Total</td>
+                            <td align="center" class="textobasebold"><div align="center" class="style8">13,299</div></td>
+                            <td align="center" class="textobasebold"><div align="center" class="style8">13,367</div></td>
+                            <td align="center" class="textobasebold"><div align="center" class="style8">13,484</div></td>
+                            <td align="center" class="textobasebold"><div align="center" class="style8">13,734</div></td>
+                            <td align="center" class="textobasebold"><div align="center" class="style8">13,905</div></td>
+                            <td align="center" class="textobasebold"><div align="center" class="style8">14,032</div></td>
+                            <td align="center" bgcolor="#CCFFFF" class="textobasebold"><div align="center" class="style8">14,215</div></td>
+                            <td align="center" class="textobasebold"><div align="center" class="style8">
+                                <div align="center">1.3%</div>
+                            </div></td>
+                            <td align="center" class="textobasebold"><div align="center" class="style8">
+                                <div align="center">5.4%</div>
+                            </div></td>
+                          </tr>
+                        </table>
+                        <p class="textobase">&nbsp;</p>
+                        <p class="textobase">&nbsp;</p>
+                        <p class="textobaseboldvermelho"><span class="slogan1">Financial Economic Perfomance </span></p>
+                        <p class="textobase">&nbsp;</p>
+                        <table border="1" align="center" cellpadding="5" cellspacing="0">
+                          <tr class="textobasebold">
+                            <td> Million Euros</td>
+                            <td><div align="center">1Q10</div></td>
+                            <td align="center">2Q10</td>
+                            <td align="center">3Q10</td>
+                            <td align="center">4Q10</td>
+                            <td align="center">1Q11</td>
+                            <td align="center">2Q11</td>
+                            <td align="center" bgcolor="#CCFFFF">3Q11</td>
+                            <td><div align="center">&#8710;Qter</div></td>
+                            <td><div align="center">&#8710;Year</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Net Revenue </td>
+                            <td align="right"><div align="center">10,959 </div></td>
+                            <td align="right"><div align="center">11,185 </div></td>
+                            <td align="right"><div align="center">11,628 </div></td>
+                            <td align="right"><div align="center">11,731 </div></td>
+                            <td align="right"><div align="center">11,228 </div></td>
+                            <td align="right"><div align="center">11,341 </div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">11,280 </div></td>
+                            <td align="center"><div align="center">(0.5%)</div></td>
+                            <td align="center"><div align="center">(3.0%)</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>France</td>
+                            <td align="right"><div align="center">5,774 </div></td>
+                            <td align="right"><div align="center">5,816 </div></td>
+                            <td align="right"><div align="center">5,841 </div></td>
+                            <td align="right"><div align="center">5,877</div></td>
+                            <td align="right"><div align="center">5,623 </div></td>
+                            <td align="right"><div align="center">5,682 </div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">5,569</div></td>
+                            <td align="center"><div align="center">(2.0%)</div></td>
+                            <td align="center"><div align="center">(4.7%)</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Spain</td>
+                            <td align="right"><div align="center">923</div></td>
+                            <td align="right"><div align="center">945</div></td>
+                            <td align="right"><div align="center">991</div></td>
+                            <td align="right"><div align="center">963</div></td>
+                            <td align="right"><div align="center">959</div></td>
+                            <td align="right"><div align="center">984</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">1,039</div></td>
+                            <td align="center"><div align="center">5.6%</div></td>
+                            <td align="center"><div align="center">4.8%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Poland</td>
+                            <td align="right"><div align="center">970</div></td>
+                            <td align="right"><div align="center">993</div></td>
+                            <td align="right"><div align="center">972</div></td>
+                            <td align="right"><div align="center">998</div></td>
+                            <td align="right"><div align="center">946</div></td>
+                            <td align="right"><div align="center">957</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">899</div></td>
+                            <td align="center"><div align="center">(6.1)%</div></td>
+                            <td align="center"><div align="center">(7.5%)</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Rest of the World </td>
+                            <td align="right"><div align="center">1,778</div></td>
+                            <td align="right"><div align="center">1,885</div></td>
+                            <td align="right"><div align="center">2,291</div></td>
+                            <td align="right"><div align="center">2,294</div></td>
+                            <td align="right"><div align="center">2,136</div></td>
+                            <td align="right"><div align="center">2,145</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">2,222</div></td>
+                            <td align="center"><div align="center">3.6%</div></td>
+                            <td align="center"><div align="center">(3.0%)</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Other Revenues </td>
+                            <td align="right"><div align="center">1,515</div></td>
+                            <td align="right"><div align="center">1,545</div></td>
+                            <td align="right"><div align="center">1,533</div></td>
+                            <td align="right"><div align="center">1,600</div></td>
+                            <td align="right"><div align="center">1,564</div></td>
+                            <td align="right"><div align="center">1,574</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">1,552</div></td>
+                            <td align="center"><div align="center">(1.4)%</div></td>
+                            <td align="center"><div align="center">1.2%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Ebitda</td>
+                            <td align="right"><div align="center">3,767 </div></td>
+                            <td align="right"><div align="center">3,978 </div></td>
+                            <td align="right"><div align="center">3,961 </div></td>
+                            <td align="right"><div align="center">2,630</div></td>
+                            <td align="right"><div align="center">3,716 </div></td>
+                            <td align="right"><div align="center">3,966 </div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">3,956 </div></td>
+                            <td align="center"><div align="center">(0.3)%</div></td>
+                            <td align="center"><div align="center">(0.1%)</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Ebitda margin </td>
+                            <td align="right"><div align="center">34.4%</div></td>
+                            <td align="right"><div align="center">35.6%</div></td>
+                            <td align="right"><div align="center">34.1%</div></td>
+                            <td align="right"><div align="center">22.4%</div></td>
+                            <td align="right"><div align="center">33.1%</div></td>
+                            <td align="right"><div align="center">35.0%</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">35.1%</div></td>
+                            <td align="center"><div align="center">-</div></td>
+                            <td align="center"><div align="center">-</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Investment</td>
+                            <td align="right"><div align="center">874 </div></td>
+                            <td align="right"><div align="center">1,240 </div></td>
+                            <td align="right"><div align="center">1,261 </div></td>
+                            <td align="right"><div align="center">2,148</div></td>
+                            <td align="right"><div align="center">1,081 </div></td>
+                            <td align="right"><div align="center">1,387</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">1,262</div></td>
+                            <td align="center"><div align="center">(9.0)%</div></td>
+                            <td align="center"><div align="center">0.1%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>% Data Revenue/ Services Revenue </td>
+                            <td align="right"><div align="center">30.4%</div></td>
+                            <td align="right"><div align="center">29.3%</div></td>
+                            <td align="right"><div align="center">31.7%</div></td>
+                            <td align="right"><div align="center">33.2%</div></td>
+                            <td align="right"><div align="center">35.9%</div></td>
+                            <td bgcolor="#FFFFFF"><div align="center">34.9%</div></td>
+                            <td align="center" bgcolor="#CCFFFF"><div align="center">36.9%</div></td>
+                            <td align="center"><div align="center">-</div></td>
+                            <td align="center"><div align="center">-</div></td>
+                          </tr>
+              </table>
+                        <p class="textobase">&nbsp;</p>
+                        <p class="textobase">&nbsp;</p>
+                        <p class="slogan1">Annual Results</p>
+                        <p class="slogan1">&nbsp;</p>
+                        <p class="textobaseboldvermelho">Mobile Accesses* </p>
+                        <p class="textobase">&nbsp;</p>
+                        <table width="85%" border="1" align="center" cellpadding="5" cellspacing="0">
+                          <tr class="textobasebold">
+                            <td>Thousands</td>
+                            <td align="right"><div align="center">2007</div></td>
+                            <td align="right"><div align="center">2008</div></td>
+                            <td><div align="center">2009</div></td>
+                            <td><div align="center">2010</div></td>
+                            <td><div align="center">&#8710;Year</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>France</td>
+                            <td align="right"><div align="center">24,226</div></td>
+                            <td align="right"><div align="center">25,202</div></td>
+                            <td align="right"><div align="center">26,334</div></td>
+                            <td align="right"><div align="center">26,929</div></td>
+                            <td><div align="center">2.3%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Spain</td>
+                            <td align="right"><div align="center">11,091</div></td>
+                            <td align="right"><div align="center">11,374</div></td>
+                            <td align="right"><div align="center">11,879</div></td>
+                            <td align="right"><div align="center">11,940</div></td>
+                            <td><div align="center">0.5%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Poland</td>
+                            <td align="right"><div align="center">14,158</div></td>
+                            <td align="right"><div align="center">14,182</div></td>
+                            <td align="right"><div align="center">13,714</div></td>
+                            <td align="right"><div align="center">14,332</div></td>
+                            <td><div align="center">4.5%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>UK</td>
+                            <td align="right"><div align="center">15,642</div></td>
+                            <td align="right"><div align="center">15,995</div></td>
+                            <td align="right"><div align="center">16,514</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Rest of the World </td>
+                            <td align="right"><div align="center">44,863</div></td>
+                            <td align="right"><div align="center">55,069</div></td>
+                            <td align="right"><div align="center">55,307</div></td>
+                            <td align="right"><div align="center">83,626</div></td>
+                            <td><div align="center">15.6%</div></td>
+                          </tr>
+                          <tr class="textobasebold">
+                            <td>Group Total</td>
+                            <td align="right"><div align="center">109,980</div></td>
+                            <td align="right"><div align="center">121,822</div></td>
+                            <td align="right"><div align="center">123,748</div></td>
+                            <td align="right"><div align="center">150,433</div></td>
+                            <td><div align="center">9.1%</div></td>
+                          </tr>
+              </table>
+                        <p class="textobase"><span class="textobasemenor">* without MVNO</span></p>
+                        <p class="textobase">&nbsp;</p>
+                        <p class="textobaseboldvermelho">&nbsp;</p>
+                        <p class="textobaseboldvermelho">Net Adds</p>
+                        <p class="textobasebold">&nbsp;</p>
+                        <table width="85%" border="1" align="center" cellpadding="5" cellspacing="0">
+                          <tr class="textobasebold">
+                            <td>Thousands</td>
+                            <td class="textobase"><div align="center" class="style8">2007</div></td>
+                            <td align="center" class="textobase"><div align="center" class="style8">2008</div></td>
+                            <td><div align="center">2009</div></td>
+                            <td><div align="center">2010</div></td>
+                            <td><div align="center">&#8710;Year</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>France</td>
+                            <td align="right"><div align="center">958</div></td>
+                            <td align="right"><div align="center">976</div></td>
+                            <td align="right"><div align="center">1,132</div></td>
+                            <td align="right"><div align="center">595 </div></td>
+                            <td><div align="center">(47.4%)</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Spain</td>
+                            <td align="right"><div align="center">(23)</div></td>
+                            <td align="right"><div align="center">283</div></td>
+                            <td align="right"><div align="center">505</div></td>
+                            <td align="right"><div align="center">61 </div></td>
+                            <td><div align="center">(87.9%)</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Poland</td>
+                            <td align="right"><div align="center">1,637</div></td>
+                            <td align="right"><div align="center">24</div></td>
+                            <td align="right"><div align="center">(468)</div></td>
+                            <td align="right"><div align="center">618 </div></td>
+                            <td><div align="center">232.1%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>UK</td>
+                            <td align="right"><div align="center">309</div></td>
+                            <td align="right"><div align="center">353</div></td>
+                            <td align="right"><div align="center">519</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Rest of the World </td>
+                            <td align="right"><div align="center">9,466</div></td>
+                            <td align="right"><div align="center">10,206</div></td>
+                            <td align="right"><div align="center">238</div></td>
+                            <td align="right"><div align="center">11,302</div></td>
+                            <td><div align="center">(34.5%)</div></td>
+                          </tr>
+                          <tr class="textobasebold">
+                            <td>Group Total</td>
+                            <td align="right"><div align="center">12,347</div></td>
+                            <td align="right"><div align="center">11,842</div></td>
+                            <td align="right"><div align="center">1,926</div></td>
+                            <td align="right"><div align="center">12,543</div></td>
+                            <td><div align="center">(21.9%)</div></td>
+                          </tr>
+              </table>
+                        <p class="textobasemenor">* without MVNO</p>
+                        <p class="textobase">&nbsp;</p>
+                        <p class="textobase">&nbsp;</p>
+                        <p class="textobaseboldvermelho">Prepaid Percentage*</p>
+                        <p class="textobasebold">&nbsp;</p>
+                        <table width="85%" border="1" align="center" cellpadding="5" cellspacing="0">
+                          <tr class="textobasebold">
+                            <td width="166">Thousands</td>
+                            <td><div align="center">2007</div></td>
+                            <td><div align="center">2008</div></td>
+                            <td><div align="center">2009</div></td>
+                            <td><div align="center">2010</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>France</td>
+                            <td align="right"><div align="center">35.2%</div></td>
+                            <td align="right"><div align="center">32.6%</div></td>
+                            <td align="right"><div align="center">31.9%</div></td>
+                            <td align="right"><div align="center">29.5%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Spain</td>
+                            <td align="right"><div align="center">46.3%</div></td>
+                            <td align="right"><div align="center">43.4%</div></td>
+                            <td align="right"><div align="center">44.0%</div></td>
+                            <td align="right"><div align="center">40.2%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Poland</td>
+                            <td align="right"><div align="center">60.8%</div></td>
+                            <td align="right"><div align="center">56.5%</div></td>
+                            <td align="right"><div align="center">51.7%</div></td>
+                            <td align="right"><div align="center">51.5%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>UK</td>
+                            <td align="right"><div align="center">64.1%</div></td>
+                            <td align="right"><div align="center">61.4%</div></td>
+                            <td align="right"><div align="center">58.2%</div></td>
+                            <td align="center"><div align="center">-</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Rest of the World </td>
+                            <td align="right"><div align="center">80.0%</div></td>
+                            <td align="right"><div align="center">81.9%</div></td>
+                            <td align="right"><div align="center">81.4%</div></td>
+                            <td align="center"><div align="center">-</div></td>
+                          </tr>
+              </table>
+                        <p class="textobase"><span class="textobasemenor">* without MVNO</span></p>
+                        <p class="textobase">&nbsp;</p>
+                        <p class="textobase">&nbsp;</p>
+                        <p class="textobaseazulescuro"><span class="textobaseboldvermelho">3G Mobile Accesses*</span></p>
+                        <p class="textobase">&nbsp;</p>
+                        <table width="85%" border="1" align="center" cellpadding="5" cellspacing="0">
+                          <tr class="textobasebold">
+                            <td>Thousands</td>
+                            <td><div align="center">2007</div></td>
+                            <td><div align="center">2008</div></td>
+                            <td><div align="center">2009</div></td>
+                            <td><div align="center">2010</div></td>
+                            <td><div align="center">&#8710;Year</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>France</td>
+                            <td align="right"><div align="center">2,511</div></td>
+                            <td align="right"><div align="center">5,228</div></td>
+                            <td align="right"><div align="center">7,607</div></td>
+                            <td align="right"><div align="center">9,395</div></td>
+                            <td><div align="center">23.5%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Spain</td>
+                            <td align="right"><div align="center">1,605</div></td>
+                            <td align="right"><div align="center">3,256</div></td>
+                            <td align="right"><div align="center">5,119</div></td>
+                            <td align="right"><div align="center">6,312</div></td>
+                            <td><div align="center">23.3%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Poland</td>
+                            <td align="right"><div align="center">2,953</div></td>
+                            <td align="right"><div align="center">4,570</div></td>
+                            <td align="right"><div align="center">5,503</div></td>
+                            <td align="right"><div align="center">7,395</div></td>
+                            <td><div align="center">34.4%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>UK</td>
+                            <td align="right"><div align="center">1,798</div></td>
+                            <td align="right"><div align="center">3,349</div></td>
+                            <td align="right"><div align="center">5,343</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Rest of the World </td>
+                            <td align="right"><div align="center">918</div></td>
+                            <td align="right"><div align="center">2,180</div></td>
+                            <td align="right"><div align="center">3,259</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">-</div></td>
+                          </tr>
+              </table>
+                        <p><span class="textobase"><span class="textobasemenor">* without MVNO</span></span></p>
+                        <p class="textobase">&nbsp;</p>
+                        <p class="textobase">&nbsp;</p>
+                        <p class="textobaseboldvermelho">MVNO</p>
+                        <p class="textobase">&nbsp;</p>
+                        <table width="85%" border="1" align="center" cellpadding="5" cellspacing="0">
+                          <tr class="textobasebold">
+                            <td>Thousands</td>
+                            <td class="textobase"><div align="center" class="style8">2007</div></td>
+                            <td align="center" class="textobase"><div align="center" class="style8">2008</div></td>
+                            <td><div align="center">2009</div></td>
+                            <td><div align="center">2010</div></td>
+                            <td><div align="center">&#8710;Year</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>France</td>
+                            <td align="right"><div align="center">1,416</div></td>
+                            <td align="right"><div align="center">1,820</div></td>
+                            <td align="right"><div align="center">2,363</div></td>
+                            <td align="right"><div align="center">2,792</div></td>
+                            <td align="right"><div align="center">18.2%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Spain</td>
+                            <td align="right"><div align="center">235</div></td>
+                            <td align="right"><div align="center">533</div></td>
+                            <td align="right"><div align="center">752</div></td>
+                            <td align="right"><div align="center">1,195 </div></td>
+                            <td align="right"><div align="center">58.9%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Poland</td>
+                            <td align="right"><div align="center">19</div></td>
+                            <td align="right"><div align="center">31</div></td>
+                            <td align="right"><div align="center">51</div></td>
+                            <td align="right"><div align="center">70 </div></td>
+                            <td align="right"><div align="center">37.3%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>UK</td>
+                            <td align="right"><div align="center">32</div></td>
+                            <td align="right"><div align="center">408</div></td>
+                            <td align="right"><div align="center">380</div></td>
+                            <td><div align="center">-</div></td>
+                            <td align="center"><div align="center">-</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Rest of the World </td>
+                            <td align="right"><div align="center">207</div></td>
+                            <td align="right"><div align="center">398</div></td>
+                            <td align="right"><div align="center">437</div></td>
+                            <td align="right"><div align="center">572 </div></td>
+                            <td align="right"><div align="center">30.9%</div></td>
+                          </tr>
+              </table>
+                        <p class="textobase">&nbsp;</p>
+                        <p class="textobase">&nbsp;</p>
+                        <p class="textobaseboldvermelho">Broadband Users - ADSL</p>
+                        <p class="textobasebold">&nbsp;</p>
+                        <table width="85%" border="1" align="center" cellpadding="5" cellspacing="0">
+                          <tr class="textobasebold">
+                            <td>Thousands</td>
+                            <td class="textobase"><div align="center" class="style8">2007</div></td>
+                            <td class="textobase"><div align="center" class="style8">2008</div></td>
+                            <td><div align="center">2009</div></td>
+                            <td><div align="center">2010</div></td>
+                            <td><div align="center">&#8710;Year</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>France</td>
+                            <td align="center"><div align="center">7,299</div></td>
+                            <td align="center"><div align="center">8,350</div></td>
+                            <td align="center"><div align="center">8,933</div></td>
+                            <td align="center"><div align="center">9,207</div></td>
+                            <td align="center"><div align="center">3.1%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Spain</td>
+                            <td align="center"><div align="center">1,177</div></td>
+                            <td align="center"><div align="center">1,164</div></td>
+                            <td align="center"><div align="center">1,086</div></td>
+                            <td align="center"><div align="center">1,115</div></td>
+                            <td align="center"><div align="center">2.7%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Poland</td>
+                            <td align="center"><div align="center">2,028</div></td>
+                            <td align="center"><div align="center">2,193</div></td>
+                            <td align="center"><div align="center">2,273</div></td>
+                            <td align="center"><div align="center">2,287</div></td>
+                            <td align="center"><div align="center">0.6%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>UK</td>
+                            <td align="center"><div align="center">1,285</div></td>
+                            <td align="center"><div align="center">1,266</div></td>
+                            <td align="center"><div align="center">984</div></td>
+                            <td align="center"><div align="center">1,125</div></td>
+                            <td align="center"><div align="center">14.3%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Total</td>
+                            <td align="center"><div align="center">11,789</div></td>
+                            <td align="center"><div align="center">12,973</div></td>
+                            <td align="center"><div align="center">13,276</div></td>
+                            <td align="center"><div align="center">13,734</div></td>
+                            <td align="center"><div align="center">3.4%</div></td>
+                          </tr>
+              </table>
+                        <p class="textobase">&nbsp;</p>
+                        <p class="textobase">&nbsp;</p>
+                        <p class="textobaseboldvermelho"><span class="slogan1">Economic Financial Performance</span></p>
+                        <p class="textobase">&nbsp;</p>
+                        <table width="85%" border="1" align="center" cellpadding="5" cellspacing="0">
+                          <tr class="textobasebold">
+                            <td width="140">Million Euros</td>
+                            <td align="right"><div align="center">2007</div></td>
+                            <td align="right"><div align="center">2008</div></td>
+                            <td align="right"><div align="center">2009</div></td>
+                            <td align="right"><div align="center">2010</div></td>
+                            <td><div align="center">&#8710;Year</div></td>
+                          </tr>
+                          <tr class="textobasebold">
+                            <td>Net Revenue </td>
+                            <td><div align="center">52,960</div></td>
+                            <td><div align="center">53,488</div></td>
+                            <td><div align="center">45,944</div></td>
+                            <td><div align="center">45,503</div></td>
+                            <td align="right"><div align="center">(1.0%)</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td><div align="right">France</div></td>
+                            <td><div align="center">23,267</div></td>
+                            <td><div align="center">23,726</div></td>
+                            <td><div align="center">23,639</div></td>
+                            <td><div align="center">23,308</div></td>
+                            <td align="right"><div align="center">(1.4%)</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td><div align="right">UK</div></td>
+                            <td><div align="center">6,540</div></td>
+                            <td><div align="center">5,926</div></td>
+                            <td><div align="center">-</div></td>
+                            <td><div align="center">0 </div></td>
+                            <td><div align="center">-</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td><div align="right">Spain</div></td>
+                            <td><div align="center">3,963</div></td>
+                            <td><div align="center">4,067</div></td>
+                            <td><div align="center">3,887</div></td>
+                            <td><div align="center">3,821</div></td>
+                            <td align="right"><div align="center">(1.7%)</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td><div align="right">Poland</div></td>
+                            <td><div align="center">4,825</div></td>
+                            <td><div align="center">5,184</div></td>
+                            <td><div align="center">3,831</div></td>
+                            <td><div align="center">3,934</div></td>
+                            <td align="right"><div align="center">2.7%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td><div align="right">Rest of the World </div></td>
+                            <td><div align="center">8,287</div></td>
+                            <td><div align="center">8,322</div></td>
+                            <td><div align="center">8,308</div></td>
+                            <td><div align="center">8,248</div></td>
+                            <td align="right"><div align="center">(0.7%)</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td><div align="right">Other Revenues </div></td>
+                            <td><div align="center">6,078</div></td>
+                            <td><div align="center">6,263</div></td>
+                            <td><div align="center">6,279</div></td>
+                            <td><div align="center">6,193</div></td>
+                            <td align="right"><div align="center">(1.4%)</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Ebitda</td>
+                            <td align="right"><div align="center">19,043</div></td>
+                            <td align="right"><div align="center">18,328</div></td>
+                            <td align="right"><div align="center">14,794</div></td>
+                            <td align="right"><div align="center">14,795</div></td>
+                            <td align="right"><div align="center">0.0%</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td> Ebitda Margin </td>
+                            <td align="right"><div align="center">36,0%</div></td>
+                            <td align="right"><div align="center">34,3%</div></td>
+                            <td align="right"><div align="center">32,2%</div></td>
+                            <td align="right"><div align="center">32.5%</div></td>
+                            <td><div align="center">-</div></td>
+                          </tr>
+                          <tr class="textobase">
+                            <td>Investment</td>
+                            <td align="right"><div align="center">6,979</div></td>
+                            <td align="right"><div align="center">6,867</div></td>
+                            <td align="right"><div align="center">5,304</div></td>
+                            <td align="right"><div align="center">5,305</div></td>
+                            <td align="right"><div align="center">0.0%</div></td>
+                          </tr>
+              </table>
+                        <p class="tabela_nota">Note: Since 1Q09 group's revenue doesn't incorporate UK any more. </p>
+                        <p class="textobase">&nbsp;</p>
+                        <p class="textobase">&nbsp;</p>
+                <!-- InstanceEndEditable --></div>
+				<div id="rightcol" >
+				         <table width="148" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+	  <tr>
+		<td height="14" valign="baseline" bgcolor="#FFFFFF" class="textobase">
+		  <table width="148" border="0" cellpadding="0" cellspacing="0">
+			<tr>
+			  <td>
+				<table class="bordaazul">
+				  <tr><td> <!-- DEMAIS P?GINAS -->
+<script language="javascript">showbannersame('consultoria','banner_consultoria_simples_148x120.gif','http://www.teleco.com.br/consultoria_teleco.asp');</script>
+<!-- <SCRIPT>MaestroAd(3);</SCRIPT>-->
+
+
+
+			
+	<!-- <SCRIPT>
+   
+    MaestroAd(3);
+   
+   </SCRIPT>-->
+
+
+</td></tr>
+				</table>
+				<table width="100%" class="bordaazul">
+				  <tr><td>
+
+   		<!-- 		<SCRIPT>
+   
+    MaestroAd(4);
+   
+   </SCRIPT>-->
+
+</td></tr>
+			  </table></td>
+			</tr>
+		</table></td>
+	  </tr>
+	  
+	                     <tr>
+					
+					 		<td height="22" bgcolor="#999999" class="titulo">Teleco Products</td>
+					 	
+                     </tr>
+                          <tr>
+                            <td>
+                              <table width="150" height="18"><tr><td>
+							  <a  class="eventos_a" href='http://www.teleco.com.br/relatorios.asp'>
+							  <p class="eventos_titulo">Relat?rios Teleco</p>
+							  <p class="eventos_corpo">Telecom e Celular</p>
+							  </a>
+							    
+							  
+							  		<a  class="eventos_a" href='http://www.teleco.com.br/en/en_workshop.asp'>
+							  		<p class="eventos_titulo">Workshop Teleco</p>
+							  		<p class="eventos_corpo">21/March</p>
+							  		</a>
+							  	
+							  <a  class="eventos_a" href='http://www.teleco.com.br/consultoria_teleco.asp'>
+							  <p class="eventos_titulo">Consultoria Teleco</p>
+							  <p class="eventos_corpo">Estudos e Outsourcing</p></a>
+                              </tr>
+                            </table></td>
+                          </tr>
+<tr><td> </td></tr><tr><td> </td></tr><tr><td> </td></tr><tr><td> </td></tr><tr><td> </td></tr>
+<!--Pesquisa de eventos no BD-->
+
+<!--Fim da pesquisa de eventos no BD-->
+
+<!--Evento -->
+
+	  <tr>
+		
+						<td height="22" bgcolor="#999999" class="titulo">Events</td>
+					
+	  </tr>
+	  <tr>
+<!--<table border="0" cellpadding="2" cellspacing="0">
+  <tr>
+<td>
+<img src="http://www.teleco.com.br/imagens/ico_futurecom11.gif" /></td>
+<td><p class='eventos_titulo'>Futurecom 2011</p>
+<a  class='eventos_a' href='http://www.futurecom.com.br/' target='_blank'>
+<p class='eventos_corpo_semlinha'>12&nbsp;a&nbsp;14&nbsp;de&nbsp;setembro</p></a></td></tr>
+</table>-->
+<p class='eventos_corpo'></p>
+</tr>	
+	   <tr><td>
+		 <table width="148" height="18" border="0" cellpadding="0" cellspacing="0"> 
+	        <tr><td>
+		            <table width="148" height="18">
+			           <tr><td>
+<a  class="eventos_a" href='http://www.teleco.com.br/calendario.asp'>
+			<p class="textobaseazul" style="text-align:right">More Events</p></a>
+		   </td></tr>
+		   </table>
+		
+		</table>
+		</td></tr>
+		  <!--and now()< "24/11/2008"-->
+		<!--<tr><td>&nbsp;</td></tr>
+		<tr>
+		<td align="center" ><img src="imagens/ico_guia.jpg" /></td></tr>
+		<tr><td>
+		<table width="148" height="18">
+		<tr>
+		  <td><p class="textobaseazul"><a href="http://www.insira.com.br/fly_banner/click_fly.php?a=GuiaProd_Laender;b=menu&amp;c=http://www.teleco.com.br/guiaprodutos/default.asp!mercado=4`servico=5&amp;d=&amp;e=" class="textobaseazul" target="_blank">Laender, Porto e Perenzin   Advogados</a></p>
+	      <p class='eventos_corpo'>M.Corp.&gt;   Consultoria</p></td>
+		  </tr>
+		</table>
+		</td></tr> -->
+		
+		                   <!-- BOT?ES DE PARCERIAS COM DIMENS?ES DE 148 X 30 PIXELS -->
+				    <tr>
+					
+					 		<td height="22" bgcolor="#999999" class="titulo">Reports</td>
+					 	    
+                     </tr>
+                          <tr>
+                            <td>
+                              <table width="150"><tr><td>
+							   
+								   <p class='eventos_corpo'><a href="http://www.huawei.com/pt/catalog.do?id=1779" target="_blank"><img src="http://www.teleco.com.br/imagens/banners/banner_estudo_huawei.jpg" width="148" height="45" border="0" /></a> </p>
+								   <p class='eventos_corpo' style="padding-top:5px;"><img src="imagens/seta_azul.gif" width="8" height="8" /><a href="http://www.teleco.com.br/en/acision/en_mavam.asp" target="_blank">Mavam</a> </p>
+							   
+                              </td></tr>
+                            </table></td>
+                          </tr>
+                      
+</table>
+
+
+
+<p align="center">
+
+<!-- --><table width="148" border="0" cellspacing="0"  align="center" cellpadding="0">
+  <tr>
+    <td style="border:solid; border-color:#cccccc; border-width:1px;">
+	<!--N?o aparece na Home-->
+	<script type="text/javascript">
+window.google_analytics_uacct = "UA-3791917-2";
+</script>
+
+	<script type="text/javascript"><!--
+google_ad_client = "pub-2325149467546113";
+/* 120x600, criado 07/05/08 */
+google_ad_slot = "5696079908";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+</td></tr></table>
+<p>&nbsp;</p>
+</p>
+<p>&nbsp;</p>
+
+				</div>
+			</div> 
+			<div id="leftcol" >
+			   <script language="javascript">
+	function change_vis(szDivID, iState) {
+		var obj = document.layers ? document.layers[szDivID] :
+		document.getElementById ?  document.getElementById(szDivID).style :
+		document.all[szDivID].style;
+		obj.visibility = document.layers ? (obj.visibility=="hide" ? "show" : "hide") : (obj.visibility=="hidden" ? "visible" : "hidden");
+		obj.display = document.layers ? (obj.display=="none" ? "block" : "none") : (obj.display=="none" ? "block" : "none");
+	}
+
+</script>
+
+<table width="150"  border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+        <tr>
+          <td bgcolor="#ffffff">
+             <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr><td>
+				<!--script language="javascript">showbannersame('Workshop3T08','banner_workshop3t08.gif','http://www.teleco.com.br/eventos/workshopcmu.asp');</script -->
+    
+ <!-- DEMAIS P?GINAS -->
+
+	 <script language="javascript">showbanner('GSMA_outras','banner_gsma12.gif','http://www.mobileworldcongress.com/');</script>
+
+</td></tr>
+          </table></td>
+        </tr>
+    </table></td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td height="4"></td></tr></table>
+<table style="border:1px solid #aaaaaa" border="0" cellpadding="0" cellspacing="0" bordercolor="#aaaaaa" with="150">
+  <tr>
+    <td><table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+      <tr>
+        <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold"><a href="http://www.teleco.com.br/guiaprodutos/">
+          <div align="center"><img src="http://www.teleco.com.br/imagens/menu_guia_prod.gif" width="130" height="28" border="0" /></div>
+        </a> </td>
+      </tr>
+      
+    </table></td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td height="4"></td>
+  </tr>
+</table>
+<!-- <table style="border:1px solid #aaaaaa" border="0" cellpadding="0" cellspacing="0" bordercolor="#aaaaaa" with="150">
+  <tr>
+    <td><table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+      <tr>
+        <td width="118" height="30" valign="middle" bgcolor="#dddddd" class="textobasebold"><a href="http://www.teleco.com.br/CPqD" > </a>
+              <p align="left"><a href="http://www.insira.com.br/fly_banner/click_fly.php?a=CPQD_Link_menu&amp;b=menu&amp;c=http://www.teleco.com.br/CPQD&amp;d=&amp;e="><font color="#333333">&nbsp;&nbsp;Se&ccedil;&atilde;o CPqD</font></a></p>
+          <a href="http://www.teleco.com.br/CPqD"></a></td>
+        <td width="53" height="30" valign="middle" bgcolor="#dddddd" class="textobasebold"><a href="http://www.insira.com.br/fly_banner/click_fly.php?a=CPQD_Logo_menu&amp;b=menu&amp;c=http://www.teleco.com.br/CPQD&amp;d=&amp;e="><img src="http://www.teleco.com.br/imagens/logoCPQD_mini.gif" width="57" height="28" border="0" /></a></td>
+      </tr>
+    </table></td>
+  </tr>
+</table> 
+<table>
+  <tr>
+    <td height="4"></td>
+  </tr>
+</table>-->
+<table style="border:1px solid #aaaaaa" border="0" cellpadding="0" cellspacing="0" bordercolor="#aaaaaa" with="150">
+  <tr>
+    <td height="24" bgcolor="#999999" class="textobasebold"><div align="center"><font color="#ffffff">Themes 2012</font></div></td>
+  </tr>
+  <tr>
+    <td><table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+      <tr>
+        <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold"><div align="center"><a href="#" onclick="change_vis('categoria1', 1); return false;"><font color="#333333">3G</font></a></div></td>
+      </tr>
+      <tr>
+        <td bgcolor="#ffffff"><div id="categoria1" class="bordacinza" style="">
+          <table width="100%" border="0" cellspacing="0" cellpadding="2">
+            <tr>
+              <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_3g_brasil.asp">3G in  Brazil </a></td>
+            </tr>
+            <tr>
+              <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_3g.asp">3G in the World</a></td>
+            </tr>
+            <tr>
+              <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_3g_al.asp">3G in Latin America</a></td>
+            </tr>
+            <tr>
+              <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/en_3g_operadoras.asp">3G Operators</a></td>
+            </tr>
+            <tr>
+              <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_3g_tecnologia.asp">3G Technologies</a></td>
+            </tr>
+            <tr>
+              <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_3g_servicos.asp"> 3G Services</a></td>
+            </tr>
+            <tr>
+              <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_3g_dispositivos.asp"> 3G Devices</a></td>
+            </tr>
+            <tr>
+              <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_3g_saiba.asp">Learn More  </a></td>
+            </tr>
+          </table>
+        </div></td>
+      </tr>
+    </table>
+        <script language="JavaScript" type="text/javascript">
+	change_vis('categoria1', 1);
+    </script>
+  	        <table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+          <tr>
+            <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold"><div align="center"><a href="#" onclick="change_vis('categoria2', 1); return false;"><font color="#333333">Number P</font><font color="#333333">ortability </font></a></div></td>
+          </tr>
+          <tr>
+            <td bgcolor="#ffffff"><div id="categoria2" class="bordacinza" style="">
+                <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_portabilidade.asp">Portability in Brazil </a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_portabilidade_mundo.asp">Portability in the World </a></td>
+                  </tr>
+                </table>
+            </div></td>
+          </tr>
+        </table>
+        <script language="JavaScript" type="text/javascript">
+	change_vis('categoria2', 1);
+    </script>
+	        <table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+          <tr>
+            <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold"><div align="center"><a href="#" onclick="change_vis('categoria3', 1); return false;"><font color="#333333">Digital TV</font></a></div></td>
+          </tr>
+          <tr>
+            <td bgcolor="#ffffff"><div id="categoria3" class="bordacinza" style="">
+                <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_tvdigital.asp">Digital TV in Brazil </a><a href="http://www.teleco.com.br/wimax.asp"></a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_tvdigital_mundo.asp">TV Digital in the World </a><a href="http://www.teleco.com.br/wimax.asp"></a></td>
+                  </tr>
+                </table>
+            </div></td>
+          </tr>
+        </table>
+        <script language="JavaScript" type="text/javascript">
+	change_vis('categoria3', 1);
+    </script>
+       <table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+          <tr>
+            <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold"><div align="center"><a href="#" onclick="change_vis('categoria4', 1); return false;"><font color="#333333">WiMAX</font></a></div></td>
+          </tr>
+          <tr>
+            <td bgcolor="#ffffff"><div id="categoria4" class="bordacinza" style="">
+                <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_wimax.asp">WiMAX in Brazil </a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_wimax_mundo.asp">WiMAX in the World </a></td>
+                  </tr>
+                </table>
+            </div></td>
+          </tr>
+      </table>
+ </td>
+  </tr>
+</table>
+        <script language="JavaScript" type="text/javascript">
+	change_vis('categoria4', 1);
+    </script>
+<table>
+  <tr>
+    <td height="4"></td>
+  </tr>
+</table>
+<table style="border:1px solid #aaaaaa" border="0" cellpadding="0" cellspacing="0" bordercolor="#aaaaaa" with="150">
+<tr><td height="24" bgcolor="#999999" class="textobasebold"><div align="center"><font color="#ffffff">Mobile</font></div></td>
+</tr>
+<tr>
+<td>
+<table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+  <tr class="textobasebold">
+    <td height="22" valign="middle" bgcolor="#dddddd">
+      <div align="center"><a href="#" onclick="change_vis('categoria5', 1); return false;"><font color="#333333">Mobile Telephony </font></a></div>
+    </td>
+    </tr>
+  <tr>
+    <td colspan="2" bgcolor="#ffffff">
+          <div id="categoria5" class="bordacinza" style=""> 
+
+	  <table width="100%" border="0" cellspacing="0" cellpadding="2">
+	    <tr>
+          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_celular.asp" class="cinza">Initial</a></td>
+	      </tr>
+        <tr>
+          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_Bandac.asp" class="cinza">Bands and Areas</a></td>
+        </tr>
+        <tr>
+          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_opcelular.asp" class="cinza"> Mobile Operators</a></td>
+        </tr>
+        <tr>
+          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_ncel.asp"> Mobile Subscribers </a></td>
+        </tr>
+        <tr>
+          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_mshare.asp">Market Share</a><span class="novo"> </span></td>
+        </tr>
+        <tr>
+          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_cobertura.asp">Coverage and Cell Sites</a></td>
+        </tr>
+        <tr>
+          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_qualidadesmc.asp"> Mobile Quality</a></td>
+        </tr>
+        <tr>
+          <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_tarifacel.asp">Prices and fees </a></td>
+        </tr>
+        <tr>
+          <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_sme.asp">SME (Trunking) </a></td>
+        </tr>
+    </table>
+	</div>	</td>
+  </tr>
+</table>
+	<script language="javascript">
+	change_vis('categoria5', 1);
+</script>
+<table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+  <tr class="textobasebold">
+    <td height="22" valign="middle" bgcolor="#dddddd"><div align="center"><a href="#" onClick="change_vis('categoria6', 1); return false;"><font color="#333333">Cell Phones (Devices)</font></a></div>
+      <a href="#" onClick="change_vis('categoria6', 1); return false;"></a></td>
+    </tr>
+  <tr>
+    <td colspan="2" bgcolor="#ffffff">
+          <div id="categoria6" class="bordacinza" style=""> 
+
+	  <table width="100%" border="0" cellspacing="0" cellpadding="2">
+        <tr>
+          <td height="23" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_sar.asp">Homologated Cell Phones</a></td>
+        </tr>
+        <tr>
+          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><span class="cinza"><a href="http://www.teleco.com.br/en/en_celprod.asp">Brazilian Production</a></span></td>
+        </tr>
+        <tr >
+          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_celprodw.asp"> World Sales</a><a href="http://www.teleco.com.br/pais/alatina_fixo.asp"></a></td>
+        </tr>
+        <tr >
+          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_smartphone.asp">Smartphones</a></td>
+        </tr>
+        <tr >
+          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_vendors/nokia.asp">Nokia </a></td>
+        </tr>
+        <tr >
+          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_vendors/samsung.asp">Samsung </a></td>
+        </tr>
+        <tr >
+          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_vendors/lg.asp">LG</a></td>
+        </tr>
+        <tr >
+          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_vendors/motorola.asp">Motorola</a></td>
+        </tr>
+        <tr >
+          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_vendors/sony_ericsson.asp">Sony-Ericsson </a></td>
+        </tr>
+        <tr >
+          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_vendors/RIM.asp">RIM - BlackBerry</a></td>
+        </tr>
+        <tr >
+          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_vendors/apple.asp">Apple</a></td>
+        </tr>
+    </table>
+	</div>	</td>
+  </tr>
+</table>
+	<script language="javascript">
+	change_vis('categoria6', 1);
+</script>	
+<table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+        <tr class="bordaazul">
+          <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold">
+	    <a href="#" onClick="change_vis('categoria17', 1); return false;">          </a>
+	    <div align="center"><a href="#" onClick="change_vis('categoria7', 1); return false;"><font color="#333333">Operators</font></a></div>		  </td>
+        </tr>
+		  <tr>
+    <td bgcolor="#ffffff">
+	 <div id="categoria7" class="bordacinza" style=""> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="2">
+        <tr>
+          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/Vivo.asp">Vivo</a></td>
+        </tr>
+        <tr>
+          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/TAmericas.asp">Claro</a></td>
+        </tr>
+        <tr>
+          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/Tim.asp">Tim</a></td>
+        </tr>
+        <tr>
+          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/Oi.asp">Oi M&oacute;vel </a></td>
+        </tr>
+        <tr>
+          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/BTelecom.asp">BrT</a></td>
+        </tr>
+        <tr>
+          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/CTBC.asp">CTBC</a></td>
+        </tr>
+        <tr>
+          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/Sercomtel.asp">Sercomtel</a></td>
+        </tr>
+        <tr>
+          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/unicel.asp">Aeiou (Unicel) </a></td>
+        </tr>
+        <tr>
+          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/Nextel_br.asp">Nextel</a></td>
+        </tr>
+    </table>
+	</div>	</td>
+  </tr>
+</table>
+	<script language="javascript">
+	change_vis('categoria7', 1);
+</script></td>
+</tr></table>
+<table><tr><td height="4"></td></tr></table>
+<table style="border:1px solid #aaaaaa" border="0" cellpadding="0" cellspacing="0" bordercolor="#aaaaaa" with="150">
+  <tr>
+    <td height="24" bgcolor="#999999" class="textobasebold"><div align="center"><font color="#ffffff">Fixed</font></div></td>
+  </tr>
+  <tr>
+    <td>
+	<table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+          <tr>
+            <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold"><div align="center">
+              <table width="148" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+                <tr class="bordacinza">
+                  <td height="22" bgcolor="#dddddd" class="textobasebold"><div align="center"><a href="#" onclick="change_vis('categoria8', 1); return false;"><font color="#333333">Fixed Telephones &amp; VoIP </font></a></div></td>
+                </tr>
+              </table>
+              </div></td>
+          </tr>
+          <tr>
+            <td bgcolor="#ffffff"><div id="categoria8" class="bordacinza" style="">
+                <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                  <tr>
+                    <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_ntfix.asp">Access Statistics</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_opfixa.asp" class="cinza">Operators</a></td>
+                  </tr>
+                  <tr>
+                    <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_opfixaLD.asp" class="cinza">Long Distance</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_qualidadestfc.asp">Fixed Telephony Quality</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_tarifafixo.asp">Prices and Fees </a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_voip.asp">VOIP</a><a href="http://www.teleco.com.br/blvoip.asp"></a></td>
+                  </tr>
+                </table>
+            </div></td>
+          </tr>
+        </table>
+      <script language="JavaScript" type="text/javascript">
+	change_vis('categoria8', 1);
+  </script>
+        <table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+          <tr>
+            <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold"><table width="148" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+                <tr class="bordacinza">
+                  <td width="99" height="22" bgcolor="#dddddd" class="textobasebold"><div align="center"><a href="#" onclick="change_vis('categoria9', 1); return false;"><font color="#333333">Broadband</font></a></div></td>
+                  
+                  <td width="51" valign="baseline" bgcolor="#dddddd" class="menutitulo"><div align="center"><a href="http://www.insira.com.br/fly_banner/click_fly.php?a=Alcatel_Menu&amp;b=menu&amp;c=http://www.alcatel-lucent.com&amp;d=&amp;e=" target="_blank"><img src="http://www.teleco.com.br/imagens/logo_alcatel.gif" border="0" /></a></div></td>
+                </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td bgcolor="#ffffff"><div id="categoria9" class="bordacinza" style="">
+                <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_internet.asp">Internet in Brazil </a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_blarga.asp">Broadband</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_blarga_pprov.asp"> Broadband Providers</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_scm.asp">SCM</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_wimax.asp">WIMAX</a> </td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_wifi.asp">WI-FI</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_plc.asp">PLC</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_ieee802.asp">Support Technologies</a></td>
+                  </tr>
+                </table>
+            </div></td>
+          </tr>
+        </table>
+      <script language="JavaScript" type="text/javascript">
+	change_vis('categoria9', 1);
+  </script>
+        
+        <table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+          <tr class="bordaazul">
+            <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold"><div align="center"><a href="#" onclick="change_vis('categoria10', 1); return false;"><font color="#333333">Pay TV</font></a></div></td>
+          </tr>
+          <tr>
+            <td bgcolor="#ffffff"><div id="categoria10" class="bordacinza" style="">
+                <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_tvassinatura.asp">Pay TV</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_rtv.asp">Pay  TV Statistics </a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_optva.asp">Pay TV Operators</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_tva_prest.asp">Pay TV Providers </a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_tva_prog.asp">PTV Guide</a></td>
+                  </tr>
+                </table>
+            </div></td>
+          </tr>
+        </table>
+		<script language="JavaScript" type="text/javascript">
+	change_vis('categoria10', 1);
+  </script>
+        <table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+          <tr class="bordaazul">
+            <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold"><a href="#" onclick="change_vis('categoria17', 1); return false;"> </a>
+                <div align="center"><a href="#" onclick="change_vis('categoria11', 1); return false;"><font color="#333333">Operators</font></a></div></td>
+          </tr>
+          <tr>
+            <td bgcolor="#ffffff"><div id="categoria11" class="bordacinza" style="">
+                <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/Oibrt_tri.asp">Oi/BrT</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/Telemar.asp">Oi (Telemar)</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/BTelecom.asp">BrT </a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/Telefonica.asp">Telefonica</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/Embratel.asp">Embratel</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/GVT.asp">GVT</a></td>
+                  </tr>
+
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/CTBC.asp">CTBC</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/Sercomtel.asp">Sercomtel</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/Intelig.asp">Intelig</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/transit.asp">Transit</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/Net.asp">Net</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/sky.asp">Sky</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/tva.asp">TVA</a></td>
+                  </tr>
+                </table>
+            </div></td>
+          </tr>
+        </table>
+      <script language="JavaScript" type="text/javascript">
+	change_vis('categoria11', 1);
+  </script></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td height="4"></td>
+  </tr>
+</table>
+<table style="border:1px solid #aaaaaa" border="0" cellpadding="0" cellspacing="0" bordercolor="#aaaaaa" with="150">
+  <tr>
+    <td height="24" bgcolor="#999999" class="textobasebold"><div align="center"><font color="#ffffff">General</font></div></td>
+  </tr>
+  <tr>
+    <td><table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+      <tr>
+        <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold"><div align="center"><a href="#" onclick="change_vis('categoria12', 1); return false;"><font color="#333333"> Telecom Brazil </font></a></div></td>
+      </tr>
+      <tr>
+        <td bgcolor="#ffffff"><div id="categoria12" class="bordacinza" style="">
+          <table width="100%" border="0" cellspacing="0" cellpadding="2">
+            <tr>
+              <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_estatis.asp">Brazilian Statistics </a></td>
+            </tr>
+            <tr>
+              <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/grupos.asp"> Telecom Groups</a></td>
+            </tr>
+            <tr>
+              <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_tributos.asp">Taxing </a></td>
+            </tr>
+            <tr>
+              <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_procon.asp">Procon</a></td>
+            </tr>
+            <tr>
+              <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_itel.asp">Bovespa (ITel) </a></td>
+            </tr>
+            <tr>
+              <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_sat.asp">Satellites in Brazil </a></td>
+            </tr>
+          </table>
+        </div></td>
+      </tr>
+    </table>
+        <script language="JavaScript" type="text/javascript">
+	change_vis('categoria12', 1);
+    </script>
+	<table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+      <tr>
+        <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold"><div align="center"><a href="#" onclick="change_vis('categoria13', 1); return false;"><font color="#333333"> Regulation </font></a></div></td>
+      </tr>
+      <tr>
+        <td bgcolor="#ffffff"><div id="categoria13" class="bordacinza" style="">
+          <table width="100%" border="0" cellspacing="0" cellpadding="2">
+            <tr>
+              <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_anatel.asp">Anatel</a></td>
+            </tr>
+            <tr>
+              <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_legis.asp">Legislation Guide</a></td>
+            </tr>
+            <tr>
+              <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_dfatos.asp">Dates and Facts (Anatel)</a></td>
+            </tr>
+            <tr>
+              <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a class="cinza" href="http://www.teleco.com.br/en/en_freq_no_brasil.asp">Frequencies in Brazil</a></td>
+            </tr>
+          </table>
+        </div></td>
+      </tr>
+    </table>
+        <script language="JavaScript" type="text/javascript">
+	change_vis('categoria13', 1);
+    </script>
+	<table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+          <tr class="bordaazul">
+            <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold"><div align="center"><a href="#" onclick="change_vis('categoria14', 1); return false;"><font color="#333333">Radio and TV</font></a></div></td>
+          </tr>
+          <tr>
+            <td bgcolor="#ffffff"><div id="categoria14" class="bordacinza" style="">
+                <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_tv.asp">TV in Brazil</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_tvdigital.asp">Digital TV</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_IPTV.asp">IPTV </a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_radio.asp">Radio in Brazil</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_rdigital.asp"> Digital Radio</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_TV_redes.asp"> TV Networks</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_nrtv.asp"> R&aacute;dio/TV Statistics</a></td>
+                  </tr>
+                </table>
+            </div></td>
+          </tr>
+        </table>
+      <script language="JavaScript" type="text/javascript">
+	change_vis('categoria14', 1);
+  </script>
+        <table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+          <tr>
+            <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold"><div align="center"><a href="#" onclick="change_vis('categoria15', 1); return false;"><font color="#333333">Telecom Industry</font></a></div></td>
+          </tr>
+          <tr>
+            <td bgcolor="#ffffff"><div id="categoria15" class="bordacinza" style="">
+                <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_industria.asp">Ind&uacute;stry</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_telbalcom.asp">Trade Balance </a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_cert.asp">Certification of Products</a></td>
+                  </tr>
+                  <tr >
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_vendors.asp">Vendors in the World</a></td>
+                  </tr>
+                  <tr >
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_vendors/alcatel.asp">Alcatel-Lucent</a></td>
+                  </tr>
+                  <tr >
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_vendors/cisco.asp">Cisco</a></td>
+                  </tr>
+                  <tr >
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_vendors/en_ericsson.asp">Ericsson</a></td>
+                  </tr>
+                  <tr >
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_vendors/motorola.asp">Motorola</a></td>
+                  </tr>
+                  <tr >
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_vendors/nokia.asp">Nokia </a></td>
+                  </tr>
+                </table>
+            </div></td>
+          </tr>
+        </table>
+      <script language="JavaScript" type="text/javascript">
+	change_vis('categoria15', 1);
+    </script>
+<table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+          <tr>
+            <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold"><div align="center"><a href="#" onclick="change_vis('categoria16', 1); return false;"><font color="#333333">TI &amp; Call Center</font></a></div></td>
+          </tr>
+          <tr>
+            <td bgcolor="#ffffff"><div id="categoria16" class="bordacinza" style="">
+                <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_ti.asp">TI</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_callcenter.asp">Call Center</a></td>
+                  </tr>
+                </table>
+            </div></td>
+          </tr>
+        </table>
+      <script language="JavaScript" type="text/javascript">
+	change_vis('categoria16', 1);
+    </script>        
+   <table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+      <tr>
+        <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold"><div align="center"><a href="#" onclick="change_vis('categoria17', 1); return false;"><font color="#333333">Quick Reference</font></a></div></td>
+      </tr>
+      <tr>
+        <td bgcolor="#ffffff"><div id="categoria17" class="bordacinza" style="">
+          <table width="100%" border="0" cellspacing="0" cellpadding="2">
+            <tr>
+              <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_spectro.asp">Spectrum  Frequencies</a></td>
+            </tr>
+            <tr>
+              <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_unidades.asp" class="cinza">Measure Unities</a> </td>
+            </tr>
+            <tr>
+              <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_disponibilidade.asp" class="cinza">Availability</a></td>
+            </tr>
+            <tr>
+              <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_canalizacaopdh.asp" class="cinza"> PDH/SDH Channelization</a></td>
+            </tr>
+          </table>
+        </div></td>
+      </tr>
+    </table>
+        <script language="JavaScript" type="text/javascript">
+	change_vis('categoria17', 1);
+  </script>
+        <table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+          <tr>
+            <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold"><div align="center"><a href="#" onclick="change_vis('categoria18', 1); return false;"><font color="#333333">Calculators</font></a></div></td>
+          </tr>
+          <tr>
+            <td bgcolor="#ffffff"><div id="categoria18" class="bordacinza" style="">
+                <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a class="cinza" href="http://www.teleco.com.br/en/en_erlangb.asp">ErlangB</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_erlangc.asp" class="cinza">ErlangC</a></td>
+                  </tr>
+                  <tr>
+                    <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_frequencia.asp" class="cinza">Freq. / <img src="http://www.teleco.com.br/imagens/lambda.gif" width="6" height="8" border="0" /> </a> </td>
+                  </tr>
+                  <tr>
+                    <td height="19" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_db.asp" class="cinza">dB</a></td>
+                  </tr>
+                </table>
+            </div></td>
+          </tr>
+        </table>
+    <script language="JavaScript" type="text/javascript">
+	change_vis('categoria18', 1);
+  </script></td>
+  </tr>
+</table>
+      <table>
+        <tr>
+          <td height="4"></td>
+        </tr>
+      </table>
+      <table style="border:1px solid #aaaaaa" border="0" cellpadding="0" cellspacing="0" bordercolor="#aaaaaa" with="150">
+        <tr>
+          <td height="24" bgcolor="#999999" class="textobasebold"><div align="center"><font color="#ffffff">Latin America</font></div></td>
+        </tr>
+        <tr>
+          <td>
+              <table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+                <tr>
+                  <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold"><div align="center"><a href="#" onclick="change_vis('categoria19', 1); return false;"><font color="#333333">Mobille Telephony</font></a></div></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#ffffff"><div id="categoria19" class="bordacinza" style="">
+                      <table width="100%" border="0" cellspacing="0" cellpadding="2">
+
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_alatina_cel.asp">Cellular </a></td>
+                        </tr>
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_3g_al.asp">3G in Latin America</a></td>
+                        </tr>
+                      </table>
+                  </div></td>
+                </tr>
+              </table>
+            <script language="JavaScript" type="text/javascript">
+	change_vis('categoria19', 1);
+        </script>
+		<table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+                <tr>
+                  <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold"><div align="center"><a href="#" onclick="change_vis('categoria20', 1); return false;"><font color="#333333">Fixed Telephony</font></a></div></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#ffffff"><div id="categoria20" class="bordacinza" style="">
+                      <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_alatina_fixo.asp">Fixed Telephony</a></td>
+                        </tr>
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_alatina_blarga.asp">Broadband</a></td>
+                        </tr>
+                      </table>
+                  </div></td>
+                </tr>
+              </table>
+            <script language="JavaScript" type="text/javascript">
+	change_vis('categoria20', 1);
+        </script>
+		<table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+                <tr>
+                  <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold"><div align="center"><a href="#" onclick="change_vis('categoria21', 1); return false;"><font color="#333333">General</font></a></div></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#ffffff"><div id="categoria21" class="bordacinza" style="">
+                      <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_alatina.asp">Latin America </a></td>
+                        </tr>
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_alatina_tv.asp">TV</a></td>
+                        </tr>
+                      </table>
+                  </div></td>
+                </tr>
+              </table>
+            <script language="JavaScript" type="text/javascript">
+	change_vis('categoria21', 1);
+        </script>
+              <table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+                <tr>
+                  <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold"><div align="center"><a href="#" onclick="change_vis('categoria22', 1); return false;"><font color="#333333">Mexico &amp; C. America </font></a></div></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#ffffff"><div id="categoria22" class="bordacinza" style="">
+                      <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_mexico.asp">Mexico</a></td>
+                        </tr>
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_acentral.asp">Central America</a></td>
+                        </tr>
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_belize.asp">Belize</a></td>
+                        </tr>
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_crica.asp">Costa Rica</a></td>
+                        </tr>
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_elsalvador.asp">El Salvador</a></td>
+                        </tr>
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a class="cinza" href="http://www.teleco.com.br/en/en_pais/en_guatemala.asp">Guatemala</a></td>
+                        </tr>
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_honduras.asp">Honduras</a></td>
+                        </tr>
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_nicara.asp">Nicaragua</a></td>
+                        </tr>
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_panama.asp">Panama</a></td>
+                        </tr>
+                      </table>
+                  </div></td>
+                </tr>
+              </table>
+            <script language="JavaScript" type="text/javascript">
+	change_vis('categoria22', 1);
+        </script>
+		<table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+                <tr>
+                  <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold"><div align="center"><a href="#" onclick="change_vis('categoria23', 1); return false;"><font color="#333333">Caribbean</font></a></div></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#ffffff"><div id="categoria23" class="bordacinza" style="">
+                      <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_caribe.asp">Caribbean</a></td>
+                        </tr>
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_cuba.asp">Cuba</a></td>
+                        </tr>
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_haiti.asp">Haiti</a></td>
+                        </tr>
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_jamaica.asp">Jamaica</a></td>
+                        </tr>
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a class="cinza" href="http://www.teleco.com.br/en/en_pais/en_rdominicana.asp"> Dominican Rep.</a></td>
+                        </tr>
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a class="cinza" href="http://www.teleco.com.br/en/en_pais/en_trinidad_tobago.asp">Trinidad &amp; Tobago </a></td>
+                        </tr>
+                      </table>
+                  </div></td>
+                </tr>
+              </table>
+            <script language="JavaScript" type="text/javascript">
+	change_vis('categoria23', 1);
+        </script>
+              <table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+                <tr>
+                  <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold"><div align="center"><a href="#" onclick="change_vis('categoria24', 1); return false;"><font color="#333333">South America</font></a></div></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#ffffff"><div id="categoria24" class="bordacinza" style="">
+                      <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_amsul.asp">South America </a></td>
+                        </tr>
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_argentina.asp">Argentina</a></td>
+                        </tr>
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_bolivia.asp">Bolivia</a></td>
+                        </tr>
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_colombia.asp">Colombia</a></td>
+                        </tr>
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_chile.asp">Chile</a></td>
+                        </tr>
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_equador.asp">Ecuador</a></td>
+                        </tr>
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_guiana.asp">Guianas/Suriname</a></td>
+                        </tr>
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_paraguai.asp">Paraguay</a></td>
+                        </tr>
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_peru.asp">Peru</a></td>
+                        </tr>
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_venezuela.asp">Venezuela</a></td>
+                        </tr>
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_uruguai.asp">Uruguay</a></td>
+                        </tr>
+                      </table>
+                  </div></td>
+                </tr>
+              </table>
+            <script language="JavaScript" type="text/javascript">
+	change_vis('categoria24', 1);
+        </script>
+              <table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+                <tr>
+                  <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold"><div align="center"><a href="#" onclick="change_vis('categoria25', 1); return false;"><font color="#333333">Operadors</font></a></div></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#ffffff"><div id="categoria25" class="bordacinza" style="">
+                      <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                        <tr>
+                          <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/amovil.asp" class="cinza">Am&eacute;rica M&oacute;vil</a></td>
+                        </tr>
+                        <tr>
+                          <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/gruposlim.asp" class="cinza">Grupo Slim </a></td>
+                        </tr>
+
+                        <tr>
+                          <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/cantv.asp" class="cinza">CANTV (Ven.) </a></td>
+                        </tr>
+
+                        <tr>
+                          <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/cti.asp" class="cinza">Claro (Arg.) </a></td>
+                        </tr>
+
+                        <tr>
+                          <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/comcel.asp" class="cinza">Comcel (Col.) </a></td>
+                        </tr>
+                        <tr>
+                          <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/digicel.asp" class="cinza">Digicel</a></td>
+                        </tr>
+
+                        <tr>
+                          <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/entel.asp" class="cinza">Entel (Chi.) </a></td>
+                        </tr>
+
+                        <tr>
+                          <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/maxcom_mex.asp" class="cinza">Maxcom (M&eacute;x.) </a></td>
+                        </tr>
+                        <tr>
+                          <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/millicom.asp" class="cinza">Millicom</a></td>
+                        </tr>
+                        <tr>
+                          <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/nextel.asp" class="cinza">Nextel</a></td>
+                        </tr>
+
+                        <tr>
+                          <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/telcel.asp">Telcel (Mex.) </a></td>
+                        </tr>
+                        <tr>
+                          <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/telefonica_grupo.asp">Telefonica (Group)</a></td>
+                        </tr>
+                        <tr>
+                          <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/TelefonicaArg.asp">Telefonica Argentina </a></td>
+                        </tr>
+                        <tr>
+                          <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/TelecomArg.asp">Telecom Argentina </a></td>
+                        </tr>
+
+                        <tr>
+                          <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/telmex.asp">Telmex</a></td>
+                        </tr>
+                      </table>
+                  </div></td>
+                </tr>
+              </table>
+            <script language="JavaScript" type="text/javascript">
+	change_vis('categoria25', 1);
+        </script></td>
+        </tr>
+</table>
+      <table>
+  <tr>
+    <td height="4"></td>
+  </tr>
+</table>
+<table style="border:1px solid #aaaaaa" border="0" cellpadding="0" cellspacing="0" bordercolor="#aaaaaa" with="150">
+<tr><td height="24" bgcolor="#999999" class="textobasebold"><div align="center"><font color="#ffffff">Teleco World</font></div></td>
+<tr>
+<td>
+<table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+  <tr>
+    <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold">
+	    <div align="center"><a href="#" onClick="change_vis('categoria26', 1); return false;"><font color="#333333">Mobile Telephony</font></a></div></td>
+  </tr>
+  <tr>
+    <td bgcolor="#ffffff">
+      <div id="categoria26" class="bordacinza" style="">
+        <table width="100%" border="0" cellspacing="0" cellpadding="2">
+          <tr>
+            <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_celular.asp">Cellular in the World</a></td>
+          </tr>
+          <tr>
+            <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_3G.asp">3G in the World</a></td>
+          </tr>
+        </table>
+    </div></td>
+  </tr>
+</table>
+	<script language="javascript">
+	change_vis('categoria26', 1);
+</script>
+<table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+  <tr>
+    <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold">
+	    <div align="center"><a href="#" onClick="change_vis('categoria27', 1); return false;"><font color="#333333">Fixed Telephony</font></a></div></td>
+  </tr>
+  <tr>
+    <td bgcolor="#ffffff">
+      <div id="categoria27" class="bordacinza" style="">
+        <table width="100%" border="0" cellspacing="0" cellpadding="2">
+          <tr>
+            <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_fixo_mundo.asp">Fixed in the World</a></td>
+          </tr>
+          <tr>
+            <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_blarga_mundo.asp">Broadband  in the World</a></td>
+          </tr>
+        </table>
+    </div></td>
+  </tr>
+</table>
+	<script language="javascript">
+	change_vis('categoria27', 1);
+</script>
+<table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+  <tr>
+    <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold">
+	    <div align="center"><a href="#" onClick="change_vis('categoria28', 1); return false;"><font color="#333333">General</font></a></div></td>
+  </tr>
+  <tr>
+    <td bgcolor="#ffffff">
+      <div id="categoria28" class="bordacinza" style="">
+        <table width="100%" border="0" cellspacing="0" cellpadding="2">
+          <tr>
+            <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/mapamundi.asp"> UIT Countries</a></td>
+          </tr>
+          <tr>
+            <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_bric.asp">BRIC</a></td>
+          </tr>
+          <tr>
+            <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/iptv_mundo.asp">IPTV in the World  </a></td>
+          </tr>
+          <tr>
+            <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_cambio.asp">Exchange Rate</a></td>
+          </tr>
+        </table>
+    </div></td>
+  </tr>
+</table>
+	<script language="javascript">
+	change_vis('categoria28', 1);
+</script>
+<table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+  <tr>
+    <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold">
+	    <a href="#" onClick="change_vis('categoria30', 1); return false;">
+      <div align="center"><font color="#333333">US &amp; Canada</font></div>
+	  </a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#ffffff">
+      <div id="categoria30" class="bordacinza" style="">
+        <table width="100%" border="0" cellspacing="0" cellpadding="2">
+          <tr>
+            <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_amnorte.asp">North America </a></td>
+          </tr>
+          <tr>
+            <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_canada.asp">Canada</a></td>
+          </tr>
+          <tr>
+            <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_us.asp"> United States</a></td>
+          </tr>
+        </table>
+    </div></td>
+  </tr>
+</table>
+	<script language="javascript">
+	change_vis('categoria30', 1);
+</script>
+	<table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+      <tr>
+        <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold">
+	    <a href="#" onClick="change_vis('categoria31', 1); return false;">
+            <div align="center"><font color="#333333">Europe</font></div>
+</a> </td>
+      </tr>
+      <tr>
+        <td bgcolor="#ffffff">
+		<div id="categoria31" class="bordacinza" style="">
+            <table width="100%" border="0" cellspacing="0" cellpadding="2">
+              <tr>
+                <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_europa.asp">Europe</a></td>
+              </tr>
+              <tr>
+                <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_alemanha.asp">Germany</a></td>
+              </tr>
+              <tr>
+                <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_espanha.asp">Spain</a></td>
+              </tr>
+              <tr>
+                <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_franca.asp">France</a></td>
+              </tr>
+              <tr>
+                <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a class="cinza" href="http://www.teleco.com.br/en/en_pais/en_italia.asp">Italy</a></td>
+              </tr>
+              <tr>
+                <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_portugal.asp">Portugal</a></td>
+              </tr>
+              <tr>
+                <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_uk.asp"> United Kingdom(UK)</a></td>
+              </tr>
+              <tr>
+                <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_russia.asp">Russia</a></td>
+              </tr>
+            </table>
+        </div></td>
+      </tr>
+    </table>
+	<script language="javascript">
+	change_vis('categoria31', 1);
+</script>
+
+<table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+  <tr>
+    <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold">
+	    <a href="#" onClick="change_vis('categoria32', 1); return false;">
+	    <div align="center">
+<font color="#333333">Asia &amp; Oceania </font></div>
+</a>    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#ffffff">
+      <div id="categoria32" class="bordacinza" style="">
+        <table width="100%" border="0" cellspacing="0" cellpadding="2">
+          <tr>
+            <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_asia.asp">Asia</a></td>
+          </tr>
+          <tr>
+            <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_china.asp">China</a></td>
+          </tr>
+          <tr>
+            <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_coreia.asp">Korea</a></td>
+          </tr>
+          <tr>
+            <td height="20" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a class="cinza" href="http://www.teleco.com.br/en/en_pais/en_india.asp">India</a></td>
+          </tr>
+          <tr>
+            <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_japao.asp">Japan</a></td>
+          </tr>
+          <tr>
+            <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_australia.asp">Australia</a></td>
+          </tr>
+        </table>
+    </div></td>
+  </tr>
+</table>
+	<script language="javascript">
+	change_vis('categoria32', 1);
+</script>
+<table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+  <tr>
+    <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold">
+	    <a href="#" onClick="change_vis('categoria33', 1); return false;">
+	    <div align="center">
+<font color="#333333">Africa </font></div>
+</a>    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#ffffff">
+      <div id="categoria33" class="bordacinza" style="">
+        <table width="100%" border="0" cellspacing="0" cellpadding="2">
+          <tr>
+            <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_angola.asp">Angola</a></td>
+          </tr>
+          <tr>
+            <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_cabo_verde.asp">Cape Verde </a></td>
+          </tr>
+          <tr>
+            <td height="20" bgcolor="#ffffff" class="cinza" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_pais/en_mocambique.asp">Mozambique</a></td>
+          </tr>
+        </table>
+    </div></td>
+  </tr>
+</table>
+	<script language="javascript">
+	change_vis('categoria33', 1);
+</script>
+	<table width="150" border="0" cellpadding="0" cellspacing="0" class="bordaazul">
+      <tr>
+        <td height="22" valign="middle" bgcolor="#dddddd" class="textobasebold"><div align="center"><a href="#" onClick="change_vis('categoria34', 1); return false;"><font color="#333333">Operators</font></a></div></td>
+      </tr>
+      <tr>
+        <td bgcolor="#ffffff"><div id="categoria34" class="bordacinza" style="">
+            <table width="100%" border="0" cellspacing="0" cellpadding="2">
+              <tr>
+                <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/cingular.asp" class="cinza">AT&amp;T (US) </a></td>
+              </tr>
+              <tr>
+                <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/BT_UK.asp">British Telecom (UK)</a></td>
+              </tr>
+              <tr>
+                <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/chinamobile.asp" class="cinza">China Mobile </a></td>
+              </tr>
+              <tr>
+                <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/clearwire.asp" class="cinza">Clearwire</a></td>
+              </tr>
+              <tr>
+                <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/dt.asp" class="cinza">DT</a></td>
+              </tr>
+              <tr>
+                <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/FranceT.asp" class="cinza">France Telecom (Orange) </a></td>
+              </tr>
+              <tr>
+                <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/h3g.asp">H3G</a></td>
+              </tr>
+              <tr>
+                <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/MTS.asp">MTS (Russia) </a></td>
+              </tr>
+              <tr>
+                <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/nextel.asp" class="cinza">Nextel</a></td>
+              </tr>
+              <tr>
+                <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/NTTDocomo.asp">NTT DoCoMo</a></td>
+              </tr>
+              <tr>
+                <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/PTelecom.asp" class="cinza">Portugal Telecom</a></td>
+              </tr>
+              <tr>
+                <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/skt.asp" class="cinza">SK Telecom (Kor.) </a></td>
+              </tr>
+              <tr>
+                <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/sprint.asp" class="cinza">Sprint</a></td>
+              </tr>
+              <tr>
+                <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/telefonica_grupo.asp">Telefonica (Group)</a></td>
+              </tr>
+              <tr>
+                <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/Ti.asp" class="cinza">Telecom Italia</a></td>
+              </tr>
+              <tr>
+                <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/verizon.asp" class="cinza">Verizon (US) </a></td>
+              </tr>
+              <tr>
+                <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/vodafone.asp" class="cinza">Vodafone</a></td>
+              </tr>
+              <tr>
+                <td height="22" bgcolor="#ffffff" onclick="Clicar2(this);" onmouseover="Entrar2(this);" onmouseout="Sair2(this);"><a href="http://www.teleco.com.br/en/en_operadoras/vonage.asp" class="cinza">Vonage (US) </a></td>
+              </tr>
+            </table>
+        </div></td>
+      </tr>
+    </table>
+		<script language="javascript">
+	change_vis('categoria34', 1);
+</script></td>
+</tr></table>
+<table>
+  <tr>
+    <td height="4"></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p>
+
+
+</p>
+
+			</div>
+</div>
+<div id="features">
+
+  &nbsp;
+  
+  <br />
+  <br />
+</p>
+  <p>&nbsp;  </p>
+</div>
+<script type="text/JavaScript">
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+<table border="0" align="right" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="middle">
+    <p align="left"><a href="#"  class="textobase" onClick="MM_openBrWindow('http://www.teleco.com.br/imprimir.asp?pagina=/en/en_operadoras/FranceT.asp','aspma2','status=yes,scrollbars=yes,resizable=yes,width=700,height=550'); return false"><img src="http://www.teleco.com.br/include/imprimir_pagina2.gif" width="15" height="15" border="0" /> 
+	
+		Print this Page 
+	
+	</a> 
+	</p></td>
+    <td align="center" valign="middle"><p>
+      
+    </p>
+        <p align="right"><a href="#" class="textobase" onClick="MM_openBrWindow('http://www.teleco.com.br/aspmail.asp?pagina=http://www.teleco.com.br/en/en_operadoras/FranceT.asp','aspma','status=yes,scrollbars=yes,resizable=yes,width=440,height=450'); return false"><img src="http://www.teleco.com.br/include/enviar_pagina2.gif" width="15" height="15" border="0" /> 
+	
+		Send this Page 
+	
+</a>
+		</p>
+        </td>
+    <td align="center" valign="middle"><script language="JavaScript1.2" type="text/javascript">
+<!--
+var bookmarkurl=document.location
+var bookmarktitle=document.title
+
+function addbookmark(){
+if (document.all)
+window.external.AddFavorite(bookmarkurl,bookmarktitle)
+}
+// -->
+</script>
+    <a href="#" class="textobase" onClick="addbookmark()"><img src="http://www.teleco.com.br/include/favoritos.gif" width="15" height="15" border="0" /> 
+	
+		 Add to favorites
+	
+	</a> </td>
+    <td align="center" valign="middle"><a href="#" class="textobase" onClick="MM_openBrWindow('http://www.teleco.com.br/erramos.asp?pagina=http://www.teleco.com.br/en/en_operadoras/FranceT.asp','aspma','status=yes,scrollbars=yes,resizable=yes,width=540,height=370'); return false"><img src="http://www.teleco.com.br/include/com_erro.gif" width="15" height="15" border="0" > 
+	
+		 Communicate errors
+	
+	</a></td>
+  </tr>
+</table>
+
+
+</div>
+	<div id="footer" >
+	
+	<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="999999">
+  <tr>
+    <td class="textobasebold"><font color="#FFFFFF" style="font-size:12px">&copy; 2012 Teleco</font></td>
+    <td class="textobasebold"><div align="right"><a href="en_aspectos.asp" class="branco">Legal Aspects </a> <font color="#FFFFFF">::</font> <a href="en_privacidade.asp" class="branco">Privacy</a> <font color="#FFFFFF">::</font> <a href="en_proposta.asp" class="branco">Our Proposal </a> <font color="#FFFFFF">::</font> <a href="en_faleconosco.asp" class="branco">Contact Us </a></div></td>
+  </tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3791917-2";
+urchinTracker();
+</script>
+	</div>
+</div>
+</body>
+<!-- InstanceEnd --></html>
+

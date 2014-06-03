@@ -1,0 +1,253 @@
+?<html>
+  <head>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="description" content="Missouri Economic Research &amp; Information Center">
+    <meta name="keywords" content="Missouri, State, Economy, MERIC,DED,Labor Market,Trends,Missouri Economic Research&amp; Information Center,Department of Economic Devolopment ">
+    <meta name="Created by" content="Missouri Economic Research &amp; Information Center">
+    <meta name="Code Last Modified by" content="Thomas Bolden ">
+    <meta name="Last Modified Data" content="3/30/2001 1:15pm">
+    <meta name="Page Generated on " content="3/1/2006 1:36:46 PM">
+    <title>Oceania</title>
+    <link rel="stylesheet" type="text/css" href="../../css/indicators.css">
+    <link rel="stylesheet" type="text/css" href="../../css/tbl_indicators.css">
+    <script language="JavaScript" type="text/JavaScript" src="../../Scripts/breadcrumb.js">
+    </script>
+  </head>
+  <!--  Banner links -->
+  <div  id = "top" >
+	<center>
+		<IMG  alt="" src="http://www.missourieconomy.org/images/meric_ecoindnew.gif"  height="80" width="627" align=middle border=0 usemap="#banner"  >
+		  <map name="banner" id="banner">
+		 			<area shape=POLY alt="Home"
+		 				coords=111,80,110,66,118,62,181,58,188,60,188,80	href="http://www.missourieconomy.org/index.stm">
+		 			<area shape=POLY alt="Economic Indicators"
+		 				coords=192,80,192,62,199,56,266,52,271,58,271,80 href="http://www.missourieconomy.org/indicators/index.stm">
+		 			<area shape=POLY alt="Industry"
+		 				coords=274,80,274,58,280,52,352,52,357,58,357,80 href="http://www.missourieconomy.org/industry/index.stm">
+		 			<area shape=POLY alt="Occupations"
+		 				coords=361,80,361,58,365,52,431,52,436,58,436,80 href="http://www.missourieconomy.org/occupations/index.stm">
+		 			<area shape=POLY alt="Regional Information"
+		 				coords=440,80,440,58,447,52,519,54,526,60,526,80 href="http://www.missourieconomy.org/regional/index.stm">
+		 			<area shape=POLY alt="Community Issues"
+		 				coords=530,80,530,60,534,55,610,60,616,66,616,80 href="http://www.missourieconomy.org/community/index.stm">
+		</map>
+
+	</center>
+</div>
+  <!--  End banner links -->
+  <div id="menuHead" class="menuStyle">
+    <a id="menuHead1" class="menuLink" href="../../index.stm" onMouseOut="t = 1; delayHide()" onMouseOver="popMenu(1)">Home</a> |
+				<a id="menuHead2" class="menuLink" href="../index.stm" onMouseOut="t = 1; delayHide()" onMouseOver="popMenu(2)">Economic Indicators</a> |
+				<a id="menuHead3" class="menuLink" href="./index.stm">2006 Exports</a> |
+			</div>
+  <!--  menu links -->
+  <div id="menu1" class="menuStyle">
+	<A class=menuLink href="http://www.missourieconomy.org/indicators/index.stm"  onclick  ="t = 0;  delayHide();"  onmouseout   ="t = 1; delayHide()" onmouseover="t = 2;" >Economic Indicators</A><br>
+	<A class=menuLink href="http://www.missourieconomy.org/industry/index.stm"  onclick  ="t = 0;  delayHide();"  onmouseout   ="t = 1; delayHide()" onmouseover="t = 2;" >Industry</A><br>
+	<A class=menuLink href="http://www.missourieconomy.org/occupations/index.stm"  onclick  ="t = 0;  delayHide();"  onmouseout   ="t = 1; delayHide()" onmouseover="t = 2;" >Occupation</A><br>
+	<A class=menuLink href="http://www.missourieconomy.org/regional/index.stm"  onclick  ="t = 0;  delayHide();"  onmouseout   ="t = 1; delayHide()" onmouseover="t = 2;" >Regional Information</A><br>
+	<A class=menuLink href="http://www.missourieconomy.org/community/index.stm"  onclick  ="t = 0;  delayHide();"  onmouseout   ="t = 1; delayHide()" onmouseover="t = 2;" >Community Issues</A><br>
+</div>
+  <!--  End menu links -->
+  <!--  menu links -->
+  <div id="menu2" class="menuStyle">
+
+	<A class=menuLink href="http://www.missourieconomy.org/indicators/cost_of_living/index.stm"  onclick  ="t = 0;  delayHide();"  onmouseout   ="t = 1; delayHide()" onmouseover="t = 2;" >Cost of Living</A><br>
+	<A class=menuLink href="http://www.missourieconomy.org/indicators/condition/index.stm"  onclick  ="t = 0;  delayHide();"  onmouseout   ="t = 1; delayHide()" onmouseover="t = 2;" >Economic Condition</A><br>
+	<A class=menuLink href="http://www.missourieconomy.org/indicators/international/index.stm"  onclick  ="t = 0;  delayHide();"  onmouseout   ="t = 1; delayHide()" onmouseover="t = 2;" >Exports and International</A><br>
+	<A class=menuLink href="http://www.missourieconomy.org/indicators/gsp/index.stm"  onclick  ="t = 0;  delayHide();"  onmouseout   ="t = 1; delayHide()" onmouseover="t = 2;" >Gross State Product</A><br>
+        <A class=menuLink href="http://www.missourieconomy.org/indicators/housing.stm"  onclick  ="t = 0;  delayHide();"  onmouseout   ="t = 1; delayHide()" onmouseover="t = 2;" >Housing Reports</A><br>
+	<A class=menuLink href="http://www.missourieconomy.org/indicators/wages/index.stm"  onclick  ="t = 0;  delayHide();"  onmouseout   ="t = 1; delayHide()" onmouseover="t = 2;" >Income and Wages</A><br>
+	<A class=menuLink href="http://www.missourieconomy.org/indicators/inflation/index.stm"  onclick  ="t = 0;  delayHide();"  onmouseout   ="t = 1; delayHide()" onmouseover="t = 2;" >Inflation</A><br>
+	<A class=menuLink href="http://www.missourieconomy.org/indicators/bcc/index.stm" onMouseOut="t = 1; delayHide()" onMouseOver="t = 2;"  onClick="t = 0; delayHide();"  >Business Climate Comparison</a><br>
+	<A class=menuLink href="http://www.missourieconomy.org/indicators/population/index.stm"  onclick  ="t = 0;  delayHide();"  onmouseout   ="t = 1; delayHide()" onmouseover="t = 2;" >Population</A><br>
+	<A class=menuLink href="http://www.missourieconomy.org/indicators/taxable_sales/index.stm"  onclick  ="t = 0;  delayHide();"  onmouseout   ="t = 1; delayHide()" onmouseover="t = 2;" >Taxable Sales</A><br>
+	<A class=menuLink href="http://www.missourieconomy.org/indicators/unemp/index.stm"  onclick  ="t = 0;  delayHide();"  onmouseout   ="t = 1; delayHide()" onmouseover="t = 2;" >Unemployment</A><br>
+	<A class=menuLink href="http://www.missourieconomy.org/indicators/laus/index.stm"  onclick  ="t = 0;  delayHide();"  onmouseout   ="t = 1; delayHide()" onmouseover="t = 2;" >LAUS</A><br>
+	
+</div>
+  <!--  End menu links -->
+  <body>
+    <map name="FPMap0">
+      <area href="south america.stm" shape="poly" alt="South America" coords="121, 204, 113, 193, 118, 156, 109, 147, 107, 137, 113, 124, 125, 125, 138, 131, 141, 135, 159, 143, 153, 148, 144, 161, 132, 177, 124, 189, 119, 200">
+      <area href="north america.stm" shape="poly" alt="North America" coords="105, 128, 93, 118, 81, 113, 63, 95, 60, 92, 59, 77, 51, 66, 38, 60, 28, 66, 17, 70, 25, 62, 15, 60, 20, 40, 45, 46, 68, 29, 103, 16, 125, 17, 165, 12, 179, 20, 174, 24, 169, 46, 153, 54, 147, 61, 136, 82, 119, 89, 107, 99, 125, 117">
+      <area href="africa.stm" shape="poly" alt="Africa" coords="196, 130, 186, 130, 178, 122, 176, 109, 186, 98, 204, 94, 207, 99, 214, 102, 217, 98, 231, 102, 238, 123, 248, 124, 238, 136, 238, 150, 248, 149, 244, 163, 236, 161, 226, 172, 216, 174, 208, 154, 210, 144, 204, 134">
+      <area href="oceania.stm" shape="poly" alt="Oceania" coords="320, 178, 318, 160, 336, 150, 340, 151, 346, 152, 350, 140, 350, 152, 361, 166, 356, 181, 345, 178, 336, 172, 324, 174">
+      <area href="europe.stm" shape="poly" alt="Europe" coords="198, 86, 194, 92, 186, 91, 186, 86, 186, 69, 169, 53, 208, 22, 222, 21, 224, 43, 227, 59, 222, 61, 236, 79, 222, 89">
+      <area href="asia.stm" shape="poly" alt="Asia" coords="237, 83, 228, 63, 228, 43, 248, 19, 299, 19, 316, 35, 348, 33, 399, 51, 367, 74, 345, 98, 327, 114, 331, 132, 346, 139, 325, 149, 306, 145, 279, 127, 271, 112, 259, 109, 253, 117, 243, 120, 231, 101, 227, 91">
+    </map>
+    <br>
+    <center>
+      <form METHOD="post">
+        <select id="country_list" ONCHANGE="window.location=(this.options[this.selectedIndex].value)" size="1">
+          <option value="#">Select region</option>
+          <option value="africa.stm">Africa</option>
+          <option value="asia.stm">Asia</option>
+          <option value="europe.stm">Europe</option>
+          <option value="north america.stm">North America</option>
+          <option value="oceania.stm">Oceania</option>
+          <option value="south america.stm">South America</option>
+        </select>
+      </form>
+      <img src="/researchandplanning/images/indicators/international/&#xD;&#xA;							Oceania.jpg&#xD;&#xA;						" alt="Oceania" usemap="#FPMap0">
+      <br>
+      <br>
+      <img src="/researchandplanning/images/indicators/international/charts/&#xD;&#xA;							Oceania.gif&#xD;&#xA;						" alt="Oceania">
+      <br>
+    </center>
+    <h2>Oceania</h2>
+    <p>In 2007 Missouri exported 
+					$237,173,613 
+					in goods to 
+					Oceania.
+					
+					<!-- increase--> 
+					Missouri exports to 
+							Oceania decreased from the previous year
+						by 
+							$59,846,508 a change of 
+							-25.23%. 
+						<!-- increase--> 
+					State exports to 
+							Oceania have increased over the last 5 years by 
+							$91,464,392 a change of 
+							38.56%.						</p>
+    <table>
+      <tr>
+        <th>Country</th>
+        <th>2006</th>
+        <th>2007</th>
+        <th>Change</th>
+      </tr>
+      <tr>
+        <td><a href="cty&#xD;&#xA;											6021.stm&#xD;&#xA;										">Australia</a> </td>
+        <td>267,203,353</td>
+        <td>206,797,614</td>
+        <td>-22.61%</td>
+      </tr>
+      <tr>
+        <td><a href="cty&#xD;&#xA;											6863.stm&#xD;&#xA;										">Fiji</a> </td>
+        <td>100,448</td>
+        <td>171,238</td>
+        <td>70.47%</td>
+      </tr>
+      <tr>
+        <td><a href="cty&#xD;&#xA;											6414.stm&#xD;&#xA;										">French Polynesia</a> </td>
+        <td>422,791</td>
+        <td>332,317</td>
+        <td>-21.4%</td>
+      </tr>
+      <tr>
+        <td><a href="cty&#xD;&#xA;											5683.stm&#xD;&#xA;										">Maldives</a> </td>
+        <td>103,130</td>
+        <td>385,242</td>
+        <td>273.55%</td>
+      </tr>
+      <tr>
+        <td><a href="cty&#xD;&#xA;											6810.stm&#xD;&#xA;										">Marshall Islands</a> </td>
+        <td>105,300</td>
+        <td>59,860</td>
+        <td>-43.15%</td>
+      </tr>
+      <tr>
+        <td><a href="cty&#xD;&#xA;											6820.stm&#xD;&#xA;										">Micronesia, Federated States Of</a> </td>
+        <td>27,803</td>
+        <td>52,799</td>
+        <td>89.9%</td>
+      </tr>
+      <tr>
+        <td><a href="cty&#xD;&#xA;											6412.stm&#xD;&#xA;										">New Caledonia</a> </td>
+        <td>186,228</td>
+        <td>346,852</td>
+        <td>86.25%</td>
+      </tr>
+      <tr>
+        <td><a href="cty&#xD;&#xA;											6141.stm&#xD;&#xA;										">New Zealand</a> </td>
+        <td>28,217,549</td>
+        <td>28,810,313</td>
+        <td>2.1%</td>
+      </tr>
+      <tr>
+        <td><a href="cty&#xD;&#xA;											6830.stm&#xD;&#xA;										">Palau</a> </td>
+        <td>3,459</td>
+        <td>NA</td>
+        <td>NA%</td>
+      </tr>
+      <tr>
+        <td><a href="cty&#xD;&#xA;											6040.stm&#xD;&#xA;										">Papua New Guinea</a> </td>
+        <td>164,498</td>
+        <td>51,585</td>
+        <td>-68.64%</td>
+      </tr>
+      <tr>
+        <td><a href="cty&#xD;&#xA;											6150.stm&#xD;&#xA;										">Samoa</a> </td>
+        <td>170,194</td>
+        <td>8,240</td>
+        <td>-95.16%</td>
+      </tr>
+      <tr>
+        <td><a href="cty&#xD;&#xA;											6223.stm&#xD;&#xA;										">Solomon Islands</a> </td>
+        <td>16,095</td>
+        <td>7,650</td>
+        <td>-52.47%</td>
+      </tr>
+      <tr>
+        <td><a href="cty&#xD;&#xA;											6143.stm&#xD;&#xA;										">Tokelau</a> </td>
+        <td>258,254</td>
+        <td>84,944</td>
+        <td>-67.11%</td>
+      </tr>
+      <tr>
+        <td><a href="cty&#xD;&#xA;											6224.stm&#xD;&#xA;										">Vanuatu</a> </td>
+        <td>41,019</td>
+        <td>64,959</td>
+        <td>58.36%</td>
+      </tr>
+      <tr>
+        <td>Total Exports</td>
+        <td>297,020,121</td>
+        <td>237,173,613</td>
+        <td>-25.23</td>
+      </tr>
+      <tr></tr>
+    </table>
+    <!--  Footer Table -->
+  <div class="footer" >
+	
+	|<a href="http://www.mo.gov/">State HomePage</a>|
+		<a href="http://ded.mo.gov/">DED HomePage</a>|
+		<a href="http://www.missourieconomy.org/about_us/site.stm">Site Map</a>|
+		
+		<a href="http://www.missourieconomy.org/about_us/links.stm">Links</a>|
+		<a href="http://www.missourieconomy.org/about_us/library.stm">Library</a>|
+		<a href="http://www.missourieconomy.org/about_us/faq.stm">FAQ</a>|
+		<a href="http://www.surveymonkey.com/s/WYKPGDN" target ="_blank">Feedback</a>|
+		<a href="http://www.missourieconomy.org/about_us/contactus.stm">Contact Us</a>|	
+		<br /><br />
+		<form  style="display:inline" method="get" action="http://search.mo.gov/search">
+			
+		<input type="hidden" name="site" value="missourieconomy" />
+		<input type="hidden" name="output" value="xml_no_dtd" />
+		<input type="hidden" name="client" value="missourieconomy" />
+		<input type="hidden" name="num" value="10" />
+		<input type="hidden" name="proxystylesheet" value="missourieconomy" />
+ 		<input type="submit" value="Submit" width="25" style="font-size: small;" />
+		<input type="text" name="q" size="30" />
+			  	
+		</form><br />
+	
+					
+</div>
+  <!--  End of Footer Table -->
+  <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7197466-3");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

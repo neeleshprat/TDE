@@ -1,0 +1,93 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+<head>
+
+<!-- IE7 / IE8 Compatibility Mode -->
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<!-- IE7 / IE8 Compatibility Mode -->
+
+<!-- lets try sifr again -->
+<link rel="stylesheet" href="../assets/css/sIFR-screen.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="../assets/css/sIFR-print.css" type="text/css" media="print" />
+
+<script src="../assets/js/jquery-1.3.2.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="../assets/js/base_system.js" type="text/javascript"></script>
+<script src="../assets/js/sifr.js" type="text/javascript"></script>
+<script src="../assets/js/sifr-addons.js" type="text/javascript"></script>
+<script src="../assets/js/callsifr.js" type="text/javascript"></script>
+
+<!-- now call our standard css -->
+<style type="text/css" media="screen">
+	@import url(../assets/css/base_system.css);
+	@import url(../assets/css/base_popup.css);
+</style>
+
+</head>
+<body>
+<div class="page_wrap" style="background:url(../assets/images/currencyconverter_bg.gif) no-repeat 100% -5px;">
+	<div style="width:500px;">
+	<h1>Currency Converter</h1>
+	<h2>Please note: currency conversions correct as of 8th April 2009.</h2>
+	</div>
+	For up-to-date conversions, visit <a href="http://www.xe.com" class="defaultlink" target="_blank">www.xe.com</a><br/>
+	<br/>
+	
+	<table class="defaulttable">
+		<tr>
+			<th class="pagecheck" style="width:200px;">&nbsp;</th>
+			<th>Beginner</th>
+			<th>Standard</th>
+			<th>Pro</th>
+		</tr>
+		<tr>
+			<td>United Kingdom (GBP ?)</td>
+			<td>5.00</td>
+			<td>7.00</td>
+			<td>15.00</td>
+		</tr>
+		<tr>
+			<td>Australia (AUD $)</td>
+			<td>10.33</td>
+			<td>14.47</td>
+			<td>31.02</td>
+		</tr>
+		<tr>
+			<td>Europe (EUR ?)</td>
+			<td>5.55</td>
+			<td>7.77</td>
+			<td>16.65</td>
+		</tr>
+		<tr>
+			<td>India (INR)</td>
+			<td>371.95</td>
+			<td>520.74</td>
+			<td>1116.01</td>
+		</tr>
+		<tr>
+			<td>United States (USD $)</td>
+			<td>7.35</td>
+			<td>10.29</td>
+			<td>22.06</td>
+		</tr>
+		<tr>
+			<td>South Africa</td>
+			<td>67.46</td>
+			<td>94.45</td>
+			<td>201.97</td>
+		</tr>
+		<tr>
+			<td>Canada (CAD $)</td>
+			<td>9.07</td>
+			<td>12.70</td>
+			<td>27.21</td>
+		</tr>		
+	</table>
+</div>
+
+	
+
+</body>
+</html>
+
+

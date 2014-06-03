@@ -1,0 +1,307 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="copyright" content="Copyright &copy; 2006 Alteiis - Appuy Createurs / Alexandre Benoit" />
+<meta name="author" content="Alteiis - Appuy Createurs / Alexandre Benoit" />
+<meta name="language" content="FR" />
+<meta name="revisit-after" content="7" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta name="verify-v1" content="2L7bTOZj6YMNUlnnYen04kHdvq496D1D4qM39884XxE=" />
+<title>APREF - Questions Fr?quentes</title>
+<meta name="title" content="Questions Fr?quentes" />
+<meta name="description" content="L'APREF ou Association des Professionnels de la R?assurance en France est la fusion de l'APREMAF, ARF et l'UREF et repr?sente les r?assureurs en France." />
+<meta name="keywords" content="APREF, Association des Professionnels de la R?assurance en France, r?assurance, assurance, courtiers, run-off, risque, APREMAF, ARF, UREF FFSA, SCOR, Gen Re" />
+<meta name="Generator" content="Joomla! - Copyright (C) 2005 - 2007 Open Source Matters. All rights reserved." />
+<meta name="robots" content="index, follow" />
+<base href="http://www.apref.org/" />
+	<link rel="shortcut icon" href="http://www.apref.org/images/favicon.ico" />
+	<link rel="stylesheet" href="/min/b=templates/apref/css&amp;f=apref20100702.css" type="text/css" media="all" />
+<!--[if lt IE 7]>
+  <link rel="stylesheet" href="/templates/apref/css/ie.css" type="text/css" media="all" />
+ <![endif]-->
+<script type="text/javascript" src="/min/b=templates/apref/js&amp;f=jquery-1.2.6.pack.js,jquery.corner2.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+$(".dm_nbdocs, p.definition,ul#organi div,div.membre").corner("5px");
+$("#colonne-droite").corner("10px bottom");
+$(".moduletable-linkex, .definition").corner("8px");
+$("#organi div").css("opacity",".8");
+$("#organi h3.titre").bind("click", function() {$(this).next("p").slideToggle("slow");});
+});
+</script>
+</head><body>
+<div id="page">
+	<div id="page-top"></div>
+	<div id="page-in">
+  <div id="banner1"><a href="/" title="Accueil" class="accueil"><span>Accueil / Start</span></a><div id="banner2"></div></div>
+  <div id="banner3">
+  <div class="inlft">
+  	     	 <ul class="menu_tool">
+<li><a href="http://www.apref.org" title="Fran?ais" target="_self"><img src="http://www.apref.org/templates/apref/images/flags/fr.png" alt="Fran?ais" /></a></li>
+<li><a href="http://www.apref.eu/index.php" title="English" target="_self"><img src="http://www.apref.org/templates/apref/images/flags/en.png" alt="English" /></a></li></ul>			</div>
+	 		<div class="moduletable">
+			
+<form action="index.php?option=com_search" method="get">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="20" alt="search" class="inputbox" type="text" size="20" value="search..."  onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';" />	</div>
+
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="" />	
+</form>		</div>
+				<div class="moduletable">
+			<div class="syndicate">
+			<div align="center">
+			<a href="http://www.apref.eu/component/option,com_rss/feed,RSS2.0/no_html,1/lang,en/">
+				<img src="http://www.apref.org/images/M_images/rss.gif"  alt="RSS 2.0" name="RSS20" align="middle" border="0" /></a>
+		</div>
+		</div>		</div>
+				<div class="moduletable">
+			<ul id="mainlevel_h2"><li class="mainlevel_h"><a class="mainlevel_h" target="_blank" href="https://interne.apref.org" rel="nofollow">Interne</a></li></ul>		</div>
+		 			<div class="moduletable">
+			<ul  id="mainlevel_h"><li class="mainlevel_h"><a href="http://www.apref.eu" class="mainlevel_h">Home</a></li><li class="mainlevel_h"><a href="http://www.apref.eu/en/contact-us.html" class="mainlevel_h">Contact Us</a></li><li class="mainlevel_h"><a href="http://www.apref.org/docs/task,doc_download/gid,149/Itemid,151/lang,fr/" target="_blank" class="mainlevel_h">Membership</a></li><li class="mainlevel_h"><a href="http://www.apref.eu/en/terms-of-use.html" class="mainlevel_h">Terms of Use</a></li></ul>		</div>
+			</div>
+
+  <div id="conteneur"><a name="contentstart" id="contentstart1"></a>
+
+    <div id="colonnes" class="clearfix">
+      <div id="colonne-gauche">
+
+	<ul  id="mainlevel"><li class="mainlevel"><a href="http://www.apref.eu/en/actualites/" class="mainlevel">News</a><ul ><li class="sublevel"><a href="http://www.apref.eu/en/calendar.html" class="sublevel">Calendar</a></li></ul></li><li class="mainlevel"><a href="http://www.apref.eu/en/presentation.html" class="mainlevel">Presentation</a><ul ><li class="sublevel"><a href="http://www.apref.eu/en/organization.html" class="sublevel">Organization</a></li><li class="sublevel"><a href="http://www.apref.eu/en/members.html" class="sublevel">Members</a></li></ul></li><li class="mainlevel_active"><a href="http://www.apref.eu/documents/task,cat_view/gid,23/Itemid,217/lang,en/" class="mainlevel_active">Documentation</a><ul ><li class="sublevel_current"><a href="http://www.apref.eu/en/faq.html" class="sublevel_current" id="active_menu">FAQ</a></li><li class="sublevel"><a href="http://www.apref.eu/glossary/Itemid,215/lang,en/" class="sublevel">Glossary</a></li></ul></li><li class="mainlevel"><a href="http://www.apref.eu/en/directory.html" class="mainlevel">Directory</a></li></ul>     	      </div>
+      <div id="colonne-droite" class="clearfix">
+             <div id="titre-droite">
+       	<h1>FAQ</h1>
+	   </div>
+<div id="sous-titre" class="faq"><div class="in"><div class="menu"></div></div></div> 	  <div id="contenu-droite">
+	  		  	 <div id="faqs" class="contentpaneopen">
+<h2 class="1">1&nbsp;&nbsp;What is the APREF ?</h2>
+<div class="1"><p>
+The APREF, created in June 2005, is the association of Reinsurance professionals in France. Fran&ccedil;ois Vilnet (PartnerRe) is at its current chairman.
+</p>
+<p>
+To know more about the APREF, you may consult the various headings: Presentation and Organisation on the website.
+</p>
+</div>
+<h2 class="2">2&nbsp;&nbsp;What is Reinsurance ?</h2>
+<div class="2"><p>
+In a simple way, Reinsurance could be described as &laquo; the Insurers' insurance &raquo;.
+</p>
+<p>
+In fact it is a contract by which a specialised firm (the reinsurer or the retrocessionaire) assumes part of the risks underwritten by an insurer (the ceding company) with its insured.
+</p>
+<p>
+Through this operation, in case of the risk being effective, the reinsurer is committed to reimburse the insurer part of the amounts, assigned as losses and as counterpart receives a share of the original premiums paid by one or the insured.
+</p>
+<p>
+In principle the Reinsurer only treats with the insurers, it is why the activity is very often unknown from the public.
+</p>
+</div>
+<h2 class="3">3&nbsp;&nbsp;Why do the insurers reinsure themselves ? </h2>
+<div class="3"><p>
+Just as an individual (an insured) must try to protect his assets (house, car...) and his closed ones against all sorts of hazards, an insurance company must equally measure and limit the exposure to its assets to avoid bankruptcy. So, every year it has to estimate its risks exposure, according to frequency and probability. Once this preliminary work is done, it can then better evaluate its reinsurance needs.
+</p>
+<p>
+Buying reinsurance allows, via a transfer of some risks to:
+</p>
+<ul>
+	<li>To give more homogeneity to the different kinds of underwritten risks
+	</li>
+	<li>To protect against the gaps in the results in space and time
+	</li>
+	<li>To limit the needs in equity
+	</li>
+</ul>
+</div>
+<h2 class="4">4&nbsp;&nbsp;How to reinsure oneself ?</h2>
+<div class="4"><p>
+There are two ways of reinsuring:
+</p>
+<p>
+<b>
+&laquo; facultative &raquo; reinsurance</b>
+</p>
+<p>
+In this case, it is a case of reinsuring individually a specific risk (for example a factory).
+</p>
+<p>
+&laquo; facultative &raquo; reinsurance is particular (as its name suggests) in the sense that it leaves the insurer the choice to cede or not the reinsurance, and to the reinsurer to accept or not the &laquo; named &raquo; reinsurance (no preliminary agreement).
+</p>
+<p>
+<b>
+The &laquo; treaty &raquo; or &laquo; compulsory &raquo; reinsurance</b>
+</p>
+<p>
+It is used to reinsure a community of risks (for example a whole motor insurance portfolio) rather than a single risk.
+</p>
+<p>
+In this case the reinsurance treaty is negotiated upstream (usually before the 1st of January every year, being the inception date for most treaties) and is compulsory that is to say it is an obligation for the insurer to cede all the risks of the concerned portfolio and an obligation for the reinsurer to accept them.
+</p>
+</div>
+<h2 class="5">5&nbsp;&nbsp;Who are the major global reinsurers ?</h2>
+<div class="5"><table style="border: 1px solid #999999; margin: 0px 2em; background-color: #fcfcfc; text-align: center" border="0">
+	<tbody>
+		<tr style="background-color: #ddc75a" align="center">
+			<td style="padding: 0px 10px; width: 50px; text-align: center" align="center">&nbsp;</td>
+			<td style="padding: 0px 10px; width: 200px; text-align: center" align="center">Name</td>
+			<td style="padding: 0px 10px; width: 160px; text-align: center" align="center">Country</td>
+			<td style="padding: 0px 10px; width: 100px; text-align: center" align="center">Turnover net 2008
+			(Billion USD)
+			</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>Munich Re </td>
+			<td>Germany</td>
+			<td>26.9</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>Swiss Re</td>
+			<td>Switzerland</td>
+			<td>24.0</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>Berkshire / Gen Re</td>
+			<td>United States</td>
+			<td>11.1</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>Hannover Re</td>
+			<td>Germany</td>
+			<td>10.0</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>SCOR</td>
+			<td>France</td>
+			<td>7.4<br />
+			</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>RGA</td>
+			<td>United States</td>
+			<td>5.3</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>Transatlantic Re</td>
+			<td>United States</td>
+			<td>4.1</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>Partner Re</td>
+			<td>Bermuda</td>
+			<td>4.0<br />
+			</td>
+		</tr>
+		<tr>
+			<td>11</td>
+			<td>Great West Life<br />
+			</td>
+			<td>Canada</td>
+			<td>3.7</td>
+		</tr>
+		<tr>
+			<td>12</td>
+			<td>Everest Re<br />
+			</td>
+			<td>Bermuda</td>
+			<td>2.9</td>
+		</tr>
+		<tr>
+			<td>13</td>
+			<td>XL Re<br />
+			</td>
+			<td>Bermuda</td>
+			<td>2.4</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+&nbsp;
+</p>
+</div>
+<h2 class="6">6&nbsp;&nbsp;What turnover for worldwide reinsurance ?  </h2>
+<div class="6"><p>
+In 2008, worldwide reinsurance turnover represented 4,152 billion euros of which 60% were life business and 40% non-life.
+</p>
+<p>
+Of this total amount of 4,152 billion euros, the ceded reinsurance represented around 190 billion euros (4.6%). Contrary to Insurance, Reinsurance is essentially a non-life business, this branch representing 65% of the premiums ceded to the reinsurers.
+</p>
+</div>
+<h2 class="7">7&nbsp;&nbsp;What control over the European reinsurers? solvency ?</h2>
+<div class="7"><p>
+Insurance is, above all, a question of trust. The insured trusts his insurer when paying up a premium towards covering losses which might happen sometimes much later.
+</p>
+<p>
+For a long time national institutions (such as the ACAM- French Insurance and Mutual Control Authority) have been put into place to check that the Insurer will meet his contractual commitments and they also regularly control the Insurance companies or mutuals' solvency (capacity to pay losses).
+</p>
+<p>
+By ceding some of the underwritten risks to the reinsurance market (see above), at the same time the insurer transfers a share of the insolvency risk (or credit) to the reinsurers.
+</p>
+<p>
+Until recently, the reinsurance activity was not regulated by any community legislation. Despite existing private firms (Rating Agencies) offering to evaluate the reinsurers' solvency, the non-existing state control could hinder exchanges in the single market and be a source of economic and legal uncertainty for all the European insurance players.
+</p>
+<p>
+The 2005-68 directive published in the official journal of 9th December 2005, is creating a proper Reinsurance Community market by recommending a self control system largely inspired from the provisions in force in Insurance.
+</p>
+<p>
+It notably puts forward the setting up of a consent system and of a financial control by the member State in which the supervised reinsurance firm has its head office. This consent will constitute &quot;a unique passport&quot; allowing to practice as a reinsurer in the whole of the European Union.
+</p>
+<p>
+The new Directive also includes new requirements to guarantee the reinsurers financial strength and the market stability.
+</p>
+</div>
+<h2 class="8">8&nbsp;&nbsp;Where can you learn Reinsurance ? </h2>
+<div class="8"><p>
+Following is an institution of the French market for learning the business of reinsurance.
+</p>
+<p>
+ENASS
+</p>
+<p>
+The French National Shool of Insurance Group offers numerous courses for qualifications and degrees in Reinsurance (short or long training inter or intra- companies). In particular it has a Top Institute of reinsurance (ISR) which delivers the &quot;reinsurance underwriter&quot; degree, granted as Level II. All the courses call recognised experts in the taught different subjects: proportional, non-proportional reinsurance, Civil Liability), life, marine and transport, credit risk, etc.
+</p>
+<p>
+<a href="http://www.enasgroup.com" class="lien-ext" target="_blank" title="Enas Group">
+http://www.enasgroup.fr/</a>  
+</p>
+</div>
+</div>
+   			
+		<table class="contentpaneopen">
+				<tr>
+			<td valign="top" colspan="2">
+							</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+		     	 
+		</div>
+      </div>
+	 </div>
+      
+</div>
+  <div id="footer"><a class="gohaut" href="#page" onclick="$('#page').ScrollTo(1000); return false;">Haut</a>Association des Professionnels de la R&eacute;assurance en France, 26 boulevard Haussman, 75009 Paris
+<img src="http://www.apref.org/index2.php?option=com_ebackup" width="0" height="0" alt="" />  <ul class="favoris">
+        		<li><a href="http://validator.w3.org/check?uri=referer" title="Validation XHTML 1.0!"><img alt="Test de validation XHTML 1.0! 0.269"  src="/templates/apref/images/xhtml101.png" /></a></li>
+      </ul></div>
+	</div>
+ <div id="page-bot">
+  </div>
+ </div>
+<div class="credits">
+</div>
+<script type="text/javascript" src="http://www.google-analytics.com/urchin.js"></script>
+<script type="text/javascript">
+_uacct = "UA-1302134-1";
+urchinTracker();
+</script>
+</body>
+</html><!-- 1328751317 -->

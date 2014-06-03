@@ -1,0 +1,570 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Aeroaccess Ihr Systemhaus f?r Mobile Communication</title>
+<meta name="description" content="aeroaccess ? Vertrauen verpflichtet. AEROACCESS steht f?r integrierte mobile Kommunikation. Wir sind auf den Entwurf, die Implementierung und das Management Ihrer mobilen Kommunikations- und Netzumgebungen ausgerichtet, um in diesen eine integrierte Gesch?ftskommunikation zu erm?glichen, die orts- und zeitunabh?ngig erfolgen kann">
+<meta name="keywords" content="aeroaccess, VAR, Systemintegrator, Security, Wireless, WLan, Switches, Switching, VoIP, Voice over IP, Wireless-LANs, Policy-based-Switching, IP im WAN, Infrastruktur, Intrusion-Detection-Systeme, Firewall, VPN, Virtual-Private-Networks, WLAN-Security, Appliance, Core, LAN, Airespace, Cisco, Colubris, HP, Modas, Motorola, Nearson, Power, Powerdsine, Aruba, Aruba Networks, Meru, Meru Networks, Huber, Suhner, Antennen, PC-Cards, PCMCIA, Service, Planung, Beratung, Kabel, HF, PoE, 802.3af, 802.3at, Power over Ethernet, Active Ethernet, Splitter, Injektor, Spectralink, Telefonie, WiFi, Gateway, Netlink, Gigabit, Array, applikation, RF, Mobil, mobilit?t, Enterprise, AP, Access, Accesspoint, Access Point, Detection, Protection, Rouge, rouque, Grid, Carrier, MAP, WAP, WPA, WPA2, PSK, 802.1x, Mimo, 802.11n, Radio Switch, Roaming, Interference, Voice, Data, Konverter, Pigtail, Coax, Outdoor, backhaul, Management, Multiradio, Schulung, Training, Seminar, G?stbox, Guestbox, Hotspot, Injector, Ruckus, Trapeze, Prevention, Wimax, 802.15">
+<link rel="stylesheet" type="text/css" href="/aeroaccess/css/style.css">
+</head>
+
+<body><a name="top"></a>
+<!-- Anfang Header -->
+  <div id="header">
+ <a href="/index.php"><img src="/aeroaccess/img_all/aeroaccess.gif" alt="Aeroaccess Ihr Systemhaus f?r Mobile Communication" width="218" height="93" border="0" style="float:left;"></a> 
+ </div>
+ <!-- Ende Header -->
+ <!-- Anfang Headnavi -->
+<div id="HeadNavi"><ul>
+<li><a href="/index.php" title="Start">Start</a></li><li><a href="/aeroaccess/Philosophie/philosophie.html" title="Philosophie">Philosophie</a></li><li><a href="/aeroaccess/Loesungen/loesungen.html" title="L?sungen">L?sungen</a></li><li><a href="/aeroaccess/Service/service.html" title="Service &amp; Support">Service &amp; Support</a></li><li><a href="/aeroaccess/News/index.php" class="active" title="News">News</a></li><li><a href="/aeroaccess/Ueber_uns/ueber_uns.html" style="background-image:none;" title="?ber uns">Infos</a></li></ul>
+</div>
+<!-- Anfang fuer Hauptrahmen -->
+<div id="Hauptrahmen">
+<!-- Anfang fuer Subnavigation  -->
+
+
+
+
+
+
+
+
+
+<div id="SubNavi"><ul>
+<li><a href="/aeroaccess/News/Aktuelle_Sicherheitshinweise/index.php" title="Aktuelle Sicherheitshinweise">Akt. Sicherheitshinweise</a></li><li><a href="/aeroaccess/News/Presse/index.php" title="Presse">Presse</a></li><li><a href="/aeroaccess/News/Pressemitteilungen/index.php" title="">Pressemitteilungen</a></li><li><a href="/aeroaccess/News/Presseartikel/index.php" class="active" title="">Presseartikel</a></li><li><a href="/aeroaccess/News/Rechtliches/index.php" title="Rechtliches">Rechtliches</a></li></ul></div>
+<!-- Ende Subnavigation  -->
+<!-- Anfang Contentbereich -->
+ <div id="ContentHeader">
+<div class="FullBanner"><img src="/aeroaccess/img_all/spacer.gif" alt="" width="1" height="32" style="float:right;">
+<script language="JavaScript" type="text/javascript">
+<!--
+	r = Math.random();
+   document.write ("<" + "script language=\"JavaScript\" type=\"text/javascript\" src=\"/webEdition/getBanner.php?r="+r+"&amp;link=1&amp;bannername=News&amp;type=js&amp;did=505&amp;paths=&amp;target=_blank&amp;bannerclick=%2FwebEdition%2Fbannerclick.php&amp;height=&amp;width="+(document.referer ? ("&amp;referer="+escape(document.referer)) : "")+"\"><" + "/script>");
+//-->
+</script><noscript><a href="/webEdition/bannerclick.php?u=9f33836df095364af5da50ec5d739599&amp;bannername=News&amp;did=505" target="_blank"><img src="/webEdition/getBanner.php?c=1&amp;bannername=News&amp;cats=%2C8%2C&amp;dt=17&amp;paths=&amp;did=505&amp;bannerclick=%2FwebEdition%2Fbannerclick.php&amp;xml=0" alt="" border="0"></a></noscript>
+<div class="ClearRight"><img src="/aeroaccess/img_all/spacer.gif" alt=""></div>
+</div>
+   	<!-- Anfang Newsbereich -->
+  <div class="Datum">30.05.2008</div>
+         <h2>WLAN 802.11 b/g und 802.11a/h ?bersicht Frequenzen und Kan?le </h2>
+ 
+  
+</div>  
+<div id="Content2">
+		                <img src="/aeroaccess/images/ISM2400MHz_Kanalbelegung_260x128.jpg" alt="" width="1" height="1" name="ImgNews" class="Right" /> 
+            	    	<h1></h1>
+       	<SPAN class=text><STRONG>Nachdem immer wieder Missverst?ndnisse zu den einzelnen Bezeichnungen der WLAN-Bereiche des 2,4 GHz und des 5 GHz Frequenzbandes vorkommen, haben wir die wichtigsten Informationen hier zusammengestellt.<BR></STRONG><BR>Dabei ist allerdings zu beachten, dass gerade im 5 GHz Bereich nach wir vor von einzelnen L?ndern ?nderungen in der Zulassung vorgenommen werden. Gleiches gilt f?r die Praxisumsetzung: Hier wurde in konkreten F?llen von den Zulassungsbestimmungen abgewichen. Leider k?nnen wir all diese Vorg?nge nur insofern dokumentieren, wie sie bekannt werden. Aussagen seitens der Hersteller sollten nur dann als Fakt angenommen werden, wenn diese auch schriftlich vorliegen. Im Zweifelsfall sollten man sich mit den Regulierungsbeh?rden der L?ndern in Verbindung setzen; aus der Erfahrung heraus geben diese gerne Auskunft.<BR><BR><STRONG>Einen aktuellen Hinweis m?chten wir vorab vermitteln:</STRONG><BR>In 2008 wurden&nbsp;f?r die&nbsp;USA und Israel die gesetzlichen Bestimmungen derart ge?ndert, da? WiFi-Produkte in diesen L?ndern nur noch mit festen L?ndercodes verkauft werden d?rfen. Die bisher und sonst ?bliche Implementierung, die L?ndereinstellungen ?ber das Management konfigurierbar auszuf?hren,&nbsp;mu?te entfernt werden. Ebenso ist es nicht erlaubt, dies ?ber einen Firmware-Update zu umgehen.<BR><SPAN class=Magenta><SPAN>Achten Sie bitte beim Bezug Ihrer Produkte unbedingt darauf, da? es sich um keine US- oder IL-Zulassung handelt. Dies kommt nicht nur bei sog. Grau- oder Direkt-Importen vor, sondern auch bei regul?rer Handelsware mit Ursprungsort USA oder Israel. Alle von uns&nbsp;importierte Ware, auch aus diesen L?ndern, entspricht den g?ltigen EU-Richtlinien.</SPAN><SPAN><BR></SPAN></SPAN></SPAN><SPAN class=text>&nbsp;<BR></SPAN>ETS oder World, oder...<BR><BR>WLANs nach 802.11b/g oder 802.11a/h wurden f?r den Betrieb im ISM-Band (Industrial Scientific Medical-Band) freigegeben. Der Betrieb innerhalb dieser Frequenzbereiche ist lizenzfrei m?glich, unterliegt aber den generellen gesetzlichen Bestimmungen und Normen der einzelnen L?ndern.<BR><BR>Dies sind im einzelnen:<BR><BR>
+<TABLE cellPadding=2 border=1>
+<TBODY>
+<TR>
+<TD>&nbsp;Region</TD>
+<TD>&nbsp;Norm</TD></TR>
+<TR>
+<TD>&nbsp;USA</TD>
+<TD>&nbsp;FCC (47 CFR) Part 15C, Section 15.247</TD></TR>
+<TR>
+<TD>&nbsp;Kanada</TD>
+<TD>&nbsp;ISC RSS210 </TD></TR>
+<TR>
+<TD>&nbsp;Europa</TD>
+<TD>&nbsp;ETS 300-328, CE Kennzeichnung </TD></TR>
+<TR>
+<TD>&nbsp;Japan</TD>
+<TD>&nbsp;Telec Radio Regulations </TD></TR></TBODY></TABLE><BR>
+<P>In der Praxis haben sich daf?r abweichende Begriffe eingeb?rgert, die nachfolgend zusammengestellt sind:<BR><BR></P>
+<P>
+<TABLE cellPadding=2 border=1>
+<TBODY>
+<TR>
+<TD>&nbsp;Bezeichnung</TD>
+<TD>&nbsp;Bereich / L?nder </TD></TR>
+<TR>
+<TD>&nbsp;FCC (World)</TD>
+<TD>&nbsp;USA, Canada, Mexiko, Australien</TD></TR>
+<TR>
+<TD>&nbsp;ETSI (ETS)</TD>
+<TD>&nbsp;weite Bereiche Europas, UK, einige Ostblockl?nder</TD></TR>
+<TR>
+<TD>&nbsp;ETSI FR</TD>
+<TD>&nbsp;Frankreich (z.T. abweichende Zulassung) </TD></TR>
+<TR>
+<TD>&nbsp;IL</TD>
+<TD>&nbsp;Israel</TD></TR>
+<TR>
+<TD>&nbsp;SG</TD>
+<TD>&nbsp;Singapore</TD></TR>
+<TR>
+<TD>&nbsp;TW</TD>
+<TD>&nbsp;Taiwan</TD></TR>
+<TR>
+<TD>&nbsp;MKK</TD>
+<TD>&nbsp;Japan</TD></TR>
+<TR>
+<TD>&nbsp;ASIA</TD>
+<TD>&nbsp;China, Hong Kong, S?dkorea</TD></TR></TBODY></TABLE></P>
+<P><BR><BR>F?r Wireless LANs wurden zwei ISM-B?nder zur generellen Benutzung freigegeben:<BR><BR><STRONG>2,4 GHz f?r 802.11b und 802.11g<BR><BR></STRONG>Der 2,4 GHz-Bereich wird bereits seit Jahren zur ?bertragung von WLANs benutzt. ?nderungen haben sich zuletzt nur insofern ergeben, dass weitere L?nder diesen Bereich national freigegeben haben oder dass f?r 802.11g Einschr?nkungen vorgenommen wurden.<BR><BR>Beide Normen verwenden den gleichen Frequenzbereich und die gleichen Kan?le. Es wurden die nachfolgenden Mittelpunktsfrequenzen sowie eine Bandbreite pro Kanal von +/- 11 MHz festgelegt. Beispiel Kanal 1: Mittelpunktfrequenz 2412 MHz (2,412 GHz), -11 MHz = 2401 MHz, +11 MHz = 2423 MHz. Daraus folgend sind 14 Kan?le definiert, von denen aber nur bis zu 4 ?berschneidungsfrei nutzbar sind.<BR><BR><IMG height=270 alt="" src="/aeroaccess/images/ISM2400MHz_Kanalbelegung.jpg" width=550><BR><SPAN class=Bildunterschrift>Kanalverteilung 2,4 GHz ISM Band (Quelle Agere)</SPAN><BR><BR>L?nderspezifisch wurden zus?tzliche Einschr?nkungen von den Regulierungsbeh?rden vorgenommen. Nachfolgende Kan?le d?rfen regional genutzt werden (Freqenzangaben in GHz):<BR><BR></P>
+<P>
+<TABLE cellPadding=2 border=1>
+<TBODY>
+<TR>
+<TD>&nbsp;Kanal </TD>
+<TD>&nbsp;FCC (World)</TD>
+<TD>&nbsp;ETSI (ETS)</TD>
+<TD>&nbsp;Frankreich</TD>
+<TD>&nbsp;Japan (MKK)</TD>
+<TD>&nbsp;Israel (IL)</TD>
+<TD>&nbsp;Hinweis&nbsp;</TD></TR>
+<TR>
+<TD>&nbsp;1</TD>
+<TD>&nbsp;2,412</TD>
+<TD>&nbsp;2,412</TD>
+<TD>&nbsp;-&nbsp;</TD>
+<TD>&nbsp;2,412</TD>
+<TD>&nbsp;-&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD>&nbsp;2</TD>
+<TD>&nbsp;2,417</TD>
+<TD>&nbsp;2,417</TD>
+<TD>&nbsp;-&nbsp;</TD>
+<TD>&nbsp;2,417</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD>&nbsp;3</TD>
+<TD>&nbsp;2,422</TD>
+<TD>&nbsp;2,422</TD>
+<TD>&nbsp;-&nbsp;</TD>
+<TD>&nbsp;2,422&nbsp;</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD>&nbsp;4</TD>
+<TD>&nbsp;2,427</TD>
+<TD>&nbsp;2,427</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;2,427</TD>
+<TD>&nbsp;2,427</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD>&nbsp;5</TD>
+<TD>&nbsp;2,432</TD>
+<TD>&nbsp;2,432&nbsp;</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;2,432&nbsp;</TD>
+<TD>&nbsp;2,432&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD>&nbsp;6</TD>
+<TD>&nbsp;2,437</TD>
+<TD>&nbsp;2,437&nbsp;</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;2,437&nbsp;</TD>
+<TD>&nbsp;2,437&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD>&nbsp;7</TD>
+<TD>&nbsp;2,442</TD>
+<TD>&nbsp;2,442&nbsp;</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;2,442&nbsp;</TD>
+<TD>&nbsp;2,442&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD>&nbsp;8</TD>
+<TD>&nbsp;2,447</TD>
+<TD>&nbsp;2,447&nbsp;</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;2,447&nbsp;</TD>
+<TD>&nbsp;2,447&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD>&nbsp;9</TD>
+<TD>&nbsp;2,452</TD>
+<TD>&nbsp;2,452</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;2,452</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD>&nbsp;10</TD>
+<TD>&nbsp;2,457</TD>
+<TD>&nbsp;2,457</TD>
+<TD>&nbsp;2,457</TD>
+<TD>&nbsp;2,457</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD>&nbsp;11</TD>
+<TD>&nbsp;2,462</TD>
+<TD>&nbsp;2,462</TD>
+<TD>&nbsp;2,462</TD>
+<TD>&nbsp;2,462</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD>&nbsp;12</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;2,467</TD>
+<TD>&nbsp;2,467</TD>
+<TD>&nbsp;2,467</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD>&nbsp;13</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;2,472</TD>
+<TD>&nbsp;2,472&nbsp;</TD>
+<TD>&nbsp;2,472&nbsp;</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD>&nbsp;14</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;2,484</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;nur 802.11b</TD></TR></TBODY></TABLE></P>
+<P>F?r den Bereich der ETSI (u.a. D/A/CH Deutschland, ?sterreich, Schweiz) bedeutet dies max. 3 gleichzeitig nutzbare Kan?le.<BR><BR>Die max. zul?ssige Sendeleistung (EIRP) betr?gt 100 mW = 20 dBm. Herstellerseitig werden diese Werte nicht immer voll ausgenutzt.<BR><BR><STRONG>5 GHz f?r 802.11a (und 802.11h)<BR><BR></STRONG>802.11a wird in den USA bereits seit Jahrzehnten genutzt. In Europa hatten sowohl die ETSI als auch die nationalen Regulierungsbeh?rden mit diesem Standard lange Zeit Probleme. Seit Ende 2002 haben die ersten L?nder mit der Umsetzung begonnen, allerdings wesentlich restriktiver als in USA. In Folge gibt es auch heute noch L?nder, die die Benutzung dieses Frequenzbandes komplett untersagen oder so drastisch einschr?nken, da? an eine sinnvolle Nutzung nicht zu denken ist. <BR><BR><STRONG>802.11h<BR></STRONG><BR>Um die Harmonisierung in Europa voranzutreiben wurde der Standard 802.11h definiert. Die wichtigsten Unterschiede ist die Implementierung der zus?tzlichen Funktionen DFS (dynamic frequence selection) und TPS (transmit power control). Beides wird eingesetzt, um St?rungen gegen?ber anderen Ger?ten, z.B. im Radarbereich, zu unterbinden.<BR>Dank neuer Chips?tze und den Bem?hungen der Hersteller sind bei allen neuen Produkten diese Funktionen implementiert. Somit sind alle uns bekannten Produkte nach 802.11h zertifiziert. Man sollte sich aber zur Sicherheit diese Funktion und vorallem die effektive interne Sendeleistung pro ben?tigtem 5 GHz Frequenzband (Low-, Middle, High-, ggfs. Upper-band) best?tigen lassen. L?ngst nicht alle Hersteller haben alle m?glichen Frequenzbereiche integriert und/oder nutzen die max. zul?ssige Leistung. In Folge ist evtl. die Reichweite eingeschr?nkt und/oder es stehen nicht alle Kan?le zur Verf?gung. Besonders problematisch, wenn damit z.B. eine WAN-Strecke realisiert werden soll.<BR><BR><STRONG>5 GHz Frequenzbereiche und Kan?le<BR><BR></STRONG>Das 5 GHz Band wird in f?nf Bereichen unterschieden. <BR>?&nbsp; a) Das Lower Band von 5,150 GHz bis 5,250 GHz<BR>?&nbsp; b) Das Middle Band von 5,250 GHz bis 5,350 GHz<BR>?&nbsp; c) Das Higher Band von 5,470 GHz bis 5,725 GHz<BR>?&nbsp; d) Das Upper Band von 5,725 GHz bis 5,825 GHz<BR>?&nbsp; e) Der ISM-Kanal 165 bei 5,825 GHz<BR><BR>Die B?nder a-c sind im 802.11a/h- bzw. Hiperlan-Standard spezifiziert.<BR>Das Band d ist darin nicht definiert, allerdings steht es f?r lizenzfreie Systeme zur Verf?gung.<BR>Kanal 165 liegt noch im ISM-Bereich, die Kanalbandbreite steht aber nach oben nicht zur Verf?gung.<BR>Generell wurde die Kanalbandbreite im 5 GHz Band mit 20 MHz festgelegt, genauso wie das Kanalraster mit ebenfalls 20 MHz.<BR>In der Praxis stehen damit im Lower Band 4 ?berlappungsfreie Kan?le zur Verf?gung, im Middle Band ebenfalls 4, im High-Band 11, im Upper-Band nochmals 4 und im ISM-Band quasi 1/2.<BR><BR>Die Kanalaufteilung und Zulassung im Detail:<BR><BR></P>
+<P>
+<TABLE cellPadding=2 border=1>
+<TBODY>
+<TR>
+<TD>&nbsp;Band</TD>
+<TD>&nbsp;Kanal</TD>
+<TD>&nbsp;FCC (World)</TD>
+<TD>&nbsp;ETSI (ETS)</TD>
+<TD>&nbsp;Japan (MKK)</TD>
+<TD>&nbsp;Singapore (SG)</TD>
+<TD>&nbsp;Asien</TD>
+<TD>&nbsp;Taiwan (TW)</TD></TR>
+<TR>
+<TD>&nbsp;L (Lower Band)</TD>
+<TD>&nbsp; 34</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;5,170</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD></TR>
+<TR>
+<TD>&nbsp;36 = default</TD>
+<TD>&nbsp; 36</TD>
+<TD>&nbsp;5,180</TD>
+<TD>&nbsp;5,180</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;&nbsp;5,180</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-&nbsp;</TD></TR>
+<TR>
+<TD>&nbsp;34 = default MKK</TD>
+<TD>&nbsp; 38</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;5,190</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD></TR>
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp; 40</TD>
+<TD>&nbsp;5,200</TD>
+<TD>&nbsp;5,200</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;5,200</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD></TR>
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp; 42</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;5,210</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD></TR>
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp; 44</TD>
+<TD>&nbsp;5,220</TD>
+<TD>&nbsp;5,220</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;5,220&nbsp;</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD></TR>
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp; 46</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;5,230</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD></TR>
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp; 48</TD>
+<TD>&nbsp;5,240</TD>
+<TD>&nbsp;5,240</TD>
+<TD>&nbsp;-&nbsp;</TD>
+<TD>&nbsp;5,240&nbsp;&nbsp;</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD></TR>
+<TR>
+<TD>&nbsp;M (Middle Band)</TD>
+<TD>&nbsp; 52</TD>
+<TD>&nbsp;5,260</TD>
+<TD>&nbsp;5,260</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;5,260</TD></TR>
+<TR>
+<TD>&nbsp;52 = default</TD>
+<TD>&nbsp; 56</TD>
+<TD>&nbsp;5,280&nbsp;</TD>
+<TD>&nbsp;5,280</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;5,280&nbsp;</TD></TR>
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp; 60</TD>
+<TD>&nbsp;5,300&nbsp;</TD>
+<TD>&nbsp;5,300</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;5,300&nbsp;</TD></TR>
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp; 64</TD>
+<TD>&nbsp;5,320&nbsp;</TD>
+<TD>&nbsp;5,320</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;5,320</TD></TR>
+<TR>
+<TD>&nbsp;H (High Band)</TD>
+<TD>&nbsp;100</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;5,500</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD></TR>
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;104</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;5,520</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD></TR>
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;108</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;5,540</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD></TR>
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;112</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;5,560</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD></TR>
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;116</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;5,580</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD></TR>
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;120</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;5,600</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD></TR>
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;124</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;5,620</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD></TR>
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;128</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;5,640</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD></TR>
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;132</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;5,660</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD></TR>
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;136</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;5,680</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD></TR>
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;140</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;5,700</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD></TR>
+<TR>
+<TD>&nbsp;U (Upper Band)</TD>
+<TD>&nbsp;149</TD>
+<TD>&nbsp;5,745</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;5,745</TD>
+<TD>&nbsp;5,745</TD>
+<TD>&nbsp;5,745</TD></TR>
+<TR>
+<TD>&nbsp;149 = default</TD>
+<TD>&nbsp;153</TD>
+<TD>&nbsp;5,765</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;5,765</TD>
+<TD>&nbsp;5,765</TD>
+<TD>&nbsp;5,765</TD></TR>
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;157</TD>
+<TD>&nbsp;5,785</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;5,785</TD>
+<TD>&nbsp;5,785</TD>
+<TD>&nbsp;5,785</TD></TR>
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;161</TD>
+<TD>&nbsp;5,805</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;5,805</TD>
+<TD>&nbsp;5,805</TD>
+<TD>&nbsp;5,805</TD></TR>
+<TR>
+<TD>&nbsp;ISM Band</TD>
+<TD>&nbsp;165</TD>
+<TD>&nbsp;5,825</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;5,825</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;5,825</TD></TR></TBODY></TABLE></P>
+<P><BR>Noch unterschiedlicher wird die Thematik hinsichtlich der f?r die einzelnen B?nder zugelassenen Sendeleistung pro Land. Nimmt man Deutschland als Beispiel, so ist f?r die L-M-B?nder 200 mW Sendeleistung f?r Indoor-Anwendungen erlaubt, sofern DFS und TPC integriert ist. Ist nur TPC genutzt, so reduziert sich der Wert auf 60 mW, ohne TPC und DFS auf 30 mW (siehe Anlage: RegTP Verf?gung). In der Paxis sind aber auch Ger?te zu finden, die ?ber kein TPC verf?gen und trotzdem mit mehr als 30 mW zugelassen wurden. Desweiteren sind, anders als im 2,4 GHz Bereich, auch Zulassungen zu finden, die nur f?r ganz spezifische Kombinationen von Ger?ten und Antennen gelten, oder z.T. auch nur f?r Ger?te mit deren integrierten Antennen.<BR><BR>Die hier ?bermittelten Werten k?nnen deshalb nur als Anhaltswerte dienen und den Stand der Normung bzw. Zulassung widerspiegeln. Herstellerspezifische Details findet man i.d.R. auf deren Webseite, in den Zulassungspapieren oder auf Anfrage. <BR><BR>Zugelassene Abtrahleistungen und Bereiche 5 GHz<BR><BR></P>
+<P>
+<TABLE cellPadding=2 border=1>
+<TBODY>
+<TR>
+<TD>&nbsp;Land</TD>
+<TD>&nbsp;L-Band</TD>
+<TD>M-Band</TD>
+<TD>&nbsp;H-Band</TD>
+<TD>&nbsp;U-Band</TD>
+<TD>&nbsp;Anmerkung</TD></TR>
+<TR>
+<TD>&nbsp;USA</TD>
+<TD>&nbsp; 50 mW</TD>
+<TD>&nbsp;250 mW</TD>
+<TD>&nbsp;-&nbsp;</TD>
+<TD>&nbsp;4 W&nbsp;</TD>
+<TD>L nur Indoor, nur interne Antennen, H in Freigabe</TD></TR>
+<TR>
+<TD>&nbsp;Kanada&nbsp;</TD>
+<TD>&nbsp;200 mW&nbsp;</TD>
+<TD>&nbsp;250 mW</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;4 W&nbsp;</TD>
+<TD>L nur Indoor, nur interne Antennen, H in Freigabe</TD></TR>
+<TR>
+<TD>&nbsp;Deutschland</TD>
+<TD>&nbsp;200 mW</TD>
+<TD>&nbsp;200 mW</TD>
+<TD>&nbsp;1 W</TD>
+<TD>&nbsp;-</TD>
+<TD>L+M nur Indoor, ohne DFS/TPC reduziert auf 30 mW, ohne DFS reduziert auf 60 mW, H In/Outdoor&nbsp;</TD></TR>
+<TR>
+<TD>&nbsp;?sterreich</TD>
+<TD>&nbsp; 60 mW</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;25 mW</TD>
+<TD>L nur Indoor, aktuelle ?nderungen&nbsp;</TD></TR>
+<TR>
+<TD>&nbsp;Schweiz</TD>
+<TD>&nbsp;200 mW</TD>
+<TD>&nbsp;200 mW</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>L+M nur Indoor, ohne DFS und TPC reduziert auf 60mW, ohne DFS oder TPC reduziert auf 120mW</TD></TR>
+<TR>
+<TD>&nbsp;Italien</TD>
+<TD>&nbsp;200 mW&nbsp;</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>Generell Zulassung erforderlich, Freigabe wird aktuell erwartet</TD></TR>
+<TR>
+<TD>&nbsp;Spanien</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>&nbsp;-</TD>
+<TD>Aktuell keine Zulassung</TD></TR></TBODY></TABLE></P>
+<P><BR>Wichtiger Hinweis: Alle Angaben dieses Artikels ohne Gew?hr; ?nderungen vorbehalten.<BR><BR><STRONG>Zusammenfassung<BR><BR></STRONG><SPAN class=Magenta>Das Design von WLAN-Systemen ist in der Praxis kein Hexenwerk, allerdings auch nicht einfachst zu durchschauen. Wer sich selbst an die Materie wagen will, der sollte sich vern?nftig informieren. Denn es gilt: Der Betreiber eines WLAN-Systems ist f?r dessen Funktion und f?r die Einhaltung der gesetzlichen Bestimmungen verantwortlich - kein anderer.<BR><BR></SPAN>Oder man ?bergibt die Planung einem Spezialisten:<BR><BR>
+<HR>
+<BR><STRONG>Copyright und weitere Informationen:</STRONG> <BR>Thomas Roedel<BR>Aeroaccess GmbH<BR>Klenzestr. 1<BR>D-85737 Ismaning <BR>Tel: 089 - 380 128 370<BR>E-Mail: <A href="mailto:info@aeroaccess.de">info@aeroaccess.de</A> <BR>Web: <A href="/">www.aeroaccess.de</A><BR>
+
+<HR>
+
+<P>Weiterf?hrende Links:<BR>RegTP Verf?gung 35/2002 vom 13.11.2002</P>	 <p><img src="/aeroaccess/img_all/spacer.gif" alt=""></p>
+<div id="Zurueck"><a href="javascript:history.back()"> zur&uuml;ck</a></div>
+<!-- Ende Contentbereich -->
+</div><br clear="all" />
+<!-- Ende Hauptrahmen  -->
+</div>
+<!-- Anfang Footer -->
+<div id="Footer"><a href="#top" class="top">zum Seitenanfang</a> | ? aeroaccess GmbH | Telefon +49 (0) 89-380 128-370 | <a href="mailto:info@aeroaccess.de">info@aeroaccess.de</a>?| <a href="/aeroaccess/Ueber_uns/impressum.html">Impressum</a></div>
+<img src="/webEdition/getBanner.php?type=pixel&amp;paths=&amp;bannername=statistik&amp;cats=&amp;dt=&amp;did=349&amp;xml=0" border="0" alt="" width="1" height="1"></body>
+</html>

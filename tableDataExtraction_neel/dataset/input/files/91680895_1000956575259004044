@@ -1,0 +1,542 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+  <head>
+    <title>Items :: Browns Equipment Trader, LLC :: The Power Generating Authority</title>
+    <base href="http://www.brownsequipment.com/" />
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />    <link rel="stylesheet" type="text/css" href="/css/screen.css" />    <link rel="stylesheet" type="text/css" href="/css/lightbox/lightbox.css" />    <script type="text/javascript" src="/js/jquery/jquery.js"></script>    <script type="text/javascript">jQuery.noConflict();</script>    <script type="text/javascript" src="/js/prototype/prototype.js"></script>    <script type="text/javascript" src="/js/scriptaculous/scriptaculous.js?load=effects"></script>    <script type="text/javascript" src="/js/lightbox/lightbox.js"></script>    <script type="text/javascript" src="/js/lightbox/lightbox_loader.js"></script>    <script type="text/javascript" src="/js/imagegallery.js"></script>    <script type="text/javascript" src="/js/datatable.js"></script>    <script type="text/javascript" src="/js/filters.js"></script>    	
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3427472-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+    <script>
+    jQuery(document).ready(function(){
+      jQuery('#primary-links img').hover(function(){
+      	var img = jQuery(this).attr('src');
+        var newimg = img.replace(/.jpg/,'_on.jpg');
+        jQuery(this).attr('src',newimg);
+      },function(){
+      	var img = jQuery(this).attr('src');
+        var newimg = img.replace(/_on.jpg/,'.jpg');
+        jQuery(this).attr('src',newimg);
+      });
+    });
+    </script>
+	
+	
+  </head>
+  <body>
+
+    <div id="page-container">
+      <div id="page">
+        <div id="header">
+          <a href="/items/home" ><img src="/img/banners/banner3.jpg" alt="Home" /></a>        </div>
+
+        <div id="primary-links">
+
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="1000" height="51">
+            <param name="movie" value="media/nav.swf" />
+            <param name="quality" value="high" />
+            <embed src="media/nav.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="1000" height="51"></embed>
+          </object>
+		  
+		  
+		  
+        </div>
+        <div class="clear"></div>
+        <table cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td>
+
+      <div class="intro">
+        <h1><b>Available</b> Equipment</h1>
+        <img src="/img/template/pic_items.jpg" alt="pic" align="left" style="margin: 0 20px 20px 10px;" />        <p style="margin:10px;"><b>You can browse</b> through the many items we have available right here.  You can filter the results by clicking any of the options on the right menu. If you are interested in purchasing, or have any questions about any of our equipment please feel free to contact us.</p>
+        <div class="clear"></div>
+      </div>
+
+      
+      <div align="center">
+      <table cellpadding="10" cellspacing="0" border="0">
+        <tr>
+          <td>
+            <h3>
+              <b>Item List</b>
+                                                                                                              </h3>
+
+      <table cellpadding="0" cellspacing="0" class="data">
+
+        <tr>
+          <th><a href="/items/index/direction-DESC" >ID&nbsp;<img src="/img/action/arrow_down.gif" alt="Down" title="Click To Sort Ascending" /></a></th>
+          <th>Image</th>
+          <th><a href="/items/index/sortBy-name" >Name</a></th>
+          <th><a href="/items/index/sortBy-name/sortByClass-Category" >Category</a></th>
+          <th><a href="/items/index/sortBy-name/sortByClass-ItemManufacturer" >Manufacturer</a></th>
+          <th><a href="/items/index/sortBy-name/sortByClass-ItemFuel" >Fuel</a></th>
+          <th><a href="/items/index/sortBy-name/sortByClass-ItemFrequency" >Frequency</a></th>
+          <th><a href="/items/index/sortBy-name/sortByClass-ItemStatus" >Status</a></th>
+          <th><a href="/items/index/sortBy-name/sortByClass-Country" >Country</a></th>
+        </tr>
+
+                        <tr class="odd">
+          <td>
+            <a href="/items/view/1" >1</a>          </td>
+          <td>
+                          &nbsp;
+                      </td>
+          <td><div align="left">TEST ITEM&nbsp;</div></td>
+          <td>Boilers&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>Sold!&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+                <tr class="even">
+          <td>
+            <a href="/items/view/24" >24</a>          </td>
+          <td>
+                          <a href="/items/view/24" ><img src="/img/../files/item_files/thumbs/5838.w-80_h-60_zc-1.jpg" alt="9.9 MW Caterpillar Diesel Power Plant" class="thumb" /></a>                      </td>
+          <td><div align="left">9.9 MW Caterpillar Diesel Power Plant&nbsp;</div></td>
+          <td>Generator Set (Power Plant)&nbsp;</td>
+          <td>Caterpillar&nbsp;</td>
+          <td>Diesel&nbsp;</td>
+          <td>50-60 Hz&nbsp;</td>
+          <td>Available&nbsp;</td>
+          <td>Sweden&nbsp;</td>
+        </tr>
+                <tr class="odd">
+          <td>
+            <a href="/items/view/42" >42</a>          </td>
+          <td>
+                          <a href="/items/view/42" ><img src="/img/../files/item_files/thumbs/4423.w-80_h-60_zc-1.jpg" alt="2 x 12.5 MW Pielstick Diesel Gensets Power Plant" class="thumb" /></a>                      </td>
+          <td><div align="left">2 x 12.5 MW Pielstick Diesel Gensets Power Plant&nbsp;</div></td>
+          <td>Generator Set (Power Plant)&nbsp;</td>
+          <td>Pielstick&nbsp;</td>
+          <td>Heavy Fuel Oil&nbsp;</td>
+          <td>50-60 Hz&nbsp;</td>
+          <td>Available&nbsp;</td>
+          <td>Western Europe&nbsp;</td>
+        </tr>
+                <tr class="even">
+          <td>
+            <a href="/items/view/43" >43</a>          </td>
+          <td>
+                          &nbsp;
+                      </td>
+          <td><div align="left">60 x 10MW diesel genset Power Plant&nbsp;</div></td>
+          <td>Generator Set (Power Plant)&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>Diesel&nbsp;</td>
+          <td>50Hz&nbsp;</td>
+          <td>Available&nbsp;</td>
+          <td>Western Europe&nbsp;</td>
+        </tr>
+                <tr class="odd">
+          <td>
+            <a href="/items/view/93" >93</a>          </td>
+          <td>
+                          &nbsp;
+                      </td>
+          <td><div align="left">3 x 4.1 MW Wartsila Generator Set&nbsp;</div></td>
+          <td>Generator Set (Packages)&nbsp;</td>
+          <td>Wartsila&nbsp;</td>
+          <td>Fuel Gas&nbsp;</td>
+          <td>60Hz&nbsp;</td>
+          <td>Available&nbsp;</td>
+          <td>United States&nbsp;</td>
+        </tr>
+                <tr class="even">
+          <td>
+            <a href="/items/view/120" >120</a>          </td>
+          <td>
+                          <a href="/items/view/120" ><img src="/img/../files/item_files/thumbs/10290.w-80_h-60_zc-1.jpg" alt="2 x 250 MW Coal Powered Plant" class="thumb" /></a>                      </td>
+          <td><div align="left">2 x 250 MW Coal Powered Plant&nbsp;</div></td>
+          <td>Steam Turbine (Power Plant)&nbsp;</td>
+          <td>Alsthom&nbsp;</td>
+          <td>Coal&nbsp;</td>
+          <td>50Hz&nbsp;</td>
+          <td>Available&nbsp;</td>
+          <td>France&nbsp;</td>
+        </tr>
+                <tr class="odd">
+          <td>
+            <a href="/items/view/130" >130</a>          </td>
+          <td>
+                          &nbsp;
+                      </td>
+          <td><div align="left">75 MW - 2028 MW Power Plants &nbsp;</div></td>
+          <td>Steam Turbine (Power Plant)&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>Dual Fuel&nbsp;</td>
+          <td>50Hz&nbsp;</td>
+          <td>Available&nbsp;</td>
+          <td>Poland&nbsp;</td>
+        </tr>
+                <tr class="even">
+          <td>
+            <a href="/items/view/195" >195</a>          </td>
+          <td>
+                          &nbsp;
+                      </td>
+          <td><div align="left">3 x 1600 KVA MTU Generator Set&nbsp;</div></td>
+          <td>Generator Set (Packages)&nbsp;</td>
+          <td>MTU&nbsp;</td>
+          <td>Diesel&nbsp;</td>
+          <td>50Hz&nbsp;</td>
+          <td>Available&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+                <tr class="odd">
+          <td>
+            <a href="/items/view/216" >216</a>          </td>
+          <td>
+                          <a href="/items/view/216" ><img src="/img/../files/item_files/thumbs/11114.w-80_h-60_zc-1.jpg" alt="2 x 4.1 MW Wartsila Generator Set" class="thumb" /></a>                      </td>
+          <td><div align="left">2 x 4.1 MW Wartsila Generator Set&nbsp;</div></td>
+          <td>Generator Set (Packages)&nbsp;</td>
+          <td>Wartsila&nbsp;</td>
+          <td>Fuel Gas&nbsp;</td>
+          <td>60Hz&nbsp;</td>
+          <td>Available&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+                <tr class="even">
+          <td>
+            <a href="/items/view/219" >219</a>          </td>
+          <td>
+                          <a href="/items/view/219" ><img src="/img/../files/item_files/thumbs/4120.w-80_h-60_zc-1.jpg" alt="2 x 3000 KVA Wartsila Dual Fuel Generator Sets" class="thumb" /></a>                      </td>
+          <td><div align="left">2 x 3000 KVA Wartsila Dual Fuel Generator Sets&nbsp;</div></td>
+          <td>Generator Set (Packages)&nbsp;</td>
+          <td>Wartsila&nbsp;</td>
+          <td>Dual Fuel&nbsp;</td>
+          <td>50Hz&nbsp;</td>
+          <td>Available&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+                <tr class="odd">
+          <td>
+            <a href="/items/view/220" >220</a>          </td>
+          <td>
+                          &nbsp;
+                      </td>
+          <td><div align="left">12 x 1250 KVA Wartsila Generator Set&nbsp;</div></td>
+          <td>Generator Set (Packages)&nbsp;</td>
+          <td>Wartsila&nbsp;</td>
+          <td>Fuel Gas&nbsp;</td>
+          <td>50Hz&nbsp;</td>
+          <td>Available&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+                <tr class="even">
+          <td>
+            <a href="/items/view/239" >239</a>          </td>
+          <td>
+                          <a href="/items/view/239" ><img src="/img/../files/item_files/thumbs/4146.w-80_h-60_zc-1.jpg" alt="6 MW WARTSILA ENGINE " class="thumb" /></a>                      </td>
+          <td><div align="left">6 MW WARTSILA ENGINE &nbsp;</div></td>
+          <td>Engine (reciprocating)&nbsp;</td>
+          <td>Wartsila&nbsp;</td>
+          <td>Heavy Fuel Oil&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>Available&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+                <tr class="odd">
+          <td>
+            <a href="/items/view/344" >344</a>          </td>
+          <td>
+                          &nbsp;
+                      </td>
+          <td><div align="left">2 x 4 MW Allen Dg Diesel Generator Sets&nbsp;</div></td>
+          <td>Generator Set (Packages)&nbsp;</td>
+          <td>Allen Dg&nbsp;</td>
+          <td>Heavy Fuel Oil&nbsp;</td>
+          <td>50Hz&nbsp;</td>
+          <td>Available&nbsp;</td>
+          <td>India&nbsp;</td>
+        </tr>
+                <tr class="even">
+          <td>
+            <a href="/items/view/350" >350</a>          </td>
+          <td>
+                          <a href="/items/view/350" ><img src="/img/../files/item_files/thumbs/5863.w-80_h-60_zc-1.jpg" alt="12.7 MW DEUTZ HFO power plant " class="thumb" /></a>                      </td>
+          <td><div align="left">12.7 MW DEUTZ HFO power plant &nbsp;</div></td>
+          <td>Generator Set (Power Plant)&nbsp;</td>
+          <td>Deutz&nbsp;</td>
+          <td>Dual Fuel&nbsp;</td>
+          <td>50Hz&nbsp;</td>
+          <td>Available&nbsp;</td>
+          <td>China&nbsp;</td>
+        </tr>
+                <tr class="odd">
+          <td>
+            <a href="/items/view/387" >387</a>          </td>
+          <td>
+                          <a href="/items/view/387" ><img src="/img/../files/item_files/thumbs/5991.w-80_h-60_zc-1.jpg" alt="3 x 11.2 MW MAN Engines" class="thumb" /></a>                      </td>
+          <td><div align="left">3 x 11.2 MW MAN Engines&nbsp;</div></td>
+          <td>Engine (reciprocating)&nbsp;</td>
+          <td>MAN&nbsp;</td>
+          <td>Heavy Fuel Oil&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>Available&nbsp;</td>
+          <td>Romania&nbsp;</td>
+        </tr>
+                <tr class="even">
+          <td>
+            <a href="/items/view/390" >390</a>          </td>
+          <td>
+                          &nbsp;
+                      </td>
+          <td><div align="left">3.8 MW MAN Oil Power Plant&nbsp;</div></td>
+          <td>Generator Set (Power Plant)&nbsp;</td>
+          <td>MAN&nbsp;</td>
+          <td>Heavy Fuel Oil&nbsp;</td>
+          <td>50Hz&nbsp;</td>
+          <td>Available&nbsp;</td>
+          <td>China&nbsp;</td>
+        </tr>
+                <tr class="odd">
+          <td>
+            <a href="/items/view/403" >403</a>          </td>
+          <td>
+                          &nbsp;
+                      </td>
+          <td><div align="left">3 x 11.96 MW MAN Generator Sets&nbsp;</div></td>
+          <td>Generator Set (Packages)&nbsp;</td>
+          <td>MAN&nbsp;</td>
+          <td>Heavy Fuel Oil&nbsp;</td>
+          <td>50Hz&nbsp;</td>
+          <td>Available&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+                <tr class="even">
+          <td>
+            <a href="/items/view/414" >414</a>          </td>
+          <td>
+                          <a href="/items/view/414" ><img src="/img/../files/item_files/thumbs/6163.w-80_h-60_zc-1.jpg" alt="44 MW MAN HFO Power Plant" class="thumb" /></a>                      </td>
+          <td><div align="left">44 MW MAN HFO Power Plant&nbsp;</div></td>
+          <td>Generator Set (Power Plant)&nbsp;</td>
+          <td>MAN&nbsp;</td>
+          <td>Heavy Fuel Oil&nbsp;</td>
+          <td>50Hz&nbsp;</td>
+          <td>Available&nbsp;</td>
+          <td>China&nbsp;</td>
+        </tr>
+                <tr class="odd">
+          <td>
+            <a href="/items/view/427" >427</a>          </td>
+          <td>
+                          &nbsp;
+                      </td>
+          <td><div align="left">50 MW MAN Power Plant&nbsp;</div></td>
+          <td>Generator Set (Power Plant)&nbsp;</td>
+          <td>MAN&nbsp;</td>
+          <td>Heavy Fuel Oil&nbsp;</td>
+          <td>50Hz&nbsp;</td>
+          <td>Available&nbsp;</td>
+          <td>India&nbsp;</td>
+        </tr>
+                <tr class="even">
+          <td>
+            <a href="/items/view/468" >468</a>          </td>
+          <td>
+                          <a href="/items/view/468" ><img src="/img/../files/item_files/thumbs/6421.w-80_h-60_zc-1.jpg" alt="10 x 11.186 MW Sulzer Diesel Generators" class="thumb" /></a>                      </td>
+          <td><div align="left">10 x 11.186 MW Sulzer Diesel Generators&nbsp;</div></td>
+          <td>Generator Set (Packages)&nbsp;</td>
+          <td>Sulzer&nbsp;</td>
+          <td>Diesel&nbsp;</td>
+          <td>50Hz&nbsp;</td>
+          <td>Available&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+                
+      </table>
+      </div>
+
+      <div id='pagination'>
+Results: 1-20 of 692<br/><img src="/img/action/arrow_left.gif" height="11" alt="Previous Page" title="Previous Page" />&nbsp;&nbsp;<em>1</em> | <a href="/items/index/page-2" >2</a> | <a href="/items/index/page-3" >3</a> | <a href="/items/index/page-4" >4</a> | <a href="/items/index/page-5" >5</a> | <a href="/items/index/page-6" >6</a> | <a href="/items/index/page-7" >7</a> | <a href="/items/index/page-8" >8</a> | ... | <a href="/items/index/page-35" >35</a>&nbsp;&nbsp;<a href="/items/index/page-2" ><img src="/img/action/arrow_right.gif" height="11" alt="Next Page" title="Next Page" /></a><br/> <em>20</em> <a href="/items/index/show-50" >50</a> <a href="/items/index/show-100" >100</a> </div>
+          </td>
+        <tr>
+      </table>
+    </td>
+    <td width="220">
+
+      <h1 class="menu"><b>Filter</b> by Search Terms</h1>
+            <form id="ItemAddForm" method="post" action="/items/search/"><input type="hidden" name="data[][_method]"  value="POST" id="ItemAddFormMethod" />      <div class="menu"><div class="input"><label for="ItemSearch"> </label><input name="data[Item][search]"  style="width:150px;" value="" id="ItemSearch" type="text" /></div></div>
+      <div class="submit"><input type="submit" value="Go" /></div>      </form>            <div class="clear"></div>
+
+            <h1 class="menu"><b>Filter</b> by Category</h1>
+      <ul class="menu">
+                        <li><a href="/items/index/category-Alternator/"  class="menu">Alternator</a><li>
+            <li><a href="/items/index/category-Auxiliary/"  class="menu">Auxiliary</a><li>
+            <li><a href="/items/index/category-Barges/"  class="menu">Barges</a><li>
+            <li><a href="/items/index/category-Combustion+Turbine/"  class="menu">Combustion Turbine</a><li>
+            <li><a href="/items/index/category-Engine+%28reciprocating%29/"  class="menu">Engine (reciprocating)</a><li>
+            <li><a href="/items/index/category-Generator+Set/"  class="menu">Generator Set</a><li>
+            <li><a href="/items/index/category-Hydro+Turbine/"  class="menu">Hydro Turbine</a><li>
+            <li><a href="/items/index/category-Miscellaneous/"  class="menu">Miscellaneous</a><li>
+            <li><a href="/items/index/category-Other+Businesses/"  class="menu">Other Businesses</a><li>
+            <li><a href="/items/index/category-Other+Equipment/"  class="menu">Other Equipment</a><li>
+            <li><a href="/items/index/category-Steam+Turbine/"  class="menu">Steam Turbine</a><li>
+            <li><a href="/items/index/category-Wind+Turbine/"  class="menu">Wind Turbine</a><li>
+                  </ul>
+      
+            <h1 class="menu"><b>Filter</b> by Manufacturer</h1>
+      <ul class="menu">
+                  <li><a href="/items/index/item_manufacturer-ABB/"  class="menu">ABB</a></li>
+            <li><a href="/items/index/item_manufacturer-AEG/"  class="menu">AEG</a></li>
+            <li><a href="/items/index/item_manufacturer-Alco+Diesel/"  class="menu">Alco Diesel</a></li>
+            <li><a href="/items/index/item_manufacturer-Allen+Dg/"  class="menu">Allen Dg</a></li>
+            <li><a href="/items/index/item_manufacturer-Allison/"  class="menu">Allison</a></li>
+            <li><a href="/items/index/item_manufacturer-Alsthom/"  class="menu">Alsthom</a></li>
+            <li><a href="/items/index/item_manufacturer-Alumtech/"  class="menu">Alumtech</a></li>
+            <li><a href="/items/index/item_manufacturer-Ameridex/"  class="menu">Ameridex</a></li>
+            <li><a href="/items/index/item_manufacturer-Asco/"  class="menu">Asco</a></li>
+            <li><a href="/items/index/item_manufacturer-Atlas+Copco/"  class="menu">Atlas Copco</a></li>
+            <li><a href="/items/index/item_manufacturer-Baylor+A.+C./"  class="menu">Baylor A. C.</a></li>
+            <li><a href="/items/index/item_manufacturer-Bellis/"  class="menu">Bellis</a></li>
+            <li><a href="/items/index/item_manufacturer-Bergen/"  class="menu">Bergen</a></li>
+            <li><a href="/items/index/item_manufacturer-Capstone/"  class="menu">Capstone</a></li>
+            <li><a href="/items/index/item_manufacturer-Caterpillar/"  class="menu">Caterpillar</a></li>
+            <li><a href="/items/index/item_manufacturer-Cooper/"  class="menu">Cooper</a></li>
+            <li><a href="/items/index/item_manufacturer-Cummins/"  class="menu">Cummins</a></li>
+            <li><a href="/items/index/item_manufacturer-Daewoo/"  class="menu">Daewoo</a></li>
+            <li><a href="/items/index/item_manufacturer-Daihatsu/"  class="menu">Daihatsu</a></li>
+            <li><a href="/items/index/item_manufacturer-Deep+Sea+Electronics/"  class="menu">Deep Sea Electronics</a></li>
+            <li><a href="/items/index/item_manufacturer-Detroit/"  class="menu">Detroit</a></li>
+            <li><a href="/items/index/item_manufacturer-Deutz/"  class="menu">Deutz</a></li>
+            <li><a href="/items/index/item_manufacturer-DSE/"  class="menu">DSE</a></li>
+            <li><a href="/items/index/item_manufacturer-EMD/"  class="menu">EMD</a></li>
+            <li><a href="/items/index/item_manufacturer-Fairbanks+Morse/"  class="menu">Fairbanks Morse</a></li>
+            <li><a href="/items/index/item_manufacturer-GE/"  class="menu">GE</a></li>
+            <li><a href="/items/index/item_manufacturer-GEC/"  class="menu">GEC</a></li>
+            <li><a href="/items/index/item_manufacturer-General+Thermodynamic/"  class="menu">General Thermodynamic</a></li>
+            <li><a href="/items/index/item_manufacturer-Hitachi/"  class="menu">Hitachi</a></li>
+            <li><a href="/items/index/item_manufacturer-Hyundai+Heavy+Industry/"  class="menu">Hyundai Heavy Industry</a></li>
+            <li><a href="/items/index/item_manufacturer-IHI/"  class="menu">IHI</a></li>
+            <li><a href="/items/index/item_manufacturer-Isuzu/"  class="menu">Isuzu</a></li>
+            <li><a href="/items/index/item_manufacturer-Kato/"  class="menu">Kato</a></li>
+            <li><a href="/items/index/item_manufacturer-Kawasaki/"  class="menu">Kawasaki</a></li>
+            <li><a href="/items/index/item_manufacturer-Kohler/"  class="menu">Kohler</a></li>
+            <li><a href="/items/index/item_manufacturer-Komatsu/"  class="menu">Komatsu</a></li>
+            <li><a href="/items/index/item_manufacturer-Leroy+Somer/"  class="menu">Leroy Somer</a></li>
+            <li><a href="/items/index/item_manufacturer-MAK/"  class="menu">MAK</a></li>
+            <li><a href="/items/index/item_manufacturer-MAN/"  class="menu">MAN</a></li>
+            <li><a href="/items/index/item_manufacturer-Marathon/"  class="menu">Marathon</a></li>
+            <li><a href="/items/index/item_manufacturer-MHI/"  class="menu">MHI</a></li>
+            <li><a href="/items/index/item_manufacturer-MITSUBISHI/"  class="menu">MITSUBISHI</a></li>
+            <li><a href="/items/index/item_manufacturer-MQ+Power/"  class="menu">MQ Power</a></li>
+            <li><a href="/items/index/item_manufacturer-MTU/"  class="menu">MTU</a></li>
+            <li><a href="/items/index/item_manufacturer-Nei-icl/"  class="menu">Nei-icl</a></li>
+            <li><a href="/items/index/item_manufacturer-Niigata/"  class="menu">Niigata</a></li>
+            <li><a href="/items/index/item_manufacturer-Nishishiba/"  class="menu">Nishishiba</a></li>
+            <li><a href="/items/index/item_manufacturer-NTAKL/"  class="menu">NTAKL</a></li>
+            <li><a href="/items/index/item_manufacturer-Nuovo+Pignone/"  class="menu">Nuovo Pignone</a></li>
+            <li><a href="/items/index/item_manufacturer-Nuttall+Gear+Corp./"  class="menu">Nuttall Gear Corp.</a></li>
+            <li><a href="/items/index/item_manufacturer-Onan/"  class="menu">Onan</a></li>
+            <li><a href="/items/index/item_manufacturer-Perkins/"  class="menu">Perkins</a></li>
+            <li><a href="/items/index/item_manufacturer-Pielstick/"  class="menu">Pielstick</a></li>
+            <li><a href="/items/index/item_manufacturer-Pratt-Whitney/"  class="menu">Pratt-Whitney</a></li>
+            <li><a href="/items/index/item_manufacturer-Rolls+Royce/"  class="menu">Rolls Royce</a></li>
+            <li><a href="/items/index/item_manufacturer-SDMO/"  class="menu">SDMO</a></li>
+            <li><a href="/items/index/item_manufacturer-SHAANXI/"  class="menu">SHAANXI</a></li>
+            <li><a href="/items/index/item_manufacturer-Shinko+/"  class="menu">Shinko </a></li>
+            <li><a href="/items/index/item_manufacturer-Siemens/"  class="menu">Siemens</a></li>
+            <li><a href="/items/index/item_manufacturer-Solar/"  class="menu">Solar</a></li>
+            <li><a href="/items/index/item_manufacturer-Stewart-Stevenson/"  class="menu">Stewart-Stevenson</a></li>
+            <li><a href="/items/index/item_manufacturer-Sulzer/"  class="menu">Sulzer</a></li>
+            <li><a href="/items/index/item_manufacturer-Surround+Technologies/"  class="menu">Surround Technologies</a></li>
+            <li><a href="/items/index/item_manufacturer-Thomassen/"  class="menu">Thomassen</a></li>
+            <li><a href="/items/index/item_manufacturer-Volvo/"  class="menu">Volvo</a></li>
+            <li><a href="/items/index/item_manufacturer-Wartsila/"  class="menu">Wartsila</a></li>
+            <li><a href="/items/index/item_manufacturer-Waukesha/"  class="menu">Waukesha</a></li>
+            <li><a href="/items/index/item_manufacturer-Westinghouse/"  class="menu">Westinghouse</a></li>
+            <li><a href="/items/index/item_manufacturer-WH+Allen/"  class="menu">WH Allen</a></li>
+            <li><a href="/items/index/item_manufacturer-Woodward/"  class="menu">Woodward</a></li>
+            <li><a href="/items/index/item_manufacturer-Yanmar/"  class="menu">Yanmar</a></li>
+            <li><a href="/items/index/item_manufacturer-Young/"  class="menu">Young</a></li>
+                  </ul>
+      
+            <h1 class="menu"><b>Filter</b> by Frequency</h1>
+      <ul class="menu">
+                  <li><a href="/items/index/item_frequency-50-60+Hz/"  class="menu">50-60 Hz</a></li>
+            <li><a href="/items/index/item_frequency-50Hz/"  class="menu">50Hz</a></li>
+            <li><a href="/items/index/item_frequency-60Hz/"  class="menu">60Hz</a></li>
+                  </ul>
+      
+            <h1 class="menu"><b>Filter</b> by Fuel</h1>
+      <ul class="menu">
+                  <li><a href="/items/index/item_fuel-Coal/"  class="menu">Coal</a></li>
+            <li><a href="/items/index/item_fuel-Diesel/"  class="menu">Diesel</a></li>
+            <li><a href="/items/index/item_fuel-Diesel%2C+HFO%2C+Natural+Gas/"  class="menu">Diesel, HFO, Natural Gas</a></li>
+            <li><a href="/items/index/item_fuel-Dual+Fuel/"  class="menu">Dual Fuel</a></li>
+            <li><a href="/items/index/item_fuel-Dual+Fuel+LFO+%26+Natural+Gas/"  class="menu">Dual Fuel LFO & Natural Gas</a></li>
+            <li><a href="/items/index/item_fuel-Fuel+Gas/"  class="menu">Fuel Gas</a></li>
+            <li><a href="/items/index/item_fuel-Heavy+Fuel+Oil/"  class="menu">Heavy Fuel Oil</a></li>
+            <li><a href="/items/index/item_fuel-Naptha/"  class="menu">Naptha</a></li>
+            <li><a href="/items/index/item_fuel-Natural+Gas/"  class="menu">Natural Gas</a></li>
+                  </ul>
+      
+            <h1 class="menu"><b>Filter</b> by Status</h1>
+      <ul class="menu">
+                  <li><a href="/items/index/item_status-Available/"  class="menu">Available</a></li>
+            <li><a href="/items/index/item_status-Pending+Sale/"  class="menu">Pending Sale</a></li>
+            <li><a href="/items/index/item_status-Sold%21/"  class="menu">Sold!</a></li>
+            <li><a href="/items/index/item_status-Wanted/"  class="menu">Wanted</a></li>
+                  </ul>
+      
+            <h1 class="menu"><b>Filter</b> by Country</h1>
+      <ul class="menu">
+                  <li><a href="/items/index/country-Australia/"  class="menu">Australia</a></li>
+            <li><a href="/items/index/country-Canada/"  class="menu">Canada</a></li>
+            <li><a href="/items/index/country-Chile/"  class="menu">Chile</a></li>
+            <li><a href="/items/index/country-China/"  class="menu">China</a></li>
+            <li><a href="/items/index/country-Colombia/"  class="menu">Colombia</a></li>
+            <li><a href="/items/index/country-Dominican+Republic/"  class="menu">Dominican Republic</a></li>
+            <li><a href="/items/index/country-France/"  class="menu">France</a></li>
+            <li><a href="/items/index/country-Honduras/"  class="menu">Honduras</a></li>
+            <li><a href="/items/index/country-Hong+Kong/"  class="menu">Hong Kong</a></li>
+            <li><a href="/items/index/country-India/"  class="menu">India</a></li>
+            <li><a href="/items/index/country-Indonesia/"  class="menu">Indonesia</a></li>
+            <li><a href="/items/index/country-Iraq/"  class="menu">Iraq</a></li>
+            <li><a href="/items/index/country-Italy/"  class="menu">Italy</a></li>
+            <li><a href="/items/index/country-Japan/"  class="menu">Japan</a></li>
+            <li><a href="/items/index/country-Korea%2C+Republic+of/"  class="menu">Korea, Republic of</a></li>
+            <li><a href="/items/index/country-Netherlands/"  class="menu">Netherlands</a></li>
+            <li><a href="/items/index/country-Norway/"  class="menu">Norway</a></li>
+            <li><a href="/items/index/country-Pakistan/"  class="menu">Pakistan</a></li>
+            <li><a href="/items/index/country-Philippines/"  class="menu">Philippines</a></li>
+            <li><a href="/items/index/country-Poland/"  class="menu">Poland</a></li>
+            <li><a href="/items/index/country-Portugal/"  class="menu">Portugal</a></li>
+            <li><a href="/items/index/country-Romania/"  class="menu">Romania</a></li>
+            <li><a href="/items/index/country-Saudi+Arabia/"  class="menu">Saudi Arabia</a></li>
+            <li><a href="/items/index/country-Singapore/"  class="menu">Singapore</a></li>
+            <li><a href="/items/index/country-Spain/"  class="menu">Spain</a></li>
+            <li><a href="/items/index/country-Sweden/"  class="menu">Sweden</a></li>
+            <li><a href="/items/index/country-United+Arab+Emirates/"  class="menu">United Arab Emirates</a></li>
+            <li><a href="/items/index/country-United+Kingdom/"  class="menu">United Kingdom</a></li>
+            <li><a href="/items/index/country-United+States/"  class="menu">United States</a></li>
+            <li><a href="/items/index/country-Western+Europe/"  class="menu">Western Europe</a></li>
+                  </ul>
+      
+    </td>
+  </tr>
+</table>
+      </div>
+    </div>
+
+    <div id="footer">
+      Copyright &copy; 2012 Browns Equipment Trader, LLC
+	<!-- AddThis Button BEGIN -->
+		<a href="http://www.addthis.com/bookmark.php?v=250&pub=xa-4a6f175155cc58a9" onmouseover="return addthis_open(this, '', 'http://www.brownsequipment.com', 'Brown's Equipment Trader, LLC :: Recycling power equipment worldwide')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/sm-bookmark-en.gif" width="83" height="16" alt="Bookmark and Share" style="border:0"/></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a6f175155cc58a9"></script>
+			<!-- AddThis Button END -->
+    </div>
+
+  </body>
+</html><!-- 0.4848s -->

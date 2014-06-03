@@ -1,0 +1,507 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--page.tpl.php-->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Os Mapas Verdes Abertos Mais Novos | Mapa Verde Abierto</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="Mapas recentes" href="/pt-br/maps/newest/feed?isSimple=" />
+<link rel="shortcut icon" href="/sites/default/files/opengreenmap_favicon.ico" type="image/x-icon" />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_5e4ae00802ba293ba1d48f3071646a6d.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_94cf6f42862c13879d77d0f7093849e2.css" />
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?n" />
+<![endif]-->
+  <script type="text/javascript">
+    var Drupal_base_path = '/';
+    var Drupal_language = 'pt-br';
+  </script>
+
+  <!--[if IE]>
+    <link rel="stylesheet" href="/sites/all/themes/opengreenmap/ie.css" type="text/css">
+      <![endif]-->
+  <!--[if IE 8]>
+    <link rel="stylesheet" href="/sites/all/themes/opengreenmap/ie8.css" type="text/css">
+      <![endif]-->
+ <!--[if IE 7]>
+    <link rel="stylesheet" href="/sites/all/themes/opengreenmap/ie7.css" type="text/css">
+      <![endif]-->
+
+
+
+  <script type="text/javascript" src="/misc/jquery.js?n"></script>
+<script type="text/javascript" src="/misc/drupal.js?n"></script>
+<script type="text/javascript" src="/sites/default/files/languages/pt-br_6271579e9de1b8dd06833b9c5e1381a4.js?n"></script>
+<script type="text/javascript" src="/sites/all/modules/contrib/fivestar/js/fivestar.js?n"></script>
+<script type="text/javascript" src="/sites/all/modules/contrib/lightbox2/js/lightbox_modal.js?n"></script>
+<script type="text/javascript" src="/sites/all/modules/contrib/lightbox2/js/lightbox.js?n"></script>
+<script type="text/javascript" src="/sites/all/modules/contrib/mollom/mollom.js?n"></script>
+<script type="text/javascript" src="/sites/all/modules/patched/dhtml_menu/dhtml_menu.js?n"></script>
+<script type="text/javascript" src="/sites/all/themes/opengreenmap/superfish.js?n"></script>
+<script type="text/javascript" src="/sites/all/themes/opengreenmap/custom_user_menu.js?n"></script>
+<script type="text/javascript" src="/misc/tableheader.js?n"></script>
+<script type="text/javascript" src="/sites/all/modules/contrib/lang_dropdown/lang_dropdown.js?n"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "fivestar": { "titleUser": "A sua vota??o: ", "titleAverage": "M?dia: ", "feedbackSavingVote": "Obrigado pela sua classifica??o.", "feedbackVoteSaved": "O seu voto foi removido", "feedbackDeletingVote": "A eliminar o voto...", "feedbackVoteDeleted": "O seu voto foi removido" }, "lightbox2": { "rtl": "0", "file_path": "/(\\w\\w/)sites/default/files", "default_image": "/sites/all/modules/contrib/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": 0, "disable_resize": 0, "disable_zoom": false, "force_show_nav": 0, "show_caption": true, "loop_items": 0, "node_link_text": "View Image Details", "node_link_target": 0, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": true, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "original", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": true, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": 0 }, "dhtmlMenu": { "doubleclick": "doubleclick", "slide": 0, "siblings": 0, "relativity": 0, "children": 0, "clone": 0 } });
+//--><!]]>
+</script>
+</head>
+
+<body class="not-front not-logged-in one-sidebar sidebar-right i18n-pt-br page-maps-newest section-maps">
+
+  <div id="page"><div id="page-inner">
+
+    <a name="top" id="navigation-top"></a>
+    
+    <div id="header"><div id="header-inner" class="clear-block">
+
+
+              <div id="header-blocks">
+          <div id="block-menu-primary-links" class="block block-menu region-odd odd region-count-1 count-5"><div class="block-inner">
+
+  
+  <div class="content">
+    <ul class="menu"><li class="expanded first dhtml-menu  active-trail" id="dhtml_menu-135-1_menuitem"><a href="/pt-br/maps" title="Recent Maps" id="dhtml_menu-135-1">Mapas</a><ul class="menu"><li class="leaf first dhtml-menu " id="dhtml_menu-7189-1_menuitem"><a href="/pt-br/maps" title="" id="dhtml_menu-7189-1">Recentes</a></li>
+<li class="leaf  dhtml-menu  active-trail" id="dhtml_menu-7190-1_menuitem"><a href="/pt-br/maps/newest" title="" id="dhtml_menu-7190-1" class="active"><span class="tab">Mais novos</span></a></li>
+<li class="leaf  dhtml-menu " id="dhtml_menu-7191-1_menuitem"><a href="/pt-br/maps/country" title="" id="dhtml_menu-7191-1"><span class="tab">Por Pa?s</span></a></li>
+<li class="leaf  dhtml-menu " id="dhtml_menu-7192-1_menuitem"><a href="/pt-br/maps/mapmakers" title="" id="dhtml_menu-7192-1"><span class="tab">Por Mapeador</span></a></li>
+<li class="leaf last dhtml-menu " id="dhtml_menu-7193-1_menuitem"><a href="/pt-br/maps/alpha" title="" id="dhtml_menu-7193-1"><span class="tab">Alfab?tico</span></a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed " id="dhtml_menu-7300-1_menuitem"><a href="/pt-br/node/17049" title="" id="dhtml_menu-7300-1">Apoie-nos</a><ul class="menu"><li class="leaf first last dhtml-menu " id="dhtml_menu-7292-1_menuitem"><a href="/pt-br/patrocinadores" title="" id="dhtml_menu-7292-1">Patrocinadores</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed " id="dhtml_menu-7283-1_menuitem"><a href="/pt-br/sobre" title="" id="dhtml_menu-7283-1">Sobre</a><ul class="menu"><li class="leaf first dhtml-menu " id="dhtml_menu-7284-1_menuitem"><a href="/pt-br/node/17039" id="dhtml_menu-7284-1">Introdu??o</a></li>
+<li class="leaf  dhtml-menu " id="dhtml_menu-7298-1_menuitem"><a href="/pt-br/node/17047" title="" id="dhtml_menu-7298-1">Participe</a></li>
+<li class="leaf  dhtml-menu " id="dhtml_menu-7285-1_menuitem"><a href="/pt-br/node/17040" title="" id="dhtml_menu-7285-1">Pr?mios</a></li>
+<li class="leaf  dhtml-menu " id="dhtml_menu-7299-1_menuitem"><a href="/pt-br/testimonials" title="" id="dhtml_menu-7299-1">Testemunhos</a></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed " id="dhtml_menu-7286-1_menuitem"><a href="/pt-br/node/17041" title="" id="dhtml_menu-7286-1">Cr?ditos</a><ul class="menu"><li class="leaf first last dhtml-menu " id="dhtml_menu-7302-1_menuitem"><a href="/pt-br/legal" title="" id="dhtml_menu-7302-1">Legais</a></li>
+</ul></li>
+<li class="leaf last dhtml-menu " id="dhtml_menu-7301-1_menuitem"><a href="/pt-br/contact" title="" id="dhtml_menu-7301-1">Contato</a></li>
+</ul></li>
+<li class="leaf  dhtml-menu " id="dhtml_menu-84-1_menuitem"><a href="/pt-br/faq" title="Frequently Asked Questions" id="dhtml_menu-84-1">Perguntas Frequentes</a></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed " id="dhtml_menu-7249-1_menuitem"><a href="/pt-br/compartilhe_recursos" title="" id="dhtml_menu-7249-1">Recursos</a><ul class="menu"><li class="leaf first dhtml-menu " id="dhtml_menu-7246-1_menuitem"><a href="/pt-br/compartilhe_recursos" title="" id="dhtml_menu-7246-1">Compartilhe</a></li>
+<li class="leaf  dhtml-menu " id="dhtml_menu-7247-1_menuitem"><a href="/pt-br/node/17015" title="" id="dhtml_menu-7247-1">Promover</a></li>
+<li class="leaf last dhtml-menu " id="dhtml_menu-7250-1_menuitem"><a href="/pt-br/node/17016" title="" id="dhtml_menu-7250-1">Multim?dia</a></li>
+</ul></li>
+<li class="leaf  dhtml-menu " id="dhtml_menu-3453-1_menuitem"><a href="/pt-br/search" title="" id="dhtml_menu-3453-1">Search</a></li>
+<li class="leaf last dhtml-menu " id="dhtml_menu-131-1_menuitem"><a href="http://www.greenmap.org/greenhouse/home" title="Green Map&#039;s organizational website" id="dhtml_menu-131-1">GreenMap.org</a></li>
+</ul>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-lang_dropdown-0" class="block block-lang_dropdown region-even even region-count-2 count-6"><div class="block-inner">
+
+      <h2 class="title">Idiomas</h2>
+  
+  <div class="content">
+    <form action="/pt-br/maps/newest"  accept-charset="UTF-8" method="post" id="lang-dropdown-form">
+<div><div class="form-item" id="edit-lang-dropdown-select-wrapper">
+ <select name="lang_dropdown_select" style="width:140px" class="form-select" id="edit-lang-dropdown-select" ><option value="http://www.opengreenmap.org/maps/newest">English</option><option value="http://www.opengreenmap.org/zh-hans/maps/newest">????</option><option value="http://www.opengreenmap.org/fr/maps/newest">Fran?ais</option><option value="http://www.opengreenmap.org/de/maps/newest">Deutsch</option><option value="http://www.opengreenmap.org/ja/maps/newest">???</option><option value="http://www.opengreenmap.org/pt-br/maps/newest" selected="selected">Portugu?s</option><option value="http://www.opengreenmap.org/ro/maps/newest">Rom?n?</option><option value="http://www.opengreenmap.org/es/maps/newest">Espa?ol</option><option value="http://www.opengreenmap.org/sv/maps/newest">Svenska</option></select>
+</div>
+<noscript><span>
+<input type="submit" name="op" id="edit-submit" value="V?"  class="form-submit" />
+
+</span></noscript><input type="hidden" name="form_build_id" id="form-5501122c3ae5c6c5ec57bb8c55ec2fec" value="form-5501122c3ae5c6c5ec57bb8c55ec2fec"  />
+<input type="hidden" name="form_id" id="edit-lang-dropdown-form" value="lang_dropdown_form"  />
+
+</div></form>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+        </div> <!-- /#header-blocks -->
+          </div></div> <!-- /#header-inner, /#header -->
+
+              <div id="logo-title">
+        <div id="custom-login"><span class="additional"><a href="/pt-br/user/register">Criar nova conta</a></span><span class="uaction"><a href="/pt-br/user/login?destination=user">Log In</a></span></div>                      <div id="logo"><a href="/pt-br" title="In?cio" rel="home"><img src="/sites/all/themes/opengreenmap/logo.png" alt="In?cio" id="logo-image" /></a></div>
+          
+          
+		  		  			  <div class="maptitle ">
+				  <h1 class="title">Os Mapas Verdes Abertos Mais Novos</h1>
+				  			  </div>
+		  
+
+      
+      
+        </div> <!-- /#logo-title -->
+      
+
+
+    <div id="main" class="clear-block"><div id="main-inner" class="clear-block with-navbar">
+      <div id="content"><div id="content-inner">
+
+        
+        
+        <!--[if lt IE 7]>
+        <center>
+        <div class="messages warning ie_warning_message" style="text-align: center; width: 50%;">
+          Este site n?o est? optimizado para o Internet Explorer 6 ou inferior. Atualize ou mude para outro navegador.        </div>
+        </center>
+        <![endif]-->
+
+                  <div id="content-header">
+            <div class="breadcrumb"><a href="/pt-br">In?cio</a> ? <a href="/pt-br/maps">Mapas Verdes Abertos</a> ? </div>                                                    <div class="tabs"><ul class="tabs primary clear-block"><li ><a href="/pt-br/maps"><span class="tab">Recente</span></a></li>
+<li class="active" ><a href="/pt-br/maps/newest" class="active"><span class="tab">Mais Novos</span></a></li>
+<li ><a href="/pt-br/maps/alpha"><span class="tab">Ordem Alfab?tica</span></a></li>
+<li ><a href="/pt-br/maps/country"><span class="tab">Pa?s</span></a></li>
+<li ><a href="/pt-br/maps/mapmakers"><span class="tab">Mapeador</span></a></li>
+</ul></div>
+                                  </div> <!-- /#content-header -->
+        
+        <div id="content-area">
+          <div class="view view-maps view-id-maps view-display-id-page_1 view-dom-id-1">
+        <div class="view-header">
+      <p>Selecione um mapa da lista para explorar. Os mapas mais novos est?o no topo da lista.</p>
+<p>      Clique nas abas acima para ver os Mapas Verdes Abertos listados em uma ordem diferente ou use a Busca ? direita para encontrar mapas nos quais voc? est? interessado.</p>
+<p>      Existem muito mais Mapas Verdes Abertos em elabora??o e que, em breve, ser?o publicados, cheque o site regularmente.</p>
+    </div>
+  
+  
+   
+ <style type="text/css">
+.tabs {
+display: none;
+}
+</style>
+
+      <div class="view-content">
+      <table class="views-table sticky-enabled cols-25">
+    <thead>
+    <tr>
+              <th class="views-field views-field-title">
+          Mapa        </th>
+              <th class="views-field views-field-field-country-value">
+          Country        </th>
+              <th class="views-field views-field-post-count">
+          Number of Sites        </th>
+          </tr>
+  </thead>
+  <tbody>
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-title">
+            <a href="/pt-br/greenmap/green-map-moo-4-rong-wua-dang-chiang-mai-thailand">Green Map on Moo 4, Rong Wua Dang, Chiang Mai Thailand</a>          </td>
+                  <td class="views-field views-field-field-country-value">
+            Thailand          </td>
+                  <td class="views-field views-field-post-count">
+            0          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title">
+            <a href="/pt-br/greenmap/green-map-moo-1-2-3-and-4-buakkhan-chiang-mai-thailand">Green Map on Moo 1, 2, 3 and 4 BuakKhan, Chiang Mai Thailand</a>          </td>
+                  <td class="views-field views-field-field-country-value">
+            Thailand          </td>
+                  <td class="views-field views-field-post-count">
+            0          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title">
+            <a href="/pt-br/greenmap/ban-pong-moo-8-ontai-chiang-mai-thailand">Ban Pong Moo 8, Ontai, Chiang Mai Thailand</a>          </td>
+                  <td class="views-field views-field-field-country-value">
+            Thailand          </td>
+                  <td class="views-field views-field-post-count">
+            0          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title">
+            <a href="/pt-br/greenmap/rs-lmtn">??? ?????</a>          </td>
+                  <td class="views-field views-field-field-country-value">
+            Lebanon          </td>
+                  <td class="views-field views-field-post-count">
+            18          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title">
+            <a href="/pt-br/greenmap/yt-lfkhr">???? ??????</a>          </td>
+                  <td class="views-field views-field-field-country-value">
+                      </td>
+                  <td class="views-field views-field-post-count">
+            9          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title">
+            <a href="/pt-br/greenmap/rsl">?????</a>          </td>
+                  <td class="views-field views-field-field-country-value">
+            Lebanon          </td>
+                  <td class="views-field views-field-post-count">
+            12          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title">
+            <a href="/pt-br/greenmap/yn-zbd">??? ????</a>          </td>
+                  <td class="views-field views-field-field-country-value">
+                      </td>
+                  <td class="views-field views-field-post-count">
+            6          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title">
+            <a href="/pt-br/greenmap/youth-bike-summit-organizations">Youth Bike Summit Organizations</a>          </td>
+                  <td class="views-field views-field-field-country-value">
+            United States          </td>
+                  <td class="views-field views-field-post-count">
+            10          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title">
+            <a href="/pt-br/greenmap/karlskronas-grona-smultronstallen">Karlskronas Gr?na Smultronst?llen</a>          </td>
+                  <td class="views-field views-field-field-country-value">
+            Sweden          </td>
+                  <td class="views-field views-field-post-count">
+            19          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title">
+            <a href="/pt-br/greenmap/yun-lin-wen-sheng-gao-zhong-gong-zuo-fang-lu-huo-tu">????????????</a>          </td>
+                  <td class="views-field views-field-field-country-value">
+            Taiwan          </td>
+                  <td class="views-field views-field-post-count">
+            0          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title">
+            <a href="/pt-br/greenmap/yun-lin-lu-huo-tu-yunlin-green-map">????? Yunlin Green Map</a>          </td>
+                  <td class="views-field views-field-field-country-value">
+            Taiwan          </td>
+                  <td class="views-field views-field-post-count">
+            1          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title">
+            <a href="/pt-br/greenmap/central-america-and-caribbean-corridors">Central America and Caribbean  Corridors</a>          </td>
+                  <td class="views-field views-field-field-country-value">
+            Belize          </td>
+                  <td class="views-field views-field-post-count">
+            9          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title">
+            <a href="/pt-br/greenmap/pannonian-white-stork-greenways-zelene-staze-biciklom-do-roda">Pannonian White Stork Greenways / Zelene staze &quot;Biciklom do roda&quot;</a>          </td>
+                  <td class="views-field views-field-field-country-value">
+            Serbia          </td>
+                  <td class="views-field views-field-post-count">
+            1          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title">
+            <a href="/pt-br/greenmap/ecoartnetwork-global">ecoartnetwork global</a>          </td>
+                  <td class="views-field views-field-field-country-value">
+            Canada          </td>
+                  <td class="views-field views-field-post-count">
+            6          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title">
+            <a href="/pt-br/greenmap/cemeteries-lawrence-township">Cemeteries of Lawrence Township</a>          </td>
+                  <td class="views-field views-field-field-country-value">
+            United States          </td>
+                  <td class="views-field views-field-post-count">
+            6          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title">
+            <a href="/pt-br/greenmap/baerbyen-copenhagen">BaerByen Copenhagen</a>          </td>
+                  <td class="views-field views-field-field-country-value">
+            Denmark          </td>
+                  <td class="views-field views-field-post-count">
+            17          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title">
+            <a href="/pt-br/greenmap/mid-atlantic-rain-gardens">Mid-Atlantic Rain Gardens</a>          </td>
+                  <td class="views-field views-field-field-country-value">
+            United States          </td>
+                  <td class="views-field views-field-post-count">
+            86          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title">
+            <a href="/pt-br/greenmap/projet-transition-agglomeration-franco-valdo-genevoise">Projet transition agglom?ration franco-valdo-genevoise</a>          </td>
+                  <td class="views-field views-field-field-country-value">
+            Switzerland          </td>
+                  <td class="views-field views-field-post-count">
+            14          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title">
+            <a href="/pt-br/greenmap/green-map-uji">Green Map Uji</a>          </td>
+                  <td class="views-field views-field-field-country-value">
+            Japan          </td>
+                  <td class="views-field views-field-post-count">
+            7          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title">
+            <a href="/pt-br/greenmap/ocracoke">Ocracoke</a>          </td>
+                  <td class="views-field views-field-field-country-value">
+            United States          </td>
+                  <td class="views-field views-field-post-count">
+            73          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title">
+            <a href="/pt-br/greenmap/shui-guang-ming-tao-yuan-xian-li-guang-ming-guo-zhong-lu-zhu-xiang-lu-se-sheng-huo-di-tu-part2">????(?????????????????part2)</a>          </td>
+                  <td class="views-field views-field-field-country-value">
+            Taiwan          </td>
+                  <td class="views-field views-field-post-count">
+            1          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title">
+            <a href="/pt-br/greenmap/delaware-river-watershed-camden-bees">Delaware River Watershed Camden BEES</a>          </td>
+                  <td class="views-field views-field-field-country-value">
+            United States          </td>
+                  <td class="views-field views-field-post-count">
+            83          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title">
+            <a href="/pt-br/greenmap/carte-verte-placet">Carte Verte Placet</a>          </td>
+                  <td class="views-field views-field-field-country-value">
+            Belgium          </td>
+                  <td class="views-field views-field-post-count">
+            22          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title">
+            <a href="/pt-br/greenmap/camden-city-asset-inventory">Camden City Asset Inventory</a>          </td>
+                  <td class="views-field views-field-field-country-value">
+            United States          </td>
+                  <td class="views-field views-field-post-count">
+            35          </td>
+              </tr>
+          <tr class="odd views-row-last">
+                  <td class="views-field views-field-title">
+            <a href="/pt-br/greenmap/camden-food-assessment">Camden Food Assessment</a>          </td>
+                  <td class="views-field views-field-field-country-value">
+            United States          </td>
+                  <td class="views-field views-field-post-count">
+            19          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+      <div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a href="/pt-br/maps/newest?page=1" title="Ir para a p?gina 2" class="active">2</a></li>
+<li class="pager-item"><a href="/pt-br/maps/newest?page=2" title="Ir para a p?gina 3" class="active">3</a></li>
+<li class="pager-item"><a href="/pt-br/maps/newest?page=3" title="Ir para a p?gina 4" class="active">4</a></li>
+<li class="pager-item"><a href="/pt-br/maps/newest?page=4" title="Ir para a p?gina 5" class="active">5</a></li>
+<li class="pager-item"><a href="/pt-br/maps/newest?page=5" title="Ir para a p?gina 6" class="active">6</a></li>
+<li class="pager-item"><a href="/pt-br/maps/newest?page=6" title="Ir para a p?gina 7" class="active">7</a></li>
+<li class="pager-item"><a href="/pt-br/maps/newest?page=7" title="Ir para a p?gina 8" class="active">8</a></li>
+<li class="pager-item"><a href="/pt-br/maps/newest?page=8" title="Ir para a p?gina 9" class="active">9</a></li>
+<li class="pager-ellipsis">?</li>
+<li class="pager-next"><a href="/pt-br/maps/newest?page=1" title="Ir para a pr?xima p?gina" class="active">pr?ximo ?</a></li>
+<li class="pager-last last"><a href="/pt-br/maps/newest?page=10" title="Ir para a ?ltima p?gina" class="active">fim ?</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div>         </div>
+
+                  <div class="feed-icons"><a href="/pt-br/maps/newest/feed?isSimple=" class="feed-icon"><img src="/misc/feed.png" alt="Conte?do sindicalizado" title="Mapas recentes" width="16" height="16" /></a></div>
+        
+        
+      </div></div> <!-- /#content-inner, /#content -->
+
+              <div id="navbar"><div id="navbar-inner">
+
+          <a name="navigation" id="navigation"></a>
+
+                      <div id="secondary">
+              <ul class="links"><li class="menu-7189 first"><a href="/pt-br/maps" title="">Recentes</a></li>
+<li class="menu-7190 active-trail active"><a href="/pt-br/maps/newest" title="" class="active">Mais novos</a></li>
+<li class="menu-7191"><a href="/pt-br/maps/country" title="">Por Pa?s</a></li>
+<li class="menu-7192"><a href="/pt-br/maps/mapmakers" title="">Por Mapeador</a></li>
+<li class="menu-7193 last"><a href="/pt-br/maps/alpha" title="">Alfab?tico</a></li>
+</ul>            </div> <!-- /#secondary -->
+          
+          
+        </div></div> <!-- /#navbar-inner, /#navbar -->
+      
+      
+              <div id="sidebar-right"><div id="sidebar-right-inner">
+          <div id="block-block-9" class="block block-block region-odd odd region-count-1 count-1"><div class="block-inner">
+
+  
+  <div class="content">
+    <div id="large-block-menu"><ul><li class="grmap"><a href="/pt-br/greenmap">World Map</a></li><li class="maps-active"><a href="/pt-br/maps">All Maps</a></li><li class="involved"><a href="/pt-br/user/register">Se envolva!</a></li></ul></div><!-- /large-block-menu -->  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-8" class="block block-block region-even even region-count-2 count-2"><div class="block-inner">
+
+  
+  <div class="content">
+    <a href="http://www.greenmap.org/greenhouse/en/node/11271"><img src="http://www.greenmap.org/greenhouse/files/net2-all-star.gif" alt="Open Green Map wins NetSquared Invitational!" title="Open Green Map wins NetSquared Invitational" align="center"></a>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-12" class="block block-block region-odd odd region-count-3 count-3"><div class="block-inner">
+
+  
+  <div class="content">
+    <a href="http://www.greenmap.org/greenhouse/en/node/7844" target="_blank"><img src="http://www.greenmap.org/greenhouse/files/getmobile.png" align="center"></a>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-5" class="block block-block region-even even region-count-4 count-4"><div class="block-inner">
+
+  
+  <div class="content">
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" name="donate">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="image" src="http://greenmap.org/greenhouse/files/gms/about/donate/donatebutton.jpg" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
+</form>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+        </div></div> <!-- /#sidebar-right-inner, /#sidebar-right -->
+      
+    </div></div> <!-- /#main-inner, /#main -->
+
+    <div id="footer"><div id="footer-inner">
+
+      <div id="footer-message"><BR>Los Iconos ? son propiedad intelectual de <a href="http://www.greenmap.org">Green Map System, Inc.</a> 2009. Todos los derechos reservados. Mapa Verde? es una marca registrada y utilizada con permiso.</div>
+
+    </div></div> <!-- /#footer-inner, /#footer -->
+  </div></div> <!-- /#page-inner, /#page -->
+
+
+      <div id="closure-region" class="clear-block">
+            <div id="donte-button"><a href="/pt-br/donate"><img src="/sites/all/themes/opengreenmap/images/donate_pt-br.gif" alt="Donate to GreenMaps"></a></div>
+      <div id="closure-blocks"><div id="block-menu-menu-footer" class="block block-menu region-odd odd region-count-1 count-7"><div class="block-inner">
+
+  
+  <div class="content">
+    <ul class="menu"><li class="leaf first dhtml-menu " id="dhtml_menu-3364-1_menuitem"><a href="/pt-br/patrocinadores" title="" id="dhtml_menu-3364-1">Patrocinadores</a></li>
+<li class="leaf  dhtml-menu " id="dhtml_menu-132-1_menuitem"><a href="/pt-br/contact" title="" id="dhtml_menu-132-1">Contact</a></li>
+<li class="leaf last dhtml-menu " id="dhtml_menu-3248-1_menuitem"><a href="/pt-br/legal" title="Terms of Use" id="dhtml_menu-3248-1">Legais</a></li>
+</ul>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+</div>
+          </div><!-- /#clusure-region -->
+  
+  
+  <script type="text/javascript" src="/sites/all/modules/custom/ogm_ol/ogm_ol.js?n"></script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try{
+var pageTracker = _gat._getTracker("UA-418876-5");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+</html>
+<!--/page.tpl.php-->
+

@@ -1,0 +1,490 @@
+?<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
+<head>
+<title>Internacional de informaci?n de huso horario</title>
+<meta name="title" content="Internacional de informaci?n de huso horario" />
+<meta name="description" content="Informaci?n sobre zonas horarias en todo el mundo, averiguar la zona horaria en Gran Canaria, Canary island" />
+<meta name="keywords" content="Husos horarios, el tiempo, las zonas, calendario, hora, tiempo de reloj, reloj de tiempo, zona horaria Gran Canaria, Canary Island, zona horaria" />
+<meta name="copyright" content="&copy; 2009 Club Amigos Del Atlantico SL" />
+<meta name="publisher" content="Club Amigos Del Atlantico SL" />
+<meta name="company" content="Club Amigos Del Atlantico SL" />
+<meta name="author" content="Club Amigos Del Atlantico SL" /> 
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="content-language" content="es-ES" />
+<meta name="language" content="Spanish,Espa?ol" />
+<link href="http://www.diveacademy-grancanaria.com/styles/style.css" type="text/css" rel="stylesheet" />
+<link rel="shortcut icon" href="http://www.diveacademy-grancanaria.com/images/favicon.ico" />
+<script type="text/javascript" src="http://www.diveacademy-grancanaria.com/js/externallink.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+
+function calc() { 
+	vent=window.open('','tpv','width=700,height=450,scrollbars=no,resizable=no,status=yes,menubar=no,location=no');
+	document.forms[0].submit();
+}
+
+
+function checkRequired(form,lan) {
+	var strError = "";
+
+	var field = "first_name";
+	if (form[field] && form[field].value=="") {
+		strError += form.elements[field].id+"\n";
+	}
+
+	var field = "last_name";
+	if (form[field] && form[field].value=="") {
+		strError += form.elements[field].id+"\n";
+	}
+
+	var field = "fullname";
+	if (form[field] && form[field].value=="") {
+		strError += form.elements[field].id+"\n";
+	}
+
+	var field = "email";
+	if (form[field] && form[field].value=="") {
+		strError += form.elements[field].id+"\n";
+	}
+
+	var field = "phone";
+	if (form[field] && form[field].value=="") {
+		strError += form.elements[field].id+"\n";
+	}
+	
+	var field = "hotel";
+	if (form[field] && form[field].value=="") {
+		strError += form.elements[field].id+"\n";
+	}
+
+	var field = "url";
+	if (form[field] && form[field].value=="") {
+		strError += form.elements[field].id+"\n";
+	}
+
+	var field = "linktitle";
+	if (form[field] && form[field].value=="") {
+		strError += form.elements[field].id+"\n";
+	}
+
+	var field = "reciprocal";
+	if (form[field] && form[field].value=="") {
+		strError += form.elements[field].id+"\n";
+	}
+
+	var field = "vercode";
+	if (form[field] && form[field].value=="") {
+		strError += form.elements[field].id+"\n";
+	}
+
+
+	if (strError) {
+		switch (lan){
+			case "da":
+				alert(":\n" + strError);
+				break;
+			case "de":
+				alert(":\n" + strError);
+				break;
+			case "es":
+				alert("Faltan los campos obligatorios:\n" + strError);
+				break;
+			case "fi":
+				alert(":\n" + strError);
+				break;
+			case "fr":
+				alert(":\n" + strError);
+				break;
+			case "gr":
+				alert(":\n" + strError);
+				break;
+			case "it":
+				alert(":\n" + strError);
+				break;
+			case "nl":
+				alert("De verplichte velden ontbreken:\n" + strError);
+				break;
+			case "no":
+				alert(":\n" + strError);
+				break;
+			case "pt":
+				alert(":\n" + strError);
+				break;
+			case "ru":
+				alert(":\n" + strError);
+				break;
+			case "se":
+				alert(":\n" + strError);
+				break;
+			default:
+			alert("Required fields are missing:\n" + strError);
+		}
+		return (false)
+	}
+	else {
+		return true;
+	}
+	
+}
+
+
+function checkAmount(form,lan) {
+	if (/^\w+([\-]?\w+)+$/.test(myForm.amount.value)){
+		return (true)
+	}
+	switch (lan){
+		case "da":
+			alert(":\n" + strError);
+			break;
+		case "de":
+			alert(":\n" + strError);
+			break;
+		case "es":
+			alert("" + strError);
+			break;
+		case "fi":
+			alert(":\n" + strError);
+			break;
+		case "fr":
+			alert(":\n" + strError);
+			break;
+		case "gr":
+			alert(":\n" + strError);
+			break;
+		case "it":
+			alert(":\n" + strError);
+			break;
+		case "nl":
+			alert("" + strError);
+			break;
+		case "no":
+			alert(":\n" + strError);
+			break;
+		case "pt":
+			alert(":\n" + strError);
+			break;
+		case "ru":
+			alert(":\n" + strError);
+			break;
+		case "se":
+			alert(":\n" + strError);
+			break;
+		default:
+		alert("The amount can not containt a . (dot) or a , (comma) and must be entered as EURO CENTS");
+	}
+	return (false)
+}
+
+
+
+browserVer = parseInt(navigator.appVersion);
+if (browserVer >= 3) version = "n3";
+else version = "x";
+if (version == "n3")
+{
+	toc1on = new Image (14,15);
+	toc1on.src = "http://www.diveacademy-grancanaria.com/imagesdb/navfirst_2.gif"
+	
+	toc2on = new Image (10,15);
+	toc2on.src = "http://www.diveacademy-grancanaria.com/imagesdb/navprev_2.gif"
+	
+	toc3on = new Image (10,15);
+	toc3on.src = "http://www.diveacademy-grancanaria.com/imagesdb/navnext_2.gif"
+	
+	toc4on = new Image (14,15);
+	toc4on.src = "http://www.diveacademy-grancanaria.com/imagesdb/navlast_2.gif"	
+
+	toc1off = new Image (14,15);
+	toc1off.src = "http://www.diveacademy-grancanaria.com/imagesdb/navfirst_1.gif"
+	
+	toc2off = new Image (10,15);
+	toc2off.src = "http://www.diveacademy-grancanaria.com/imagesdb/navprev_1.gif"
+	
+	toc3off = new Image (10,15);
+	toc3off.src = "http://www.diveacademy-grancanaria.com/imagesdb/navnext_1.gif"
+	
+	toc4off = new Image (14,15);
+	toc4off.src = "http://www.diveacademy-grancanaria.com/imagesdb/navlast_1.gif"
+}
+
+
+function img_act (imgName)
+{
+	if (version == "n3")
+	{
+		imgOn = eval (imgName + "on.src");
+		document.getElementById(imgName).src = imgOn;
+	}
+}
+function img_inact (imgName)
+{
+	if (version == "n3")
+	{
+		imgOff = eval (imgName + "off.src");
+		document.getElementById(imgName).src = imgOff;
+	}
+}
+
+function deletePhoto(photoNo,s){
+	if (document.getElementById('photo'+photoNo).value!="") {
+		switch (s){
+
+		case "es":
+		alert("Foto "+photoNo+" ser? borrado\n");
+		document.getElementById('imagephoto'+photoNo).alt="Foto borrado";
+		break;
+
+		case "nl":
+		alert("Foto "+photoNo+" zal worden gewist\n");
+		document.getElementById('imagephoto'+photoNo).alt="Foto gwist";
+		break;
+
+		default:
+		alert("Photo "+photoNo+" will be deleted\n");
+		document.getElementById('imagephoto'+photoNo).alt="Photo deleted";
+		}
+
+		document.getElementById('deletephoto'+photoNo).value="1";
+		document.getElementById('imagephoto'+photoNo).src="";
+	}
+}
+
+function PADIeLearning() {
+accessWin = window.open('https://www.padi.com/padi/elearning/default.aspx?irra=9880','','scrollbars=yes,top='+(screen.height/8)+',left='+(screen.width/8)+',width=1000,height=700,resizable=yes');
+window.accessWin.focus();
+}
+
+//]]>
+</script></head>
+<body>
+<div id="top">
+<a href="http://www.padi.com/" title="Padi Dive Centro de buceo Academy Gran Canaria Padi cursos" rel="external"><img src="http://www.diveacademy-grancanaria.com/images/topright.gif" class="topright" alt="Padi Dive Centro de buceo Academy Gran Canaria Padi cursos" /></a>
+
+<a href="http://www.bsac.com/" title="BSAC Dive Centro de buceo Academy Gran Canaria Padi cursos" rel="external"><img src="http://www.diveacademy-grancanaria.com/images/topleft.gif" class="topleft" alt="BSAC Dive Centro de buceo Academy Gran Canaria Padi cursos" /></a>
+
+<a href="http://www.gaydivinggrancanaria.com/" title="Dive Academy Gran Canaria Bucear Scuba Gran Canaria PADI Escuelas de Buceo"><img src="http://www.diveacademy-grancanaria.com/images/toplogo.jpg" class="toplogo" alt="Dive Academy Gran Canaria Bucear Scuba Gran Canaria PADI Escuelas de Buceo" /></a>
+</div>
+<table class="full"><tr><td class="bar">
+<a href="http://www.twitter.com/diveacademy" target="_blank"><img src="http://twitter-badges.s3.amazonaws.com/follow_me-a.png" alt="Follow diveacademy on Twitter" border="0" /></a>
+<br />
+Menu:<br />
+<div id="menu">
+
+<a href="http://www.gaydivinggrancanaria.com/0/es/Padi_escuela_de_buceo_Dive_Academy_Gran_Canaria_Islas_Canarias" title="Padi escuela de buceo Dive Academy Gran Canaria Islas Canarias">
+<img src="http://www.diveacademy-grancanaria.com/images/arrow.gif" alt="Padi escuela de buceo Dive Academy Gran Canaria Islas Canarias" class="arrow" /></a><a href="http://www.gaydivinggrancanaria.com/0/es/Padi_escuela_de_buceo_Dive_Academy_Gran_Canaria_Islas_Canarias" title="Padi escuela de buceo Dive Academy Gran Canaria Islas Canarias">P?gina de inicio</a><br />
+
+
+<a href="http://www.gaydivinggrancanaria.com/47/es/Mapa_del_sitio_centro_de_informacion_escuele_de_buceo" title="Mapa del sitio centro de informaci?n escuele de buceo">
+<img src="http://www.diveacademy-grancanaria.com/images/arrow.gif" alt="Mapa del sitio centro de informaci?n escuele de buceo" class="arrow" /></a><a href="http://www.gaydivinggrancanaria.com/47/es/Mapa_del_sitio_centro_de_informacion_escuele_de_buceo" title="Mapa del sitio centro de informaci?n escuele de buceo">Informaci?n</a><br />
+
+
+<a href="http://www.gaydivinggrancanaria.com/1/es/Padi_cursos_de_buceo_escuela_de_buceo_instrucciones" title="Padi cursos de buceo escuela de buceo instrucciones">
+<img src="http://www.diveacademy-grancanaria.com/images/arrow.gif" alt="Padi cursos de buceo escuela de buceo instrucciones" class="arrow" /></a><a href="http://www.gaydivinggrancanaria.com/1/es/Padi_cursos_de_buceo_escuela_de_buceo_instrucciones" title="Padi cursos de buceo escuela de buceo instrucciones">Cursos</a><br />
+
+
+<a href="http://www.gaydivinggrancanaria.com/2/es/Precios_de_cursos_de_buceo" title="Precios de cursos de buceo">
+<img src="http://www.diveacademy-grancanaria.com/images/arrow.gif" alt="Precios de cursos de buceo" class="arrow" /></a><a href="http://www.gaydivinggrancanaria.com/2/es/Precios_de_cursos_de_buceo" title="Precios de cursos de buceo">Precios</a><br />
+
+
+<a href="http://www.gaydivinggrancanaria.com/3/es/Reservar_PADI_curso_de_buceo_Gran_Canaria" title="Reservar PADI curso de buceo Gran Canaria">
+<img src="http://www.diveacademy-grancanaria.com/images/arrow.gif" alt="Reservar PADI curso de buceo Gran Canaria" class="arrow" /></a><a href="http://www.gaydivinggrancanaria.com/3/es/Reservar_PADI_curso_de_buceo_Gran_Canaria" title="Reservar PADI curso de buceo Gran Canaria">Reservaciones</a><br />
+
+
+<a href="http://www.gaydivinggrancanaria.com/4/es/Pagar_tu_PADI_curso_de_buceo_en_Dive_Academy_Gran_Canaria" title="Pagar tu PADI curso de buceo en Dive Academy Gran Canaria">
+<img src="http://www.diveacademy-grancanaria.com/images/arrow.gif" alt="Pagar tu PADI curso de buceo en Dive Academy Gran Canaria" class="arrow" /></a><a href="http://www.gaydivinggrancanaria.com/4/es/Pagar_tu_PADI_curso_de_buceo_en_Dive_Academy_Gran_Canaria" title="Pagar tu PADI curso de buceo en Dive Academy Gran Canaria">Pagar en l?nea</a><br />
+
+
+<a href="http://www.gaydivinggrancanaria.com/6/es/Inmersiones_para_bucedores_con_experiencia_en_Gran_Canaria" title="Inmersiones para bucedores con experiencia en Gran Canaria">
+<img src="http://www.diveacademy-grancanaria.com/images/arrow.gif" alt="Inmersiones para bucedores con experiencia en Gran Canaria" class="arrow" /></a><a href="http://www.gaydivinggrancanaria.com/6/es/Inmersiones_para_bucedores_con_experiencia_en_Gran_Canaria" title="Inmersiones para bucedores con experiencia en Gran Canaria">Buceador experto</a><br />
+
+
+<a href="http://www.gaydivinggrancanaria.com/7/es/Scuba_noticias_de_buceo_Gran_Canaria_Islas_Canarias_Spanien" title="Scuba noticias de buceo Gran Canaria Islas Canarias Spanien">
+<img src="http://www.diveacademy-grancanaria.com/images/arrow.gif" alt="Scuba noticias de buceo Gran Canaria Islas Canarias Spanien" class="arrow" /></a><a href="http://www.gaydivinggrancanaria.com/7/es/Scuba_noticias_de_buceo_Gran_Canaria_Islas_Canarias_Spanien" title="Scuba noticias de buceo Gran Canaria Islas Canarias Spanien">?ltimaes noticias</a><br />
+
+
+<a href="http://www.gaydivinggrancanaria.com/8/es/Libro_de_visitas_Foro_Dive_Academy_Gran_Canaria" title="Libro de visitas Foro Dive Academy Gran Canaria">
+<img src="http://www.diveacademy-grancanaria.com/images/arrow.gif" alt="Libro de visitas Foro Dive Academy Gran Canaria" class="arrow" /></a><a href="http://www.gaydivinggrancanaria.com/8/es/Libro_de_visitas_Foro_Dive_Academy_Gran_Canaria" title="Libro de visitas Foro Dive Academy Gran Canaria">Libro de visitas</a><br />
+
+
+<a href="http://www.gaydivinggrancanaria.com/9/es/Los_mejores_sitios_del_buceo_Scuba_en_Gran_Canaria" title="Los mejores sitios del buceo Scuba en Gran Canaria">
+<img src="http://www.diveacademy-grancanaria.com/images/arrow.gif" alt="Los mejores sitios del buceo Scuba en Gran Canaria" class="arrow" /></a><a href="http://www.gaydivinggrancanaria.com/9/es/Los_mejores_sitios_del_buceo_Scuba_en_Gran_Canaria" title="Los mejores sitios del buceo Scuba en Gran Canaria">Sitios de buceo</a><br />
+
+
+<a href="http://www.gaydivinggrancanaria.com/20/es/PADI_Curso_virtual_cursos_de_buceo" title="PADI Curso virtual cursos de buceo">
+<img src="http://www.diveacademy-grancanaria.com/images/arrow.gif" alt="PADI Curso virtual cursos de buceo" class="arrow" /></a><a href="http://www.gaydivinggrancanaria.com/20/es/PADI_Curso_virtual_cursos_de_buceo" title="PADI Curso virtual cursos de buceo">Curso virtual</a><br />
+
+
+<a href="http://www.gaydivinggrancanaria.com/10/es/Scuba_camara_web_buceo_piscina_webcam" title="Scuba camara web buceo piscina webcam">
+<img src="http://www.diveacademy-grancanaria.com/images/arrow1.gif" alt="Scuba camara web buceo piscina webcam" class="arrow" /></a><a href="http://www.gaydivinggrancanaria.com/10/es/Scuba_camara_web_buceo_piscina_webcam" title="Scuba camara web buceo piscina webcam">C?mera web</a><br />
+
+
+<a href="http://www.gaydivinggrancanaria.com/virtual_tour.php?lan=es" title="Tour virtual PADI centro de buceo Gran Canaria">
+<img src="http://www.diveacademy-grancanaria.com/images/arrow.gif" alt="Tour virtual PADI centro de buceo Gran Canaria" class="arrow" /></a><a href="http://www.gaydivinggrancanaria.com/virtual_tour.php?lan=es" title="Tour virtual PADI centro de buceo Gran Canaria">Tour Virtual</a><br />
+
+
+<a href="http://www.gaydivinggrancanaria.com/15/es/Fotos_submarinas_buceo_scuba_album_de_fotos" title="Fotos submarinas buceo scuba album de fotos">
+<img src="http://www.diveacademy-grancanaria.com/images/arrow.gif" alt="Fotos submarinas buceo scuba album de fotos" class="arrow" /></a><a href="http://www.gaydivinggrancanaria.com/15/es/Fotos_submarinas_buceo_scuba_album_de_fotos" title="Fotos submarinas buceo scuba album de fotos">?lbum de fotos</a><br />
+
+
+<a href="http://www.gaydivinggrancanaria.com/18/es/Articulos_de_buceo_Scuba_productos_eventos" title="Art?culos de buceo Scuba productos eventos">
+<img src="http://www.diveacademy-grancanaria.com/images/arrow.gif" alt="Art?culos de buceo Scuba productos eventos" class="arrow" /></a><a href="http://www.gaydivinggrancanaria.com/18/es/Articulos_de_buceo_Scuba_productos_eventos" title="Art?culos de buceo Scuba productos eventos">Noticias de buceo</a><br />
+
+
+<a href="http://www.gaydivinggrancanaria.com/19/es/Contacto_Dive_Academy_Gran_Canaria_Islas_Canarias" title="Contacto Dive Academy Gran Canaria Islas Canarias">
+<img src="http://www.diveacademy-grancanaria.com/images/arrow.gif" alt="Contacto Dive Academy Gran Canaria Islas Canarias" class="arrow" /></a><a href="http://www.gaydivinggrancanaria.com/19/es/Contacto_Dive_Academy_Gran_Canaria_Islas_Canarias" title="Contacto Dive Academy Gran Canaria Islas Canarias">Contacto</a><br />
+
+
+<a href="http://www.gaydivinggrancanaria.com/11/es/El_tiempo_Arguineguin_Gran_Canaria" title="El tiempo Arguineguin Gran Canaria">
+<img src="http://www.diveacademy-grancanaria.com/images/arrow.gif" alt="El tiempo Arguineguin Gran Canaria" class="arrow" /></a><a href="http://www.gaydivinggrancanaria.com/11/es/El_tiempo_Arguineguin_Gran_Canaria" title="El tiempo Arguineguin Gran Canaria">Tiempo actual</a><br />
+
+
+<a href="http://www.gaydivinggrancanaria.com/21/es/Intercambiar_enlaces_de_buceo_Gran_Canaria" title="Intercambiar enlaces de buceo Gran Canaria">
+<img src="http://www.diveacademy-grancanaria.com/images/arrow.gif" alt="Intercambiar enlaces de buceo Gran Canaria" class="arrow" /></a><a href="http://www.gaydivinggrancanaria.com/21/es/Intercambiar_enlaces_de_buceo_Gran_Canaria" title="Intercambiar enlaces de buceo Gran Canaria">Enlaces</a><br />
+</div><br />
+
+El tiempo actual:<br />
+<a href="http://www.weathergrancanaria.com/" rel="external" title="Weathergrancanaria.com Estaci?n Meteorol?gica Arguineguin Gran Canaria"><img src="http://www.weathergrancanaria.com/weatherstation/gizmo.gif" class="gizmo" alt="Weathergrancanaria.com Estaci?n Meteorol?gica Arguineguin Gran Canaria" /></a><br />
+<br />
+
+C?mera web:<br />
+<a href="http://www.gaydivinggrancanaria.com/10/es/Scuba_camara_web_buceo_piscina_webcam" title="Scuba camara web buceo piscina webcam"><img src="http://www.diveacademy-grancanaria.com/divecamthumb.jpg" class="webcamthumb" alt="Scuba camara web buceo piscina webcam" /></a><br />
+<a href="http://www.weathergrancanaria.com/" title="Scuba camara web buceo piscina webcam"><img src="http://www.weathergrancanaria.com/weatherstation/weathercam.jpg" class="webcamthumb" alt="Scuba camara web buceo piscina webcam" /></a><br />
+<br /><br />
+
+<img src="http://www.diveacademy-grancanaria.com/images/padigoldpalmresort.gif" class="padigoldpalmresort" alt="Padi Gold Palm Resort" /><br />
+<img src="http://www.diveacademy-grancanaria.com/images/project_aware.gif" class="project_aware" alt="Padi Project Aware" />
+<br /><br />
+
+<a href="http://validator.w3.org/check?uri=referer" title="Valid XHTML 1.0 Strict" rel="external"><img src="http://www.diveacademy-grancanaria.com/images/valid-xhtml10.png" class="w3c" alt="Valid XHTML 1.0 Strict" /></a>
+<br />
+<a href="http://jigsaw.w3.org/css-validator/" title="Valid CSS!" rel="external"><img src="http://www.diveacademy-grancanaria.com/images/vcss.png" class="w3c" alt="Valid CSS!" /></a>
+</td><td class="center">
+<h1>Zona horaria Islas Canarias</h1>
+
+<div class="content">
+<br /><br />
+<table class="list"><tr class="listheader"><td class="tdlist">A?ada esta a la<br />referencia de la zona<br />(D?as:Horas:Minutos:Segundos)</td><td class="tdlist">Para obtener la<br />hora en esta zona </td><td class="tdlist">?DST es afectado?</td></tr>
+<tr><td class="tdlist">+00:00:00:00</td><td class="tdlist">Africa/Abidjan</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">+00:01:00:00</td><td class="tdlist">Africa/Bangui</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">+00:03:00:00</td><td class="tdlist">Africa/Cairo</td><td class="tdlist">S?</td></tr>
+<tr><td class="tdlist">+00:00:00:00</td><td class="tdlist">Africa/Dakar</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">+00:02:00:00</td><td class="tdlist">Africa/Johannesburg</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">+00:03:00:00</td><td class="tdlist">Africa/Nairobi</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">-00:04:00:00</td><td class="tdlist">America/Aruba</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">-00:03:00:00</td><td class="tdlist">America/Buenos&nbsp;Aires</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">-00:05:00:00</td><td class="tdlist">America/Cancun</td><td class="tdlist">S?</td></tr>
+<tr><td class="tdlist">-00:06:00:00</td><td class="tdlist">America/Costa&nbsp;Rica</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">-00:04:00:00</td><td class="tdlist">America/Detroit</td><td class="tdlist">S?</td></tr>
+<tr><td class="tdlist">-00:04:00:00</td><td class="tdlist">America/Indiana/Indianapolis</td><td class="tdlist">S?</td></tr>
+<tr><td class="tdlist">-00:07:00:00</td><td class="tdlist">America/Los&nbsp;Angeles</td><td class="tdlist">S?</td></tr>
+<tr><td class="tdlist">-00:05:00:00</td><td class="tdlist">America/Mexico&nbsp;City</td><td class="tdlist">S?</td></tr>
+<tr><td class="tdlist">-00:04:00:00</td><td class="tdlist">America/Puerto&nbsp;Rico</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">-00:04:00:00</td><td class="tdlist">America/St&nbsp;Lucia</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">-00:04:00:00</td><td class="tdlist">America/Toronto</td><td class="tdlist">S?</td></tr>
+<tr><td class="tdlist">+00:08:00:00</td><td class="tdlist">Asia/Hong&nbsp;Kong</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">+00:03:00:00</td><td class="tdlist">Asia/Kuwait</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">+00:09:00:00</td><td class="tdlist">Asia/Seoul</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">+00:09:00:00</td><td class="tdlist">Asia/Tokyo</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">+00:01:00:00</td><td class="tdlist">Atlantic/Canary</td><td class="tdlist">S?</td></tr>
+<tr><td class="tdlist">-00:01:00:00</td><td class="tdlist">Atlantic/Cape&nbsp;Verde</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">+00:09:30:00</td><td class="tdlist">Australia/Darwin</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">+00:10:00:00</td><td class="tdlist">Australia/Melbourne</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">+00:10:00:00</td><td class="tdlist">Australia/Queensland</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">+00:10:00:00</td><td class="tdlist">Australia/Sydney</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">-00:03:00:00</td><td class="tdlist">Canada/Atlantic</td><td class="tdlist">S?</td></tr>
+<tr><td class="tdlist">-00:04:00:00</td><td class="tdlist">Canada/Eastern</td><td class="tdlist">S?</td></tr>
+<tr><td class="tdlist">-00:07:00:00</td><td class="tdlist">Canada/Pacific</td><td class="tdlist">S?</td></tr>
+<tr><td class="tdlist">+00:03:00:00</td><td class="tdlist">Egypt</td><td class="tdlist">S?</td></tr>
+<tr><td class="tdlist">+00:00:00:00</td><td class="tdlist">Etc/Greenwich</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">+00:02:00:00</td><td class="tdlist">Europe/Amsterdam</td><td class="tdlist">S?</td></tr>
+<tr><td class="tdlist">+00:03:00:00</td><td class="tdlist">Europe/Athens</td><td class="tdlist">S?</td></tr>
+<tr><td class="tdlist">+00:02:00:00</td><td class="tdlist">Europe/Berlin</td><td class="tdlist">S?</td></tr>
+<tr><td class="tdlist">+00:02:00:00</td><td class="tdlist">Europe/Brussels</td><td class="tdlist">S?</td></tr>
+<tr><td class="tdlist">+00:02:00:00</td><td class="tdlist">Europe/Copenhagen</td><td class="tdlist">S?</td></tr>
+<tr><td class="tdlist">+00:01:00:00</td><td class="tdlist">Europe/London</td><td class="tdlist">S?</td></tr>
+<tr><td class="tdlist">+00:02:00:00</td><td class="tdlist">Europe/Madrid</td><td class="tdlist">S?</td></tr>
+<tr><td class="tdlist">+00:02:00:00</td><td class="tdlist">Europe/Monaco</td><td class="tdlist">S?</td></tr>
+<tr><td class="tdlist">+00:02:00:00</td><td class="tdlist">Europe/Oslo</td><td class="tdlist">S?</td></tr>
+<tr><td class="tdlist">+00:02:00:00</td><td class="tdlist">Europe/Paris</td><td class="tdlist">S?</td></tr>
+<tr><td class="tdlist">+00:02:00:00</td><td class="tdlist">Europe/Vienna</td><td class="tdlist">S?</td></tr>
+<tr><td class="tdlist">+00:00:00:00</td><td class="tdlist">GMT0</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">+00:08:00:00</td><td class="tdlist">Hongkong</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">+00:00:00:00</td><td class="tdlist">Iceland</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">+00:05:00:00</td><td class="tdlist">Indian/Maldives</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">-00:05:00:00</td><td class="tdlist">Jamaica</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">+00:09:00:00</td><td class="tdlist">Japan</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">-00:06:00:00</td><td class="tdlist">Mexico/BajaSur</td><td class="tdlist">S?</td></tr>
+<tr><td class="tdlist">+00:12:00:00</td><td class="tdlist">Pacific/Fiji</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">-00:06:00:00</td><td class="tdlist">Pacific/Galapagos</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">+00:10:00:00</td><td class="tdlist">Pacific/Guam</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">+00:10:00:00</td><td class="tdlist">Pacific/Truk</td><td class="tdlist">No</td></tr>
+<tr><td class="tdlist">+00:02:00:00</td><td class="tdlist">Poland</td><td class="tdlist">S?</td></tr>
+<tr><td class="tdlist">+00:01:00:00</td><td class="tdlist">Portugal</td><td class="tdlist">S?</td></tr>
+<tr><td class="tdlist">+00:08:00:00</td><td class="tdlist">Singapore</td><td class="tdlist">No</td></tr>
+</table>
+<br /><br /><br />
+</div>
+</td><td class="bar">
+<a href="/30/en/Times_zone_Canary_Islands_Monrovia_GMT" title=""><img src="http://www.diveacademy-grancanaria.com/images/228s.gif" alt="English" class="flags" /></a>
+<a href="/30/es/Times_zone_Canary_Islands_Monrovia_GMT" title=""><img src="http://www.diveacademy-grancanaria.com/images/199s.gif" alt="Espa&#241;ol" class="flags" /></a>
+<a href="/30/nl/Times_zone_Canary_Islands_Monrovia_GMT" title=""><img src="http://www.diveacademy-grancanaria.com/images/149s.gif" alt="Nederlands" class="flags" /></a>
+<a href="/30/de/Times_zone_Canary_Islands_Monrovia_GMT" title=""><img src="http://www.diveacademy-grancanaria.com/images/51s.gif" alt="Deutsch" class="flags" /></a>
+<a href="/30/no/Times_zone_Canary_Islands_Monrovia_GMT" title=""><img src="http://www.diveacademy-grancanaria.com/images/159s.gif" alt="Norsk" class="flags" /></a>
+<a href="/30/it/Times_zone_Canary_Islands_Monrovia_GMT" title=""><img src="http://www.diveacademy-grancanaria.com/images/95s.gif" alt="Italiano" class="flags" /></a>
+<a href="/30/fr/Times_zone_Canary_Islands_Monrovia_GMT" title=""><img src="http://www.diveacademy-grancanaria.com/images/64s.gif" alt="Fran&#231;ais" class="flags" /></a>
+<a href="/30/pt/Times_zone_Canary_Islands_Monrovia_GMT" title=""><img src="http://www.diveacademy-grancanaria.com/images/176s.gif" alt="Portugu&#234;s" class="flags" /></a>
+<a href="/30/se/Times_zone_Canary_Islands_Monrovia_GMT" title=""><img src="http://www.diveacademy-grancanaria.com/images/240s.gif" alt="Svenska" class="flags" /></a>
+<a href="/30/da/Times_zone_Canary_Islands_Monrovia_GMT" title=""><img src="http://www.diveacademy-grancanaria.com/images/47s.gif" alt="Dansk" class="flags" /></a>
+<a href="/30/fi/Times_zone_Canary_Islands_Monrovia_GMT" title=""><img src="http://www.diveacademy-grancanaria.com/images/63s.gif" alt="Suomi" class="flags" /></a>
+<a href="/30/el/Times_zone_Canary_Islands_Monrovia_GMT" title=""><img src="http://www.diveacademy-grancanaria.com/images/75s.gif" alt="Greek" class="flags" /></a>
+<a href="/30/ru/Times_zone_Canary_Islands_Monrovia_GMT" title=""><img src="http://www.diveacademy-grancanaria.com/images/181s.gif" alt="Russian" class="flags" /></a>
+<br />
+
+<!-- Facebook Badge START --><a href="http://www.facebook.com/people/Diveacademy-GranCanaria/1762843706" title="Diveacademy GranCanaria" rel="external"><img src="http://badge.facebook.com/badge/1762843706.1490.545114610.png" width="120" height="181" style="border: 0px;" /></a><br/><!-- Facebook Badge END -->
+<br />
+
+<img src="http://www.diveacademy-grancanaria.com/images/padi_idc.gif" class="padi_idc" alt="Padi 5 Star Instructor Development Center" />
+<br /><br />
+
+<a href="http://www.gaydivinggrancanaria.com/16/es/customers_2010/29/1802" title="customers 2010 - Daffy waiting for his friends on Mgan Wreck"><img src="http://www.diveacademy-grancanaria.com/photos/thumbnails/1328340691.jpg" class="thumb" alt="Daffy waiting for his friends on Mgan Wreck" /></a><br /><a href="http://www.gaydivinggrancanaria.com/16/es/Creatures_of_the_sea/3/1801" title="Creatures of the sea - "><img src="http://www.diveacademy-grancanaria.com/photos/thumbnails/1327260497.jpg" class="thumb" alt="" /></a><br /><a href="http://www.gaydivinggrancanaria.com/16/es/Creatures_of_the_sea/3/1800" title="Creatures of the sea - Angel shark Asleep in the sand"><img src="http://www.diveacademy-grancanaria.com/photos/thumbnails/1314963643.jpg" class="thumb" alt="Angel shark Asleep in the sand" /></a><br /><a href="http://www.gaydivinggrancanaria.com/16/es/Creatures_of_the_sea/3/1799" title="Creatures of the sea - A baby at Russian wreck"><img src="http://www.diveacademy-grancanaria.com/photos/thumbnails/1314963392.jpg" class="thumb" alt="A baby at Russian wreck" /></a><br /><a href="http://www.gaydivinggrancanaria.com/16/es/customers_2010/29/1798" title="customers 2010 - "><img src="http://www.diveacademy-grancanaria.com/photos/thumbnails/1305453967.jpg" class="thumb" alt="" /></a><br /><br /><br />
+<a href="JavaScript: PADIeLearning();" title="PADI Curso virtual"><img src="http://www.diveacademy-grancanaria.com/images/padi_elearning_qtr1.gif" class="noborder" id="eLearn" alt="PADI Curso virtual" /></a> 
+</td></tr></table><div id="footer">
+<a href="http://www.buceargrancanaria.com/" rel="external" title="Bucear en Gran Canaria">www.buceargrancanaria.com</a>&nbsp;-&nbsp;
+<a href="http://www.centrosdebuceograncanaria.com/" rel="external" title="Centros de buceo en Gran Canaria">www.centrosdebuceograncanaria.com</a>&nbsp;-&nbsp;
+<a href="http://www.diveacademy-grancanaria.com/" rel="external" title="Dive Academy Gran Canaria">www.diveacademy-grancanaria.com</a>&nbsp;-&nbsp;
+<a href="http://www.divecoursesgrancanaria.com/" rel="external" title="Padi dive courses Gran Canaria">www.divecoursesgrancanaria.com</a>&nbsp;-&nbsp;
+<a href="http://www.divesitesgrancanaria.com/" rel="external" title="Interesting dive sites in Gran Canaria">www.divesitesgrancanaria.com</a>&nbsp;-&nbsp;
+<a href="http://www.divinggrancanaria.com/" rel="external" title="Diving in Gran Canaria">www.divinggrancanaria.com</a>&nbsp;-&nbsp;
+<a href="http://www.duikengrancanaria.com/" rel="external" title="Duiken op Gran Canaria Duikscholen Duikcursus">www.duikengrancanaria.com</a>&nbsp;-&nbsp;
+<a href="http://www.dykkinggrancanaria.com/" rel="external" title="Dykking Gran Canaria">www.dykkinggrancanaria.com</a>&nbsp;-&nbsp;
+<a href="http://www.dykninggrancanaria.com/" rel="external" title="Dykning Gran Canaria">www.dykninggrancanaria.com</a>&nbsp;-&nbsp;
+<a href="http://www.escuelasdebuceograncanaria.com/" rel="external" title="Escuelas de buceo en Gran Canaria">www.escuelasdebuceograncanaria.com</a>&nbsp;-&nbsp;
+<a href="http://www.gaydivinggrancanaria.com/" rel="external" title="Gay Diving Gran Canaria">www.gaydivinggrancanaria.com</a>&nbsp;-&nbsp;
+<a href="http://www.learntodivegrancanaria.com/" rel="external" title="Learn to dive on Gran Canaria">www.learntodivegrancanaria.com</a>&nbsp;-&nbsp;
+<a href="http://www.padidivecentregrancanaria.com/" rel="external" title="Padi Dive Centres on Gran Canaria">www.padidivecentregrancanaria.com</a>&nbsp;-&nbsp;
+<a href="http://www.scubadivinggrancanaria.com/" rel="external" title="Scuba Diving on Gran Canaria">www.scubadivinggrancanaria.com</a>&nbsp;-&nbsp;
+<a href="http://www.tauchengrancanaria.com/" rel="external" title="Tauchen auf Gran Canaria">www.tauchengrancanaria.com</a>
+<br /><br />
+
+&copy; 2012 <a href="http://www.hoogmawebdesign.com/" rel="external" title="Hoogma Webdesign - Web hosting domain registration and web design Beerta Winschoten">Hoogma Webdesign</a> - todos los derechos reservados<br /><br />
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=1279315; 
+var sc_invisible=0; 
+var sc_partition=11; 
+var sc_security="8bdf2400"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><a class="statcounter" href="http://www.statcounter.com/" rel="external"><img class="statcounter" src="http://c12.statcounter.com/1279315/0/8bdf2400/0/" alt="web stats" /></a></div></noscript>
+<!-- End of StatCounter Code --><br />
+<a href="http://my.statcounter.com/project/standard/stats.php?project_id=1279315&amp;guest=1" rel="external">Estd?sticas</a>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-293676-10";
+urchinTracker();
+</script>
+</div></body>
+</html>

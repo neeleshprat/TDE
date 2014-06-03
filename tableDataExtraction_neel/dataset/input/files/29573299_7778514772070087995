@@ -1,0 +1,321 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<script type="text/javascript" src="fsmenu.js">
+</script>
+<link rel="stylesheet" type="text/css" href="listmenu_o.css" id=
+"listmenu-o" title="Vertical 'Office'" />
+<link rel="stylesheet" type="text/css" href=
+"listmenu_fallback.css" />
+<link rel="stylesheet" type="text/css" href="divmenu.css" />
+
+<link rel="StyleSheet" href="marshall_style.css" type="text/css" />
+<title>Exhibitions</title>
+</head>
+<body>
+<div class="htmlpage">
+
+<table border="0" width="760"
+summary="Security and Surveillance Exhibitions">
+<tr>
+<td style="vertical-align: top"><map name="FPMap0" id="FPMap0">
+<area href="Default.htm" shape="rect" coords="366, 49, 413, 64" />
+<area href="aboutus.html" shape="rect" coords=
+"419, 50, 490, 62" />
+<area href="prodlist.html" shape="rect" coords=
+"498, 49, 568, 63" />
+<area href="intl_police.html" shape="rect" coords=
+"576, 49, 603, 61" />
+<area href="enquiry.html" shape="rect" coords=
+"710, 50, 766, 61" />
+<area href="whatsnew.html" shape="rect" coords=
+"611, 49, 700, 61" /></map> <img border="0" class="imageparmain"
+src="images/banner_marshall5.gif" usemap="#FPMap0" width="780" height="70" /><br /></td>
+</tr>
+</table>
+<table style="margin-left: -18" width="770" border="0">
+<tr>
+<td valign="top" style=
+"font: 10px/20px sans-serif; background-color: #FFF">
+<ul class="menulist" id="listMenuRoot">
+<li>
+<p class="active"><a><font color=
+"white">Exhibitions</font></a></p>
+</li>
+<li><a href="latestnews.html">Latest News</a></li>
+<li><a href="newproducts.html">New Products</a></li>
+<li><a href="pressreleases.html">Press Releases</a></li>
+<li><a href="seminars.html">Seminars</a></li>
+<li><a href="contactus.html">Contact Us</a></li>
+<li style="list-style: none"><script type="text/javascript">
+//<![CDATA[
+
+var listMenu = new FSMenu('listMenu', true, 'visibility', 'visible', 'hidden');
+
+listMenu.cssLitClass = 'highlighted';
+
+function animClipDown(ref, counter)
+{
+ var cP = Math.pow(Math.sin(Math.PI*counter/200),0.75);
+ ref.style.clip = (counter==100 ?
+  ((window.opera || navigator.userAgent.indexOf('KHTML') > -1) ? '':
+   'rect(auto, auto, auto, auto)') :
+    'rect(0, ' + ref.offsetWidth + 'px, '+(ref.offsetHeight*cP)+'px, 0)');
+};
+
+function animFade(ref, counter)
+{
+ var f = ref.filters, done = (counter==100);
+ if (f)
+ {
+  if (!done && ref.style.filter.indexOf("alpha") == -1)
+   ref.style.filter += ' alpha(opacity=' + counter + ')';
+  else if (f.length && f.alpha) with (f.alpha)
+  {
+   if (done) enabled = false;
+   else { opacity = counter; enabled=true }
+  }
+ }
+ else ref.style.opacity = ref.style.MozOpacity = counter/100.1;
+};
+
+
+listMenu.animations[listMenu.animations.length] = animFade;
+listMenu.animations[listMenu.animations.length] = animClipDown;
+listMenu.animSpeed = 20;
+
+
+
+var arrow = null;
+if (document.createElement && document.documentElement)
+{
+ arrow = document.createElement('span');
+ arrow.appendChild(document.createTextNode('>'));
+ // Feel free to replace the above two lines with these for a small arrow image...
+ //arrow = document.createElement('img');
+ //arrow.src = 'arrow.gif';
+ //arrow.style.borderWidth = '0';
+ arrow.className = 'subind';
+}
+
+addEvent(window, 'load', new Function('listMenu.activateMenu("listMenuRoot", arrow)'));
+
+//]]>
+</script>
+<p class="imagepar"><img src="images/agent.gif" width="118" height="200" /></p>
+</li>
+</ul>
+</td>
+<td width="20">
+<img src="images/sideblue.jpg" class="sideblue" width="20" height="900">
+</td>
+<td valign="top">
+			<div align="center">
+<img src="images/logoheader.jpg" width="400" class="logoheader">
+			</div>
+<h2>Exhibitions</h2>
+<p class="mainpar">Send us information on any exhibitions that
+are part of the security or radio communications industry. We
+will add them to our Exhibition page as a service to the
+industry.<br />
+<br />
+The below links will open up in a new browser window</p>
+
+<table border="1">
+<tr class="mainpar">
+<td bgcolor="silver">Exhibition</td>
+<td bgcolor="silver">Date</td>
+<td bgcolor="silver">Location</td>
+<td bgcolor="silver">Web</td>
+<td bgcolor="silver">Contact</td>
+</tr>
+
+
+
+
+
+<tr class="exhibitiontable">
+<td>Sports Security Summit</td>
+<td>January 19-20, 2006</td>
+<td>London, UK</td>
+<td><a href="http://www.rushmans.com" target="_blank">www.rushmans.com</a></td>
+<td><a href="mailto:steve@rushmans.com" target="_blank">steve</a></td>
+</tr>
+
+<tr class="exhibitiontable">
+<td>IIPSEC</td>
+<td>January 24-26, 2006</td>
+<td>Warwickshire, UK</td>
+<td><a href="http://www.iipsec.com" target="_blank">www.iipsec.com</a></td>
+<td><a href="mailto:kevin.fagan@iipsec.com" target="_blank">kevin fagan</a></td>
+</tr>
+
+<tr class="exhibitiontable">
+<td>Intersec Dubai 2006</td>
+<td>January 29-31, 2006</td>
+<td>Dubai, UAE</td>
+<td></td>
+<td><a href="mailto:info@epocmessefrankfurt.ae" target="_blank">info</a></td>
+</tr>
+
+<tr class="exhibitiontable">
+<td>Arabian Security</td>
+<td>February 12-16, 2006</td>
+<td>Riyadh</td>
+<td><a href="http://www.recexpo.com" target="_blank">www.recexpo.com</a></td>
+<td><a href="mailto:astex@recexpo.com" target="_blank">astex</a></td>
+</tr>
+
+<tr class="exhibitiontable">
+<td>African Airports World 2006</td>
+<td>February 28 - March 3</td>
+<td>Gauteng, South Africa</td>
+<td></td>
+<td><a href="mailto:stephen.butler@terrapinn.co.za" target="_blank">stephen</a></td>
+</tr>
+
+
+<tr class="exhibitiontable">
+<td>SecuTech Expo 2006</td>
+<td>March 2-4, 2006</td>
+<td>Taiwan</td>
+<td><a href="http://www.asmag.com" target="_blank">www.asmag.com</a></td>
+<td></td>
+</tr>
+
+<tr class="exhibitiontable">
+<td>Fire & Security</td>
+<td>March 2-4, 2006</td>
+<td>Karachi, Pakistan</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr class="exhibitiontable">
+<td>MIPS 2006</td>
+<td>April 4-7, 2006</td>
+<td>Moscow, Russia</td>
+<td><a href="http://www.ite-exhibitions.com" target="_blank">www.ite-exhibitions.com</a></td>
+<td><a href="mailto:enquiry@ite-exhibitions.com" target="_blank">enquiry</a></td>
+</tr>
+
+<tr class="exhibitiontable">
+<td>ASIS</td>
+<td>April 23-26, 2006</td>
+<td>Nice, France</td>
+<td><a href="http://www.asisonline.org" target="_blank">www.asisonline.org</a></td>
+<td><a href="mailto:nice@asisonline.org" target="_blank">nice</a></td>
+</tr>
+
+<tr class="exhibitiontable">
+<td>Safety and Security Equipment</td>
+<td>April 24-27, 2006</td>
+<td>Tehran, Iran</td>
+<td><a href="http://www.ipas.ir" target="_blank">www.ipas.ir</a></td>
+<td><a href="mailto:info@ipas.ir" target="_blank">info</a></td>
+</tr>
+
+<tr class="exhibitiontable">
+<td>Aid Relief and Disaster Management</td>
+<td>May 2-4, 2006</td>
+<td>Gauteng, RSA</td>
+<td></td>
+<td><a href="mailto:info@fairconsultants.com" target="_blank">info</a></td>
+</tr>
+
+<tr class="exhibitiontable">
+<td>Safety Trade Show</td>
+<td>May 3-5, 2006</td>
+<td>Dornbirn, Austria</td>
+<td><a href="http://www.ipas.ir" target="_blank">www.ipas.ir</a></td>
+<td><a href="mailto:wolfgang.hauesle@dornbirnermesse.at" target="_blank">wolfgang</a></td>
+</tr>
+
+<tr class="exhibitiontable">
+<td>IFSEC 2006</td>
+<td>May 8-11, 2006</td>
+<td>Birmingham, UK</td>
+<td><a href="http://www.ifsec.co.uk" target="_blank">www.ifsec.co.uk</a></td>
+<td><a href="mailto:spress@cmpinformation.com" target="_blank">spress</a></td>
+</tr>
+
+<tr class="exhibitiontable">
+<td>Milipol 2006</td>
+<td>May 15-17, 2006</td>
+<td>Doha, Qatar</td>
+<td><a href="http://www.milipol.com" target="_blank">www.milipol.com</a></td>
+</tr>
+
+<tr class="exhibitiontable">
+<td>Asian Securitex 2006</td>
+<td>June 7-9, 2006</td>
+<td>Hong Kong</td>
+<td><a href="http://www.hkesallworld.com" target="_blank">www.hkesallworld.com</a></td>
+<td><a href="mailto:exhibit@hkesallworld.com" target="_blank">exhibit</a></td>
+</tr>
+
+<tr class="exhibitiontable">
+<td>Air & Port Security</td>
+<td>June 13-14, 2006</td>
+<td>Hong Kong</td>
+<td></td>
+<td><a href="mailto:pjones@simply-events.com" target="_blank">pjones</a></td>
+</tr>
+
+<tr class="exhibitiontable">
+<td>Securex 2006</td>
+<td>June 21-23, 2006</td>
+<td>Gauteng, RSA</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr class="exhibitiontable">
+<td>Focus on Security</td>
+<td>August, 2006</td>
+<td>Durban, RSA</td>
+<td></td>
+<td><a href="mailto:brenda@secpub.co.za" target="_blank">brenda</a></td>
+</tr>
+
+<tr class="exhibitiontable">
+<td>ASIS</td>
+<td>September 25-28, 2006</td>
+<td>California, USA</td>
+<td><a href="http://www.aisonline.org" target="_blank">www.aisonline.org</a></td>
+<td></td>
+</tr>
+
+<tr class="exhibitiontable">
+<td>Security Essen</td>
+<td>October 10-13, 2006</td>
+<td>Essen, Germany</td>
+<td><a href="http://www.messe-essen.de" target="_blank">www.messe-essen.de</a></td>
+<td></td>
+</tr>
+
+<tr class="exhibitiontable">
+<td>Fire and Security India 2006</td>
+<td>December 13-15, 2006</td>
+<td>New Delhi, India</td>
+<td><a href="http://cemssvs.com.sg" target="_blank">cemssvs.com.sg</a></td>
+<td><a href="mailto:info@cemssvs.com.g" target="_blank">info</a></td>
+</tr>
+
+</table>
+</td>
+</tr>
+</table>
+<br />
+<table class="footer" border="0" cellpadding="0" cellspacing="0" width="760" summary="Marshall International Footer">
+<tr>
+<td><img border="0" src="images/footer_marshall3.gif" width="780" height="21" /></td>
+</tr>
+</table>
+
+</div>
+</body>
+</html>
+

@@ -1,0 +1,354 @@
+<HTML>
+<HEAD>
+ <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+ <META NAME="GENERATOR" CONTENT="LigaManager '98 Free 2.2a">
+ <TITLE>European Junior Championship - Dinan (France), 3-8.09.2001</TITLE>
+<style type="text/css">
+<!--
+. { font-family:Arial,Verdana,Helvetica; }
+textarea,select { font-family:Monotype,Courier,"Courier New",Fixedsys; color:navy; background-color:#ffffdd; }
+a:link {color:#0000ff;text-decoration:none}
+a:visited {color:#d700d7;text-decoration:none}
+a:active {color:#ff0080;text-decoration:underline}
+a:hover {text-decoration:underline}
+//-->
+</style>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- hide from old browsers
+var team = new Array();
+var d1 = new Array();
+var d2 = new Array();
+var ma1 = new Array();
+var mb1 = new Array();
+var ta1 = new Array();
+var tb1 = new Array();
+var ma2 = new Array();
+var mb2 = new Array();
+var ta2 = new Array();
+var tb2 = new Array();
+var ma3 = new Array();
+var mb3 = new Array();
+var ta3 = new Array();
+var tb3 = new Array();
+team[0]="---";
+team[1]="England"
+team[2]="Germany"
+team[3]="Switzerland"
+team[4]="Spain"
+team[5]="Portugal"
+team[6]="France"
+team[7]="Italy"
+d1[1]="03.09.2001"
+d2[1]="."
+ma1[1]=4
+mb1[1]=1
+ta1[1]=10
+tb1[1]=0
+ma2[1]=6
+mb2[1]=3
+ta2[1]=2
+tb2[1]=4
+ma3[1]=2
+mb3[1]=5
+ta3[1]=0
+tb3[1]=6
+d1[2]="04.09.2001"
+d2[2]="."
+ma1[2]=2
+mb1[2]=7
+ta1[2]=2
+tb1[2]=3
+ma2[2]=1
+mb2[2]=3
+ta2[2]=1
+tb2[2]=8
+ma3[2]=6
+mb3[2]=4
+ta3[2]=1
+tb3[2]=5
+d1[3]="05.09.2001"
+d2[3]="."
+ma1[3]=3
+mb1[3]=5
+ta1[3]=2
+tb1[3]=5
+ma2[3]=1
+mb2[3]=2
+ta2[3]=2
+tb2[3]=3
+ma3[3]=7
+mb3[3]=4
+ta3[3]=0
+tb3[3]=3
+d1[4]="05.09.2001"
+d2[4]="."
+ma1[4]=5
+mb1[4]=1
+ta1[4]=31
+tb1[4]=2
+ma2[4]=7
+mb2[4]=6
+ta2[4]=1
+tb2[4]=0
+ma3[4]=4
+mb3[4]=3
+ta3[4]=2
+tb3[4]=0
+d1[5]="06.09.2001"
+d2[5]="."
+ma1[5]=3
+mb1[5]=2
+ta1[5]=2
+tb1[5]=3
+ma2[5]=5
+mb2[5]=7
+ta2[5]=4
+tb2[5]=2
+ma3[5]=1
+mb3[5]=6
+ta3[5]=3
+tb3[5]=6
+d1[6]="07.09.2001"
+d2[6]="."
+ma1[6]=7
+mb1[6]=1
+ta1[6]=11
+tb1[6]=1
+ma2[6]=4
+mb2[6]=2
+ta2[6]=10
+tb2[6]=0
+ma3[6]=6
+mb3[6]=5
+ta3[6]=1
+tb3[6]=8
+d1[7]="08.09.2001"
+d2[7]="."
+ma1[7]=3
+mb1[7]=7
+ta1[7]=1
+tb1[7]=3
+ma2[7]=2
+mb2[7]=6
+ta2[7]=1
+tb2[7]=3
+ma3[7]=5
+mb3[7]=4
+ta3[7]=3
+tb3[7]=4
+function links(Text,Anzahl)
+ {
+ x=Text.length
+ if (x>25)
+  {
+  Text=Text.substring(1,Anzahl)
+  x=Anzahl
+  }
+ Leer=""
+ if (x>0)
+  {
+  x=Anzahl-x
+  for(i = 1; i <= x; i++)
+         {Leer=Leer+" "}
+  }
+ Text=Text+Leer
+ return Text
+ }
+function torl(n)
+ {
+ if(n>99){return n}
+ if(n==-2){return "   X"}
+ if(n==-1){return "   -"}
+ if(n<10){return "   "+n}
+ if(n<100){return "  "+n}
+ if(n<1000){return " "+n}
+ }
+function torr(n)
+ {
+ if(n>99){return n}
+ if(n==-2){return "X   "}
+ if(n==-1){return "-   "}
+ if(n<10){return n+"   "}
+ if(n<100){return n+"  "}
+ if(n<1000){return n+" "}
+ }
+function spieltag(n)
+ {
+ bs=n+". Round   "+d1[n]+" - "+d2[n]
+ bs=bs+"\n---------------------------------------------------------------"
+ bs=bs+"\n"+links(team[ma1[n]],25)+" - "+links(team[mb1[n]],25)+" "+torl(ta1[n])+":"+torr(tb1[n])
+ bs=bs+"\n"+links(team[ma2[n]],25)+" - "+links(team[mb2[n]],25)+" "+torl(ta2[n])+":"+torr(tb2[n])
+ bs=bs+"\n"+links(team[ma3[n]],25)+" - "+links(team[mb3[n]],25)+" "+torl(ta3[n])+":"+torr(tb3[n])
+ document.bl.sp.value=bs
+ }
+function start()
+ {
+ if(document.bl.st[0].selected){spieltag(1)};
+ if(document.bl.st[1].selected){spieltag(2)};
+ if(document.bl.st[2].selected){spieltag(3)};
+ if(document.bl.st[3].selected){spieltag(4)};
+ if(document.bl.st[4].selected){spieltag(5)};
+ if(document.bl.st[5].selected){spieltag(6)};
+ if(document.bl.st[6].selected){spieltag(7)};
+ }
+// -->
+</SCRIPT>
+</HEAD>
+<BODY BGCOLOR=#E8EFFF TEXT=#2905A5 ONLOAD="start()">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<title></title>
+</head>
+
+<body>
+
+</body>
+</html>
+<CENTER>
+<FONT SIZE=5><B>European Junior Championship - Dinan (France), 3-8.09.2001</B></FONT>
+<P>
+<FORM NAME="bl">
+<FONT SIZE=4><B>Results of </B></FONT>
+ <SELECT NAME="st" ONCHANGE="start()">
+  <OPTION>1. Round
+  <OPTION>2. Round
+  <OPTION>3. Round
+  <OPTION>4. Round
+  <OPTION>5. Round
+  <OPTION>6. Round
+  <OPTION SELECTED>7. Round
+ </SELECT>
+<BR>
+<TEXTAREA NAME="sp" ROWS="5" COLS="63" READONLY></TEXTAREA>
+</FORM>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- hide from old browsers
+ document.bl.st.focus()
+// -->
+</SCRIPT>
+<P>
+<TABLE BGCOLOR=#FFFFFF CELLSPACING=0 CELLPADDING=0 BORDER=1><TR><TD>
+<TABLE CELLSPACING=0 CELLPADDING=1 BORDER=0 WIDTH=100%><TR><TD>
+ <TR BGCOLOR=#EEEEEE>
+  <TD COLSPAN=2><FONT COLOR=#0600EE><B>Table</B></FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#0600EE><B>&nbsp;&nbsp;Pl.</B></FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#0600EE><B>&nbsp;&nbsp;w</B></FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#0600EE><B>&nbsp;&nbsp;d</B></FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#0600EE><B>&nbsp;&nbsp;l</B></FONT></TD>
+  <TD ALIGN=CENTER COLSPAN=3><FONT COLOR=#0600EE><B>&nbsp;&nbsp;&nbsp;&nbsp;Goals&nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#0600EE><B>Diff.</B></FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#0600EE><B>&nbsp;&nbsp;&nbsp;&nbsp;Pts.</B></FONT></TD>
+ </TR>
+ <TR BGCOLOR="#BBFFFF">
+  <TD ALIGN=RIGHT><FONT COLOR=#0A5C16><B>1&nbsp;</B></FONT></TD>
+  <TD><FONT COLOR=#0A5C16>Spain</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#0A5C16>6</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#0A5C16>6</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#0A5C16>0</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#0A5C16>0</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#0A5C16>34</FONT></TD>
+  <TD ALIGN=CENTER><FONT COLOR=#0A5C16>:</FONT></TD>
+  <TD><FONT COLOR=#0A5C16>4</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#0A5C16>30</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#0A5C16><B>18</B></FONT></TD>
+ </TR>
+ <TR BGCOLOR="#FFFFFF">
+  <TD ALIGN=RIGHT><FONT COLOR=#000000><B>2&nbsp;</B></FONT></TD>
+  <TD><FONT COLOR=#000000>Portugal</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>6</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>5</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>0</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>1</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>57</FONT></TD>
+  <TD ALIGN=CENTER><FONT COLOR=#000000>:</FONT></TD>
+  <TD><FONT COLOR=#000000>11</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>46</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000><B>15</B></FONT></TD>
+ </TR>
+ <TR BGCOLOR="#FFFFFF">
+  <TD ALIGN=RIGHT><FONT COLOR=#000000><B>3&nbsp;</B></FONT></TD>
+  <TD><FONT COLOR=#000000>Italy</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>6</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>4</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>0</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>2</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>20</FONT></TD>
+  <TD ALIGN=CENTER><FONT COLOR=#000000>:</FONT></TD>
+  <TD><FONT COLOR=#000000>11</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>9</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000><B>12</B></FONT></TD>
+ </TR>
+ <TR BGCOLOR="#FFFFFF">
+  <TD ALIGN=RIGHT><FONT COLOR=#000000><B>4&nbsp;</B></FONT></TD>
+  <TD><FONT COLOR=#000000>Switzerland</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>6</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>2</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>0</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>4</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>17</FONT></TD>
+  <TD ALIGN=CENTER><FONT COLOR=#000000>:</FONT></TD>
+  <TD><FONT COLOR=#000000>16</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>1</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000><B>6</B></FONT></TD>
+ </TR>
+ <TR BGCOLOR="#FFFFFF">
+  <TD ALIGN=RIGHT><FONT COLOR=#000000><B>5&nbsp;</B></FONT></TD>
+  <TD><FONT COLOR=#000000>France</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>6</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>2</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>0</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>4</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>13</FONT></TD>
+  <TD ALIGN=CENTER><FONT COLOR=#000000>:</FONT></TD>
+  <TD><FONT COLOR=#000000>22</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>-9</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000><B>6</B></FONT></TD>
+ </TR>
+ <TR BGCOLOR="#FFFFFF">
+  <TD ALIGN=RIGHT><FONT COLOR=#000000><B>6&nbsp;</B></FONT></TD>
+  <TD><FONT COLOR=#000000>Germany</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>6</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>2</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>0</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>4</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>9</FONT></TD>
+  <TD ALIGN=CENTER><FONT COLOR=#000000>:</FONT></TD>
+  <TD><FONT COLOR=#000000>26</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>-17</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000><B>6</B></FONT></TD>
+ </TR>
+ <TR BGCOLOR="#FFFFFF">
+  <TD ALIGN=RIGHT><FONT COLOR=#000000><B>7&nbsp;</B></FONT></TD>
+  <TD><FONT COLOR=#000000>England</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>6</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>0</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>0</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>6</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>9</FONT></TD>
+  <TD ALIGN=CENTER><FONT COLOR=#000000>:</FONT></TD>
+  <TD><FONT COLOR=#000000>69</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000>-60</FONT></TD>
+  <TD ALIGN=RIGHT><FONT COLOR=#000000><B>0</B></FONT></TD>
+ </TR>
+</TABLE>
+</TD></TR></TABLE>
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage Express 2.0">
+<title></title>
+</head>
+
+<body>
+</body>
+</html>
+</CENTER>
+</BODY>
+</HTML>
+

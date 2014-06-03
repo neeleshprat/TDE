@@ -1,0 +1,1337 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fa" lang="fa" dir="ltr">
+<head><!-- PageID 707 - published by Open Text Web Solutions 10.1 - 10.1.1.334 - 25166 -->
+<meta name="date" content="05 February 2012 07:53" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>???? ??????? ???????? ?? ???? ?????? ????????</title>
+<meta name="robots" content="all" />
+<meta name="description" content="???? ??????? ???????? ???? ??????????? ????? ?? ???? ?????? ????????  ??????? ?????" />
+<meta name="keywords" content="" />
+<meta name="verify-v1" content="0vGAhvX8H/68wdDC8m6YtgA5wfvStuwmumvkHT0/1v4=" > 
+<meta name="google-site-verification" content="gtqP04A5TBRZ8p84h_Mlg4x6cuAUecoHmGOKtsXzMNg" />
+
+
+    <link rel="stylesheet" href="/css/base_rtl.css" type="text/css" />
+   
+
+
+    <link rel="stylesheet" href="/css/content_rtl.css" type="text/css" />
+   
+
+
+    <link rel="stylesheet" href="/css/sidenav_rtl.css" type="text/css" />
+   
+
+
+    <link rel="stylesheet" href="/css/topnav_rtl.css" type="text/css" />
+   
+
+
+    <link rel="stylesheet" href="/css/home_rtl.css" type="text/css" />
+   
+
+    <link rel="stylesheet" href="/css/footer.css" type="text/css" />
+    <link rel="stylesheet" href="/css/print.css" type="text/css" />
+
+
+
+     <!--[if lte IE 7]>
+         <link rel="stylesheet" href="/css/ie7.css" type="text/css" media="screen" />
+     <![endif]-->
+
+
+
+
+
+
+
+<script language="Javascript" src="/farsi/javascript/javascript.js" type="text/Javascript"></script>
+
+<!-- LivePerson script -->
+<script type="text/javascript">
+    if (typeof(lpUnit)=='undefined')    var lpUnit='bellerbys';
+</script>
+<script src="/javascript/studygroup_mtagconfig_js.js" type="text/Javascript"></script>
+<!-- End LivePerson script -->
+
+<style type="text/css">
+/* Selected style for first level navigation items and their sub pages */
+#FirstLevelNav ul li a.navSelected2
+{
+ color: #ffffff;
+ background-position: 0px 80px;
+}
+
+</style>
+
+
+
+
+
+</head>
+<body>
+<!-- LivePerson Chat -->
+<div id="LivePersonButtonDiv"></div>
+<!-- End LivePerson Chat -->
+<div id="container">
+<!-- ==== OMNITURE CODE ============================ -->
+
+<!-- SiteCatalyst code version: H.20.3.
+Copyright 1997-2009 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="/javascript/omniture_javascript_s-code_3239.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+/* Study Group code to prepare Omniture variables */
+// Trim function
+function strtrim()
+{
+    return this.replace(/^\s+|\s+$/g, '');     
+}
+String.prototype.trim = strtrim;
+// Clear leading and trailing white space from placeholders using trim function
+section = ":courses";
+section = section.trim();
+subsection = ":foundation";
+subsection = subsection.trim();
+subsubsection = "";
+subsubsection = subsubsection.trim();
+page = "business";
+page = page.trim();
+
+//For page content with separate filenames and breadcrumbs eg: photo gallery content
+published_page = "business.aspx";
+published_page = published_page.split('.')[0]; //take out the file extension .aspx
+published_page = published_page.trim();
+published_page = published_page.toLowerCase();
+//document.write("Published page value is " + published_page); //Test
+
+trn_headline = "";
+trn_headline = trn_headline.trim();
+trn_headline = trn_headline.toLowerCase();
+
+if (trn_headline != "")
+{
+    // now using published file name in case trn_headline is translated
+    //trn_headline = " " + trn_headline; 
+    trn_headline = " " + published_page;
+}
+
+//Set language abbr to lower case
+languageLC = "FAR";
+language = languageLC.toLowerCase();
+
+// Set variables
+pageName = language + section + subsection + subsubsection + ":" + page + trn_headline; //pageName
+channel = language + section; //site section
+prop1 = "bc"; //site
+prop2 = language + section + subsection; //sub section
+prop3 = language + section + subsection + subsubsection; //sub sub section
+prop4 = language; //language
+// Convert pageName to lower case
+pageName = pageName.toLowerCase();
+//Display pageName for reference
+
+/* End Study Group code to prepare Omniture variables */
+// Set Omniture variables
+s.pageName = pageName
+s.channel = channel
+s.prop1 = prop1
+s.prop2 = prop2
+s.prop3 = prop3
+s.prop4 = prop4
+/* Hierarchy Variables */
+s.hier1 = pageName.replace(/:/g, "|");
+
+/* Application Conversion */
+s.products=";bc:FNDBAE"
+s.events="prodView,event2"
+/* End Application Conversion */
+
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.20.3. -->
+<!-- ==== End OMNITURE CODE =============================== -->
+
+
+<!-- Top navigation -->
+<div id="topnav">
+<!-- Mast 1 - call to actions links -->
+
+
+<div id="mast1_alternative">
+   <a href="/farsi/index.aspx"><img src="/css_images/topbanner_logo_NEW.gif" class="bellerbyslogo" alt="???? ?????? - ?????? ???? ??????? ????????" border="0" /></a>
+   <ul>
+    <li><a class="fees" href="/farsi/admission/fees_calculator.aspx"><span class="text">???????? </span></a></li>
+    <li><a class="apply" href="/farsi/admission/applyonline.aspx"><span class="text">??????? </span></a></li>
+    <li><a class="contact" href="/farsi/admission/contact.aspx"><span class="text">?????? ?? ?? </span></a></li>
+    <li><a class="prospectus" href="/farsi/downloads.aspx"><span class="text">??????? ?????? </span></a></li>
+   </ul>
+<!-- Close div mast1_alternative -->
+</div>
+<div id="statement">
+    <P>???? ??????? ???????? ? ????? ?? ???????? ????????? ???????? ?? ?????? ?? ??????????? ???????? :::</P>
+  <!-- Close statement div -->
+ </div>
+<!-- Mast 2 - statement, translations, search -->
+
+
+
+
+
+<div id="mast2">
+   <!-- Links to language variants -->
+   <ul>
+    <li class="first"><a href="/english/courses/business.aspx" title="English">English</a></li>
+    <li><a href="/russian/courses/business.aspx" title="Russian">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;</a></li>
+    <li><a href="/tchinese/courses/business.aspx" title="Chinese (Traditional)">&#32321;&#39636;&#20013;&#25991;</a></li>
+    <li><a href="/schinese/courses/business.aspx" title="Chinese (Simplified)">&#31616;&#20307;&#20013;&#25991;</a></li>
+    <li><a href="/arabic/courses/business.aspx" title="Arabic">&nbsp;&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;&nbsp;</a></li>
+    <li><a href="/turkish/courses/business.aspx" title="Turkish ">T?rk?e</a></li>
+    <li><a href="/farsi/courses/business.aspx" title="Farsi">&nbsp;&#1601;&#1575;&#1585;&#1587;&#1740;&nbsp;</a></li>
+    <li><a href="/german/courses/business.aspx" title="German">Deutsch</a></li>
+    <li><a href="/vietnamese/courses/business.aspx" title="Vietnamese">Ti?ng Vi?t</a></li>
+    <li><a href="/laspanish/courses/business.aspx" title="Spanish">Espa&ntilde;ol</a></li>
+  </ul>
+    <!-- Links to language variants commented out until translations completed -->
+   <!-- <li><a href="#" title="Other">Other languages</a></li> -->
+   <!-- Search -->
+   <div id="search">
+    <form name="searchform" id="searchform" method="get" action="/farsi/search.aspx">
+       ?????? ???? <input name="q" type="text" class="searchbox" id="keyword" size="16" />
+     <input name="submit" type="submit" class="searchicon" id="submit" value="?????" />
+    </form>
+   </div>
+   <!-- Close Search -->
+  <!-- Close mast2 -->
+  </div>
+<!-- First level links -->
+
+
+
+<div id="FirstLevelNav">
+    <ul>
+    <li class="first"><a class="navSelected1" href="/farsi/about.aspx"><span class="item">?? ???? ??</span></a></li>
+    <li><a class="navSelected2" href="/farsi/courses.aspx"><span class="item">???????</span></a></li>
+    <li><a class="navSelected3" href="/farsi/locations.aspx"><span class="item">??????</span></a></li>
+    <li><a class="navSelected4" href="/farsi/results.aspx"><span class="item">?????</span></a></li>
+    <li><a class="navSelected5" href="/farsi/admission.aspx"><span class="item">?????</span></a></li>
+    <li class="last"><a class="navSelected6" href="/farsi/study.aspx"><span class="item">????? ?? ????????</span></a></li>
+   </ul>
+  <!-- Close div FirstLevelNav -->
+  </div>
+<!-- Breadcrumb trail including headline of current page. Not on home page. -->
+
+ 
+<div id="breadcrumb">
+   <ul>
+    <li><a href="/farsi/index.aspx">????</a> &gt;</li>
+    <li><a href="/farsi/courses.aspx">???????</a> &gt;</li><li><a href="/farsi/courses/foundation.aspx">???? ???????</a> &gt;</li>
+    
+        <li>???? ??????? ????????</li>
+    
+   </ul>
+<!-- Print, favourites, send page buttons commented out and replaced with AddThis buttons -->
+<script type="text/javascript">
+    var addthis_config = {
+              username: "bellerbyswebsite"
+        }
+
+    var addthis_config = {
+            data_track_clickback: true
+        }
+
+</script>
+<div id="addthis_bespoke"> 
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style">
+    <div id="bespoke_share">
+      <a href="http://www.addthis.com/bookmark.php?v=250&amp;username=bellerbyswebsite" class="addthis_button_compact">Share</a>
+    <!-- Close div bespoke_share -->
+    </div>
+    <span class="addthis_separator">|</span>
+    <a class="addthis_button_facebook"></a>
+    <a class="addthis_button_email"></a>
+    <a class="addthis_button_favorites"></a>
+    <a class="addthis_button_print"></a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=bellerbyswebsite"></script>
+<!-- AddThis Button END -->
+<!-- Close div addthis_bespoke -->
+</div>
+
+
+
+<!-- Close div breadcrumb -->
+</div>
+
+
+<!-- Close div topnav -->
+</div>
+
+
+
+<!-- NEW contentwrapper POSITION -->
+<div id="contentwrapper">
+<div id="sidenav">
+
+
+<!-- 2nd level page - sidenav -->
+<!-- <div id="sidenav"> -->
+<p><img src="/images/courses_small_2010.jpg" alt="Courses" /></p>
+
+<!-- con_2ndlevel_navigation_item was here -->
+<!-- con_newsletter_signup was here -->
+<!-- Close div sidenav -->
+<!-- </div> -->
+<!-- NAVMAN Area -->
+<ul>
+
+
+
+
+
+
+
+  <li>
+    <a href="/farsi/courses/pre_gcse.aspx">Pre-GCSE</a>
+   </li>
+
+  <li>
+    <a href="/farsi/courses/gcse.aspx">GCSE</a>
+   </li>
+
+  <li>
+    <a href="/farsi/courses/alevel.aspx">??? A</a>
+   </li>
+
+           <li>
+            <a class="selected" href="/farsi/courses/foundation.aspx">???? ???????</a>
+               <ul>
+  <li>
+    <a href="/farsi/courses/art.aspx">???? ??????? ??? ? ?????</a>
+   </li>
+
+        <li>
+            <a class="selected" href="/farsi/courses/business.aspx">???? ??????? ????????</a>
+        </li>
+       
+  <li>
+    <a href="/farsi/courses/chemicalengineeringfoundation.aspx">???? ???? ?????? ????</a>
+   </li>
+
+  <li>
+    <a href="/farsi/courses/engineering.aspx">???? ??????? ??????</a>
+   </li>
+
+  <li>
+    <a href="/farsi/courses/humanities.aspx">???? ??????? ???? ???? ??????</a>
+   </li>
+
+  <li>
+    <a href="/farsi/courses/it.aspx">???? ??????? ?????? ???????</a>
+   </li>
+
+  <li>
+    <a href="/farsi/courses/law.aspx">???? ??????? ???? ????</a>
+   </li>
+
+  <li>
+    <a href="/farsi/courses/media_foundation.aspx">???? ? ???? ? ????? </a>
+   </li>
+
+  <li>
+    <a href="/farsi/courses/science.aspx">???? ??????? ???? ???? </a>
+   </li>
+
+  <li>
+    <a href="/farsi/courses/core.aspx">???? ????</a>
+   </li>
+
+  <li>
+    <a href="/farsi/courses/partners.aspx">??????????? ??? ??????? </a>
+   </li>
+</ul>
+            </li>
+        
+  <li>
+    <a href="/farsi/courses/extendedfoundation.aspx">???? ??????? ??????</a>
+   </li>
+
+  <li>
+    <a href="/farsi/courses/diploma.aspx">????????? ???????? ? ??????</a>
+   </li>
+
+  <li>
+    <a href="/farsi/courses/premasters.aspx">??? ??????</a>
+   </li>
+
+  <li>
+    <a href="/farsi/courses/mqp.aspx">?????? ?????? ???? ???????? ????</a>
+   </li>
+
+  <li>
+    <a href="/farsi/courses/bellerbyssummer.aspx">??????? ??????</a>
+   </li>
+
+  <li>
+    <a href="/farsi/courses/summer_ielts.aspx">????? ???? IELTS ??????</a>
+   </li>
+
+  <li>
+    <a href="/farsi/courses/elp.aspx">???? ?????? ???? ???????</a>
+   </li>
+
+  <li>
+    <a href="/farsi/courses/january.aspx">????????? ?? ?? ??? ?????? ???? ???????</a>
+   </li>
+
+  <li>
+    <a href="/farsi/courses/april.aspx">???? ???? ?? ?? ????? ???? ?? ????</a>
+   </li>
+
+  <li>
+    <a href="/farsi/courses/summer.aspx">???????? ?????? ????????</a>
+   </li>
+
+  <li>
+    <a href="/farsi/courses/september.aspx">???? ???? ?? ?? ??? ??????? ???? ?? ????</a>
+   </li>
+
+  <li>
+    <a href="/farsi/courses/mwsummerschools.aspx">MW Summer Schools</a>
+   </li>
+
+
+
+
+
+
+
+
+
+
+
+</ul>
+<!-- END NAVMAN Area -->
+
+
+<div id="signupbutton">
+
+</div>
+<!-- Close div sidenav -->
+</div>
+<!-- END NEW POSITION -->
+
+
+<!-- Content area -->
+
+
+
+
+
+<div id="content" class="fullwidth">
+   
+      <!-- <div id="quicklink"><A href="/farsi/admission/contact.aspx">?????? ?? ??</A> | <A href="/farsi/admission/apply.aspx">???????</A></div> -->
+    
+
+<div id="quicklink">
+  <!-- <a class="contact" href="/farsi/admission/contact.aspx"><span class="contact_label">?????? ?? ??</span></a> -->
+  <!-- <a class="apply" href="/farsi/admission/apply.aspx"><span class="apply_label">???????</span></a> -->
+  <a class="contact" href="/farsi/admission/contact.aspx"><img src="/images_quicklinks/contact_farsi.gif" alt="?????? ?? ??" /></a>
+  <a class="apply" href="/farsi/admission/apply.aspx"><img src="/images_quicklinks/apply_farsi.gif" alt="???????" /></a>
+</div>
+    <h1>???? ??????? ????????? ???? ???? ? ??????</h1>
+    <!-- Content selection starts here -->
+    
+
+
+        <p>???? ??????? ???????? ?? ???? ?????? ???? ?? ???? ?? ?????????? ?? ?????? ????? ?? ???????? ?????? ?? ???????? ?? ???? ???????? ??????? ??????? ????????? ????????? ?????????? ??????? ??????? ???? ???? ? ?????? ???????? ? ???????? ????? ?? ???? ??????? ???.? ??? ???? ?? ??? ????? ??? ??? ?? ??? ?? ???? ????? ?? ???? ???? ?????? ?? ??????? ????? ???.</p>
+        <p>?? ?????? ???? ??????? ???????? ?? ?? ???? ??? ???????<a  href="/farsi/locations/brighton.aspx" title="Brighton">Brighton</a>??<a  href="/farsi/locations/cambridge.aspx" title="Bellerbys College Cambridge" target="_self">Cambridge</a>??<a  href="/farsi/locations/london.aspx" title="Bellerbys College London" target="_self">London</a>????<a  href="/farsi/locations/oxford.aspx" title="Oxford">Oxford</a>?????????. ???? ???? ?? ??????? ????? ?? ??????? ???.</p>
+        <h2>?????? ????</h2>
+        <p>?? ??? ????<a  href="/farsi/courses/core.aspx">???? ???? </a>?? ????? ?? ????? ???? ??????????? ???? ??????? ?????? ????? ? ??? ???? ????????? ???? ???? ? ?????? ?? ??? ?????? ?????. </p>
+        <p><strong>?????? ????? ?????? ? ??? ?????? ?????</strong></p>
+        <p>?????? ???? ??? ??? ?? ???? ???? ????? ? ?????? ??? ? ???? ?? ???? ?????? ??????? ????? ????????? ?? ?????? ? ?????? ????? ?????? ????????.</p>
+        <p></p>
+        <p><strong>?????? ?????? ? ?????????</strong></p>
+        <p>?????? ???? ????? ? ????? ??? ????? ? ???? ?????? ? ?????? ? ????? ??????? ???? ????? ??????. ?? ?????? ????? ??? ???? ??????? ???? ??? ??? ????.</p>
+        <p><strong>????? ????????</strong></p>
+        <p>?????? ????? ?? ?? ???????? ?? ????????. ????? ??? ???? ???????? ? ??? ???? ????? ???? ?? ? ????? ??? ????? ?? ????????.</p>
+        <p><strong>?????? ???</strong></p>
+        <p><strong><span style="font-weight: normal; ">?????? ???? ??? ???????? ????? ????? ????? ?????? ??????????? ???? ???? ??? ????? ?????? ????? ? ?????? ???? ???? ??? ?????? ? ??????? ????? ????????.</span></strong></p>
+        <p><strong>?????? ????</strong></p>
+        <p><strong><span style="font-weight: normal; ">?????? ?????? ?? ? ???? ??? ????? ??? ???????? ????? ??????? ????? ??? ?????? ? ????? ??????? ??? ??????.</span></strong></p>
+        <p><strong>??????? ?? ?????</strong></p>
+        <p><strong><span style="font-weight: normal; ">????? ??? ???? ?? ??? ???? ???? ???? ? ???????? ???? ????? ?????? ???? ??? ? ???? ????????? ???? ?? ????? ????.</span></strong></p>
+        <p>
+        <br />
+        ??????? ??? ? ?? ??? ??? ?? ???? ?????????? ???? ????????? ? ???????? ???????? ? ?????? ????? ???? ?????? ??.</p>
+    
+
+<div class="news">
+   <img class="studentphoto" src="/images/london_yanming_fang.jpg" alt="Yan Ming Fang  ?? ???? ????????? ???? ??????? ???????? " />
+   
+   <P>&laquo;?? ???????? ?? ??????????? ???????? ????? ??? ? ?? ????? ??? ???????? ???? ???????? ???. ?????? ?? ??? ??? ?? ????? ????.&nbsp; ??? ?? ??????? ???: &laquo;?? ???????? ???? ????? ???? ???? ?? ??????? ????? ????&raquo;.<BR>Yan Ming Fang&nbsp; ?? ???? ????????? ???? ??????? ???????? <BR></P>
+<!-- Close div news -->
+</div>
+
+<H2>??? ?? ??? ????????</H2>
+<P>???????????? ?? ?? ?????? ???? ??????? ???????? ?? ?? ????? ??????? ????????? ?? ???? ???????? ???????? ??? ???? ??????????? ??? ??????? ?? ????.</P>
+
+
+        <table id="Table4" border="1" cellspacing="0" cellpadding="0">
+            <thead>
+                <tr>
+                    <th class="first" width="600"></th>
+                    <th width="43"><img alt="Accounting"  src="/images/accounting.jpg" /></th>
+                    <th width="43"><img alt="Actuarial Science"  src="/images/actuarial.jpg" /></th>
+                    <th width="43"><img alt="Banking Finance and Investment"  src="/images/banking-finance-investment2.jpg" /></th>
+                    <th width="43"><img alt="Business Information Systems/Computing"  src="/images/businessinfo.jpg" /> </th>
+                    <th width="43"><img alt="Business Studies"  src="/images/business.jpg" /> </th>
+                    <th width="43"><img alt="Economics"  src="/images/economics.jpg" /></th>
+                    <th width="43"><img alt="Hospitality and Tourism"  src="/images/hospitality-tourism.jpg" /></th>
+                    <th width="43"><img alt="Management Studies"  src="/images/mgmt.jpg" /> </th>
+                    <th width="43"><img alt="Marketing"  src="/images/mkting.jpg" /></th>
+                    <th width="43"><img alt="Real Estate and Planning"  src="/images/realestate-planning.jpg" /></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="firstrol">Aberystwyth University</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                </tr>
+                <tr>
+                    <td class="secondrol">Anglia Ruskin University</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="firstrol">Aston University</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="secondrol">Bangor University</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="firstrol">University of Bath</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="secondrol">University of Brighton</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="firstrol">University of Bristol</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="secondrol">University of Buckingham</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="firstrol">Cardiff University</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="secondrol">University of Chester</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="firstrol">De Montfort University Leicester</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="secondrol">Durham University</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="firstrol">University of Essex</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><strong><img alt=""  src="/css_images/tick.gif" /></strong></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="secondrol">University of Exeter</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="firstrol">University of Hertfordshire</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="secondrol">Keele University</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="firstroll">Lancaster University</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="secondrol">University of Leeds</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="firstrol">University of Leicester</td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="secondrol">University of Liverpool</td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="firstrol">Liverpool John Moores University</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                </tr>
+                <tr>
+                    <td class="secondrol">Loughborough University</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="firstrol">Brunel University*</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="secondrol">City University*</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="firstrol">University of East London*</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="secondrol">University of Greenwich*</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="firstrol">Goldsmiths, University of London*</td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="secondrol">University of Kingston, London*</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                </tr>
+                <tr>
+                    <td class="firstrol">London Metropolitan University*</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="secondrol">Middlesex University, London*</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="firstrol">Queen Mary College, University of London*</td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="secondrol">Roehampton University*</td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="firstrol">Royal Holloway College, University of London*</td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="secondrol">London South Bank University*</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                </tr>
+                <tr>
+                    <td class="firstrol">St Mary's University College*</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="secondrol">University of Manchester</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="firstrol">Newcastle University</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                </tr>
+                <tr>
+                    <td class="secondrol">Northumbria University</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="firstrol">University of Nottingham</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="secondrol">Oxford Brookes University</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="firstrol">University of Portsmouth</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                </tr>
+                <tr>
+                    <td class="secondrol">University of Reading</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                </tr>
+                <tr>
+                    <td class="firstrol">University of Sheffield</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="secondrol">University of Southampton</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="firstrol">University of Surrey</td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="secondrol">University of Sussex</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="firstrol">University of Sunderland</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="secondrol">Swansea University</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                </tr>
+                <tr>
+                    <td class="firstrol">University of York</td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"><img alt=""  src="/css_images/tick.gif" /></td>
+                    <td class="thirdrol"></td>
+                    <td class="thirdrol"></td>
+                </tr>
+            </tbody>
+        </table>
+        <p>* Universities in the London area</p>
+    
+
+
+        <h2>???? 2011</h2>
+        <p>???? ??????? ???????? ?? ?????? ????? ???? ? ??? ????? ????????? ?? ??? 2011 ??? ?? ?????? ?? ??????? ?? ???? ??????? ?????? ????????? ??????? ???? ???? ? ???????? ?? ??????? ?????. ?? ??? ????? ?????? ?? ???? ??? ???? ??? ???:</p>
+        <table border="0" cellspacing="0" cellpadding="0" width="90%">
+            <tbody>
+                <tr>
+                    <td class="firstrol" valign="middle">Student Name</td>
+                    <td class="firstrol" valign="middle">Home Country</td>
+                    <td class="firstrol" valign="middle">Final Grade</td>
+                    <td class="firstrol" valign="middle">Degree Course</td>
+                    <td class="firstrol" valign="middle">University</td>
+                </tr>
+                <tr>
+                    <td>Shi Kai Loong</td>
+                    <td>Malaysia</td>
+                    <td>94%</td>
+                    <td>Economics &amp; Finance</td>
+                    <td>Bristol</td>
+                </tr>
+                <tr>
+                    <td>Zi Yu Li</td>
+                    <td>China</td>
+                    <td>92%</td>
+                    <td>Economics</td>
+                    <td>Warwick</td>
+                </tr>
+                <tr>
+                    <td>Shao Yan Ang</td>
+                    <td>Singapore</td>
+                    <td>90%</td>
+                    <td>Investment &amp; Financial Risk Mgmt</td>
+                    <td>City</td>
+                </tr>
+                <tr>
+                    <td>Cheuk Man Lo</td>
+                    <td>Hong Kong</td>
+                    <td>89%</td>
+                    <td>Business Adminstration</td>
+                    <td>Bath</td>
+                </tr>
+                <tr>
+                    <td>Wan Kiu Hon</td>
+                    <td>Hong Kong</td>
+                    <td>88%</td>
+                    <td>Management Studies</td>
+                    <td>Nottingham</td>
+                </tr>
+                <tr>
+                    <td>Hiu Fung Cheng</td>
+                    <td>Hong Kong</td>
+                    <td>88%</td>
+                    <td>Accounting &amp; Finance</td>
+                    <td>Manchester</td>
+                </tr>
+                <tr>
+                    <td>Pui Yi Cheng</td>
+                    <td>Hong Kong</td>
+                    <td>87%</td>
+                    <td>Business Management</td>
+                    <td>Exeter</td>
+                </tr>
+                <tr>
+                    <td>Yuen Ying Cheng</td>
+                    <td>Hong Kong</td>
+                    <td>87%</td>
+                    <td>Business Adminstration</td>
+                    <td>Bath</td>
+                </tr>
+                <tr>
+                    <td>King Heng Mark Tang</td>
+                    <td>Hong Kong</td>
+                    <td>86%</td>
+                    <td>Accounting &amp; Finance</td>
+                    <td>Exeter</td>
+                </tr>
+                <tr>
+                    <td>Yan Tung Michelle Chan</td>
+                    <td>Hong Kong</td>
+                    <td>86%</td>
+                    <td>Accounting &amp; Finance</td>
+                    <td>Bath</td>
+                </tr>
+                <tr>
+                    <td>Clarice Shen Li Foong</td>
+                    <td>Malaysia</td>
+                    <td>86%</td>
+                    <td>Accounting &amp; Finance</td>
+                    <td>Southampton</td>
+                </tr>
+                <tr>
+                    <td>Meruyert Bektemirova</td>
+                    <td>Kazakhstan</td>
+                    <td>86%</td>
+                    <td>Economics</td>
+                    <td>City</td>
+                </tr>
+                <tr>
+                    <td>Yeonhee Yang</td>
+                    <td>Korea</td>
+                    <td>85%</td>
+                    <td>Investment &amp; Financial Risk Mmgt</td>
+                    <td>City</td>
+                </tr>
+                <tr>
+                    <td>Hiu Tung Ling</td>
+                    <td>Hong Kong </td>
+                    <td>85%</td>
+                    <td>Business &amp; Management</td>
+                    <td>Exeter</td>
+                </tr>
+                <tr>
+                    <td>Nikolina Vanessa Brenner</td>
+                    <td>Germany</td>
+                    <td>85%</td>
+                    <td>Management</td>
+                    <td>Leeds</td>
+                </tr>
+            </tbody>
+        </table>
+    
+
+<div id="moreinfo">
+<p class="moreinfo_title">????? ???????:</p>
+<P><A href="/farsi/admission/apply.aspx">??????? ???? ?????? ?? ???? ??????? ???????? ??????</A></P>
+<P><A href="/farsi/results/topfoundation.aspx">?????? ????? ????????? ???? ??????? ?? ???????</A></P>
+</div>
+     
+       
+    <!-- Close div content -->
+ </div>
+
+<!-- Close div contentwrapper -->
+ </div>
+<!-- Footer -->
+<div id="footer">
+
+
+    <!-- <a href="/farsi/error.aspx" style="display: none">Error</a> -->
+         
+          <ul>
+            <li class="first"><a href="/farsi/admission/help.aspx">?????? </a></li>
+            <li><a href="/farsi/admission/sitemap.aspx">???? ???? </a></li>
+            <li><a href="/farsi/admission/privacy.aspx">????? ??? ?????</a></li>
+            <!-- <li></li> -->
+          </ul>
+          <p>&copy; Study Group 2012</p>
+ <!-- Close footer div -->
+</div>
+<!-- Close container div -->
+</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2532429-8");
+pageTracker._trackPageview();
+
+} catch(err) {}
+</script>
+
+
+
+
+<!-- Google Code for Page Group 2 Remarketing List -->
+<script language="JavaScript" type="text/javascript"> 
+/* <![CDATA[ */
+var google_conversion_id = 1042260561;
+ var google_conversion_language = "en";
+ var google_conversion_format = "3";
+ var google_conversion_color = "666666";
+ var google_conversion_label = "HGx1CIHO9gEQ0cT-8AM";
+var google_conversion_value = 0;
+/* ]]> */
+</script> 
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"> </script> 
+<noscript> 
+<div style="display:inline;">
+<img height="1" width="1" border="0" alt="" src="http://www.googleadservices.com/pagead/conversion/1042260561/?label=HGx1CIHO9gEQ0cT-8AM&amp;guid=ON&amp;script=0"/> 
+</div>
+</noscript>
+<!-- End Google Code for Page Group 2 Remarketing List -->
+
+
+
+
+<!-- Eloqua code -->
+<script type="text/javascript" language="javascript" src="//www.studygroup.com/js/lib/elqNow/eloqua.min.js"></script>
+<!-- End Eloqua code -->
+
+</body>
+</html>

@@ -1,0 +1,609 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+			<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da" lang="da">
+			<head>
+			<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" />
+			<meta http-equiv="content-language" content="da" />
+			<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+			<title>Kontakt Team Benns | Dine rejseeksperter - rejser til hele verden</title>
+			<meta name="description" content="Kontakt Team Benns hvis du har brug for r&aring;dgivning til rejsen. Vores kompetente rejsekonsulenter sidder klar til at betjene dig." />
+			<meta name="keywords" content="Kontakt email telefon adresse fax" />
+			<meta http-equiv="imagetoolbar" content="false" />
+			<meta name="author" content="Intern1 ApS - www.intern1.dk" />
+			<meta name="robots" content="all" />
+			<meta name="google-site-verification" content="98ORUFnJdsMSH_OimQbrD3WpNLs1EMSEx34G_p9IpoI" />		
+			<link rel="canonical" href="http://www.team-benns.com/kontakt/" />
+			<link rel="shortcut icon" href="/gfx/favicon.ico" />
+			
+			<script type="text/javascript" src="/js/mootools1_11_full.js"></script>
+			<link type="text/css" rel="stylesheet" media="screen" href="/css/master.css.php" />
+			<link type="text/css" rel="stylesheet" media="screen" href="/js/jquery/jquery-ui-1.8.5.custom/css/custom-theme/jquery-ui-1.8.5.custom.css" />
+			
+			<link type="text/css" rel="stylesheet" media="screen" href="/css/caribien_sydamerika.css" />
+			
+			<!--[if IE 6]>
+			<link type="text/css" rel="stylesheet" media="screen" href="/css/ie6.css" />
+			<![endif]-->
+			<!--[if gte IE 7]>
+			<link type="text/css" rel="stylesheet" media="screen" href="/css/ie7.css" />
+			<![endif]-->
+			<link type="text/css" rel="stylesheet" media="screen" href="/css/layout_2010.css" />
+			<!--[if gte IE 9]>
+			<link rel="stylesheet" type="text/css" media="screen" href="/css/layout_2010_ie9.css" />
+			<![endif]--><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+			<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/jquery-ui.min.js"></script>
+			<script type="text/javascript">var $jq = jQuery.noConflict();</script>
+			<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&amp;language=da"></script>
+			
+			<script type="text/javascript" src="/js/common.js"></script>
+			<script type="text/javascript" src="/js/master.js.php"></script>
+			
+			
+			<!--[if lte IE 8]>
+			<script type="text/javascript" src="/js/topmenu.js"></script>
+			<![endif]-->
+			<!-- Slut nyt layout -->
+			
+
+                <link media="screen" href="/js/fancybox/fancybox/jquery.fancybox-1.3.4.css" type="text/css" rel="stylesheet">    
+                <script type="text/javascript" src="/js/fancybox/fancybox/jquery.fancybox-1.3.4.js"></script>
+                <script type="text/javascript" src="/js/fancybox/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+                <script type="text/javascript">
+                    $jq(function(){
+                        $jq('a[rel=fancy-gallery]').fancybox({
+                            "titlePosition" : "outside",
+                            "overlayColor" : "#000",
+                            "overlayOpacity" : 0.6, 
+                            "transitionIn" : "fade",
+                            "transitionOut" : "fade"         
+                        });
+                        
+                    });                           
+                </script>
+                
+                <!-- Leadform -->
+                <script src="/js/jquery.cookie.js"></script>  
+                <script>
+                    $jq(function(){        
+                        v = 0;
+                        if (!$jq.cookie("benns3_pagecount")){
+                            $jq.cookie("benns3_pagecount",  1, {path:"/", expires:30});
+                        } else {
+                            v = parseInt($jq.cookie("benns3_pagecount"));
+                            $jq.cookie("benns3_pagecount", 1*v + 1, {path:"/", expires:30});
+                        }
+                        if (v == 2){
+                            $jq.fancybox({type:"ajax", href:"/ajax/leadform.php", padding:0, overlayColor:"#000"})           
+                        }
+                    })
+                </script>
+                <!-- END Leadform -->
+                        
+			</head>
+			<body >
+				
+				
+				<script type="text/javascript">
+	
+				  var _gaq = _gaq || [];
+				  _gaq.push(['_setAccount', 'UA-946929-1']);
+				  _gaq.push(['_trackPageview']);
+				
+				  (function() {
+				    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				  })();
+				
+				</script>
+				
+				
+				
+				<a name="top" id="top"></a>
+				<div id="bodyWrapper">
+					<div id="topWrapper">
+						<div id="logo"><a href="/"><img src="/gfx/2010/logo.png" alt="" width="324" height="150" /></a></div>
+						<div id="topSlides">
+							
+						</div>
+					
+				</div>
+                <div id="leadform" style="display:none">TEST</div>
+				<div id="contentWrapper">
+							<div id="contentLeft">
+							<div id="tbvMainMenu">
+								
+			<div class="boxLeftRounded">
+				<div class="tbv_menu_top">&nbsp;</div>
+				<div style="background: #DFDB00 url('/gfx/venstremenu/venstremenu_repeat_y.png'); repeat-y;">
+					<a href="/caribien-sydamerika/" title="G? til forsiden for Caribien og Sydamerika" style="text-decoration:none; color:#000000;"><span style="display:block; margin:0 0 4px 10px; font-size:14px;">CARIBIEN OG SYDAMERIKA</span></a>
+					<ul class="tbvmenu collapsible" style="margin:0 10px 0 10px;">
+<li><a href="/caribien-sydamerika/destinationsguide/" title="Alle Rejsem?l"><div><span>Alle Rejsem?l</span></div></a>
+<li><a href="#" title="Oversigtskort" onclick="aabnVerdenkort($jq(this)); return false;" rel='{"tema_id":"8", "type_id":"6", "env_id":"8"}'><span>Oversigtskort</span></a></li>
+<li><a href="/caribien-sydamerika/betingelser/" title="undersider"><span>Betingelser</span></a>
+												<ul class="acitem">	<li><a href="http://www.team-benns.com/eksotiske-rejser/eksotiske-rejser-betingelser/" title="Betingelser Eksotiske rejser"><span>Betingelser Eksotiske rejser</span></a></li>	<li><a href="http://www.team-benns.com/eksotiske-rejser/betingelser-rundrejser" title="Betingelser Rundrejser"><span>Betingelser Rundrejser</span></a></li>	</ul>
+											</li><li><a href="/caribien-sydamerika/drommerejser/" title="Den ultimative dr?mmerejse"><span>Dr?mmerejser</span></a></li>
+<li><a href="/caribien-sydamerika/eventyrrejse/" title="Den uforglemmelige eventyrrejse"><span>Eventyrrejser</span></a></li>
+<li><a href="/caribien-sydamerika/familieferie/" title="Den vidunderlige familieferie"><span>Familierejser</span></a></li>
+<li><a href="/caribien-sydamerika/bryllupsrejser/" title="Uforglemmelige bryllupsrejser til hele verden med TEAM BENNS"><span>Bryllupsrejser</span></a></li>
+<li><a href="/caribien-sydamerika/rejseforedrag/" title="Gratis Rejseforedrag med Timm Vladimir d. 12/4"><span>Gratis rejseforedrag</span></a></li>
+<li><a href="/caribien-sydamerika/hvem-er-vi/" title="Hvem er vi?"><span>Hvem er vi</span></a></li>
+<li><a title='Se vores events for Caribien og Sydamerika rejser' href='/caribien-sydamerika/events/'><span>Events og rejseforedrag</span></a></li></ul>
+
+					<br />
+					<br />
+				</div>
+				<div style="height: 77px; background: #DFDB00 url('/gfx/venstremenu/venstremenu_soegning.png'); no-repeat;">
+					<div style="padding-top:27px;">
+						
+					<form name="skiftDestForm" action="" method="post">
+						<table border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tr>
+								<td><select size="1" style="width:120px; margin-left:10px;" name="bestem_destination" onchange="if(this.options[this.selectedIndex].value!='') { window.location = this.options[this.selectedIndex].value}">
+<option value="">&nbsp;&nbsp; v?lg rejsem?l</option>
+<option value="http://www.team-benns.com/caribien-sydamerika/caribien/" style="font-weight:bold; background-color:#eee;">Caribien</option>
+<option value="http://www.team-benns.com/caribien-sydamerika/caribien/barbados/" >&nbsp;&nbsp;&nbsp; &middot; Barbados</option>
+<option value="http://www.team-benns.com/caribien-sydamerika/caribien/den-dominikanske-republik/" >&nbsp;&nbsp;&nbsp; &middot; Den Dominikanske Republik</option>
+<option value="http://www.team-benns.com/caribien-sydamerika/caribien/st-lucia/" >&nbsp;&nbsp;&nbsp; &middot; St. Lucia</option>
+<option value="http://www.team-benns.com/caribien-sydamerika/cuba/" style="font-weight:bold; background-color:#eee;">Cuba</option>
+<option value="http://www.team-benns.com/caribien-sydamerika/cuba/rundrejser-i-cuba/" >&nbsp;&nbsp;&nbsp; &middot; Rundrejser i Cuba</option>
+<option value="http://www.team-benns.com/caribien-sydamerika/dansk-vestindien/" style="font-weight:bold; background-color:#eee;">Dansk Vestindien</option>
+<option value="http://www.team-benns.com/caribien-sydamerika/dansk-vestindien/st-croix/" >&nbsp;&nbsp;&nbsp; &middot; St. Croix</option>
+<option value="http://www.team-benns.com/caribien-sydamerika/dansk-vestindien/st-john/" >&nbsp;&nbsp;&nbsp; &middot; St. John</option>
+<option value="http://www.team-benns.com/caribien-sydamerika/dansk-vestindien/st-thomas/" >&nbsp;&nbsp;&nbsp; &middot; St. Thomas</option>
+<option value="http://www.team-benns.com/caribien-sydamerika/ecuador/" style="font-weight:bold; background-color:#eee;">Ecuador</option>
+<option value="http://www.team-benns.com/caribien-sydamerika/ecuador/amazonjunglen/" >&nbsp;&nbsp;&nbsp; &middot; Amazonjunglen</option>
+<option value="http://www.team-benns.com/caribien-sydamerika/ecuador/galapagos/" >&nbsp;&nbsp;&nbsp; &middot; Galapagos</option>
+<option value="http://www.team-benns.com/caribien-sydamerika/ecuador/nordlige-andesbjerge/" >&nbsp;&nbsp;&nbsp; &middot; Nordlige Andesbjerge</option>
+<option value="http://www.team-benns.com/caribien-sydamerika/ecuador/quito/" >&nbsp;&nbsp;&nbsp; &middot; Quito</option>
+<option value="http://www.team-benns.com/caribien-sydamerika/ecuador/rundrejser-i-ecuador/" >&nbsp;&nbsp;&nbsp; &middot; Rundrejser i Ecuador</option>
+<option value="http://www.team-benns.com/caribien-sydamerika/peru/" style="font-weight:bold; background-color:#eee;">Peru</option>
+<option value="http://www.team-benns.com/caribien-sydamerika/peru/rundrejser-i-peru/" >&nbsp;&nbsp;&nbsp; &middot; Rundrejser i Peru</option>
+</select>
+</td>
+								<td><img src="/gfx/venstremenu/soeg_knap.png" width="47" height="47" onclick="if( document.forms.skiftDestForm.bestem_destination.options[document.forms.skiftDestForm.bestem_destination.selectedIndex].value != '') { document.location = document.forms.skiftDestForm.bestem_destination.options[document.forms.skiftDestForm.bestem_destination.selectedIndex].value; }" style="cursor:pointer; cursor:hand;" /></td>
+							</tr>
+						</table>
+					</form>
+						<br />
+
+					</div>
+				</div>
+				<div style="background: #DFDB00 url('/gfx/venstremenu/venstremenu_repeat_y.png'); repeat-y;">
+					<div style="display:block; margin-left:10px;">
+						<form action="/ajax/soegning/" method="get">
+							<img src="/gfx/search.gif" id="i" alt="" style="border:0; margin: 8px 0 0 4px; position: absolute;" />
+							<input class="formTextStdM" id="q" name="q" style="width: 122px;" type="text" />
+						</form>
+					</div>
+					<br />
+				</div>
+
+				<div class="tbv_menu_bund">&nbsp;</div>
+			</div>
+							</div>
+							
+								
+								
+								
+								
+								
+								
+								
+							</div>
+			<div id="topMenu">
+				
+	<ul id="topnav" class="clearfix">
+		<li id="nav-rejseoplevelser" class="first-level"><a href="#" class="first-level"><span>Rejseoplevelser</span></a>
+			<div class="topnav-dd-outer">
+				<div class="topnav-dd-inner clearfix">
+					<ul class="two-col clearfix">
+
+						<li class="overskrift">Overs?iske rejser</li>
+						<li><a href="/safari/" title="Afrika" class="underPunkt" style="font-weight:normal;">Afrika</a></li>
+						<li><a href="/australien/" title="Australien" class="underPunkt" style="font-weight:normal;">Australien</a></li>
+						<li><a href="/canada/" title="Canada" class="underPunkt" style="font-weight:normal;">Canada</a></li>
+						<li><a href="/caribien-sydamerika/" title="Caribien og Sydamerika" class="underPunkt" style="font-weight:normal;">Caribien</a></li>
+						<li><a href="/mexico/" title="Mexico" class="underPunkt" style="font-weight:normal;">Mexico</a></li>
+						<li><a href="/new-zealand/" title="New Zealand" class="underPunkt" style="font-weight:normal;">New Zealand</a></li>
+						<li><a href="/caribien-sydamerika/" title="Sydamerika" class="underPunkt" style="font-weight:normal;">Sydamerika</a></li>
+						<li><a href="/usa/" title="USA" class="underPunkt" style="font-weight:normal;">USA</a></li>
+						<li><a href="/osten-asien/" title="Rejser til ?sten og Asien" class="underPunkt" style="font-weight:normal;">?sten &amp; Asien</a></li>
+
+						<li class="overskrift">&nbsp;</li>
+						<li><a href="/krydstogter/" title="Cruises og Krydstogter" class="underPunkt" style="font-size:14px;">Krydstogter</a></li>
+
+						<li class="overskrift">&nbsp;</li>
+						<li><a href="/rundrejser/" title="Rundrejser" class="underPunkt" style="font-size:14px;">Rundrejser</a></li>
+
+					</ul>
+					<ul class="two-col clearfix">
+
+						<li class="overskrift">Rejser i Europa</li>
+						<li><a href="/skiferie/" title="Skiferie med TEAM BENNS" class="underPunkt" style="font-weight:normal;">Skiferie</a></li>
+						<li><a href="/spa-wellness/" title="Spa og wellness" class="underPunkt" style="font-weight:normal;">Spa/wellness</a></li>
+						<li><a href="/disneyland-paris/" title="Disney? Paris" class="underPunkt" style="font-weight:normal;">Disney? Paris</a></li>
+						<li><a href="/europarejser/busrejser-berlin-hamborg/" title="Med bus til Berlin" class="underPunkt" style="font-weight:normal;">Busrejser</a></li>
+						<li><a href="/europarejser/" title="Storbyferie" class="underPunkt" style="font-weight:normal;">Storbyferie</a></li>
+
+						<li class="overskrift">&nbsp;</li>
+						<li><a href="/studierejser/grupperejser/" title="Grupperejser" class="underPunkt" style="font-size:14px;">Grupperejser</a></li>
+						<li><a href="/aktivrejser/" title="Aktive grupperejser" class="underPunkt" style="font-weight:normal;">Aktivrejser</a></li>
+						<li><a href="/firmarejser-grupper/" title="Firmarejser" class="underPunkt" style="font-weight:normal;">Firmarejser</a></li>
+						<li><a href="/skiferie/" title="Skiferie for grupper" class="underPunkt" style="font-weight:normal;">Skiferie</a></li>
+						<li><a href="/studierejser/" title="Studierejser" class="underPunkt" style="font-weight:normal;">Studierejser</a></li>
+
+						<li class="overskrift">&nbsp;</li>
+						<li class="overskrift">Book online</li>
+						<li><a href="/disneyland-paris/" title="Disney Paris" class="underPunkt" style="font-weight:normal;">Disney? Paris</a></li>
+						<li><a href="/skiferie/" title="Skiferie med TEAM BENNS" class="underPunkt" style="font-weight:normal;">Skiferie</a></li>
+						<li><a href="/europarejser/" title="Europarejser" class="underPunkt" style="font-weight:normal;">Storbyferie &amp; Overs?isk</a></li>
+					</ul>
+				</div>
+			</div>
+			<!--/ .topnav-dd-outer, .topnav-dd-inner -->
+		</li>
+		<li id="nav-nyheder-og-tilbud" class="first-level"><a href="#" class="first-level"><span>Nyheder &amp; Tilbud</span></a>
+			<div class="topnav-dd-outer">
+				<div class="topnav-dd-inner clearfix">
+					
+		<ul class="two-col clearfix">
+				<li><a href="/skiferie/nyheder-og-tilbud/" title="Nyheder og tilbud Skiferie">Skiferie</a></li>
+			
+				<li><a href="/studierejser/nyheder-og-tilbud/" title="Nyheder og tilbud Studierejser">Studierejser</a></li>
+			
+				<li><a href="/europarejser/nyheder-og-tilbud/" title="Nyheder og tilbud Europarejser">Europarejser</a></li>
+			
+				<li><a href="/caribien-sydamerika/nyheder-og-tilbud/" title="Nyheder og tilbud Caribien og Sydamerika">Caribien og Sydamerika</a></li>
+			
+				<li><a href="/krydstogter/nyheder-og-tilbud/" title="Nyheder og tilbud Krydstogter">Krydstogter</a></li>
+			
+				</ul>
+				<ul class="two-col clearfix">
+				<li><a href="/usa/nyheder-og-tilbud/" title="Nyheder og tilbud USA">USA</a></li>
+			
+				<li><a href="/australien/nyheder-og-tilbud/" title="Nyheder og tilbud Australien">Australien</a></li>
+			
+				<li><a href="/safari/nyheder-og-tilbud/" title="Nyheder og tilbud Safari">Safari</a></li>
+			
+				<li><a href="/canada/nyheder-og-tilbud/" title="Nyheder og tilbud Canada">Canada</a></li>
+			
+			<li><a href="/skiferie/tilbud/" title="Ski tilbud">Ski</a>
+		</ul>
+				</div>
+			</div>
+			<!--/ .topnav-dd-outer, .topnav-dd-inner -->
+		</li>
+		<li id="nav-nyhedsbrev" class="first-level"><a href="/nyhedsbrev/" title="Nyhedsbrev" class="first-level"><span>Nyhedsbrev</span></a></li>
+		<li id="nav-forsikring" class="first-level"><a href="/forsikring/" title="Forsikring" class="first-level"><span>Forsikring</span></a></li>
+		<li id="nav-kataloger" class="first-level"><a href="/kataloger/" title="Rejsekataloger" class="first-level"><span>Kataloger</span></a></li>
+		<li id="nav-info-og-kontakt" class="first-level"><a href="/kontakt/" title="Kontakt TEAM BENNS" class="first-level"><span>Info. og kontakt</span></a>
+			<div class="topnav-dd-outer">
+				<div class="topnav-dd-inner clearfix">
+					<ul class="two-col clearfix" style="text-align:right;">
+						<li><a href="/om/" title="Om TEAM BENNS">Om TEAM BENNS</a></li>
+						<li><a href="/kontakt/" title="Kontakt TEAM BENNS">Kontakt TEAM BENNS</a></li>
+						<li><a href="/rejseforedrag/" title="Rejseforedrag">Rejseforedrag</a></li>
+					</ul>
+					<ul class="two-col clearfix" style="text-align:right;">
+						<li><a href="/job/" title="TEAM BENNS Job">Job hos TEAM BENNS</a></li>
+						<li><a href="/sikker-rejse/" title="Rejs sikkert med TEAM BENNS">Sikkerhed</a></li>
+						<li><a href="http://blog.team-benns.com/?show-lang" title="Weblog">Blog</a></li>
+						<li><a href="/gavekort/" title="Gavekort i julegave">Gavekort</a></li>
+					</ul>
+				</div>
+			</div>
+		</li>
+	</ul>
+			</div>
+			<div class="nav" id="broedkrumme" xmlns:v="http://rdf.data-vocabulary.org/#">
+			 	<span typeof="v:Breadcrumb"><a href="/" title="Team Benns Forside" rel="v:url" property="v:title">Forside</a></span> <img src="/gfx/icons/nav_arrow_green.png" width="3" height="6" alt="" /> <span typeof="v:Breadcrumb"><a href="/caribien-sydamerika/" title="Caribien og Sydamerika" >Caribien og Sydamerika</a></span> <img src="/gfx/icons/nav_arrow_green.png" width="3" height="6" alt="" /> <span typeof="v:Breadcrumb"><a href="/caribien-sydamerika/kontakt/" title="Kontakt" rel="v:url" property="v:title">Kontakt</a></span>
+			</div>
+					<div id="contentWideCenter">
+						
+						<div class="boxCenterRounded">
+							<div><img src="/gfx/center_box_top.png" width="557" height="20" alt="" /></div>
+							<div class="content"><h1>Kontakt os</h1><p>
+	&nbsp;</p>
+<p>
+	&nbsp;<img align="middle" alt="" height="222" src="/fck_upload/kontakos_saelger.jpg" width="530" /></p>
+<p>
+	&nbsp;</p>
+<p>
+	Herunder finder du alle de informationer, du beh&oslash;ver for at kontakte os.</p>
+<p>
+	&nbsp;</p>
+<table cellpadding="1" cellspacing="1" width="400">
+	<tbody>
+		<tr>
+			<td>
+				<strong>TEAM BENNS</strong><br />
+				N&oslash;rregade 51<br />
+				7500 Holstebro</td>
+			<td>
+				<strong>Tlf./Fax:</strong><br />
+				<table border="0" cellpadding="0" cellspacing="0">
+					<tbody>
+						<tr>
+							<td>
+								Tlf. &nbsp;</td>
+							<td>
+								: 65 65 65 65</td>
+						</tr>
+						<tr>
+							<td>
+								Fax: &nbsp;</td>
+							<td>
+								: 96 10 02 52</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<table cellpadding="1" cellspacing="1" width="550">
+	<tbody>
+		<tr>
+			<td>
+				<h1>
+					<strong>Grupperejser</strong></h1>
+				<p>
+					Grupperejser, Studierejser</p>
+			</td>
+			<td>
+				<p>
+					&nbsp;</p>
+				<p>
+					<a href="mailto:group@team-benns.com"><u>group@team-benns.com</u></a></p>
+			</td>
+			<td>
+				<p>
+					&nbsp;</p>
+				<p>
+					Tlf. 65 65 65 65</p>
+			</td>
+			<td>
+				<p>
+					&nbsp;</p>
+				<p>
+					<u><a href="http://www.team-benns.com/studierejser/rejsekonsulenter/"><u>Se rejsekonsulenter</u></a></u></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Aktivrejser</td>
+			<td>
+				<a href="mailto:group@team-benns.com"><u>group@team-benns.com</u></a></td>
+			<td>
+				Tlf. 65 65 65 69</td>
+			<td>
+				<a href="http://www.team-benns.com/aktivrejser/rejsekonsulenter/"><u>Se rejsekonsulenter</u></a></td>
+		</tr>
+		<tr>
+			<td>
+				Firmarejser &amp; private grupper</td>
+			<td>
+				<a href="mailto:special@team-benns.com"><u>special@team-benns.com</u></a></td>
+			<td>
+				Tlf. 65 65 65 66</td>
+			<td>
+				<u><u><a href="http://www.team-benns.com/firmarejser-grupper/rejsekonsulenter/"><u>Se rejsekonsulenter</u></a></u></u></td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					Skirejser</p>
+			</td>
+			<td>
+				<a href="mailto:ski@team-benns.com"><u>ski@tbski.dk</u></a></td>
+			<td>
+				Tlf. 96 75 07 00</td>
+			<td>
+				<u><u><a href="http://www.team-benns.com/skiferie/skirejser-ski-profiler/"><u>Se rejsekonsulenter</u></a></u></u></td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+				<h1>
+					<strong>Individuelle rejser</strong></h1>
+			</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+				Skirejser</td>
+			<td>
+				<a href="mailto:ski@team-benns.com"><u>ski@tbski.dk</u></a></td>
+			<td>
+				Tlf. 96 75 07 00</td>
+			<td>
+				<u><a href="http://www.team-benns.com/skiferie/skirejser-ski-profiler/"><u>Se rejsekonsulenter</u></a></u></td>
+		</tr>
+		<tr>
+			<td>
+				Storbyrejser</td>
+			<td>
+				<a href="mailto:storby@team-benns.com"><u>storby@team-benns.com</u></a></td>
+			<td>
+				Tlf. 65 65 65 62</td>
+			<td>
+				<u><a href="http://www.team-benns.com/europarejser/rejsekonsulenter/"><u>Se rejsekonsulenter</u></a></u></td>
+		</tr>
+		<tr>
+			<td>
+				Krydstogter</td>
+			<td>
+				<a href="mailto:cruise@team-benns.com"><u>cruise@team-benns.com</u></a></td>
+			<td>
+				Tlf. 65 65 65 64</td>
+			<td>
+				<u><a href="http://www.team-benns.com/krydstogter/rejsekonsulenter/"><u>Se rejsekonsulenter</u></a></u></td>
+		</tr>
+		<tr>
+			<td>
+				USA, Canada, Mexico &amp; Island</td>
+			<td>
+				<a href="mailto:usa@team-benns.com"><u>usa@team-benns.com</u></a></td>
+			<td>
+				Tlf. 65 65 65 61</td>
+			<td>
+				<u><a href="http://www.team-benns.com/usa/din-rejsekonsulent/"><u>Se rejsekonsulenter</u></a></u></td>
+		</tr>
+		<tr>
+			<td>
+				Australien &amp; New Zealand</td>
+			<td>
+				<a href="mailto:australien@team-benns.com"><u>australien@team-benns.com</u></a></td>
+			<td>
+				Tlf. 65 65 65 67</td>
+			<td>
+				<u><a href="http://www.team-benns.com/australien/din-rejsekonsulent/"><u>Se rejsekonsulenter</u></a></u></td>
+		</tr>
+		<tr>
+			<td>
+				Caribien &amp; Sydamerika</td>
+			<td>
+				<a href="mailto:salg@beyondsenses.dk"><u>salg@team-benns.com</u></a></td>
+			<td>
+				Tlf. 65 65 65 62</td>
+			<td>
+				<u><a href="http://www.team-benns.com/eksotiske-rejser/rejsekonsulenter/"><u>Se rejsekonsulenter</u></a></u></td>
+		</tr>
+		<tr>
+			<td>
+				Asien /&nbsp;&Oslash;sten</td>
+			<td>
+				<a href="mailto:asien@team-benns.com"><u>asien@team-benns.com</u></a></td>
+			<td>
+				Tlf. 65 65 65 60</td>
+			<td>
+				<u><u><a href="http://www.team-benns.com/osten-asien/rejsekonsulenter/"><u>Se rejsekonsulenter</u></a></u></u></td>
+		</tr>
+		<tr>
+			<td>
+				Spa / Wellness rejser Europa</td>
+			<td>
+				<a href="mailto:salg@beyondsenses.dk"><u>salg@team-benns.com</u></a></td>
+			<td>
+				Tlf. 65 65 65 62</td>
+			<td>
+				<u><a href="http://www.team-benns.com/spa-wellness/rejsekonsulenter/"><u>Se rejsekonsulenter</u></a></u></td>
+		</tr>
+		<tr>
+			<td>
+				Safari</td>
+			<td>
+				<a href="mailto:safari@team-benns.com"><u>safari@team-benns.com</u></a></td>
+			<td>
+				Tlf. 65 65 65 68</td>
+			<td>
+				<u><a href="http://www.team-benns.com/safari/rejsekonsulenter/"><u>Se rejsekonsulenter</u></a></u></td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<h1>
+	&Aring;bningstider:</h1>
+<p>
+	&nbsp;</p>
+<p>
+	<span style="font-size: small"><strong>Studierejser</strong></span> / <span style="font-size: small"><strong>Firmarejser</strong></span> / <strong>Aktivrejser</strong></p>
+<table cellpadding="1" cellspacing="1" width="300">
+	<tbody>
+		<tr>
+			<td>
+				Mandag - torsdag</td>
+			<td>
+				kl. 08.00 - 16.00</td>
+		</tr>
+		<tr>
+			<td>
+				Fredag</td>
+			<td>
+				kl. 08.00 - 15.00</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;</p>
+<p>
+	<span style="font-size: small"><strong>Skirejser</strong></span></p>
+<p>
+	<a href="http://www.team-benns.com/skiferie/skirejser-ski-profiler/">Klik her!</a></p>
+<p>
+	<br />
+	&nbsp;</p>
+<p>
+	<span style="font-size: small"><strong>Andre individuelle rejser</strong></span></p>
+<table cellpadding="1" cellspacing="1" width="300">
+	<tbody>
+		<tr>
+			<td width="155">
+				Mandag - fredag</td>
+			<td>
+				kl. 08.30 - 17.00</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	CVR-nummer:&nbsp; 25 49 77 59</p>
+
+						</div>
+						<div class="boxBottom"><img src="/gfx/center_box_bottom.png" width="557" height="20" alt="" /></div>
+					</div>
+					</div>
+			</div>
+				<div id="footer" class="footer">
+					<div id="intern1" class="intern1"><a href="/fend-bend/?f=a0661fc63356ba5240e14e5c6b95c0ca&q=P3NpZGU9a29udGFrdA==" title="" rel="nofollow"><img src="/gfx/spacer.gif" width="8" height="8" /></a>
+						<a href="http://www.team-benns.com/webdesign/" title="Webdesign og programmering: Intern1 ApS" target="_blank">Intern1 ApS</a>
+					</div>
+					Telefon (+45) 65 65 65 65  -  Medlem af Rejsegarantifonden nr. 1400 - <a href="/betingelser/" title="Rejsebetingelser"> Rejsebetingelser</a>
+					<div id="footerLinks">
+						
+					</div>
+				</div>
+			</div>
+			<div id="bodyBottomImage"></div>
+
+			<script type="text/javascript">
+				$jq(function(){
+					$jq("#topSlides").load("/ajax/top_billeder.php?tema_id=8", function() {
+								
+					});
+				});
+			</script>
+			
+			
+
+			<!-- Genereret p? 0.057368040084839 sekunder -->
+			
+			
+		</body>
+		</html>
